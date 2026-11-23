@@ -66,9 +66,19 @@
         [
           "/privacy/",
           "Privacy"
+        ],
+        [
+          "/updates/",
+          "Updates"
         ]
       ],
-      "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide."
+      "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide.",
+      "report_title": "Spot something out of date?",
+      "report_body": "Korean entry, tax and transit rules change often. This guide was last checked on {date}. If something here no longer matches what you saw, tell us and we will re-check it against the official source.",
+      "report_cta": "Report an update",
+      "report_subject": "Nadri update request",
+      "report_mail": "Page: {url}\n\nWhat has changed:\n\nWhere you saw it (link or place), if you can share it:\n",
+      "updates": "Updates"
     },
     "ja": {
       "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
@@ -113,9 +123,19 @@
         [
           "/privacy/",
           "プライバシー(英語)"
+        ],
+        [
+          "/updates/",
+          "更新履歴"
         ]
       ],
-      "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。"
+      "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。",
+      "report_title": "情報が古くなっていませんか?",
+      "report_body": "韓国の入国・免税・交通のルールはよく変わります。このガイドの最終確認日は{date}です。実際と違う点があれば教えてください。公式情報で確認し直します。",
+      "report_cta": "更新をリクエスト",
+      "report_subject": "Nadri 更新リクエスト",
+      "report_mail": "ページ: {url}\n\n変わっていた点:\n\n確認した場所やリンク(わかれば):\n",
+      "updates": "更新履歴"
     },
     "zh-tw": {
       "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
@@ -160,9 +180,19 @@
         [
           "/privacy/",
           "隱私權(英文)"
+        ],
+        [
+          "/updates/",
+          "更新紀錄"
         ]
       ],
-      "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。"
+      "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。",
+      "report_title": "發現資訊過時了嗎?",
+      "report_body": "韓國的入境、退稅和交通規定常常改變。這篇指南最後確認日期是 {date}。如果和你實際看到的不一樣,請告訴我們,我們會再依官方資料確認。",
+      "report_cta": "回報需要更新",
+      "report_subject": "Nadri 更新回報",
+      "report_mail": "頁面: {url}\n\n哪裡不一樣了:\n\n在哪裡看到的(連結或地點,方便的話):\n",
+      "updates": "更新紀錄"
     },
     "ko": {
       "tagline": "지금 사도 되는지, 데이터로 확인하고 알려드려요.",
@@ -195,13 +225,24 @@
         [
           "/privacy/",
           "개인정보(영문)"
+        ],
+        [
+          "/updates/",
+          "업데이트 기록"
         ]
       ],
-      "foot_note": "Nadri는 독립 정보 사이트입니다. 가격과 일정은 판매처 사정으로 바뀔 수 있습니다."
+      "foot_note": "Nadri는 독립 정보 사이트입니다. 가격과 일정은 판매처 사정으로 바뀔 수 있습니다.",
+      "report_title": "바뀐 정보를 발견했나요?",
+      "report_body": "한국의 입국·면세·교통 규정은 자주 바뀝니다. 이 페이지의 마지막 확인일은 {date}입니다. 실제와 다른 점이 있으면 알려주세요. 공식 출처로 다시 확인하겠습니다.",
+      "report_cta": "업데이트 요청하기",
+      "report_subject": "Nadri 업데이트 요청",
+      "report_mail": "페이지: {url}\n\n바뀐 내용:\n\n확인한 곳(링크나 장소, 가능하면):\n",
+      "updates": "업데이트 기록"
     }
   },
   "head_meta": [
     "<meta name='impact-site-verification' value='ffe61ff4-9b52-4121-91fd-fa025aca5e29'>",
     "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">\n  (function () {\n      var script = document.createElement(\"script\");\n      script.async = 1;\n      script.setAttribute(\"data-cmp-ab\",\"2\");\n      script.src = 'https://tpembars.com/NjA1NjAy.js?t=605602';\n      document.head.appendChild(script);\n  })();\n</script>"
-  ]
+  ],
+  "contact_email": "gibyeol.official@gmail.com"
 }

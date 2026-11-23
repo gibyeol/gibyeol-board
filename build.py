@@ -195,6 +195,7 @@ def page(lang, meta, body_html, path, alternates):
 <main id="main">
 {header_block}
 {('<div class="home-body">' + body_html + '</div>') if meta.get('home') else ('<article class="body">' + body_html + '</article>')}
+{report_box(lang, meta, path)}
 </main>
 <footer class="site-foot">
   <p class="foot-brand"><strong>Nadri</strong> {ui['tagline']}</p>
@@ -204,6 +205,21 @@ def page(lang, meta, body_html, path, alternates):
 </body>
 </html>
 """
+
+
+def report_box(lang, meta, path):
+    """Guide pages get an 'out of date?' box with a prefilled email (no backend needed)."""
+    ui = SITE["ui"][lang]
+    if meta.get("home") or not meta.get("updated") or meta.get("report") == "no" or "report_cta" not in ui:
+        return ""
+    from urllib.parse import quote
+    url = SITE["base_url"] + path
+    href = (f"mailto:{SITE['contact_email']}?subject={quote(ui['report_subject'] + ': ' + meta.get('title', ''))}"
+            f"&body={quote(ui['report_mail'].format(url=url))}")
+    return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["report_title"]}</h2>'
+            f'<p>{ui["report_body"].format(date=meta["updated"])}</p>'
+            f'<p><a class="report-btn" href="{html.escape(href)}">{ui["report_cta"]}</a> '
+            f'<a class="report-log" href="/updates/">{ui["updates"]}</a></p></aside>')
 
 
 def url_for(lang, slug):

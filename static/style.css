@@ -112,3 +112,11 @@ h1,h2,.patch b{text-wrap:balance}
 .lang-ja h1,.lang-zh-tw h1,.lang-ko h1{word-break:keep-all;letter-spacing:-.01em}
 
 .lang-ko,.lang-ja .patch b,.lang-zh-tw .patch b{word-break:keep-all}
+
+/* report-an-update box (end of every guide) */
+.report{box-sizing:border-box;max-width:calc(var(--measure) + 6rem);margin:1.25rem clamp(0rem,4vw,3rem) 0;border-radius:4px;padding:1.1rem 1.25rem;background:var(--paper);border-left:4px solid var(--yellow)}
+.report h2{font-size:1.1rem;margin:0 0 .35rem}
+.report p{margin:.35rem 0;color:var(--ink-soft)}
+.report-btn{display:inline-block;margin-right:1rem;padding:.45rem .9rem;background:var(--ink);color:#fff;font-weight:600;text-decoration:none;border-radius:4px}
+.report-btn:hover,.report-btn:focus-visible{background:var(--celadon)}
+.report-log{font-weight:500}
