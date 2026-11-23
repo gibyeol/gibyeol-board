@@ -44,6 +44,8 @@ Almost everything you will do in Korea runs through your phone: maps, taxis, tra
 - **Physical SIM.** Picked up at the airport. Useful if your phone has no eSIM.
 - **Pocket wifi.** Good for groups sharing one connection, but it is one more thing to charge and return.
 
+{{aff:klook_esim|Get an SKT 5G eSIM on Klook}}
+
 {{aff:airalo_kr|Compare Korea eSIM plans}}
 
 ## 4. Money and transport cards

@@ -1,10 +1,43 @@
 {
   "_how": "Paste the approved tracking URL into url. Empty url = the button is hidden everywhere. Keys are used in content as {{aff:key|Button text}}.",
-  "airalo_kr":      {"program": "Airalo", "label": "Get a Korea eSIM", "url": ""},
-  "klook_esim":     {"program": "Klook", "label": "Korea eSIM on Klook", "url": ""},
-  "klook_airport":  {"program": "Klook", "label": "Incheon airport transfer options", "url": ""},
-  "klook_wowpass":  {"program": "Klook", "label": "WOWPASS card on Klook", "url": ""},
-  "agoda_seoul":    {"program": "Agoda", "label": "Hotels in Seoul", "url": ""},
-  "yesstyle_oy":    {"program": "YesStyle", "label": "Shop K-beauty from home", "url": ""},
-  "coupang_board":  {"program": "Coupang Partners", "label": "쿠팡에서 보기", "url": ""}
+  "airalo_kr": {
+    "program": "Airalo",
+    "label": "Get a Korea eSIM",
+    "url": ""
+  },
+  "klook_esim": {
+    "program": "Klook",
+    "label": "SKT 5G eSIM on Klook",
+    "url": "https://klook.tpx.li/emhlsKQo"
+  },
+  "klook_esim_alt": {
+    "program": "Klook",
+    "label": "Second Korea eSIM option on Klook (product to confirm)",
+    "url": "https://klook.tpx.li/NYU2lYBJ"
+  },
+  "klook_airport": {
+    "program": "Klook",
+    "label": "Incheon airport transfer options",
+    "url": ""
+  },
+  "klook_wowpass": {
+    "program": "Klook",
+    "label": "WOWPASS card on Klook",
+    "url": ""
+  },
+  "agoda_seoul": {
+    "program": "Agoda",
+    "label": "Hotels in Seoul",
+    "url": ""
+  },
+  "yesstyle_oy": {
+    "program": "YesStyle",
+    "label": "Shop K-beauty from home",
+    "url": ""
+  },
+  "coupang_board": {
+    "program": "Coupang Partners",
+    "label": "쿠팡에서 보기",
+    "url": ""
+  }
 }
