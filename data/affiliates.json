@@ -17,8 +17,13 @@
   },
   "klook_airport": {
     "program": "Klook",
-    "label": "Incheon airport transfer options",
-    "url": ""
+    "label": "AREX airport train ticket on Klook",
+    "url": "https://klook.tpx.li/u3y9PkpB"
+  },
+  "klook_tmoney": {
+    "program": "Klook",
+    "label": "T-money card, airport pick-up",
+    "url": "https://klook.tpx.li/Itdr6BRe"
   },
   "klook_wowpass": {
     "program": "Klook",

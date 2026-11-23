@@ -60,6 +60,8 @@ Credit cards are accepted almost everywhere in shops and restaurants. Where you 
 - **WOWPASS** is a prepaid card for visitors that combines currency exchange, card payments and T-money in one. You load it at machines in major stations with your home currency.
 - **Climate Card** is Seoul's unlimited transit pass, with short-term versions for visitors. It only works in Seoul, so skip it if you are mostly elsewhere.
 
+{{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
+
 {{aff:klook_wowpass|Pre-order a WOWPASS}}
 
 ## 5. Apps to download before you fly
@@ -83,7 +85,7 @@ In February 2026 the Korean government conditionally approved Google's request t
 
 The airport railroad (AREX) and limousine buses run to central Seoul, and both take a T-money card. If you land late, arrive with heavy bags or travel as a group, a pre-booked transfer is often simpler.
 
-{{aff:klook_airport|See airport transfer options}}
+{{aff:klook_airport|Book an AREX airport train ticket}}
 
 ## Sources
 
