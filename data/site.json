@@ -201,6 +201,7 @@
     }
   },
   "head_meta": [
-    "<meta name='impact-site-verification' value='ffe61ff4-9b52-4121-91fd-fa025aca5e29'>"
+    "<meta name='impact-site-verification' value='ffe61ff4-9b52-4121-91fd-fa025aca5e29'>",
+    "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">\n  (function () {\n      var script = document.createElement(\"script\");\n      script.async = 1;\n      script.setAttribute(\"data-cmp-ab\",\"2\");\n      script.src = 'https://tpembars.com/NjA1NjAy.js?t=605602';\n      document.head.appendChild(script);\n  })();\n</script>"
   ]
 }
