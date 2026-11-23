@@ -163,7 +163,7 @@ def page(lang, meta, body_html, path, alternates):
                        for l, u in alternates.items())
     if "en" in alternates:
         hreflang += f'<link rel="alternate" hreflang="x-default" href="{BASE}{alternates["en"]}">'
-    head_extra = ""
+    head_extra = "".join(SITE.get("head_meta", []))
     if meta.get("disclosure") == "yes":
         body_html = f'<p class="disclosure">{ui["disclosure_inline"]}</p>' + body_html
     byline = ""
