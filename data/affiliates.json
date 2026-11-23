@@ -1,5 +1,15 @@
 {
   "_how": "Paste the approved tracking URL into url. Empty url = the button is hidden everywhere. Keys are used in content as {{aff:key|Button text}}.",
+  "yesim_kr": {
+    "program": "Yesim (Travelpayouts)",
+    "label": "Korea eSIM from Yesim",
+    "url": "https://yesim.tpx.li/E1yodyDx"
+  },
+  "yesim_all": {
+    "program": "Yesim (Travelpayouts)",
+    "label": "Yesim eSIM, all countries",
+    "url": "https://yesim.tpx.li/2ov5P8j6"
+  },
   "airalo_kr": {
     "program": "Airalo",
     "label": "Get a Korea eSIM",

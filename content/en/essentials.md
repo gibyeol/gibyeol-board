@@ -44,6 +44,8 @@ Almost everything you will do in Korea runs through your phone: maps, taxis, tra
 - **Physical SIM.** Picked up at the airport. Useful if your phone has no eSIM.
 - **Pocket wifi.** Good for groups sharing one connection, but it is one more thing to charge and return.
 
+{{aff:yesim_kr|Get a Korea eSIM from Yesim}}
+
 {{aff:klook_esim|Get an SKT 5G eSIM on Klook}}
 
 Staying longer, or need to make local calls and receive texts (some booking and delivery apps ask for a Korean number)? Look for a plan with calls and texts. The one below runs on SK Telecom, lasts 2 to 90 days and adds calls as a top-up, but does not allow hotspot sharing.
