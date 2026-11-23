@@ -1,0 +1,63 @@
+{
+  "base_url": "https://gibyeol-eiz.pages.dev",
+  "languages": {
+    "en":    {"name": "English", "hreflang": "en",    "prefix": ""},
+    "ja":    {"name": "日本語",   "hreflang": "ja",    "prefix": "/ja"},
+    "zh-tw": {"name": "繁體中文", "hreflang": "zh-Hant-TW", "prefix": "/zh-tw"},
+    "ko":    {"name": "한국어",   "hreflang": "ko",    "prefix": "/ko"}
+  },
+  "ui": {
+    "en": {
+      "tagline": "Korea, made easy to plan. Trips, shopping and culture from people who check the details.",
+      "nav": [["/essentials/", "Before you go"], ["/olive-young/", "Olive Young"], ["/tax-refund/", "Tax refund"], ["/deals/", "Deals board"]],
+      "nav_label": "Main", "lang_label": "Language", "skip": "Skip to content",
+      "byline": "By the Nadri editors. Checked against official sources on {date}.",
+      "disclosure_inline": "Some links on this page are affiliate links. If you book or buy through them, Nadri may earn a commission at no extra cost to you.",
+      "aff_link": "Affiliate link",
+      "deals_empty": "No deals on the board right now. Check back soon.",
+      "deals_checked": "Board last checked {date} (KST). Dates marked expected follow past years and change when the store announces them.",
+      "deal_confirmed": "Confirmed", "deal_expected": "Expected", "deal_go": "See the offer",
+      "foot": [["/about/", "About Nadri"], ["/disclosure/", "How we make money"], ["/privacy/", "Privacy"]],
+      "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide."
+    },
+    "ja": {
+      "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
+      "nav": [["/essentials/", "出発前の準備"], ["/olive-young/", "オリーブヤング"], ["/tax-refund/", "免税・還付"], ["/deals/", "セール情報"]],
+      "nav_label": "メイン", "lang_label": "言語", "skip": "本文へ移動",
+      "byline": "Nadri編集部。{date}に公式情報で確認済み。",
+      "disclosure_inline": "このページには広告(アフィリエイト)リンクが含まれます。リンク経由で予約・購入された場合、Nadriが紹介料を受け取ることがあります(お客様の負担は変わりません)。",
+      "aff_link": "PR",
+      "deals_empty": "現在掲載中のセール情報はありません。",
+      "deals_checked": "最終確認:{date}(韓国時間)。「予定」は例年の傾向に基づくもので、公式発表で更新します。",
+      "deal_confirmed": "確定", "deal_expected": "予定", "deal_go": "詳細を見る",
+      "foot": [["/about/", "Nadriについて(英語)"], ["/disclosure/", "収益について(英語)"], ["/privacy/", "プライバシー(英語)"]],
+      "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。"
+    },
+    "zh-tw": {
+      "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
+      "nav": [["/essentials/", "出發前準備"], ["/olive-young/", "Olive Young"], ["/tax-refund/", "退稅"], ["/deals/", "優惠看板"]],
+      "nav_label": "主選單", "lang_label": "語言", "skip": "跳到內容",
+      "byline": "Nadri 編輯部。{date} 依官方資料確認。",
+      "disclosure_inline": "本頁含有聯盟行銷(廣告)連結。透過連結預訂或購買時,Nadri 可能獲得佣金,你支付的價格不會因此改變。",
+      "aff_link": "廣告連結",
+      "deals_empty": "目前沒有上架的優惠資訊。",
+      "deals_checked": "最後確認:{date}(韓國時間)。標示「預計」的日期依往年慣例推估,官方公布後會更新。",
+      "deal_confirmed": "已確認", "deal_expected": "預計", "deal_go": "查看優惠",
+      "foot": [["/about/", "關於 Nadri(英文)"], ["/disclosure/", "收入來源(英文)"], ["/privacy/", "隱私權(英文)"]],
+      "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。"
+    },
+    "ko": {
+      "tagline": "지금 사도 되는지, 데이터로 확인하고 알려드려요.",
+      "nav": [["/", "할인 상황판"]],
+      "nav_label": "메뉴", "lang_label": "언어", "skip": "본문으로",
+      "byline": "Nadri 에디터. {date} 공식 정보로 확인.",
+      "disclosure_inline": "이 게시물은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+      "aff_link": "광고 링크",
+      "deals_empty": "지금 올라온 할인 정보가 없어요.",
+      "deals_checked": "마지막 확인: {date}. '예정'은 예년 일정 기준이며 공식 발표가 나오면 바로 고칩니다.",
+      "deal_confirmed": "확정", "deal_expected": "예정", "deal_go": "바로 가기",
+      "foot": [["/about/", "Nadri 소개(영문)"], ["/disclosure/", "수익 구조(영문)"], ["/privacy/", "개인정보(영문)"]],
+      "foot_note": "Nadri는 독립 정보 사이트입니다. 가격과 일정은 판매처 사정으로 바뀔 수 있습니다."
+    }
+  }
+}

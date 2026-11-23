@@ -1,0 +1,33 @@
+{
+  "checked": "2026-11-23",
+  "items": [
+    {
+      "id": "oy-sale-2026-12",
+      "start": "2026-11-29", "end": "2026-12-07", "confirmed": false,
+      "text": {
+        "en": {"when": "First week of December", "title": "Olive Young Sale, December edition",
+               "note": "The biggest of Olive Young's four seasonal sales, usually about seven days, in stores and online. Tax refund still applies on sale prices. [How to plan it](/olive-young/)"},
+        "ja": {"when": "12月第1週", "title": "オリーブヤングセール(12月)",
+               "note": "年4回の大型セールのうち年末の回。例年約1週間、店舗・オンラインの両方で開催。セール価格でも免税・還付の対象です。[攻略ガイド](/ja/olive-young/)"},
+        "zh-tw": {"when": "12 月第一週", "title": "Olive Young Sale 年末場",
+               "note": "一年四次大特賣的最後一場,通常約一週,門市與線上同步。特價商品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"},
+        "ko": {"when": "12월 첫째 주", "title": "12월 올영세일",
+               "note": "1년에 네 번(3·6·9·12월) 열리는 올리브영 정기 세일의 연말 회차. 보통 7일간, 매장과 온라인 동시 진행."}
+      }
+    },
+    {
+      "id": "oy-day-2026-12",
+      "start": "2026-12-25", "end": "2026-12-27", "confirmed": false,
+      "text": {
+        "en": {"when": "Dec 25–27", "title": "Olive Young Day",
+               "note": "A smaller monthly event on the 25th–27th. Most of the extra coupons go to Korean app members, so visitors mainly see shelf discounts."},
+        "ja": {"when": "12月25〜27日", "title": "オリーブヤングデー",
+               "note": "毎月25〜27日の小規模イベント。追加クーポンは主に韓国の会員向けで、旅行者は店頭の割引価格が中心です。"},
+        "zh-tw": {"when": "12 月 25–27 日", "title": "Olive Young Day",
+               "note": "每月 25–27 日的小型活動。額外折價券主要給韓國會員,旅客多半只能享受店內標價折扣。"},
+        "ko": {"when": "12월 25~27일", "title": "12월 올영데이",
+               "note": "매달 25~27일 열리는 정기 행사. 등급별 추가 쿠폰은 앱 회원 대상."}
+      }
+    }
+  ]
+}
