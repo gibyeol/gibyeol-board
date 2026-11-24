@@ -198,7 +198,7 @@ def page(lang, meta, body_html, path, alternates):
 </main>
 <footer class="site-foot">
   <p class="foot-brand"><strong>Nadri</strong> {ui['tagline']}</p>
-  <p class="foot-links">{''.join(f'<a href="{h}">{t}</a>' for h, t in ui['foot'])}</p>
+  <p class="foot-links">{''.join(f'<a href="{L["prefix"]}{h}">{t}</a>' for h, t in ui['foot'])}</p>
   <p class="foot-small">{ui['foot_note']}</p>
 </footer>
 </body>
@@ -218,7 +218,7 @@ def report_box(lang, meta, path):
     return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["report_title"]}</h2>'
             f'<p>{ui["report_body"].format(date=meta["updated"])}</p>'
             f'<p><a class="report-btn" href="{html.escape(href)}">{ui["report_cta"]}</a> '
-            f'<a class="report-log" href="/updates/">{ui["updates"]}</a></p></aside>')
+            f'<a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
 
 
 def url_for(lang, slug):
@@ -235,6 +235,11 @@ def build():
         for f in sorted((ROOT / "content" / lang).glob("*.md")):
             meta, body = parse(f)
             pages[(lang, f.stem)] = (meta, body)
+    # Rule: every page exists in every language, no exceptions.
+    slugs = {s for _, s in pages}
+    missing = sorted(f"content/{l}/{s}.md" for l in SITE["languages"] for s in slugs if (l, s) not in pages)
+    if missing:
+        raise SystemExit("Missing translations (every page must exist in every language):\n  " + "\n  ".join(missing))
     urls = []
     for (lang, slug), (meta, body) in pages.items():
         alternates = {l: url_for(l, slug) for l in SITE["languages"] if (l, slug) in pages}

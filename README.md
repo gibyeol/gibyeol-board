@@ -18,6 +18,7 @@ Cloudflare Pages settings: **Build command** `python3 build.py`, **Build output 
 | `static/` | CSS, logo, favicon |
 
 ## Writing rules
+- **Every page exists in every language, no exceptions** (en, ja, zh-tw, ko). A new page or change goes into all four `content/<lang>/` folders in the same commit. `build.py` stops with an error if any language is missing a page.
 - Front matter: `title`, `description`, `lede`, `section` (essentials / oy / tax / deals), `disclosure: yes` on pages with affiliate buttons, `updated`.
 - Shortcodes on their own line: `{{deals}}`, `{{deals:2}}`, `{{aff:key|Button text}}`.
 - Every guide ends with a Sources section. Byline is "the Nadri editors"; never write as if we used a product.
