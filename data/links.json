@@ -145,5 +145,44 @@
   ],
   "web": "https://www.bustago.or.kr",
   "ios": "id966782397"
+ },
+ "royal_khs": {
+  "terms": [
+   "Korea Heritage Service",
+   "궁능유적본부"
+  ],
+  "web": "https://royal.khs.go.kr"
+ },
+ "national_museum_korea": {
+  "terms": [
+   "National Museum of Korea",
+   "국립중앙박물관",
+   "国立中央博物館",
+   "國立中央博物館"
+  ],
+  "web": "https://www.museum.go.kr"
+ },
+ "medical_korea": {
+  "terms": [
+   "Medical Korea",
+   "메디컬코리아"
+  ],
+  "web": "https://www.medicalkorea.or.kr/korp/main.do"
+ },
+ "k_medi": {
+  "terms": [
+   "Korea Medical Dispute Mediation and Arbitration Agency",
+   "한국의료분쟁조정중재원",
+   "韓国医療紛争調停仲裁院",
+   "韓國醫療糾紛調解仲裁院"
+  ],
+  "web": "https://www.k-medi.or.kr/eng/"
+ },
+ "nol_world": {
+  "terms": [
+   "NOL World"
+  ],
+  "web": "https://world.nol.com",
+  "ios": "id6476254427"
  }
 }

@@ -253,14 +253,16 @@ def autolink(body):
 
 # ---------- A-Z hub: every guide, in the order of a trip ----------
 GUIDE_GROUPS = [
-    (["essentials", "e-arrival-card", "money", "everyday", "food"],
+    (["first-trip", "seoul-areas", "winter"],
+     {"en": "Plan the trip", "ko": "여행 짜기", "ja": "旅の計画", "zh-tw": "規劃行程"}),
+    (["essentials", "e-arrival-card", "money", "everyday", "food", "health"],
      {"en": "Before you go", "ko": "출발 전", "ja": "出発前", "zh-tw": "出發前"}),
-    (["airport-to-seoul", "getting-around", "ktx-busan"],
+    (["airport-to-seoul", "getting-around", "ktx-busan", "jeju"],
      {"en": "Arriving and getting around", "ko": "도착하고 이동하기", "ja": "到着と移動", "zh-tw": "抵達與交通"}),
-    (["seoul-areas", "winter"],
-     {"en": "Where to stay, when to go", "ko": "어디서 묵고 언제 갈까", "ja": "どこに泊まり、いつ行くか", "zh-tw": "住哪裡、什麼時候去"}),
-    (["olive-young", "tax-refund", "duty-free", "convenience-store", "deals"],
-     {"en": "Shopping", "ko": "쇼핑", "ja": "買い物", "zh-tw": "購物"}),
+    (["palaces", "concert-trip"],
+     {"en": "See and do", "ko": "보고 즐기기", "ja": "観光と楽しみ", "zh-tw": "景點與活動"}),
+    (["olive-young", "tax-refund", "duty-free", "convenience-store", "skin-clinic", "deals"],
+     {"en": "Shopping and beauty", "ko": "쇼핑과 뷰티", "ja": "買い物と美容", "zh-tw": "購物與美容"}),
     (["departure-day"],
      {"en": "Going home", "ko": "돌아가는 날", "ja": "帰る日", "zh-tw": "回程"}),
     (["abroad-esim"],
