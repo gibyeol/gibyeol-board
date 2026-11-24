@@ -45,7 +45,7 @@ updated: 2026-11-24
 
 - [Visit Seoul: 空港からソウルへ(2026年6月時点の料金・所要時間)](https://english.visitseoul.net/airport-to-seoul)
 - [仁川国際空港: AREXの路線と駅](https://www.airport.kr/ap_en/1512/subview.do)
-- [仁川国際空港: リムジンバスの料金と乗車券](https://www.airport.kr/ap_en/6636/subview.do)
+- [仁川国際空港: リムジンバスの料金と乗車券](https://airport.kr/bbs/ap_en/937/138233/artclView.do)
 - [仁川国際空港: 深夜バス](https://www.airport.kr/ap_en/1507/subview.do)
 - [Wikitree: AREX直通列車が2026年10月23日から1日52本→56本に](https://www.wikitree.co.kr/articles/1168084)
 - [AREX公式サイト(時刻表)](https://www.airportrailroad.com)

@@ -128,7 +128,7 @@ main{padding-bottom:3rem}
 .byline::before{content:"확인";display:grid;place-items:center;width:30px;height:30px;background:url(/static/seal.png) center/contain no-repeat;color:#c43424;font:400 .62rem/1 "Song Myung",serif;writing-mode:vertical-rl;transform:rotate(-4deg);mix-blend-mode:multiply}
 .body{max-width:var(--measure)}
 .body h2{font:400 1.6rem/1.25 var(--head);margin:2.4rem 0 .6rem;padding-top:.8rem;border-top:1px solid var(--ink)}
-.body h2:first-child{margin-top:0}
+.body h2:first-child{margin-top:0;border-top:0;padding-top:0}
 .body h3{font:600 1.1rem/1.35 var(--text);margin:1.8rem 0 .4rem}
 .body li{margin:.3rem 0}
 .body li::marker{color:var(--red)}
@@ -146,6 +146,13 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 
 .go{text-decoration-color:var(--red);text-decoration-thickness:1px}
 .go:hover{color:var(--red)}
+
+.az{margin:2rem 0}
+.az h2{font:400 1.5rem/1.25 var(--head);margin:0 0 .4rem;padding-top:.8rem;border-top:1px solid var(--ink)}
+.az ol{list-style:none;margin:0;padding:0;counter-reset:g}
+.az li{padding:.7rem 0;border-bottom:1px solid var(--hair)}
+.az li a{font:400 1.15rem/1.35 var(--head)}
+.az li p{margin:.2rem 0 0;color:var(--muted);font-size:.92rem}
 
 /* deals board page */
 .deals{list-style:none;padding:0;margin:0;border-top:1px solid var(--ink)}

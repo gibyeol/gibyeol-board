@@ -45,7 +45,7 @@ Check the last train on the AREX site before you fly. The schedule changed in Oc
 
 - [Visit Seoul: Airport to Seoul (fares and times as of June 2026)](https://english.visitseoul.net/airport-to-seoul)
 - [Incheon Airport: AREX route and stations](https://www.airport.kr/ap_en/1512/subview.do)
-- [Incheon Airport: limousine bus fares and tickets](https://www.airport.kr/ap_en/6636/subview.do)
+- [Incheon Airport: limousine bus fares and tickets](https://airport.kr/bbs/ap_en/937/138233/artclView.do)
 - [Incheon Airport: late-night buses](https://www.airport.kr/ap_en/1507/subview.do)
 - [Wikitree: AREX express runs rise from 52 to 56 a day from 23 October 2026](https://www.wikitree.co.kr/articles/1168084)
 - [AREX official site (timetables)](https://www.airportrailroad.com)

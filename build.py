@@ -46,6 +46,8 @@ def shortcode(line, lang):
         return deal_cards(lang, int(key) if key else 3)
     if kind == "board":
         return countdown(lang, int(key) if key else 5)
+    if kind == "guides":
+        return guides_index(lang)
     if kind == "codes":
         return codes_table(lang)
     if kind == "aff":
@@ -248,6 +250,34 @@ def autolink(body):
                 break
         parts[i] = part
     return "".join(parts)
+
+# ---------- A-Z hub: every guide, in the order of a trip ----------
+GUIDE_GROUPS = [
+    (["essentials", "e-arrival-card", "money", "everyday"],
+     {"en": "Before you go", "ko": "출발 전", "ja": "出発前", "zh-tw": "出發前"}),
+    (["airport-to-seoul", "getting-around", "ktx-busan"],
+     {"en": "Arriving and getting around", "ko": "도착하고 이동하기", "ja": "到着と移動", "zh-tw": "抵達與交通"}),
+    (["seoul-areas", "winter"],
+     {"en": "Where to stay, when to go", "ko": "어디서 묵고 언제 갈까", "ja": "どこに泊まり、いつ行くか", "zh-tw": "住哪裡、什麼時候去"}),
+    (["olive-young", "tax-refund", "convenience-store", "deals"],
+     {"en": "Shopping", "ko": "쇼핑", "ja": "買い物", "zh-tw": "購物"}),
+    (["departure-day"],
+     {"en": "Going home", "ko": "돌아가는 날", "ja": "帰る日", "zh-tw": "回程"}),
+    (["abroad-esim"],
+     {"en": "Koreans going abroad", "ko": "해외로 나가는 한국인", "ja": "", "zh-tw": ""}),
+]
+PAGES = {}
+
+
+def guides_index(lang):
+    pre, out = SITE["languages"][lang]["prefix"], []
+    for slugs, label in GUIDE_GROUPS:
+        items = [(s, PAGES[(lang, s)][0]) for s in slugs if (lang, s) in PAGES]
+        if not items:
+            continue
+        lis = "".join(f'<li><a href="{pre}/{s}/">{inline(m.get("title", s))}</a><p>{inline(m.get("description", ""))}</p></li>' for s, m in items)
+        out.append(f'<section class="az"><h2>{label[lang]}</h2><ol>{lis}</ol></section>')
+    return "".join(out)
 
 # ---------- home components (v7 design: numbers lead, a seal marks what we checked) ----------
 HOME_UI = {
@@ -502,6 +532,7 @@ def build():
         for f in sorted((ROOT / "content" / lang).glob("*.md")):
             meta, body = parse(f)
             pages[(lang, f.stem)] = (meta, body)
+    PAGES.update(pages)
     # Rule: every shared page exists in every language. A page written for one audience only
     # (e.g. Korean travellers going abroad) says so with `only: ko` and is exempt.
     only = {s: m["only"] for (l, s), (m, _) in pages.items() if m.get("only")}

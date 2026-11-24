@@ -4,7 +4,8 @@
   "terms": [
    "Naver Map",
    "네이버 지도",
-   "NAVERマップ"
+   "NAVERマップ",
+   "NAVER 地圖"
   ],
   "web": "https://map.naver.com",
   "ios": "id311867728",
@@ -23,7 +24,8 @@
  "kakao_t": {
   "terms": [
    "Kakao T",
-   "카카오 T"
+   "카카오 T",
+   "カカオT"
   ],
   "ios": "id981110422",
   "android": "com.kakao.taxi"
@@ -46,6 +48,8 @@
  },
  "korail_talk": {
   "terms": [
+   "Korail+",
+   "코레일+",
    "KorailTalk",
    "코레일톡"
   ],
@@ -92,5 +96,54 @@
    "K-ETA"
   ],
   "web": "https://www.k-eta.go.kr"
+ },
+ "k_ride": {
+  "terms": [
+   "k.ride",
+   "케이라이드"
+  ],
+  "ios": "id6474654222",
+  "android": "com.kakaomobility.kride"
+ },
+ "mobile_tmoney": {
+  "terms": [
+   "MobileTmoney",
+   "모바일티머니",
+   "モバイルT-money",
+   "Mobile T-money"
+  ],
+  "ios": "id1470361790"
+ },
+ "korea_travel_hotline": {
+  "terms": [
+   "1330 Korea Travel Hotline",
+   "1330 관광통역안내전화",
+   "1330 観光案内電話",
+   "1330 旅遊諮詢熱線"
+  ],
+  "web": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454"
+ },
+ "incheon_airport": {
+  "terms": [
+   "Incheon Airport",
+   "인천공항",
+   "仁川空港",
+   "仁川機場"
+  ],
+  "web": "https://www.airport.kr"
+ },
+ "cu": {
+  "terms": [
+   "CU"
+  ],
+  "web": "https://cu.bgfretail.com"
+ },
+ "bustago": {
+  "terms": [
+   "버스타고",
+   "Bustago"
+  ],
+  "web": "https://www.bustago.or.kr",
+  "ios": "id966782397"
  }
 }

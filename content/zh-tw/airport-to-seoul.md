@@ -45,7 +45,7 @@ updated: 2026-11-24
 
 - [Visit Seoul: 從機場到首爾(2026年6月票價與時間)](https://english.visitseoul.net/airport-to-seoul)
 - [仁川國際機場: 機場鐵路路線與車站](https://www.airport.kr/ap_en/1512/subview.do)
-- [仁川國際機場: 機場巴士票價與購票](https://www.airport.kr/ap_en/6636/subview.do)
+- [仁川國際機場: 機場巴士票價與購票](https://airport.kr/bbs/ap_en/937/138233/artclView.do)
 - [仁川國際機場: 深夜巴士](https://www.airport.kr/ap_en/1507/subview.do)
 - [Wikitree: 機場鐵路直達車自2026年10月23日起每日52班增為56班](https://www.wikitree.co.kr/articles/1168084)
 - [機場鐵路官網(時刻表)](https://www.airportrailroad.com)

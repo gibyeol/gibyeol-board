@@ -15,11 +15,11 @@ updated: 2026-11-25
 | Mobile data | Before you fly | Maps, taxis and translation all need it from the airport onwards |
 | Transport card | At the airport or first convenience store | Subway and bus fares are tap-only |
 | Map and taxi apps | At home, on wifi | Google Maps still cannot give full directions in Korea |
-| Some cash | Before or on arrival | Topping up a transport card usually means cash |
+| Some cash | Before or on arrival | Market food and topping up a regular T-money card still mostly need cash ([Money in Korea](/money/)) |
 
 ## 1. e-Arrival Card: now mandatory
 
-Since 1 January 2026, foreign nationals entering Korea submit an electronic arrival card online within the three days before arrival. Paper cards are no longer the default.
+Foreign visitors file an electronic arrival card online, free, in the three days before arrival. Incheon Airport says all foreigners are required to submit it in principle; the official FAQ still allows filing online or on paper before immigration if you missed it, but don't plan on paper. Full field-by-field help: [Korea e-Arrival Card](/e-arrival-card/).
 
 - Apply only on the official site, [e-arrivalcard.go.kr](https://www.e-arrivalcard.go.kr). Look-alike sites charge a fee for the same form.
 - You need your passport photo page, flight number and where you are staying.
@@ -78,7 +78,7 @@ Download these on wifi at home and set the language to English, Japanese or Chin
 | Kakao T | Taxis | English interface. Pay by card or in the car |
 | Papago | Translation | Point the camera at a menu or sign |
 | Subway Korea | Subway routes and transfers | Works offline once downloaded |
-| KorailTalk | KTX and intercity trains | Book seats ahead on weekends |
+| Korail+ (formerly KorailTalk) | KTX and intercity trains | Book ahead; tickets open two months before departure ([KTX to Busan](/ktx-busan/)) |
 
 ### What about Google Maps?
 

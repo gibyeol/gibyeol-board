@@ -45,7 +45,7 @@ updated: 2026-11-24
 
 - [Visit Seoul: 공항에서 서울까지 (2026년 6월 기준 요금·소요 시간)](https://english.visitseoul.net/airport-to-seoul)
 - [인천국제공항: 공항철도 노선과 역](https://www.airport.kr/ap_en/1512/subview.do)
-- [인천국제공항: 리무진버스 요금과 승차권](https://www.airport.kr/ap_en/6636/subview.do)
+- [인천국제공항: 리무진버스 요금과 승차권](https://airport.kr/bbs/ap_en/937/138233/artclView.do)
 - [인천국제공항: 심야버스](https://www.airport.kr/ap_en/1507/subview.do)
 - [위키트리: 공항철도 직통열차 2026년 10월 23일부터 하루 52회→56회](https://www.wikitree.co.kr/articles/1168084)
 - [공항철도 공식 사이트 (시간표)](https://www.airportrailroad.com)
