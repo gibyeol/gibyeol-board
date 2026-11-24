@@ -167,6 +167,10 @@
      "title": "百貨公司冬季特賣",
      "note": "新世界(約 370 個品牌)、樂天(約 400 個)、現代(約 200 個)冬季特賣到 11/29,最高 5–6 折。退稅規則照常適用。"
     }
+   },
+   "hero": {
+    "kind": "pct",
+    "value": 60
    }
   },
   {
@@ -291,6 +295,18 @@
     "ko": {
      "title": "신라면세점 블랙프라이데이",
      "note": "최대 90%. 200달러 이상 딜존 뷰티 최대 78%, 신규 회원 최대 20% 페이백. 연말에 출국 예정이면 면세 쇼핑 타이밍."
+    },
+    "en": {
+     "title": "Shilla Duty Free Black Friday",
+     "note": "Up to 90% off. Beauty deal zone up to 78% on purchases over $200, and new members get up to 20% back. Flying home before 30 November? This is the duty-free window."
+    },
+    "ja": {
+     "title": "新羅免税店ブラックフライデー",
+     "note": "最大90%オフ。200ドル以上のビューティーは最大78%、新規会員は最大20%ペイバック。11月30日までに帰国するなら、免税で買うタイミング。"
+    },
+    "zh-tw": {
+     "title": "新羅免稅店黑色星期五",
+     "note": "最高 1 折。美妝滿 200 美元最高 78% 折扣,新會員最高回饋 20%。11 月 30 日前回國的話,正是免稅購物的時機。"
     }
    },
    "hero": {
@@ -649,6 +665,18 @@
     "ko": {
      "title": "제주항공 국내선 FLEX 운임 20%",
      "note": "예매 12/16까지, 탑승 2027.2.25까지(성수기 제외). 대상 조건은 예매 전에 확인."
+    },
+    "en": {
+     "title": "Jeju Air domestic FLEX fares 20% off",
+     "note": "Book by 16 December for flights until 25 February 2027 (peak days excluded). Handy if you are adding Jeju to a Seoul trip; check the conditions on the booking screen."
+    },
+    "ja": {
+     "title": "チェジュ航空 国内線FLEX運賃20%オフ",
+     "note": "12月16日までの予約で2027年2月25日までの搭乗(繁忙期除く)。ソウル旅行に済州を足すなら。条件は予約画面で確認を。"
+    },
+    "zh-tw": {
+     "title": "濟州航空國內線 FLEX 票價 8 折",
+     "note": "12 月 16 日前訂票,搭乘至 2027 年 2 月 25 日(旺季除外)。首爾行想加濟州的話可以看看,條件以訂票畫面為準。"
     }
    },
    "open_start": true,
@@ -714,6 +742,18 @@
     "ko": {
      "title": "뚝섬 로맨틱 한강 크리스마스마켓",
      "note": "블로그 한 곳에서만 확인돼서 예상으로 표시. 서울시 공식 발표 나오면 확정으로 바꿈."
+    },
+    "en": {
+     "title": "Ttukseom Romantic Han River Christmas Market",
+     "note": "Only one blog has the dates so far, so this is marked expected. We will confirm it when Seoul announces it."
+    },
+    "ja": {
+     "title": "トゥクソム・ロマンチック漢江クリスマスマーケット",
+     "note": "日程はブログ1件でしか確認できていないため予定表示。ソウル市の公式発表が出たら確定に変えます。"
+    },
+    "zh-tw": {
+     "title": "纛島浪漫漢江聖誕市集",
+     "note": "目前只有一篇部落格提到日期,先標為預計。首爾市正式公布後會改為確定。"
     }
    }
   }
