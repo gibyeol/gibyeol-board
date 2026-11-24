@@ -61,6 +61,7 @@ Credit cards are accepted almost everywhere in shops and restaurants. Where you 
 - **T-money** is the standard tap card for subway, bus and taxis across Korea. You buy it and top it up at convenience stores and station machines, and topping up a regular T-money card still usually means cash.
 - **WOWPASS** is a prepaid card for visitors that combines currency exchange, card payments and T-money in one. You load it at machines in major stations with your home currency.
 - **Climate Card** is Seoul's unlimited transit pass, with short-term versions for visitors. It only works in Seoul, so skip it if you are mostly elsewhere.
+- **New in 2026:** since 17 March, new ticket machines at 273 stations on Seoul subway Lines 1–8 take foreign Visa and Mastercard for Climate Card short-term passes and single tickets (about 3.7% fee). On iPhone, the MobileTmoney app can be topped up with a foreign Mastercard, Amex or UnionPay card (not Visa). Tapping your own bank card at the gate does not work yet; Seoul plans it for the subway from 2027.
 
 {{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
 

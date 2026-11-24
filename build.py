@@ -448,7 +448,7 @@ def page(lang, meta, body_html, path, alternates):
   <div class="wrap">
     {dateline(lang)}
     <div class="brand-row">
-      <a class="brand" href="{L['prefix']}/" aria-label="Nadri home"><img src="/static/nadri-mark.svg" alt="" width="44" height="44"><{'h1' if meta.get('home') else 'span'} class="wordmark">Nadri</{'h1' if meta.get('home') else 'span'}></a>
+      <a class="brand" href="{L['prefix']}/" aria-label="Nadri home"><img src="/static/nadri-mark-light.svg" alt="" width="44" height="44"><{'h1' if meta.get('home') else 'span'} class="wordmark">Nadri</{'h1' if meta.get('home') else 'span'}></a>
       {('<p class="tagline">' + html.escape(ui['tagline']) + '</p>') if meta.get('home') else ''}
     </div>
     <div class="nav-row">

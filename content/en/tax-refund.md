@@ -3,7 +3,7 @@ title: Tax refunds in Korea, explained
 description: Who qualifies, the ₩15,000 minimum, the ₩1 million and ₩5 million immediate-refund limits, and what you actually get back after fees.
 lede: Korea adds 10% VAT to almost everything. As a visitor you can get part of it back, often right at the till, if you know three numbers.
 section: tax
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 ## The three numbers
 
@@ -14,6 +14,8 @@ updated: 2026-11-23
 | Immediate refund total per trip | ₩5,000,000 |
 
 These limits were doubled on 1 January 2024 and still apply in 2026. Spend more than ₩1,000,000 on one receipt and the refund moves to the airport.
+
+> Cosmetic and dermatology procedures no longer get a tax refund: the special VAT refund for tourists ended on 31 December 2025.
 
 ## Who qualifies
 
