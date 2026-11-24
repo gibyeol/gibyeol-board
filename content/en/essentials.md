@@ -4,7 +4,7 @@ description: e-Arrival Card, K-ETA, mobile data, money, transport cards and the 
 lede: Six things to settle before your flight, in the order you will need them. Each one links to the official source, because entry rules in Korea have changed twice in the last year.
 section: essentials
 disclosure: yes
-updated: 2026-11-23
+updated: 2026-11-25
 ---
 ## The checklist
 
@@ -32,7 +32,7 @@ K-ETA is Korea's electronic travel authorization for visa-free visitors. It norm
 
 Korea has extended the temporary K-ETA exemption to **31 December 2026**. It covers 22 countries and regions, including the United States, Japan, Taiwan, Hong Kong and Macau. When you enter your nationality on [k-eta.go.kr](https://www.k-eta.go.kr), an exempt passport shows a pop-up saying so.
 
-> Travelling in 2027? As of 23 November 2026 no further extension has been announced. Check the official K-ETA site before you book, and we will update this page when the decision is published.
+> Travelling in 2027? On 23–24 November 2026, travel media reported that the Ministry of Justice has extended the exemption to 31 December 2027. When we checked on 25 November, the official K-ETA site had not posted the notice yet, so treat it as reported, not confirmed. We will update this page as soon as it is official.
 
 Exempt travellers can still apply for a K-ETA voluntarily. The only benefit is skipping the e-Arrival Card, and the fee applies.
 
