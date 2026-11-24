@@ -68,16 +68,16 @@
   "klook_everland_bus": {
     "program": "Klook",
     "label": "에버랜드 입장권 + 셔틀버스 (Klook)",
-    "url": ""
+    "url": "https://klook.tpx.li/7vgmcliB"
   },
   "klook_usj": {
     "program": "Klook",
     "label": "유니버설 스튜디오 재팬 입장권 (Klook)",
-    "url": ""
+    "url": "https://klook.tpx.li/tbNHi7OP"
   },
   "klook_tokyo_disney": {
     "program": "Klook",
     "label": "도쿄 디즈니 리조트 입장권 (Klook)",
-    "url": ""
+    "url": "https://klook.tpx.li/WNxUwiIB"
   }
 }
