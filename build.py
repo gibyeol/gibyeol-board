@@ -164,6 +164,10 @@ def page(lang, meta, body_html, path, alternates):
     if "en" in alternates:
         hreflang += f'<link rel="alternate" hreflang="x-default" href="{BASE}{alternates["en"]}">'
     head_extra = "".join(SITE.get("head_meta", []))
+    token = SITE.get("analytics", {}).get("cloudflare_token")
+    if token:  # Cloudflare Web Analytics: no cookies, no personal data (see privacy page)
+        head_extra += ("<script defer src='https://static.cloudflareinsights.com/beacon.min.js' "
+                       f"data-cf-beacon='{{\"token\": \"{html.escape(token)}\"}}'></script>")
     if meta.get("disclosure") == "yes":
         body_html = f'<p class="disclosure">{ui["disclosure_inline"]}</p>' + body_html
     byline = ""
@@ -235,11 +239,16 @@ def build():
         for f in sorted((ROOT / "content" / lang).glob("*.md")):
             meta, body = parse(f)
             pages[(lang, f.stem)] = (meta, body)
-    # Rule: every page exists in every language, no exceptions.
-    slugs = {s for _, s in pages}
+    # Rule: every shared page exists in every language. A page written for one audience only
+    # (e.g. Korean travellers going abroad) says so with `only: ko` and is exempt.
+    only = {s: m["only"] for (l, s), (m, _) in pages.items() if m.get("only")}
+    bad = sorted(f"content/{l}/{s}.md (only: {only[s]})" for (l, s) in pages if s in only and l != only[s])
+    if bad:
+        raise SystemExit("Page marked `only:` for another language:\n  " + "\n  ".join(bad))
+    slugs = {s for _, s in pages if s not in only}
     missing = sorted(f"content/{l}/{s}.md" for l in SITE["languages"] for s in slugs if (l, s) not in pages)
     if missing:
-        raise SystemExit("Missing translations (every page must exist in every language):\n  " + "\n  ".join(missing))
+        raise SystemExit("Missing translations (every shared page must exist in every language):\n  " + "\n  ".join(missing))
     urls = []
     for (lang, slug), (meta, body) in pages.items():
         alternates = {l: url_for(l, slug) for l in SITE["languages"] if (l, slug) in pages}

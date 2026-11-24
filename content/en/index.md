@@ -29,5 +29,6 @@ updated: 2026-11-23
 <li style="--c:var(--celadon)"><div><a href="/essentials/">Korea trip essentials: what to sort out before you land</a><p>The e-Arrival Card is now mandatory, Google Maps still falls short, and cash still matters on the subway. Here is the short list.</p></div></li>
 <li style="--c:var(--plum)"><div><a href="/olive-young/">How to shop Olive Young like a local</a><p>The four big sales, the monthly Olive Young Day, and why your passport saves you money at the till.</p></div></li>
 <li style="--c:var(--yellow)"><div><a href="/tax-refund/">Tax refunds in Korea, explained</a><p>Spend ₩15,000 or more at a tax-free shop and the refund can come off the price on the spot.</p></div></li>
+<li style="--c:var(--celadon)"><div><a href="/airport-to-seoul/">Incheon Airport to Seoul: pick by where you sleep</a><p>Express train, all-stop train or airport bus. Start from your hotel and the answer gets easy.</p></div></li>
 </ul>
 </section>

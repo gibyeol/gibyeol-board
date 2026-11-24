@@ -15,6 +15,7 @@ report: no
 
 | Date | Page | What changed |
 |---|---|---|
+| 2026-11-24 | Incheon Airport to Seoul | New guide: express train, all-stop train or bus, chosen by hotel area |
 | 2026-11-24 | Site | Every page is now available in English, Japanese, Traditional Chinese and Korean |
 | 2026-11-23 | Before you go | Added eSIM, airport train and transit card booking options |
 | 2026-11-23 | Privacy | Added the Travelpayouts affiliate link script |

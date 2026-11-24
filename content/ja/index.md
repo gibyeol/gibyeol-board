@@ -29,5 +29,6 @@ updated: 2026-11-23
 <li style="--c:var(--celadon)"><div><a href="/ja/essentials/">韓国旅行の準備リスト:到着前に済ませること</a><p>電子入国申告書は2026年から必須に。Googleマップはまだ不十分で、交通カードのチャージは現金が基本です。</p></div></li>
 <li style="--c:var(--plum)"><div><a href="/ja/olive-young/">オリーブヤングを賢く買う方法</a><p>年4回の大型セール、毎月のオリーブヤングデー、そしてパスポートでその場で免税になる仕組み。</p></div></li>
 <li style="--c:var(--yellow)"><div><a href="/ja/tax-refund/">韓国の免税・税金還付をわかりやすく</a><p>1店舗で15,000ウォン以上買えば、レジで税金分が差し引かれることも。</p></div></li>
+<li style="--c:var(--celadon)"><div><a href="/ja/airport-to-seoul/">仁川空港からソウルへ:泊まる場所で選ぶ</a><p>直通列車、一般列車、リムジンバス。ホテルの場所から逆算すれば迷いません。</p></div></li>
 </ul>
 </section>

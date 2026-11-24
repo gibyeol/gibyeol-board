@@ -18,7 +18,9 @@ Cloudflare Pages settings: **Build command** `python3 build.py`, **Build output 
 | `static/` | CSS, logo, favicon |
 
 ## Writing rules
-- **Every page exists in every language, no exceptions** (en, ja, zh-tw, ko). A new page or change goes into all four `content/<lang>/` folders in the same commit. `build.py` stops with an error if any language is missing a page.
+- **Every shared page exists in every language** (en, ja, zh-tw, ko). A new shared page or change goes into all four `content/<lang>/` folders in the same commit. `build.py` stops with an error if any language is missing a page.
+- **Audience-only pages**: a page written for one audience (e.g. Korean travellers going abroad, in `content/ko/`) adds `only: ko` to its front matter and exists only in that language.
+- Analytics: put the Cloudflare Web Analytics token in `data/site.json` → `analytics.cloudflare_token` (public value). Or turn on Web Analytics in the Pages project settings instead; then leave the token empty.
 - Front matter: `title`, `description`, `lede`, `section` (essentials / oy / tax / deals), `disclosure: yes` on pages with affiliate buttons, `updated`.
 - Shortcodes on their own line: `{{deals}}`, `{{deals:2}}`, `{{aff:key|Button text}}`.
 - Every guide ends with a Sources section. Byline is "the Nadri editors"; never write as if we used a product.

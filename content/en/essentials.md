@@ -87,6 +87,8 @@ In February 2026 the Korean government conditionally approved Google's request t
 
 The airport railroad (AREX) and limousine buses run to central Seoul, and both take a T-money card. If you land late, arrive with heavy bags or travel as a group, a pre-booked transfer is often simpler.
 
+For a full comparison by hotel area, see [Incheon Airport to Seoul](/airport-to-seoul/).
+
 {{aff:klook_airport|Book an AREX airport train ticket}}
 
 ## Sources

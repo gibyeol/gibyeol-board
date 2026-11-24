@@ -29,5 +29,6 @@ updated: 2026-11-23
 <li style="--c:var(--celadon)"><div><a href="/zh-tw/essentials/">韓國自由行準備清單:落地前要搞定的事</a><p>電子入境卡 2026 年起變成必填,Google Maps 還不夠好用,交通卡儲值仍以現金為主。</p></div></li>
 <li style="--c:var(--plum)"><div><a href="/zh-tw/olive-young/">Olive Young 聰明買攻略</a><p>一年四次大特賣、每月 Olive Young Day,以及帶護照就能現場退稅。</p></div></li>
 <li style="--c:var(--yellow)"><div><a href="/zh-tw/tax-refund/">韓國退稅一次看懂</a><p>同一家店單筆滿 15,000 韓元,稅金常常結帳時就直接扣掉。</p></div></li>
+<li style="--c:var(--celadon)"><div><a href="/zh-tw/airport-to-seoul/">仁川機場到首爾:看你住哪裡來選</a><p>直達車、普通車還是機場巴士?從飯店位置倒推就不會選錯。</p></div></li>
 </ul>
 </section>

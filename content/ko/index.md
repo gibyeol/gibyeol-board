@@ -29,5 +29,12 @@ updated: 2026-11-23
 <li style="--c:var(--celadon)"><div><a href="/ko/essentials/">한국 여행 필수 준비: 도착 전에 챙길 것</a><p>전자입국신고서는 이제 필수이고, 구글 지도는 아직 부족하며, 지하철에서는 여전히 현금이 필요해요. 꼭 챙길 것만 짧게 정리했어요.</p></div></li>
 <li style="--c:var(--plum)"><div><a href="/ko/olive-young/">현지인처럼 올리브영 쇼핑하는 법</a><p>1년에 네 번 열리는 큰 세일, 매달 돌아오는 올영데이, 그리고 계산대에서 여권이 돈을 아껴 주는 이유.</p></div></li>
 <li style="--c:var(--yellow)"><div><a href="/ko/tax-refund/">한국 택스리펀드, 한 번에 정리</a><p>택스프리 매장에서 ₩15,000 이상 사면 그 자리에서 가격에서 바로 환급받을 수 있어요.</p></div></li>
+<li style="--c:var(--celadon)"><div><a href="/ko/airport-to-seoul/">인천공항에서 서울까지: 숙소 위치로 고르기</a><p>직통열차, 일반열차, 리무진버스. 숙소에서 거꾸로 고르면 헷갈릴 게 없어요.</p></div></li>
+</ul>
+</section>
+<section class="home-section">
+<h2>해외로 떠나는 한국인을 위해</h2>
+<ul class="guide-list">
+<li style="--c:var(--plum)"><div><a href="/ko/abroad-esim/">해외여행 데이터, eSIM이 답인 사람과 아닌 사람</a><p>로밍·유심·eSIM 중 뭘 고를지, 내 폰이 eSIM 되는지 2분 안에 확인하는 법.</p></div></li>
 </ul>
 </section>
