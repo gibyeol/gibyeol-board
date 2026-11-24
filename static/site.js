@@ -1,0 +1,55 @@
+// Nadri site frame: Seoul-time sky, live D-day, copy buttons. The page works without it.
+(function () {
+  var r = (function (seed) { return function () { seed = (seed * 16807) % 2147483647; return (seed - 1) / 2147483646; }; })(7);
+  var stars = document.getElementById('stars');
+  if (stars) {
+    var s = '';
+    for (var i = 0; i < 170; i++) s += '<circle cx="' + (r() * 1200).toFixed(1) + '" cy="' + (r() * 320).toFixed(1) + '" r="' + (r() * 1.1 + .3).toFixed(2) +
+      '" opacity="' + (r() * .6 + .2).toFixed(2) + '"' + (i % 5 ? '' : ' class="twinkle" style="animation-delay:' + (r() * 4).toFixed(2) + 's"') + '/>';
+    stars.innerHTML = s;
+  }
+
+  // Seoul now: sky colour, sun and moon follow the real time in Seoul
+  try {
+    var parts = new Intl.DateTimeFormat('en-GB', { timeZone: 'Asia/Seoul', hour: '2-digit', minute: '2-digit', hour12: false }).formatToParts(new Date());
+    var get = function (t) { return +parts.filter(function (x) { return x.type === t; })[0].value; };
+    var hh = get('hour') % 24, mm = get('minute'), t = hh + mm / 60;
+    var phase = t >= 5 && t < 7 ? 0 : t >= 7 && t < 17 ? 1 : t >= 17 && t < 19 ? 2 : 3;
+    var head = document.querySelector('.site-head');
+    if (head) head.dataset.phase = ['dawn', 'day', 'dusk', 'night'][phase];
+    var now = document.getElementById('seoul-now');
+    if (now) now.innerHTML = now.dataset.label + ' <b>' + String(hh).padStart(2, '0') + ':' + String(mm).padStart(2, '0') + '</b> · ' + now.dataset.phases.split('|')[phase];
+    var arc = function (f) { return 'translate(' + (80 + f * 1040) + ' ' + (345 - Math.sin(f * Math.PI) * 112) + ')'; };
+    var fs = (t - 6) / 13, fm = ((t + 24 - 18) % 24) / 12;
+    var sun = document.getElementById('sun'), moon = document.getElementById('moon');
+    if (sun && fs > 0 && fs < 1) { sun.setAttribute('transform', arc(fs)); sun.style.display = ''; }
+    if (moon && fm > 0 && fm < 1) { moon.setAttribute('transform', arc(fm)); moon.style.display = ''; }
+  } catch (e) {}
+
+  // D-day on home cards and tables, counted in Seoul; ended rows disappear
+  var seoulToday = (function () {
+    try { var d = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul' }).format(new Date()).split('-'); return new Date(+d[0], +d[1] - 1, +d[2]); }
+    catch (e) { var x = new Date(); x.setHours(0, 0, 0, 0); return x; }
+  })();
+  var day = function (s) { var p = s.split('-'); return new Date(+p[0], +p[1] - 1, +p[2]); };
+  document.querySelectorAll('.dc[data-end], .board tr[data-end], .codes tr[data-end]').forEach(function (el) {
+    var e = day(el.dataset.end), s = day(el.dataset.start);
+    if (e < seoulToday) { el.hidden = true; return; }
+    var tag = el.querySelector('.dday');
+    if (!tag || s > seoulToday) return;
+    var n = Math.round((e - seoulToday) / 864e5);
+    tag.textContent = n > 0 ? 'D-' + n : (tag.dataset.today || tag.textContent);
+    tag.classList.toggle('hot', n <= 2);
+    var cell = tag.closest('td'); if (cell) cell.classList.toggle('hot', n <= 2);
+  });
+
+  document.querySelectorAll('.codes .copy').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var label = b.textContent;
+      if (navigator.clipboard) navigator.clipboard.writeText(b.dataset.code).then(function () {
+        b.textContent = b.dataset.done; b.classList.add('done');
+        setTimeout(function () { b.textContent = label; b.classList.remove('done'); }, 1500);
+      }, function () {});
+    });
+  });
+})();

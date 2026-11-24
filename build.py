@@ -41,6 +41,12 @@ def shortcode(line, lang):
     kind, key, label = m.groups()
     if kind == "deals":
         return deals_board(lang, limit=int(key) if key else None)
+    if kind == "dealcards":
+        return deal_cards(lang, int(key) if key else 3)
+    if kind == "board":
+        return countdown(lang, int(key) if key else 5)
+    if kind == "codes":
+        return codes_table(lang)
     if kind == "aff":
         a = AFF.get(key, {})
         if not a.get("url"):
@@ -204,6 +210,159 @@ def deals_board(lang, limit=None):
             f'<p class="deals-checked">{ui["deals_checked"].format(date=checked)}</p>{script}')
 
 
+
+# ---------- home components (v7 design: numbers lead, a seal marks what we checked) ----------
+HOME_UI = {
+    "ko": {"seoul": "서울 지금", "phases": ["새벽", "낮", "저녁", "밤"], "count": "확인한 세일 {d}건 · 공개 코드 {c}개 · 가이드 {g}편",
+           "board": "마감 시세표", "all": "전체", "left": "남은 날", "sale": "세일", "today": "오늘", "starts": "{n}일 뒤",
+           "checked": "확인", "codes_h": "공개된 할인 코드", "codes_p": "브랜드나 언론이 공개한 것만, 조건 그대로",
+           "cols": ["코드", "어디서", "조건", "마감", "확인"], "cards": "이번 주 꼭 볼 할인",
+           "pct": "% 최대", "wd": "월화수목금토일"},
+    "en": {"seoul": "Seoul now", "phases": ["dawn", "day", "evening", "night"], "count": "{d} sales checked · {c} public codes · {g} guides",
+           "board": "Ending soon", "all": "All", "left": "Left", "sale": "Sale", "today": "Today", "starts": "in {n}d",
+           "checked": "Checked", "codes_h": "Public discount codes", "codes_p": "Only codes a brand or the press published, conditions as stated",
+           "cols": ["Code", "Where", "Conditions", "Ends", "Checked"], "cards": "Worth a look this week",
+           "pct": "% off, max", "wd": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]},
+    "ja": {"seoul": "ソウル現在", "phases": ["夜明け", "昼", "夕方", "夜"], "count": "確認したセール{d}件 · 公開コード{c}個 · ガイド{g}本",
+           "board": "締切が近い順", "all": "すべて", "left": "残り", "sale": "セール", "today": "今日", "starts": "{n}日後",
+           "checked": "確認", "codes_h": "公開されている割引コード", "codes_p": "ブランドや報道が公開したものだけ、条件もそのまま",
+           "cols": ["コード", "どこで", "条件", "締切", "確認"], "cards": "今週見ておきたいセール",
+           "pct": "% 最大オフ", "wd": "月火水木金土日"},
+    "zh-tw": {"seoul": "首爾現在", "phases": ["清晨", "白天", "傍晚", "夜晚"], "count": "已確認特賣 {d} 檔 · 公開代碼 {c} 組 · 指南 {g} 篇",
+              "board": "即將截止", "all": "全部", "left": "剩餘", "sale": "特賣", "today": "今天", "starts": "{n} 天後",
+              "checked": "已確認", "codes_h": "公開的折扣代碼", "codes_p": "只收品牌或媒體公開的代碼,條件照原文",
+              "cols": ["代碼", "哪裡用", "條件", "截止", "確認"], "cards": "這週值得看的特賣",
+              "pct": "% 最高折扣", "wd": "一二三四五六日"},
+}
+COUNTS = {}
+
+
+def seal(text="확인"):
+    return f'<b class="seal-mark" aria-hidden="true">{text}</b>'
+
+
+def live_items(lang):
+    today = date.today()
+    return [d for d in DEALS["items"] if d.get("text", {}).get(lang, {}).get("title")
+            and date.fromisoformat(d["end"]) >= today]
+
+
+def dday_html(d, lang):
+    hu, today = HOME_UI[lang], date.today()
+    s, e = date.fromisoformat(d["start"]), date.fromisoformat(d["end"])
+    if s > today:
+        return hu["starts"].format(n=(s - today).days), False
+    n = (e - today).days
+    return (hu["today"] if n == 0 else f"D-{n}"), n <= 2
+
+
+def short_date(iso, lang):
+    if not iso:
+        return ""
+    p = iso.split("-")
+    return ".".join(p[1:]) if len(p) == 3 else iso
+
+
+def stamp(d, lang):
+    src = d.get("source", {})
+    if not src.get("url"):
+        return ""
+    return (f'<a class="stamp" href="{html.escape(src["url"])}" rel="noopener" target="_blank">{seal()}'
+            f'<span>{HOME_UI[lang]["checked"]} {short_date(src.get("date", ""), lang)}</span></a>')
+
+
+def hero_html(d, lang):
+    h = d["hero"]
+    if h["kind"] == "pct":
+        return f'{h["value"]}<small>{HOME_UI[lang]["pct"]}</small>'
+    v = h["value"]  # krw
+    big = {"ko": (f"{v // 10000}", "만 원"), "en": (f"₩{v // 1000}k", " off, max"),
+           "ja": (f"{v // 10000}", "万ウォン"), "zh-tw": (f"{v // 10000}", "萬韓元")}[lang]
+    return f'{big[0]}<small>{big[1]}</small>'
+
+
+def first_sentence(t):
+    """First sentence that says more than the headline number (skips 'Up to 85%.')."""
+    parts = [x for x in re.split(r"(?:(?<=[.!?])(?=\s|$)|(?<=。))\s*", t.strip()) if x]
+    for x in parts:
+        if len(re.sub(r"[\d%.,\s]", "", x)) >= 10:
+            return x
+    return parts[0] if parts else ""
+
+
+def deal_cards(lang, n=3):
+    today = date.today()
+    pool = sorted([d for d in live_items(lang) if d.get("hero") and d.get("status") == "confirmed"
+                   and date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])
+    picked, cats = [], set()
+    for d in pool:  # one per category, so three different reasons to look
+        if d.get("category") in cats:
+            continue
+        picked.append(d); cats.add(d.get("category"))
+        if len(picked) == n:
+            break
+    out = []
+    for d in picked:
+        t = d["text"][lang]
+        dd, hot = dday_html(d, lang)
+        out.append(f'<article class="dc" data-start="{d["start"]}" data-end="{d["end"]}">'
+                   f'<div class="dc-top"><span>{inline(t["title"])}</span><span class="dday{" hot" if hot else ""}" data-today="{HOME_UI[lang]["today"]}">{dd}</span></div>'
+                   f'<div class="num">{hero_html(d, lang)}</div>'
+                   f'<p>{inline(first_sentence(t["note"]))}</p>{stamp(d, lang)}</article>')
+    return f'<section class="deals3" aria-label="{HOME_UI[lang]["cards"]}">{"".join(out)}</section>' if out else ""
+
+
+def countdown(lang, n=5):
+    today, hu, L = date.today(), HOME_UI[lang], SITE["languages"][lang]
+    items = sorted([d for d in live_items(lang) if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])[:n]
+    rows = ""
+    for d in items:
+        dd, hot = dday_html(d, lang)
+        rows += (f'<tr data-start="{d["start"]}" data-end="{d["end"]}"><td class="d{" hot" if hot else ""}"><span class="dday" data-today="{hu["today"]}">{dd}</span></td>'
+                 f'<td>{inline(d["text"][lang]["title"])}<small>{deal_dates(d, lang)}</small></td></tr>')
+    return (f'<aside class="board"><h2><span>{hu["board"]}</span><a href="{L["prefix"]}/deals/">{hu["all"]}</a></h2>'
+            f'<table><thead><tr><th>{hu["left"]}</th><th>{hu["sale"]}</th></tr></thead><tbody>{rows}</tbody></table></aside>')
+
+
+def codes_table(lang):
+    hu, du = HOME_UI[lang], DEAL_UI[lang]
+    rows = ""
+    for d in sorted(live_items(lang), key=lambda d: d["end"]):
+        for c in d.get("code", []):
+            cn = c.get("note", {}).get(lang, "")
+            rows += (f'<tr data-start="{d["start"]}" data-end="{d["end"]}"><td><code>{html.escape(c["value"])}</code></td>'
+                     f'<td>{inline(d["text"][lang]["title"])}</td><td>{html.escape(cn)}</td>'
+                     f'<td class="mono">{short_date(d["end"], lang)}</td><td>{stamp(d, lang)}</td>'
+                     f'<td><button type="button" class="copy" data-code="{html.escape(c["value"])}" data-done="{du["copied"]}">{du["copy"]}</button></td></tr>')
+    if not rows:
+        return ""
+    head = "".join(f"<th>{h}</th>" for h in hu["cols"]) + "<th></th>"
+    return (f'<section class="sec"><div class="sec-h"><h2>{hu["codes_h"]}</h2><p>{hu["codes_p"]}</p></div>'
+            f'<div class="table"><table class="codes"><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table></div></section>')
+
+
+def dateline(lang):
+    hu, t = HOME_UI[lang], date.today()
+    wd = hu["wd"][t.weekday()]
+    ds = {"ko": f"{t.year}. {t.month}. {t.day}. {wd}", "en": f"{wd} {t.day} {t.strftime('%b')} {t.year}",
+          "ja": f"{t.year}年{t.month}月{t.day}日({wd})", "zh-tw": f"{t.year}年{t.month}月{t.day}日 週{wd}"}[lang]
+    c = COUNTS.get(lang, {})
+    count = hu["count"].format(d=c.get("deals", 0), c=c.get("codes", 0), g=c.get("guides", 0))
+    return (f'<div class="dateline"><span>{ds} · <span id="seoul-now" data-label="{hu["seoul"]}" '
+            f'data-phases="{"|".join(hu["phases"])}">{hu["seoul"]}</span></span><span>{count}</span></div>')
+
+
+SKY = """<svg class="sky" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+<defs><radialGradient id="sunG"><stop offset="0" stop-color="#c8402c" stop-opacity=".4"/><stop offset="1" stop-color="#c8402c" stop-opacity="0"/></radialGradient>
+<radialGradient id="moonG"><stop offset="0" stop-color="#efe6d2" stop-opacity=".3"/><stop offset="1" stop-color="#efe6d2" stop-opacity="0"/></radialGradient>
+<linearGradient id="peak" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#2c3a50"/><stop offset="1" stop-color="#1b2140"/></linearGradient></defs>
+<g id="stars" fill="#f3ead8"></g>
+<g id="sun" style="display:none"><circle r="80" fill="url(#sunG)"/><circle r="20" fill="#d74a46" opacity=".9"/></g>
+<g id="moon" style="display:none"><circle r="70" fill="url(#moonG)"/><circle r="16" fill="#efe6d2" opacity=".9"/></g>
+<path d="M0 420 L0 350 Q60 320 110 280 Q150 320 220 322 Q290 322 340 262 Q390 318 470 318 Q540 318 600 240 Q660 318 730 318 Q810 318 860 262 Q910 322 980 322 Q1050 322 1090 280 Q1140 320 1200 350 L1200 420Z" fill="url(#peak)" opacity=".8"/>
+</svg>"""
+
+
 # ---------- layout ----------
 def page(lang, meta, body_html, path, alternates):
     ui, L = SITE["ui"][lang], SITE["languages"][lang]
@@ -242,26 +401,35 @@ def page(lang, meta, body_html, path, alternates):
 <meta property="og:title" content="{html.escape(title)}"><meta property="og:description" content="{html.escape(desc)}">
 <meta property="og:type" content="website"><meta property="og:url" content="{canonical}"><meta property="og:site_name" content="Nadri">
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
-<link rel="preload" href="/static/fonts/bricolage-latin.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/static/style.css">{head_extra}
+<link rel="stylesheet" href="/static/fonts.css"><link rel="stylesheet" href="/static/style.css">{head_extra}
 </head>
 <body class="lang-{lang}{' home' if meta.get('home') else ''}{' s-' + meta['section'] if meta.get('section') else ''}">
 <a class="skip" href="#main">{ui['skip']}</a>
-<header class="site-head">
-  <a class="brand" href="{L['prefix']}/" aria-label="Nadri home"><img src="/static/nadri-mark.svg" alt="" width="34" height="34"><span>Nadri</span></a>
-  <nav class="main-nav" aria-label="{ui['nav_label']}">{nav}</nav>
-  <nav class="langs" aria-label="{ui['lang_label']}">{langs}</nav>
+<header class="site-head{' mast' if meta.get('home') else ''}">
+  {SKY}
+  <div class="wrap">
+    {dateline(lang)}
+    <div class="brand-row">
+      <a class="brand" href="{L['prefix']}/" aria-label="Nadri home"><img src="/static/nadri-mark.svg" alt="" width="44" height="44"><{'h1' if meta.get('home') else 'span'} class="wordmark">Nadri</{'h1' if meta.get('home') else 'span'}></a>
+      {('<p class="tagline">' + html.escape(ui['tagline']) + '</p>') if meta.get('home') else ''}
+    </div>
+    <div class="nav-row">
+      <nav class="main-nav" aria-label="{ui['nav_label']}">{nav}</nav>
+      <nav class="langs" aria-label="{ui['lang_label']}">{langs}</nav>
+    </div>
+  </div>
 </header>
-<main id="main">
+<main id="main" class="wrap">
 {header_block}
 {('<div class="home-body">' + body_html + '</div>') if meta.get('home') else ('<article class="body">' + body_html + '</article>')}
 {report_box(lang, meta, path)}
 </main>
-<footer class="site-foot">
+<footer class="site-foot wrap">
   <p class="foot-brand"><strong>Nadri</strong> {ui['tagline']}</p>
   <p class="foot-links">{''.join(f'<a href="{L["prefix"]}{h}">{t}</a>' for h, t in ui['foot'])}</p>
   <p class="foot-small">{ui['foot_note']}</p>
 </footer>
+<script src="/static/site.js" defer></script>
 </body>
 </html>
 """
@@ -306,6 +474,10 @@ def build():
     missing = sorted(f"content/{l}/{s}.md" for l in SITE["languages"] for s in slugs if (l, s) not in pages)
     if missing:
         raise SystemExit("Missing translations (every shared page must exist in every language):\n  " + "\n  ".join(missing))
+    for lang in SITE["languages"]:
+        items = live_items(lang)
+        COUNTS[lang] = {"deals": len(items), "codes": sum(len(d.get("code", [])) for d in items),
+                        "guides": sum(1 for (l, _), (m, _b) in pages.items() if l == lang and m.get("section"))}
     urls = []
     for (lang, slug), (meta, body) in pages.items():
         alternates = {l: url_for(l, slug) for l in SITE["languages"] if (l, slug) in pages}

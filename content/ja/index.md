@@ -2,33 +2,24 @@
 title: Nadri|韓国旅行の準備と買い物を、迷わず計画
 description: 電子入国申告、K-ETA、アプリ、お金、オリーブヤングのセール時期まで。公式情報で確認した韓国旅行ガイド。
 home: yes
-updated: 2026-11-23
+updated: 2026-11-25
 ---
-<section class="hero">
-<div>
-<h1>韓国旅行、迷わず準備。</h1>
-<p>入国手続き、アプリ、お金、買い物、セールの時期。公式情報で確認して、最新の状態に保っています。</p>
-</div>
-<nav class="bojagi" aria-label="ガイド">
-<a class="patch p-essentials" href="/ja/essentials/"><b>出発前の準備</b><small>電子入国申告書、K-ETA、通信、お金、使えるアプリ</small></a>
-<a class="patch p-oy" href="/ja/olive-young/"><b>オリーブヤング</b><small>行くべき時期とセールの仕組み</small></a>
-<a class="patch p-tax" href="/ja/tax-refund/"><b>免税・還付</b><small>5〜8%が戻る</small></a>
-<a class="patch p-deals" href="/ja/deals/"><b>セール情報</b><small>旅行日程を合わせたい韓国のセール</small></a>
-<span class="patch p-soon"><b>グルメ・文化ガイド準備中</b></span>
-</nav>
-</section>
-<section class="home-section">
-<h2>今月のセール情報</h2>
+<section class="front">
+<article class="lead">
+<span class="kicker">今日の判断</span>
+<h2>今週ソウルにいるなら、ブラックフライデーより先に百貨店セール。日曜で終わります</h2>
+<p class="first">オンラインのブラックフライデーは12月初めまで続きますが、新世界・ロッテ・現代百貨店の冬の定期セールは11月29日(日)に一斉に終わります。冬のコートのように試着したいものは、百貨店が先。</p>
+<p>新世界・ロッテは最大50%、現代は初回販売価格から最大60%。パスポートを持って行けば、免税対応店舗ではさらに税金分が戻ります。</p>
+<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">出典:ZDNet Korea、2026-11-10</a> · <a href="/ja/deals/">セールをすべて見る</a></p>
+</article>
 
-{{deals:2}}
+{{board:5}}
 
 </section>
-<section class="home-section">
-<h2>まずはここから</h2>
-<ul class="guide-list">
-<li style="--c:var(--celadon)"><div><a href="/ja/essentials/">韓国旅行の準備リスト:到着前に済ませること</a><p>電子入国申告書は2026年から必須に。Googleマップはまだ不十分で、交通カードのチャージは現金が基本です。</p></div></li>
-<li style="--c:var(--plum)"><div><a href="/ja/olive-young/">オリーブヤングを賢く買う方法</a><p>年4回の大型セール、毎月のオリーブヤングデー、そしてパスポートでその場で免税になる仕組み。</p></div></li>
-<li style="--c:var(--yellow)"><div><a href="/ja/tax-refund/">韓国の免税・税金還付をわかりやすく</a><p>1店舗で15,000ウォン以上買えば、レジで税金分が差し引かれることも。</p></div></li>
-<li style="--c:var(--celadon)"><div><a href="/ja/airport-to-seoul/">仁川空港からソウルへ:泊まる場所で選ぶ</a><p>直通列車、一般列車、リムジンバス。ホテルの場所から逆算すれば迷いません。</p></div></li>
-</ul>
-</section>
+
+{{dealcards:3}}
+
+<section class="sec"><div class="sec-h"><h2>旅の順番で</h2><p>各段階で知っておきたいことを一つか二つだけ</p></div><div class="cols"><div class="col"><h3>出発前</h3><h4>電子入国申告は72時間前から</h4><p>到着前72時間以内に、公式サイトだけで。似たアドレスの代行サイトは手数料を取ります。</p><a href="/ja/essentials/">出発前の準備</a></div><div class="col"><h3>到着日</h3><h4>電車かバスかはホテルで決まる</h4><p>ソウル駅の近くなら直通列車で約43分、大人13,000ウォン。明洞・江南ならリムジンバスの方が近くまで行けます。</p><a href="/ja/airport-to-seoul/">空港からソウルへ</a></div><div class="col"><h3>買い物</h3><h4>税金はレジでその場で引かれる</h4><p>免税店舗でレシート1枚が15,000ウォン以上100万ウォンまでなら、その場で還付。</p><a href="/ja/tax-refund/">タックスリファンド</a></div><div class="col"><h3>オリーブヤング</h3><h4>セール週に合わせる</h4><p>大きなセールは年4回、毎月25〜27日はオリヤンデー。日程が重なればその週にまとめ買い。</p><a href="/ja/olive-young/">オリーブヤング</a></div></div></section>
+
+{{codes}}
+

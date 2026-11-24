@@ -2,33 +2,24 @@
 title: Nadri|韓國自由行準備與購物,一次規劃好
 description: 電子入境卡、K-ETA、App、換錢、Olive Young 特賣時間。依官方資料確認的韓國旅遊指南。
 home: yes
-updated: 2026-11-23
+updated: 2026-11-25
 ---
-<section class="hero">
-<div>
-<h1>韓國自由行,準備不再卡關。</h1>
-<p>入境手續、App、付款、購物、特賣時間。依官方資料確認,隨時更新。</p>
-</div>
-<nav class="bojagi" aria-label="指南">
-<a class="patch p-essentials" href="/zh-tw/essentials/"><b>出發前準備</b><small>電子入境卡、K-ETA、網路、付款、真正好用的 App</small></a>
-<a class="patch p-oy" href="/zh-tw/olive-young/"><b>Olive Young</b><small>什麼時候去最划算</small></a>
-<a class="patch p-tax" href="/zh-tw/tax-refund/"><b>退稅</b><small>拿回 5–8%</small></a>
-<a class="patch p-deals" href="/zh-tw/deals/"><b>優惠看板</b><small>值得配合行程的韓國特賣</small></a>
-<span class="patch p-soon"><b>美食・文化指南準備中</b></span>
-</nav>
-</section>
-<section class="home-section">
-<h2>本月優惠看板</h2>
+<section class="front">
+<article class="lead">
+<span class="kicker">今天的判斷</span>
+<h2>這週人在首爾?先看百貨公司冬季特賣,週日就結束</h2>
+<p class="first">網購黑五會延續到 12 月初,但新世界、樂天、現代百貨的冬季定期特賣 11 月 29 日(週日)同時結束。冬季外套這種要試穿的東西,先去百貨公司。</p>
+<p>新世界、樂天最高 5 折,現代是首賣價最高 4 折。記得帶護照,有退稅服務的櫃位還能再退稅。</p>
+<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">來源:ZDNet Korea,2026-11-10</a> · <a href="/zh-tw/deals/">看全部特賣</a></p>
+</article>
 
-{{deals:2}}
+{{board:5}}
 
 </section>
-<section class="home-section">
-<h2>從這裡開始</h2>
-<ul class="guide-list">
-<li style="--c:var(--celadon)"><div><a href="/zh-tw/essentials/">韓國自由行準備清單:落地前要搞定的事</a><p>電子入境卡 2026 年起變成必填,Google Maps 還不夠好用,交通卡儲值仍以現金為主。</p></div></li>
-<li style="--c:var(--plum)"><div><a href="/zh-tw/olive-young/">Olive Young 聰明買攻略</a><p>一年四次大特賣、每月 Olive Young Day,以及帶護照就能現場退稅。</p></div></li>
-<li style="--c:var(--yellow)"><div><a href="/zh-tw/tax-refund/">韓國退稅一次看懂</a><p>同一家店單筆滿 15,000 韓元,稅金常常結帳時就直接扣掉。</p></div></li>
-<li style="--c:var(--celadon)"><div><a href="/zh-tw/airport-to-seoul/">仁川機場到首爾:看你住哪裡來選</a><p>直達車、普通車還是機場巴士?從飯店位置倒推就不會選錯。</p></div></li>
-</ul>
-</section>
+
+{{dealcards:3}}
+
+<section class="sec"><div class="sec-h"><h2>照旅行順序</h2><p>每個階段只講一兩件該知道的事</p></div><div class="cols"><div class="col"><h3>出發前</h3><h4>電子入境卡 72 小時前開放</h4><p>抵達前 72 小時內,只在官方網站填。網址很像的代辦網站會收手續費。</p><a href="/zh-tw/essentials/">出發前準備</a></div><div class="col"><h3>抵達當天</h3><h4>搭火車還是巴士,看飯店</h4><p>住首爾站附近,直達車約 43 分鐘、成人 13,000 韓元。住明洞、江南的話,機場巴士停得更近。</p><a href="/zh-tw/airport-to-seoul/">機場到首爾</a></div><div class="col"><h3>購物</h3><h4>稅在結帳時直接扣</h4><p>在退稅店,單張收據 15,000 韓元以上、100 萬韓元以內,當場退稅。</p><a href="/zh-tw/tax-refund/">退稅</a></div><div class="col"><h3>Olive Young</h3><h4>配合特賣週去</h4><p>一年四次大特賣,每月 25~27 日是 Olive Young Day。日期重疊就那週一次買齊。</p><a href="/zh-tw/olive-young/">Olive Young</a></div></div></section>
+
+{{codes}}
+

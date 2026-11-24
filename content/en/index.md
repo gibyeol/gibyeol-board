@@ -2,33 +2,24 @@
 title: Nadri: plan your Korea trip without the guesswork
 description: Entry forms, apps, money, shopping and sale dates for visiting Korea, checked against official sources and kept up to date.
 home: yes
-updated: 2026-11-23
+updated: 2026-11-25
 ---
-<section class="hero">
-<div>
-<h1>Plan Korea without the guesswork.</h1>
-<p>Entry forms, apps, money, shopping and sale dates. Checked against official sources and kept up to date, so you can spend the trip enjoying it.</p>
-</div>
-<nav class="bojagi" aria-label="Guides">
-<a class="patch p-essentials" href="/essentials/"><b>Before you go</b><small>e-Arrival Card, K-ETA, data, money and the apps that actually work</small></a>
-<a class="patch p-oy" href="/olive-young/"><b>Olive Young</b><small>When to go, what the sales mean, tax-free tips</small></a>
-<a class="patch p-tax" href="/tax-refund/"><b>Tax refund</b><small>Get 5–8% back</small></a>
-<a class="patch p-deals" href="/deals/"><b>Deals board</b><small>Korean sales worth timing a trip around</small></a>
-<span class="patch p-soon"><b>Food and culture guides soon</b></span>
-</nav>
-</section>
-<section class="home-section">
-<h2>On the deals board</h2>
+<section class="front">
+<article class="lead">
+<span class="kicker">TODAY'S CALL</span>
+<h2>In Seoul this week? Seoul's department store sales end Sunday, before Black Friday does</h2>
+<p class="first">Online Black Friday deals run into early December, but the winter sales at Shinsegae, Lotte and Hyundai department stores all end on Sunday, November 29. If you want a winter coat you can try on, go to the department stores first.</p>
+<p>Shinsegae and Lotte go up to 50% off; Hyundai up to 60% off the first selling price. Bring your passport: tax-free shopping applies on top at stores that offer it.</p>
+<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">Source: ZDNet Korea, 2026-11-10</a> · <a href="/deals/">See every sale</a></p>
+</article>
 
-{{deals:2}}
+{{board:5}}
 
 </section>
-<section class="home-section">
-<h2>Start here</h2>
-<ul class="guide-list">
-<li style="--c:var(--celadon)"><div><a href="/essentials/">Korea trip essentials: what to sort out before you land</a><p>The e-Arrival Card is now mandatory, Google Maps still falls short, and cash still matters on the subway. Here is the short list.</p></div></li>
-<li style="--c:var(--plum)"><div><a href="/olive-young/">How to shop Olive Young like a local</a><p>The four big sales, the monthly Olive Young Day, and why your passport saves you money at the till.</p></div></li>
-<li style="--c:var(--yellow)"><div><a href="/tax-refund/">Tax refunds in Korea, explained</a><p>Spend ₩15,000 or more at a tax-free shop and the refund can come off the price on the spot.</p></div></li>
-<li style="--c:var(--celadon)"><div><a href="/airport-to-seoul/">Incheon Airport to Seoul: pick by where you sleep</a><p>Express train, all-stop train or airport bus. Start from your hotel and the answer gets easy.</p></div></li>
-</ul>
-</section>
+
+{{dealcards:3}}
+
+<section class="sec"><div class="sec-h"><h2>In the order of your trip</h2><p>One or two things worth knowing at each step</p></div><div class="cols"><div class="col"><h3>BEFORE YOU GO</h3><h4>The e-Arrival Card opens 72 hours out</h4><p>File it in the 72 hours before you land, on the official site only. Look-alike sites charge a fee.</p><a href="/essentials/">Before you go</a></div><div class="col"><h3>DAY ONE</h3><h4>Your hotel picks train or bus</h4><p>Near Seoul Station, the express train takes about 43 minutes for ₩13,000. For Myeongdong or Gangnam, the limousine bus stops closer to your door.</p><a href="/airport-to-seoul/">Airport to Seoul</a></div><div class="col"><h3>SHOPPING</h3><h4>Tax comes off at the till</h4><p>At tax-free stores, a receipt from ₩15,000 up to ₩1,000,000 gets the refund on the spot.</p><a href="/tax-refund/">Tax refund</a></div><div class="col"><h3>OLIVE YOUNG</h3><h4>Time it to a sale week</h4><p>Four big sales a year, plus Olive Young Day on the 25th–27th of every month. If your dates overlap, shop that week.</p><a href="/olive-young/">Olive Young</a></div></div></section>
+
+{{codes}}
+
