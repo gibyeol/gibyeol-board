@@ -90,6 +90,22 @@ th{font-family:var(--display);font-weight:700;background:var(--mist)}
 .deal-body strong{display:block;font-family:var(--display);font-size:1.1rem}
 .deal-body span{color:var(--ink-soft)}
 .deals-checked,.empty{font-size:.85rem;color:var(--ink-soft)}
+.deal[hidden]{display:none}
+.deal-dday{display:table;margin-top:.35rem;font:700 .82rem/1.2 var(--body);padding:.15rem .5rem;border-radius:999px;background:var(--ink);color:#fff}
+.deal.tbc .deal-dday{background:var(--ink-soft)}
+.deal-note{display:block}
+.deal-codes{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.55rem}
+.deal-code{display:inline-flex;align-items:center;gap:.45rem;background:var(--paper);border:2px dashed var(--plum);border-radius:6px;padding:.25rem .3rem .25rem .6rem}
+.code-label{font-size:.75rem;color:var(--ink-soft)}
+.deal-code code{font:700 .95rem/1.2 ui-monospace,SFMono-Regular,Menlo,monospace;color:var(--ink);letter-spacing:.02em}
+.copy{font:600 .8rem var(--body);border:0;border-radius:4px;background:var(--plum);color:#fff;padding:.3rem .6rem;cursor:pointer}
+.copy.done{background:var(--celadon)}
+.deal-links{display:flex;flex-wrap:wrap;gap:1rem;margin-top:.45rem;font-size:.85rem}
+.deal-src{color:var(--ink-soft)}
+.deal-go{font-weight:700}
+.deal-filter{display:flex;flex-wrap:wrap;gap:.4rem;margin:0 0 .9rem}
+.chip{font:600 .88rem var(--body);border:1.5px solid var(--ink);background:var(--paper);color:var(--ink);border-radius:999px;padding:.3rem .8rem;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:#fff}
 
 /* footer */
 .site-foot{padding:2rem clamp(1rem,4vw,3rem) 2.5rem;border-top:6px solid var(--seam);font-size:.92rem;color:var(--ink-soft)}

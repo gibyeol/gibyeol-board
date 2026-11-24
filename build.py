@@ -122,29 +122,86 @@ def parse(path):
 
 
 # ---------- deals board ----------
+DEAL_UI = {
+    "ko": {"all": "전체", "live": "진행 중", "soon": "곧 시작", "ends": "D-{n} 마감", "today": "오늘 마감",
+           "starts": "{n}일 뒤 시작", "copy": "복사", "copied": "복사됨", "source": "출처", "until": "까지",
+           "code": "코드", "filter": "분야"},
+    "en": {"all": "All", "live": "On now", "soon": "Coming up", "ends": "{n} days left", "today": "Ends today",
+           "starts": "Starts in {n} days", "copy": "Copy", "copied": "Copied", "source": "Source", "until": "until",
+           "code": "Code", "filter": "Category"},
+    "ja": {"all": "すべて", "live": "開催中", "soon": "まもなく", "ends": "残り{n}日", "today": "今日まで",
+           "starts": "{n}日後に開始", "copy": "コピー", "copied": "コピーしました", "source": "出典", "until": "まで",
+           "code": "コード", "filter": "カテゴリー"},
+    "zh-tw": {"all": "全部", "live": "進行中", "soon": "即將開始", "ends": "剩 {n} 天", "today": "今天截止",
+              "starts": "{n} 天後開始", "copy": "複製", "copied": "已複製", "source": "來源", "until": "截止",
+              "code": "代碼", "filter": "分類"},
+}
+
+
+def deal_dates(d, lang):
+    s, e = date.fromisoformat(d["start"]), date.fromisoformat(d["end"])
+    if lang == "en":
+        f = lambda x: x.strftime("%b ") + str(x.day)
+    else:
+        f = lambda x: f"{x.month}/{x.day}"
+    if d.get("open_start"):
+        return (f"~ {f(e)}" if lang != "en" else f"Until {f(e)}")
+    return f"{f(s)} – {f(e)}"
+
+
 def deals_board(lang, limit=None):
-    ui = SITE["ui"][lang]
-    items = [d for d in DEALS["items"] if lang in d.get("text", {})]
-    today = date.today().isoformat()
-    items = [d for d in items if d.get("end", "9999") >= today]
-    items.sort(key=lambda d: d.get("start", ""))
+    ui, du = SITE["ui"][lang], DEAL_UI[lang]
+    today = date.today()
+    items = [d for d in DEALS["items"] if lang in d.get("text", {}) and date.fromisoformat(d["end"]) >= today]
+    live = sorted([d for d in items if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])
+    soon = sorted([d for d in items if date.fromisoformat(d["start"]) > today], key=lambda d: d["start"])
+    items = live + soon
     if limit: items = items[:limit]
     if not items:
         return f'<p class="empty">{ui["deals_empty"]}</p>'
+    cats = DEALS.get("categories", {})
     rows = []
     for d in items:
         t = d["text"][lang]
-        status = ui["deal_confirmed"] if d.get("confirmed") else ui["deal_expected"]
-        when = t.get("when", "")
+        ok = d.get("status", "confirmed" if d.get("confirmed") else "expected") == "confirmed"
+        status = ui["deal_confirmed"] if ok else ui["deal_expected"]
+        cat = cats.get(d.get("category", ""), {}).get(lang, "")
+        s, e = date.fromisoformat(d["start"]), date.fromisoformat(d["end"])
+        if s > today:
+            dd = du["starts"].format(n=(s - today).days)
+        else:
+            n = (e - today).days
+            dd = du["today"] if n == 0 else du["ends"].format(n=n)
+        codes = ""
+        for c in d.get("code", []):
+            cn = c.get("note", {}).get(lang, "")
+            codes += (f'<span class="deal-code"><span class="code-label">{du["code"]}{" · " + html.escape(cn) if cn else ""}</span>'
+                      f'<code>{html.escape(c["value"])}</code><button type="button" class="copy" data-code="{html.escape(c["value"])}" '
+                      f'data-done="{du["copied"]}">{du["copy"]}</button></span>')
         link = ""
         if d.get("aff") and AFF.get(d["aff"], {}).get("url"):
-            link = f' <a href="{AFF[d["aff"]]["url"]}" rel="sponsored noopener" target="_blank">{ui["deal_go"]}</a>'
-        rows.append(f'<li class="deal {"ok" if d.get("confirmed") else "tbc"}"><div class="deal-when">{inline(when)}'
-                    f'<span class="deal-status">{status}</span></div><div class="deal-body"><strong>{inline(t["title"])}</strong>'
-                    f'<span>{inline(t["note"])}{link}</span></div></li>')
+            link = f'<a class="deal-go" href="{AFF[d["aff"]]["url"]}" rel="sponsored noopener" target="_blank">{ui["deal_go"]}</a>'
+        src = d.get("source", {})
+        src_html = (f'<a class="deal-src" href="{html.escape(src["url"])}" rel="noopener" target="_blank">{du["source"]}'
+                    f'{" (" + src["date"] + ")" if src.get("date") else ""}</a>') if src.get("url") else ""
+        rows.append(
+            f'<li class="deal {"ok" if ok else "tbc"}" data-cat="{d.get("category","")}" data-start="{d["start"]}" data-end="{d["end"]}">'
+            f'<div class="deal-when">{deal_dates(d, lang)}<span class="deal-dday">{dd}</span>'
+            f'<span class="deal-status">{status}{" · " + cat if cat else ""}</span></div>'
+            f'<div class="deal-body"><strong>{inline(t["title"])}</strong><span class="deal-note">{inline(t["note"])}</span>'
+            f'{"<div class=deal-codes>" + codes + "</div>" if codes else ""}'
+            f'<span class="deal-links">{link}{src_html}</span></div></li>')
+    chips = ""
+    if not limit:
+        used = [c for c in cats if any(d.get("category") == c for d in items)]
+        chips = (f'<div class="deal-filter" role="group" aria-label="{du["filter"]}">'
+                 f'<button type="button" class="chip" data-cat="" aria-pressed="true">{du["all"]}</button>'
+                 + "".join(f'<button type="button" class="chip" data-cat="{c}" aria-pressed="false">{cats[c][lang]}</button>' for c in used)
+                 + "</div>")
     checked = DEALS.get("checked", "")
-    return (f'<ul class="deals">{"".join(rows)}</ul>'
-            f'<p class="deals-checked">{ui["deals_checked"].format(date=checked)}</p>')
+    script = '<script src="/static/deals.js" defer></script>'
+    return (f'{chips}<ul class="deals" data-ends="{du["ends"]}" data-today="{du["today"]}" data-starts="{du["starts"]}">{"".join(rows)}</ul>'
+            f'<p class="deals-checked">{ui["deals_checked"].format(date=checked)}</p>{script}')
 
 
 # ---------- layout ----------

@@ -1,16 +1,17 @@
 ---
-title: Korea deals board
-description: Korean sales worth timing a trip around, with dates marked confirmed or expected and checked regularly.
-lede: Sales in Korea follow a calendar. This board lists the ones worth planning around, marks each date as confirmed or expected, and drops them when they end.
+title: Korea deals board: sales on now and coming up
+description: Korean sales worth timing a trip around, sorted by what ends first, with public codes and a source for every entry.
+lede: Sorted by what ends first. Every entry links to its source, public codes copy in one tap, and dates that are only expected are marked as such.
 section: deals
-updated: 2026-11-23
+updated: 2026-11-24
 ---
 {{deals}}
 
-## How we keep this board honest
+## How we keep this honest
 
-- **Confirmed** means the store has announced the dates.
-- **Expected** means the dates follow previous years. We change them the day the official announcement comes out.
-- When a deal ends, it comes off the board.
+- **Confirmed** means the brand or the press has published this year's dates. Every entry links to its source.
+- **Expected** follows previous years. We change it the day the official date is out.
+- Codes are only ones the brand or the press published. Check the conditions before you use one.
+- Ended sales drop off automatically.
 
-Spotted a sale we missed? Email gibyeol.official@gmail.com and we will check it.
+Spotted a sale we missed? Email gibyeol.official@gmail.com.
