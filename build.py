@@ -16,6 +16,7 @@ DIST = ROOT / "dist"
 SITE = json.loads((ROOT / "data/site.json").read_text(encoding="utf-8"))
 AFF = json.loads((ROOT / "data/affiliates.json").read_text(encoding="utf-8"))
 DEALS = json.loads((ROOT / "data/deals.json").read_text(encoding="utf-8"))
+LINKS = {k: v for k, v in json.loads((ROOT / "data/links.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
 BASE = SITE["base_url"].rstrip("/")
 CURRENT = ' aria-current="true"'
 
@@ -210,6 +211,43 @@ def deals_board(lang, limit=None):
             f'<p class="deals-checked">{ui["deals_checked"].format(date=checked)}</p>{script}')
 
 
+
+
+# ---------- official links: every thing we name gets a way to reach it ----------
+def link_attrs(e):
+    ios = f"https://apps.apple.com/app/{e['ios']}" if e.get("ios") else ""
+    andr = f"https://play.google.com/store/apps/details?id={e['android']}" if e.get("android") else ""
+    href = e.get("web") or ios or andr
+    data = (f' data-ios="{ios}"' if ios else "") + (f' data-android="{andr}"' if andr else "")
+    return f'class="go" href="{href}"{data} rel="noopener" target="_blank"'
+
+
+def autolink(body):
+    """Link the first plain-text mention of each registered name. Skips headings, existing links, code and buttons."""
+    parts = re.split(r"(<[^>]+>)", body)
+    skip, done = 0, set()
+    for i, part in enumerate(parts):
+        if part.startswith("<"):
+            m = re.match(r"<(/?)(a|h1|h2|h3|code|button|script)\b", part)
+            if m:
+                skip += -1 if m.group(1) else 1
+            continue
+        if skip > 0 or not part.strip():
+            continue
+        for key, e in LINKS.items():
+            if key in done:
+                continue
+            for term in sorted(e["terms"], key=len, reverse=True):
+                pos = part.find(term)
+                if pos < 0:
+                    continue
+                if term.isascii() and ((pos > 0 and part[pos - 1].isalnum()) or (pos + len(term) < len(part) and part[pos + len(term)].isalnum())):
+                    continue
+                part = part[:pos] + f"<a {link_attrs(e)}>{term}</a>" + part[pos + len(term):]
+                done.add(key)
+                break
+        parts[i] = part
+    return "".join(parts)
 
 # ---------- home components (v7 design: numbers lead, a seal marks what we checked) ----------
 HOME_UI = {
@@ -484,7 +522,7 @@ def build():
         path = url_for(lang, slug)
         out = DIST / path.strip("/") / "index.html" if path != "/" else DIST / "index.html"
         out.parent.mkdir(parents=True, exist_ok=True)
-        out.write_text(page(lang, meta, md(body, lang), path, alternates), encoding="utf-8")
+        out.write_text(page(lang, meta, autolink(md(body, lang)), path, alternates), encoding="utf-8")
         if meta.get("noindex") != "yes":
             urls.append((path, meta.get("updated", "")))
     sm = "".join(f"<url><loc>{BASE}{u}</loc>{f'<lastmod>{d}</lastmod>' if d else ''}</url>" for u, d in urls)

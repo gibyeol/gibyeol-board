@@ -43,6 +43,10 @@
     var cell = tag.closest('td'); if (cell) cell.classList.toggle('hot', n <= 2);
   });
 
+  // official links: send phones to the right app store
+  var ua = navigator.userAgent, os = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && 'ontouchend' in document) ? 'ios' : /Android/.test(ua) ? 'android' : '';
+  if (os) document.querySelectorAll('a.go[data-' + os + ']').forEach(function (a) { a.href = a.dataset[os]; });
+
   document.querySelectorAll('.codes .copy').forEach(function (b) {
     b.addEventListener('click', function () {
       var label = b.textContent;

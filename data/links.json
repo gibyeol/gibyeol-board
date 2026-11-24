@@ -1,0 +1,96 @@
+{
+ "_note": "Official destinations for things our pages mention. build.py links the first mention on each page (outside headings and existing links). Apps open the right store on iOS/Android; desktop goes to web, else the App Store page. Only add addresses checked on the official store or site.",
+ "naver_map": {
+  "terms": [
+   "Naver Map",
+   "네이버 지도",
+   "NAVERマップ"
+  ],
+  "web": "https://map.naver.com",
+  "ios": "id311867728",
+  "android": "com.nhn.android.nmap"
+ },
+ "kakao_map": {
+  "terms": [
+   "Kakao Map",
+   "카카오맵",
+   "カカオマップ"
+  ],
+  "web": "https://map.kakao.com",
+  "ios": "id304608425",
+  "android": "net.daum.android.map"
+ },
+ "kakao_t": {
+  "terms": [
+   "Kakao T",
+   "카카오 T"
+  ],
+  "ios": "id981110422",
+  "android": "com.kakao.taxi"
+ },
+ "papago": {
+  "terms": [
+   "Papago",
+   "파파고"
+  ],
+  "web": "https://papago.naver.com",
+  "ios": "id1147874819",
+  "android": "com.naver.labs.translator"
+ },
+ "subway_korea": {
+  "terms": [
+   "Subway Korea"
+  ],
+  "ios": "id325924444",
+  "android": "com.imagedrome.jihachul"
+ },
+ "korail_talk": {
+  "terms": [
+   "KorailTalk",
+   "코레일톡"
+  ],
+  "ios": "id1000558562",
+  "android": "com.korail.talk"
+ },
+ "wowpass": {
+  "terms": [
+   "WOWPASS",
+   "와우패스"
+  ],
+  "ios": "id1626691440",
+  "android": "com.wow.wowpass"
+ },
+ "olive_young_global": {
+  "terms": [
+   "Olive Young Global",
+   "올리브영 글로벌",
+   "オリーブヤンググローバル"
+  ],
+  "web": "https://global.oliveyoung.com",
+  "ios": "id1466755724"
+ },
+ "arex": {
+  "terms": [
+   "AREX",
+   "공항철도",
+   "空港鉄道",
+   "機場鐵路"
+  ],
+  "web": "https://www.airportrailroad.com"
+ },
+ "e_arrival": {
+  "terms": [
+   "e-Arrival Card",
+   "전자입국신고서",
+   "電子入国申告",
+   "電子入境卡"
+  ],
+  "web": "https://www.e-arrivalcard.go.kr"
+ },
+ "k_eta": {
+  "terms": [
+   "K-ETA"
+  ],
+  "web": "https://www.k-eta.go.kr"
+ }
+}
