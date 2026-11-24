@@ -25,7 +25,7 @@ updated: 2026-11-25
 ---
 ```
 - End with `## Sources` (or the localized heading used in that language's existing pages) and a `<p class="sources">…</p>` line listing sources with dates.
-- Internal links use the language prefix: en "", ja "/ja", zh-tw "/zh-tw", ko "/ko" (e.g. /ja/tax-refund/). Existing pages: essentials, airport-to-seoul, tax-refund, olive-young, deals, (money is being added: /money/).
+- Internal links use the language prefix: en "", ja "/ja", zh-tw "/zh-tw", ko "/ko" (e.g. /ja/tax-refund/). Live pages: essentials, airport-to-seoul, tax-refund, olive-young, deals, money, seoul-areas, winter, getting-around, e-arrival-card, ktx-busan, convenience-store, everyday, departure-day, guides. Link to them instead of repeating their content.
 
 ## Output
 Write four files: /home/claude/gibyeol-board/drafts/<slug>/en.md, ko.md, ja.md, zh-tw.md. Do not touch content/, build.py, data/ or git. Then self-check every fact against your notes, and report back: slug, titles, a list of facts with source URL+date, links.json proposals (verified), and anything you left out as unconfirmed.
