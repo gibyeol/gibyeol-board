@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-label="Tax refund at Daiso?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Tax refund at Daiso?</title>
+<rect width="720" height="520" fill="#f4f0e6"/>
+<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">Tax refund at Daiso?</text>
+<rect x="32" y="76" width="420" height="56" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<text x="242" y="110" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">“Tax Free” sign at this branch?</text>
+<line x1="452" y1="104" x2="500" y2="104" stroke="#5f5b55" stroke-width="2"/>
+<text x="476" y="96" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">No</text>
+<rect x="500" y="76" width="188" height="56" rx="10" fill="#e9e2d3"/>
+<text x="594" y="110" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">Pay normally</text>
+<line x1="242" y1="132" x2="242" y2="176" stroke="#5f5b55" stroke-width="2"/>
+<text x="254" y="160" font-size="15" fill="#b8392f" font-weight="bold" text-anchor="start">Yes</text>
+<rect x="32" y="176" width="420" height="56" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<text x="242" y="210" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">One receipt ₩15,000 or more?</text>
+<text x="242" y="256" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">₩5,000 × 3 = ₩15,000</text>
+<line x1="452" y1="204" x2="500" y2="204" stroke="#5f5b55" stroke-width="2"/>
+<text x="476" y="196" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">No</text>
+<rect x="500" y="176" width="188" height="84" rx="10" fill="#e9e2d3"/>
+<text x="594" y="204" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">Add items, or</text>
+<text x="594" y="228" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">pay normally</text>
+<text x="594" y="300" font-size="15" fill="#b8392f" font-weight="normal" text-anchor="middle">Receipts can’t be added up</text>
+<line x1="242" y1="266" x2="242" y2="316" stroke="#5f5b55" stroke-width="2"/>
+<text x="254" y="298" font-size="15" fill="#b8392f" font-weight="bold" text-anchor="start">Yes</text>
+<rect x="32" y="316" width="420" height="84" rx="10" fill="#b8392f"/>
+<text x="242" y="350" font-size="18" fill="#ffffff" font-weight="bold" text-anchor="middle">Show your passport</text>
+<text x="242" y="378" font-size="18" fill="#ffffff" font-weight="bold" text-anchor="middle">before you pay</text>
+<rect x="32" y="440" width="656" height="44" rx="6" fill="#e9e2d3"/>
+<text x="360" y="468" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">Rules and limits: our tax refund page</text>
+</svg>

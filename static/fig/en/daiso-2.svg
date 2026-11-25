@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="A big Daiso in 15 minutes" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>A big Daiso in 15 minutes</title>
+<rect width="720" height="300" fill="#f4f0e6"/>
+<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">A big Daiso in 15 minutes</text>
+<rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="107.0" cy="114" r="20" fill="#16151a"/>
+<text x="107.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="107.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Floor guide</text>
+<text x="107.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">by the lift:</text>
+<text x="107.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">pick 2–3 floors</text>
+<path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="275.0" cy="114" r="20" fill="#16151a"/>
+<text x="275.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="275.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Beauty floor</text>
+<text x="275.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">first: popular</text>
+<text x="275.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">items sell out</text>
+<path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="443.0" cy="114" r="20" fill="#16151a"/>
+<text x="443.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="443.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">One basket</text>
+<text x="443.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">= one receipt</text>
+<text x="443.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">(not combined)</text>
+<path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="611.0" cy="114" r="20" fill="#b8392f"/>
+<text x="611.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="611.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Passport</text>
+<text x="611.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">at the till,</text>
+<text x="611.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">then pay</text>
+</svg>

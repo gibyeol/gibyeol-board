@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Every ride: tap in, tap out" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="720" height="300" fill="#f4f0e6"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">Every ride: tap in, tap out</text>
+<rect x="32.0" y="80" width="120" height="130" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="92.0" cy="114" r="18" fill="#16151a"/>
+<text x="92.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="92.0" y="164" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Board</text>
+<path d="M155.0 145 L163.0 145" stroke="#5f5b55" stroke-width="2"/><path d="M163.0 139 L169.0 145 L163.0 151 Z" fill="#5f5b55"/>
+<rect x="166.0" y="80" width="120" height="130" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<circle cx="226.0" cy="114" r="18" fill="#b8392f"/>
+<text x="226.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="226.0" y="164" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Tap card</text>
+<text x="226.0" y="188" font-size="14" font-weight="400" fill="#5f5b55" text-anchor="middle">on the reader</text>
+<path d="M289.0 145 L297.0 145" stroke="#5f5b55" stroke-width="2"/><path d="M297.0 139 L303.0 145 L297.0 151 Z" fill="#5f5b55"/>
+<rect x="300.0" y="80" width="120" height="130" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="360.0" cy="114" r="18" fill="#16151a"/>
+<text x="360.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="360.0" y="164" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Ride</text>
+<text x="360.0" y="188" font-size="14" font-weight="400" fill="#5f5b55" text-anchor="middle">follow the map</text>
+<path d="M423.0 145 L431.0 145" stroke="#5f5b55" stroke-width="2"/><path d="M431.0 139 L437.0 145 L431.0 151 Z" fill="#5f5b55"/>
+<rect x="434.0" y="80" width="120" height="130" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<circle cx="494.0" cy="114" r="18" fill="#b8392f"/>
+<text x="494.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="494.0" y="164" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Tap again</text>
+<text x="494.0" y="188" font-size="14" font-weight="400" fill="#5f5b55" text-anchor="middle">by the exit door</text>
+<path d="M557.0 145 L565.0 145" stroke="#5f5b55" stroke-width="2"/><path d="M565.0 139 L571.0 145 L565.0 151 Z" fill="#5f5b55"/>
+<rect x="568.0" y="80" width="120" height="130" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="628.0" cy="114" r="18" fill="#16151a"/>
+<text x="628.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="628.0" y="164" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Get off</text>
+<rect x="32" y="232" width="656" height="44" rx="10" fill="#ffffff" stroke="#b8392f"/>
+<text x="360" y="260" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">Skip the second tap and your transfer discount is gone</text>
+</svg>

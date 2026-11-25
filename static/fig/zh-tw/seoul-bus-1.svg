@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="首爾公車,看顏色就懂" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="720" height="440" fill="#f4f0e6"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">首爾公車,看顏色就懂</text>
+<rect x="32" y="70" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="44" y="80" width="76" height="36" rx="8" fill="#2f5d9e"/>
+<text x="82" y="104" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">藍</text>
+<text x="136" y="95" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">幹線</text>
+<text x="136" y="116" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">長距離穿越市區</text>
+<text x="672" y="105" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500韓元</text>
+<rect x="32" y="136" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="44" y="146" width="76" height="36" rx="8" fill="#3d7a4a"/>
+<text x="82" y="170" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">綠</text>
+<text x="136" y="161" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">支線・社區</text>
+<text x="136" y="182" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">短程接駁到車站</text>
+<text x="672" y="171" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500韓元(社區1,200)</text>
+<rect x="32" y="202" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="44" y="212" width="76" height="36" rx="8" fill="#d9a521"/>
+<text x="82" y="236" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">黃</text>
+<text x="136" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">循環</text>
+<text x="136" y="248" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">在市中心繞行</text>
+<text x="672" y="237" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,400韓元</text>
+<rect x="32" y="268" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="44" y="278" width="76" height="36" rx="8" fill="#b8392f"/>
+<text x="82" y="302" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">紅</text>
+<text x="136" y="293" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">廣域</text>
+<text x="136" y="314" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">連接首都圈與市區</text>
+<text x="672" y="303" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">3,000韓元</text>
+<rect x="32" y="334" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="44" y="344" width="76" height="36" rx="8" fill="#16151a"/>
+<text x="82" y="368" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">N…</text>
+<text x="136" y="359" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">深夜公車</text>
+<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">約23:10~06:00</text>
+<text x="672" y="369" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">2,500韓元</text>
+<text x="32" y="414" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">成人、交通卡票價</text>
+</svg>

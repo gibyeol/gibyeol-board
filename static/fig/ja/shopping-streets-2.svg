@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="2号線沿いの4つの買い物エリア" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>2号線沿いの4つの買い物エリア</title>
+<rect x="0" y="0" width="720" height="440" rx="14" fill="#f4f0e6"/>
+<text x="28" y="44" font-size="22" fill="#16151a" text-anchor="start" font-weight="bold">2号線沿いの4つの買い物エリア</text>
+<text x="692" y="44" font-size="14" fill="#5f5b55" text-anchor="end" font-weight="normal">イメージ図・縮尺は不正確</text>
+<path d="M0 330 C 120 300, 220 360, 360 330 S 600 300, 720 335 L 720 375 C 600 345, 480 385, 360 370 S 120 345, 0 372 Z" fill="#e9e2d3" stroke="#c9c1b2"/>
+<text x="360" y="402" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal">漢江</text>
+<ellipse cx="370" cy="270" rx="270" ry="150" fill="none" stroke="#16151a" stroke-width="3" stroke-dasharray="10 7"/>
+<text x="700" y="428" font-size="15" fill="#16151a" text-anchor="end" font-weight="bold">2号線(環状線)</text>
+<circle cx="323" cy="122" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<text x="323" y="78" font-size="17" fill="#16151a" text-anchor="middle" font-weight="bold">明洞</text>
+<text x="323" y="98" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="normal">コスメ</text>
+<circle cx="631" cy="231" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<text x="609" y="233" font-size="17" fill="#16151a" text-anchor="end" font-weight="bold">聖水</text>
+<text x="609" y="253" font-size="14" fill="#5f5b55" text-anchor="end" font-weight="normal">新ブランド・ポップアップ</text>
+<circle cx="101" cy="257" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<text x="123" y="259" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">弘大</text>
+<text x="123" y="279" font-size="14" fill="#5f5b55" text-anchor="start" font-weight="normal">若いファッション</text>
+<circle cx="484" cy="134" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<text x="500" y="94" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">東大門</text>
+<text x="500" y="114" font-size="14" fill="#5f5b55" text-anchor="start" font-weight="normal">夜の服探し</text>
+</svg>

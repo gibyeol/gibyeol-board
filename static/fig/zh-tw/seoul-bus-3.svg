@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="下車後的轉乘時限" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="720" height="330" fill="#f4f0e6"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">下車後的轉乘時限</text>
+<text x="32" y="128" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">白天</text>
+<rect x="180" y="100" width="480" height="44" rx="8" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="180" y="100" width="240.0" height="44" rx="8" fill="#e9e2d3" stroke="#16151a"/>
+<text x="300.0" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">30分鐘</text>
+<circle cx="180" cy="122" r="9" fill="#b8392f"/>
+<text x="32" y="218" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">21:00~隔天07:00</text>
+<rect x="180" y="190" width="480" height="44" rx="8" fill="#ffffff" stroke="#c9c1b2"/>
+<rect x="180" y="190" width="480.0" height="44" rx="8" fill="#e9e2d3" stroke="#16151a"/>
+<text x="420.0" y="218" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">60分鐘</text>
+<circle cx="180" cy="212" r="9" fill="#b8392f"/>
+<text x="180" y="86" font-size="15" font-weight="700" fill="#b8392f" text-anchor="middle">下車刷卡</text>
+<text x="32" y="292" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">時限內搭下一班公車或地鐵算轉乘</text>
+<text x="32" y="316" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">最多轉乘4次 · 同一路線再上車不算轉乘</text>
+</svg>

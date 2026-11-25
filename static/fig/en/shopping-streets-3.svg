@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 502" role="img" aria-label="Half-day route on Line 2" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Half-day route on Line 2</title>
+<rect x="0" y="0" width="720" height="502" rx="14" fill="#f4f0e6"/>
+<text x="28" y="44" font-size="22" fill="#16151a" text-anchor="start" font-weight="bold">Half-day route on Line 2</text>
+<rect x="20" y="68" width="680" height="72" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="56" cy="104.0" r="18" fill="#b8392f"/><text x="56" y="110.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">1</text>
+<text x="92" y="110.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">Seongsu</text>
+<text x="250" y="98" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">Early afternoon</text>
+<text x="250" y="122" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">Exit 3 or 4 · Yeonmujang-gil</text>
+<path d="M56 143 L56 159 M49 152 L56 160 L63 152" stroke="#16151a" stroke-width="2.5" fill="none"/>
+<rect x="20" y="162" width="680" height="72" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="56" cy="198.0" r="18" fill="#16151a"/><text x="56" y="204.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">2</text>
+<text x="92" y="204.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">Line 2</text>
+<text x="250" y="192" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">Ride west</text>
+<text x="250" y="216" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">to Dongdaemun History &amp; Culture Park</text>
+<path d="M56 237 L56 253 M49 246 L56 254 L63 246" stroke="#16151a" stroke-width="2.5" fill="none"/>
+<rect x="20" y="256" width="680" height="72" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="56" cy="292.0" r="18" fill="#b8392f"/><text x="56" y="298.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">3</text>
+<text x="92" y="298.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">Dongdaemun</text>
+<text x="250" y="286" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">Evening</text>
+<text x="250" y="310" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">Exit 1 → DDP · Some malls to midnight</text>
+<path d="M56 331 L56 347 M49 340 L56 348 L63 340" stroke="#16151a" stroke-width="2.5" fill="none"/>
+<rect x="20" y="350" width="680" height="72" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="56" cy="386.0" r="18" fill="#16151a"/><text x="56" y="392.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">4</text>
+<text x="92" y="392.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">Receipts</text>
+<text x="250" y="380" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">Keep with passport</text>
+<text x="250" y="404" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">Over ₩1,000,000 → airport refund</text>
+<rect x="20" y="440" width="680" height="44" rx="8" fill="#e9e2d3"/>
+<text x="36" y="468" font-size="15" fill="#16151a" text-anchor="start" font-weight="normal">Beauty first? Swap Seongsu for Myeongdong (Euljiro 1-ga, Line 2).</text>
+</svg>

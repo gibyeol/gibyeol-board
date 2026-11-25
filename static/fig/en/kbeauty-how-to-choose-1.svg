@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" role="img" aria-label="How to read a Korean cosmetics label (example, no real brand)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>How to read a Korean cosmetics label (example, no real brand)</title>
+<rect width="720" height="560" fill="#f4f0e6"/>
+<text x="40" y="34" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="start">Back of the box (example)</text>
+<rect x="40" y="48" width="330" height="480" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="60" y="88" font-size="22" fill="#16151a" font-weight="bold" text-anchor="start">수분 선크림</text>
+<text x="60" y="112" font-size="14" fill="#5f5b55" font-weight="normal" text-anchor="start">(예시 제품)</text>
+<rect x="60" y="132" width="130" height="34" rx="4" fill="#ffffff" stroke="#b8392f" stroke-width="2"/><text x="125" y="155" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="middle">기능성화장품</text>
+<text x="60" y="196" font-size="16" fill="#16151a" font-weight="normal" text-anchor="start">효능·효과: 자외선 차단</text>
+<rect x="60" y="214" width="250" height="48" rx="6" fill="#e9e2d3"/><text x="185" y="246" font-size="22" fill="#16151a" font-weight="bold" text-anchor="middle">SPF50+  PA++++</text>
+<text x="60" y="298" font-size="15" fill="#16151a" font-weight="bold" text-anchor="start">전성분:</text>
+<text x="60" y="322" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="start"><tspan x="60" dy="0">정제수, 글리세린, …,</tspan><tspan x="60" dy="20">향료, 시트로넬롤, 리모넨</tspan></text>
+<line x1="60" y1="378" x2="350" y2="378" stroke="#c9c1b2"/><text x="60" y="412" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">용량: 50mL</text>
+<line x1="330" y1="149" x2="400" y2="82" stroke="#b8392f" stroke-width="1.5"/><circle cx="412" cy="82" r="13" fill="#b8392f"/><text x="412" y="87" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="434" y="76" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="434" dy="0">"Functional cosmetic":</tspan><tspan x="434" dy="20">claim reviewed by MFDS</tspan></text>
+<line x1="330" y1="191" x2="400" y2="178" stroke="#b8392f" stroke-width="1.5"/><circle cx="412" cy="178" r="13" fill="#b8392f"/><text x="412" y="183" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="434" y="172" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="434" dy="0">What it was reviewed for</tspan><tspan x="434" dy="20">(here: UV protection)</tspan></text>
+<line x1="330" y1="238" x2="400" y2="274" stroke="#b8392f" stroke-width="1.5"/><circle cx="412" cy="274" r="13" fill="#b8392f"/><text x="412" y="279" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="434" y="268" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="434" dy="0">SPF and PA: see the</tspan><tspan x="434" dy="20">sunscreen card</tspan></text>
+<line x1="330" y1="316" x2="400" y2="354" stroke="#b8392f" stroke-width="1.5"/><circle cx="412" cy="354" r="13" fill="#b8392f"/><text x="412" y="359" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="434" y="348" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="434" dy="0">Full ingredient list. Fragrance</tspan><tspan x="434" dy="20">allergens are named one by one</tspan></text>
+<line x1="330" y1="407" x2="400" y2="450" stroke="#b8392f" stroke-width="1.5"/><circle cx="412" cy="450" r="13" fill="#b8392f"/><text x="412" y="455" font-size="15" fill="#ffffff" font-weight="bold" text-anchor="middle">5</text>
+<text x="434" y="444" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="434" dy="0">Volume: 100 mL or less</tspan><tspan x="434" dy="20">fits the cabin liquids bag</tspan></text>
+</svg>
