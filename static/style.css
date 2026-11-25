@@ -244,3 +244,7 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .namer-next{margin:10px 0 0;display:flex;flex-wrap:wrap;gap:6px;align-items:center}.namer-next span{font:500 .78rem var(--mono);color:var(--muted)}
 .namer-next button{font:600 .9rem var(--text);border:1px solid var(--ink);background:none;padding:6px 12px;cursor:pointer;color:var(--ink)}
 #namer[dir=rtl] .namer-text,#namer[dir=rtl] .namer-sec{text-align:right}
+.namer-pick{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:8px 0}.namer-pick>b{font:400 1.4rem 'Song Myung',serif;min-width:1.6em}
+.namer-pick button{font:400 1.05rem 'Song Myung',serif;border:1px solid var(--rule);background:#fff;padding:4px 8px;cursor:pointer;color:var(--ink)}
+.namer-pick button small{font:400 .72rem var(--text);color:var(--muted);margin-left:3px}.namer-pick button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}.namer-pick button.on small{color:var(--paper)}
+.namer-hanja-out{margin-top:10px}.namer-go{font:400 1.1rem 'Song Myung',serif;border:0;border-bottom:1px solid var(--ink);background:none;padding:0;cursor:pointer;color:var(--ink)}

@@ -7,12 +7,12 @@ report: no
 byline: no
 ---
 <div id="namer" data-lang="zh-tw"></div>
-<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name.js" defer></script>
+<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name.js" defer></script>
 
 ## 怎麼看
 
 - **讀音。** 韓文、日文片假名,以及台灣常用的中文音譯。韓文名字也有官方羅馬拼音和大約的片假名。
-- **意思。** 由來和意思標示*確定、很可能、不確定*並附出處,也用韓、日、中的詞和真實名字表達:Grace → 은혜 · 恵(めぐみ) · 恩惠。
+- **意思。** 由來和意思標示確定、很可能、不確定並附出處,也用韓、日、中的詞和真實名字表達:Grace → 은혜 · 恵(めぐみ) · 恩惠。
 - **你的名字在其他國家。** Sophia 在西班牙是 Sofía、在波蘭是 Zofia、在匈牙利是 Zsófia。Yusuf、Seán 這類變體會連回原本的名字。
 - **最受歡迎的地方。** 官方統計中新生兒名字排名最高的國家。沒有國家統計同名的人數,所以用排名而不是人數。
 - **在韓國會帶你去哪裡。** 每一步都標出處和可信度的小故事、去過的人的一句話,以及下一個名字。

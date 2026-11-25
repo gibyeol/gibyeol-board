@@ -7,12 +7,12 @@ report: no
 byline: no
 ---
 <div id="namer" data-lang="en"></div>
-<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name.js" defer></script>
+<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name.js" defer></script>
 
 ## How it works
 
 - **Sound.** Your name in Korean, Japanese and the characters Taiwan uses. Korean names also get the official romanization and an approximate katakana.
-- **Meaning.** Where the name comes from and what it means, marked *well documented*, *likely* or *uncertain*, with the source. Then the meaning as a word and as a real name in Korean, Japanese and Chinese: Grace becomes 은혜, 恵(めぐみ) and 恩惠.
+- **Meaning.** Where the name comes from and what it means, marked well documented, likely or uncertain, with the source. Then the meaning as a word and as a real name in Korean, Japanese and Chinese: Grace becomes 은혜, 恵(めぐみ) and 恩惠.
 - **Your name in other countries.** Sophia is Sofía in Spain, Zofia in Poland, Zsófia in Hungary. Variants like Yusuf or Seán lead back to their root name.
 - **Where it is most loved.** Where the name ranks highest among baby names in official statistics. No country counts how many living people share a first name, so we show ranks, not head counts.
 - **Where it leads in Korea.** A short chain with a source and a confidence mark on every step, a space for one line from someone who went, and the next name to follow.

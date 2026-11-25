@@ -7,12 +7,12 @@ report: no
 byline: no
 ---
 <div id="namer" data-lang="ja"></div>
-<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name.js" defer></script>
+<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name.js" defer></script>
 
 ## しくみ
 
 - **音。** 韓国語、日本語のカタカナ、台湾で使われる漢字の音訳。ハングルの名前には公式ローマ字とおおよそのカタカナも。
-- **意味。** 由来と意味を*確実・有力・不確か*で示し、出典つき。同じ意味を韓・日・中の言葉と実在の名前でも:Grace → 은혜 · 恵(めぐみ) · 恩惠。
+- **意味。** 由来と意味を確実・有力・不確かで示し、出典つき。同じ意味を韓・日・中の言葉と実在の名前でも:Grace → 은혜 · 恵(めぐみ) · 恩惠。
 - **ほかの国でのあなたの名前。** Sophiaはスペインで Sofía、ポーランドで Zofia、ハンガリーで Zsófia。Yusuf や Seán のような形は元の名前につながります。
 - **いちばん愛されている国。** 公式統計の赤ちゃんの名前ランキングで上位の国。同じ名前の人の数を数える国はないため、人数ではなく順位で示します。
 - **韓国でつながる場所。** 一歩ごとに出典と確かさを示した短い物語、行った人のひとことの欄、そして次の名前。

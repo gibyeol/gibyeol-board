@@ -45,9 +45,29 @@
     var habit = SURNAME_RR[parts[0]];
     var extra = habit && given ? habit + ' ' + cap(romanize(given).join('')) : '';
     var ja = parts.map(toKatakana).join('・');
-    return { hangul: parts.join(''), kind: 'hangul', sounds: [[UI.roman, rr + (extra && extra !== rr.replace('-', '') ? ' · ' + extra : '')], [UI.lJa + ' (' + UI.kanaApprox + ')', ja]], note: UI.rr };
+    var RS = window.KO_RU_SURNAME || {};
+    var ru = parts.map(function (w, i) { return i === 0 && RS[w] ? RS[w] : toCyrillic(w); }).join(' ');
+    return { hangul: parts.join(''), kind: 'hangul', sounds: [[UI.roman, rr + (extra && extra !== rr.replace('-', '') ? ' · ' + extra : '')], [UI.lJa + ' (' + UI.kanaApprox + ')', ja], [(T && T.lRu || 'Russian') + ' (' + UI.kanaApprox + ')', ru]], note: UI.rr, ko: { sur: parts.length > 1 ? parts[0] : '', given: parts.length > 1 ? given : parts[0] } };
   }
 
+
+
+  /* ---------- Hangul -> Cyrillic (Kontsevich system, approximate) ---------- */
+  var CYC = { 'ㄱ': ['к', 'г'], 'ㄲ': ['кк', 'кк'], 'ㄴ': ['н', 'н'], 'ㄷ': ['т', 'д'], 'ㄸ': ['тт', 'тт'], 'ㄹ': ['р', 'р'], 'ㅁ': ['м', 'м'], 'ㅂ': ['п', 'б'], 'ㅃ': ['пп', 'пп'], 'ㅅ': ['с', 'с'], 'ㅆ': ['сс', 'сс'], 'ㅇ': ['', ''], 'ㅈ': ['ч', 'дж'], 'ㅉ': ['чч', 'чч'], 'ㅊ': ['чх', 'чх'], 'ㅋ': ['кх', 'кх'], 'ㅌ': ['тх', 'тх'], 'ㅍ': ['пх', 'пх'], 'ㅎ': ['х', 'х'] };
+  var CYV = { 'ㅏ': 'а', 'ㅐ': 'э', 'ㅑ': 'я', 'ㅒ': 'йе', 'ㅓ': 'о', 'ㅔ': 'е', 'ㅕ': 'ё', 'ㅖ': 'е', 'ㅗ': 'о', 'ㅘ': 'ва', 'ㅙ': 'вэ', 'ㅚ': 'ве', 'ㅛ': 'ё', 'ㅜ': 'у', 'ㅝ': 'во', 'ㅞ': 'ве', 'ㅟ': 'ви', 'ㅠ': 'ю', 'ㅡ': 'ы', 'ㅢ': 'ый', 'ㅣ': 'и' };
+  var CYF = { 'ㄱ': 'к', 'ㄲ': 'к', 'ㅋ': 'к', 'ㄴ': 'н', 'ㅇ': 'н', 'ㅁ': 'м', 'ㄹ': 'ль', 'ㅂ': 'п', 'ㅍ': 'п', 'ㄷ': 'т', 'ㅅ': 'т', 'ㅆ': 'т', 'ㅈ': 'т', 'ㅊ': 'т', 'ㅌ': 'т', 'ㅎ': 'т' };
+  function toCyrillic(word) {
+    var out = '', prevFinal = '';
+    for (var i = 0; i < word.length; i++) {
+      if (!isHangul(word[i])) continue;
+      var p = split(word[i]), c = CYC[p[0]][i === 0 || (prevFinal && prevFinal !== 'ㄴ' && prevFinal !== 'ㅁ' && prevFinal !== 'ㅇ' && prevFinal !== 'ㄹ') ? 0 : 1];
+      var v = CYV[p[1]];
+      if (!c && (v === 'э' || v === 'е') && i === 0) v = v === 'э' ? 'э' : 'е';
+      out += c + v + (p[2] ? (CYF[p[2]] || '') : '');
+      prevFinal = p[2];
+    }
+    return out.charAt(0).toUpperCase() + out.slice(1);
+  }
 
   /* ---------- Hangul -> katakana (approximate, as Japanese media usually write Korean names) ---------- */
   var KROW = { '': 'アイウエオ', k: 'カキクケコ', g: 'ガギグゲゴ', s: 'サシスセソ', t: 'タチツテト', d: 'ダヂヅデド', n: 'ナニヌネノ', h: 'ハヒフヘホ', b: 'バビブベボ', p: 'パピプペポ', m: 'マミムメモ', r: 'ラリルレロ' };
@@ -431,6 +451,9 @@
         return '<li><span>' + esc(rname(t[0])) + '</span><b>' + T.rank.replace('{r}', t[2]).replace('{y}', t[1]) + '</b></li>';
       }).join('') + '</ol><p class="namer-src">' + T.popularNote + '</p></section>';
     }
+    // Korean names: surname count, baby-name rank, hanja picker, native meaning
+    if (r.kind === 'hangul' && r.ko) more += koSections(r);
+    if (r.chars) { var ab = abroadFor(r.chars.map(function (x) { return x.en; })); if (ab) more += '<section class="namer-sec"><h3 class="namer-h">' + T.koAbroad + '</h3>' + ab + '</section>'; }
     // 5. chain into Korea, with the slot for travellers' lines and the next name
     var steps = r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
     if (steps) {
@@ -448,7 +471,67 @@
       var url = location.origin + location.pathname + '?n=' + encodeURIComponent(name) + (uiLang !== SITE2UI[LANG] ? '&hl=' + uiLang : '');
       (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(function () { ev.target.textContent = T.copied; }, function () { prompt('', url); });
     };
-    Array.prototype.forEach.call(out.querySelectorAll('.namer-next button'), function (b) { b.onclick = function () { input.value = b.getAttribute('data-n'); render(input.value); root.scrollIntoView({ behavior: 'smooth' }); }; });
+    wireGo(); if (r.kind === 'hangul') wireHanja(r);
+  }
+
+
+  function abroadFor(meanings) {
+    var M = window.KO_MEANING_TO_NAME || {}, N = window.NADRI_NAMES || {}, seen = {}, out = [];
+    meanings.forEach(function (m) { (M[(m || '').toLowerCase()] || []).forEach(function (k) { if (!seen[k] && N[k] && typeof N[k] === 'object') { seen[k] = 1; out.push(k); } }); });
+    if (!out.length) return '';
+    var k3 = L3();
+    return '<ul class="namer-var">' + out.map(function (k) { var e = N[k]; return '<li><span>' + esc((e.m && (e.m[k3] || e.m.en)) || '') + '</span><b><button type="button" class="namer-go" data-n="' + k + '">' + k.charAt(0).toUpperCase() + k.slice(1) + '</button></b></li>'; }).join('') + '</ul>';
+  }
+  function koSections(r) {
+    var K = r.ko, h = '', k3 = L3(), fmt = function (n) { return Number(n).toLocaleString(); };
+    var POP = window.KO_SURNAME_POP || {}, TOT = window.KO_SURNAME_TOTAL || 5582;
+    if (K.sur) {
+      var sh = (window.KO_SURNAME_HANJA || {})[K.sur], hun = sh && (window.KO_SURNAME_HUN || {})[sh];
+      h += '<section class="namer-sec"><h3 class="namer-h">' + T.koSurname + ' · ' + esc(K.sur) + (sh ? ' ' + sh : '') + '</h3>';
+      if (hun) h += '<p class="namer-mean">' + sh + ' <span class="namer-origin">' + esc(hun[0]) + ' ' + esc(K.sur) + ' · ' + esc(hun[1]) + '</span></p>';
+      h += '<p class="namer-sub">' + (POP[K.sur] ? T.koPop.replace('{n}', fmt(POP[K.sur])).replace('{p}', (POP[K.sur] / 510694).toFixed(1)).replace('{t}', fmt(TOT)) : T.koPopOther.replace('{t}', fmt(TOT))) + '</p></section>';
+    }
+    var B = window.KO_BABY_2025 || { boys: [], girls: [] }, bi = B.boys.indexOf(K.given), gi = B.girls.indexOf(K.given);
+    h += '<section class="namer-sec"><h3 class="namer-h">' + T.koBaby + ' · ' + esc(K.given) + '</h3><p class="namer-sub">' +
+      (bi >= 0 ? T.koBabyRank.replace('{r}', bi + 1).replace('{g}', T.boys) + ' ' : '') + (gi >= 0 ? T.koBabyRank.replace('{r}', gi + 1).replace('{g}', T.girls) : '') + (bi < 0 && gi < 0 ? T.koBabyNone : '') + '</p>';
+    var nat = (window.KO_NATIVE || {})[K.given];
+    if (nat) h += '<p class="namer-sub"><span>' + T.koNative + '</span> <strong>' + esc(k3 === 'ko' ? nat[0] : nat[1]) + '</strong></p>' + abroadFor([nat[1]]);
+    h += '<p class="namer-src">' + T.src + ': ' + T.srcKo + '</p></section>';
+    // hanja picker for each syllable of the given name
+    var H = window.KO_NAME_HANJA || {}, sy = K.given.split('');
+    var rows = sy.map(function (c, i) {
+      var opts = H[c] || [];
+      if (!opts.length) return '<div class="namer-pick"><b>' + esc(c) + '</b> <span class="namer-origin">—</span></div>';
+      return '<div class="namer-pick" data-i="' + i + '"><b>' + esc(c) + '</b> ' + opts.map(function (o) { return '<button type="button" data-h="' + o[0] + '" data-hun="' + esc(o[1]) + '" data-en="' + esc(o[2]) + '">' + o[0] + ' <small>' + esc(o[1]) + '</small></button>'; }).join('') + '</div>';
+    }).join('');
+    h += '<section class="namer-sec namer-hanja"><h3 class="namer-h">' + T.koHanja + '</h3><p class="namer-sub">' + T.koHanjaHint + '</p>' + rows + '<div class="namer-hanja-out"></div></section>';
+    return h;
+  }
+  function wireHanja(r) {
+    var box = out.querySelector('.namer-hanja'); if (!box) return;
+    var picked = {};
+    Array.prototype.forEach.call(box.querySelectorAll('.namer-pick button'), function (b) {
+      b.onclick = function () {
+        var row = b.parentNode, i = row.getAttribute('data-i');
+        Array.prototype.forEach.call(row.querySelectorAll('button'), function (x) { x.classList.remove('on'); });
+        b.classList.add('on'); picked[i] = { h: b.getAttribute('data-h'), hun: b.getAttribute('data-hun'), en: b.getAttribute('data-en') };
+        var list = Object.keys(picked).sort().map(function (k) { return picked[k]; });
+        var sh = (window.KO_SURNAME_HANJA || {})[r.ko.sur] || '';
+        var name = sh + list.map(function (x) { return x.h; }).join('');
+        var chainId = null, KCH = window.NADRI_KANJI_CHAIN || {};
+        list.forEach(function (x) { if (!chainId && KCH[x.h]) chainId = KCH[x.h]; });
+        var o = '<p class="namer-mean">' + esc(name) + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
+        var ab = abroadFor(list.map(function (x) { return x.en; }));
+        if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab;
+        var steps = chainId && window.NADRI_CHAINS && window.NADRI_CHAINS[chainId], k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
+        if (steps) o += '<h3 class="namer-h">' + T.chain + '</h3><ol>' + steps.map(function (st) { return '<li>' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>'; }).join('') + '</ol>';
+        box.querySelector('.namer-hanja-out').innerHTML = o;
+        wireGo();
+      };
+    });
+  }
+  function wireGo() {
+    Array.prototype.forEach.call(out.querySelectorAll('.namer-go, .namer-next button'), function (b) { b.onclick = function () { input.value = b.getAttribute('data-n'); render(input.value); root.scrollIntoView({ behavior: 'smooth' }); }; });
   }
 
   /* shareable card: seal + name + meaning + address */

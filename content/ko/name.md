@@ -7,12 +7,12 @@ report: no
 byline: no
 ---
 <div id="namer" data-lang="ko"></div>
-<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name.js" defer></script>
+<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name.js" defer></script>
 
 ## 이렇게 보여 줘요
 
 - **소리.** 한국어, 일본어 가타카나, 대만식 한자 음역. 한글 이름은 로마자 표기와 대략적인 가타카나도.
-- **뜻.** 어원과 뜻을 *확실·유력·불확실*로 표시하고 출처를 달아요. 같은 뜻을 한·일·중 단어와 실제 이름으로도: Grace → 은혜 · 恵(めぐみ) · 恩惠.
+- **뜻.** 어원과 뜻을 확실·유력·불확실로 표시하고 출처를 달아요. 같은 뜻을 한·일·중 단어와 실제 이름으로도: Grace → 은혜 · 恵(めぐみ) · 恩惠.
 - **다른 나라에서 내 이름은.** Sophia는 스페인에서 Sofía, 폴란드에서 Zofia, 헝가리에서 Zsófia. Yusuf나 Seán 같은 변형은 뿌리 이름으로 이어져요.
 - **가장 사랑받는 곳.** 공식 통계의 아기 이름 순위가 가장 높은 나라들. 같은 이름을 가진 사람 수를 세는 나라는 없어서, 사람 수 대신 순위로 보여 줘요.
 - **한국에서 이어지는 곳.** 고리마다 출처와 확신도가 붙은 짧은 사슬, 다녀온 사람의 한 줄 자리, 그리고 다음 이름.
