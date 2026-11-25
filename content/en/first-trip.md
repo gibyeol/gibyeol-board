@@ -3,8 +3,12 @@ title: Your first Seoul trip in 4 days: a plan you can actually follow
 description: A day-by-day skeleton for a first Seoul trip: arrival, palaces and old Seoul, one neighborhood, then departure. Closing days and hours checked November 2026.
 lede: Plan four days as three half-days and two full ones, and give each full day one area, not five. The most common first-trip mistake is a packed arrival day, so ours has almost nothing in it.
 section: seoul
-updated: 2026-11-25
+updated: 2026-11-26
 ---
+## The day this plan is built around
+
+Day 2, just before 9:00. You come up exit 3 of Anguk Station and walk about five minutes to Changdeokgung, which opens at 9:00. After the palace, the Bukchon lanes next door are open to visitors from 10:00. At 17:00 visitor hours end in the red zones, and officials called Bukchon Guardians walk the alleys, reminding visitors it is time to leave. Everything else in this plan exists to protect that one day: an empty arrival day before it, and one neighborhood after it. Our pick for the last scene of the trip is a slow breakfast near the hotel on day 4, not one more sight.
+
 ## The one-line judgment
 
 | Situation | What to do | Why |
@@ -15,7 +19,9 @@ updated: 2026-11-25
 | Only 3 days | Cut the tower and the second neighborhood, keep the palace morning | The palace is the one thing you cannot do in your own city |
 | Not sure how long a ride takes | Check Naver Map on the day | Times change with traffic and line transfers, so we don't guess them here |
 
-What we left out: Busan, day trips outside Seoul, theme parks and a ranked list of "must-sees". This page is not for repeat visitors, who already know what they came back for.
+{{fig:first-trip-1|The four days at a glance}}
+
+How we chose: one area per day, and the palace morning first, because it is the one thing you cannot do in your own city. What we left out: Busan, day trips outside Seoul, theme parks and a ranked list of "must-sees". This page is not for repeat visitors, who already know what they came back for.
 
 ## Before you plan: two rules
 
@@ -23,13 +29,17 @@ What we left out: Busan, day trips outside Seoul, theme parks and a ranked list 
 
 **Check the day of the week.** Most palaces close one day a week (Monday or Tuesday), and Bukchon's lanes are open to visitors only in the daytime. Put your days in the right order and the rest is easy.
 
+**Before you go:** write your dates in a calendar with the weekday next to each, and pick your palace from that. If you want Changdeokgung's Secret Garden, it is the one thing on this plan to book in advance.
+
 ## Day 1: arrival
 
 Fill in the [e-Arrival Card](/e-arrival-card/) before you fly. At the airport, get a transport card or WOWPASS and data, then take the ride that suits your hotel: see [Incheon Airport to Seoul](/airport-to-seoul/) and, for the card, [getting around Seoul](/getting-around/).
 
 Then stop. Drop your bags, walk your own neighborhood, and eat close to the hotel. Our [food guide](/food/) covers what to order and how ordering works.
 
-**The day-1 mistake:** booking a palace, a show or a dinner reservation for the evening you land. A late flight, a slow immigration line or one wrong train and it is gone, and you start the trip tired and annoyed. Leave day 1 empty on purpose. If you land early and feel fine, a walk around the area you are staying in is plenty.
+{{fig:first-trip-2|Day one in four steps, with nothing booked for the evening}}
+
+> The day-1 mistake: booking a palace, a show or a dinner for the evening you land. A late flight, a slow immigration line or one wrong train and it is gone. Leave day 1 empty on purpose.
 
 ## Day 2: palaces and old Seoul
 
@@ -38,11 +48,13 @@ This is the day only Seoul can give you, so give it your freshest morning.
 **Morning: one palace, not three.** Pick by the day of the week:
 
 - **Gyeongbokgung** is the big main palace. Closed Tuesdays. In November it opens 09:00–17:00.
-- **Changdeokgung** is quieter and greener. Closed Mondays. From November to January it opens 09:00–17:30, last entry 16:30. Its Secret Garden (Huwon) is a separate tour that must be booked in advance and costs ₩5,000 on top.
+- **Changdeokgung** is quieter and greener, about five minutes on foot from Anguk Station exit 3. Closed Mondays. From November to January it opens 09:00–17:30, last entry 16:30. Its Secret Garden (Huwon) is a separate tour that must be booked in advance and costs ₩5,000 on top.
 
 Adult entry to either is ₩3,000. Visitors wearing hanbok get in free, and so do foreign visitors aged 18 or under or 65 and over. The government planned to raise palace fees from January 2027, but in October 2026 it said the timing is undecided and the free hanbok entry is under review, so check the official site ([royal.khs.go.kr](https://royal.khs.go.kr)) close to your trip. Hours also change by season.
 
-**Late morning: Bukchon, quietly.** The hanok lanes between the two palaces are people's homes. In the red zones, visitors are allowed only from 10:00 to 17:00, so go after your palace, not before breakfast and not after dark. Keep your voice down and don't step into doorways.
+{{fig:first-trip-3|Closing days, November hours and the Bukchon window}}
+
+**Late morning: Bukchon, quietly.** The hanok lanes between the two palaces are people's homes. In the red zones, visitors are allowed only from 10:00 to 17:00, so go after your palace. Keep your voice down and don't step into doorways.
 
 **Afternoon:** lunch around Insadong or Ikseon-dong, then go back to the hotel for an hour. That break is what makes the evening possible.
 
@@ -74,4 +86,4 @@ Don't add more sights. Add a slower version of day 3 in a second neighborhood, o
 
 ## Sources
 
-<p class="sources">Seoul Metropolitan Government Mediahub: <a href="https://mediahub.seoul.go.kr/archives/2019908" rel="noopener" target="_blank">palace closing days and Gyeongbokgung November hours</a> (3 November 2026), <a href="https://mediahub.seoul.go.kr/archives/2019140" rel="noopener" target="_blank">Changdeokgung hours, fee and Secret Garden</a> (26 August 2026), <a href="https://mediahub.seoul.go.kr/archives/2015206" rel="noopener" target="_blank">N Seoul Tower hours and buses</a> (8 August 2025). Yonhap via Daum, <a href="https://v.daum.net/v/20260805160024288" rel="noopener" target="_blank">palace fees and free-entry groups</a> (5 August 2026). Korea Times, <a href="https://www.koreatimes.co.kr/southkorea/20261008/govt-undecided-on-plan-to-raise-admission-fees-to-royal-palaces-tombs" rel="noopener" target="_blank">fee increase timing undecided, hanbok entry under review</a> (8 October 2026), <a href="https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20260215/why-seouls-bukchon-hanok-village-now-closes-to-tourists-after-5-pm/" rel="noopener" target="_blank">Bukchon visiting hours</a> (15 February 2026). Seollal dates, airport and departure facts: see the linked Nadri guides and their sources.</p>
+<p class="sources">Seoul Metropolitan Government Mediahub: <a href="https://mediahub.seoul.go.kr/archives/2019908" rel="noopener" target="_blank">palace closing days and Gyeongbokgung November hours</a> (3 November 2026), <a href="https://mediahub.seoul.go.kr/archives/2019140" rel="noopener" target="_blank">Changdeokgung hours, fee, Secret Garden and the walk from Anguk Station exit 3</a> (26 August 2026), <a href="https://mediahub.seoul.go.kr/archives/2015206" rel="noopener" target="_blank">N Seoul Tower hours and buses</a> (8 August 2025). Yonhap via Daum, <a href="https://v.daum.net/v/20260805160024288" rel="noopener" target="_blank">palace fees and free-entry groups</a> (5 August 2026). Korea Times, <a href="https://www.koreatimes.co.kr/southkorea/20261008/govt-undecided-on-plan-to-raise-admission-fees-to-royal-palaces-tombs" rel="noopener" target="_blank">fee increase timing undecided, hanbok entry under review</a> (8 October 2026), <a href="https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20260215/why-seouls-bukchon-hanok-village-now-closes-to-tourists-after-5-pm/" rel="noopener" target="_blank">Bukchon visiting hours and evening patrols</a> (15 February 2026). All of the above re-opened 26 November 2026, except the Yonhap/Daum article (not re-opened this round). Seollal dates, airport and departure facts: see the linked Nadri guides and their sources.</p>

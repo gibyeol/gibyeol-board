@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 446" role="img" aria-label="4つのカードと支払い方" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>4つのカードと支払い方</title>
+<rect width="400" height="446" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">4つのカードと支払い方</text>
+<rect x="16" y="56" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="66" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">T-money</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">コンビニ・駅の機械で。チャージは基本</text>
+<text x="78" y="125" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ウォン現金</text>
+<rect x="16" y="155" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="165" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="187" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">A</text>
+<text x="78" y="180" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">空港鉄道のT-moneyカード</text>
+<text x="78" y="202" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">空港鉄道の駅で1万5千ウォン。海外クレ</text>
+<text x="78" y="224" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ジットカード可</text>
+<rect x="16" y="254" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="264" width="37.334" height="32" rx="8" fill="#b8392f"/>
+<text x="48.667" y="286" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">W</text>
+<text x="79.334" y="279" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">WOWPASS</text>
+<text x="79.334" y="301" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">主要駅の機械で、自国通貨でチャージ</text>
+<rect x="16" y="331" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="341" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="363" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">C</text>
+<text x="78" y="356" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">気候同行カード短期券</text>
+<text x="78" y="378" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ソウル限定。273駅の新しい券売機で</text>
+<text x="78" y="400" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Visa・Mastercard可</text>
+</svg>

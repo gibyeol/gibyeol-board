@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 375" role="img" aria-label="セール札の読み方" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>セール札の読み方</title>
+<rect width="400" height="375" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">セール札の読み方</text>
+<rect x="16" y="56" width="368" height="70" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="56" width="110" height="70" rx="6" fill="#b8392f"/>
+<text x="71" y="101" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">1+1</text>
+<text x="140" y="98" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">1つ買うと、もう1つ無料</text>
+<rect x="16" y="136" width="368" height="70" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="136" width="110" height="70" rx="6" fill="#b8392f"/>
+<text x="71" y="181" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">2+1</text>
+<text x="140" y="178" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">2つ買うと、3つ目が無料</text>
+<rect x="16" y="220" width="368" height="89" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="245" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">本当にお得?</text>
+<text x="30" y="267" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">価格 ÷ もらえる個数 = 1個の値段。スーパーと</text>
+<text x="30" y="289" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">比べる</text>
+<text x="20" y="331" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">セールは月ごとに変わり、早く売り切れる商品も</text>
+<text x="20" y="353" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">あります。</text>
+</svg>

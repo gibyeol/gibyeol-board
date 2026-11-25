@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 634" role="img" aria-label="첫날 체크리스트" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>첫날 체크리스트</title>
+<rect width="400" height="634" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">첫날 체크리스트</text>
+<rect x="16" y="60" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="83" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">출발 전</text>
+<text x="52" y="123" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">전자입국신고서</text>
+<text x="52" y="145" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">도착 3일 전부터. 무료</text>
+<rect x="22" y="112" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 157 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="184" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">K-ETA</text>
+<text x="52" y="206" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">면제 대상이 아닐 때만</text>
+<rect x="22" y="173" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 218 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="245" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">데이터</text>
+<text x="52" y="267" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">eSIM 설치, 또는 공항 수령 유심</text>
+<rect x="22" y="234" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 279 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="306" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">앱 설치(와이파이에서)</text>
+<text x="52" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">네이버 지도, 카카오 T, 파파고</text>
+<rect x="22" y="295" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 340 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="367" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">여권 사진면</text>
+<text x="52" y="389" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">휴대폰에 사진 한 장</text>
+<rect x="22" y="356" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 401 H378" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="16" y="413" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="436" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">공항에서</text>
+<text x="52" y="476" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">데이터 켜기</text>
+<rect x="22" y="465" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 488 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="515" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">교통카드</text>
+<text x="52" y="537" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">티머니, WOWPASS, 공항철도 카드</text>
+<rect x="22" y="504" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 549 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="576" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">현금 조금</text>
+<text x="52" y="598" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">티머니 충전, 시장 음식</text>
+<rect x="22" y="565" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 610 H378" stroke="#c9c1b2" stroke-width="1"/>
+</svg>

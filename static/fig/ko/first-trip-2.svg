@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 499" role="img" aria-label="첫날, 순서대로" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>첫날, 순서대로</title>
+<rect width="400" height="499" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">첫날, 순서대로</text>
+<rect x="16" y="56" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="82" r="17" fill="#b8392f"/>
+<text x="48" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">출발 전</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">전자입국신고서 제출</text>
+<path d="M44 119 V141" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 135 L44 143 L50 135" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="147" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="173" r="17" fill="#b8392f"/>
+<text x="48" y="179" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="172" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">공항에서</text>
+<text x="78" y="194" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">교통카드와 데이터</text>
+<path d="M44 210 V232" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 226 L44 234 L50 226" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="238" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="264" r="17" fill="#b8392f"/>
+<text x="48" y="270" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="263" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">숙소에 맞는 교통편</text>
+<text x="78" y="285" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">자는 곳 기준으로 열차나 버스</text>
+<path d="M44 301 V323" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 317 L44 325 L50 317" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="329" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="355" r="17" fill="#b8392f"/>
+<text x="48" y="361" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="78" y="354" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">짐 내려놓기</text>
+<text x="78" y="376" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">동네 한 바퀴, 가까운 곳에서 식사</text>
+<rect x="16" y="406" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="48" cy="432" r="17" fill="#b8392f"/>
+<text x="48" y="438" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">✓</text>
+<text x="81.26" y="431" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">오늘 밤 예약 없음</text>
+<text x="81.26" y="453" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">비행기가 늦어도 잃을 게 없어요</text>
+</svg>

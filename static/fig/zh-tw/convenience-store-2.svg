@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 331" role="img" aria-label="看懂優惠標籤" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>看懂優惠標籤</title>
+<rect width="400" height="331" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">看懂優惠標籤</text>
+<rect x="16" y="56" width="368" height="70" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="56" width="110" height="70" rx="6" fill="#b8392f"/>
+<text x="71" y="101" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">1+1</text>
+<text x="140" y="98" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">買一送一</text>
+<rect x="16" y="136" width="368" height="70" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="136" width="110" height="70" rx="6" fill="#b8392f"/>
+<text x="71" y="181" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">2+1</text>
+<text x="140" y="178" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">買二送一</text>
+<rect x="16" y="220" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="245" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">划算嗎?</text>
+<text x="30" y="267" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">價格 ÷ 拿到的件數 = 單件價格。和大型超市比</text>
+<text x="20" y="309" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">優惠每月更換,有些商品會提早賣完。</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 375" role="img" aria-label="パスポート紛失:3か所" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>パスポート紛失:3か所</title>
+<rect width="400" height="375" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">パスポート紛失:3か所</text>
+<rect x="16" y="56" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="82" r="17" fill="#b8392f"/>
+<text x="48" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">交番:지구대・파출소</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">紛失届の確認書(분실신고 확인서)を</text>
+<text x="78" y="125" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">もらう</text>
+<path d="M44 141 V163" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 157 L44 165 L50 157" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="169" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="195" r="17" fill="#b8392f"/>
+<text x="48" y="201" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="194" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">日本大使館・総領事館</text>
+<text x="78" y="216" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">パスポート用写真、警察の確認書、航空</text>
+<text x="78" y="238" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">便の情報</text>
+<path d="M44 254 V276" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 270 L44 278 L50 270" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="282" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="308" r="17" fill="#b8392f"/>
+<text x="48" y="314" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="307" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">滞在について質問</text>
+<text x="78" y="329" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1345に電話</text>
+</svg>

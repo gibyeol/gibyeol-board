@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 516" role="img" aria-label="Four cards, and how you pay for them" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Four cards, and how you pay for them</title>
+<rect width="400" height="516" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Four cards, and how you pay for</text>
+<text x="20" y="68" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">them</text>
+<rect x="16" y="82" width="368" height="111" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="92" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="114" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">T</text>
+<text x="78" y="107" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">T-money</text>
+<text x="78" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Convenience stores and station</text>
+<text x="78" y="151" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">machines. Top-ups usually need won</text>
+<text x="78" y="173" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">cash</text>
+<rect x="16" y="203" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="213" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="235" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">A</text>
+<text x="78" y="228" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">AREX T-money card</text>
+<text x="78" y="250" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">₩15,000 at the airport railroad</text>
+<text x="78" y="272" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">stations. Foreign credit cards OK</text>
+<rect x="16" y="302" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="312" width="37.334" height="32" rx="8" fill="#b8392f"/>
+<text x="48.667" y="334" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">W</text>
+<text x="79.334" y="327" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">WOWPASS</text>
+<text x="79.334" y="349" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Load it at machines in major</text>
+<text x="79.334" y="371" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">stations, in your home currency</text>
+<rect x="16" y="401" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="411" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="433" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">C</text>
+<text x="78" y="426" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Climate Card (short-term)</text>
+<text x="78" y="448" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Seoul only. New machines at 273</text>
+<text x="78" y="470" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">stations take Visa and Mastercard</text>
+</svg>

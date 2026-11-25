@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 481" role="img" aria-label="어느 번호로?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>어느 번호로?</title>
+<rect width="400" height="481" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">어느 번호로?</text>
+<rect x="16" y="56" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="66" width="58.134800000000006" height="32" rx="8" fill="#b8392f"/>
+<text x="59.067400000000006" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">119</text>
+<text x="100.13480000000001" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">구급·화재</text>
+<text x="100.13480000000001" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">다쳤을 때, 불, 숨쉬기 힘들 때</text>
+<rect x="16" y="133" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="143" width="58.134800000000006" height="32" rx="8" fill="#b8392f"/>
+<text x="59.067400000000006" y="165" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">112</text>
+<text x="100.13480000000001" y="158" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">경찰</text>
+<text x="100.13480000000001" y="180" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">범죄, 위협, 불안할 때</text>
+<rect x="16" y="210" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="220" width="70.84640000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="65.42320000000001" y="242" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1330</text>
+<text x="112.84640000000002" y="235" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">관광통역안내</text>
+<text x="112.84640000000002" y="257" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">통역, 관광 불편 신고</text>
+<rect x="16" y="287" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="297" width="70.84640000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="65.42320000000001" y="319" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1339</text>
+<text x="112.84640000000002" y="312" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">건강 상담</text>
+<text x="112.84640000000002" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">응급이 아닐 때</text>
+<rect x="16" y="364" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="374" width="70.84640000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="65.42320000000001" y="396" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1345</text>
+<text x="112.84640000000002" y="389" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">출입국</text>
+<text x="112.84640000000002" y="411" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">비자와 체류</text>
+<text x="20" y="459" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">해외에서 1330: +82-2-1330</text>
+</svg>

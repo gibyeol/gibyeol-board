@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 331" role="img" aria-label="여권 분실: 세 곳만" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>여권 분실: 세 곳만</title>
+<rect width="400" height="331" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">여권 분실: 세 곳만</text>
+<rect x="16" y="56" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="82" r="17" fill="#b8392f"/>
+<text x="48" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">지구대·파출소</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">분실신고 확인서 받기</text>
+<path d="M44 119 V141" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 135 L44 143 L50 135" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="147" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="173" r="17" fill="#b8392f"/>
+<text x="48" y="179" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="172" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">자국 대사관</text>
+<text x="78" y="194" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">여권 사진, 경찰 확인서, 항공편 정보</text>
+<path d="M44 210 V232" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 226 L44 234 L50 226" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="238" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="264" r="17" fill="#b8392f"/>
+<text x="48" y="270" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="263" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">체류 관련 문의</text>
+<text x="78" y="285" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1345에 전화</text>
+</svg>

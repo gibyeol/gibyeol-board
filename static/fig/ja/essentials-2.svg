@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" role="img" aria-label="入国申告?それともK-ETA?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>入国申告?それともK-ETA?</title>
+<rect width="400" height="440" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">入国申告?それともK-ETA?</text>
+<rect x="16" y="56" width="368" height="91" rx="10" fill="#e9e2d3"/>
+<text x="30" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">有効なK-ETAを持っている?</text>
+<rect x="26" y="95" width="348" height="38" rx="8" fill="#ffffff"/>
+<rect x="36" y="105" width="58.24" height="26" rx="13" fill="#b8392f"/>
+<text x="65.12" y="123" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="104.24000000000001" y="117" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">入国申告は不要</text>
+<path d="M44 149 V171" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 165 L44 173 L50 165" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="167" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="179" width="368" height="136" rx="10" fill="#e9e2d3"/>
+<text x="30" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">K-ETA免除の対象?(2027年12月31</text>
+<text x="30" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">日まで)</text>
+<rect x="26" y="241" width="348" height="60" rx="8" fill="#ffffff"/>
+<rect x="36" y="251" width="58.24" height="26" rx="13" fill="#b8392f"/>
+<text x="65.12" y="269" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="104.24000000000001" y="263" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">電子入国申告を提出</text>
+<text x="104.24000000000001" y="285" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">無料、到着3日前から</text>
+<path d="M44 317 V339" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 333 L44 341 L50 333" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="335" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="347" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="372" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">先にK-ETAを申請</text>
+<text x="30" y="394" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">1万ウォン、予約の前に</text>
+</svg>

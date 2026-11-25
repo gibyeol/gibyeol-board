@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-label="存下這張圖,給旁邊的人看" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>存下這張圖,給旁邊的人看</title>
+<rect width="400" height="420" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">存下這張圖,給旁邊的人看</text>
+<rect x="16" y="56" width="368" height="106" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="26" y="70" width="64" height="34" rx="8" fill="#b8392f"/>
+<text x="58" y="93" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">112</text>
+<rect x="16" y="172" width="368" height="106" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="26" y="186" width="64" height="34" rx="8" fill="#b8392f"/>
+<text x="58" y="209" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">119</text>
+<rect x="16" y="288" width="368" height="106" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="26" y="302" width="64" height="34" rx="8" fill="#b8392f"/>
+<text x="58" y="325" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1330</text>
+<text x="100" y="90" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">도와주세요. 112(경찰)에 신</text>
+<text x="100" y="120" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">고해 주시겠어요?</text>
+<text x="100" y="142" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">可以幫我報警(112)嗎?</text>
+<text x="100" y="206" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">구급차를 불러 주세요. 119</text>
+<text x="100" y="236" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">에 전화해 주세요.</text>
+<text x="100" y="258" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">請幫我叫救護車(119)。</text>
+<text x="100" y="322" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">한국어를 못 해요. 1330에</text>
+<text x="100" y="352" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">전화해 주실 수 있나요?</text>
+<text x="100" y="374" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">我不會說韓語。可以幫我打1330嗎?</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 386" role="img" aria-label="라면 조리기 (일부 CU 매장)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>라면 조리기 (일부 CU 매장)</title>
+<rect width="400" height="386" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">라면 조리기 (일부 CU 매장)</text>
+<rect x="16" y="56" width="368" height="45" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="82" r="17" fill="#b8392f"/>
+<text x="48" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">봉지 라면 사기</text>
+<path d="M44 97 V119" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 113 L44 121 L50 113" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="125" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="151" r="17" fill="#b8392f"/>
+<text x="48" y="157" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="150" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">조리기 이용료 내기</text>
+<text x="78" y="172" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">코리아헤럴드 보도 당시 900원</text>
+<path d="M44 188 V210" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 204 L44 212 L50 204" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="216" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="242" r="17" fill="#b8392f"/>
+<text x="48" y="248" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="241" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">기계가 끓여 줌</text>
+<text x="78" y="263" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">일회용 용기에</text>
+<rect x="16" y="293" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="48" cy="319" r="17" fill="#b8392f"/>
+<text x="48" y="325" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="318" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">조리기가 없다면?</text>
+<text x="78" y="340" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">컵라면은 어느 매장에서나</text>
+</svg>

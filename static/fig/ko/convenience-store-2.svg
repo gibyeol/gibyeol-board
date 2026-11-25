@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 353" role="img" aria-label="행사 가격표 읽기" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>행사 가격표 읽기</title>
+<rect width="400" height="353" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">행사 가격표 읽기</text>
+<rect x="16" y="56" width="368" height="70" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="56" width="110" height="70" rx="6" fill="#b8392f"/>
+<text x="71" y="101" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">1+1</text>
+<text x="140" y="98" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">하나 사면 하나 더</text>
+<rect x="16" y="136" width="368" height="70" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="136" width="110" height="70" rx="6" fill="#b8392f"/>
+<text x="71" y="181" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">2+1</text>
+<text x="140" y="178" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">두 개 사면 하나 더</text>
+<rect x="16" y="220" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="245" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">이득일까?</text>
+<text x="30" y="267" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">가격 ÷ 받는 개수 = 개당 가격. 대형마트와 비교</text>
+<text x="20" y="309" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">행사는 달마다 바뀌고, 일찍 품절되는 상품도</text>
+<text x="20" y="331" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">있어요.</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 434" role="img" aria-label="The ramyeon machine (some CU stores)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>The ramyeon machine (some CU stores)</title>
+<rect width="400" height="434" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">The ramyeon machine (some CU</text>
+<text x="20" y="68" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">stores)</text>
+<rect x="16" y="82" width="368" height="45" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="108" r="17" fill="#b8392f"/>
+<text x="48" y="114" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="107" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Buy a packet of ramyeon</text>
+<path d="M44 123 V145" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 139 L44 147 L50 139" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="151" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="177" r="17" fill="#b8392f"/>
+<text x="48" y="183" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="176" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Pay the machine charge</text>
+<text x="78" y="198" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">₩900 when the Korea Herald</text>
+<text x="78" y="220" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">reported it</text>
+<path d="M44 236 V258" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 252 L44 260 L50 252" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="264" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="290" r="17" fill="#b8392f"/>
+<text x="48" y="296" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="289" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">The machine cooks it</text>
+<text x="78" y="311" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">In a disposable bowl</text>
+<rect x="16" y="341" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="48" cy="367" r="17" fill="#b8392f"/>
+<text x="48" y="373" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="366" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">No machine?</text>
+<text x="78" y="388" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Cup ramyeon works at any store</text>
+</svg>

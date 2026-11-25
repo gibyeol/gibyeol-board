@@ -3,8 +3,12 @@ title: 第一次去韓國首爾4天3夜行程:照著走就不會累垮的排法
 description: 第一次去首爾的4天3夜行程骨架:抵達日、古宮與北村、一個商圈、回程日,附5天4夜和3天怎麼改。古宮休館日與開放時間2026年11月確認。
 lede: 4天3夜其實是2個整天加2個半天,每個整天只排一個區域。第一次去最常見的失敗是第一天塞太滿,所以我們的第一天幾乎是空的。
 section: seoul
-updated: 2026-11-25
+updated: 2026-11-26
 ---
+## 這份行程要守住的一天
+
+Day 2,早上 9 點前一點。從安國站 3 號出口出來走約 5 分鐘就是昌德宮,9 點開門。逛完古宮,旁邊的北村巷弄從 10 點開放給觀光客。到了 17 點,紅色區域的開放時間結束,被稱為「北村守護者」的工作人員會在巷弄裡巡走,提醒遊客該離開了。這份行程的其他部分,都是為了守住這一天:前面是刻意留白的抵達日,後面是一個商圈。旅程的最後一幕,我們選的不是再多一個景點,而是 Day 4 在飯店附近慢慢吃的早餐。
+
 ## 先講結論
 
 | 情況 | 怎麼做 | 為什麼 |
@@ -15,7 +19,9 @@ updated: 2026-11-25
 | 只有3天2夜 | 砍掉南山塔和第二個商圈,留古宮的上午 | 古宮是在台灣怎樣都體驗不到的 |
 | 不確定車程多久 | 當天用 Naver Map 查 | 塞車、轉乘都會影響,我們不亂寫時間 |
 
-我們沒寫的:釜山、首爾以外的一日遊、樂園、「必去景點排行」。這篇不適合已經去過好幾次的人。
+{{fig:first-trip-1|四天一眼看懂}}
+
+挑選標準:一天一區,古宮上午排最前面,因為那是在自己的城市做不到的事。我們沒寫的:釜山、首爾以外的一日遊、樂園、「必去景點排行」。這篇不適合已經去過好幾次的人。
 
 ## 排行程前的兩條規則
 
@@ -23,13 +29,17 @@ updated: 2026-11-25
 
 **先看星期幾。** 古宮大多每週休一天(週一或週二),北村也只有白天開放給觀光客。順序排對,其他都好辦。
 
+**出發前:** 在行事曆上把日期和星期幾並排寫好,再依此選古宮。想看昌德宮後苑的話,這份行程裡需要事先預約的就只有它。
+
 ## Day 1:抵達日
 
 出發前先填好 [電子入境卡](/zh-tw/e-arrival-card/)。在機場買交通卡或 WOWPASS、搞定網路,再依飯店位置選交通:看 [仁川機場到首爾](/zh-tw/airport-to-seoul/),交通卡看 [首爾交通](/zh-tw/getting-around/)。
 
 然後就停下來。放行李、在住的那一區走走、在附近吃飯就好。點什麼、怎麼點餐看 [韓國吃什麼](/zh-tw/food/)。
 
-**第一天最常犯的錯:** 抵達當晚排古宮、表演或訂好的晚餐。班機晚到、入境排很久、搭錯一班車,就全泡湯,旅程一開始就又累又煩。第一天刻意留白。如果很早到、精神也好,在住的那一區散步就很夠了。
+{{fig:first-trip-2|第一天四個步驟,晚上不預約}}
+
+> 第一天最常犯的錯:抵達當晚排古宮、表演或訂好的晚餐。班機晚到、入境排很久、搭錯一班車,就全泡湯。第一天刻意留白。
 
 ## Day 2:古宮和老首爾
 
@@ -38,11 +48,13 @@ updated: 2026-11-25
 **上午:一座古宮就好,不要三座。** 看星期幾選:
 
 - **景福宮:** 最大的正宮。**週二休館**。11月開放09:00〜17:00。
-- **昌德宮:** 比較安靜、綠意多。**週一休館**。11月到1月開放09:00〜17:30,16:30停止入場。後苑(秘苑)要另外預約,另收5,000韓元。
+- **昌德宮:** 比較安靜、綠意多,從安國站 3 號出口步行約 5 分鐘。**週一休館**。11月到1月開放09:00〜17:30,16:30停止入場。後苑(秘苑)要另外預約,另收5,000韓元。
 
 兩座的成人門票都是**3,000韓元**。穿韓服免費,18歲以下或65歲以上的外國人也免費。政府原本打算2027年1月起調漲古宮門票,但2026年10月表示時間未定,韓服免費入場也在重新檢討,出發前請看官方網站 [royal.khs.go.kr](https://royal.khs.go.kr)。開放時間也會隨季節調整。
 
-**上午後段:北村,安靜地走。** 兩座古宮之間的韓屋巷弄是居民的家。紅色區域只在**10:00〜17:00**開放給觀光客,所以逛完古宮再去,不要一大早或天黑後去。講話小聲,不要進到人家門口。
+{{fig:first-trip-3|休館日、11月開放時間、北村開放時段}}
+
+**上午後段:北村,安靜地走。** 兩座古宮之間的韓屋巷弄是居民的家。紅色區域只在**10:00〜17:00**開放給觀光客,所以逛完古宮再去。講話小聲,不要進到人家門口。
 
 **下午:** 在仁寺洞或益善洞吃午餐,然後回飯店休息一小時。有這段休息,晚上才走得動。
 
@@ -74,4 +86,4 @@ updated: 2026-11-25
 
 ## 資料來源
 
-<p class="sources">首爾市 Mediahub:<a href="https://mediahub.seoul.go.kr/archives/2019908" rel="noopener" target="_blank">古宮休館日與景福宮11月開放時間</a>(2026年11月3日)、<a href="https://mediahub.seoul.go.kr/archives/2019140" rel="noopener" target="_blank">昌德宮開放時間、門票與後苑</a>(2026年8月26日)、<a href="https://mediahub.seoul.go.kr/archives/2015206" rel="noopener" target="_blank">N首爾塔開放時間與巴士</a>(2025年8月8日)。韓聯社(Daum),<a href="https://v.daum.net/v/20260805160024288" rel="noopener" target="_blank">古宮門票與免費對象</a>(2026年8月5日)。韓國時報,<a href="https://www.koreatimes.co.kr/southkorea/20261008/govt-undecided-on-plan-to-raise-admission-fees-to-royal-palaces-tombs" rel="noopener" target="_blank">門票調漲時間未定、韓服免費檢討中</a>(2026年10月8日)、<a href="https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20260215/why-seouls-bukchon-hanok-village-now-closes-to-tourists-after-5-pm/" rel="noopener" target="_blank">北村開放時間</a>(2026年2月15日)。春節日期、機場與回程資訊:見各篇連結的 Nadri 指南與其資料來源。</p>
+<p class="sources">首爾市 Mediahub:<a href="https://mediahub.seoul.go.kr/archives/2019908" rel="noopener" target="_blank">古宮休館日與景福宮11月開放時間</a>(2026年11月3日)、<a href="https://mediahub.seoul.go.kr/archives/2019140" rel="noopener" target="_blank">昌德宮開放時間、門票、後苑與安國站 3 號出口</a>(2026年8月26日)、<a href="https://mediahub.seoul.go.kr/archives/2015206" rel="noopener" target="_blank">N首爾塔開放時間與巴士</a>(2025年8月8日)。韓聯社(Daum),<a href="https://v.daum.net/v/20260805160024288" rel="noopener" target="_blank">古宮門票與免費對象</a>(2026年8月5日)。韓國時報,<a href="https://www.koreatimes.co.kr/southkorea/20261008/govt-undecided-on-plan-to-raise-admission-fees-to-royal-palaces-tombs" rel="noopener" target="_blank">門票調漲時間未定、韓服免費檢討中</a>(2026年10月8日)、<a href="https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20260215/why-seouls-bukchon-hanok-village-now-closes-to-tourists-after-5-pm/" rel="noopener" target="_blank">北村開放時間與傍晚巡邏</a>(2026年2月15日)。以上於2026年11月26日重新查閱;韓聯社(Daum)報導本次未重新查閱。春節日期、機場與回程資訊:見各篇連結的 Nadri 指南與其資料來源。</p>

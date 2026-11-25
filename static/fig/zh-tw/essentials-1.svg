@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 634" role="img" aria-label="第一天檢查清單" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>第一天檢查清單</title>
+<rect width="400" height="634" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">第一天檢查清單</text>
+<rect x="16" y="60" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="83" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">出發前</text>
+<text x="52" y="123" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">電子入境卡</text>
+<text x="52" y="145" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">抵達前3天內。免費</text>
+<rect x="22" y="112" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 157 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="184" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">K-ETA</text>
+<text x="52" y="206" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">護照不在免除名單才需要</text>
+<rect x="22" y="173" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 218 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="245" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">網路</text>
+<text x="52" y="267" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">先裝好eSIM,或機場取SIM卡</text>
+<rect x="22" y="234" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 279 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="306" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">App(用Wi-Fi下載)</text>
+<text x="52" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">NAVER 地圖、Kakao T、Papago</text>
+<rect x="22" y="295" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 340 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="367" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">護照照片頁</text>
+<text x="52" y="389" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">手機裡存一張照片</text>
+<rect x="22" y="356" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 401 H378" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="16" y="413" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="436" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">在機場</text>
+<text x="52" y="476" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">打開行動網路</text>
+<rect x="22" y="465" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 488 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="515" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">交通卡</text>
+<text x="52" y="537" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">T-money、WOWPASS或機場快線卡</text>
+<rect x="22" y="504" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 549 H378" stroke="#c9c1b2" stroke-width="1"/>
+<text x="52" y="576" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">一點韓元現金</text>
+<text x="52" y="598" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">T-money儲值、市場小吃</text>
+<rect x="22" y="565" width="20" height="20" rx="4" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M22 610 H378" stroke="#c9c1b2" stroke-width="1"/>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 552" role="img" aria-label="무슨 요일에 어느 궁?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>무슨 요일에 어느 궁?</title>
+<rect width="400" height="552" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">무슨 요일에 어느 궁?</text>
+<text x="20" y="78" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">경복궁</text>
+<rect x="18.0" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="42.3" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">월</text>
+<text x="42.3" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="70.6" y="88" width="48.6" height="48" rx="8" fill="#b8392f"/>
+<text x="94.9" y="109" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">화</text>
+<text x="94.9" y="129" font-size="16" font-weight="400" fill="#ffffff" text-anchor="middle">휴궁</text>
+<rect x="123.1" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="147.4" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">수</text>
+<text x="147.4" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="175.7" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="200.0" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">목</text>
+<text x="200.0" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="228.3" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="252.6" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">금</text>
+<text x="252.6" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="280.9" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="305.1" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">토</text>
+<text x="305.1" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="333.4" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="357.7" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">일</text>
+<text x="357.7" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<text x="20" y="170" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">창덕궁</text>
+<rect x="18.0" y="180" width="48.6" height="48" rx="8" fill="#b8392f"/>
+<text x="42.3" y="201" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">월</text>
+<text x="42.3" y="221" font-size="16" font-weight="400" fill="#ffffff" text-anchor="middle">휴궁</text>
+<rect x="70.6" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="94.9" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">화</text>
+<text x="94.9" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="123.1" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="147.4" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">수</text>
+<text x="147.4" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="175.7" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="200.0" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">목</text>
+<text x="200.0" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="228.3" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="252.6" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">금</text>
+<text x="252.6" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="280.9" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="305.1" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">토</text>
+<text x="305.1" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="333.4" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="357.7" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">일</text>
+<text x="357.7" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">개방</text>
+<rect x="16" y="244" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="269" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">경복궁, 11월</text>
+<text x="30" y="291" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">09:00~17:00</text>
+<rect x="16" y="317" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="342" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">창덕궁, 11~1월</text>
+<text x="30" y="364" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">09:00~17:30, 입장 마감 16:30</text>
+<rect x="16" y="390" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="415" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">어른 3,000원</text>
+<text x="30" y="437" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">한복 착용 시 무료</text>
+<rect x="16" y="463" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="488" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">북촌 레드존</text>
+<text x="30" y="510" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">관광객 방문 10:00~17:00만</text>
+</svg>

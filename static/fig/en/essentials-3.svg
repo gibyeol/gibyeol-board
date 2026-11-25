@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 468" role="img" aria-label="Three ways to stay online" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Three ways to stay online</title>
+<rect width="400" height="468" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Three ways to stay online</text>
+<rect x="16" y="56" width="368" height="111" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="66" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">eSIM</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Install before you fly, works when</text>
+<text x="78" y="125" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">you land. Phone must support eSIM</text>
+<text x="78" y="147" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">and be unlocked</text>
+<rect x="16" y="177" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="187" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="209" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="202" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Physical SIM</text>
+<text x="78" y="224" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Pick up at the airport. For phones</text>
+<text x="78" y="246" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">without eSIM</text>
+<rect x="16" y="276" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="286" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="308" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="301" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Pocket wifi</text>
+<text x="78" y="323" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">One connection for a group. One</text>
+<text x="78" y="345" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">more thing to charge and return</text>
+<rect x="16" y="375" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="385" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="407" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="400" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Need calls and texts?</text>
+<text x="78" y="422" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Choose a plan that includes them</text>
+</svg>

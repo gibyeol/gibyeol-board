@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 481" role="img" aria-label="どの番号に?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>どの番号に?</title>
+<rect width="400" height="481" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">どの番号に?</text>
+<rect x="16" y="56" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="66" width="58.134800000000006" height="32" rx="8" fill="#b8392f"/>
+<text x="59.067400000000006" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">119</text>
+<text x="100.13480000000001" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">救急・消防</text>
+<text x="100.13480000000001" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">けが、火事、息が苦しい</text>
+<rect x="16" y="133" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="143" width="58.134800000000006" height="32" rx="8" fill="#b8392f"/>
+<text x="59.067400000000006" y="165" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">112</text>
+<text x="100.13480000000001" y="158" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">警察</text>
+<text x="100.13480000000001" y="180" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">犯罪、脅し、身の危険を感じる</text>
+<rect x="16" y="210" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="220" width="70.84640000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="65.42320000000001" y="242" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1330</text>
+<text x="112.84640000000002" y="235" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">観光案内電話</text>
+<text x="112.84640000000002" y="257" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">通訳、観光の苦情</text>
+<rect x="16" y="287" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="297" width="70.84640000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="65.42320000000001" y="319" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1339</text>
+<text x="112.84640000000002" y="312" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">健康の相談</text>
+<text x="112.84640000000002" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">緊急でないとき</text>
+<rect x="16" y="364" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="374" width="70.84640000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="65.42320000000001" y="396" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1345</text>
+<text x="112.84640000000002" y="389" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">出入国</text>
+<text x="112.84640000000002" y="411" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ビザと滞在</text>
+<text x="20" y="459" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">海外から1330: +82-2-1330</text>
+</svg>

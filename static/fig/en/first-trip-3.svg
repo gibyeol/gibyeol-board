@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 552" role="img" aria-label="Which palace on which day" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Which palace on which day</title>
+<rect width="400" height="552" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Which palace on which day</text>
+<text x="20" y="78" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Gyeongbokgung</text>
+<rect x="18.0" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="42.3" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Mon</text>
+<text x="42.3" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="70.6" y="88" width="48.6" height="48" rx="8" fill="#b8392f"/>
+<text x="94.9" y="109" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Tue</text>
+<text x="94.9" y="129" font-size="16" font-weight="400" fill="#ffffff" text-anchor="middle">shut</text>
+<rect x="123.1" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="147.4" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Wed</text>
+<text x="147.4" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="175.7" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="200.0" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Thu</text>
+<text x="200.0" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="228.3" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="252.6" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Fri</text>
+<text x="252.6" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="280.9" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="305.1" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Sat</text>
+<text x="305.1" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="333.4" y="88" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="357.7" y="109" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Sun</text>
+<text x="357.7" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<text x="20" y="170" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Changdeokgung</text>
+<rect x="18.0" y="180" width="48.6" height="48" rx="8" fill="#b8392f"/>
+<text x="42.3" y="201" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Mon</text>
+<text x="42.3" y="221" font-size="16" font-weight="400" fill="#ffffff" text-anchor="middle">shut</text>
+<rect x="70.6" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="94.9" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Tue</text>
+<text x="94.9" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="123.1" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="147.4" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Wed</text>
+<text x="147.4" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="175.7" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="200.0" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Thu</text>
+<text x="200.0" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="228.3" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="252.6" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Fri</text>
+<text x="252.6" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="280.9" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="305.1" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Sat</text>
+<text x="305.1" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="333.4" y="180" width="48.6" height="48" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="357.7" y="201" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Sun</text>
+<text x="357.7" y="221" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">open</text>
+<rect x="16" y="244" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="269" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Gyeongbokgung, November</text>
+<text x="30" y="291" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">09:00–17:00</text>
+<rect x="16" y="317" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="342" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Changdeokgung, Nov–Jan</text>
+<text x="30" y="364" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">09:00–17:30, last entry 16:30</text>
+<rect x="16" y="390" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="415" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Adults ₩3,000</text>
+<text x="30" y="437" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Free in hanbok</text>
+<rect x="16" y="463" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<text x="30" y="488" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Bukchon red zones</text>
+<text x="30" y="510" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Visitors 10:00–17:00 only</text>
+</svg>

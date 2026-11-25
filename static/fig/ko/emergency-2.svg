@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 419" role="img" aria-label="택시에 두고 내렸다면: 어떻게 냈는지부터" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>택시에 두고 내렸다면: 어떻게 냈는지부터</title>
+<rect width="400" height="419" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">택시에 두고 내렸다면: 어떻게</text>
+<text x="20" y="68" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">냈는지부터</text>
+<rect x="16" y="82" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="92" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="114" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">A</text>
+<text x="78" y="107" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">앱으로 호출</text>
+<text x="78" y="129" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">이용 기록에서 기사에게 전화·메시지</text>
+<rect x="16" y="159" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="169" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="191" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">B</text>
+<text x="78" y="184" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">교통카드로 결제</text>
+<text x="78" y="206" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">티머니 1644-1188, 캐시비</text>
+<text x="78" y="228" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1644-1472. 카드 번호 준비</text>
+<rect x="16" y="258" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="268" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="290" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">C</text>
+<text x="78" y="283" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">현금, 앱 없음</text>
+<text x="78" y="305" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">차량 번호, 장소, 시간을 적고 1330에</text>
+<text x="78" y="327" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">도움 요청</text>
+<text x="20" y="375" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">택시 회사는 유실물을 1주일쯤 보관하고 경찰로</text>
+<text x="20" y="397" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">넘겨요.</text>
+</svg>

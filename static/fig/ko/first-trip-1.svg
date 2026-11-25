@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" role="img" aria-label="나흘, 하루에 한 지역" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>나흘, 하루에 한 지역</title>
+<rect width="400" height="380" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">나흘, 하루에 한 지역</text>
+<rect x="16" y="56" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="82" r="17" fill="#b8392f"/>
+<text x="48" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">도착</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">숙소, 근처에서 식사, 잠</text>
+<rect x="16" y="133" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="159" r="17" fill="#b8392f"/>
+<text x="48" y="165" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="158" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">궁궐과 북촌</text>
+<text x="78" y="180" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">오전에 궁 하나, 그다음 골목</text>
+<rect x="16" y="210" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="236" r="17" fill="#b8392f"/>
+<text x="48" y="242" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="235" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">동네 하나</text>
+<text x="78" y="257" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">명동, 홍대, 성수 중 하나</text>
+<rect x="16" y="287" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="313" r="17" fill="#b8392f"/>
+<text x="48" y="319" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="78" y="312" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">느긋한 아침, 공항</text>
+<text x="78" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">출발 3시간 전 인천공항</text>
+</svg>
