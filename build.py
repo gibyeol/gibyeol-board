@@ -50,6 +50,15 @@ def shortcode(line, lang):
         return guides_index(lang, only=key)  # {{guides:olive-young}} = only the group holding that page
     if kind == "codes":
         return codes_table(lang)
+    if kind == "fig":
+        # {{fig:name|caption}} → static/fig/<lang>/<name>.svg (language text) or static/fig/<name>.svg (no text)
+        for rel in (f"fig/{lang}/{key}.svg", f"fig/{key}.svg"):
+            if (ROOT / "static" / rel).exists():
+                cap = inline(label) if label else ""
+                alt = html.escape(re.sub(r"\*\*|\[|\]\([^)]*\)", "", label or key))
+                return (f'<figure class="fig"><img src="/static/{rel}" alt="{alt}" loading="lazy" decoding="async">'
+                        + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
+        raise SystemExit(f"missing figure: static/fig/{lang}/{key}.svg (or static/fig/{key}.svg)")
     if kind == "aff":
         a = AFF.get(key, {})
         if not a.get("url"):
@@ -70,7 +79,8 @@ def md(src, lang):
             para = []
         if lst:
             tag, items = lst
-            out.append(f"<{tag}>" + "".join(f"<li>{inline(i)}</li>" for i in items) + f"</{tag}>")
+            cls = ' class="steps"' if tag == "ol" else ""
+            out.append(f"<{tag}{cls}>" + "".join(f"<li>{inline(i)}</li>" for i in items) + f"</{tag}>")
             lst = None
         if tbl:
             rows = [[c.strip() for c in r.strip().strip("|").split("|")] for r in tbl
