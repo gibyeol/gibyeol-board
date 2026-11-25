@@ -7,17 +7,17 @@
 <circle cx="74" cy="110" r="15" fill="#b8392f"/>
 <text x="74" y="116" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
 <text x="100" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">登録</text>
-<text x="100" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Google・Apple・メール</text>
+<text x="100" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">携帯電話の認証かSNS</text>
 <circle cx="74" cy="188" r="15" fill="#b8392f"/>
 <text x="74" y="194" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-<text x="100" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">海外カードを登録</text>
-<text x="100" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">アプリで登録</text>
+<text x="100" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">カードを登録</text>
+<text x="100" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">クレジット・デビットカード</text>
 <circle cx="74" cy="266" r="15" fill="#b8392f"/>
 <text x="74" y="272" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
 <text x="100" y="266" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">タクシーを呼ぶ</text>
-<text x="100" y="290" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">検索とチャットは自動翻訳</text>
+<text x="100" y="290" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">133言語で検索</text>
 <circle cx="74" cy="344" r="15" fill="#b8392f"/>
 <text x="74" y="350" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
 <text x="100" y="344" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">降りる</text>
-<text x="100" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">料金は降車後に自動決済</text>
+<text x="100" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">降車後に自動決済</text>
 </svg>

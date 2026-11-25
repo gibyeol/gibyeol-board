@@ -5,6 +5,21 @@ lede: 我們的建議:上車前卡要有錢,下車再刷一次。守住這兩點
 section: transport
 updated: 2026-11-26
 ---
+## 第一次搭公車
+
+韓國觀光公社的說明只有一句:前門上車,後門下車。上車前先在NAVER 地圖打開路線,搭車時會顯示你在路線上的位置。在站牌對照車頭的路線號碼(大城市很多站牌有即時顯示公車資訊的螢幕)。從前門上車,把卡靠上門邊的刷卡機。有空位就坐窗邊:觀光公社也把窗外流過的街景算作搭市區公車的樂趣之一。下一站就是目的地時,按窗邊的下車鈴,在後門旁的刷卡機刷卡再下車。我們選的結尾畫面:在地鐵到不了的地方,刷了兩次卡下車;30分鐘內搭下一趟,就不用再付一次基本票價。
+
+{{fig:seoul-bus-4|前門上車、窗邊下車鈴、後門下車}}
+
+## 搭車前先做好
+
+我們的判斷:在飯店做好,別等到站牌前。
+
+1. **卡先儲值。** 首爾有183條市區公車路線不收現金。
+2. **安裝NAVER 地圖**,切換成中文介面。
+3. **存好第一趟的路線號碼和站名**,在地圖上先看一次路線。
+4. **會玩到很晚的話**,先找好經過飯店附近的N字頭公車。
+
 ## 先說結論
 
 | 情況 | 怎麼做 | 原因 |
@@ -12,9 +27,11 @@ updated: 2026-11-26
 | 目的地離地鐵站遠 | 用有儲值的卡搭公車 | 首爾市清單上有183條路線不收現金 |
 | 下公車時 | 在刷卡機再刷一次 | 沒刷,轉乘就在這裡斷掉 |
 | 不確定在哪站下 | 用 NAVER 地圖跟著路線走 | 可切換成中文介面 |
-| 錯過末班地鐵 | N字頭深夜公車,2,500韓元 | 各路線時間請在 App 查 |
+| 錯過末班地鐵 | N字頭深夜公車,2,500韓元 | 14條路線,晚上11點~早上6點 |
 
 這頁只講首爾市區公車。地鐵請看[首爾地鐵攻略](/zh-tw/seoul-subway/);計程車、末班車和該買哪張卡,請看[首爾地鐵、公車、計程車](/zh-tw/getting-around/);機場到飯店請看[仁川機場到首爾](/zh-tw/airport-to-seoul/)。如果飯店和景點都在地鐵站旁,只搭地鐵更簡單。
+
+怎麼選的:搭公車還是地鐵,只看一個問題——目的地離地鐵站遠不遠。刻意沒寫的:公車專用App和不收現金路線的完整清單;一個地圖App加一張有儲值的卡就都解決了。
 
 ## 先看顏色
 
@@ -36,9 +53,9 @@ updated: 2026-11-26
 
 1. **出門前先儲值。** T-money 等韓國交通卡。買哪張、在哪買、怎麼儲值,見[行前準備](/zh-tw/essentials/)。
 2. **確認路線號碼。** 在 NAVER 地圖或 Kakao Map 查好,對照車頭號碼。
-3. **上車在刷卡機刷卡。**
-4. **看地圖確認站名。** 前一站就準備下車。
-5. **下車前在刷卡機再刷一次**,再下車。
+3. **從前門上車,在刷卡機刷卡。**
+4. **看地圖確認站名。** 下一站就是目的地時,按窗邊的下車鈴。
+5. **在後門旁的刷卡機再刷一次**,再下車。
 
 {{fig:seoul-bus-2|上車刷一次,下車再刷一次}}
 
@@ -58,10 +75,6 @@ updated: 2026-11-26
 
 同一路線或同一輛車再上車不算轉乘。行程中有紅色廣域公車時,基本距離是30公里而不是10公里。票價整體說明見[首爾地鐵、公車、計程車](/zh-tw/getting-around/)。
 
-## 在哪站下車?
-
-我們建議交給 App。NAVER 地圖可以把語言切換成中文,查得到公車、地鐵和步行路線;Kakao Map 有英文介面。上車前先開好路線,螢幕保持開著,下一站就是目的地時往車門移動。
-
 ## 機場巴士是另一回事
 
 市區公車和機場利木津巴士都叫「巴士」,但其實是不同的服務。
@@ -77,9 +90,9 @@ updated: 2026-11-26
 
 ## 深夜公車
 
-地鐵收班後,首爾有路線號碼N開頭的深夜公車,成人用交通卡2,500韓元。各路線的行駛時間和班距不同,走到站牌前,先在 NAVER 地圖查好路線和下一班車。
+地鐵收班後,首爾有14條路線號碼N開頭的深夜公車,晚上11點到早上6點行駛,成人用交通卡2,500韓元([首爾市,2026年3月20日更新](https://news.seoul.go.kr/traffic/archives/27974))。各路線首末班和班距不同,走到站牌前,先在 NAVER 地圖查好路線和下一班車。
 
-> 目前深夜公車有幾條路線、幾點到幾點,我們在官方網頁上查不到最新資料,所以不列出。
+{{fig:seoul-bus-5|兩種N字頭公車:市區深夜公車與機場深夜巴士}}
 
 ## 常見錯誤
 
@@ -95,4 +108,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources">首爾市:<a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">首爾市區公車體系與搭乘方式</a>(2026年3月9日更新,票價、顏色、轉乘規則)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">整合轉乘優惠制度</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價說明</a>(2025年7月11日更新)、<a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">無現金公車路線清單(2026年1月)</a>(2026年3月6日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡(短期券)介紹</a>(2026年10月12日更新);仁川機場:<a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener" target="_blank">巴士查詢</a>、<a href="https://www.airport.kr/ap_ko/979/subview.do" rel="noopener" target="_blank">首爾深夜巴士</a>;Visit Seoul:<a href="https://english.visitseoul.net/airport-to-seoul/1078" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月票價);The Korea Herald〈<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">Tips on using public transportation in Korea</a>〉(2025年11月6日)。皆於2026年11月26日查閱。</p>
+<p class="sources">首爾市:<a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">首爾市區公車體系與搭乘方式</a>(2026年3月9日更新,票價、顏色、轉乘規則)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">整合轉乘優惠制度</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價說明</a>(2025年7月11日更新)、<a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">無現金公車路線清單(2026年1月)</a>(2026年3月6日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡(短期券)介紹</a>(2026年10月12日更新);仁川機場:<a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener" target="_blank">巴士查詢</a>、<a href="https://www.airport.kr/ap_ko/979/subview.do" rel="noopener" target="_blank">首爾深夜巴士</a>;Visit Seoul:<a href="https://english.visitseoul.net/airport-to-seoul/1078" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月票價);The Korea Herald〈<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">Tips on using public transportation in Korea</a>〉(2025年11月6日)。皆於2026年11月26日查閱。 2026年11月26日另外查閱:首爾市 <a href="https://news.seoul.go.kr/traffic/archives/27974" rel="noopener" target="_blank">深夜專用市區公車</a>(2026年3月20日更新)、韓國觀光公社 <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140659" rel="noopener" target="_blank">City Bus(英文)</a>(2026年10月8日更新,前後門、下車鈴、即時站牌)。</p>

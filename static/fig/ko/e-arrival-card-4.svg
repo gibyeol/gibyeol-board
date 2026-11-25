@@ -43,5 +43,5 @@
 <circle cx="56.0" cy="694.0" r="16.0" fill="#b8392f"/>
 <text x="56.0" y="700.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
 <text x="84" y="694" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">발급번호</text>
-<text x="84" y="716" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">PDF와 이메일로 보관</text>
+<text x="84" y="716" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">PDF 저장 (메일은 늦을 수 있음)</text>
 </svg>

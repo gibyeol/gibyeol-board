@@ -24,13 +24,13 @@ updated: 2026-11-26
 
 公式のルールから組み立てた場面です。作り話の体験談ではありません。
 
-**出発前の夜。** パスポート、便名、ホテルの英語住所を手元に置いて、公式サイトで10分ほど。発行番号入りのPDFがメールに届きます。荷造りの前に入国申告は終わりです。
+**出発前の夜。** パスポート、便名、ホテルの英語住所を手元に置いて、公式サイトで10分ほど。発行番号入りのPDFをスマホに保存します。荷造りの前に入国申告は終わりです。
 
 **入国審査のカウンター。** ペンも、ひざの上で書く紙のカードもありません。パスポートを渡すと、係官の画面にはもう情報が出ています。審査を通れば、申告書は役目を終えて失効します。
 
 ## 申請は公式サイトだけ。無料です
 
-ここで実際にお金を失うのは、偽サイトに入ってしまった時だけです。法務部出入国・外国人政策本部は、公式サイトに似た名前で手数料を取るサイトについて注意を呼びかけています。公式サイトは一切お金を取りません。
+ここで実際にお金を失うのは、偽サイトに入ってしまった時だけです。公式サイトは、名前の似たサイトが個人情報や手数料を求めることがあるとして注意を呼びかけています。公式サイトは一切お金を取りません。
 
 {{fig:e-arrival-card-3|本物のサイトの見た目と、偽サイトを見分けるひとつのサイン}}
 
@@ -60,12 +60,12 @@ updated: 2026-11-26
 4. **出国情報**:日付は必須、便名は任意。
 5. **入国目的と職業**:観光など、当てはまるものを選びます。
 6. **韓国での滞在先**:下の説明を参考に。
-7. **確認して提出**:パスポートと食い違いがないか見直してから提出。
-8. **発行番号を控える**:発行番号入りのPDFを保存でき、メールにも届きます。見せる義務はありません(係官が画面で確認します)が、聞かれたときのためにスクリーンショットがあると安心です。
+7. **確認して提出**:パスポートと食い違いがないか見直します。公式サイトは、2026年5月6日から提出時に認証番号を入力する手順を導入すると告知しています。
+8. **PDFを保存**:発行番号入りのPDFを保存しましょう。メールにも届きますが、公式サイトはGmail・Outlook.com・Hotmail・QQのアドレスでは遅れたり届かなかったりすることがあると案内しています。見せる義務はありません(係官が画面で確認します)が、聞かれたときのために手元に。
 
 ### ホテルが複数あるとき
 
-いちばん長く泊まる場所を入力します。はっきりしたメインの宿がない場合は、到着後に最初に泊まる場所を。住所・入国目的・出国日は、入国審査の前までなら発行番号かメール認証で修正できます。
+いちばん長く泊まる場所を入力します。はっきりしたメインの宿がない場合は、到着後に最初に泊まる場所を。住所・入国目的・職業などは、入国審査の前までなら発行番号かメール認証で修正できます。
 
 ### 帰国日がまだ決まっていないとき
 
@@ -81,7 +81,7 @@ updated: 2026-11-26
 
 ## 紙の入国カードは?
 
-2025年2月24日に電子入国申告書が始まるまでは、紙の入国カードに記入するのが一般的でした。韓国観光公社は導入時、紙との併用は2025年12月までと案内しており、仁川空港も「原則としてすべての外国人が入国申告書の作成対象」と説明しています。一方、2026年11月25日に確認した公式FAQには「事前に出していなくても、入国審査の前に電子または紙で提出できる」とも書かれています。私たちの判断は「紙はあてにしない」。事前のオンライン提出が今の前提です。
+2025年2月24日に電子入国申告書が始まるまでは、紙の入国カードに記入するのが一般的でした。韓国観光公社は導入時、紙との併用は2025年12月までと案内しており、仁川空港も「原則としてすべての外国人が入国申告書の作成対象」と説明しています。一方、2026年11月26日に改めて確認した公式FAQには「事前に出していなくても、入国審査の前に電子または紙で提出できる」とも書かれています。私たちの判断は「紙はあてにしない」。事前のオンライン提出が今の前提です。
 
 ## K-ETAとの関係
 
@@ -92,7 +92,7 @@ updated: 2026-11-26
 - 日本はK-ETAの一時免除の対象です。K-ETA公式サイトの2025年12月23日のお知らせでは、免除期間は**2026年12月31日まで**。免除期間中の方は電子入国申告書を出します。
 - 免除対象でもK-ETAを任意で申請できますが、得られるのは入国申告書が不要になることだけで、手数料がかかります。短い旅行なら無料の申告書で十分です。
 
-> 報道段階の情報:2026年11月23〜24日に、免除が2027年12月31日まで延長されたと一部の旅行メディアが報じました。11月26日に改めて確認した時点でも、韓国政府の公式ページでそのお知らせは見つかっていません。2027年に渡航する方は、予約前にk-eta.go.krを確認してください。
+> 報道段階の情報:2026年11月23〜24日に、免除が2027年12月31日まで延長されたと一部の旅行メディアが報じました。11月26日にk-eta.go.krで開いた最新の免除のお知らせは、まだ2026年12月31日までとなっていました。2027年に渡航する方は、予約前にk-eta.go.krを確認してください。
 
 電子入国申告書を出しても自動化ゲートは使えるようになりません。また、税関申告の代わりにもなりません。
 
@@ -100,4 +100,4 @@ updated: 2026-11-26
 
 ## 出典
 
-<p class="sources">電子入国申告書公式サイトの<a href="https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do" rel="noopener" target="_blank">案内</a>、<a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">申告の手順</a>、<a href="https://www.e-arrivalcard.go.kr/portal/guide/navigator.do" rel="noopener" target="_blank">ナビゲーター</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">よくある質問</a>(2026年11月25日確認)と「電子入国申告書は無料です」のお知らせ(2025年2月21日);出入国・外国人政策本部「<a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">偽の電子入国申告書サイトに注意</a>」(2025年3月21日);<a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">仁川国際空港 入国手続き案内</a>(2026年11月26日確認:到着72時間前から提出、無料、対象と例外);法務部による政府民願案内センター110の回答(2026年1月15日);韓国観光公社VISITKOREAの導入案内(2025年2月20日);<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">K-ETA一時免除延長のお知らせ</a>(2025年12月23日);在ハガニア韓国総領事館のK-ETA免除のお知らせ(2025年12月29日)。</p>
+<p class="sources">電子入国申告書公式サイト(2026年11月26日確認):<a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">よくある質問</a>(全34問:提出時期、9人・1,000人、乗り継ぎ、修正、紙の申告書、K-ETA保持者、子ども)、<a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">申告の手順</a>、お知らせ<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000001&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">制度案内(提出対象)</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000002&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">電子入国申告は無料です</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012530&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">メール受信の遅延</a>(2026年3月13日)、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012630&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">認証番号の導入(2026年5月6日から)</a>(2026年4月29日);<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">K-ETA一時免除延長のお知らせ</a>(2025年12月23日、2026年11月26日確認);<a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">仁川国際空港 入国手続き案内</a>(2026年11月26日確認);出入国・外国人政策本部「<a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">偽の電子入国申告書サイトに注意</a>」(2025年3月21日、前の版で確認);韓国観光公社VISITKOREAの導入案内(2025年2月20日、前の版で確認)。</p>

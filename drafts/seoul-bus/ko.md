@@ -5,6 +5,21 @@ lede: 우리 판단은 이래요. 탈 때 충전된 카드, 내릴 때 한 번 �
 section: transport
 updated: 2026-11-26
 ---
+## 친구의 첫 버스
+
+한국관광공사 안내는 한 줄이에요. 앞문으로 타고 뒷문으로 내린다. 타기 전에 네이버 지도로 경로를 열어 두면 타고 가는 동안 노선 위 지금 위치가 떠요. 정류장에서는 버스 앞의 번호를 맞춰 보고(큰 도시엔 버스 정보를 실시간으로 보여 주는 정류장 화면이 많아요), 앞문으로 올라 문 옆 단말기에 카드를 대요. 자리가 있으면 창가에 앉게 해 주세요. 관광공사도 창밖으로 지나가는 거리 풍경을 시내버스 여행의 즐거움으로 꼽아요. 다음이 내릴 정류장이면 창가의 하차벨을 누르고, 뒷문 옆 단말기에 카드를 찍고 내려요. 우리가 고른 끝 장면: 지하철이 안 닿는 곳에서 두 번 태그하고 내린 친구가, 30분 안에 다음 걸 타면 기본요금을 또 안 낸다는 것까지 아는 거예요.
+
+{{fig:seoul-bus-4|앞문으로 타고, 창가 하차벨, 뒷문으로 내리기}}
+
+## 타기 전에 해 둘 것
+
+우리 판단: 정류장이 아니라 숙소에서 미리 해 두게 해 주세요.
+
+1. **카드 충전.** 서울 시내버스 183개 노선은 현금을 안 받아요.
+2. **네이버 지도 설치,** 언어를 영어·일본어·중국어로 바꿔 주기.
+3. **첫 노선 번호와 정류장 이름 저장,** 지도에서 경로를 한 번 같이 봐 두기.
+4. **늦게까지 다닐 거라면** 숙소 근처를 지나는 N버스를 찾아 두기.
+
 ## 한 줄 판단
 
 | 상황 | 이렇게 | 이유 |
@@ -12,9 +27,11 @@ updated: 2026-11-26
 | 목적지가 지하철역에서 멀 때 | 충전된 카드로 버스 | 서울시 목록상 현금을 안 받는 노선이 183개예요 |
 | 버스에서 내릴 때 | 단말기에 한 번 더 태그 | 안 찍으면 환승이 거기서 끊겨요 |
 | 어디서 내릴지 모를 때 | 네이버 지도로 경로 따라가기 | 영어·일본어·중국어로 바꿔 쓸 수 있어요 |
-| 막차를 놓쳤을 때 | N버스, 2,500원 | 심야 노선이 있어요. 노선별 시간은 앱에서 확인 |
+| 막차를 놓쳤을 때 | N버스, 2,500원 | 심야 노선 14개, 밤 11시~새벽 6시 |
 
 이 페이지는 서울 시내버스만 다뤄요. 지하철은 [서울 지하철 타기](/ko/seoul-subway/)에, 택시, 막차, 어떤 카드를 살지는 [서울 대중교통](/ko/getting-around/)에, 공항↔숙소는 [인천공항에서 서울까지](/ko/airport-to-seoul/)에 있어요. 숙소와 갈 곳이 다 지하철역 근처라면 이 페이지 없이 지하철만으로 충분해요.
+
+고른 기준: 버스냐 지하철이냐는 "가는 곳이 역에서 먼가" 하나로 정해요. 일부러 뺀 것: 버스 전용 앱과 현금 불가 노선 전체 목록이에요. 지도 앱 하나와 충전된 카드면 둘 다 해결돼요.
 
 ## 먼저 색깔을 봐요
 
@@ -36,9 +53,9 @@ updated: 2026-11-26
 
 1. **출발 전에 카드 충전.** 티머니 같은 국내 교통카드. 어떤 카드를 어디서 사고 충전하는지는 [필수 준비](/ko/essentials/)에 있어요.
 2. **노선 번호 확인.** 네이버 지도나 카카오맵에서 번호를 보고, 버스 앞면 번호와 맞춰요.
-3. **탈 때 단말기에 태그.**
-4. **지도에서 정류장 확인.** 한 정거장 전에 내릴 준비를 해요.
-5. **내리기 전에 단말기에 다시 태그**하고 내려요.
+3. **앞문으로 타면서 단말기에 태그.**
+4. **지도에서 정류장 확인.** 다음이 내릴 정류장이면 창가의 하차벨을 눌러요.
+5. **뒷문 옆 단말기에 다시 태그**하고 내려요.
 
 {{fig:seoul-bus-2|탈 때 태그, 내릴 때 또 태그}}
 
@@ -58,10 +75,6 @@ updated: 2026-11-26
 
 같은 노선이나 같은 차를 다시 타는 건 환승이 아니에요. 빨간 광역버스가 끼면 기본 거리는 10km가 아니라 30km예요. 요금 전반은 [서울 대중교통](/ko/getting-around/)에 있어요.
 
-## 어디서 내리지?
-
-우리 판단은 앱에 맡기는 거예요. 네이버 지도는 언어를 영어·중국어·일본어로 바꿀 수 있고 버스·지하철·도보 경로를 보여 줘서, 외국인 친구 휴대폰에 깔아 주면 혼자서도 따라가요. 카카오맵은 영어로 쓸 수 있어요. 타기 전에 경로를 열어 두고, 화면을 켠 채로 있다가 내릴 정류장이 다음이면 문 쪽으로 가요.
-
 ## 공항버스는 다른 버스예요
 
 시내버스와 공항 리무진 버스는 같은 '버스'지만 따로 움직이는 서비스예요.
@@ -77,9 +90,9 @@ updated: 2026-11-26
 
 ## 심야버스
 
-지하철이 끊긴 뒤엔 번호가 N으로 시작하는 심야버스가 다녀요. 어른 교통카드 2,500원. 운행 시간과 간격은 노선마다 달라서, 정류장에 나가기 전에 네이버 지도로 노선과 다음 버스를 먼저 확인해요.
+지하철이 끊긴 뒤엔 번호가 N으로 시작하는 심야버스(올빼미버스) 14개 노선이 밤 11시부터 새벽 6시까지 다녀요. 어른 교통카드 2,500원이에요([서울시, 2026년 3월 20일 수정](https://news.seoul.go.kr/traffic/archives/27974)). 첫차·막차와 배차 간격은 노선마다 달라서, 정류장에 나가기 전에 네이버 지도로 노선과 다음 버스를 먼저 확인해요.
 
-> 지금 심야버스가 몇 개 노선인지, 몇 시부터 몇 시까지 다니는지는 공식 페이지에서 확인하지 못해서 적지 않았어요.
+{{fig:seoul-bus-5|N버스 두 종류: 시내 심야버스와 공항 심야버스}}
 
 ## 자주 하는 실수
 
@@ -95,4 +108,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">서울시: <a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">서울 시내버스 체계 및 이용방법</a>(2026년 3월 9일 수정, 요금·색깔·환승 규칙), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 7월 11일 수정), <a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">현금 없는 버스 운영 노선번호 안내('26.1.)</a>(2026년 3월 6일 수정), <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정); 인천공항: <a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener" target="_blank">버스 검색</a>, <a href="https://www.airport.kr/ap_ko/979/subview.do" rel="noopener" target="_blank">서울 심야버스</a>; Visit Seoul: <a href="https://english.visitseoul.net/airport-to-seoul/1078" rel="noopener" target="_blank">Airport to Seoul</a>(2026년 6월 기준 요금); 코리아헤럴드, <a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">Tips on using public transportation in Korea</a>(2025년 11월 6일). 모두 2026년 11월 26일 확인.</p>
+<p class="sources">서울시: <a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">서울 시내버스 체계 및 이용방법</a>(2026년 3월 9일 수정, 요금·색깔·환승 규칙), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 7월 11일 수정), <a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">현금 없는 버스 운영 노선번호 안내('26.1.)</a>(2026년 3월 6일 수정), <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정); 인천공항: <a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener" target="_blank">버스 검색</a>, <a href="https://www.airport.kr/ap_ko/979/subview.do" rel="noopener" target="_blank">서울 심야버스</a>; Visit Seoul: <a href="https://english.visitseoul.net/airport-to-seoul/1078" rel="noopener" target="_blank">Airport to Seoul</a>(2026년 6월 기준 요금); 코리아헤럴드, <a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">Tips on using public transportation in Korea</a>(2025년 11월 6일). 모두 2026년 11월 26일 확인. 2026년 11월 26일에 함께 열어 봄: 서울시 <a href="https://news.seoul.go.kr/traffic/archives/27974" rel="noopener" target="_blank">심야 전용 시내버스(올빼미버스)</a>(2026년 3월 20일 수정), 한국관광공사 <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140659" rel="noopener" target="_blank">City Bus(영문)</a>(2026년 10월 8일 갱신, 앞문·뒷문, 하차벨, 실시간 정류장).</p>

@@ -5,16 +5,33 @@ lede: 우리 판단은 이래요. 첫 탑승 전에 티머니 계열 카드를 �
 section: transport
 updated: 2026-11-26
 ---
+## 친구의 첫 탑승
+
+전날 밤, 친구 휴대폰에 경로를 열어 두는 데서 시작해요. 지도 앱은 노선과 환승, 타고 가는 동안 지금 어디쯤인지까지 보여 줘요. 다음 날 개찰구에서 친구가 카드를 단말기에 대면 잔액이 뜨고, 그대로 지나가요. 승강장은 노선 번호와 가는 방향의 종착역으로 골라요. 환승이 있으면 개찰구를 다시 나가지 않고 역 안에서 갈아타요. 도착역에서 카드를 찍고 나와, 전날 저장해 둔 번호의 출구로 올라가요. 우리가 고른 끝 장면: 딱 그 출구로 올라와서, 첫걸음부터 가려던 방향을 보고 서는 거예요.
+
+{{fig:seoul-subway-4|개찰구: 단말기에 대고, 잔액 보고, 지나가기}}
+
+## 전날 밤에 해 둘 것
+
+우리 판단: 개찰구 앞이 아니라 숙소에서 미리 해 두게 해 주세요.
+
+1. **카드 충전.** 아니면 1만~2만 원을 지폐로 챙기게 해요. 티머니 충전은 현금만 돼요.
+2. **네이버 지도나 카카오맵 설치.** 네이버 지도는 영어·일본어·중국어로 바꿀 수 있고, 카카오맵은 영어가 돼요.
+3. **숙소 역 이름과 출구 번호 저장.** "명동역 8번 출구"처럼요.
+4. **내일 첫 경로를 미리 열어 보기.** 노선 번호, 환승, 나갈 출구를 봐 두면 타기 전에 한 번 가 본 셈이에요.
+
 ## 한 줄 판단
 
 | 상황 | 이렇게 | 이유 |
 |---|---|---|
 | 3~7일 일반적인 서울 여행 | 티머니, 또는 티머니가 들어 있는 와우패스 | 1회용보다 한 번에 100원 싸고, 버스 환승 할인도 돼요 |
 | 서울 안에서만, 하루 3번 이상 따로 이동하는 날이 3일 이상 | 기후동행카드 단기권 | 3일권 10,000원 + 카드 3,000원, 교통카드 요금 약 8번 값 |
-| 막 도착했는데 카드도 현금도 없음 | 새 무인기에서 기후동행카드나 1회용 승차권 | 2026년 3월 17일부터 해외 Visa·Mastercard를 받아요 |
+| 막 도착했는데 카드도 현금도 없음 | 새 무인기에서 기후동행카드나 1회용 승차권 | 2026년 3월 17일부터 해외 신용·체크카드를 받아요 |
 | 저녁 늦게 움직임 | 지금 그 역 막차 확인 | 주말은 더 일찍 끊기고, 막차 시각이 바뀌었을 수 있어요 |
 
 이 페이지는 지하철만 다뤄요. 시내버스는 [서울 버스 타기](/ko/seoul-bus/), 택시는 [서울 대중교통](/ko/getting-around/), 공항 이동은 [인천공항에서 서울까지](/ko/airport-to-seoul/)를 보세요. 우리한텐 당연한 '하차 태그'나 '현금 충전'이 외국인 친구에겐 제일 낯선 부분이라, 그 두 가지를 먼저 짚어 주면 좋아요.
+
+고른 기준: 결제 수단 세 가지를 "하루에 몇 번 타는지, 서울 밖으로 나가는지" 하나로 갈랐어요. 일부러 뺀 것: 같은 무인기에서 파는 정기권(매일 출퇴근용이라 짧은 여행엔 맞지 않아요)과 수원·인천처럼 서울 밖으로 가는 이동이에요.
 
 ## 결제 수단 고르기
 
@@ -32,6 +49,8 @@ updated: 2026-11-26
 ## 충전: 현금을 조금 챙기게 하세요
 
 우리 판단: 다른 건 다 카드로 내더라도 티머니용으로 1만~2만 원은 지폐로 갖고 있게 해 주세요.
+
+{{fig:seoul-subway-5|충전기: 카드 올리고, 현금 넣고, 잔액 확인}}
 
 1. 개찰구 근처 충전기에 카드를 올려요.
 2. 금액을 고르고 **현금**으로 내요. 서울교통공사 신형 키오스크는 1회권·정기권·기후동행카드는 신용카드로 되지만, 선불카드(티머니) 충전은 현금만 돼요.
@@ -56,6 +75,8 @@ updated: 2026-11-26
 
 **출구에는 번호가 있어요.** "명동역 8번 출구"처럼 알려 주고, 네이버 지도나 카카오맵으로 출구 번호를 먼저 확인하게 해 주세요.
 
+{{fig:seoul-subway-6|볼 표지판 세 가지: 노선 번호, 방향, 출구 번호}}
+
 **9호선에는 급행이 있어요.** 급행은 정해진 역에만 서요. 내릴 역에 급행이 안 서면 그 전 급행역에서 일반열차로 갈아타요.
 
 ## 요금은 이것만
@@ -70,6 +91,8 @@ updated: 2026-11-26
 ## 출퇴근 시간과 좌석
 
 우리 판단: 캐리어가 있다면 평일 아침 7~9시는 피하게 해 주세요.
+
+{{fig:seoul-subway-7|비워 둘 자리: 칸 양 끝과 분홍색 좌석}}
 
 - 서울시 2014년 교통카드 분석에서 오전 7~9시에 하루 이용객의 20.2%가 몰렸고, 가장 붐빈 10분은 8시 10~19분이었어요.
 - 9호선 아침 급행은 최고 혼잡도가 192.5%였어요. 서울시가 2026년 11월 16일부터 출근 급행을 늘렸고, 9호선 운영사도 출근 시간엔 일반열차를 타 달라고 안내해요.
@@ -89,6 +112,8 @@ updated: 2026-11-26
 ## 공항철도: 일반열차와 직통열차
 
 우리 판단: **일반열차**는 교통카드로 타는 지하철 노선 하나라고 보면 되고, **직통열차**는 따로 표를 사는 열차예요.
+
+{{fig:seoul-subway-8|같은 노선, 다른 열차: 일반열차와 직통열차}}
 
 - **일반열차:** 모든 역(홍대입구·공덕 포함)에 서요. 교통카드를 찍고 타고, 수도권 통합환승이 돼요.
 - **직통열차:** 서울역과 인천공항 사이 무정차, 지정 좌석, 타기 전에 승차권을 따로 사요. 어른 13,000원.
@@ -110,4 +135,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">2026년 11월 26일(한국 시간)에 열어 확인. 서울시 교통 누리집: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 6월 28일 조정), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">일회용 교통카드</a>, <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정)와 <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>, <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">해외 신용카드 구매 보도자료</a>(2026년 3월 16일), <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">임산부배려석 안내</a>. 내 손안에 서울: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">신형 키오스크·선불카드 현금 충전</a>(2025년 9월 2일), <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">해외카드 팩트브리핑</a>(2026년 1월 7일), <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">지하철 심야 운행 재개</a>(2022년 5월 30일), <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014년 교통카드 분석</a>(2015년 4월 29일), <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9호선 급행 확대</a>(2026년 10월 14일). 서울시 영문 누리집: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">해외카드</a>(2026년 3월 17일), <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">첫차·막차 30분 조정 계획</a>(2025년 5월 27일). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">서울시메트로9호선 출근시간 열차 이용 안내</a>. 공항철도 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차</a>·<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차</a> 안내. <a href="https://wowpass.io/ko/guide" rel="noopener" target="_blank">와우패스 공식 가이드</a>. 코리아헤럴드: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">첫차·막차 30분 앞당김</a>(2025년 5월 22일), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">임산부석과 배지</a>(2023년 6월 27일). 코리아타임스: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">임산부 배려석</a>(2017년 12월 6일).</p>
+<p class="sources">2026년 11월 26일(한국 시간)에 열어 확인. 서울시 교통 누리집: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 6월 28일 조정), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">일회용 교통카드</a>, <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정)와 <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>, <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">해외 신용카드 구매 보도자료</a>(2026년 3월 16일), <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">임산부배려석 안내</a>. 내 손안에 서울: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">신형 키오스크·선불카드 현금 충전</a>(2025년 9월 2일), <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">해외카드 팩트브리핑</a>(2026년 1월 7일), <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">지하철 심야 운행 재개</a>(2022년 5월 30일), <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014년 교통카드 분석</a>(2015년 4월 29일), <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9호선 급행 확대</a>(2026년 10월 14일). 서울시 영문 누리집: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">해외카드</a>(2026년 3월 17일), <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">첫차·막차 30분 조정 계획</a>(2025년 5월 27일). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">서울시메트로9호선 출근시간 열차 이용 안내</a>. 공항철도 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차</a>·<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차</a> 안내. <a href="https://wowpass.io/ko/guide" rel="noopener" target="_blank">와우패스 공식 가이드</a>. 코리아헤럴드: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">첫차·막차 30분 앞당김</a>(2025년 5월 22일), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">임산부석과 배지</a>(2023년 6월 27일). 코리아타임스: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">임산부 배려석</a>(2017년 12월 6일). 2026년 11월 26일에 함께 열어 봄: 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026년 3월 16일), <a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">대중교통 이용 팁</a>(2025년 11월 6일, 지도 앱).</p>

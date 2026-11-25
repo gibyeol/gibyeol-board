@@ -19,7 +19,7 @@
 <line x1="38" y1="236" x2="38" y2="264" stroke="#c9c1b2" stroke-width="3"/>
 <circle cx="38" cy="288" r="16" fill="#b8392f"/>
 <text x="38" y="294" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-<text x="66" y="286" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">4階の引き渡し場</text>
+<text x="66" y="286" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">引換券に書かれた引き渡し場</text>
 <text x="66" y="309" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">パスポート、搭乗券、引換券</text>
 <line x1="38" y1="306" x2="38" y2="334" stroke="#c9c1b2" stroke-width="3"/>
 <circle cx="38" cy="358" r="16" fill="#16151a"/>

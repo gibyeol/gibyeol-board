@@ -18,7 +18,7 @@
 <rect x="36" y="294" width="56" height="26" rx="13" fill="#b8392f"/>
 <text x="64.0" y="313" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
 <text x="102" y="313" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">還付書類をもらう</text>
-<text x="102" y="335" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">荷物を預ける前に手続き</text>
+<text x="102" y="335" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">預ける前に税関確認</text>
 <path d="M44 366 V390" stroke="#5f5b55" stroke-width="2"/>
 <path d="M38 384 L44 392 L50 384" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <text x="60" y="385" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>

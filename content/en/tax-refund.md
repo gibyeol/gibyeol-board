@@ -10,7 +10,7 @@ updated: 2026-11-26
 | Your situation | What to do | Why |
 |---|---|---|
 | One receipt of ₩15,000 to under ₩1,000,000 at a Tax Free shop | Show your physical passport when you pay | The tax comes off on the spot; nothing to do at the airport |
-| One receipt of ₩1,000,000 or more | Pay full price, take the refund slip, claim it before you check your bags | Above the limit for the instant refund |
+| One receipt of ₩1,000,000 or more | Pay full price, take the refund slip, get it validated by customs before you check your bags | Above the limit for the instant refund |
 | Lots of small buys at different shops | Batch them in one shop | Receipts can't be added together |
 | A skin clinic or cosmetic procedure | Don't count on a refund | The tourist VAT refund for procedures ended on 31 December 2025 |
 
@@ -24,7 +24,7 @@ Built from the rules below, not from a story.
 
 **Departure day.** For instant-refund buys there is nothing left to do at the airport. That is the ending to plan for.
 
-What we left out: operator-by-operator fee tables (we could not reopen them this time), and airport and downtown duty-free shops, which are a separate system from tax refunds.
+What we left out: operator-by-operator fee tables (Global Blue's Korea page publishes none, and we could not confirm the others), and airport and downtown duty-free shops, which are a separate system from tax refunds.
 
 ## The three numbers
 
@@ -60,11 +60,12 @@ For receipts of ₩1,000,000 or more, or shops without the instant system:
 
 {{fig:tax-refund-4|The order that matters at the airport}}
 
-1. **Pay full price and ask for a refund slip.**
-2. **Claim it at a downtown refund kiosk or at the airport.**
-3. **At the airport, do it before you check in your bags.** Customs may want to see the goods.
+1. **Pay full price and ask for a refund slip (Tax Free Form).** Check your details on it; forms with missing or wrong fields are rejected by customs.
+2. **Optional: take the cash early at a downtown refund office or kiosk.** You still need the customs stamp when you leave, within 21 days of that refund (15 days with UnionPay).
+3. **At the airport, get customs validation before you check in your bags.** At a customs office or self-validation kiosk; customs may want to see the goods.
+4. **Collect the refund** at a refund office or kiosk, or let it go to the card you chose. No customs validation, no refund.
 
-> Keep the big purchase in your hand luggage until the refund is done. Customs may ask to see it, and once it is in a checked suitcase you can't.
+> Keep the big purchase in your hand luggage until customs has validated the slip. Once it is in a checked suitcase you can't show it.
 
 Goods must leave Korea within three months of purchase.
 
@@ -83,6 +84,7 @@ VAT is 10%, and it is already inside the price you see. Refund operators such as
 ## What does not qualify
 
 - Tobacco, guns and blades, designated cultural heritage items, addictive medicines, and other goods whose sale is restricted by law.
+- Goods with 0% VAT, such as books and raw food, and anything already used: refundable items must be unused.
 - Cosmetic surgery and aesthetic procedures, since 1 January 2026.
 
 > A bill to bring the procedure refund back was introduced in April 2026, but as of 24 November 2026 it had not been restored. Price any treatment without it.
@@ -94,4 +96,4 @@ VAT is 10%, and it is already inside the price you see. Refund operators such as
 
 ## Sources
 
-<p class="sources">Korean law (National Law Information Center, opened 26 November 2026): <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">Special rules on VAT for foreign tourists</a> (in force 2 January 2026: who qualifies, excluded goods, instant refund under ₩1,000,000 per purchase and ₩5,000,000 per entry, three-month rule, operator fees) and its <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">enforcement rules</a> (₩15,000 minimum, tobacco); Korea.net, <a href="https://www.korea.net/NewsFocus/policies/view?articleId=242726" rel="noopener" target="_blank">immediate tax refund limit doubled in 2024</a> (28 November 2023); The Korea Herald on the end of the procedure refund (<a href="https://www.koreaherald.com/article/10633779" rel="noopener" target="_blank">10 December 2025</a>, <a href="https://www.koreaherald.com/article/10947687" rel="noopener" target="_blank">24 November 2026</a>), opened 26 November 2026. Refund percentages and the amounts table come from tax-free operator guidance published for 2026, checked for the previous edition; we could not reopen the operators' sites this time.</p>
+<p class="sources">Korean law (National Law Information Center, opened 26 November 2026): <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">Special rules on VAT for foreign tourists</a> (in force 2 January 2026: who qualifies, excluded goods, instant refund under ₩1,000,000 per purchase and ₩5,000,000 per entry, three-month rule, operator fees) and its <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">enforcement rules</a> (₩15,000 minimum, tobacco); Korea.net, <a href="https://www.korea.net/NewsFocus/policies/view?articleId=242726" rel="noopener" target="_blank">immediate tax refund limit doubled in 2024</a> (28 November 2023); Global Blue, <a href="https://www.globalblue.com/en/shoppers/how-to-shop-tax-free/destinations/south-korea" rel="noopener" target="_blank">Tax Free Shopping in South Korea</a> (opened 26 November 2026: unused goods, 0% VAT goods, customs validation, 21-day rule after a downtown refund, 3-month validation limit); The Korea Herald on the end of the procedure refund (<a href="https://www.koreaherald.com/article/10633779" rel="noopener" target="_blank">10 December 2025</a>, <a href="https://www.koreaherald.com/article/10947687" rel="noopener" target="_blank">24 November 2026</a>), opened 26 November 2026. Refund percentages and the amounts table come from tax-free operator guidance published for 2026, checked for the previous edition. Global Blue's Korea page, opened 26 November 2026, publishes no rate table, so these stay approximate.</p>

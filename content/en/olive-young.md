@@ -3,7 +3,6 @@ title: How to shop Olive Young like a local
 description: When the four Olive Young Sales fall, how the tax comes off at the till with your passport, three basics worth buying, and how to reorder from home.
 lede: Olive Young is Korea's biggest health and beauty chain, and its prices move on a schedule. Time your visit to the sale, bring your passport, and keep the basket short enough that you use it all.
 section: oy
-disclosure: yes
 updated: 2026-11-26
 ---
 ## A sale-week visit, start to finish
@@ -71,4 +70,4 @@ Olive Young Global ships to many countries. Since 29 May 2026 it no longer serve
 
 ## Sources
 
-<p class="sources">Opened 26 November 2026 (KST): The Korea Times, <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">Olive Young Sale every March, June, September and December</a> (22 June 2026); our <a href="/tax-refund/">tax refund page</a> (refund limits, physical passport). Searched, no official December 2026 announcement found as of 26 November 2026. Not reopened this time (sites blocked from our checking environment): CJ Olive Young newsroom announcements of the 2026 sales; Olive Young Global help centre notice on the US platform change (May 2026); Creatrip 2026 sale calendar.</p>
+<p class="sources">Opened 26 November 2026 (KST): CJ Newsroom, <a href="https://cjnews.cj.net/cj올리브영-올해-첫-올영세일-봄맞이-뷰티·웰니/" rel="noopener" target="_blank">March sale, 1–7 March 2026</a> (27 February 2026), <a href="https://cjnews.cj.net/선파우더·픽서·데오드란트-산다6월-올영세일-대/" rel="noopener" target="_blank">June sale, 31 May–6 June</a> (4 June 2026), <a href="https://cjnews.cj.net/cj올리브영-9월-올영세일서-취향-소비-두드러져/" rel="noopener" target="_blank">September sale, 30 August–5 September</a> (6 September 2026) and <a href="https://cjnews.cj.net/cj올리브영-올영세일-외국인-재방문-3년-새-11배-증가/" rel="noopener" target="_blank">four sales a year, in March, June, September and December</a> (22 June 2026); The Korea Times, <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">same report in English</a> (22 June 2026); our <a href="/tax-refund/">tax refund page</a> (refund limits, physical passport). No December 2026 announcement on the CJ Newsroom as of 26 November 2026. Not reopened (the Olive Young Global sites refused our checker): Olive Young Global help notice on the US platform change (May 2026); Olive Young Day coupons (deals board source, 18 November 2026).</p>

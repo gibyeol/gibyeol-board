@@ -3,7 +3,6 @@ title: Olive Young 聰明買攻略
 description: 一年四次 Olive Young Sale 的時間、帶護照結帳就扣稅的方法、第一次買先買哪三樣,以及回國後怎麼回購。
 lede: Olive Young 的價格跟著固定行事曆走。對準特賣去、帶護照、只放用得完的量,這是我們的建議。
 section: oy
-disclosure: yes
 updated: 2026-11-26
 ---
 ## 特賣週逛 Olive Young,從頭到尾
@@ -71,4 +70,4 @@ Olive Young Global 有配送到台灣,運費和條件請在結帳時確認。
 
 ## 資料來源
 
-<p class="sources">2026 年 11 月 26 日查閱:The Korea Times <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">Olive Young Sale 每年 3、6、9、12 月舉行</a>(2026 年 6 月 22 日);本站<a href="/zh-tw/tax-refund/">退稅頁</a>(退稅上限、護照正本)。截至 11 月 26 日,尚未找到 2026 年 12 月特賣的官方公告。這次未能重新開啟的(查證環境無法連線):CJ Olive Young 新聞室 2026 年特賣公告;Creatrip 2026 年折扣時間整理;Olive Young Global 台灣直送說明。</p>
+<p class="sources">2026 年 11 月 26 日查閱:CJ 新聞室 <a href="https://cjnews.cj.net/cj올리브영-올해-첫-올영세일-봄맞이-뷰티·웰니/" rel="noopener" target="_blank">3 月特賣 3 月 1–7 日</a>(2026 年 2 月 27 日)、<a href="https://cjnews.cj.net/선파우더·픽서·데오드란트-산다6월-올영세일-대/" rel="noopener" target="_blank">6 月特賣 5 月 31 日–6 月 6 日</a>(2026 年 6 月 4 日)、<a href="https://cjnews.cj.net/cj올리브영-9월-올영세일서-취향-소비-두드러져/" rel="noopener" target="_blank">9 月特賣 8 月 30 日–9 月 5 日</a>(2026 年 9 月 6 日)、<a href="https://cjnews.cj.net/cj올리브영-올영세일-외국인-재방문-3년-새-11배-증가/" rel="noopener" target="_blank">一年四次(3、6、9、12 月)</a>(2026 年 6 月 22 日);The Korea Times <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">同一內容英文報導</a>(2026 年 6 月 22 日);本站<a href="/zh-tw/tax-refund/">退稅頁</a>(退稅上限、護照正本)。截至 11 月 26 日,CJ 新聞室尚無 2026 年 12 月特賣公告。未能重新開啟的(Olive Young Global 網站拒絕查證工具):台灣配送條件;Olive Young Day 折價券(優惠看板來源,2026 年 11 月 18 日)。</p>

@@ -58,9 +58,9 @@ updated: 2026-11-26
 
 환전, 카드 결제, 티머니를 카드 한 장에 합친 외국인용 선불카드예요. 현금 환전을 자주 할 사람에게 맞고, 카드만 쓸 사람에게는 꼭 필요하진 않아요.
 
-{{fig:money-3|와우패스 비용(공식 안내 기준)}}
+{{fig:money-3|와우패스 비용(공식 사이트 기준)}}
 
-발급비 5,000원(앱 예약 시 4,500원), 외화 현금 충전과 결제에는 수수료가 없다고 공식 안내에 적혀 있어요. 원화 현금 인출은 1회 10만 원까지, 수수료 1,000원이에요.
+카드 발급비는 6,000원, 미리 예약하면 5,500원이에요(2026년 11월 26일 wowpass.io 기준). 매장 결제에는 수수료가 없고, 현금 충전(무인기에서 16개 통화)은 와우패스가 게시한 자체 환율로 바뀌어요. 인출은 원화 현금으로만, 1회 10만 원까지, 수수료 1,000원이에요. 동전과 1,000원 미만은 인출할 수 없어요.
 
 ## 남은 원화
 
@@ -70,4 +70,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">코리아타임스: <a href="https://www.koreatimes.co.kr/business/companies/20260609/naver-introduces-passport-verification-for-foreign-travelers-to-improve-access-to-reservations-payments" rel="noopener" target="_blank">네이버 여권 인증</a>(2026-06-09), <a href="https://www.koreatimes.co.kr/business/companies/20260531/baedal-minjok-to-accept-foreign-issued-cards-through-apple-pay" rel="noopener" target="_blank">배달의민족 애플페이 해외 카드</a>(2026-05-31), <a href="https://www.koreatimes.co.kr/lifestyle/travel-food/20260729/seoul-simplifies-food-delivery-apps-for-international-visitors" rel="noopener" target="_blank">한국 번호 없이 배달 주문</a>(2026-07-29), 카드 사용(2026-07-09); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026-03-16); 코리아넷 <a href="https://www.korea.net/NewsFocus/Society/view?articleId=289001" rel="noopener" target="_blank">273개 역 해외 카드</a>(2026-03-17); 서울시 보도(2026-03-16 지하철 무인기 해외 카드); 아시아경제(2025-03-27 k.ride); 디지털데일리(2026-09-15 외국인 결제 불편 통계); 와우패스 공식 이용 안내(2025-11-04); 지구를 걷는 법(2026-03-04 <a href="https://www.arukikata.co.jp/webmagazine/258060/" rel="noopener" target="_blank">환전·ATM</a>). 링크한 코리아타임스·코리아헤럴드·코리아넷 기사는 2026년 11월 26일에 다시 열어 확인했고, 나머지는 이전 판에서 확인한 자료예요.</p>
+<p class="sources">코리아타임스: <a href="https://www.koreatimes.co.kr/business/companies/20260609/naver-introduces-passport-verification-for-foreign-travelers-to-improve-access-to-reservations-payments" rel="noopener" target="_blank">네이버 여권 인증</a>(2026-06-09), <a href="https://www.koreatimes.co.kr/business/companies/20260531/baedal-minjok-to-accept-foreign-issued-cards-through-apple-pay" rel="noopener" target="_blank">배달의민족 애플페이 해외 카드</a>(2026-05-31), <a href="https://www.koreatimes.co.kr/lifestyle/travel-food/20260729/seoul-simplifies-food-delivery-apps-for-international-visitors" rel="noopener" target="_blank">한국 번호 없이 배달 주문</a>(2026-07-29), 카드 사용(2026-07-09); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026-03-16); 코리아넷 <a href="https://www.korea.net/NewsFocus/Society/view?articleId=289001" rel="noopener" target="_blank">273개 역 해외 카드</a>(2026-03-17); 서울시 보도(2026-03-16 지하철 무인기 해외 카드); 아시아경제(2025-03-27 k.ride); 디지털데일리(2026-09-15 외국인 결제 불편 통계); <a href="https://www.wowpass.io/" rel="noopener" target="_blank">와우패스 공식 사이트</a>(카드 가격·수수료·인출, 2026-11-26 확인); 지구를 걷는 법(2026-03-04 <a href="https://www.arukikata.co.jp/webmagazine/258060/" rel="noopener" target="_blank">환전·ATM</a>). 링크한 코리아타임스·코리아헤럴드·코리아넷 기사와 와우패스 사이트는 2026년 11월 26일에 다시 열어 확인했고, 나머지는 이전 판에서 확인한 자료예요.</p>

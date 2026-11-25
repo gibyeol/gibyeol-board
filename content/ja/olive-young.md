@@ -3,7 +3,6 @@ title: オリーブヤングを賢く買う方法
 description: 年4回のオリーブヤングセールの時期、パスポートでレジで税金が引かれる仕組み、最初に買うなら基本の3つ、帰国後の買い方。
 lede: オリーブヤングの価格はスケジュールに沿って動きます。セールに合わせて行き、パスポートを持ち、使い切れる量だけかごに入れる。それが私たちのおすすめです。
 section: oy
-disclosure: yes
 updated: 2026-11-26
 ---
 ## セール週のオリーブヤング、最初から最後まで
@@ -71,4 +70,4 @@ updated: 2026-11-26
 
 ## 出典
 
-<p class="sources">2026年11月26日確認:The Korea Times <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">オリーブヤングセールは毎年3・6・9・12月</a>(2026年6月22日);当サイトの<a href="/ja/tax-refund/">免税のページ</a>(還付の上限、パスポートの実物)。2026年12月のセールの公式発表は11月26日時点で見つかっていません。今回は開き直せなかったもの(確認環境から接続不可):CJオリーブヤングのニュースルームによる2026年セールの発表、Creatripの2026年セールカレンダー。</p>
+<p class="sources">2026年11月26日確認:CJニュースルーム <a href="https://cjnews.cj.net/cj올리브영-올해-첫-올영세일-봄맞이-뷰티·웰니/" rel="noopener" target="_blank">3月のセール 3月1〜7日</a>(2026年2月27日)、<a href="https://cjnews.cj.net/선파우더·픽서·데오드란트-산다6월-올영세일-대/" rel="noopener" target="_blank">6月のセール 5月31日〜6月6日</a>(2026年6月4日)、<a href="https://cjnews.cj.net/cj올리브영-9월-올영세일서-취향-소비-두드러져/" rel="noopener" target="_blank">9月のセール 8月30日〜9月5日</a>(2026年9月6日)、<a href="https://cjnews.cj.net/cj올리브영-올영세일-외국인-재방문-3년-새-11배-증가/" rel="noopener" target="_blank">年4回(3・6・9・12月)</a>(2026年6月22日);The Korea Times <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">同じ内容の英語記事</a>(2026年6月22日);当サイトの<a href="/ja/tax-refund/">免税のページ</a>(還付の上限、パスポートの実物)。2026年12月のセールの発表は11月26日時点でCJニュースルームにありません。開き直せなかったもの(オリーブヤンググローバルのサイトが確認ツールを拒否):日本への配送条件;オリーブヤングデーのクーポン(セール情報の出典、2026年11月18日)。</p>

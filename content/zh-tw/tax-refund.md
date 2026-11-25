@@ -10,7 +10,7 @@ updated: 2026-11-26
 | 你的情況 | 怎麼做 | 為什麼 |
 |---|---|---|
 | 在 Tax Free 店家單筆 15,000 至未滿 1,000,000 韓元 | 結帳時出示護照正本 | 稅金當場扣掉,機場不用再辦 |
-| 單筆 1,000,000 韓元以上 | 付全額、拿退稅單,托運行李前辦理 | 超過現場退稅上限 |
+| 單筆 1,000,000 韓元以上 | 付全額、拿退稅單,托運行李前做海關驗證 | 超過現場退稅上限 |
 | 很多家店各買一點 | 集中在同一家店買 | 收據不能合併計算 |
 | 皮膚科、醫美療程 | 不要把退稅算進去 | 外國觀光客醫美療程退稅已在 2025 年 12 月 31 日結束 |
 
@@ -24,7 +24,7 @@ updated: 2026-11-26
 
 **回國那天。** 現場退稅買的東西,在機場什麼都不用辦。這就是要規劃的結局。
 
-這頁沒寫的:各退稅公司的手續費表(這次沒能重新打開業者網站)、機場與市區的免稅店(和退稅是不同制度)。
+這頁沒寫的:各退稅公司的手續費表(Global Blue 韓國頁面沒有公布,其他業者我們無法確認)、機場與市區的免稅店(和退稅是不同制度)。
 
 ## 三個數字
 
@@ -60,11 +60,12 @@ updated: 2026-11-26
 
 {{fig:tax-refund-4|在機場,順序很重要}}
 
-1. **付全額並索取退稅單。**
-2. **到市區退稅機或機場辦理。**
-3. **在機場要在托運行李前辦。** 海關可能要求查看商品。
+1. **付全額並索取退稅單(Tax Free Form)。** 必填欄位漏填或填錯,海關會退件,請先核對。
+2. **想先拿錢的話,可在市區退稅櫃檯或退稅機先領現金。** 但出境時仍要海關驗證,而且要在退稅後 21 天內(銀聯 15 天)。
+3. **在機場托運行李前先做海關驗證。** 到海關櫃檯或自助驗證機辦理,海關可能要求查看商品。
+4. **到退稅櫃檯、退稅機領取,或退到你選的卡。** 沒有海關驗證就沒有退稅。
 
-> 大件商品在退稅辦完前放隨身行李。海關可能要看,放進托運行李就拿不出來了。
+> 大件商品在海關驗證前放隨身行李。放進托運行李就拿不出來給海關看了。
 
 商品須在購買後 3 個月內帶出韓國。
 
@@ -83,6 +84,7 @@ updated: 2026-11-26
 ## 不能退稅的項目
 
 - 菸品、槍砲刀劍、指定文化遺產、成癮性藥品,以及其他法律限制交易的物品。
+- 書籍、生鮮食品等加值稅 0% 的商品,以及用過的東西(可退稅商品必須未使用)。
 - 2026 年 1 月 1 日起的整形與醫美療程。
 
 > 恢復醫美退稅的法案在 2026 年 4 月提出,但到 2026 年 11 月 24 日仍未恢復。療程費用請以沒有退稅來計算。
@@ -94,4 +96,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources">韓國國家法令資訊中心(2026 年 11 月 26 日查看):<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">外國觀光客等附加價值稅及個別消費稅特例規定</a>(2026 年 1 月 2 日施行:退稅對象、不適用物品、單筆未滿 100 萬與入境後總額 500 萬韓元以下現場退稅、3 個月帶出、退稅手續費)及其<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">施行規則</a>(最低 15,000 韓元、菸品);Korea.net〈<a href="https://www.korea.net/NewsFocus/policies/view?articleId=242726" rel="noopener" target="_blank">2024 年現場退稅上限加倍</a>〉(2023 年 11 月 28 日);The Korea Herald 醫美退稅結束報導(<a href="https://www.koreaherald.com/article/10633779" rel="noopener" target="_blank">2025 年 12 月 10 日</a>、<a href="https://www.koreaherald.com/article/10947687" rel="noopener" target="_blank">2026 年 11 月 24 日</a>),2026 年 11 月 26 日查看。退稅比例與金額表來自 2026 年退稅業者說明,於前一版查證,這次未能重新打開業者網站。</p>
+<p class="sources">韓國國家法令資訊中心(2026 年 11 月 26 日查看):<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">外國觀光客等附加價值稅及個別消費稅特例規定</a>(2026 年 1 月 2 日施行:退稅對象、不適用物品、單筆未滿 100 萬與入境後總額 500 萬韓元以下現場退稅、3 個月帶出、退稅手續費)及其<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B4%80%EA%B4%91%EA%B0%9D%EB%93%B1%EC%97%90%EB%8C%80%ED%95%9C%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8%EB%B0%8F%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%ED%8A%B9%EB%A1%80%EA%B7%9C%EC%A0%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">施行規則</a>(最低 15,000 韓元、菸品);Korea.net〈<a href="https://www.korea.net/NewsFocus/policies/view?articleId=242726" rel="noopener" target="_blank">2024 年現場退稅上限加倍</a>〉(2023 年 11 月 28 日);Global Blue <a href="https://www.globalblue.com/en/shoppers/how-to-shop-tax-free/destinations/south-korea" rel="noopener" target="_blank">Tax Free Shopping in South Korea</a>(2026 年 11 月 26 日查看:未使用商品、0% 稅率商品、海關驗證、市區退稅後 21 天、3 個月內驗證);The Korea Herald 醫美退稅結束報導(<a href="https://www.koreaherald.com/article/10633779" rel="noopener" target="_blank">2025 年 12 月 10 日</a>、<a href="https://www.koreaherald.com/article/10947687" rel="noopener" target="_blank">2026 年 11 月 24 日</a>),2026 年 11 月 26 日查看。退稅比例與金額表來自 2026 年退稅業者說明,於前一版查證;2026 年 11 月 26 日打開的 Global Blue 韓國頁面沒有退稅率表,所以仍標為估計值。</p>

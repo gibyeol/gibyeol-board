@@ -7,15 +7,15 @@
 <circle cx="74" cy="110" r="15" fill="#b8392f"/>
 <text x="74" y="116" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
 <text x="100" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">註冊</text>
-<text x="100" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Google、Apple 或 email</text>
+<text x="100" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">手機驗證或社群帳號</text>
 <circle cx="74" cy="188" r="15" fill="#b8392f"/>
 <text x="74" y="194" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-<text x="100" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">綁海外信用卡</text>
-<text x="100" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">在 App 裡綁定</text>
+<text x="100" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">綁卡</text>
+<text x="100" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">信用卡、簽帳卡</text>
 <circle cx="74" cy="266" r="15" fill="#b8392f"/>
 <text x="74" y="272" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
 <text x="100" y="266" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">叫車</text>
-<text x="100" y="290" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">搜尋和聊天自動翻譯</text>
+<text x="100" y="290" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">用133種語言搜尋</text>
 <circle cx="74" cy="344" r="15" fill="#b8392f"/>
 <text x="74" y="350" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
 <text x="100" y="344" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">下車</text>

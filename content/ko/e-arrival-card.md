@@ -24,13 +24,13 @@ updated: 2026-11-26
 
 공식 규정으로 그린 장면이에요. 지어낸 경험담이 아니에요.
 
-**출발 전날 밤.** 여권, 항공편명, 숙소 영문 주소를 옆에 두고 공식 사이트에서 10분쯤. 발급번호가 담긴 PDF가 메일함에 와요. 짐을 싸기 전에 입국신고서는 끝나요.
+**출발 전날 밤.** 여권, 항공편명, 숙소 영문 주소를 옆에 두고 공식 사이트에서 10분쯤. 발급번호가 담긴 PDF를 휴대폰에 저장해요. 짐을 싸기 전에 입국신고서는 끝나요.
 
 **입국심사대 앞.** 펜도, 무릎 위에서 쓰는 종이 카드도 없어요. 여권을 내밀면 심사관 화면에 정보가 이미 떠 있어요. 심사를 마치면 신고서는 할 일을 다 하고 효력이 끝나요.
 
 ## 공식 사이트만, 무료예요
 
-여기서 실제로 돈을 잃는 길은 가짜 사이트 하나뿐이에요. 법무부 출입국·외국인정책본부가 공식 사이트와 이름이 비슷한데 수수료를 받는 사이트를 조심하라고 공지했어요. 공식 사이트는 돈을 받지 않아요.
+여기서 실제로 돈을 잃는 길은 가짜 사이트 하나뿐이에요. 공식 사이트는 이름이 비슷한 사이트가 개인정보나 수수료를 요구할 수 있다며 주의하라고 공지하고 있어요. 공식 사이트는 돈을 받지 않아요.
 
 {{fig:e-arrival-card-3|진짜 사이트의 모습과, 가짜를 가려내는 한 가지 신호}}
 
@@ -60,12 +60,12 @@ updated: 2026-11-26
 4. **출국 정보**: 날짜는 필수, 항공편명은 선택.
 5. **입국 목적과 직업**: 관광 등 맞는 항목을 골라요.
 6. **국내 체류지**: 아래 설명을 참고하세요.
-7. **확인 후 제출**: 여권과 다른 곳이 없는지 확인하고 제출해요.
-8. **발급번호 보관**: 발급번호가 담긴 PDF를 저장할 수 있고, 이메일로도 와요. 보여 줄 의무는 없지만(심사관이 시스템에서 확인해요) 요청받을 때를 대비해 캡처해 두면 편해요.
+7. **확인 후 제출**: 여권과 다른 곳이 없는지 확인해요. 공식 사이트는 2026년 5월 6일부터 제출할 때 인증번호를 입력하는 절차를 도입한다고 공지했어요.
+8. **PDF 저장**: 발급번호가 담긴 PDF를 저장하세요. 이메일로도 오지만, 공식 사이트는 Gmail·Outlook.com·Hotmail·QQ 메일은 늦게 오거나 안 올 수 있다고 안내해요. 보여 줄 의무는 없지만(심사관이 시스템에서 확인해요) 요청받을 때를 대비해 갖고 있으면 편해요.
 
 ### 숙소가 여러 곳일 때
 
-주로 머무는 곳을 써요. 주된 숙소가 없으면 도착 후 처음 묵는 곳을 쓰면 돼요. 체류지·입국 목적·출국일은 입국심사 전까지 발급번호나 이메일 인증으로 고칠 수 있어요.
+주로 머무는 곳을 써요. 주된 숙소가 없으면 도착 후 처음 묵는 곳을 쓰면 돼요. 체류지·입국 목적·직업 등은 입국심사 전까지 발급번호나 이메일 인증으로 고칠 수 있어요.
 
 ### 귀국일이 정해지지 않았을 때
 
@@ -81,7 +81,7 @@ updated: 2026-11-26
 
 ## 종이 입국신고서는?
 
-2025년 2월 24일 전자입국신고서가 시작되기 전에는 종이 신고서를 썼어요. 한국관광공사는 도입 당시 종이 신고서는 2025년 12월까지만 함께 쓴다고 안내했고, 인천공항도 "원칙적으로 모든 외국인이 입국신고서 작성 대상"이라고 설명해요. 그런데 2026년 11월 25일에 확인한 공식 FAQ에는 "미리 내지 않았다면 입국심사 전에 전자 또는 종이로 제출할 수 있다"는 내용도 남아 있어요. 우리 판단은 "종이는 기대하지 말 것"이에요. 미리 온라인으로 내는 게 지금의 기본이에요.
+2025년 2월 24일 전자입국신고서가 시작되기 전에는 종이 신고서를 썼어요. 한국관광공사는 도입 당시 종이 신고서는 2025년 12월까지만 함께 쓴다고 안내했고, 인천공항도 "원칙적으로 모든 외국인이 입국신고서 작성 대상"이라고 설명해요. 그런데 2026년 11월 26일에 다시 확인한 공식 FAQ에는 "미리 내지 않았다면 입국심사 전에 전자 또는 종이로 제출할 수 있다"는 내용도 남아 있어요. 우리 판단은 "종이는 기대하지 말 것"이에요. 미리 온라인으로 내는 게 지금의 기본이에요.
 
 ## K-ETA와의 관계
 
@@ -92,7 +92,7 @@ updated: 2026-11-26
 - 미국·일본·대만 등 22개 국가·지역의 단기 방문객 대부분은 K-ETA가 한시 면제돼요. K-ETA 공식 사이트의 2025년 12월 23일 공지 기준으로 면제 기간은 **2026년 12월 31일까지**예요. 면제 기간에는 전자입국신고서를 내요.
 - 면제 대상도 원하면 K-ETA를 신청할 수 있지만, 얻는 건 입국신고서 면제뿐이고 수수료가 들어요. 짧은 여행이라면 무료 신고서로 충분해요.
 
-> 보도 단계: 2026년 11월 23~24일 일부 여행 매체가 면제가 2027년 12월 31일까지 연장됐다고 보도했어요. 11월 26일 다시 확인했을 때도 정부 공식 페이지에서 그 공지를 찾지 못했어요. 2027년에 오는 손님이라면 예약 전에 k-eta.go.kr을 확인해 주세요.
+> 보도 단계: 2026년 11월 23~24일 일부 여행 매체가 면제가 2027년 12월 31일까지 연장됐다고 보도했어요. 11월 26일 k-eta.go.kr에서 열어 본 최신 면제 공지는 여전히 2026년 12월 31일까지였어요. 2027년에 오는 손님이라면 예약 전에 k-eta.go.kr을 확인해 주세요.
 
 전자입국신고서를 냈다고 자동출입국심사를 쓸 수 있게 되는 건 아니고, 세관 신고를 대신하지도 않아요.
 
@@ -100,4 +100,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">전자입국신고서 공식 사이트 <a href="https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do" rel="noopener" target="_blank">안내</a>, <a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">신고 절차</a>, <a href="https://www.e-arrivalcard.go.kr/portal/guide/navigator.do" rel="noopener" target="_blank">내비게이터</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">자주 묻는 질문</a>(2026년 11월 25일 확인) 및 "전자입국신고서는 무료입니다" 공지(2025년 2월 21일); 법무부 출입국·외국인정책본부 <a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">가짜 전자입국신고서 사이트 주의</a>(2025년 3월 21일); <a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">인천국제공항 입국 절차 안내</a>(2026년 11월 26일 확인: 도착 72시간 전부터 제출, 무료, 제출 대상과 예외); 정부민원안내콜센터 110 법무부 답변(2026년 1월 15일); 한국관광공사 VISITKOREA 도입 안내(2025년 2월 20일); <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">K-ETA 한시 면제 기간 연장 알림</a>(2025년 12월 23일); 주하갓냐 총영사관 K-ETA 면제 공지(2025년 12월 29일).</p>
+<p class="sources">전자입국신고서 공식 사이트(2026년 11월 26일 확인): <a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">자주 묻는 질문</a>(34개 전체: 제출 시기, 9명·1,000명, 환승, 정보 수정, 종이 신고서, K-ETA 소지자, 아동), <a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">신고 절차</a>, 공지 <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000001&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">제도 안내(제출 대상)</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000002&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">전자입국신고는 무료입니다</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012530&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">이메일 수신 지연</a>(2026년 3월 13일), <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012630&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">사용자 인증 절차(2026년 5월 6일부터)</a>(2026년 4월 29일); <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">K-ETA 한시 면제 기간 연장 알림</a>(2025년 12월 23일, 2026년 11월 26일 확인); <a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">인천국제공항 입국 절차 안내</a>(2026년 11월 26일 확인); 법무부 출입국·외국인정책본부 <a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">가짜 전자입국신고서 사이트 주의</a>(2025년 3월 21일, 이전 판에서 확인); 한국관광공사 VISITKOREA 도입 안내(2025년 2월 20일, 이전 판에서 확인).</p>

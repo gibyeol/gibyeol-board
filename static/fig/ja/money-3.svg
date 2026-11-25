@@ -3,16 +3,16 @@
 <text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">WOWPASSの費用</text>
 <rect x="16" y="54" width="368" height="304" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <text x="30" y="86" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">カード発行費</text>
-<text x="370" y="86" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">5,000ウォン</text>
+<text x="370" y="86" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">6,000ウォン</text>
 <path d="M30 100 H370" stroke="#c9c1b2" stroke-width="1"/>
-<text x="30" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">アプリで予約</text>
-<text x="370" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">4,500ウォン</text>
+<text x="30" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">事前予約</text>
+<text x="370" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">5,500ウォン</text>
 <path d="M30 142 H370" stroke="#c9c1b2" stroke-width="1"/>
-<text x="30" y="170" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">外貨現金のチャージ</text>
+<text x="30" y="170" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">お店での支払い</text>
 <text x="370" y="170" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">手数料なし</text>
 <path d="M30 184 H370" stroke="#c9c1b2" stroke-width="1"/>
-<text x="30" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">支払い</text>
-<text x="370" y="212" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">手数料なし</text>
+<text x="30" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">現金チャージ</text>
+<text x="370" y="212" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">WOWPASSのレート</text>
 <path d="M30 226 H370" stroke="#c9c1b2" stroke-width="1"/>
 <text x="30" y="254" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ウォン引き出し1回</text>
 <text x="370" y="254" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,000ウォン</text>
@@ -22,5 +22,5 @@
 <path d="M30 310 H370" stroke="#c9c1b2" stroke-width="1"/>
 <text x="30" y="338" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">残高の払い戻し</text>
 <text x="370" y="338" font-size="16" font-weight="400" fill="#16151a" text-anchor="end">ウォン現金のみ</text>
-<text x="16" y="390" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">公式利用案内(2025年11月4日)より</text>
+<text x="16" y="390" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">wowpass.io、2026年11月26日確認</text>
 </svg>

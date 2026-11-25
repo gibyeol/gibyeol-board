@@ -5,6 +5,21 @@ lede: 私たちのおすすめは、乗る前にチャージ済みのカード�
 section: transport
 updated: 2026-11-26
 ---
+## はじめてのバス
+
+韓国観光公社の案内はひと言です。前のドアから乗り、後ろのドアから降りる。乗る前にNAVERマップで経路を開いておくと、乗っている間は経路上のいまの位置が出ます。停留所ではバス正面の番号を確かめます(大都市には、バスの情報をリアルタイムで表示する停留所も多くあります)。前のドアから乗り、ドア横の読み取り機にカードをかざします。空いていれば窓側へ。観光公社も、窓の外を流れる街の景色を市内バスの楽しみに挙げています。次が降りる停留所になったら窓際の降車ボタンを押し、後ろのドア横の読み取り機にタッチして降ります。私たちが選ぶ最後の場面:地下鉄では行けない場所で、2回タッチして降りること。30分以内に次に乗れば、基本運賃はもう一度かかりません。
+
+{{fig:seoul-bus-4|前から乗り、窓際の降車ボタン、後ろから降りる}}
+
+## 乗る前にしておくこと
+
+私たちの判断:停留所ではなく、ホテルで済ませておきましょう。
+
+1. **カードをチャージ。** ソウルの市内バスのうち183路線は現金不可です。
+2. **NAVERマップを入れて**日本語表示に。
+3. **最初の路線番号と停留所名を保存**し、地図で経路を一度眺めておく。
+4. **夜遅くまで出かけるなら**、ホテル近くを通るNバスを探しておく。
+
 ## 先に結論
 
 | こんなとき | こうする | 理由 |
@@ -12,9 +27,11 @@ updated: 2026-11-26
 | 目的地が駅から遠い | チャージ済みカードでバス | ソウル市の一覧で現金不可の路線が183あります |
 | バスを降りるとき | 読み取り機にもう一度タッチ | 忘れるとそこで乗り換えが切れます |
 | どこで降りるか不安 | NAVERマップで経路をたどる | 日本語表示に切り替えられます |
-| 終電を逃した | N番の深夜バス、2,500ウォン | 路線ごとの時間はアプリで確認 |
+| 終電を逃した | N番の深夜バス、2,500ウォン | 14路線、23時〜翌6時 |
 
 このページはソウルの市内バスだけを扱います。地下鉄は[ソウル地下鉄の乗り方](/ja/seoul-subway/)、タクシー・終電・どのカードを買うかは[ソウルの地下鉄・バス・タクシー](/ja/getting-around/)、空港からホテルまでは[仁川空港からソウルへ](/ja/airport-to-seoul/)へ。ホテルも行き先もすべて駅の近くなら、地下鉄だけのほうが簡単です。
+
+選び方:バスか地下鉄かは「目的地が駅から遠いか」のひとつで決めます。あえて外したもの:バス専用アプリと、現金不可路線の全リスト。地図アプリひとつとチャージ済みカードで両方まかなえます。
 
 ## まず色を見る
 
@@ -36,9 +53,9 @@ updated: 2026-11-26
 
 1. **出発前にカードをチャージ。** T-moneyなど韓国の交通カード。どのカードをどこで買ってチャージするかは[出発前の準備](/ja/essentials/)に。
 2. **路線番号を確認。** NAVERマップかカカオマップで番号を見て、バス正面の番号と照らし合わせます。
-3. **乗車時に読み取り機へタッチ。**
-4. **地図で停留所を確認。** ひとつ前で降りる準備を。
-5. **降りる前に読み取り機へもう一度タッチ**して降ります。
+3. **前のドアから乗り、読み取り機へタッチ。**
+4. **地図で停留所を確認。** 次が降りる停留所になったら窓際の降車ボタンを押します。
+5. **後ろのドア横の読み取り機にもう一度タッチ**して降ります。
 
 {{fig:seoul-bus-2|乗るときにタッチ、降りるときにもう一度}}
 
@@ -58,10 +75,6 @@ updated: 2026-11-26
 
 同じ路線・同じ車両に乗り直すのは乗り換えになりません。赤い広域バスが入ると基本距離は10kmではなく30kmです。運賃の全体像は[ソウルの地下鉄・バス・タクシー](/ja/getting-around/)に。
 
-## どこで降りる?
-
-アプリに任せるのが私たちのおすすめです。NAVERマップは表示言語を日本語に切り替えられ、バス・地下鉄・徒歩の経路が出ます。カカオマップは英語表示に対応しています。乗る前に経路を開き、画面をつけたままにして、次が降りる停留所になったらドアの近くへ。
-
 ## 空港バスは別物です
 
 市内バスと空港リムジンバスは、同じ「バス」でも別のサービスです。
@@ -77,9 +90,9 @@ updated: 2026-11-26
 
 ## 深夜バス
 
-地下鉄が終わった後は、番号がNで始まる深夜バスが走ります。大人・交通カードで2,500ウォン。運行時間や間隔は路線ごとに違うので、停留所に出る前にNAVERマップで路線と次のバスを確認しておきましょう。
+地下鉄が終わった後、ソウル市は番号がNで始まる深夜バスを14路線、23時から翌6時まで走らせています。大人・交通カードで2,500ウォン([ソウル市、2026年3月20日更新](https://news.seoul.go.kr/traffic/archives/27974))。始発・終発や間隔は路線ごとに違うので、停留所に出る前にNAVERマップで路線と次のバスを確認しておきましょう。
 
-> 現在の深夜バスの路線数と運行時間は公式ページで確認できなかったため、載せていません。
+{{fig:seoul-bus-5|2種類のNバス:市内の深夜バスと空港の深夜バス}}
 
 ## よくある失敗
 
@@ -95,4 +108,4 @@ updated: 2026-11-26
 
 ## 出典
 
-<p class="sources">ソウル市:<a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">ソウル市内バスの体系と利用方法</a>(2026年3月9日更新、運賃・色・乗り換えルール)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">統合乗り換え割引制度</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通運賃案内</a>(2025年7月11日更新)、<a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">現金のないバス運行路線一覧(2026年1月)</a>(2026年3月6日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">気候同行カード(短期券)紹介</a>(2026年10月12日更新);仁川空港:<a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener" target="_blank">バス検索</a>、<a href="https://www.airport.kr/ap_ko/979/subview.do" rel="noopener" target="_blank">ソウル深夜バス</a>;Visit Seoul:<a href="https://english.visitseoul.net/airport-to-seoul/1078" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月時点の運賃);The Korea Herald「<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">Tips on using public transportation in Korea</a>」(2025年11月6日)。いずれも2026年11月26日確認。</p>
+<p class="sources">ソウル市:<a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">ソウル市内バスの体系と利用方法</a>(2026年3月9日更新、運賃・色・乗り換えルール)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">統合乗り換え割引制度</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通運賃案内</a>(2025年7月11日更新)、<a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">現金のないバス運行路線一覧(2026年1月)</a>(2026年3月6日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">気候同行カード(短期券)紹介</a>(2026年10月12日更新);仁川空港:<a href="https://www.airport.kr/ap_ko/976/subview.do" rel="noopener" target="_blank">バス検索</a>、<a href="https://www.airport.kr/ap_ko/979/subview.do" rel="noopener" target="_blank">ソウル深夜バス</a>;Visit Seoul:<a href="https://english.visitseoul.net/airport-to-seoul/1078" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月時点の運賃);The Korea Herald「<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">Tips on using public transportation in Korea</a>」(2025年11月6日)。いずれも2026年11月26日確認。 2026年11月26日にあわせて確認:ソウル市 <a href="https://news.seoul.go.kr/traffic/archives/27974" rel="noopener" target="_blank">深夜専用市内バス</a>(2026年3月20日更新)、韓国観光公社 <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140659" rel="noopener" target="_blank">City Bus(英語)</a>(2026年10月8日更新、前後のドア、降車ボタン、リアルタイム停留所)。</p>

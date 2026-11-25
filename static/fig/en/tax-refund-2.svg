@@ -19,7 +19,7 @@
 <rect x="36" y="320" width="52" height="26" rx="13" fill="#b8392f"/>
 <text x="62.0" y="339" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Yes</text>
 <text x="98" y="339" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Refund slip</text>
-<text x="98" y="361" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Claim before you check bags</text>
+<text x="98" y="361" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Customs check before bag drop</text>
 <path d="M44 392 V416" stroke="#5f5b55" stroke-width="2"/>
 <path d="M38 410 L44 418 L50 410" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <text x="60" y="411" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">No</text>

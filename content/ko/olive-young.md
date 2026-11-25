@@ -3,7 +3,6 @@ title: 현지인처럼 올리브영 쇼핑하는 법
 description: 1년에 네 번 열리는 올영세일 시기, 여권으로 계산대에서 세금이 빠지는 방법, 처음이라면 살 기본템 세 가지, 여행 뒤 다시 사는 법까지 정리했어요.
 lede: 올리브영 가격은 정해진 일정에 따라 움직여요. 세일에 맞춰 가고, 여권을 챙기고, 다 쓸 수 있을 만큼만 담는 게 우리 판단이에요.
 section: oy
-disclosure: yes
 updated: 2026-11-26
 ---
 ## 세일 주간 올리브영, 처음부터 끝까지
@@ -71,4 +70,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">2026년 11월 26일 확인: 코리아타임스 <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">올영세일은 매년 3·6·9·12월</a>(2026년 6월 22일); 우리 <a href="/ko/tax-refund/">택스리펀드 페이지</a>(환급 한도, 여권 실물). 2026년 12월 세일 공식 발표는 11월 26일 현재 찾지 못했어요. 이번에 다시 열지 못한 것(확인 환경에서 접속 차단): 2026년 올영세일에 관한 CJ올리브영 뉴스룸 발표; 미국 플랫폼 변경에 관한 올리브영 글로벌 고객센터 공지(2026년 5월); 크리에이트립 2026년 세일 달력.</p>
+<p class="sources">2026년 11월 26일 확인: CJ뉴스룸 <a href="https://cjnews.cj.net/cj올리브영-올해-첫-올영세일-봄맞이-뷰티·웰니/" rel="noopener" target="_blank">3월 올영세일 3월 1~7일</a>(2026년 2월 27일), <a href="https://cjnews.cj.net/선파우더·픽서·데오드란트-산다6월-올영세일-대/" rel="noopener" target="_blank">6월 올영세일 5월 31일~6월 6일</a>(2026년 6월 4일), <a href="https://cjnews.cj.net/cj올리브영-9월-올영세일서-취향-소비-두드러져/" rel="noopener" target="_blank">9월 올영세일 8월 30일~9월 5일</a>(2026년 9월 6일), <a href="https://cjnews.cj.net/cj올리브영-올영세일-외국인-재방문-3년-새-11배-증가/" rel="noopener" target="_blank">연 4회(3·6·9·12월)</a>(2026년 6월 22일); 코리아타임스 <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">같은 내용 영문 보도</a>(2026년 6월 22일); 우리 <a href="/ko/tax-refund/">택스리펀드 페이지</a>(환급 한도, 여권 실물). 2026년 12월 세일 발표는 11월 26일 현재 CJ뉴스룸에 없어요. 다시 열지 못한 것(올리브영 글로벌 사이트가 확인 도구를 거부): 미국 플랫폼 변경 고객센터 공지(2026년 5월); 올영데이 쿠폰(할인 상황판 출처, 2026년 11월 18일).</p>
