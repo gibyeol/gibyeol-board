@@ -263,6 +263,6 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .fig img{display:block;width:100%;height:auto}
 .fig figcaption{margin-top:8px;font-size:.86rem;color:var(--muted)}
 ol.steps{list-style:none;counter-reset:st;padding:0;margin:1.4rem 0;display:grid;gap:10px}
-ol.steps>li{counter-increment:st;position:relative;padding:12px 14px 12px 56px;background:#fff;border:1px solid var(--hair);border-radius:10px;line-height:1.55}
+ol.steps>li{margin:0;counter-increment:st;position:relative;padding:12px 14px 12px 56px;background:#fff;border:1px solid var(--hair);border-radius:10px;line-height:1.55}
 ol.steps>li::before{content:counter(st);position:absolute;left:14px;top:11px;width:28px;height:28px;border-radius:50%;background:var(--red);color:#fff;font:600 .9rem/28px var(--mono);text-align:center}
 .note{background:#fff;border:1px solid var(--hair);border-left:4px solid var(--red);border-radius:8px;padding:.7rem 1rem}
