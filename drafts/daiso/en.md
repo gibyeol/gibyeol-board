@@ -22,8 +22,6 @@ Asung Daiso says it keeps a system of six price points, from ₩500 to ₩5,000,
 
 {{fig:daiso-1|Daiso Korea's price range, with examples}}
 
-The pages we opened confirm the lowest price (₩500), the highest (₩5,000) and examples at ₩1,000 and ₩2,000. We could not confirm the other price points, or when each price was introduced, on an official or major-press page, so we leave them out.
-
 What this means for you: to stay under ₩5,000, many beauty products come in smaller sizes (VisitKorea notes they "may lack in terms of volume") or as Daiso-only lines with their own prices and formulas (Korea Herald, January 2026).
 
 ## What visitors actually buy
