@@ -18,7 +18,7 @@ updated: 2026-11-26
 
 不需要看這頁的人:韓國籍(雙重國籍請用韓國護照入境)、已登錄外國人、持有效 K-ETA、持團體簽證入境、24 小時內轉機且不出轉機區的人。
 
-這頁沒寫的:代填的付費服務(官方表單免費,幾分鐘就填完)、K-ETA 申請步驟(免申請對象在 2026 年底前用不到)。
+這頁沒寫的:代填的付費服務(官方表單免費,幾分鐘就填完)、K-ETA 申請步驟(免申請對象在 2027 年底前用不到)。
 
 ## 順利入境是這個樣子
 
@@ -89,10 +89,8 @@ updated: 2026-11-26
 
 {{fig:e-arrival-card-5|K-ETA 與電子入境卡比一比}}
 
-- 臺灣在 K-ETA 暫時免申請的 22 個國家和地區內。依 K-ETA 官網 2025 年 12 月 23 日公告,免申請期限到 **2026 年 12 月 31 日**。免申請期間就填電子入境卡。
-- 免申請對象也可以自費申請 K-ETA,唯一好處是不用填入境卡。短期旅遊填免費的入境卡就夠了。
-
-> 還在報導階段:2026 年 11 月 23~24 日有旅遊媒體報導免申請延長到 2027 年 12 月 31 日。我們 11 月 26 日在 k-eta.go.kr 打開的最新免申請公告,仍寫到 2026 年 12 月 31 日。2027 年出發的人,訂票前請先看 k-eta.go.kr。
+- 臺灣在 K-ETA 暫時免申請的 22 個國家和地區內。法務部在 [2026 年 11 月 23 日的 K-ETA 公告](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883)將免申請延長一年,期限到 **2027 年 12 月 31 日**。免申請期間就填電子入境卡。申請 K-ETA 時掃描免申請對象的護照資料頁,會顯示「K-ETA 免申請對象」提示。
+- 免申請對象也可以自費申請 K-ETA,唯一好處是不用填入境卡。短期旅遊填免費的入境卡就夠了。已取得的 K-ETA 可用到效期結束,已付的費用不退。
 
 填了電子入境卡不代表可以走自動通關,也不能取代海關申報。
 
@@ -100,4 +98,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources">電子入境卡官方網站(2026 年 11 月 26 日查看):<a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">常見問題</a>(全部 34 題:填寫時間、9 人與 1,000 人、轉機、修改資料、紙本、K-ETA 持有人、兒童)、<a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">填寫步驟</a>、公告<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000001&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">制度說明(申報對象)</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000002&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">電子入境卡免費</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012530&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">email 收信延遲</a>(2026 年 3 月 13 日)、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012630&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">2026 年 5 月 6 日起驗證碼步驟</a>(2026 年 4 月 29 日);<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">K-ETA 暫時免申請延長公告</a>(2025 年 12 月 23 日,2026 年 11 月 26 日查看);<a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">仁川國際機場入境流程說明</a>(2026 年 11 月 26 日查看);法務部出入境·外國人政策本部〈<a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">小心假的電子入境卡網站</a>〉(2025 年 3 月 21 日,前一版查證);韓國觀光公社 VISITKOREA 上線公告(2025 年 2 月 20 日,前一版查證)。</p>
+<p class="sources">電子入境卡官方網站(2026 年 11 月 26 日查看):<a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">常見問題</a>(全部 34 題:填寫時間、9 人與 1,000 人、轉機、修改資料、紙本、K-ETA 持有人、兒童)、<a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">填寫步驟</a>、公告<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000001&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">制度說明(申報對象)</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000002&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">電子入境卡免費</a>、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012530&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">email 收信延遲</a>(2026 年 3 月 13 日)、<a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012630&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">2026 年 5 月 6 日起驗證碼步驟</a>(2026 年 4 月 29 日);<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA 暫時免申請延長至 2027 年 12 月 31 日</a>(2026 年 11 月 23 日,2026 年 11 月 26 日查看;取代 <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">2025 年 12 月 23 日公告</a>);<a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">仁川國際機場入境流程說明</a>(2026 年 11 月 26 日查看);法務部出入境·外國人政策本部〈<a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">小心假的電子入境卡網站</a>〉(2025 年 3 月 21 日,前一版查證);韓國觀光公社 VISITKOREA 上線公告(2025 年 2 月 20 日,前一版查證)。</p>

@@ -58,7 +58,6 @@ K-ETAは、ビザなしで韓国に入国する人向けの電子渡航認証で
 
 {{aff:klook_esim_alt|通話・SMS付きのSKT eSIMを見る}}
 
-{{aff:airalo_kr|韓国向けeSIMを比較する}}
 
 ## 4. お金と交通カード
 

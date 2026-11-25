@@ -345,16 +345,16 @@ def ea4(lang):
 # ---------- e-arrival-card-5: K-ETA vs e-Arrival Card ----------
 EA5 = {
  "en": dict(t=["Two different things"], k=["Travel authorisation", "₩10,000, applied for before you fly",
-    "22 countries and regions incl. the US:", "exempt until 31 December 2026"],
+    "22 countries and regions incl. the US:", "exempt until 31 December 2027"],
     e=("e-Arrival Card", ["Replaces the paper arrival card", "Free, in the 3 days before you land"]),
     n=["Valid K-ETA? Then no e-Arrival Card."]),
- "ko": dict(t=["서로 다른 두 제도"], k=["전자여행허가", "1만 원, 출발 전에 신청", "미국·일본·대만 등 22개 국가·지역", "2026년 12월 31일까지 면제"],
+ "ko": dict(t=["서로 다른 두 제도"], k=["전자여행허가", "1만 원, 출발 전에 신청", "미국·일본·대만 등 22개 국가·지역", "2027년 12월 31일까지 면제"],
     e=("전자입국신고서", ["종이 입국신고서를 대신해요", "무료, 도착 전 3일 안에"]),
     n=["유효한 K-ETA가 있으면 신고서는 안 내요."]),
- "ja": dict(t=["別々の2つの制度"], k=["電子渡航認証", "1万ウォン、渡航前に申請", "日本など22の国・地域は", "2026年12月31日まで免除"],
+ "ja": dict(t=["別々の2つの制度"], k=["電子渡航認証", "1万ウォン、渡航前に申請", "日本など22の国・地域は", "2027年12月31日まで免除"],
     e=("電子入国申告書", ["紙の入国カードの代わり", "無料、到着前3日以内に"]),
     n=["有効なK-ETAがあれば申告書は不要。"]),
- "zh-tw": dict(t=["兩個不同的制度"], k=["電子旅行許可", "1 萬韓元,出發前申請", "臺灣等 22 個國家和地區", "免申請到 2026 年 12 月 31 日"],
+ "zh-tw": dict(t=["兩個不同的制度"], k=["電子旅行許可", "1 萬韓元,出發前申請", "臺灣等 22 個國家和地區", "免申請到 2027 年 12 月 31 日"],
     e=("電子入境卡", ["取代紙本入境卡", "免費,抵達前 3 天內填"]),
     n=["持有效 K-ETA 就不用填入境卡。"]),
 }

@@ -58,7 +58,6 @@ K-ETA 是免簽入境韓國時的電子旅行許可,費用 10,000 韓元,效期�
 
 {{aff:klook_esim_alt|查看含通話簡訊的 SKT eSIM}}
 
-{{aff:airalo_kr|比較韓國 eSIM 方案}}
 
 ## 4. 付款與交通卡
 

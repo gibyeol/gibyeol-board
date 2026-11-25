@@ -18,7 +18,7 @@ updated: 2026-11-26
 
 이 페이지가 필요 없는 사람: 대한민국 국민(복수국적자는 한국 여권으로 입국), 등록외국인, 유효한 K-ETA 소지자, 단체사증 소지자, 24시간 안에 환승하며 환승 구역을 벗어나지 않는 사람.
 
-뺀 것: 대신 신고해 주는 유료 대행(공식 신고서는 무료이고 몇 분이면 끝나요), K-ETA 신청 방법(면제 대상은 2026년 말까지 필요 없어요).
+뺀 것: 대신 신고해 주는 유료 대행(공식 신고서는 무료이고 몇 분이면 끝나요), K-ETA 신청 방법(면제 대상은 2027년 말까지 필요 없어요).
 
 ## 제대로 끝낸 입국은 이런 모습이에요
 
@@ -89,10 +89,8 @@ updated: 2026-11-26
 
 {{fig:e-arrival-card-5|K-ETA와 전자입국신고서 비교}}
 
-- 미국·일본·대만 등 22개 국가·지역의 단기 방문객 대부분은 K-ETA가 한시 면제돼요. K-ETA 공식 사이트의 2025년 12월 23일 공지 기준으로 면제 기간은 **2026년 12월 31일까지**예요. 면제 기간에는 전자입국신고서를 내요.
-- 면제 대상도 원하면 K-ETA를 신청할 수 있지만, 얻는 건 입국신고서 면제뿐이고 수수료가 들어요. 짧은 여행이라면 무료 신고서로 충분해요.
-
-> 보도 단계: 2026년 11월 23~24일 일부 여행 매체가 면제가 2027년 12월 31일까지 연장됐다고 보도했어요. 11월 26일 k-eta.go.kr에서 열어 본 최신 면제 공지는 여전히 2026년 12월 31일까지였어요. 2027년에 오는 손님이라면 예약 전에 k-eta.go.kr을 확인해 주세요.
+- 미국·일본·대만 등 22개 국가·지역의 단기 방문객 대부분은 K-ETA가 한시 면제돼요. 법무부가 [2026년 11월 23일 K-ETA 공지](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883)로 면제를 1년 연장해, 면제 기간은 **2027년 12월 31일까지**예요. 면제 기간에는 전자입국신고서를 내요. K-ETA 신청 중 면제 대상 여권의 인적사항면을 스캔하면 'K-ETA 면제 대상' 안내창이 떠요.
+- 면제 대상도 원하면 K-ETA를 신청할 수 있지만, 얻는 건 입국신고서 면제뿐이고 수수료가 들어요. 짧은 여행이라면 무료 신고서로 충분해요. 이미 받은 K-ETA는 유효기간까지 쓸 수 있고, 낸 수수료는 환불되지 않아요.
 
 전자입국신고서를 냈다고 자동출입국심사를 쓸 수 있게 되는 건 아니고, 세관 신고를 대신하지도 않아요.
 
@@ -100,4 +98,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">전자입국신고서 공식 사이트(2026년 11월 26일 확인): <a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">자주 묻는 질문</a>(34개 전체: 제출 시기, 9명·1,000명, 환승, 정보 수정, 종이 신고서, K-ETA 소지자, 아동), <a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">신고 절차</a>, 공지 <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000001&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">제도 안내(제출 대상)</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000002&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">전자입국신고는 무료입니다</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012530&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">이메일 수신 지연</a>(2026년 3월 13일), <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012630&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">사용자 인증 절차(2026년 5월 6일부터)</a>(2026년 4월 29일); <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">K-ETA 한시 면제 기간 연장 알림</a>(2025년 12월 23일, 2026년 11월 26일 확인); <a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">인천국제공항 입국 절차 안내</a>(2026년 11월 26일 확인); 법무부 출입국·외국인정책본부 <a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">가짜 전자입국신고서 사이트 주의</a>(2025년 3월 21일, 이전 판에서 확인); 한국관광공사 VISITKOREA 도입 안내(2025년 2월 20일, 이전 판에서 확인).</p>
+<p class="sources">전자입국신고서 공식 사이트(2026년 11월 26일 확인): <a href="https://www.e-arrivalcard.go.kr/portal/board/boardList.do?eacBbsKndCd=2" rel="noopener" target="_blank">자주 묻는 질문</a>(34개 전체: 제출 시기, 9명·1,000명, 환승, 정보 수정, 종이 신고서, K-ETA 소지자, 아동), <a href="https://www.e-arrivalcard.go.kr/portal/guide/eacReportProcessGuide.do" rel="noopener" target="_blank">신고 절차</a>, 공지 <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000001&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">제도 안내(제출 대상)</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000000002&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">전자입국신고는 무료입니다</a>, <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012530&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">이메일 수신 지연</a>(2026년 3월 13일), <a href="https://www.e-arrivalcard.go.kr/portal/board/viewBoardDetail.do?bbsId=0000012630&amp;eacBbsKndCd=1&amp;pageIndex=1&amp;flId=" rel="noopener" target="_blank">사용자 인증 절차(2026년 5월 6일부터)</a>(2026년 4월 29일); <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA 한시 면제 기간 2027년 12월 31일까지 연장</a>(2026년 11월 23일, 2026년 11월 26일 확인. <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299706" rel="noopener" target="_blank">2025년 12월 23일 공지</a>를 대체); <a href="https://www.airport.kr/ap_ko/921/subview.do" rel="noopener" target="_blank">인천국제공항 입국 절차 안내</a>(2026년 11월 26일 확인); 법무부 출입국·외국인정책본부 <a href="https://mojhome.moj.go.kr/bbs/immigration_eng/229/593239/artclView.do" rel="noopener" target="_blank">가짜 전자입국신고서 사이트 주의</a>(2025년 3월 21일, 이전 판에서 확인); 한국관광공사 VISITKOREA 도입 안내(2025년 2월 20일, 이전 판에서 확인).</p>

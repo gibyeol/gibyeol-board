@@ -58,7 +58,6 @@ Need a Korean number for calls and texts (some booking and delivery apps ask for
 
 {{aff:klook_esim_alt|SKT eSIM with calls and texts}}
 
-{{aff:airalo_kr|Compare Korea eSIM plans}}
 
 ## 4. Money and transport cards
 

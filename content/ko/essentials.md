@@ -58,7 +58,6 @@ K-ETA는 무비자 방문객을 위한 한국의 전자여행허가예요. 수�
 
 {{aff:klook_esim_alt|통화·문자 되는 SKT eSIM}}
 
-{{aff:airalo_kr|한국 eSIM 요금제 비교하기}}
 
 ## 4. 돈과 교통카드
 
