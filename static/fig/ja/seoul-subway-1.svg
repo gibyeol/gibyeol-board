@@ -5,8 +5,8 @@
 
 <text x="360" y="40" font-size="20" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">ソウル地下鉄の支払い方法</text>
 <rect x="30" y="80" width="330" height="110" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
-<text x="195" y="124" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">ソウル市内だけで1日4回</text>
-<text x="195" y="146" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">以上、別々に移動する?</text>
+<text x="195" y="124" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">ソウル市内だけで1日3回以上、</text>
+<text x="195" y="146" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">3日以上乗る?</text>
 <line x1="360" y1="135" x2="410" y2="135" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
 <text x="385" y="118" font-size="15" fill="#b8392f" text-anchor="middle" font-weight="bold" dominant-baseline="middle">はい</text>
 <rect x="410" y="80" width="280" height="110" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
