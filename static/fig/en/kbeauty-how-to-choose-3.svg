@@ -1,19 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-label="Reading SPF and PA on Korean sunscreen" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 636" role="img" aria-label="Reading SPF and PA on Korean sunscreen" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>Reading SPF and PA on Korean sunscreen</title>
-<rect width="720" height="460" fill="#f4f0e6"/>
-<rect x="30" y="24" width="320" height="230" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/><text x="54" y="64" font-size="20" fill="#16151a" font-weight="bold" text-anchor="start">SPF = UVB</text>
-<rect x="54" y="84" width="200" height="56" rx="6" fill="#e9e2d3"/><text x="154" y="122" font-size="28" fill="#16151a" font-weight="bold" text-anchor="middle">SPF50+</text>
-<text x="54" y="174" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="54" dy="0">Numbers up to 50.</tspan><tspan x="54" dy="20">Above 50 is written "50+".</tspan></text>
-<rect x="370" y="24" width="320" height="230" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/><text x="394" y="64" font-size="20" fill="#16151a" font-weight="bold" text-anchor="start">PA = UVA</text>
-<text x="394" y="102" font-size="15" fill="#16151a" font-weight="bold" text-anchor="start">PA+</text>
-<rect x="480" y="88" width="40" height="18" rx="3" fill="#5f5b55"/><text x="394" y="136" font-size="15" fill="#16151a" font-weight="bold" text-anchor="start">PA++</text>
-<rect x="480" y="122" width="85" height="18" rx="3" fill="#5f5b55"/><text x="394" y="170" font-size="15" fill="#16151a" font-weight="bold" text-anchor="start">PA+++</text>
-<rect x="480" y="156" width="130" height="18" rx="3" fill="#5f5b55"/><text x="394" y="204" font-size="15" fill="#16151a" font-weight="bold" text-anchor="start">PA++++</text>
-<rect x="480" y="190" width="175" height="18" rx="3" fill="#b8392f"/><text x="394" y="236" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="start">More + = higher UVA grade</text>
-<text x="30" y="296" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">MFDS guide: match the number to your day</text>
-<rect x="30" y="312" width="660" height="42" rx="6" fill="#e9e2d3" stroke="#c9c1b2"/><text x="46" y="339" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start">Indoors, short walks</text>
-<text x="674" y="339" font-size="15" fill="#16151a" font-weight="bold" text-anchor="end">SPF15 / PA+ or more</text>
-<rect x="30" y="362" width="660" height="42" rx="6" fill="#ffffff" stroke="#c9c1b2"/><text x="46" y="389" font-size="15" fill="#16151a" font-weight="normal" text-anchor="start">Hiking, beach, long hours</text>
-<text x="674" y="389" font-size="15" fill="#16151a" font-weight="bold" text-anchor="end">SPF50+ / PA+++ or PA++++</text>
-<text x="30" y="440" font-size="15" fill="#b8392f" font-weight="bold" text-anchor="start">Also check "기능성화장품" on the box.</text>
+<rect width="400" height="636" fill="#f4f0e6"/>
+<rect x="20" y="16" width="360" height="160" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<text x="40" y="50" font-size="20" fill="#16151a" font-weight="bold" text-anchor="start">SPF = UVB</text>
+<rect x="40" y="64" width="150" height="44" rx="6" fill="#e9e2d3"/><text x="115" y="95" font-size="24" fill="#16151a" font-weight="bold" text-anchor="middle">SPF50+</text>
+<text x="40" y="134" font-size="16" fill="#16151a" font-weight="normal" text-anchor="start"><tspan x="40" dy="0">Whole numbers.</tspan><tspan x="40" dy="22">50 or higher is written "50+".</tspan></text>
+<rect x="20" y="192" width="360" height="200" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<text x="40" y="226" font-size="20" fill="#16151a" font-weight="bold" text-anchor="start">PA = UVA</text>
+<text x="40" y="260" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">PA+</text>
+<rect x="130" y="246" width="40" height="16" rx="3" fill="#5f5b55"/>
+<text x="40" y="288" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">PA++</text>
+<rect x="130" y="274" width="85" height="16" rx="3" fill="#5f5b55"/>
+<text x="40" y="316" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">PA+++</text>
+<rect x="130" y="302" width="130" height="16" rx="3" fill="#5f5b55"/>
+<text x="40" y="344" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">PA++++</text>
+<rect x="130" y="330" width="175" height="16" rx="3" fill="#b8392f"/>
+<text x="40" y="372" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="start">More + = higher UVA grade</text>
+<text x="20" y="428" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">MFDS guide: match it to your day</text>
+<rect x="20" y="442" width="360" height="70" rx="6" fill="#e9e2d3" stroke="#c9c1b2"/><text x="36" y="470" font-size="16" fill="#16151a" font-weight="normal" text-anchor="start">Indoors, short walks</text><text x="36" y="496" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">SPF15 / PA+ or more</text>
+<rect x="20" y="522" width="360" height="70" rx="6" fill="#ffffff" stroke="#c9c1b2"/><text x="36" y="550" font-size="16" fill="#16151a" font-weight="normal" text-anchor="start">Hiking, beach, long hours</text><text x="36" y="576" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">SPF50+ / PA+++ or PA++++</text>
+<text x="20" y="620" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">Also check "기능성화장품" on the box.</text>
 </svg>
