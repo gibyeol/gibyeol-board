@@ -27,7 +27,7 @@ We picked three rides and one fallback for groups. What we left out: Gimpo Airpo
 
 Take it only if your hotel is near Seoul Station; otherwise the time it saves goes into a second transfer.
 
-The Express runs nonstop to Seoul Station in 43 minutes from Terminal 1 and 51 minutes from Terminal 2. The adult fare is ₩13,000, every seat is reserved, and there is free Wi-Fi. You can buy the ticket on arrival at the Express counter in the Transportation Center (B1, Terminal 1) or online; booking ahead is not required.
+The Express runs nonstop to Seoul Station in 43 minutes from Terminal 1 and 51 minutes from Terminal 2. The adult fare is ₩13,000, every seat is reserved, and there is free Wi-Fi. It skips the commuter crowd, which matters more than the time saved after a long flight. You can buy the ticket on arrival at the Express counter in the Transportation Center (B1, Terminal 1) or online; booking ahead is not required.
 
 {{fig:airport-to-seoul-2|Express and all-stop run on the same line}}
 
@@ -39,7 +39,7 @@ If you would rather have the ticket on your phone before you land:
 
 For Hongdae and Gongdeok this beats the Express: same line, about a third of the price, no change of train.
 
-It takes 59 minutes from Terminal 1 to Seoul Station (66 from Terminal 2). By transport card it costs ₩4,750 to Seoul Station and ₩4,650 to Hongik Univ. or Gongdeok; from Terminal 2 add ₩600. Seats are unreserved, like the subway, and at rush hour it fills with commuters.
+It takes 59 minutes from Terminal 1 to Seoul Station (66 from Terminal 2). By transport card it costs ₩4,750 to Seoul Station and ₩4,650 to Hongik Univ. or Gongdeok; from Terminal 2 add ₩600. Seats are unreserved, like the subway, and at rush hour it fills with commuters, so a big suitcase is harder to manage.
 
 {{fig:airport-to-seoul-3|Where to find the bus and the train at Terminal 1}}
 
@@ -86,7 +86,7 @@ Decide before you fly, because the trains stop earlier than people expect.
 
 {{fig:airport-to-seoul-7|What still runs from Terminal 1 late at night}}
 
-- The last AREX Express leaves Terminal 1 at 22:48 (Terminal 2 at 22:40), on the current weekday and holiday timetables.
+- The Express timetable changed on 23 October 2026, when daily Express runs rose from 52 to 56. The last AREX Express now leaves Terminal 1 at 22:48 (Terminal 2 at 22:40), on the current weekday and holiday timetables.
 - Visit Seoul tells you to allow 1–2 hours after landing for immigration and baggage, so a flight landing after about 9 p.m. can miss it.
 - The all-stop train runs later; check its last train on the AREX site for your date.
 - After the trains, late-night buses run to Gangnam (N6000), Hongdae and Cheongnyangni (N6002), Seoul Station and Dongdaemun (N6701), and Jamsil and Gwangnaru (N6703) for ₩17,000–18,000. Their first departures from Terminal 1 are between 23:40 and 00:10. Buy the ticket at the bus counter or a machine.
@@ -101,4 +101,4 @@ Ten minutes of planning makes the first hour easy.
 
 ## Sources
 
-<p class="sources">Opened 26 November 2026 (KST): AREX, <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">Express train</a> (times, fare, seats) and <a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">Express timetable</a>; AREX, <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">all-stop train</a> and <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">all-stop fares</a>; Visit Seoul, <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a> (fares and times as of June 2026; bus routes, luggage, ticket purchase); Incheon Airport, <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">Airport Railroad guide</a>, <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">late-night buses</a> and <a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">limousine bus booking guide</a>; Seoul Metropolitan Government, <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">taxi fares incl. International Taxi fixed fares</a> (updated 14 October 2026) and <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">Climate Card short-term pass</a> (updated 12 October 2026).</p>
+<p class="sources">Opened 26 November 2026 (KST): AREX, <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">Express train</a> (times, fare, seats) and <a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">Express timetable</a>; AREX, <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">all-stop train</a> and <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">all-stop fares</a>; Visit Seoul, <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a> (fares and times as of June 2026; bus routes, luggage, ticket purchase); Incheon Airport, <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">Airport Railroad guide</a>, <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">late-night buses</a> and <a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">limousine bus booking guide</a>; Seoul Metropolitan Government, <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">taxi fares incl. International Taxi fixed fares</a> (updated 14 October 2026) and <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">Climate Card short-term pass</a> (updated 12 October 2026). Not reopened this time: Wikitree, <a href="https://www.wikitree.co.kr/articles/1168084" rel="noopener" target="_blank">AREX Express runs rise from 52 to 56 a day from 23 October 2026</a>.</p>

@@ -27,7 +27,7 @@ updated: 2026-11-26
 
 숙소가 서울역 근처일 때만 타세요. 아니면 아낀 시간이 서울역 환승에 다시 들어가요.
 
-서울역까지 안 서고 1터미널에서 43분, 2터미널에서 51분. 어른 13,000원이고 전 좌석 지정석, 무료 와이파이가 있어요. 표는 1터미널 지하 1층 교통센터의 직통열차 안내센터나 온라인에서 사요. 미리 예매하지 않아도 돼요.
+서울역까지 안 서고 1터미널에서 43분, 2터미널에서 51분. 어른 13,000원이고 전 좌석 지정석, 무료 와이파이가 있어요. 긴 비행 뒤에 출퇴근 인파를 피하는 게 아낀 시간보다 더 크게 느껴져요. 표는 1터미널 지하 1층 교통센터의 직통열차 안내센터나 온라인에서 사요. 미리 예매하지 않아도 돼요.
 
 {{fig:airport-to-seoul-2|직통열차와 일반열차는 같은 선로}}
 
@@ -39,7 +39,7 @@ updated: 2026-11-26
 
 홍대·공덕이면 직통보다 나아요. 같은 노선에 요금은 3분의 1 정도, 갈아탈 필요도 없어요.
 
-1터미널에서 서울역까지 59분(2터미널은 66분). 교통카드로 서울역 4,750원, 홍대입구·공덕 4,650원이고 2터미널에서 타면 600원 더해요. 지하철처럼 자유석이라 출퇴근 시간엔 붐벼요.
+1터미널에서 서울역까지 59분(2터미널은 66분). 교통카드로 서울역 4,750원, 홍대입구·공덕 4,650원이고 2터미널에서 타면 600원 더해요. 지하철처럼 자유석이라 출퇴근 시간엔 붐벼서 큰 캐리어는 좀 버거울 수 있어요.
 
 {{fig:airport-to-seoul-3|1터미널에서 버스와 열차 타는 곳}}
 
@@ -86,7 +86,7 @@ updated: 2026-11-26
 
 {{fig:airport-to-seoul-7|밤늦게 1터미널에서 탈 수 있는 것}}
 
-- 직통열차 막차는 1터미널 22:48(2터미널 22:40)이에요. 지금 시각표로는 평일·휴일 모두 같아요.
+- 2026년 10월 23일에 직통열차가 하루 52회에서 56회로 늘면서 시간표가 바뀌었어요. 지금 직통열차 막차는 1터미널 22:48(2터미널 22:40)이에요. 지금 시각표로는 평일·휴일 모두 같아요.
 - Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라고 해요. 밤 9시 이후 착륙이면 놓칠 수 있어요.
 - 일반열차는 더 늦게까지 다녀요. 막차는 날짜별로 공항철도 사이트에서 확인하세요.
 - 열차가 끊기면 심야 공항버스가 강남(N6000), 홍대·청량리(N6002), 서울역·동대문(N6701), 잠실·광나루(N6703)까지 17,000~18,000원에 다녀요. 1터미널 첫차는 23:40~00:10 사이예요. 표는 매표소나 발매기에서 사요.
@@ -101,4 +101,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">2026년 11월 26일 확인: 공항철도 <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차 소개</a>(소요 시간·요금·좌석), <a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">직통열차 시각표</a>, <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차 소개</a>, <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">일반열차 운임</a>; Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026년 6월 기준 요금·시간, 버스 노선, 짐, 승차권); 인천국제공항 <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">공항철도 안내</a>, <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">심야버스</a>, <a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">리무진버스 예매 안내</a>; 서울시 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">서울 택시요금(외국인관광택시 구간요금 포함)</a>(2026년 10월 14일 수정), <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">기후동행카드 단기권</a>(2026년 10월 12일 수정).</p>
+<p class="sources">2026년 11월 26일 확인: 공항철도 <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차 소개</a>(소요 시간·요금·좌석), <a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">직통열차 시각표</a>, <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차 소개</a>, <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">일반열차 운임</a>; Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026년 6월 기준 요금·시간, 버스 노선, 짐, 승차권); 인천국제공항 <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">공항철도 안내</a>, <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">심야버스</a>, <a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">리무진버스 예매 안내</a>; 서울시 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">서울 택시요금(외국인관광택시 구간요금 포함)</a>(2026년 10월 14일 수정), <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">기후동행카드 단기권</a>(2026년 10월 12일 수정). 이번에 다시 열지 못한 것: 위키트리 <a href="https://www.wikitree.co.kr/articles/1168084" rel="noopener" target="_blank">공항철도 직통열차 2026년 10월 23일부터 하루 52회→56회</a>.</p>

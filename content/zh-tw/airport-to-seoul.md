@@ -27,7 +27,7 @@ updated: 2026-11-26
 
 只有飯店在首爾站附近才選它,不然省下的時間會花在首爾站轉車上。
 
-不停站直達首爾站,第1航廈43分鐘、第2航廈51分鐘。成人13,000韓元,全車對號座,有免費Wi-Fi。車票可在第1航廈地下1樓交通中心的直達車櫃台或線上購買,不一定要事先訂。
+不停站直達首爾站,第1航廈43分鐘、第2航廈51分鐘。成人13,000韓元,全車對號座,有免費Wi-Fi。長途飛行後不用跟通勤族擠,這點比省下的時間更重要。車票可在第1航廈地下1樓交通中心的直達車櫃台或線上購買,不一定要事先訂。
 
 {{fig:airport-to-seoul-2|直達車和普通車走同一條路線}}
 
@@ -39,7 +39,7 @@ updated: 2026-11-26
 
 住弘大、孔德的話比直達車方便:同一條線,票價約三分之一,也不用換車。
 
-第1航廈到首爾站59分鐘(第2航廈66分鐘)。刷交通卡到首爾站4,750韓元,到弘大入口、孔德4,650韓元;從第2航廈上車多600韓元。座位跟地鐵一樣不對號,上下班尖峰時段很擠。
+第1航廈到首爾站59分鐘(第2航廈66分鐘)。刷交通卡到首爾站4,750韓元,到弘大入口、孔德4,650韓元;從第2航廈上車多600韓元。座位跟地鐵一樣不對號,上下班尖峰時段很擠,大行李箱會比較辛苦。
 
 {{fig:airport-to-seoul-3|第1航廈的巴士和列車在哪裡搭}}
 
@@ -86,7 +86,7 @@ updated: 2026-11-26
 
 {{fig:airport-to-seoul-7|深夜從第1航廈還能搭什麼}}
 
-- 直達車末班:第1航廈22:48(第2航廈22:40),目前時刻表平日、假日相同。
+- 2026年10月23日起直達車每日從52班增為56班,時刻有變。現在的直達車末班:第1航廈22:48(第2航廈22:40),目前時刻表平日、假日相同。
 - Visit Seoul建議落地後預留1〜2小時給入境審查和領行李,所以晚上9點後落地的班機可能趕不上。
 - 普通車開得比較晚,末班請依日期上機場鐵路官網確認。
 - 列車收班後,深夜機場巴士開往江南(N6000)、弘大與清涼里(N6002)、首爾站與東大門(N6701)、蠶室與廣渡口(N6703),票價17,000〜18,000韓元,第1航廈首班在23:40〜00:10之間發車,在售票處或售票機買票。
@@ -101,4 +101,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources">2026年11月26日查閱:機場鐵路 <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車介紹</a>(時間、票價、座位)、<a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">直達車時刻表</a>、<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">普通車介紹</a>、<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">普通車票價</a>;Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月的票價與時間、巴士路線、行李、購票);仁川國際機場 <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">機場鐵路介紹</a>、<a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">深夜巴士</a>、<a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">機場巴士訂票說明</a>;首爾市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">計程車費率(含外國人觀光計程車定額)</a>(2026年10月14日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡短期券</a>(2026年10月12日更新)。</p>
+<p class="sources">2026年11月26日查閱:機場鐵路 <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車介紹</a>(時間、票價、座位)、<a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">直達車時刻表</a>、<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">普通車介紹</a>、<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">普通車票價</a>;Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月的票價與時間、巴士路線、行李、購票);仁川國際機場 <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">機場鐵路介紹</a>、<a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">深夜巴士</a>、<a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">機場巴士訂票說明</a>;首爾市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">計程車費率(含外國人觀光計程車定額)</a>(2026年10月14日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡短期券</a>(2026年10月12日更新)。這次未能重新開啟的:Wikitree <a href="https://www.wikitree.co.kr/articles/1168084" rel="noopener" target="_blank">機場鐵路直達車自2026年10月23日起每日52班增為56班</a>。</p>

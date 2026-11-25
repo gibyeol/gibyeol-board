@@ -27,7 +27,7 @@ updated: 2026-11-26
 
 ホテルがソウル駅の近くのときだけ選びましょう。そうでなければ、浮いた時間がソウル駅での乗り換えで消えます。
 
-ソウル駅までノンストップで、第1ターミナルから43分、第2ターミナルから51分。大人13,000ウォン、全席指定で無料Wi-Fiつき。切符は第1ターミナル地下1階の交通センターにある直通列車カウンターかオンラインで買えます。事前予約は必須ではありません。
+ソウル駅までノンストップで、第1ターミナルから43分、第2ターミナルから51分。大人13,000ウォン、全席指定で無料Wi-Fiつき。通勤ラッシュに巻き込まれないのが、長いフライトの後には時間以上にありがたいところ。切符は第1ターミナル地下1階の交通センターにある直通列車カウンターかオンラインで買えます。事前予約は必須ではありません。
 
 {{fig:airport-to-seoul-2|直通列車と一般列車は同じ線路}}
 
@@ -39,7 +39,7 @@ updated: 2026-11-26
 
 弘大・孔徳なら直通より便利。同じ路線で運賃は約3分の1、乗り換えもありません。
 
-第1ターミナルからソウル駅まで59分(第2ターミナルからは66分)。交通カードでソウル駅まで4,750ウォン、弘大入口・孔徳まで4,650ウォン、第2ターミナルからは600ウォン高くなります。地下鉄と同じ自由席なので、朝夕のラッシュは混みます。
+第1ターミナルからソウル駅まで59分(第2ターミナルからは66分)。交通カードでソウル駅まで4,750ウォン、弘大入口・孔徳まで4,650ウォン、第2ターミナルからは600ウォン高くなります。地下鉄と同じ自由席なので、朝夕のラッシュは混み、大きなスーツケースだと少し大変かも。
 
 {{fig:airport-to-seoul-3|第1ターミナルでバスと列車に乗る場所}}
 
@@ -86,7 +86,7 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 {{fig:airport-to-seoul-7|夜遅く、第1ターミナルから乗れるもの}}
 
-- 直通列車の最終は第1ターミナル22:48(第2ターミナル22:40)。現在の時刻表では平日・休日とも同じです。
+- 2026年10月23日に直通列車が1日52本から56本に増便され、ダイヤが変わりました。今の直通列車の最終は第1ターミナル22:48(第2ターミナル22:40)。現在の時刻表では平日・休日とも同じです。
 - Visit Seoulは、着陸後の入国審査と荷物の受け取りに1〜2時間みておくよう案内しています。夜9時以降に着く便だと間に合わないことがあります。
 - 一般列車はもう少し遅くまで走ります。最終は日付ごとにAREXのサイトで確認を。
 - 列車が終わったら、深夜の空港バスが江南(N6000)、弘大・清凉里(N6002)、ソウル駅・東大門(N6701)、蚕室・広渡口(N6703)まで17,000〜18,000ウォンで走ります。第1ターミナルの始発は23:40〜00:10の間。切符は売り場か券売機で。
@@ -101,4 +101,4 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 ## 出典
 
-<p class="sources">2026年11月26日確認:AREX <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車の紹介</a>(所要時間・運賃・座席)、<a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">直通列車の時刻表</a>、<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">一般列車の紹介</a>、<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">一般列車の運賃</a>;Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月時点の運賃・時間、バス路線、荷物、切符);仁川国際空港 <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">空港鉄道の案内</a>、<a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">深夜バス</a>、<a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">リムジンバスの予約案内</a>;ソウル市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">タクシー運賃(外国人観光タクシーの区間定額を含む)</a>(2026年10月14日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">気候同行カード短期券</a>(2026年10月12日更新)。</p>
+<p class="sources">2026年11月26日確認:AREX <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車の紹介</a>(所要時間・運賃・座席)、<a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">直通列車の時刻表</a>、<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">一般列車の紹介</a>、<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">一般列車の運賃</a>;Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月時点の運賃・時間、バス路線、荷物、切符);仁川国際空港 <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">空港鉄道の案内</a>、<a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">深夜バス</a>、<a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">リムジンバスの予約案内</a>;ソウル市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">タクシー運賃(外国人観光タクシーの区間定額を含む)</a>(2026年10月14日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">気候同行カード短期券</a>(2026年10月12日更新)。今回は開き直せなかったもの:Wikitree <a href="https://www.wikitree.co.kr/articles/1168084" rel="noopener" target="_blank">AREX直通列車が2026年10月23日から1日52本→56本に</a>。</p>
