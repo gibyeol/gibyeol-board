@@ -255,3 +255,5 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .namer-flag{font-size:1.6rem;line-height:1}.namer-born-list b{font:400 1.15rem 'Song Myung',serif}.namer-born-list small{color:var(--muted)}
 .namer-born-list p{margin:4px 0;font-size:.9rem}.namer-pct{font:600 .72rem var(--mono);color:#2f6b3a;border:1px solid currentColor;padding:1px 6px}
 .namer-born-list li.hold{opacity:.8}.namer-born-list li.hold b{font-family:var(--text);font-size:1rem}
+.namer-kr{font:400 .82em var(--text);color:#8a3b12;margin-left:4px;white-space:nowrap}.namer-kr::before{content:'('}.namer-kr::after{content:')'}
+.namer-line strong .namer-kr{font-size:.6em}

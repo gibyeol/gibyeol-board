@@ -7,7 +7,7 @@ report: no
 byline: no
 ---
 <div id="namer" data-lang="ko"></div>
-<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name-concepts.js" defer></script><script src="/static/name.js" defer></script>
+<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name-concepts.js" defer></script><script src="/static/name-koread.js" defer></script><script src="/static/name.js" defer></script>
 
 ## 이렇게 보여 줘요
 

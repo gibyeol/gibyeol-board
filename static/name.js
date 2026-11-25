@@ -129,7 +129,7 @@
     'ぴゃ': '퍄', 'ぴゅ': '퓨', 'ぴょ': '표',
     'みゃ': '먀', 'みゅ': '뮤', 'みょ': '묘',
     'りゃ': '랴', 'りゅ': '류', 'りょ': '료',
-    'ふぁ': '파', 'ふぃ': '피', 'ふぇ': '페', 'ふぉ': '포', 'てぃ': '티', 'でぃ': '디', 'うぃ': '위', 'うぇ': '웨', 'うぉ': '워'
+    'ふぁ': '파', 'ふぃ': '피', 'ふぇ': '페', 'ふぉ': '포', 'てぃ': '티', 'でぃ': '디', 'とぅ': '투', 'どぅ': '두', 'うぃ': '위', 'うぇ': '웨', 'うぉ': '워'
   };
   function vowelOf(h) { return h ? split(h[h.length - 1])[1] : ''; }
   function kanaWord(w) {
@@ -411,7 +411,13 @@
     var B = (window.NADRI_BTN || {})[r.firstKey] || (key && (window.NADRI_BTN || {})[key]) || null;
     var h = '';
     // 1. sound
-    h += '<h3 class="namer-h">' + T.sound + '</h3>' + r.sounds.map(function (l) { return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + '</strong></div>'; }).join('');
+    h += '<h3 class="namer-h">' + T.sound + '</h3>' + r.sounds.map(function (l) {
+      var back = '';
+      if (L3() === 'ko' && r.kind !== 'kana') {
+        if (/[\u30A0-\u30FF]/.test(l[1])) back = l[1].split(/[・\s]/).map(function (w) { return kanaWord(w) || ''; }).join(' ').trim();
+        else if (/[\u0400-\u04FF]/.test(l[1])) back = cyrToHangul(l[1]);
+      }
+      return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + (back ? '<span class="namer-kr">' + esc(back) + '</span>' : '') + '</strong></div>'; }).join('');
     // 2. meaning
     if (r.meaning || B) {
       var e = r.meaning ? r.meaning.e : {}, conf = e.c || 'h';
@@ -442,7 +448,7 @@
     if (B && B.variants && Object.keys(B.variants).length) {
       var langs = Object.keys(B.variants).filter(function (lg) { return !/^(Biblical|Medieval|Ancient|Germanic|Late Roman|Old )/.test(lg) && lg.indexOf('(') < 0; }).sort(function (a, b) { var ia = LANG_ORDER.indexOf(a), ib = LANG_ORDER.indexOf(b); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); });
       more += '<section class="namer-sec"><h3 class="namer-h">' + T.variants + '</h3><ul class="namer-var">' + langs.map(function (lg) {
-        return '<li><span>' + esc(lname(lg)) + '</span><b>' + esc(B.variants[lg].slice(0, 3).join(' · ')) + '</b></li>';
+        return '<li><span>' + esc(lname(lg)) + '</span><b>' + B.variants[lg].slice(0, 3).map(function (f) { return esc(f) + kr(f, lg); }).join(' · ') + '</b></li>';
       }).slice(0, 18).join('') + '</ul><p class="namer-src">' + T.src + ': Behind the Name · ' + mail('Nadri name in my language: ' + name, T.native) + '</p></section>';
     }
     // 4. where it is most loved
@@ -482,6 +488,32 @@
 
 
 
+  function kr(form, lang) {
+    if (L3() !== 'ko' || !form || /[가-힣]/.test(form)) return '';
+    var r = window.nadriKoRead ? window.nadriKoRead(form, lang) : '';
+    return r ? '<span class="namer-kr">' + esc(r) + '</span>' : '';
+  }
+  /* Cyrillic back to Hangul, so Korean readers can say it */
+  var CY2 = { 'б': 'ㅂ', 'в': 'ㅂ', 'г': 'ㄱ', 'д': 'ㄷ', 'ж': 'ㅈ', 'з': 'ㅈ', 'к': 'ㅋ', 'л': 'ㄹ', 'м': 'ㅁ', 'н': 'ㄴ', 'п': 'ㅍ', 'р': 'ㄹ', 'с': 'ㅅ', 'т': 'ㅌ', 'ф': 'ㅍ', 'х': 'ㅎ', 'ц': 'ㅊ', 'ч': 'ㅊ', 'ш': 'ㅅ', 'щ': 'ㅅ' };
+  var CYV2 = { 'а': 'ㅏ', 'е': 'ㅔ', 'ё': 'ㅛ', 'и': 'ㅣ', 'о': 'ㅗ', 'у': 'ㅜ', 'ы': 'ㅡ', 'э': 'ㅔ', 'ю': 'ㅠ', 'я': 'ㅑ' };
+  function cyrToHangul(w) {
+    w = w.toLowerCase().replace(/ь/g, '').replace(/й/g, 'и');
+    var out = '', i = 0;
+    while (i < w.length) {
+      var c = w[i], n = w[i + 1];
+      if (c === ' ') { out += ' '; i++; continue; }
+      if (CYV2[c]) { out += syl('ㅇ', CYV2[c]); i++; continue; }
+      if (CY2[c] && n && CYV2[n]) { out += syl(CY2[c], CYV2[n]); i += 2; continue; }
+      if (CY2[c]) {
+        var last = out[out.length - 1], f = { 'ㄴ': 'ㄴ', 'ㅁ': 'ㅁ', 'ㄹ': 'ㄹ', 'ㅋ': 'ㄱ', 'ㅍ': 'ㅂ' }[CY2[c]];
+        if (f && last && isHangul(last) && !split(last)[2] && !(n && CYV2[n])) out = out.slice(0, -1) + addFinal(last, f); else out += syl(CY2[c], 'ㅡ');
+        i++; continue;
+      }
+      i++;
+    }
+    return out;
+  }
+
   /* "If you were born in…": the localized name per country, why, and how sure we are */
   var BORN_PRI = ['dipper', 'star', 'wisdom', 'peace', 'light'];
   function bornFromHanja(chars) {
@@ -496,7 +528,7 @@
     var rows = B.c.map(function (c) {
       var country = c[1][k3] || c[1].en, why = c[4][k3 === 'ko' ? 'ko' : 'en'] || c[4].en;
       if (!c[2]) return '<li class="hold"><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + '</b> <small>' + esc(c[3]) + '</small><p>' + esc(why) + ' ' + mail('Nadri born-in: ' + b.id + ' / ' + country, T.native) + '</p></div></li>';
-      return '<li><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + ' → ' + esc(c[2]) + '</b>' + (c[3] ? ' <small>' + esc(c[3]) + '</small>' : '') + '<p>' + esc(why) + '</p><span class="namer-pct">' + T.sure + ' ' + c[5] + '%</span></div></li>';
+      return '<li><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + ' → ' + esc(c[2]) + kr(c[2]) + '</b>' + (c[3] ? ' <small>' + esc(c[3]) + '</small>' : '') + '<p>' + esc(why) + '</p><span class="namer-pct">' + T.sure + ' ' + c[5] + '%</span></div></li>';
     }).join('');
     return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(ph[k3] || ph.en) + '”</strong></p><h3 class="namer-h">' + T.bornIn + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
   }
@@ -507,7 +539,7 @@
     var k3 = L3(), lab = C[k3] || C.en, pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
     var langLabel = function (l) { return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · '); };
     var h = '<section class="namer-sec namer-concept"><h3 class="namer-h">' + T.koAbroad + ' · ' + esc(lab) + (k3 !== 'en' ? ' (' + esc(C.en) + ')' : '') + '</h3><ul class="namer-var">' +
-      C.names.map(function (n) { return '<li><span>' + esc(langLabel(n[0])) + '</span><b>' + esc(n[1]) + (n[2] ? ' <small>' + esc(n[2]) + '</small>' : '') + '</b></li>'; }).join('') + '</ul>';
+      C.names.map(function (n) { return '<li><span>' + esc(langLabel(n[0])) + '</span><b>' + esc(n[1]) + (n[2] && /[\uAC00-\uD7A3]/.test(n[2]) ? '' : kr(n[1])) + (n[2] ? ' <small>' + esc(n[2]) + '</small>' : '') + '</b></li>'; }).join('') + '</ul>';
     var steps = C.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[C.chain];
     if (steps && !(opts && opts.noChain)) h += '<h3 class="namer-h">' + T.chain + '</h3><ol class="namer-steps">' + steps.map(function (st) { return '<li>' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>'; }).join('') + '</ol>';
     return h + '</section>';
