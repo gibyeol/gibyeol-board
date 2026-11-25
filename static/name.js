@@ -451,6 +451,9 @@
         return '<li><span>' + esc(rname(t[0])) + '</span><b>' + T.rank.replace('{r}', t[2]).replace('{y}', t[1]) + '</b></li>';
       }).join('') + '</ol><p class="namer-src">' + T.popularNote + '</p></section>';
     }
+    var bornL = r.kind === 'latin' && key && ((window.NADRI_BORN_OF || {}).latin || {})[key];
+    if (bornL) { r.born = { id: bornL }; more = bornBlock(r.born) + more; }
+    if (r.chars) { r.born = bornFromHanja(r.chars.map(function (x) { return x.c; })); if (r.born) more = bornBlock(r.born) + more; }
     var latinConcept = r.kind === 'latin' && key && ((window.NADRI_CONCEPT_OF || {}).latin || {})[key];
     if (latinConcept) more += conceptBlock(latinConcept, { noChain: !!(r.chain) });
     // Korean names: surname count, baby-name rank, hanja picker, native meaning
@@ -477,6 +480,26 @@
   }
 
 
+
+
+  /* "If you were born in…": the localized name per country, why, and how sure we are */
+  var BORN_PRI = ['dipper', 'star', 'wisdom', 'peace', 'light'];
+  function bornFromHanja(chars) {
+    var M = (window.NADRI_BORN_OF || {}).hanja || {}, found = {};
+    chars.forEach(function (c) { if (M[c]) found[M[c]] = 1; });
+    var id = BORN_PRI.filter(function (b) { return found[b]; })[0];
+    return id ? { id: id, first: chars.some(function (c) { return '元一始初首'.indexOf(c) >= 0; }) } : null;
+  }
+  function bornBlock(b) {
+    var B = (window.NADRI_BORN || {})[b.id]; if (!B) return '';
+    var k3 = L3(), ph = (b.first && B.first ? B.first : B.phrase);
+    var rows = B.c.map(function (c) {
+      var country = c[1][k3] || c[1].en, why = c[4][k3 === 'ko' ? 'ko' : 'en'] || c[4].en;
+      if (!c[2]) return '<li class="hold"><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + '</b> <small>' + esc(c[3]) + '</small><p>' + esc(why) + ' ' + mail('Nadri born-in: ' + b.id + ' / ' + country, T.native) + '</p></div></li>';
+      return '<li><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + ' → ' + esc(c[2]) + '</b>' + (c[3] ? ' <small>' + esc(c[3]) + '</small>' : '') + '<p>' + esc(why) + '</p><span class="namer-pct">' + T.sure + ' ' + c[5] + '%</span></div></li>';
+    }).join('');
+    return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(ph[k3] || ph.en) + '”</strong></p><h3 class="namer-h">' + T.bornIn + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
+  }
 
   /* one meaning, the names that carry it around the world, and its Korean story */
   function conceptBlock(cid, opts) {
@@ -516,6 +539,7 @@
       (bi >= 0 ? T.koBabyRank.replace('{r}', bi + 1).replace('{g}', T.boys) + ' ' : '') + (gi >= 0 ? T.koBabyRank.replace('{r}', gi + 1).replace('{g}', T.girls) : '') + (bi < 0 && gi < 0 ? T.koBabyNone : '') + '</p>';
     var nat = (window.KO_NATIVE || {})[K.given];
     if (nat) h += '<p class="namer-sub"><span>' + T.koNative + '</span> <strong>' + esc(k3 === 'ko' ? nat[0] : nat[1]) + '</strong></p>' + abroadFor([nat[1]]);
+    var bornN = ((window.NADRI_BORN_OF || {}).native || {})[K.given]; if (bornN) { r.born = { id: bornN }; h = bornBlock(r.born) + h; }
     h += '<p class="namer-src">' + T.src + ': ' + T.srcKo + '</p></section>';
     // hanja picker for each syllable of the given name
     var H = window.KO_NAME_HANJA || {}, sy = K.given.split('');
@@ -524,8 +548,7 @@
       if (!opts.length) return '<div class="namer-pick"><b>' + esc(c) + '</b> <span class="namer-origin">—</span></div>';
       return '<div class="namer-pick" data-i="' + i + '"><b>' + esc(c) + '</b> ' + opts.map(function (o) { return '<button type="button" data-h="' + o[0] + '" data-hun="' + esc(o[1]) + '" data-en="' + esc(o[2]) + '">' + o[0] + ' <small>' + esc(o[1]) + '</small></button>'; }).join('') + '</div>';
     }).join('');
-    h += '<section class="namer-sec namer-hanja"><h3 class="namer-h">' + T.koHanja + '</h3><p class="namer-sub">' + T.koHanjaHint + '</p>' + rows + '<div class="namer-hanja-out"></div></section>';
-    return h;
+    return '<section class="namer-sec namer-hanja"><h3 class="namer-h">' + T.koHanja + '</h3><p class="namer-sub">' + T.koHanjaHint + '</p>' + rows + '<div class="namer-hanja-out"></div></section>' + h;
   }
   function wireHanja(r) {
     var box = out.querySelector('.namer-hanja'); if (!box) return;
@@ -540,6 +563,8 @@
         var name = sh + list.map(function (x) { return x.h; }).join('');
         var o = '<p class="namer-mean">' + esc(name) + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
         var ids = conceptsForHanja(list.map(function (x) { return x.h; })), CC = window.NADRI_CONCEPTS || {}, k3 = L3();
+        r.born = bornFromHanja(list.map(function (x) { return x.h; })); r.pickedName = name;
+        if (r.born) o += bornBlock(r.born);
         if (ids.length) o += '<p class="namer-gloss">' + ids.map(function (id) { return esc(CC[id][k3] || CC[id].en); }).join(' + ') + (k3 !== 'en' ? ' <span class="namer-origin">(' + ids.map(function (id) { return esc(CC[id].en); }).join(' + ') + ')</span>' : '') + '</p>';
         ids.forEach(function (id) { o += conceptBlock(id); });
         if (!ids.length) { var ab = abroadFor(list.map(function (x) { return x.en; })); if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab; }
@@ -570,7 +595,14 @@
       g.font = '44px "Song Myung", serif'; g.fillText(r.hangul, W / 2, 520);
       g.font = '26px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(name, W / 2, 565);
       var e = r.meaning && r.meaning.e, k3 = L3(), line = e && e.m ? (e.m[k3] || e.m.en) : (B ? B.meaning : '');
-      if (line) { g.fillStyle = '#16151a'; g.font = '30px "Song Myung", serif'; wrap(g, line, W / 2, 640, W - 140, 42); }
+      var BB = r.born && (window.NADRI_BORN || {})[r.born.id];
+      if (BB) {
+        var ph = (r.born.first && BB.first ? BB.first : BB.phrase);
+        g.fillStyle = '#16151a'; g.font = '28px "Song Myung", serif'; g.fillText((r.pickedName ? r.pickedName + ' · ' : '') + '“' + (ph[k3] || ph.en) + '”', W / 2, 615);
+        g.font = '600 18px "IBM Plex Mono", monospace'; g.fillStyle = '#5f5b55'; g.fillText(T.bornIn, W / 2, 660);
+        g.font = '24px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#16151a';
+        BB.c.filter(function (c) { return c[2]; }).slice(0, 5).forEach(function (c, i) { g.fillText(c[0] + ' ' + (c[1][k3] || c[1].en) + ' → ' + c[2] + (c[3] ? ' ' + c[3].split(' ')[0] : ''), W / 2, 700 + i * 36); });
+      } else if (line) { g.fillStyle = '#16151a'; g.font = '30px "Song Myung", serif'; wrap(g, line, W / 2, 640, W - 140, 42); }
       g.fillStyle = '#b3261e'; g.font = '600 20px "IBM Plex Mono", monospace'; g.fillText('nadri-guide.pages.dev/name', W / 2, H - 60);
       var a = document.createElement('a'); a.download = 'nadri-' + r.hangul.replace(/ /g, '') + '.png'; a.href = c.toDataURL('image/png'); a.click();
     });

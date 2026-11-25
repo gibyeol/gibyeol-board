@@ -250,3 +250,8 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .namer-hanja-out{margin-top:10px}.namer-go{font:400 1.1rem 'Song Myung',serif;border:0;border-bottom:1px solid var(--ink);background:none;padding:0;cursor:pointer;color:var(--ink)}
 .namer-gloss{font:400 1.3rem 'Song Myung',serif;margin:6px 0}.namer-var small{font:400 .85rem var(--text);color:var(--muted)}
 .namer-hanja-out .namer-sec{border:0;padding:0;background:none;margin-top:8px}.namer-steps{padding-left:1.2em}
+.namer-born{border-top:3px double var(--ink)}.namer-born-h{font:400 1.25rem 'Song Myung',serif;margin:12px 0 4px}
+.namer-born-list{list-style:none;padding:0;margin:6px 0}.namer-born-list li{display:flex;gap:12px;border-bottom:1px solid var(--hair);padding:10px 0}
+.namer-flag{font-size:1.6rem;line-height:1}.namer-born-list b{font:400 1.15rem 'Song Myung',serif}.namer-born-list small{color:var(--muted)}
+.namer-born-list p{margin:4px 0;font-size:.9rem}.namer-pct{font:600 .72rem var(--mono);color:#2f6b3a;border:1px solid currentColor;padding:1px 6px}
+.namer-born-list li.hold{opacity:.8}.namer-born-list li.hold b{font-family:var(--text);font-size:1rem}

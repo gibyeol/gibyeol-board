@@ -88,3 +88,59 @@ window.NADRI_CONCEPT_OF = (function () {
   o.hanja['斗'] = 'star';
   return o;
 })();
+
+/* "If you were born in…": the name a child with this meaning would be given in each country, why, and how sure we are (%).
+   Base: the earlier name-tool conversation (trendmin-threads ops/name-tool.md, appendix). Native-speaker review pending; low confidence = on hold. */
+window.NADRI_BORN = {
+  dipper: { phrase: { ko: '길을 알려주는 별', en: 'the star that shows the way', ja: '道を示す星', zh: '指引方向的星' }, first: { ko: '길을 알려주는 첫 번째 별', en: 'the first star that shows the way', ja: '道を示す一番の星', zh: '指引方向的第一顆星' },
+    c: [
+      ['🇯🇵', { ko: '일본', en: 'Japan', ja: '日本', zh: '日本' }, 'Hokuto', '北斗 (ホクト)', { ko: '북두칠성이라는 뜻 그대로 쓰는 실제 일본 남자 이름. 일본에서 "호쿠토"라고 하면 바로 별을 떠올려요.', en: 'The Big Dipper itself: a real Japanese boy\'s name that makes people think of the stars.' }, 85],
+      ['🇹🇼', { ko: '대만·중화권', en: 'Taiwan', ja: '台湾・中華圏', zh: '台灣・華人圈' }, 'Beichen', '北辰', { ko: '北辰은 북극성. 《논어》에서 덕으로 다스리는 사람을 북극성에 빗댔어요(為政以德, 譬如北辰). 사람들이 따르는 리더라는 뜻이 더해져요.', en: 'The North Star. In the Analects, a ruler of virtue is compared to it (為政以德，譬如北辰): the star everyone follows.' }, 75],
+      ['🇬🇧', { ko: '영국·영어권', en: 'UK', ja: 'イギリス・英語圏', zh: '英國・英語圈' }, 'Arthur', '', { ko: '북두칠성을 포함한 큰곰자리를 영국 민간에서 "Arthur\'s Wain(아서왕의 수레)"이라고 불렀어요. 어원이 \'곰\'이라는 설도 있어요(학설이 갈림).', en: 'The Plough was called "Arthur\'s Wain" in English folk tradition, the king whose chariot crosses the sky. The name may come from a word for bear (disputed).' }, 60],
+      ['🇪🇸', { ko: '스페인어권', en: 'Spain', ja: 'スペイン語圏', zh: '西語圈' }, 'Santiago', '', { ko: '은하수를 "산티아고의 길"이라 부르고 순례자들이 그 별길을 따라 걸었다는 전승. 북두칠성은 아니지만 \'밤하늘이 길을 알려준다\'는 뜻이 같아요.', en: 'The Milky Way was called the Way of Saint James, and pilgrims followed it: the road of stars. Not the Dipper, but the same idea of a sky that shows the way.' }, 65],
+      ['🇹🇭', { ko: '태국', en: 'Thailand', ja: 'タイ', zh: '泰國' }, 'Dao', 'ดาว (ดาวเหนือ)', { ko: '태국은 본명 외에 짧은 별명(츠렌)을 써요. ดาวเหนือ는 \'북쪽 별\', ดาว(다오)는 \'별\'. 태국 친구들은 당신을 Dao라고 부를 거예요.', en: 'Thais use a short nickname besides their full name. ดาวเหนือ is the North Star and ดาว (Dao) means star: your Thai friends would call you Dao.' }, 70],
+      ['🇻🇳', { ko: '베트남', en: 'Vietnam', ja: 'ベトナム', zh: '越南' }, null, 'Lý Nguyên Đẩu', { ko: '한자 독음은 정확하지만, 같은 뜻의 자연스러운 베트남 이름은 원어민 검수 전까지 보류해요.', en: 'The Sino-Vietnamese reading is exact, but a natural Vietnamese name with the same meaning waits for a native speaker.' }, 0]
+    ] },
+  star: { phrase: { ko: '별', en: 'a star', ja: '星', zh: '星' }, first: { ko: '첫 번째 별', en: 'the first star', ja: '一番星', zh: '第一顆星' },
+    c: [
+      ['🇯🇵', { ko: '일본', en: 'Japan' }, 'Hoshiko', '星子', { ko: '별(星)을 넣은 일본 여자 이름.', en: 'A Japanese girl\'s name built on 星, star.' }, 75],
+      ['🇹🇼', { ko: '대만', en: 'Taiwan' }, 'Xing', '星', { ko: '이름에 자주 쓰는 \'별\' 글자.', en: 'The character for star, common in Taiwanese names.' }, 70],
+      ['🇬🇧', { ko: '영국', en: 'UK' }, 'Stella', '', { ko: '라틴어로 \'별\'.', en: 'Latin for star.' }, 95],
+      ['🇪🇸', { ko: '스페인', en: 'Spain' }, 'Estrella', '', { ko: '스페인어로 \'별\'.', en: 'Spanish for star.' }, 90],
+      ['🇹🇭', { ko: '태국', en: 'Thailand' }, 'Dao', 'ดาว', { ko: '\'별\'이라는 뜻의 태국 별명.', en: 'Thai nickname meaning star.' }, 80],
+      ['🇹🇷', { ko: '튀르키예', en: 'Türkiye' }, 'Yıldız', '', { ko: '튀르키예어로 \'별\'.', en: 'Turkish for star.' }, 90],
+      ['🇮🇳', { ko: '인도', en: 'India' }, 'Tara', 'तारा', { ko: '산스크리트어로 \'별\'.', en: 'Sanskrit for star.' }, 90],
+      ['🇸🇦', { ko: '아랍권', en: 'Arab world' }, 'Najma', 'نجمة', { ko: '아랍어로 \'별\'.', en: 'Arabic for star.' }, 85]
+    ] },
+  wisdom: { phrase: { ko: '지혜', en: 'wisdom', ja: '知恵', zh: '智慧' },
+    c: [
+      ['🇯🇵', { ko: '일본', en: 'Japan' }, 'Chie', '智恵 (ちえ)', { ko: '\'지혜\'를 그대로 이름으로 쓴 일본 여자 이름.', en: 'A Japanese girl\'s name that is the word for wisdom.' }, 85],
+      ['🇹🇼', { ko: '대만', en: 'Taiwan' }, 'Hui', '慧', { ko: '대만 이름에 흔한 \'슬기로울 혜\'.', en: 'The character for wisdom, common in Taiwanese names.' }, 80],
+      ['🇬🇧', { ko: '영국', en: 'UK' }, 'Sophia', '', { ko: '그리스어로 \'지혜\'.', en: 'Greek for wisdom.' }, 95],
+      ['🇪🇸', { ko: '스페인', en: 'Spain' }, 'Sofía', '', { ko: 'Sophia의 스페인어 형태.', en: 'The Spanish form of Sophia.' }, 95],
+      ['🇹🇭', { ko: '태국', en: 'Thailand' }, 'Panya', 'ปัญญา', { ko: '\'지혜\'라는 뜻의 태국 이름.', en: 'A Thai name meaning wisdom.' }, 75],
+      ['🇹🇷', { ko: '튀르키예', en: 'Türkiye' }, 'Bilge', '', { ko: '\'지혜로운\'이라는 뜻.', en: 'Means wise.' }, 80],
+      ['🇸🇦', { ko: '아랍권', en: 'Arab world' }, 'Hikmat', 'حكمت', { ko: '\'지혜\'라는 뜻.', en: 'Means wisdom.' }, 75]
+    ] },
+  peace: { phrase: { ko: '평화', en: 'peace', ja: '平和', zh: '和平' },
+    c: [
+      ['🇯🇵', { ko: '일본', en: 'Japan' }, 'Kazuko', '和子', { ko: '\'화할 화(和)\'를 쓴 일본 이름.', en: 'A Japanese name built on 和, harmony and peace.' }, 80],
+      ['🇹🇼', { ko: '중화권', en: 'Chinese-speaking world' }, 'Heping', '和平', { ko: '\'평화\'를 그대로 쓴 이름.', en: 'The word for peace, used as a name.' }, 70],
+      ['🇬🇧', { ko: '영국', en: 'UK' }, 'Irene', '', { ko: '그리스어로 \'평화\'.', en: 'Greek for peace.' }, 90],
+      ['🇪🇸', { ko: '스페인', en: 'Spain' }, 'Paz', '', { ko: '스페인어로 \'평화\'.', en: 'Spanish for peace.' }, 90],
+      ['🇹🇭', { ko: '태국', en: 'Thailand' }, 'Santi', 'สันติ', { ko: '\'평화\'라는 뜻의 태국 이름.', en: 'A Thai name meaning peace.' }, 80],
+      ['🇹🇷', { ko: '튀르키예', en: 'Türkiye' }, 'Barış', '', { ko: '튀르키예어로 \'평화\'.', en: 'Turkish for peace.' }, 90],
+      ['🇮🇳', { ko: '인도', en: 'India' }, 'Shanti', 'शान्ति', { ko: '산스크리트어로 \'평화\'.', en: 'Sanskrit for peace.' }, 85]
+    ] },
+  light: { phrase: { ko: '빛', en: 'light', ja: '光', zh: '光' },
+    c: [
+      ['🇯🇵', { ko: '일본', en: 'Japan' }, 'Hikari', '光 (ひかり)', { ko: '\'빛\'을 그대로 쓴 일본 이름.', en: 'The Japanese word for light, used as a name.' }, 90],
+      ['🇹🇼', { ko: '대만', en: 'Taiwan' }, 'Guang', '光', { ko: '이름에 쓰는 \'빛 광\'.', en: 'The character for light, used in names.' }, 70],
+      ['🇬🇧', { ko: '영국', en: 'UK' }, 'Lucy', '', { ko: '라틴어 lux(빛)에서 온 이름.', en: 'From Latin lux, light.' }, 85],
+      ['🇪🇸', { ko: '스페인', en: 'Spain' }, 'Lucía', '', { ko: 'Lucy의 스페인어 형태.', en: 'The Spanish form of Lucy.' }, 85],
+      ['🇹🇭', { ko: '태국', en: 'Thailand' }, 'Saeng', 'แสง', { ko: '\'빛\'이라는 뜻의 태국 이름·별명.', en: 'Thai for light, used as a name.' }, 70],
+      ['🇸🇦', { ko: '아랍권', en: 'Arab world' }, 'Nur', 'نور', { ko: '아랍어로 \'빛\'.', en: 'Arabic for light.' }, 90],
+      ['🇷🇺', { ko: '러시아', en: 'Russia' }, 'Svetlana', 'Светлана', { ko: '\'빛\'에서 온 슬라브 이름.', en: 'A Slavic name from the word for light.' }, 85]
+    ] }
+};
+window.NADRI_BORN_OF = { hanja: { '斗': 'dipper', '北': 'dipper', '辰': 'dipper', '星': 'star', '奎': 'star', '智': 'wisdom', '慧': 'wisdom', '叡': 'wisdom', '哲': 'wisdom', '賢': 'wisdom', '知': 'wisdom', '平': 'peace', '和': 'peace', '光': 'light', '明': 'light', '昭': 'light', '炫': 'light', '輝': 'light', '晟': 'light', '炯': 'light' }, latin: { sophia: 'wisdom', stella: 'star', irene: 'peace', olivia: 'peace' }, native: { '별': 'star', '한별': 'star', '슬기': 'wisdom', '빛나': 'light' } };
