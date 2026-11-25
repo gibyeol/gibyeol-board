@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 409" role="img" aria-label="聖水站:4號還是3號出口" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>聖水站:4號還是3號出口</title>
+<rect width="400" height="409" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">聖水站:4號還是3號出口</text>
+<rect x="16" y="61" width="368" height="68" rx="12" fill="#16151a"/>
+<text x="30" y="90" font-size="19" fill="#ffffff" font-weight="bold" text-anchor="start">聖水站</text>
+<text x="30" y="113" font-size="16" fill="#e9e2d3" text-anchor="start">2號線</text>
+<line x1="36" y1="129" x2="36" y2="185.5" stroke="#c9c1b2" stroke-width="3"/>
+<rect x="24" y="167.5" width="88" height="36" rx="12" fill="#b8392f"/>
+<text x="68" y="191.5" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4號出口</text>
+<line x1="114" y1="185.5" x2="134" y2="185.5" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="138" y="141" width="246" height="89" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<text x="150" y="169" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">演武場街從這裡開始</text>
+<text x="150" y="191" font-size="16" fill="#5f5b55" text-anchor="start">Olive Young N 聖水:步行約1分</text>
+<text x="150" y="213" font-size="16" fill="#5f5b55" text-anchor="start">鐘</text>
+<line x1="36" y1="230" x2="36" y2="275.5" stroke="#c9c1b2" stroke-width="3"/>
+<rect x="24" y="257.5" width="88" height="36" rx="12" fill="#b8392f"/>
+<text x="68" y="281.5" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3號出口</text>
+<line x1="114" y1="275.5" x2="134" y2="275.5" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="138" y="242" width="246" height="67" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<text x="150" y="270" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">MUSINSA Megastore</text>
+<text x="150" y="292" font-size="16" fill="#5f5b55" text-anchor="start">475公尺・11:00–22:00</text>
+<rect x="16" y="325" width="368" height="66" rx="12" fill="#e9e2d3"/>
+<text x="30" y="352" font-size="16" fill="#16151a" text-anchor="start">週末 MUSINSA Megastore 人多,有些店要排隊</text>
+<text x="30" y="374" font-size="16" fill="#16151a" text-anchor="start">(韓國先驅報)</text>
+</svg>

@@ -1,24 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 447" role="img" aria-label="2号線沿いの4つの買い物エリア" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<title>2号線沿いの4つの買い物エリア</title>
-<rect width="400" height="447" rx="16" fill="#f4f0e6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 465" role="img" aria-label="2号線沿いの3つの買い物エリア" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>2号線沿いの3つの買い物エリア</title>
+<rect width="400" height="465" rx="16" fill="#f4f0e6"/>
 <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
-<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">2号線沿いの4つの買い物エリア</text>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">2号線沿いの3つの買い物エリア</text>
 <text x="20" y="65" font-size="16" fill="#5f5b55" text-anchor="start">イメージ図・縮尺は不正確</text>
-<path d="M0,359 C80,337 160,377 240,359 S360,343 400,355 L400,399 C320,385 260,417 180,401 S60,389 0,405 Z" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
-<ellipse cx="200" cy="275" rx="158" ry="120" fill="none" stroke="#16151a" stroke-width="3" stroke-dasharray="9 7"/>
-<circle cx="42" cy="275" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<circle cx="181" cy="156" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<circle cx="291" cy="177" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<circle cx="355" cy="300" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<text x="60" y="269" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">弘大</text>
-<text x="60" y="291" font-size="16" fill="#5f5b55" text-anchor="start">若いファッション</text>
-<text x="181" y="106" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">明洞</text>
-<text x="181" y="128" font-size="16" fill="#5f5b55" text-anchor="middle">コスメ</text>
-<text x="295" y="127" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">東大門</text>
-<text x="295" y="149" font-size="16" fill="#5f5b55" text-anchor="middle">夜の服探し</text>
-<text x="337" y="273" font-size="18" fill="#16151a" font-weight="bold" text-anchor="end">聖水</text>
-<text x="337" y="295" font-size="16" fill="#5f5b55" text-anchor="end">新ブランド・</text>
-<text x="337" y="316" font-size="16" fill="#5f5b55" text-anchor="end">ポップアップ</text>
-<text x="70" y="393" font-size="16" fill="#5f5b55" text-anchor="middle">漢江</text>
-<text x="380" y="429" font-size="16" fill="#16151a" font-weight="bold" text-anchor="end">2号線(環状線)</text>
+<path d="M0,389 C80,367 160,407 240,389 S360,373 400,385 L400,429 C320,415 260,447 180,431 S60,419 0,435 Z" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<ellipse cx="200" cy="301" rx="150" ry="112" fill="none" stroke="#16151a" stroke-width="3" stroke-dasharray="9 7"/>
+<circle cx="50" cy="301" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<circle cx="182" cy="190" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<circle cx="349" cy="317" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<g stroke="#f4f0e6" stroke-width="6" stroke-linejoin="round" paint-order="stroke">
+<text x="182" y="118" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">明洞</text>
+<text x="182" y="140" font-size="16" fill="#5f5b55" text-anchor="middle">コスメ</text>
+<text x="182" y="162" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="middle">乙支路入口駅 5番出口</text>
+</g>
+<g stroke="#f4f0e6" stroke-width="6" stroke-linejoin="round" paint-order="stroke">
+<text x="74" y="315" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">弘大</text>
+<text x="74" y="337" font-size="16" fill="#5f5b55" text-anchor="start">若いファッション</text>
+<text x="74" y="359" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">弘大入口駅 9番出口</text>
+</g>
+<g stroke="#f4f0e6" stroke-width="6" stroke-linejoin="round" paint-order="stroke">
+<text x="329" y="233" font-size="18" fill="#16151a" font-weight="bold" text-anchor="end">聖水</text>
+<text x="329" y="255" font-size="16" fill="#5f5b55" text-anchor="end">新ブランド・ポップアップ</text>
+<text x="329" y="277" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="end">聖水駅 4番出口</text>
+</g>
+<text x="60" y="423" font-size="16" fill="#5f5b55" text-anchor="middle">漢江</text>
+<text x="380" y="447" font-size="16" fill="#16151a" font-weight="bold" text-anchor="end">2号線(環状線)</text>
 </svg>

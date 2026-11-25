@@ -16,15 +16,15 @@
 <text x="42" y="252" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
 <text x="72" y="229" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">2號線</text>
 <text x="72" y="253" font-size="17" fill="#16151a" text-anchor="start">搭乘</text>
-<text x="72" y="275" font-size="16" fill="#5f5b55" text-anchor="start">到東大門歷史文化公園站</text>
+<text x="72" y="275" font-size="16" fill="#5f5b55" text-anchor="start">到弘大入口站</text>
 <line x1="42" y1="294" x2="42" y2="310" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
 <rect x="16" y="313" width="368" height="117" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
 <circle cx="42" cy="372" r="15" fill="#b8392f"/>
 <text x="42" y="378" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="72" y="344" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">東大門</text>
-<text x="72" y="368" font-size="17" fill="#16151a" text-anchor="start">晚上</text>
-<text x="72" y="390" font-size="16" fill="#5f5b55" text-anchor="start">1號出口 → DDP</text>
-<text x="72" y="412" font-size="16" fill="#5f5b55" text-anchor="start">DOOTA開到午夜</text>
+<text x="72" y="344" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">弘大</text>
+<text x="72" y="368" font-size="17" fill="#16151a" text-anchor="start">傍晚到晚上</text>
+<text x="72" y="390" font-size="16" fill="#5f5b55" text-anchor="start">9號出口 → R3,350公尺</text>
+<text x="72" y="412" font-size="16" fill="#5f5b55" text-anchor="start">COVERNAT 到21:00</text>
 <line x1="42" y1="431" x2="42" y2="447" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
 <rect x="16" y="450" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
 <circle cx="42" cy="498" r="15" fill="#16151a"/>

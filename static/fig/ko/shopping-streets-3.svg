@@ -16,15 +16,15 @@
 <text x="42" y="252" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
 <text x="72" y="229" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">2호선</text>
 <text x="72" y="253" font-size="17" fill="#16151a" text-anchor="start">타고 이동</text>
-<text x="72" y="275" font-size="16" fill="#5f5b55" text-anchor="start">동대문역사문화공원역까지</text>
+<text x="72" y="275" font-size="16" fill="#5f5b55" text-anchor="start">홍대입구역까지</text>
 <line x1="42" y1="294" x2="42" y2="310" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
 <rect x="16" y="313" width="368" height="117" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
 <circle cx="42" cy="372" r="15" fill="#b8392f"/>
 <text x="42" y="378" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="72" y="344" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">동대문</text>
-<text x="72" y="368" font-size="17" fill="#16151a" text-anchor="start">저녁</text>
-<text x="72" y="390" font-size="16" fill="#5f5b55" text-anchor="start">1번 출구 → DDP</text>
-<text x="72" y="412" font-size="16" fill="#5f5b55" text-anchor="start">두타몰은 자정까지</text>
+<text x="72" y="344" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">홍대</text>
+<text x="72" y="368" font-size="17" fill="#16151a" text-anchor="start">늦은 오후~저녁</text>
+<text x="72" y="390" font-size="16" fill="#5f5b55" text-anchor="start">9번 출구 → R3, 350m</text>
+<text x="72" y="412" font-size="16" fill="#5f5b55" text-anchor="start">커버낫 21:00까지</text>
 <line x1="42" y1="431" x2="42" y2="447" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
 <rect x="16" y="450" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
 <circle cx="42" cy="498" r="15" fill="#16151a"/>

@@ -5,6 +5,14 @@ lede: Our call: Myeongdong for beauty on a first trip, Seongsu for new brands an
 section: shopping
 updated: 2026-11-26
 ---
+## One afternoon on Line 2
+
+Picture the afternoon as a route, not a list of shops. You come up Exit 4 at Seongsu Station, where Yeonmujang-gil starts. Visit Seoul says this was a handmade-shoe street before fashion and beauty flagships and pop-ups moved in, and Olive Young N Seongsu is about a minute's walk away. Then one ride on Line 2 to Hongik Univ., up Exit 9, and 350 m to R3, where clothing and cosmetics shops pack the blocks. We end in Hongdae on purpose, because shops there stay open into the evening (Covernat until 21:00, per Visit Seoul). The ending we really aim for is a week later: one thing you are wearing or using at home because it suits you, not because there was a line for it. That is our call, and it is why pop-ups stay optional.
+
+{{fig:shopping-streets-3|A half-day shopping route on Line 2}}
+
+On a beauty-first trip, swap Seongsu for Myeongdong: Euljiro 1-ga is also on Line 2.
+
 ## The short answer
 
 | If you want | Go to | Why |
@@ -16,6 +24,19 @@ updated: 2026-11-26
 This page is about where to **shop**. If you are choosing where to **sleep**, see [where to stay in Seoul](/seoul-areas/).
 
 {{fig:shopping-streets-1|Our pick: what each street is best for, and when to go}}
+
+## Before you go: a short list
+
+Our call: the list is the part of shopping you can enjoy at home, and a short one is the one you finish.
+
+1. **Write what you want by kind:** beauty, clothes or K-pop goods. The table above turns that into a street.
+2. **Check the dates** of any pop-up you saw online. Pop-ups run for set dates.
+3. **Save the exits in Naver Map** and pack your physical passport for tax-free at the till.
+
+**Buying for someone else?** Our call, from what is on this page:
+
+- **A K-pop fan:** Hongdae, K-Pop Square near Exit 1.
+- **Someone who uses skincare:** Myeongdong or Olive Young N Seongsu. Run our [label check](/kbeauty-how-to-choose/) first.
 
 ## The handy fact: all three are on Line 2
 
@@ -35,6 +56,8 @@ Our call: plan your shopping around Line 2. It is Seoul's circular line (Korea H
 
 Visit Seoul calls Myeongdong "the no. 1 place for shopping": two large department stores, shopping centers, brand shops and street vendors, with food stalls along both sides of the main street. It also notes the area is especially crowded with foreign visitors.
 
+{{fig:shopping-streets-4|Myeongdong: which exit for which store}}
+
 - **Best for:** K-beauty, fashion, street food while you walk.
 - **Best time:** soon after opening. This is our guess, not crowd data: Visit Seoul gives no hourly figures, and Olive Young's Myeongdong Global Store opens at 10:00.
 - **Tax-free:** Olive Young Myeongdong Global Store refunds at the till; see the steps below.
@@ -45,6 +68,8 @@ Visit Seoul calls Myeongdong "the no. 1 place for shopping": two large departmen
 
 Seongsu grew from a handmade-shoe district into a hub for fashion, beauty, pop-ups and flagship stores; Visit Seoul says the shoe street centered on Yeonmujang-gil, starting from Exit 4. Olive Young N Seongsu opened there in late November 2024, about a minute's walk from Exit 4. Musinsa Megastore Seongsu opened on 24 April 2026: four floors plus a basement, 6,600 m², with its first offline beauty floor on the second level (Korea Herald). Visit Seoul lists it as open 11:00 to 22:00 daily.
 
+{{fig:shopping-streets-5|Seongsu Station: Exit 4 or Exit 3}}
+
 - **Best for:** Korean fashion labels, beauty from newer brands, pop-up stores.
 - **Best time:** a weekday. The Korea Herald's Seongsu shopping guide (July 2026) warns that weekends get crowded at Musinsa Megastore and usually mean a wait at some shops.
 - **Tax-free:** we could not confirm each store's rules. Bring your passport and ask before you pay.
@@ -53,6 +78,8 @@ Seongsu grew from a handmade-shoe district into a hub for fashion, beauty, pop-u
 ## Hongdae: for young fashion and K-pop goods
 
 Hongdae is the area around Hongik University. Visit Seoul describes the R3 area, 350 m from Exit 9, as packed with clothing and cosmetic stores. Near Exit 1, the former LINE Friends flagship has changed to K-Pop Square.
+
+{{fig:shopping-streets-6|Hongik Univ. Station: Exit 9 or Exit 1}}
 
 - **Best for:** casual and street fashion, K-pop goods, cosmetics.
 - **Best time:** late afternoon into the evening. Our judgment from opening hours, not crowd data: some flagships open only at noon (Covernat: 12:00–21:00, per Visit Seoul).
@@ -63,27 +90,16 @@ Hongdae is the area around Hongik University. Visit Seoul describes the R3 area,
 
 These steps follow Olive Young Myeongdong Global Store's own FAQ. Other stores: ask before you pay.
 
+{{fig:shopping-streets-7|The instant refund range for one receipt}}
+
 1. **Bring your physical passport.** The instant refund needs the passport itself.
 2. **Keep each receipt between ₩15,000 and ₩1,000,000.** That is the range for the instant refund there.
 3. **Show the passport when you pay.** The refund is given in the store.
 4. **Over ₩1,000,000 on one receipt?** No instant refund at the till. See [tax refunds](/tax-refund/).
 
-## A half-day on Line 2
-
-Our call for a first trip with one free afternoon:
-
-{{fig:shopping-streets-3|A half-day shopping route on Line 2}}
-
-1. **Early afternoon, Seongsu.** Exit 4 (or 3), walk to Yeonmujang-gil. Weekdays are calmer.
-2. **Ride Line 2** to Hongik Univ.
-3. **Late afternoon to evening, Hongdae.** Exit 9 to R3 fashion street.
-4. **Keep your receipts and passport together.** Over ₩1,000,000 on one receipt, there is no instant refund at the till.
-
-On a beauty-first trip, swap Seongsu for Myeongdong: Euljiro 1-ga is also on Line 2.
-
 ## What we left out, and who doesn't need this
 
-We left out Dongdaemun. Its draw is clothes late at night (Visit Seoul lists Doota Mall as open 10:30 to midnight), and Seongsu and Hongdae already cover fashion. We also left out Garosu-gil in Sinsa, Hannam-dong and the Gangnam department stores, because we have not yet checked them by category. We don't rank individual stores or prices, because they change.
+We left out Dongdaemun. The fact: Visit Seoul lists Doota Mall as open 10:30 to midnight. The rest is our call, not a rule: we see late-night clothes shopping as its draw, and on a short trip Seongsu and Hongdae already cover fashion. If you want to look at clothes after Musinsa Megastore closes at 22:00, add Dongdaemun. We also left out Garosu-gil in Sinsa, Hannam-dong and the Gangnam department stores, because we have not yet checked them by category. We don't rank individual stores or prices, because they change.
 
 If you only want cosmetics, go straight to our [Olive Young guide](/olive-young/). If you are buying big-ticket items, read [duty-free](/duty-free/) first.
 

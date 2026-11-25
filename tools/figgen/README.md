@@ -1,0 +1,15 @@
+# Figure generators (static/fig/<lang>/*.svg)
+
+Phone-first rule: viewBox width 400, min font-size 16 (see drafts/BRIEF-2026-11-26.md).
+Which script owns which figures — run only the owner, or you overwrite later fixes:
+
+| Figures | Owner script |
+|---|---|
+| shopping-streets-1..7, daiso-2, daiso-4, kbeauty-how-to-choose-4 | gen-shopping.py |
+| seoul-subway-1, -4..8, seoul-bus-4..5 | gen_transit.py |
+| seoul-subway-2..3, seoul-bus-1..3, daiso-1, daiso-3 | gen-4pages.py (its shopping-streets and daiso-2 data are OUTDATED — do not copy those outputs) |
+| kbeauty-how-to-choose-1..3 | gen-kbeauty.py |
+| e-arrival-card-*, money-*, tax-refund-* | core-A/ |
+| airport-to-seoul-*, getting-around-*, olive-young-*, duty-free-* | core-B/ |
+
+Check every output with verify.js at 340px (text ≥13px, no overflow/overlap) before copying into static/fig.

@@ -5,6 +5,10 @@ lede: The box tells you more than the ranking does. Three checks on the label (f
 section: shopping
 updated: 2026-11-26
 ---
+## At the shelf: thirty seconds with the box
+
+Picture the moment before you pay. You pick up a sunscreen, turn the box over and look for three things only: the word 기능성화장품, the line naming the function reviewed by or reported to MFDS, and SPF with its PA plus signs. Anything whose ad promises "cell regeneration" goes back on the shelf. The ending we chose is a week later, not the till: a sunscreen you are still using because its SPF and PA fit the days you actually have, rather than a fourth bottle bought because it went viral. That is our call.
+
 ## Our call, in one table
 
 | Situation | What to do | Why |
@@ -15,6 +19,14 @@ updated: 2026-11-26
 | The ad says "cell regeneration", "anti-inflammatory" or "Botox" | Put it back | MFDS calls these illegal claims for cosmetics |
 
 Who does not need this page: if you know your products and only want the cheapest week, go to [Olive Young](/olive-young/) and the [deals board](/deals/).
+
+## Before you go: one line per person
+
+Our call: the list is the part you can enjoy at home. Write one line for each person you are buying for, yourself included.
+
+1. **What it should do:** block sun, brighten or smooth wrinkles, or avoid fragrance. That tells you which label check to run.
+2. **Their day:** city walks, or long hours in strong sun. That is the SPF and PA to look for.
+3. **When and where:** the Olive Young Sale calendar is on our [Olive Young page](/olive-young/); on a budget, [Daiso](/daiso/) sells Daiso-only lines and smaller sizes; for the street, see [Myeongdong, Seongsu or Hongdae](/shopping-streets/). Bring your passport for the [immediate tax refund](/tax-refund/).
 
 ## Read the label in 30 seconds
 
@@ -53,6 +65,10 @@ Fragrance may be listed simply as 향료, but 25 fragrance allergens must be nam
 
 > If you have a skin condition or use prescription treatment, ask a doctor or pharmacist before trying something new. This page is about reading labels, not about what any product will do for your skin.
 
+### If it is a gift
+
+Our call: choose by their day and their skin, not yours. If you don't know whether fragrance bothers them, check 전성분 for 향료 and the named allergens, and pick a size that fits the bag it will travel in.
+
 ## Treat rankings and testers as starting points
 
 A ranking tells you what sells, not what suits you. We have not seen an official explanation of how Olive Young's rankings are calculated, so read them as a popularity signal only.
@@ -68,13 +84,11 @@ Medical-sounding claims are the clearest red flag. In March 2025 MFDS checked 20
 
 What we would not buy on hype: anything sold as a treatment or promising procedure-like results, and a fourth sunscreen because a new one went viral.
 
-## When to buy
-
-The big Olive Young Sale runs four times a year; [our Olive Young page](/olive-young/) has the calendar and the [deals board](/deals/) has live offers. Bring your passport for the [immediate tax refund](/tax-refund/). On a budget, [Daiso](/daiso/) sells Daiso-only lines and smaller sizes; for where to shop, see [Myeongdong, Seongsu or Hongdae](/shopping-streets/).
-
 ## Getting it home
 
 Plan the suitcase before checkout: toners, gels and mists all count as liquids.
+
+{{fig:kbeauty-how-to-choose-4|What goes in the cabin bag and what goes in the suitcase (Incheon Airport rules)}}
 
 1. **Cabin bag:** each liquid, gel or spray in a container of 100 mL or less, all in one clear 1 L zip bag per person (Incheon Airport, international flights).
 2. **Bigger bottles:** checked baggage. Incheon Airport limits personal sprays such as hairspray there to 500 mL per container and 2 L in total.

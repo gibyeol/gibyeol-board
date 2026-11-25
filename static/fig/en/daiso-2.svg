@@ -1,32 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 508" role="img" aria-label="Myeongdong Station Daiso: 4 steps" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<title>Myeongdong Station Daiso: 4 steps</title>
-<rect width="400" height="508" rx="16" fill="#f4f0e6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 651" role="img" aria-label="Myeongdong Station Daiso: 12 floors, 4 steps" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Myeongdong Station Daiso: 12 floors, 4 steps</title>
+<rect width="400" height="651" rx="16" fill="#f4f0e6"/>
 <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
 <text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">Myeongdong Station Daiso:</text>
-<text x="20" y="68" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">4 steps</text>
-<rect x="16" y="90" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
-<circle cx="42" cy="138" r="15" fill="#16151a"/>
-<text x="42" y="144" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="72" y="121" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Floor guide</text>
-<text x="72" y="144" font-size="16" fill="#5f5b55" text-anchor="start">EN · JA · ZH</text>
-<text x="72" y="166" font-size="16" fill="#5f5b55" text-anchor="start">pick 2–3 floors</text>
-<line x1="42" y1="186" x2="42" y2="202" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
-<rect x="16" y="205" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
-<circle cx="42" cy="242" r="15" fill="#16151a"/>
-<text x="42" y="248" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="72" y="236" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Beauty: 2F</text>
-<text x="72" y="259" font-size="16" fill="#5f5b55" text-anchor="start">viral items can sell out</text>
-<line x1="42" y1="279" x2="42" y2="295" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
-<text x="18" y="314" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">For a tax refund</text>
-<rect x="16" y="324" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
-<circle cx="42" cy="360" r="15" fill="#16151a"/>
-<text x="42" y="366" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="72" y="355" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">One purchase</text>
-<text x="72" y="378" font-size="16" fill="#5f5b55" text-anchor="start">each receipt ₩15,000+</text>
-<line x1="42" y1="398" x2="42" y2="414" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
-<rect x="16" y="417" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
-<circle cx="42" cy="454" r="15" fill="#b8392f"/>
-<text x="42" y="460" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="72" y="448" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Passport</text>
-<text x="72" y="471" font-size="16" fill="#5f5b55" text-anchor="start">show it when you pay</text>
+<text x="20" y="68" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">12 floors, 4 steps</text>
+<text x="20" y="100" font-size="16" fill="#5f5b55" text-anchor="start">On the road between Myeong-dong Station</text>
+<text x="20" y="122" font-size="16" fill="#5f5b55" text-anchor="start">Exits 1 and 4</text>
+<rect x="16" y="140" width="100" height="27" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="160" font-size="16" fill="#16151a" text-anchor="middle">12F</text>
+<rect x="16" y="167" width="100" height="27" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="187" font-size="16" fill="#16151a" text-anchor="middle">11F</text>
+<rect x="16" y="194" width="100" height="27" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="214" font-size="16" fill="#16151a" text-anchor="middle">10F</text>
+<rect x="16" y="221" width="100" height="27" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="241" font-size="16" fill="#16151a" text-anchor="middle">9F</text>
+<rect x="16" y="248" width="100" height="27" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="268" font-size="16" fill="#16151a" text-anchor="middle">8F</text>
+<rect x="16" y="275" width="100" height="27" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="295" font-size="16" fill="#16151a" text-anchor="middle">7F</text>
+<rect x="16" y="302" width="100" height="27" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="322" font-size="16" fill="#16151a" text-anchor="middle">6F</text>
+<rect x="16" y="329" width="100" height="27" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="349" font-size="16" fill="#16151a" text-anchor="middle">5F</text>
+<rect x="16" y="356" width="100" height="27" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="376" font-size="16" fill="#16151a" text-anchor="middle">4F</text>
+<rect x="16" y="383" width="100" height="27" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="403" font-size="16" fill="#16151a" text-anchor="middle">3F</text>
+<rect x="16" y="410" width="100" height="27" fill="#b8392f" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="430" font-size="16" fill="#ffffff" font-weight="bold" text-anchor="middle">2F Beauty</text>
+<rect x="16" y="437" width="100" height="27" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="66" y="457" font-size="16" fill="#16151a" text-anchor="middle">1F</text>
+<rect x="16" y="140" width="100" height="324" fill="none" stroke="#16151a" stroke-width="2.5"/>
+<rect x="130" y="140" width="254" height="85" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="150" cy="182.5" r="13" fill="#16151a"/>
+<text x="150" y="188.5" font-size="16" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="170" y="166" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">Floor guide</text>
+<text x="170" y="188" font-size="16" fill="#5f5b55" text-anchor="start">EN · JA · ZH</text>
+<text x="170" y="210" font-size="16" fill="#5f5b55" text-anchor="start">pick 2–3 floors</text>
+<rect x="130" y="235" width="254" height="63" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="150" cy="266.5" r="13" fill="#b8392f"/>
+<text x="150" y="272.5" font-size="16" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="170" y="261" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">Beauty: 2F</text>
+<text x="170" y="283" font-size="16" fill="#5f5b55" text-anchor="start">viral items can sell out</text>
+<text x="132" y="324" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">For a tax refund</text>
+<rect x="130" y="332" width="254" height="63" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="150" cy="363.5" r="13" fill="#16151a"/>
+<text x="150" y="369.5" font-size="16" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="170" y="358" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">One purchase</text>
+<text x="170" y="380" font-size="16" fill="#5f5b55" text-anchor="start">each receipt ₩15,000+</text>
+<rect x="130" y="405" width="254" height="63" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="150" cy="436.5" r="13" fill="#b8392f"/>
+<text x="150" y="442.5" font-size="16" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="170" y="431" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">Passport</text>
+<text x="170" y="453" font-size="16" fill="#5f5b55" text-anchor="start">show it when you pay</text>
+<text x="20" y="504" font-size="16" fill="#5f5b55" text-anchor="start">Beauty on 2F: Daiso’s 2023 floor plan, still</text>
+<text x="20" y="526" font-size="16" fill="#5f5b55" text-anchor="start">reported in Sept 2026</text>
+<rect x="16" y="542" width="368" height="91" rx="12" fill="#e9e2d3"/>
+<text x="30" y="571" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">Self-checkout</text>
+<text x="30" y="593" font-size="16" fill="#16151a" text-anchor="start">Scan the QR code on the product, not the</text>
+<text x="30" y="615" font-size="16" fill="#16151a" text-anchor="start">barcode.</text>
 </svg>

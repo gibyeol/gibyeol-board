@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 447" role="img" aria-label="명동: 어느 출구로" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>명동: 어느 출구로</title>
+<rect width="400" height="447" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">명동: 어느 출구로</text>
+<rect x="16" y="61" width="368" height="68" rx="12" fill="#16151a"/>
+<text x="30" y="90" font-size="19" fill="#ffffff" font-weight="bold" text-anchor="start">명동역</text>
+<text x="30" y="113" font-size="16" fill="#e9e2d3" text-anchor="start">4호선</text>
+<line x1="36" y1="129" x2="36" y2="174.5" stroke="#c9c1b2" stroke-width="3"/>
+<rect x="24" y="156.5" width="88" height="36" rx="12" fill="#b8392f"/>
+<text x="68" y="180.5" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">8번 출구</text>
+<line x1="114" y1="174.5" x2="134" y2="174.5" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="138" y="141" width="246" height="67" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<text x="150" y="169" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">올리브영 명동 글로벌 매장</text>
+<text x="150" y="191" font-size="16" fill="#5f5b55" text-anchor="start">10:00 개점</text>
+<rect x="16" y="222" width="368" height="68" rx="12" fill="#16151a"/>
+<text x="30" y="251" font-size="19" fill="#ffffff" font-weight="bold" text-anchor="start">을지로입구역</text>
+<text x="30" y="274" font-size="16" fill="#e9e2d3" text-anchor="start">2호선</text>
+<line x1="36" y1="290" x2="36" y2="335.5" stroke="#c9c1b2" stroke-width="3"/>
+<rect x="24" y="317.5" width="88" height="36" rx="12" fill="#b8392f"/>
+<text x="68" y="341.5" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">5번 출구</text>
+<line x1="114" y1="335.5" x2="134" y2="335.5" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="138" y="302" width="246" height="67" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<text x="150" y="330" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">올리브영 명동 글로벌 매장</text>
+<text x="150" y="352" font-size="16" fill="#5f5b55" text-anchor="start">같은 매장, 2호선에서</text>
+<rect x="16" y="385" width="368" height="44" rx="12" fill="#e9e2d3"/>
+<text x="30" y="412" font-size="16" fill="#16151a" text-anchor="start">명동역 옆: 12층짜리 다이소</text>
+</svg>

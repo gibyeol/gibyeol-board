@@ -5,6 +5,10 @@ lede: Daiso is a cheap one-stop shop for small souvenirs, travel fixes and budge
 section: shopping
 updated: 2026-11-26
 ---
+## A Daiso run, start to finish
+
+Picture one loop through the Myeongdong Station branch. It sits on the road between Myeong-dong Station Exits 1 and 4. Inside, you check the floor guide in English, Japanese or Chinese and choose two or three of the twelve floors, starting with beauty on the second if skincare is on your list. Everything goes into one basket so the receipt reaches ₩15,000, and your passport comes out at the till. Our pick for the ending is a week later, not the full bag at the door: the trip fix that solved something, like a luggage scale or a multi-adaptor, and the snacks you handed out at home. That is why we say go in with a list.
+
 ## Our call
 
 | Situation | Do this | Why |
@@ -14,7 +18,14 @@ updated: 2026-11-26
 | You want the widest range in central Seoul | Myeongdong Station branch, 12 floors | Daiso's second-largest store in Seoul, with a floor guide in English, Japanese and Chinese |
 | You want full-size K-beauty or the big seasonal sales | [Olive Young](/olive-young/) | Daiso beauty items are often Daiso-only lines or smaller sizes; current sales are on our [deals board](/deals/) |
 
-Daiso Korea is run by the Korean company Asung Daiso and has been fully Korean-owned since 2023. Below: the prices, what is worth buying, the big store, and the tax refund.
+Daiso Korea is run by the Korean company Asung Daiso and has been fully Korean-owned since 2023.
+
+## Before you go: a list by person
+
+Our call: writing the list is half the fun of a Daiso run, and it keeps you to one receipt.
+
+1. **Write the list by person**, yourself included. The section on what visitors buy shows who each kind of thing suits.
+2. **Pack your physical passport** if you want the refund, and plan one receipt of ₩15,000 or more.
 
 ## Six prices, nothing above ₩5,000
 
@@ -28,9 +39,13 @@ What this means for you: to stay under ₩5,000, many beauty products come in sm
 
 We are not going to give you a "best of" list built on nothing. Here is what official and major-press pages say.
 
+{{fig:daiso-4|What visitors buy at Daiso, and who each suits (our call)}}
+
 - **Budget skincare from known Korean brands.** The Korea Herald counted about 170 beauty brands at Daiso in 2026, up from seven in 2022, and more than 1,900 beauty products. Amorepacific, LG H&H and Aekyung sell Daiso-only lines under sub-brands. VisitKorea called VT's Reedle Shot Daiso's top seller in March 2024, and the Korea Herald (September 2026) says Daiso cosmetics have repeatedly sold out after going viral, naming Reedle Shots among them. We could not confirm the current price or pack size on an official page, so check the shelf tag. Before you buy, run our [label check](/kbeauty-how-to-choose/).
 - **Snacks and small souvenirs.** VisitKorea puts most snacks at around ₩1,000 to ₩2,000, and lists character goods, photocard accessories, phone accessories and Korean snacks as souvenirs to buy.
 - **Trip fixes.** VisitKorea points to multi-adaptors, portable luggage scales and phone chargers, for when you lost or forgot yours.
+
+Our call on who each suits: skincare for yourself, snacks for sharing, photocard accessories for a K-pop fan, trip fixes for the trip itself.
 
 Who does not need Daiso: if you only want full-size skincare from one brand, or want to wait for a big sale, Olive Young is the better trip.
 
@@ -59,15 +74,11 @@ Yes, at many branches. VisitKorea lists Daiso branches as Tax Refund Shops, incl
 
 The rules (₩15,000 minimum per receipt, refund limits, fees, what you actually get back) are on our [tax refund page](/tax-refund/). By that page's estimate, a ₩50,000 receipt brings back about ₩2,500, so do not change your plans for a Daiso refund.
 
-## Paying
-
 VisitKorea's listing for the Myeongdong Station branch says cards are accepted. Our [money page](/money/) covers cards, cash and WOWPASS.
 
 ## What not to expect
 
 - **Not everything is ₩1,000.** Prices go from ₩500 to ₩5,000, so check the tag.
-- **Not the full product.** Beauty items are often smaller sizes or Daiso-only lines, not the full-size version sold elsewhere.
-- **No guaranteed stock.** Viral items sell out, and Daiso says stock differs by store.
 - **Not the same store everywhere.** Hours differ by branch (VisitKorea lists 10:00–22:00 at Myeongdong Station and 09:30–22:00 at Sinchon Main), and so do floor plans and tax refund service.
 
 ## Sources

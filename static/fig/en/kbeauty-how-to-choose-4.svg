@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 570" role="img" aria-label="Packing K-beauty for the flight" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Packing K-beauty for the flight</title>
+<rect width="400" height="570" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">Packing K-beauty for the flight</text>
+<rect x="16" y="61" width="368" height="137" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="32" y="106" width="52" height="50" rx="5" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/><line x1="32" y1="115" x2="84" y2="115" stroke="#b8392f" stroke-width="3"/><rect x="40" y="128" width="10" height="24" rx="3" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/><rect x="53" y="122" width="10" height="30" rx="3" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/><rect x="66" y="132" width="10" height="20" rx="3" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<text x="100" y="91" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Cabin bag</text>
+<text x="100" y="114" font-size="16" fill="#5f5b55" text-anchor="start">Each liquid, gel or spray: 100 mL</text>
+<text x="100" y="136" font-size="16" fill="#5f5b55" text-anchor="start">or less</text>
+<text x="100" y="158" font-size="16" fill="#5f5b55" text-anchor="start">All in one clear 1 L zip bag per</text>
+<text x="100" y="180" font-size="16" fill="#5f5b55" text-anchor="start">person</text>
+<rect x="16" y="210" width="368" height="137" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="32" y="260" width="52" height="42" rx="7" fill="#e9e2d3" stroke="#16151a" stroke-width="2.5"/><path d="M48,260 v-9 h20 v9" fill="none" stroke="#16151a" stroke-width="2.5"/><line x1="46" y1="260" x2="46" y2="302" stroke="#16151a" stroke-width="2"/><line x1="70" y1="260" x2="70" y2="302" stroke="#16151a" stroke-width="2"/>
+<text x="100" y="240" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Checked baggage</text>
+<text x="100" y="263" font-size="16" fill="#5f5b55" text-anchor="start">Bigger bottles</text>
+<text x="100" y="285" font-size="16" fill="#5f5b55" text-anchor="start">Personal sprays such as</text>
+<text x="100" y="307" font-size="16" fill="#5f5b55" text-anchor="start">hairspray: 500 mL each, 2 L in</text>
+<text x="100" y="329" font-size="16" fill="#5f5b55" text-anchor="start">total</text>
+<rect x="16" y="359" width="368" height="115" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="36" y="392" width="44" height="50" rx="5" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/><rect x="36" y="392" width="44" height="10" fill="#b8392f"/><rect x="49" y="416" width="18" height="20" rx="3" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<text x="100" y="389" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Duty-free liquids</text>
+<text x="100" y="412" font-size="16" fill="#5f5b55" text-anchor="start">Keep the sealed bag closed until</text>
+<text x="100" y="434" font-size="16" fill="#5f5b55" text-anchor="start">you board the flight to your final</text>
+<text x="100" y="456" font-size="16" fill="#5f5b55" text-anchor="start">destination</text>
+<rect x="16" y="486" width="368" height="66" rx="12" fill="#e9e2d3"/>
+<text x="30" y="513" font-size="16" fill="#16151a" text-anchor="start">Incheon Airport, international flights.</text>
+<text x="30" y="535" font-size="16" fill="#16151a" text-anchor="start">Check your airline too.</text>
+</svg>

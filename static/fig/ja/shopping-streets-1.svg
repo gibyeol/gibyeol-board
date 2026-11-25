@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 627" role="img" aria-label="どこで何を、いつ買う?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 509" role="img" aria-label="どこで何を、いつ買う?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>どこで何を、いつ買う?</title>
-<rect width="400" height="627" rx="16" fill="#f4f0e6"/>
+<rect width="400" height="509" rx="16" fill="#f4f0e6"/>
 <defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
 <text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">どこで何を、いつ買う?</text>
 <rect x="16" y="61" width="368" height="108" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
@@ -39,22 +39,10 @@
 <text x="56" y="385" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">K-POP</text>
 <line x1="210" y1="379" x2="222" y2="379" stroke="#c9c1b2" stroke-width="2.5"/>
 <text x="232" y="385" font-size="16" fill="#5f5b55" text-anchor="start">ポップアップ</text>
-<rect x="16" y="415" width="368" height="108" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<text x="30" y="443" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">東大門</text>
-<circle cx="250" cy="437" r="8" fill="none" stroke="#5f5b55" stroke-width="2"/><path d="M250,432 L250,437 L254,439" fill="none" stroke="#5f5b55" stroke-width="2" stroke-linecap="round"/>
-<text x="370" y="443" font-size="16" fill="#16151a" text-anchor="end">夕方〜深夜0時</text>
-<line x1="34" y1="467" x2="46" y2="467" stroke="#c9c1b2" stroke-width="2.5"/>
-<text x="56" y="473" font-size="16" fill="#5f5b55" text-anchor="start">コスメ</text>
-<circle cx="216" cy="467" r="8" fill="#b8392f"/>
-<text x="232" y="473" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">服</text>
-<line x1="34" y1="497" x2="46" y2="497" stroke="#c9c1b2" stroke-width="2.5"/>
-<text x="56" y="503" font-size="16" fill="#5f5b55" text-anchor="start">K-POP</text>
-<line x1="210" y1="497" x2="222" y2="497" stroke="#c9c1b2" stroke-width="2.5"/>
-<text x="232" y="503" font-size="16" fill="#5f5b55" text-anchor="start">ポップアップ</text>
-<circle cx="30" cy="546" r="8" fill="#b8392f"/>
-<text x="46" y="552" font-size="16" fill="#16151a" text-anchor="start">いちばん向いている</text>
-<circle cx="30" cy="572" r="7" fill="none" stroke="#16151a" stroke-width="2.5"/>
-<text x="46" y="578" font-size="16" fill="#16151a" text-anchor="start">これも向いている</text>
-<circle cx="30" cy="598" r="8" fill="none" stroke="#5f5b55" stroke-width="2"/><path d="M30,593 L30,598 L34,600" fill="none" stroke="#5f5b55" stroke-width="2" stroke-linecap="round"/>
-<text x="46" y="604" font-size="16" fill="#16151a" text-anchor="start">いい時間帯</text>
+<circle cx="30" cy="428" r="8" fill="#b8392f"/>
+<text x="46" y="434" font-size="16" fill="#16151a" text-anchor="start">いちばん向いている</text>
+<circle cx="30" cy="454" r="7" fill="none" stroke="#16151a" stroke-width="2.5"/>
+<text x="46" y="460" font-size="16" fill="#16151a" text-anchor="start">これも向いている</text>
+<circle cx="30" cy="480" r="8" fill="none" stroke="#5f5b55" stroke-width="2"/><path d="M30,475 L30,480 L34,482" fill="none" stroke="#5f5b55" stroke-width="2" stroke-linecap="round"/>
+<text x="46" y="486" font-size="16" fill="#16151a" text-anchor="start">いい時間帯(私たちの判断)</text>
 </svg>
