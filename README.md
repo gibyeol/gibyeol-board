@@ -19,6 +19,9 @@ Cloudflare Pages settings: **Build command** `python3 build.py`, **Build output 
 
 ## Writing rules
 - **Every shared page exists in every language** (en, ja, zh-tw, ko). A new shared page or change goes into all four `content/<lang>/` folders in the same commit. `build.py` stops with an error if any language is missing a page.
+- **Language versions are not machine-translated copies.** Each one adds that country's view (how to buy, shipping, local prices, what that reader is trying to do). Machine-translated duplicates are a quality risk.
+- **Amazon pages**: do not quote Amazon customer reviews (review summaries use Korean review data only). Amazon's 2026-04 rules want original content: commentary, analysis or transformation that adds value. Threads is not an allowed Amazon channel, so Threads posts link to our page, not straight to Amazon.
+- AdSense needs our own domain (not before we buy one).
 - **Audience-only pages**: a page written for one audience (e.g. Korean travellers going abroad, in `content/ko/`) adds `only: ko` to its front matter and exists only in that language.
 - Analytics: put the Cloudflare Web Analytics token in `data/site.json` → `analytics.cloudflare_token` (public value). Or turn on Web Analytics in the Pages project settings instead; then leave the token empty.
 - Front matter: `title`, `description`, `lede`, `section` (essentials / oy / tax / deals), `disclosure: yes` on pages with affiliate buttons, `updated`.
