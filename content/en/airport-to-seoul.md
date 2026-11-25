@@ -1,51 +1,84 @@
 ---
 title: Incheon Airport to Seoul: pick by where you sleep
-description: AREX express, AREX all-stop or the airport bus. Which one to take depends on your hotel, your bags and your landing time. Checked for late 2026.
+description: AREX Express, AREX all-stop, airport bus or taxi: times, fares, where to find each at Incheon, and what still runs late. Checked 26 November 2026.
 lede: There is no single best way into Seoul. The right ride is the one that drops you closest to your bed, so start from the hotel and work backwards.
 section: essentials
 disclosure: yes
-updated: 2026-11-24
+updated: 2026-11-26
 ---
 ## The short answer
 
 | If you are staying near | Take | Why |
 |---|---|---|
-| Seoul Station | AREX Express | Nonstop, about 43 minutes from Terminal 1, no commuters |
-| Hongdae or Gongdeok | AREX all-stop train | It stops at both, so you skip a transfer |
-| Myeongdong, Gangnam, Jamsil and most hotels away from the line | Airport limousine bus | It goes door to door to hotel districts, and your bags travel under the bus |
-| Anywhere, landing after the last train | Late-night airport bus | Night routes run to central Seoul after the trains stop |
+| Seoul Station | AREX Express | Nonstop, 43 minutes from Terminal 1, a reserved seat |
+| Hongdae or Gongdeok | AREX all-stop train | It stops at both: ₩4,650 by card, no transfer |
+| Myeongdong, Gangnam, Jamsil and most hotels away from the line | Airport limousine bus | Straight to the hotel districts; staff load your bags |
+| Anywhere, landing after about 9 p.m. | Read "Landing late" first | The last Express leaves Terminal 1 at 22:48 |
+
+{{fig:airport-to-seoul-1|Four ways from Terminal 1 into Seoul, adult fares}}
+
+What we left out: Gimpo Airport and car hire. Once you are in the city, [Getting around Seoul](/getting-around/) takes over.
 
 ## AREX Express: the calm option
 
-The express runs nonstop from the airport to Seoul Station in about 43 minutes from Terminal 1. The adult fare is ₩13,000. It skips the commuter crowd, which matters more than the time saved after a long flight.
+Take it only if your hotel is near Seoul Station; otherwise the time it saves goes into a second transfer.
 
-It only helps if Seoul Station is close to where you are staying. From there you still need the subway or a taxi.
+The Express runs nonstop to Seoul Station in 43 minutes from Terminal 1 and 51 minutes from Terminal 2. The adult fare is ₩13,000, every seat is reserved, and there is free Wi-Fi. You can buy the ticket on arrival at the Express counter in the Transportation Center (B1, Terminal 1) or online; booking ahead is not required.
+
+If you would rather have the ticket on your phone before you land:
 
 {{aff:klook_airport|Book an AREX Express ticket in advance}}
 
 ## AREX all-stop: cheaper, and better for Hongdae
 
-The all-stop commuter train takes about an hour from Terminal 1 to Seoul Station. It costs much less than the express, and you pay by tapping a transport card at the gate. It also stops at **Hongik Univ.** (Hongdae) and **Gongdeok**, so for those areas it beats the express. At rush hour it fills with commuters, so a big suitcase is harder to manage.
+For Hongdae and Gongdeok this beats the Express: same line, about a third of the price, no change of train.
 
-You need a transport card before you board, so sort that out at the airport:
+It takes 59 minutes from Terminal 1 to Seoul Station (66 from Terminal 2). By transport card it costs ₩4,750 to Seoul Station and ₩4,650 to Hongik Univ. or Gongdeok; from Terminal 2 add ₩600. Seats are unreserved, like the subway, and at rush hour it fills with commuters.
+
+1. Follow the signs to the Transportation Center on B1.
+2. Get a transport card at a card machine or the convenience store there, and load it.
+3. Tap in at the AREX gate.
+4. Tap out at your station. A single ticket costs ₩100 more plus a ₩500 deposit you get back.
+
+> Climate Card trap: since 1 October 2026 the Climate Card short-term pass lets you ride to the airport and get off at Terminal 1 or 2, but you cannot board with it at the airport stations. For the ride into Seoul, pay with T-money.
+
+The airport shops sell transport cards, so pre-ordering is optional. If you want one waiting for you:
 
 {{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
 
 {{aff:klook_wowpass|Or a WOWPASS: money exchange, card payments and T-money in one}}
 
+{{fig:airport-to-seoul-2|Where to find the bus and the train at Terminal 1}}
+
 ## Airport limousine bus: the one people overlook
 
-Buses go straight to the main hotel districts, so for many hotels they end up faster door to door than the train plus a transfer. Adult fares into Seoul are about ₩16,000 to ₩18,000 depending on the route. Buy a ticket at the bus counters or kiosks in the arrivals hall; cards are accepted.
+For most hotels away from the AREX line, the bus is the fewest changes with luggage: one ticket, one seat, your bags under the bus.
+
+The ride takes about 60–80 minutes and adult fares into Seoul are ₩16,000–18,000. T-money works, but people with tickets board first, so buy one.
+
+1. Find your route number. Examples: **6001** Myeongdong and Dongdaemun, **6002** Hongdae and Jongno, **6020** Gangnam, **6200** Jamsil, **6701** Gwanghwamun and City Hall.
+2. Buy a ticket at the bus counter or a kiosk: Terminal 1 first floor (1F), Terminal 2 basement level. Cards are accepted.
+3. Go to the stop printed on your ticket.
+4. Hand your bags to the staff (up to two per person, 28 inches or smaller) and keep the claim tag.
+5. Get off at the announced stop and match the tag number to your bag.
+
+## Taxi: for three or four with bags
+
+The International Taxi has fixed fares from Incheon to Seoul, tolls included, which removes the meter worry.
+
+A mid-size car costs ₩70,000 (Gangseo) to ₩95,000 (Songpa, Gangdong and other eastern districts); Myeongdong's district, Jung-gu, is ₩85,000. Large and deluxe cars are ₩100,000–140,000. Desks are in both terminals and foreign cards are accepted. Split four ways, ₩85,000 is about ₩21,000 each, close to the bus fare.
 
 ## Landing late
 
-Check the last train on the AREX site before you fly. The schedule changed in October 2026, when more express trains were added, and late flights are often delayed. If you miss the trains, late-night airport buses run to central Seoul for about ₩17,000 to ₩18,000.
+Decide before you fly, because the trains stop earlier than people expect.
+
+{{fig:airport-to-seoul-3|What still runs from Terminal 1 late at night}}
+
+- The last AREX Express leaves Terminal 1 at 22:48 (Terminal 2 at 22:40), on the current weekday and weekend timetables.
+- Visit Seoul tells you to allow 1–2 hours after landing for immigration and baggage, so a flight landing after about 9 p.m. can miss it.
+- The all-stop train runs later; check its last train on the AREX site for your date.
+- After the trains, late-night buses run to Gangnam (N6000), Hongdae and Cheongnyangni (N6002), Seoul Station and Dongdaemun (N6701), and Jamsil and Gwangnaru (N6703) for ₩17,000–18,000. Buy the ticket at the bus counter or a machine.
 
 ## Sources
 
-- [Visit Seoul: Airport to Seoul (fares and times as of June 2026)](https://english.visitseoul.net/airport-to-seoul)
-- [Incheon Airport: AREX route and stations](https://www.airport.kr/ap_en/1512/subview.do)
-- [Incheon Airport: limousine bus fares and tickets](https://airport.kr/bbs/ap_en/937/138233/artclView.do)
-- [Incheon Airport: late-night buses](https://www.airport.kr/ap_en/1507/subview.do)
-- [Wikitree: AREX express runs rise from 52 to 56 a day from 23 October 2026](https://www.wikitree.co.kr/articles/1168084)
-- [AREX official site (timetables)](https://www.airportrailroad.com)
+<p class="sources">Opened 26 November 2026 (KST): AREX, <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">Express train</a> (times, fare, seats) and <a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">Express timetable</a>; AREX, <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">all-stop train</a> and <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">all-stop fares</a>; Visit Seoul, <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a> (fares and times as of June 2026; bus routes, luggage, ticket purchase); Incheon Airport, <a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">Airport Railroad guide</a>, <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">late-night buses</a> and <a href="https://www.airport.kr/bbs/ap_en/937/138233/artclView.do" rel="noopener" target="_blank">limousine bus booking guide</a>; Seoul Metropolitan Government, <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">taxi fares incl. International Taxi fixed fares</a> (updated 14 October 2026) and <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">Climate Card short-term pass</a> (updated 12 October 2026).</p>
