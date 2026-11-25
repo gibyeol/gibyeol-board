@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 516" role="img" aria-label="Can I bring my medicine into Korea?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Can I bring my medicine into Korea?</title>
+<rect width="400" height="516" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Can I bring my medicine into</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Korea?</text>
+<rect x="16" y="84" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="96" width="40" height="36" rx="8" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="48.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">?</text>
+<text x="80" y="118" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Does it contain a narcotic or</text>
+<text x="80" y="140" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">psychotropic ingredient?</text>
+<text x="80" y="162" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Check ingredients, not brand names</text>
+<text x="80" y="184" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(e.g. dextromethorphan)</text>
+<line x1="110" y1="200" x2="110" y2="230" stroke="#16151a" stroke-width="2.5"/>
+<line x1="290" y1="200" x2="290" y2="230" stroke="#16151a" stroke-width="2.5"/>
+<rect x="80" y="208" width="60" height="28" rx="14" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="110" y="228" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Yes</text>
+<rect x="260" y="208" width="60" height="28" rx="14" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="290" y="228" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">No</text>
+<rect x="16" y="244" width="180" height="182" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="28" y="278" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Get MFDS</text>
+<text x="28" y="300" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">approval before</text>
+<text x="28" y="322" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">you fly</text>
+<text x="28" y="344" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Apply on Drug</text>
+<text x="28" y="366" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Safety Korea.</text>
+<text x="28" y="388" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Allow up to 10</text>
+<text x="28" y="410" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">business days</text>
+<rect x="204" y="244" width="180" height="182" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="216" y="278" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Up to 6 bottles</text>
+<text x="216" y="300" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">More than that: up</text>
+<text x="216" y="322" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">to 3 months' supply</text>
+<text x="216" y="344" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">by the label</text>
+<text x="20" y="454" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">The six-bottle rule applies from 12 November</text>
+<text x="20" y="476" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2026. The medicine must be prescribed or</text>
+<text x="20" y="498" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">bought legally.</text>
+</svg>

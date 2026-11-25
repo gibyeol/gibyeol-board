@@ -3,7 +3,7 @@ title: Flying to Seoul for a K-pop concert: tickets, venues, bags and the night 
 description: How foreigners buy K-pop tickets in Korea, what the 2026 anti-scalping law changed, and how to reach KSPO Dome, Gocheok Sky Dome and Inspire Arena.
 lede: Buy only on the global site the agency names, in your passport name, and never from a reseller. Then book your hotel by venue, not by neighborhood vibe, because getting home after the encore is the hard part.
 section: seoul
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 ## The one-line judgment
 
@@ -18,9 +18,23 @@ updated: 2026-11-25
 
 What we left out: fan club membership how-tos (they change per agency and per tour), seat maps, and ticket prices. Who doesn't need this page: anyone going with a travel package that already includes the ticket and a shuttle.
 
+## A concert day, from booking to the last train
+
+Built from the facts below, not from a story.
+
+**The weeks before.** Your NOL World account shows a verified passport, the booking is in the exact romanized name on that passport, and your hotel is chosen by venue. While you wait, check the door-to-door time in Naver Map.
+
+**Show day.** The suitcase stays at the hotel. At the pickup counter you show your physical passport and the booking confirmation.
+
+**After the encore.** At KSPO Dome you already know your alternative: a walk of about 20 minutes to Hanseong Baekje (Line 9) instead of the crowd at Olympic Park. Taxis cost the most between 11 p.m. and 2 a.m.
+
+**The ending to plan for:** a ride back that you chose before the show started.
+
 ## Buying tickets as a foreigner
 
 **Find the right site first.** Each concert sells on one platform, chosen by the promoter. Check the agency's official notice before anything else. Korea JoongAng Daily lists global versions of Yes24 Ticket, Ticketlink, Interpark Ticket and Melon Ticket for people who don't live in Korea, and notes you need a separate account on the global site even if you have a Korean one.
+
+{{fig:concert-trip-1|From the agency's notice to ticket pickup}}
 
 **Interpark Global is now NOL World.** The foreigner ticket site run by NOL Universe became NOL World on 1 December 2025, at [world.nol.com](https://world.nol.com/en). Old guides that say "Global Interpark" mean this site. NOL World also sells city-to-venue shuttles and concert-plus-hotel packages for some shows.
 
@@ -37,7 +51,7 @@ Card declined at checkout? That is a money problem, not a ticket problem. See [m
 
 ## Resale and the 2026 law
 
-The amended Performance Act took effect on **28 August 2026** (The Fact, 14 September 2026). In short:
+The amended [Performance Act](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%97%B0%EB%B2%95) took effect on **28 August 2026** (The Fact, 14 September 2026). In short:
 
 - Reselling tickets above the price paid without the seller's consent, habitually or as a business, is illegal whether or not a macro was used.
 - Buying tickets for resale by getting around the fair process (other people's accounts, macros) is also banned.
@@ -46,6 +60,8 @@ The amended Performance Act took effect on **28 August 2026** (The Fact, 14 Sept
 The law targets sellers. For you, the practical risk is simpler: a ticket booked in someone else's name may not get you through pickup.
 
 ## The venues
+
+{{fig:concert-trip-2|Four venues on a schematic of Seoul and Incheon (not to scale)}}
 
 **KSPO Dome (Olympic Park, Songpa).** About 15,000 seats for concerts. Take Line 5 or 9 to Olympic Park Station, Exit 4, and walk about 7 minutes. On Line 5, board a train toward Macheon, because the line splits. After the show, NOL World suggests walking to Hanseong Baekje (Line 9, about 20 minutes) or Mongchontoseong (Line 8, about 23 minutes) to dodge the crowd at Olympic Park.
 
@@ -63,7 +79,9 @@ NOL World lists lockers at Olympic Park Station but gives no sizes or prices, an
 
 ## Getting back after the encore
 
-Thousands of people head for the same station at once. Two habits help: check your last train in Naver Map before the show, not after, and know your backup. Last trains, night buses (N routes) and taxi apps are on [getting around Seoul](/getting-around/). Late-night taxi fares carry a surcharge of up to 40%.
+Thousands of people head for the same station at once. Two habits help: check your last train in Naver Map before the show, not after, and know your backup. Last trains, night buses (N routes) and taxi apps are on [getting around Seoul](/getting-around/). Late-night taxi fares carry a surcharge of up to 40%. The most expensive band is 11 p.m. to 2 a.m., when a regular Seoul taxi starts at ₩6,700 with the surcharge already included ([Korea Herald](https://www.koreaherald.com/article/10915844), 27 October 2026).
+
+{{fig:concert-trip-3|Plan the ride home before the show}}
 
 ## Where to stay, by venue
 
@@ -74,4 +92,4 @@ Thousands of people head for the same station at once. Two habits help: check yo
 
 ## Sources
 
-<p class="sources">NOL World, interpark Global rebranding notice (24 November 2025); PR Newswire, interpark Global rebrands as NOL World (3 December 2025); Byline Network, NOL World launch (2 December 2025); NOL World listing, 2026 KO1KEYZ 1st Fan Meeting in Seoul (accessed 25 November 2026); NOL World, KSPO Dome venue guide (accessed 25 November 2026); NOL World app, App Store listing (accessed 25 November 2026); Korea JoongAng Daily, How to buy K-pop concert tickets for Korea (September 2024); The Fact, amended Performance Act explained (14 September 2026); Newsis, Performance Act amendment passed (29 January 2026); Korea Times, What K-pop concert venues will look like in 2027 (15 September 2026); Seoul Media Hub, Guil Station new exit (March 2016) and Gocheok Sky Dome surroundings (accessed 25 November 2026), Jamboree concert traffic measures (August 2023); Hankyung, Inspire Arena (23 January 2025); Rurubu, Inspire Arena access (updated 26 June 2026); CBS NoCut News, Inspire Arena shuttles (27 December 2023); Seoul taxi fare system (updated 14 October 2026).</p>
+<p class="sources">NOL World, interpark Global rebranding notice (24 November 2025); PR Newswire, interpark Global rebrands as NOL World (3 December 2025); Byline Network, NOL World launch (2 December 2025); NOL World listing, 2026 KO1KEYZ 1st Fan Meeting in Seoul (accessed 25 November 2026); NOL World, KSPO Dome venue guide (accessed 25 November 2026); NOL World app, App Store listing (accessed 25 November 2026); Korea JoongAng Daily, How to buy K-pop concert tickets for Korea (September 2024); The Fact, amended Performance Act explained (14 September 2026); Newsis, Performance Act amendment passed (29 January 2026); Korea Times, What K-pop concert venues will look like in 2027 (15 September 2026); Seoul Media Hub, Guil Station new exit (March 2016) and Gocheok Sky Dome surroundings (accessed 25 November 2026), Jamboree concert traffic measures (August 2023); Hankyung, Inspire Arena (23 January 2025); Rurubu, Inspire Arena access (updated 26 June 2026); CBS NoCut News, Inspire Arena shuttles (27 December 2023); Seoul taxi fare system (updated 14 October 2026). Re-opened on 26 November 2026: <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%97%B0%EB%B2%95" rel="noopener" target="_blank">Performance Act, Articles 4-2, 4-4 and 41 (law.go.kr; amendment of 27 February 2026, in force six months after promulgation)</a>; <a href="https://www.koreatimes.co.kr/entertainment/k-pop/20260915/what-k-pop-concert-venues-will-look-like-in-2027" rel="noopener" target="_blank">Korea Times, venues in 2027 (15 September 2026)</a>; <a href="https://www.koreaherald.com/article/10915844" rel="noopener" target="_blank">Korea Herald, Seoul taxi fares (27 October 2026)</a>; Wikipedia, <a href="https://en.wikipedia.org/wiki/KSPO_Dome" rel="noopener" target="_blank">KSPO Dome</a> and <a href="https://en.wikipedia.org/wiki/Inspire_Arena" rel="noopener" target="_blank">Inspire Arena</a> (capacity 15,000). The other sources were checked for the previous edition and not re-opened.</p>

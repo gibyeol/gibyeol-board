@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 714" role="img" aria-label="4つの会場と行き方" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>4つの会場と行き方</title>
+<rect width="400" height="714" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">4つの会場と行き方</text>
+<rect x="16" y="58" width="368" height="222" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<path d="M16,150 C90,128 150,176 230,154 S340,128 384,146" fill="none" stroke="#e9e2d3" stroke-width="16"/>
+<text x="250" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">漢江</text>
+<text x="28" y="82" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">西</text>
+<text x="372" y="82" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="end">東</text>
+<circle cx="310" cy="198" r="9" fill="#b8392f" stroke="#ffffff" stroke-width="2"/>
+<text x="310" y="228" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">KSPO</text>
+<circle cx="150" cy="208" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="150" y="238" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">高尺</text>
+<circle cx="180" cy="108" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="92" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">W杯</text>
+<circle cx="50" cy="198" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="32" y="228" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">インスパイア</text>
+<text x="28" y="118" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">仁川空港</text>
+<line x1="50" y1="128" x2="50" y2="186" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="372" y="268" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="end">略図(縮尺なし)</text>
+<rect x="16" y="290" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="302" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="326" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="324" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">KSPO DOME</text>
+<text x="80" y="346" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">5・9号線オリンピック公園駅4番出口、</text>
+<text x="80" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">徒歩約7分. 約1万5千席。宿:江南か蚕室</text>
+<rect x="16" y="394" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="406" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="430" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="428" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">高尺スカイドーム</text>
+<text x="80" y="450" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1号線九一(クイル)駅. 約2万人。宿:1号</text>
+<text x="80" y="472" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">線に乗りやすい所</text>
+<rect x="16" y="498" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="510" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="534" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="532" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">ソウルワールドカップ競技場</text>
+<text x="80" y="554" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">6号線ワールドカップ競技場駅. 6万6千</text>
+<text x="80" y="576" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">席以上。宿:弘大がいちばん近い</text>
+<rect x="16" y="602" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="614" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="638" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="636" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">インスパイア・アリーナ</text>
+<text x="80" y="658" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">仁川空港から車で約15分. 約1万5千席。</text>
+<text x="80" y="680" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ソウル中心部までタクシー1〜1.5時間</text>
+</svg>

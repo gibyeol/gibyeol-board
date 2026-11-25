@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" role="img" aria-label="A clinic visit without Korean insurance" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>A clinic visit without Korean insurance</title>
+<rect width="400" height="540" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">A clinic visit without Korean</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">insurance</text>
+<rect x="16" y="84" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="96" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="118" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Pick a small clinic (uiwon)</text>
+<text x="80" y="140" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Colds, skin trouble, an upset</text>
+<text x="80" y="162" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">stomach. Hospitals are for scans,</text>
+<text x="80" y="184" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">admission, surgery</text>
+<rect x="16" y="210" width="368" height="60" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="222" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="246" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="244" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Bring your passport</text>
+<rect x="16" y="280" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="292" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="316" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="314" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Pay the full price yourself</text>
+<text x="80" y="336" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Typical clinic visit: about</text>
+<text x="80" y="358" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">₩30,000–60,000 without insurance</text>
+<text x="80" y="380" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(Naeil Shinmun)</text>
+<rect x="16" y="406" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="418" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="442" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="440" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Ask for an itemized receipt in</text>
+<text x="80" y="462" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">English</text>
+<text x="80" y="484" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Keep every receipt for your</text>
+<text x="80" y="506" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">insurance claim</text>
+</svg>

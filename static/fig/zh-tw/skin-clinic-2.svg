@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 368" role="img" aria-label="登錄機構必須另外給你的說明" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>登錄機構必須另外給你的說明</title>
+<rect width="400" height="368" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">登錄機構必須另外給你的說明</text>
+<rect x="16" y="58" width="368" height="216" rx="4" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<line x1="16" y1="66" x2="384" y2="66" stroke="#b8392f" stroke-width="4"/>
+<rect x="30" y="84" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,96 L39,101 L49,89" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="101" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">診斷</text>
+<line x1="30" y1="118" x2="370" y2="118" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="120" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,132 L39,137 L49,125" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="137" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">治療方法</text>
+<line x1="30" y1="154" x2="370" y2="154" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="156" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,168 L39,173 L49,161" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="173" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">可能的副作用</text>
+<line x1="30" y1="190" x2="370" y2="190" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="192" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,204 L39,209 L49,197" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="209" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">診療契約書與預估費用</text>
+<line x1="30" y1="226" x2="370" y2="226" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="228" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,240 L39,245 L49,233" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="245" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">醫療事故的爭議處理程序</text>
+<line x1="30" y1="262" x2="370" y2="262" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="16" y="286" width="368" height="38" rx="10" fill="#e9e2d3" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="312" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">簽名前,用你看得懂的語言</text>
+<text x="20" y="350" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">問醫師:誰執行、回診安排、何時可以搭機</text>
+</svg>

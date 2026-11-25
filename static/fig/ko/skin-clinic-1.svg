@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 506" role="img" aria-label="예약 전에 의료기관 조회" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>예약 전에 의료기관 조회</title>
+<rect width="400" height="506" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">예약 전에 의료기관 조회</text>
+<rect x="16" y="58" width="368" height="60" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="70" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="94" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="92" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">의료기관의 한글 이름 복사</text>
+<rect x="16" y="128" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="140" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="164" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="162" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">메디컬코리아 등록 명단에서 검색</text>
+<text x="80" y="184" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">medicalkorea.or.kr: 이름·종류·지역</text>
+<rect x="16" y="210" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="222" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="246" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="244" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">등록돼 있고 유효한가?</text>
+<text x="80" y="266" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">유치업자(에이전시·앱)도 같은</text>
+<text x="80" y="288" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">방법으로</text>
+<rect x="16" y="318" width="368" height="120" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="32" y="334" width="88" height="88" rx="2" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<line x1="46" y1="358" x2="106" y2="358" stroke="#c9c1b2" stroke-width="3"/>
+<line x1="46" y1="372" x2="106" y2="372" stroke="#c9c1b2" stroke-width="3"/>
+<line x1="46" y1="386" x2="106" y2="386" stroke="#c9c1b2" stroke-width="3"/>
+<line x1="46" y1="400" x2="106" y2="400" stroke="#c9c1b2" stroke-width="3"/>
+<circle cx="96" cy="408" r="8" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="134" y="348" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">외국인환자 유치 등록증</text>
+<text x="134" y="370" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">누구나 볼 수 있게 게시해야 해요</text>
+<rect x="16" y="450" width="368" height="38" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="30" y="476" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">등록은 품질 평가가 아니에요</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 380" role="img" aria-label="가져오는 약, 반입될까?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>가져오는 약, 반입될까?</title>
+<rect width="400" height="380" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">가져오는 약, 반입될까?</text>
+<rect x="16" y="58" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="70" width="40" height="36" rx="8" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="48.0" y="94" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">?</text>
+<text x="80" y="92" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">마약류·향정신성 성분이 들었나요?</text>
+<text x="80" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">상품명이 아니라 성분 확인(예:</text>
+<text x="80" y="136" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">덱스트로메토르판)</text>
+<line x1="110" y1="152" x2="110" y2="182" stroke="#16151a" stroke-width="2.5"/>
+<line x1="290" y1="152" x2="290" y2="182" stroke="#16151a" stroke-width="2.5"/>
+<rect x="80" y="160" width="60" height="28" rx="14" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="110" y="180" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">예</text>
+<rect x="260" y="160" width="60" height="28" rx="14" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="290" y="180" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">아니요</text>
+<rect x="16" y="196" width="180" height="116" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="28" y="230" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">입국 전에 식약처</text>
+<text x="28" y="252" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">승인</text>
+<text x="28" y="274" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">의약품안전나라에서</text>
+<text x="28" y="296" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">신청, 최대 10영업일</text>
+<rect x="204" y="196" width="180" height="116" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="216" y="230" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">6병까지</text>
+<text x="216" y="252" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">그보다 많으면 용법</text>
+<text x="216" y="274" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">기준 3개월분 이내</text>
+<text x="20" y="340" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">6병 기준은 2026년 11월 12일부터. 정상적으로</text>
+<text x="20" y="362" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">처방받거나 산 약이어야 해요.</text>
+</svg>

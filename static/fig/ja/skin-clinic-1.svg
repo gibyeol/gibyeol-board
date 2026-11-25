@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 496" role="img" aria-label="予約前にクリニックを確認" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>予約前にクリニックを確認</title>
+<rect width="400" height="496" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">予約前にクリニックを確認</text>
+<rect x="16" y="58" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="70" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="94" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="92" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">クリニックのハングル名をコピー</text>
+<text x="80" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">登録システムは韓国語のサイトです</text>
+<rect x="16" y="140" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="152" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="176" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="174" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Medical Korea の登録名簿で検索</text>
+<text x="80" y="196" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">medicalkorea.or.kr:名前・種類・地域</text>
+<rect x="16" y="222" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="234" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="258" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="256" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">登録済みで有効?</text>
+<text x="80" y="278" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">代理店や予約アプリも同じように確認</text>
+<rect x="16" y="308" width="368" height="120" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="32" y="324" width="88" height="88" rx="2" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<line x1="46" y1="348" x2="106" y2="348" stroke="#c9c1b2" stroke-width="3"/>
+<line x1="46" y1="362" x2="106" y2="362" stroke="#c9c1b2" stroke-width="3"/>
+<line x1="46" y1="376" x2="106" y2="376" stroke="#c9c1b2" stroke-width="3"/>
+<line x1="46" y1="390" x2="106" y2="390" stroke="#c9c1b2" stroke-width="3"/>
+<circle cx="96" cy="398" r="8" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="134" y="338" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">外国人患者誘致の登録証</text>
+<text x="134" y="360" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">誰でも見える場所に掲示する決</text>
+<text x="134" y="382" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">まり</text>
+<rect x="16" y="440" width="368" height="38" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="30" y="466" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">登録は品質の評価ではありません</text>
+</svg>

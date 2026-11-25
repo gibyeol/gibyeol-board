@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 482" role="img" aria-label="What a registered clinic must give you in writing" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>What a registered clinic must give you in writing</title>
+<rect width="400" height="482" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">What a registered clinic must give</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">you in writing</text>
+<rect x="16" y="84" width="368" height="260" rx="4" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<line x1="16" y1="92" x2="384" y2="92" stroke="#b8392f" stroke-width="4"/>
+<rect x="30" y="110" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,122 L39,127 L49,115" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="127" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Diagnosis</text>
+<line x1="30" y1="144" x2="370" y2="144" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="146" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,158 L39,163 L49,151" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="163" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Treatment method</text>
+<line x1="30" y1="180" x2="370" y2="180" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="182" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,194 L39,199 L49,187" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="199" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Possible side effects</text>
+<line x1="30" y1="216" x2="370" y2="216" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="218" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,230 L39,235 L49,223" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="235" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Treatment contract and estimated</text>
+<text x="66" y="257" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">cost</text>
+<line x1="30" y1="274" x2="370" y2="274" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="30" y="276" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M34,288 L39,293 L49,281" fill="none" stroke="#b8392f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="66" y="293" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Dispute procedure if something goes</text>
+<text x="66" y="315" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">wrong</text>
+<line x1="30" y1="332" x2="370" y2="332" stroke="#e9e2d3" stroke-width="1.5"/>
+<rect x="16" y="356" width="368" height="60" rx="10" fill="#e9e2d3" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="382" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">In a language you can read, before you</text>
+<text x="30" y="404" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">sign</text>
+<text x="20" y="442" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Ask the doctor: who does it, follow-up, when</text>
+<text x="20" y="464" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">you can fly</text>
+</svg>

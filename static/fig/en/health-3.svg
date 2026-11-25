@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" role="img" aria-label="Find the sign, then find one that is open" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Find the sign, then find one that is open</title>
+<rect width="400" height="560" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Find the sign, then find one that</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">is open</text>
+<rect x="16" y="84" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="32" y="98" width="92" height="68" rx="6" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="78" y="146" font-size="40" font-weight="700" fill="#ffffff" text-anchor="middle">약</text>
+<text x="140" y="138" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">= medicine (pharmacy)</text>
+<rect x="16" y="190" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="202" width="40" height="36" rx="8" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="48.0" y="226" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="224" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">E-Gen (e-gen.or.kr)</text>
+<text x="80" y="246" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Area → pharmacy → date or holiday</text>
+<rect x="16" y="272" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="284" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="308" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="306" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Late-night pharmacies</text>
+<text x="80" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Designated by local governments:</text>
+<text x="80" y="350" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">often 10 p.m. to midnight or later</text>
+<rect x="16" y="376" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="388" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="412" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="410" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Holiday pharmacies</text>
+<text x="80" y="432" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Weekend and holiday hours on</text>
+<text x="80" y="454" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">pharm114.or.kr</text>
+<rect x="16" y="482" width="368" height="60" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="30" y="508" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Korean-only at midnight? Call 1339 or</text>
+<text x="30" y="530" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">ask your hotel front desk.</text>
+</svg>

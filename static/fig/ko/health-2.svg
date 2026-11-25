@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 512" role="img" aria-label="24시간 편의점의 상비약 선반" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>24시간 편의점의 상비약 선반</title>
+<rect width="400" height="512" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">24시간 편의점의 상비약 선반</text>
+<rect x="16" y="58" width="368" height="210" rx="8" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="72" width="166" height="84" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="42" y="84" width="26" height="30" rx="4" fill="#b8392f" stroke="none" stroke-width="1"/>
+<rect x="76" y="84" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="110" y="84" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="42" y="140" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">해열진통제</text>
+<rect x="206" y="72" width="166" height="84" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="220" y="84" width="26" height="30" rx="4" fill="#b8392f" stroke="none" stroke-width="1"/>
+<rect x="254" y="84" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="288" y="84" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="220" y="140" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">감기약</text>
+<rect x="28" y="170" width="166" height="84" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="42" y="182" width="26" height="30" rx="4" fill="#b8392f" stroke="none" stroke-width="1"/>
+<rect x="76" y="182" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="110" y="182" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="42" y="238" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">소화제</text>
+<rect x="206" y="170" width="166" height="84" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="220" y="182" width="26" height="30" rx="4" fill="#b8392f" stroke="none" stroke-width="1"/>
+<rect x="254" y="182" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="288" y="182" width="26" height="30" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="220" y="238" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">파스</text>
+<text x="20" y="290" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">실제로는 11개 품목(지정 13개 중 2개 생산</text>
+<text x="20" y="312" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">중단)</text>
+<path d="M23,339 L28,344 L38,332" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="52" y="348" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">등록한 연중무휴 24시간 점포만</text>
+<path d="M23,371 L28,376 L38,364" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="52" y="380" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">같은 약은 한 번에 한 통만</text>
+<path d="M24,396 L36,408 M36,396 L24,408" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="52" y="412" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">약사 상담 없음</text>
+<path d="M24,428 L36,440 M36,428 L24,440" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="52" y="444" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">목록에 없는 것: 지사제, 화상 연고</text>
+<rect x="16" y="456" width="368" height="38" rx="10" fill="#e9e2d3" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="482" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">증상이 이어지면 의원으로</text>
+</svg>

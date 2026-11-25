@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 736" role="img" aria-label="공연장 네 곳, 가는 길" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>공연장 네 곳, 가는 길</title>
+<rect width="400" height="736" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">공연장 네 곳, 가는 길</text>
+<rect x="16" y="58" width="368" height="222" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<path d="M16,150 C90,128 150,176 230,154 S340,128 384,146" fill="none" stroke="#e9e2d3" stroke-width="16"/>
+<text x="250" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">한강</text>
+<text x="28" y="82" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">서</text>
+<text x="372" y="82" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="end">동</text>
+<circle cx="310" cy="198" r="9" fill="#b8392f" stroke="#ffffff" stroke-width="2"/>
+<text x="310" y="228" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">KSPO돔</text>
+<circle cx="150" cy="208" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="150" y="238" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">고척</text>
+<circle cx="180" cy="108" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="92" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">월드컵</text>
+<circle cx="50" cy="198" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="32" y="228" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">인스파이어</text>
+<text x="28" y="118" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">인천공항</text>
+<line x1="50" y1="128" x2="50" y2="186" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="372" y="268" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="end">개략도, 실제 축척 아님</text>
+<rect x="16" y="290" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="302" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="326" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="324" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">KSPO돔</text>
+<text x="80" y="346" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">5·9호선 올림픽공원역 4번 출구,</text>
+<text x="80" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">걸어서 약 7분. 약 1만 5천 석. 숙소:</text>
+<text x="80" y="390" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">강남·잠실</text>
+<rect x="16" y="416" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="428" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="452" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="450" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">고척스카이돔</text>
+<text x="80" y="472" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1호선 구일역. 약 2만 명. 숙소: 1호선</text>
+<text x="80" y="494" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">타기 쉬운 곳</text>
+<rect x="16" y="520" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="532" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="556" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="554" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">서울월드컵경기장</text>
+<text x="80" y="576" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">6호선 월드컵경기장역. 6만 6천 석</text>
+<text x="80" y="598" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">이상. 숙소: 홍대가 가장 가까워요</text>
+<rect x="16" y="624" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="636" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="660" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="658" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">인스파이어 아레나</text>
+<text x="80" y="680" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">인천공항에서 차로 약 15분. 약 1만 5천</text>
+<text x="80" y="702" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">석. 서울 도심까지 택시 1~1.5시간</text>
+</svg>

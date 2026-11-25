@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 676" role="img" aria-label="K-POPチケットを海外から買う流れ" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>K-POPチケットを海外から買う流れ</title>
+<rect width="400" height="676" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">K-POPチケットを海外から買う流れ</text>
+<rect x="16" y="58" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="70" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="94" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="92" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">事務所の公式告知を見る</text>
+<text x="80" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">その公演を売るサイトが1か所書いてあ</text>
+<text x="80" y="136" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ります</text>
+<line x1="48" y1="153" x2="48" y2="163" stroke="#16151a" stroke-width="2.5"/>
+<path d="M41,161 L48,171 L55,161 z" fill="#16151a"/>
+<rect x="16" y="172" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="184" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="208" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="206" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">グローバル版に登録</text>
+<text x="80" y="228" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">多くはNOL World(world.nol.com)。韓</text>
+<text x="80" y="250" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">国のアカウントとは別</text>
+<line x1="48" y1="267" x2="48" y2="277" stroke="#16151a" stroke-width="2.5"/>
+<path d="M41,275 L48,285 L55,275 z" fill="#16151a"/>
+<rect x="16" y="286" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="298" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="322" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="320" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">パスポート認証</text>
+<text x="80" y="342" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">「Verified Member Only」の公演は先</text>
+<text x="80" y="364" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">に認証</text>
+<line x1="48" y1="381" x2="48" y2="391" stroke="#16151a" stroke-width="2.5"/>
+<path d="M41,389 L48,399 L55,389 z" fill="#16151a"/>
+<rect x="16" y="400" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="412" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="436" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="434" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">パスポートの名前で予約</text>
+<text x="80" y="456" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ローマ字のつづりどおり。枚数制限は</text>
+<text x="80" y="478" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">公演ごと</text>
+<line x1="48" y1="495" x2="48" y2="505" stroke="#16151a" stroke-width="2.5"/>
+<path d="M41,503 L48,513 L55,503 z" fill="#16151a"/>
+<rect x="16" y="514" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="526" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="550" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="80" y="548" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">会場で受け取り</text>
+<text x="80" y="570" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">身分証の実物+予約確認。予約した本人</text>
+<text x="80" y="592" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">だけ</text>
+<rect x="16" y="620" width="368" height="38" rx="10" fill="#e9e2d3" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="646" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">転売チケットには手を出さない</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 806" role="img" aria-label="Four venues and how to reach them" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Four venues and how to reach them</title>
+<rect width="400" height="806" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Four venues and how to reach</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">them</text>
+<rect x="16" y="84" width="368" height="222" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<path d="M16,176 C90,154 150,202 230,180 S340,154 384,172" fill="none" stroke="#e9e2d3" stroke-width="16"/>
+<text x="250" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Han River</text>
+<text x="28" y="108" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">West</text>
+<text x="372" y="108" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="end">East</text>
+<circle cx="310" cy="224" r="9" fill="#b8392f" stroke="#ffffff" stroke-width="2"/>
+<text x="310" y="254" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">KSPO</text>
+<circle cx="150" cy="234" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="150" y="264" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Gocheok</text>
+<circle cx="180" cy="134" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="180" y="118" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">World Cup</text>
+<circle cx="50" cy="224" r="9" fill="#16151a" stroke="#ffffff" stroke-width="2"/>
+<text x="32" y="254" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Inspire</text>
+<text x="28" y="144" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Incheon Airport</text>
+<line x1="50" y1="154" x2="50" y2="212" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="4 4"/>
+<text x="372" y="294" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="end">Schematic, not to scale</text>
+<rect x="16" y="316" width="368" height="138" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="328" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="352" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="350" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">KSPO Dome</text>
+<text x="80" y="372" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Olympic Park Stn, Lines 5 and 9,</text>
+<text x="80" y="394" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Exit 4, about 7 min walk. About</text>
+<text x="80" y="416" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">15,000 seats. Stay: Gangnam or</text>
+<text x="80" y="438" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Jamsil</text>
+<rect x="16" y="464" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="476" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="500" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="498" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Gocheok Sky Dome</text>
+<text x="80" y="520" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Guil Stn, Line 1. About 20,000.</text>
+<text x="80" y="542" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Stay: an easy ride on Line 1</text>
+<rect x="16" y="568" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="580" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="604" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="602" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Seoul World Cup Stadium</text>
+<text x="80" y="624" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">World Cup Stadium Stn, Line 6.</text>
+<text x="80" y="646" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">66,000+. Stay: Hongdae is nearest</text>
+<rect x="16" y="672" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="684" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="708" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="80" y="706" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Inspire Arena</text>
+<text x="80" y="728" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">About 15 min by car from the</text>
+<text x="80" y="750" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">airport. About 15,000. Taxi to</text>
+<text x="80" y="772" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">central Seoul: 1 to 1.5 hours</text>
+</svg>

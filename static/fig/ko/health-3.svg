@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 534" role="img" aria-label="간판을 찾고, 문 연 곳을 찾기" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>간판을 찾고, 문 연 곳을 찾기</title>
+<rect width="400" height="534" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">간판을 찾고, 문 연 곳을 찾기</text>
+<rect x="16" y="58" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="32" y="72" width="92" height="68" rx="6" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="78" y="120" font-size="40" font-weight="700" fill="#ffffff" text-anchor="middle">약</text>
+<text x="140" y="112" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">= 약국</text>
+<rect x="16" y="164" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="176" width="40" height="36" rx="8" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="48.0" y="200" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="198" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">이젠(e-gen.or.kr)</text>
+<text x="80" y="220" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">지역 → 약국 → 날짜나 연휴</text>
+<rect x="16" y="246" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="258" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="282" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="280" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">공공심야약국</text>
+<text x="80" y="302" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">지자체 지정, 보통 밤 10시부터</text>
+<text x="80" y="324" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">자정이나 새벽까지</text>
+<rect x="16" y="350" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="362" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="386" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="384" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">휴일지킴이 약국</text>
+<text x="80" y="406" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">pharm114.or.kr에서 주말·휴일</text>
+<text x="80" y="428" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">영업시간</text>
+<rect x="16" y="456" width="368" height="60" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="30" y="482" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">외국인 친구에게 어렵다면 대신 찾아 주거나</text>
+<text x="30" y="504" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">1339</text>
+</svg>

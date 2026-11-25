@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 428" role="img" aria-label="앙코르 뒤: 돌아갈 길부터 정하기" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>앙코르 뒤: 돌아갈 길부터 정하기</title>
+<rect width="400" height="428" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">앙코르 뒤: 돌아갈 길부터 정하기</text>
+<rect x="16" y="58" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="70" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="94" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="92" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">공연 전에</text>
+<text x="80" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">네이버 지도로 막차 확인, 대안 정해</text>
+<text x="80" y="136" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">두기</text>
+<rect x="16" y="162" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="174" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="198" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="196" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">KSPO돔: 붐비는 역 피하기</text>
+<text x="80" y="218" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">한성백제역(9호선, 걸어서 약 20분)이나</text>
+<text x="80" y="240" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">몽촌토성역(8호선, 약 23분)</text>
+<rect x="16" y="266" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="278" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="302" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="300" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">막차를 놓쳤다면</text>
+<text x="80" y="322" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">심야버스(N번)나 택시 앱</text>
+<rect x="16" y="350" width="368" height="60" rx="10" fill="#e9e2d3" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="376" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">택시는 밤 11시~새벽 2시가 가장</text>
+<text x="30" y="398" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">비싸요(최대 40% 할증)</text>
+</svg>

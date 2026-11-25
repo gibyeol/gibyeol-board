@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 476" role="img" aria-label="After the encore: plan the ride home first" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>After the encore: plan the ride home first</title>
+<rect width="400" height="476" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">After the encore: plan the ride</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">home first</text>
+<rect x="16" y="84" width="368" height="94" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="96" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="120" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="118" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Before the show</text>
+<text x="80" y="140" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Check your last train in Naver Map.</text>
+<text x="80" y="162" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Know your backup</text>
+<rect x="16" y="188" width="368" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="200" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="224" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="222" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">KSPO Dome: skip the crowd</text>
+<text x="80" y="244" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Walk to Hanseong Baekje (Line 9,</text>
+<text x="80" y="266" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">about 20 min) or Mongchontoseong</text>
+<text x="80" y="288" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(Line 8, about 23 min)</text>
+<rect x="16" y="314" width="368" height="72" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="326" width="40" height="36" rx="8" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="48.0" y="350" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="348" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Missed the last train?</text>
+<text x="80" y="370" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Night buses (N routes) or a taxi app</text>
+<rect x="16" y="398" width="368" height="60" rx="10" fill="#e9e2d3" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="424" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Taxis cost most from 11 p.m. to 2 a.m.</text>
+<text x="30" y="446" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">(surcharge up to 40%).</text>
+</svg>

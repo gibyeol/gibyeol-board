@@ -3,7 +3,7 @@ title: 飛首爾追星看演唱會:外國人買票、場館交通、行李與散
 description: 外國人怎麼買韓國K-POP演唱會門票、2026年打擊黃牛新法改了什麼,以及KSPO DOME、高尺巨蛋、Inspire Arena怎麼去。
 lede: 票只在經紀公司指定的國際版網站買,用護照上的英文名,黃牛票一律不碰。飯店依場館選,不要依街區氛圍選,因為最難的是安可結束後怎麼回去。
 section: seoul
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 ## 先說結論
 
@@ -18,9 +18,23 @@ updated: 2026-11-25
 
 沒寫進來的:粉絲俱樂部加入方法(每家公司、每次巡演都不同)、座位圖、票價。不需要這頁的人:參加含門票和接駁車套裝行程的人。
 
+## 從訂票到末班車:演唱會這一天
+
+依下面的事實排出的流程,不是親身故事。
+
+**幾週前。** NOL World 帳號完成護照認證,訂票用護照上的英文拼法,飯店依場館選好。等待的這段時間,先用 NAVER 地圖查好飯店到場館要多久。
+
+**當天。** 行李箱留在飯店。取票櫃台出示護照正本和訂票確認。
+
+**安可之後。** 在 KSPO DOME 的話,你早就決定好不擠奧林匹克公園站,改走約 20 分鐘到漢城百濟站(9 號線)。計程車晚上 11 點到凌晨 2 點最貴。
+
+**最後一幕:** 搭上開演前就決定好的回程。
+
 ## 外國人怎麼買票
 
 **先確認在哪裡賣。** 每場演唱會只在主辦方指定的一個平台販售,先看經紀公司的官方公告。韓國英文報《Korea JoongAng Daily》整理過:YES24 Ticket、Ticketlink、Interpark Ticket、Melon Ticket都有給海外居住者用的國際版;就算你已有韓國帳號,國際版也要另外註冊。
+
+{{fig:concert-trip-1|從經紀公司公告到現場取票}}
 
 **Interpark Global現在叫NOL World。** NOL Universe經營的外國人購票網站,2025年12月1日改名為NOL World([world.nol.com](https://world.nol.com))。舊文章裡的「Global Interpark」指的就是這裡。部分場次也賣市區到場館的接駁車,和演唱會加飯店的套裝。
 
@@ -37,7 +51,7 @@ updated: 2026-11-25
 
 ## 黃牛與2026年新法
 
-修正後的《公演法》在**2026年8月28日**上路(The Fact,2026年9月14日):
+修正後的[《公演法》](https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%97%B0%EB%B2%95)在**2026年8月28日**上路(The Fact,2026年9月14日):
 
 - 未經原售票方同意,以高於購買價格轉賣,而且是常態性或營業性的,不論有沒有用外掛都違法。
 - 用他人帳號或外掛繞過正常流程、以轉賣為目的買票,也被禁止。
@@ -46,6 +60,8 @@ updated: 2026-11-25
 受罰的是賣方。對買方來說,實際風險更直接:用別人名字訂的票,可能在取票時就被擋下。
 
 ## 各場館重點
+
+{{fig:concert-trip-2|首爾、仁川 4 個場館示意圖(非實際比例)}}
 
 **KSPO DOME(奧林匹克公園,松坡區)。** 演唱會約15,000席。搭5號或9號線到奧林匹克公園站,4號出口,走約7分鐘。5號線中途分岔,要搭往馬川方向的車。散場後可照NOL World的建議,走到漢城百濟站(9號線,約20分鐘)或夢村土城站(8號線,約23分鐘),避開奧林匹克公園站人潮。
 
@@ -63,7 +79,9 @@ NOL World只提到奧林匹克公園站有置物櫃,沒寫尺寸和費用;其他
 
 ## 安可後怎麼回去
 
-幾千人會同時湧向同一個車站。開演前先用NAVER地圖查好末班車,並想好備案。末班車、深夜公車(N字頭)和叫車App都整理在[首爾交通](/zh-tw/getting-around/)。深夜計程車最多加成40%。
+幾千人會同時湧向同一個車站。開演前先用NAVER地圖查好末班車,並想好備案。末班車、深夜公車(N字頭)和叫車App都整理在[首爾交通](/zh-tw/getting-around/)。深夜計程車最多加成40%。最貴的時段是晚上11點到凌晨2點,首爾一般計程車起跳價含加成為6,700韓元([Korea Herald](https://www.koreaherald.com/article/10915844),2026年10月27日)。
+
+{{fig:concert-trip-3|開演前先想好回程}}
 
 ## 依場館選住宿
 
@@ -74,4 +92,4 @@ NOL World只提到奧林匹克公園站有置物櫃,沒寫尺寸和費用;其他
 
 ## 資料來源
 
-<p class="sources">NOL World,interpark Global品牌更名公告(2025年11月24日);PR Newswire,interpark Global更名為NOL World(2025年12月3日);Byline Network,NOL World改版(2025年12月2日);NOL World販售頁,2026 KO1KEYZ 1st Fan Meeting in Seoul(2026年11月25日確認);NOL World,KSPO DOME場館指南(2026年11月25日確認);NOL World App Store頁面(2026年11月25日確認);Korea JoongAng Daily,How to buy K-pop concert tickets for Korea(2024年9月);The Fact,修正公演法解說(2026年9月14日);Newsis,公演法修正案通過(2026年1月29日);Korea Times,What K-pop concert venues will look like in 2027(2026年9月15日);首爾市Media Hub,九一站新出口(2016年3月)、高尺巨蛋周邊(2026年11月25日確認)、Jamboree演唱會交通措施(2023年8月);韓國經濟新聞,Inspire Arena(2025年1月23日);Rurubu,Inspire Arena交通(2026年6月26日更新);CBS NoCut News,Inspire Arena接駁車(2023年12月27日);首爾市計程車費率(2026年10月14日更新)。</p>
+<p class="sources">NOL World,interpark Global品牌更名公告(2025年11月24日);PR Newswire,interpark Global更名為NOL World(2025年12月3日);Byline Network,NOL World改版(2025年12月2日);NOL World販售頁,2026 KO1KEYZ 1st Fan Meeting in Seoul(2026年11月25日確認);NOL World,KSPO DOME場館指南(2026年11月25日確認);NOL World App Store頁面(2026年11月25日確認);Korea JoongAng Daily,How to buy K-pop concert tickets for Korea(2024年9月);The Fact,修正公演法解說(2026年9月14日);Newsis,公演法修正案通過(2026年1月29日);Korea Times,What K-pop concert venues will look like in 2027(2026年9月15日);首爾市Media Hub,九一站新出口(2016年3月)、高尺巨蛋周邊(2026年11月25日確認)、Jamboree演唱會交通措施(2023年8月);韓國經濟新聞,Inspire Arena(2025年1月23日);Rurubu,Inspire Arena交通(2026年6月26日更新);CBS NoCut News,Inspire Arena接駁車(2023年12月27日);首爾市計程車費率(2026年10月14日更新)。 2026 年 11 月 26 日重新確認:<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B3%B5%EC%97%B0%EB%B2%95" rel="noopener" target="_blank">《公演法》第 4 條之 2、第 4 條之 4、第 41 條(國家法令資訊中心,2026 年 2 月 27 日修正,公布 6 個月後施行)</a>;<a href="https://www.koreatimes.co.kr/entertainment/k-pop/20260915/what-k-pop-concert-venues-will-look-like-in-2027" rel="noopener" target="_blank">Korea Times 2027 年場館(2026 年 9 月 15 日)</a>;<a href="https://www.koreaherald.com/article/10915844" rel="noopener" target="_blank">Korea Herald 首爾計程車費(2026 年 10 月 27 日)</a>;Wikipedia <a href="https://en.wikipedia.org/wiki/KSPO_Dome" rel="noopener" target="_blank">KSPO Dome</a>、<a href="https://en.wikipedia.org/wiki/Inspire_Arena" rel="noopener" target="_blank">Inspire Arena</a>(容納 15,000 人)。其餘來源為前一版確認,這次沒有重新開啟。</p>
