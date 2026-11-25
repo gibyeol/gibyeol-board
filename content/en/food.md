@@ -32,7 +32,7 @@ The dishes come from KTO's food pages, which also say what each "usually has" in
 
 **BBQ night.** Samgyeopsal is grilled pork belly. Dakgalbi, spicy chicken stir-fried with cabbage, sweet potato and rice cakes on a big pan, works the same way. Budae jjigae ("army stew" with sausage and ham) is one big pot for the table.
 
-**Market and street food.** Tteokbokki (rice cakes in sweet-spicy sauce, usually with fish cake), eomuk (fish cake skewers in broth), hotteok (pancake with brown sugar, cinnamon and nuts) and bungeoppang (fish-shaped pastry with red bean; no fish in it). Small stalls often can't take foreign cards, so carry small notes; see [Money in Korea](/money/).
+**Market and street food.** Tteokbokki (rice cakes in sweet-spicy sauce, usually with fish cake), eomuk (fish cake skewers in broth), twigim (fried vegetables, sweet potato or squid; dip it in the tteokbokki sauce), hotteok (pancake with brown sugar, cinnamon and nuts), gyeranppang (bread baked with a whole egg) and bungeoppang (fish-shaped pastry with red bean; no fish in it). Small stalls often can't take foreign cards, so carry small notes; see [Money in Korea](/money/).
 
 **Late night.** Delivery (below) or a [convenience store](/convenience-store/).
 
@@ -44,6 +44,7 @@ More restaurants have you order, and often pay, on a tabletop tablet or a door k
 
 - **Tablet or kiosk:** if the screen is Korean only, point Papago's camera at it.
 - **Staff:** press the call button when you need someone.
+- **Spoon and chopsticks** are in the table drawer; using your spoon when chopsticks get tricky is fine (KTO).
 - **Water and side dishes are free** to refill, says KTO; some places have a self-service corner.
 - **Paying:** with a tablet you usually pay as you order. Otherwise take the slip to the counter on your way out ([Everyday Korea](/everyday/)).
 
@@ -82,7 +83,7 @@ KTO's [Muslim-friendly travel page](https://english.visitkorea.or.kr/svc/thingsT
 | Muslim friendly | Some halal dishes; alcohol may be sold |
 | Pork free | No halal menu, no pork; alcohol may be sold |
 
-KTO warns that hotel buffets labelled Muslim-friendly may still serve dishes with pork.
+KTO warns that hotel buffets labelled Muslim-friendly may still serve dishes with pork. The same page links its Muslim-friendly restaurant e-book (2022 edition).
 
 ## Allergies
 

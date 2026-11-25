@@ -7,7 +7,7 @@ updated: 2026-11-26
 ---
 ## A morning at Gyeongbokgung
 
-Our plan, built from the published schedules: the palace opens at 9:00. At 9:35 the gate guards hold a public drill, and at 10:00 the changing of the guard begins on the square and the royal terrace in front of Gwanghwamun: banners, traditional spears and a band in red with pheasant-feather hats, for about 20 minutes. Free, and no ticket needed.
+Our plan, built from the published schedules: the palace opens at 9:00. At 9:35 the gate guards hold a public drill, and at 10:00 the changing of the guard begins on the square and the royal terrace in front of Gwanghwamun: banners, traditional spears and a band in red with pheasant-feather hats, for about 20 minutes, again at 14:00, with shorter gate-guard rituals at 11:00 and 13:00. Free, and no ticket needed.
 
 Then walk north along the palace's axis, through one gate after another: Gwanghwamun, Heungnyemun, Geunjeongmun, then the throne hall, Geunjeongjeon. Heungnyemun is younger than it looks: it was torn down in 1914 for the colonial Government-General Building and rebuilt between 1997 and 2001.
 
@@ -32,7 +32,7 @@ Closing days are split, so some sites are open every day.
 
 {{fig:palaces-2|Open days at the four palaces and Jongmyo}}
 
-If a closing day falls on a public holiday, the site opens and closes on the next working day instead. For Seollal 2027, see [Seoul in winter](/winter/).
+If a closing day falls on a public holiday, the site opens and closes on the next working day instead (Korea Heritage Service viewing regulations, amended 5 February 2026). For Seollal 2027, see [Seoul in winter](/winter/).
 
 Hours differ. Gyeongbokgung closes at 17:00 from November to February, 18:00 in spring and autumn, 18:30 in summer; Changdeokgung and Jongmyo at 17:30 from November to January; Deoksugung and Changgyeonggung at 21:00. Last entry is an hour before closing.
 
@@ -83,7 +83,7 @@ Jongmyo, the royal shrine for the spirit tablets of Joseon's kings and queens, r
 
 ## Bukchon: go between 10 and 5
 
-Bukchon Hanok Village is a neighbourhood where people live; Seoul's own sign calls it a residential area. Since 1 March 2025 the red zone around Bukchon-ro 11-gil is closed to tourist visits from 17:00 to 10:00, with a **100,000 won fine**. Residents and people visiting shops there are exempt. Since 1 January 2026 chartered tour buses are banned on about 2.3 km of its roads.
+Bukchon Hanok Village is a neighbourhood where people live; Seoul's own sign calls it a residential area. Since 1 March 2025 the red zone around Bukchon-ro 11-gil is closed to tourist visits from 17:00 to 10:00, with a **100,000 won fine** after a warning. Residents and people visiting shops there are exempt. Since 1 January 2026 chartered tour buses are banned on about 2.3 km of its roads.
 
 {{fig:palaces-7|Bukchon's red zone, hour by hour}}
 
@@ -102,7 +102,8 @@ The [National Museum of Korea](https://www.museum.go.kr)'s permanent galleries a
 ## What we left out
 
 - **Secret Garden and Jongmyo tour times**, which change by season.
-- **Deoksugung's guard ceremony times, night openings and hanbok rental prices**, which we could not confirm.
+- **Deoksugung's guard ceremony times.** It also runs at Daehanmun gate, but we found no current official schedule.
+- **Night openings**, which are seasonal and booked separately, and **hanbok rental prices**, which we could not check.
 
 ## Sources
 

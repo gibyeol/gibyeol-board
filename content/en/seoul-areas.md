@@ -60,7 +60,7 @@ Stay here for the palaces, Insadong, and Euljiro's bars in old printing alleys, 
 
 ### Dongdaemun: for clothes shopping and night owls
 
-The Korea Times calls Dongdaemun the city's "24-hour fashion center", with Dongdaemun Design Plaza at its heart. Buses 6001 and 6702 come from the airport; landing late, night bus N6701 stops at Seoul Station, Euljiro and Dongdaemun Design Plaza.
+The Korea Times calls Dongdaemun the city's "24-hour fashion center", with Dongdaemun Design Plaza at its heart. Buses 6001 and 6702 come from the airport; landing late, night bus N6701 stops at Seoul Station, Euljiro and Dongdaemun Design Plaza, and N6002 at Hongdae and Dongdaemun.
 
 - **Honest downside:** it is liveliest when you want to sleep, and quiet in the morning.
 
@@ -86,7 +86,7 @@ Gangnam is the one area here south of the Han River. KSPO Dome, where many K-pop
 
 ## What we left out, and who doesn't need this
 
-We left out Itaewon, Yeouido, Jamsil and Sinchon. They're fine, but the questions we see are about the seven above. We don't compare hotel prices, because they change by date and we can't check them fairly. If your hotel is already booked, go straight to [Incheon Airport to Seoul](/airport-to-seoul/).
+We left out Itaewon, Yeouido, Jamsil and Sinchon. They're fine, but the questions we see are about the seven above. We don't compare hotel prices, because they change by date and we can't check them fairly. If your hotel is already booked, go straight to [Incheon Airport to Seoul](/airport-to-seoul/). Before you land, read up on [money](/money/).
 
 ## Sources
 

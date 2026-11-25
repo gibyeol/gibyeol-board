@@ -45,11 +45,11 @@ Before you leave the hotel, open **Expected Airport Congestion** on airport.kr. 
 
 ## Step 3: Seoul Station city airport check-in
 
-The best thing you can do on your last day, if it fits your flight.
+If your flight leaves after lunch and you are staying near Seoul Station, Hongdae or the line to it, this is the best thing you can do on your last day. The area was renovated in August 2026 with a numbered queue and bag scales.
 
 {{fig:departure-day-3|Seoul Station check-in: hours and deadlines}}
 
-- **Where and when:** B2 of Seoul Station. Check-in and bag drop 05:20–19:00, immigration 05:30–19:00.
+- **Where and when:** B2 of Seoul Station. Check-in and bag drop 05:20–19:00 (last intake 18:50), immigration 05:30–19:00.
 - **Deadline:** 3 hours before departure for Terminal 1 flights, 3 hours 20 minutes for Terminal 2.
 - **Ticket:** an AREX **Express** ticket. The all-stop train does not count.
 - **Flights:** same-day international departures from Incheon, and only some airlines. Korean Air and Asiana exclude charters, codeshares flown by another airline, oversized bags and anyone needing assistance. Check your airline first.
@@ -61,7 +61,7 @@ Many shops take the tax off at the till for receipts under ₩1,000,000. If all 
 1. **Goods in your carry-on:** check in first, then use the refund kiosk in the departure hall.
 2. **Goods in your checked bag:** tell the check-in agent. The bag gets a customs tag and comes back to you. Run the kiosk, then put the bag on the large belt next to the customs desk.
 3. If the kiosk asks for an inspection, take your passport, the unused goods and the receipt to the customs desk.
-4. After security there are more kiosks and desks: **Terminal 1** near Gate 28 (desk 07:00–22:00) and in the Concourse by Gate 115; **Terminal 2** near Gate 253, across from Gate 250 (desk 07:00–21:30). The kiosks run 24 hours.
+4. After security there are more kiosks and desks: **Terminal 1** near Gate 28 (desk 07:00–22:00) and in the Concourse by Gate 115; **Terminal 2** near Gate 253, across from Gate 250 (desk 07:00–21:30). The kiosks run 24 hours and pay cash, or a card refund for larger amounts.
 
 Goods must leave Korea within three months of purchase. Full rules: [Tax refunds in Korea](/tax-refund/).
 
@@ -82,13 +82,13 @@ Korea pushed for the new power bank rule, and ICAO adopted it; it applies from 2
 
 {{fig:departure-day-5|What goes in which bag}}
 
-- **Power banks:** carry-on only, never checked. Up to two per person, each 160 Wh or less (100–160 Wh needs airline approval). No charging them from the seat or charging your phone from them in flight. Not in the overhead bin: keep them in the seat pocket or under the seat.
+- **Power banks:** carry-on only, never checked. Up to two per person, each 160 Wh or less (100–160 Wh needs airline approval). No charging them from the seat or charging your phone from them in flight. Not in the overhead bin: keep them in the seat pocket or under the seat. Airlines hand out insulating tape at check-in, security and the gate if you want to cover the terminals.
 - **Liquids in carry-on:** 100 ml or less per container, in one clear resealable bag of up to 1 litre. Kimchi and gochujang count.
 - **Over 100 ml** (Olive Young, a market): checked bag.
 - **Duty-free liquids** bought after security come in a sealed bag of any size. Keep it sealed until your last flight.
 - **Sprays in checked bags:** non-flammable only, up to 500 ml each and 2 litres in total.
 
-Your airline can be stricter; check its page.
+Korean Air, Asiana, Jin Air, Air Busan, Air Seoul and Jeju Air already banned in-flight use in January 2026. Your airline can be stricter; check its page.
 
 ## Step 7: leftover won
 
@@ -100,4 +100,4 @@ Some short international flights, including to Japan, leave from Gimpo. ANA, for
 
 ## Sources
 
-<p class="sources">Opened 26 November 2026 (KST): Incheon International Airport, <a href="https://www.airport.kr/ap_en/1413/subview.do" rel="noopener" target="_blank">Departure Procedures</a> (order of steps, no return after immigration, gate numbers by area, at the gate 30–40 minutes before boarding, airline terminal list) and <a href="https://www.airport.kr/ap_ko/893/subview.do" rel="noopener" target="_blank">City Airport Terminal</a> (Seoul Station B2, hours, deadlines, Express passengers, same-day Incheon flights, 3rd-floor dedicated entrance); Korea.net, <a href="https://www.korea.net/NewsFocus/policies/view?articleId=290372" rel="noopener" target="_blank">power bank restrictions from 20 April</a> (8 April 2026). Duty-free counters as in our <a href="/duty-free/">duty-free guide</a> (Hyundai and Shilla pages opened 26 November 2026). Not re-opened, checked 25 November 2026: Incheon Airport FAQ on arrival time and boarding, Expected Airport Congestion, Tax Refund and Restricted Items pages; Seoul Mediahub on Seoul Station check-in (6 March 2025); Korean Air and Asiana city airport check-in pages; Segye Ilbo (renovation, 3 August 2026; Chuseok advice, 22 September 2026); Wikitree (Asiana to Terminal 2, 14 January 2026); Newsis (overhead bin and insulation tape, 27 August 2025); Time Out (Korean airlines' in-flight ban, 26 January 2026); ANA Haneda–Gimpo route information.</p>
+<p class="sources">Opened 26 November 2026 (KST): Incheon International Airport, <a href="https://www.airport.kr/ap_en/1413/subview.do" rel="noopener" target="_blank">Departure Procedures</a> (order of steps, no return after immigration, gate numbers by area, at the gate 30–40 minutes before boarding, airline terminal list) and <a href="https://www.airport.kr/ap_ko/893/subview.do" rel="noopener" target="_blank">City Airport Terminal</a> (Seoul Station B2, hours, deadlines, Express passengers, same-day Incheon flights, 3rd-floor dedicated entrance); Korea.net, <a href="https://www.korea.net/NewsFocus/policies/view?articleId=290372" rel="noopener" target="_blank">power bank restrictions from 20 April</a> (8 April 2026). Duty-free counters as in our <a href="/duty-free/">duty-free guide</a> (Hyundai and Shilla pages opened 26 November 2026). Not re-opened, checked 25 November 2026: Incheon Airport city airport terminal guidance (last intake 18:50; the page we opened lists 05:20–19:00 only), FAQ on arrival time and boarding, Expected Airport Congestion, Tax Refund and Restricted Items pages; Seoul Mediahub on Seoul Station check-in (6 March 2025); Korean Air and Asiana city airport check-in pages; Segye Ilbo (renovation, 3 August 2026; Chuseok advice, 22 September 2026); Wikitree (Asiana to Terminal 2, 14 January 2026); Newsis (overhead bin and insulation tape, 27 August 2025); Time Out (Korean airlines' in-flight ban, 26 January 2026); Peach (power bank notice, 14 April 2026); ANA Haneda–Gimpo route information.</p>
