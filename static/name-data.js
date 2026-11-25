@@ -116,6 +116,11 @@ window.NADRI_CHAINS = {
   blossom: [
     { c: 'h', s: 'Changwon City; 2026 festival coverage', ko: '벚꽃 이름에는 매년 봄 창원 진해에서 열리는 진해군항제가 어울려요.', en: 'A cherry-blossom name belongs at the Jinhae Gunhangje festival in Changwon each spring.', ja: '桜の名前には、毎年春に昌原・鎮海で開かれる鎮海軍港祭が似合います。', zh: '櫻花的名字,適合每年春天在昌原鎮海舉辦的鎮海軍港節。' }
   ],
+  dipper: [
+    { c: 'h', s: 'Encyclopedia of Korean Culture (칠성신앙)', ko: '斗는 \'말(곡식을 되는 그릇)\'이고, 그 모양을 닮은 별자리가 북두칠성(北斗七星)이에요.', en: 'The character 斗 is a grain measure, and the Big Dipper is named after its shape: 北斗七星, the Northern Dipper.', ja: '斗は穀物をはかる「ます」で、その形に似た星座が北斗七星です。', zh: '斗是量米的器具,形狀相似的星座就是北斗七星。' },
+    { c: 'h', s: 'Encyclopedia of Korean Culture (칠성신앙)', ko: '한국에는 북두칠성에 수명과 복을 비는 칠성신앙이 있어요. 아이가 오래 살기를 비는 대상이 칠성님이었어요.', en: 'Korea has a long folk faith in the Big Dipper, the Chilseong belief: people prayed to the seven stars for long life and good fortune, especially for their children.', ja: '韓国には北斗七星に長寿と福を祈る七星信仰があり、子どもの長生きを七星様に祈りました。', zh: '韓國有向北斗七星祈求長壽與福氣的七星信仰,特別是為孩子祈求長命。' },
+    { c: 'h', s: 'Encyclopedia of Korean Culture (칠성각)', ko: '그래서 한국의 절에는 칠성님을 모신 칠성각(또는 삼성각)이 있어요. 절에 가면 대웅전 뒤쪽 작은 건물을 찾아보세요.', en: 'That is why many Korean temples have a Chilseong-gak, a small hall for the seven stars, often behind the main hall. Look for it on any temple visit.', ja: 'だから韓国のお寺には七星様を祀る七星閣(三聖閣)があります。本堂の裏の小さなお堂を探してみてください。', zh: '所以韓國寺廟常有供奉七星的七星閣(或三聖閣),通常在大雄殿後方的小殿。' }
+  ],
   star: [
     { c: 'h', s: 'Encyclopedia of Korean Culture', ko: '경주 첨성대는 신라 때 세운 별을 보던 대로 알려져 있고, 동아시아에 남은 가장 오래된 천문 시설 가운데 하나예요. 용도에 대해선 다른 학설도 있어요.', en: 'Cheomseongdae in Gyeongju, from the Silla kingdom, is known as a star-watching tower and is among the oldest surviving observatories in East Asia, though scholars still debate its use.', ja: '慶州の瞻星台は新羅時代の星を観る台とされ、東アジア最古級の天文施設のひとつです(用途には諸説あり)。', zh: '慶州瞻星臺建於新羅,被認為是觀星臺,是東亞現存最古老的天文設施之一(用途仍有爭論)。' }
   ],
@@ -126,3 +131,5 @@ window.NADRI_CHAINS = {
 
 /* names that continue each other: "next in the chain" */
 window.NADRI_RELATED = { james: ['jacob', 'santiago'], jacob: ['james', 'santiago'], santiago: ['james', 'jacob'], liam: ['william', 'alexander'], william: ['liam', 'henry'], alexander: ['liam', 'andrew'], henry: ['william', 'alexander'], sophia: ['stella', 'irene'], stella: ['sophia', 'lily'], irene: ['olivia', 'noah'], olivia: ['irene', 'noah'], noah: ['irene', 'olivia'], maria: ['mia', 'anna'], mia: ['maria', 'emma'], anna: ['grace', 'john'], grace: ['anna', 'john'], john: ['grace', 'anna'], elizabeth: ['isabella', 'emma'], isabella: ['elizabeth', 'emma'], eva: ['ava', 'zoe'], ava: ['eva', 'zoe'], zoe: ['eva', 'chloe'], chloe: ['lily', 'zoe'], lily: ['rose', 'chloe'], rose: ['lily', 'margaret'], peter: ['paul', 'andrew'], paul: ['peter', 'matthew'], andrew: ['peter', 'thomas'], matthew: ['thomas', 'john'], thomas: ['matthew', 'andrew'], david: ['samuel', 'daniel'], daniel: ['david', 'samuel'], samuel: ['david', 'daniel'], joseph: ['david', 'benjamin'], benjamin: ['joseph', 'samuel'], leo: ['felix', 'lucas'], felix: ['victoria', 'leo'], victoria: ['felix', 'charlotte'], lucas: ['leo', 'luke'], ethan: ['noah', 'liam'], emma: ['amelia', 'olivia'], amelia: ['emily', 'emma'], emily: ['amelia', 'charlotte'], charlotte: ['emily', 'amelia'], michael: ['david', 'daniel'], margaret: ['rose', 'grace'], joy: ['hope', 'felix'], hope: ['joy', 'grace'] };
+
+window.NADRI_CHAINS.dipper = window.NADRI_CHAINS.dipper.concat(window.NADRI_CHAINS.star);

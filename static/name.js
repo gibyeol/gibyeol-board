@@ -451,9 +451,11 @@
         return '<li><span>' + esc(rname(t[0])) + '</span><b>' + T.rank.replace('{r}', t[2]).replace('{y}', t[1]) + '</b></li>';
       }).join('') + '</ol><p class="namer-src">' + T.popularNote + '</p></section>';
     }
+    var latinConcept = r.kind === 'latin' && key && ((window.NADRI_CONCEPT_OF || {}).latin || {})[key];
+    if (latinConcept) more += conceptBlock(latinConcept, { noChain: !!(r.chain) });
     // Korean names: surname count, baby-name rank, hanja picker, native meaning
     if (r.kind === 'hangul' && r.ko) more += koSections(r);
-    if (r.chars) { var ab = abroadFor(r.chars.map(function (x) { return x.en; })); if (ab) more += '<section class="namer-sec"><h3 class="namer-h">' + T.koAbroad + '</h3>' + ab + '</section>'; }
+    if (r.chars) { var cids = conceptsForHanja(r.chars.map(function (x) { return x.c; })); cids.forEach(function (id, i) { more += conceptBlock(id, { noChain: i > 0 && !!r.chain }); }); if (cids.length) r.chain = null; }
     // 5. chain into Korea, with the slot for travellers' lines and the next name
     var steps = r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
     if (steps) {
@@ -474,6 +476,24 @@
     wireGo(); if (r.kind === 'hangul') wireHanja(r);
   }
 
+
+
+  /* one meaning, the names that carry it around the world, and its Korean story */
+  function conceptBlock(cid, opts) {
+    var C = (window.NADRI_CONCEPTS || {})[cid]; if (!C) return '';
+    var k3 = L3(), lab = C[k3] || C.en, pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
+    var langLabel = function (l) { return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · '); };
+    var h = '<section class="namer-sec namer-concept"><h3 class="namer-h">' + T.koAbroad + ' · ' + esc(lab) + (k3 !== 'en' ? ' (' + esc(C.en) + ')' : '') + '</h3><ul class="namer-var">' +
+      C.names.map(function (n) { return '<li><span>' + esc(langLabel(n[0])) + '</span><b>' + esc(n[1]) + (n[2] ? ' <small>' + esc(n[2]) + '</small>' : '') + '</b></li>'; }).join('') + '</ul>';
+    var steps = C.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[C.chain];
+    if (steps && !(opts && opts.noChain)) h += '<h3 class="namer-h">' + T.chain + '</h3><ol class="namer-steps">' + steps.map(function (st) { return '<li>' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>'; }).join('') + '</ol>';
+    return h + '</section>';
+  }
+  function conceptsForHanja(chars) {
+    var CO = (window.NADRI_CONCEPT_OF || {}).hanja || {}, seen = {}, ids = [];
+    chars.forEach(function (c) { var id = CO[c]; if (id && !seen[id]) { seen[id] = 1; ids.push(id); } });
+    return ids;
+  }
 
   function abroadFor(meanings) {
     var M = window.KO_MEANING_TO_NAME || {}, N = window.NADRI_NAMES || {}, seen = {}, out = [];
@@ -518,13 +538,11 @@
         var list = Object.keys(picked).sort().map(function (k) { return picked[k]; });
         var sh = (window.KO_SURNAME_HANJA || {})[r.ko.sur] || '';
         var name = sh + list.map(function (x) { return x.h; }).join('');
-        var chainId = null, KCH = window.NADRI_KANJI_CHAIN || {};
-        list.forEach(function (x) { if (!chainId && KCH[x.h]) chainId = KCH[x.h]; });
         var o = '<p class="namer-mean">' + esc(name) + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
-        var ab = abroadFor(list.map(function (x) { return x.en; }));
-        if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab;
-        var steps = chainId && window.NADRI_CHAINS && window.NADRI_CHAINS[chainId], k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
-        if (steps) o += '<h3 class="namer-h">' + T.chain + '</h3><ol>' + steps.map(function (st) { return '<li>' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>'; }).join('') + '</ol>';
+        var ids = conceptsForHanja(list.map(function (x) { return x.h; })), CC = window.NADRI_CONCEPTS || {}, k3 = L3();
+        if (ids.length) o += '<p class="namer-gloss">' + ids.map(function (id) { return esc(CC[id][k3] || CC[id].en); }).join(' + ') + (k3 !== 'en' ? ' <span class="namer-origin">(' + ids.map(function (id) { return esc(CC[id].en); }).join(' + ') + ')</span>' : '') + '</p>';
+        ids.forEach(function (id) { o += conceptBlock(id); });
+        if (!ids.length) { var ab = abroadFor(list.map(function (x) { return x.en; })); if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab; }
         box.querySelector('.namer-hanja-out').innerHTML = o;
         wireGo();
       };

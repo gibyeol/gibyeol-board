@@ -248,3 +248,5 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .namer-pick button{font:400 1.05rem 'Song Myung',serif;border:1px solid var(--rule);background:#fff;padding:4px 8px;cursor:pointer;color:var(--ink)}
 .namer-pick button small{font:400 .72rem var(--text);color:var(--muted);margin-left:3px}.namer-pick button.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}.namer-pick button.on small{color:var(--paper)}
 .namer-hanja-out{margin-top:10px}.namer-go{font:400 1.1rem 'Song Myung',serif;border:0;border-bottom:1px solid var(--ink);background:none;padding:0;cursor:pointer;color:var(--ink)}
+.namer-gloss{font:400 1.3rem 'Song Myung',serif;margin:6px 0}.namer-var small{font:400 .85rem var(--text);color:var(--muted)}
+.namer-hanja-out .namer-sec{border:0;padding:0;background:none;margin-top:8px}.namer-steps{padding-left:1.2em}
