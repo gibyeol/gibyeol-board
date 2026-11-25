@@ -185,24 +185,24 @@ def mo2(lang):
 
 # ---------- money-3: WOWPASS costs ----------
 MO3 = {
- "en": dict(t=["WOWPASS: what it costs"], r=[("Card", "₩5,000"), ("Card reserved in the app", "₩4,500"),
-    ("Loading foreign cash", "No fee"), ("Paying in shops", "No fee"), ("Withdrawing won, per time", "₩1,000")],
-    lim=("Withdrawal limit, per time", "₩100,000"), back=("Leftover balance", "Won cash only"), n=["Official guide, 4 November 2025"]),
- "ko": dict(t=["와우패스 비용 한눈에"], r=[("카드 발급비", "5,000원"), ("앱 예약 시", "4,500원"),
-    ("외화 현금 충전", "수수료 없음"), ("결제", "수수료 없음"), ("원화 인출 1회", "1,000원")],
-    lim=("1회 인출 한도", "10만 원"), back=("남은 잔액", "원화 현금으로"), n=["공식 이용 안내(2025년 11월 4일) 기준"]),
- "ja": dict(t=["WOWPASSの費用"], r=[("カード発行費", "5,000ウォン"), ("アプリで予約", "4,500ウォン"),
-    ("外貨現金のチャージ", "手数料なし"), ("支払い", "手数料なし"), ("ウォン引き出し1回", "1,000ウォン")],
-    lim=("1回の引き出し上限", "10万ウォン"), back=("残高の払い戻し", "ウォン現金のみ"), n=["公式利用案内(2025年11月4日)より"]),
- "zh-tw": dict(t=["WOWPASS 費用一覽"], r=[("發卡費", "5,000 韓元"), ("App 預約", "4,500 韓元"),
-    ("儲值外幣現金", "免手續費"), ("消費", "免手續費"), ("領韓元,每次", "1,000 韓元")],
-    lim=("每次領取上限", "10 萬韓元"), back=("餘額退還", "只退韓元現金"), n=["依官方使用說明(2025 年 11 月 4 日)"]),
+ "en": dict(t=["WOWPASS: what it costs"], r=[("Card", "₩6,000"), ("Card reserved in advance", "₩5,500"),
+    ("Paying in shops", "No fee"), ("Cash top-up", "WOWPASS rate"), ("Withdrawing won, per time", "₩1,000")],
+    lim=("Withdrawal limit, per time", "₩100,000"), back=("Leftover balance", "Won cash only"), n=["wowpass.io, opened 26 November 2026"]),
+ "ko": dict(t=["와우패스 비용 한눈에"], r=[("카드 발급비", "6,000원"), ("미리 예약 시", "5,500원"),
+    ("매장 결제", "수수료 없음"), ("현금 충전", "와우패스 환율"), ("원화 인출 1회", "1,000원")],
+    lim=("1회 인출 한도", "10만 원"), back=("남은 잔액", "원화 현금으로만"), n=["wowpass.io, 2026년 11월 26일 확인"]),
+ "ja": dict(t=["WOWPASSの費用"], r=[("カード発行費", "6,000ウォン"), ("事前予約", "5,500ウォン"),
+    ("お店での支払い", "手数料なし"), ("現金チャージ", "WOWPASSのレート"), ("ウォン引き出し1回", "1,000ウォン")],
+    lim=("1回の引き出し上限", "10万ウォン"), back=("残高の払い戻し", "ウォン現金のみ"), n=["wowpass.io、2026年11月26日確認"]),
+ "zh-tw": dict(t=["WOWPASS 費用一覽"], r=[("發卡費", "6,000 韓元"), ("事先預約", "5,500 韓元"),
+    ("店家消費", "免手續費"), ("現金儲值", "WOWPASS 匯率"), ("領韓元,每次", "1,000 韓元")],
+    lim=("每次領取上限", "10 萬韓元"), back=("餘額退還", "只退韓元現金"), n=["wowpass.io,2026 年 11 月 26 日查看"]),
 }
 def mo3(lang):
     d = MO3[lang]; f = Fig(d["t"][0]); f.title(d["t"])
     f.box_start()
     for i, (a, b) in enumerate(d["r"]):
-        f.row(a, b, value_fill=RED if i >= 2 and i <= 3 else INK, top_rule=i > 0)
+        f.row(a, b, value_fill=RED if i == 2 else INK, top_rule=i > 0)
     f.row(*d["lim"], bold_value=False)
     f.row(*d["back"], bold_value=False)
     f.box_end()
@@ -253,22 +253,22 @@ def tr1(lang):
 TR2 = {
  "en": dict(t=["Which route does", "your receipt take?"], q=[
     (["Receipt under ₩15,000?"], ["No refund", "Batch buys in one shop"]),
-    (["₩1,000,000 or more", "on one receipt?"], ["Refund slip", "Claim before you check bags"]),
+    (["₩1,000,000 or more", "on one receipt?"], ["Refund slip", "Customs check before bag drop"]),
     (["No “Tax Free” sign", "at the till?"], ["Refund slip", "Airport or downtown kiosk"])],
     f=("Instant refund at the till", ["Show your physical passport"])),
  "ko": dict(t=["내 영수증은 어느 쪽?"], q=[
     (["영수증이 15,000원 미만?"], ["환급 안 돼요", "한 매장에서 몰아서 사기"]),
-    (["영수증 한 장이", "100만 원 이상?"], ["환급 전표 받기", "짐 부치기 전에 환급"]),
+    (["영수증 한 장이", "100만 원 이상?"], ["환급 전표 받기", "짐 부치기 전 세관 확인"]),
     (["계산대에 Tax Free", "표시가 없다?"], ["환급 전표 받기", "공항·시내 키오스크"])],
     f=("계산대에서 즉시 환급", ["실물 여권을 보여 주기"])),
  "ja": dict(t=["レシートはどのルート?"], q=[
     (["レシートが15,000ウォン未満?"], ["対象外", "店ごとにまとめ買い"]),
-    (["1レシートが", "100万ウォン以上?"], ["還付書類をもらう", "荷物を預ける前に手続き"]),
+    (["1レシートが", "100万ウォン以上?"], ["還付書類をもらう", "預ける前に税関確認"]),
     (["レジに Tax Free の", "表示がない?"], ["還付書類をもらう", "空港か市内のキオスク"])],
     f=("レジで即時免税", ["パスポートの実物を見せる"])),
  "zh-tw": dict(t=["你的收據走哪一條?"], q=[
     (["單筆未滿 15,000 韓元?"], ["不能退稅", "同一家店一次買"]),
-    (["單筆 100 萬韓元", "以上?"], ["索取退稅單", "托運行李前辦理"]),
+    (["單筆 100 萬韓元", "以上?"], ["索取退稅單", "托運前做海關驗證"]),
     (["櫃檯沒有 Tax Free", "標示?"], ["索取退稅單", "機場或市區退稅機"])],
     f=("結帳時現場退稅", ["出示護照正本"])),
 }
@@ -311,22 +311,22 @@ EA4 = {
     ("Terms + email", "Representative, 14 or older"), ("Passport", "Scan or upload the photo page"),
     ("Arrival", "Date and flight number"), ("Departure", "Date required, flight optional"),
     ("Purpose + occupation", "Tourism, for example"), ("Address in Korea", "Where you stay, in English"),
-    ("Review + submit", "Check against your passport"), ("Issuance number", "PDF and email: keep it")]),
+    ("Review + submit", "Check against your passport"), ("Issuance number", "Save the PDF; email can be late")]),
  "ko": dict(t=["신고서 입력 순서"], s=["입력은 영어나 한국어만"], r=[
     ("약관 동의 + 이메일", "대표 신청자, 만 14세 이상"), ("여권", "사진면 스캔 또는 업로드"),
     ("입국 정보", "도착일과 항공편명"), ("출국 정보", "날짜 필수, 항공편명 선택"),
     ("입국 목적 + 직업", "예: 관광"), ("국내 체류지", "숙소 주소(영문)"),
-    ("확인 후 제출", "여권과 한 글자씩 대조"), ("발급번호", "PDF와 이메일로 보관")]),
+    ("확인 후 제출", "여권과 한 글자씩 대조"), ("발급번호", "PDF 저장 (메일은 늦을 수 있음)")]),
  "ja": dict(t=["入力する順番"], s=["入力は英語か韓国語だけ"], r=[
     ("規約同意+メール", "代表者、14歳以上"), ("パスポート", "顔写真ページを読み取り"),
     ("入国情報", "到着日と便名"), ("出国情報", "日付は必須、便名は任意"),
     ("入国目的+職業", "例:観光"), ("韓国での滞在先", "ホテルの住所(英語)"),
-    ("確認して提出", "パスポートと見比べる"), ("発行番号", "PDFとメールで保存")]),
+    ("確認して提出", "パスポートと見比べる"), ("発行番号", "PDFを保存(メールは遅れることも)")]),
  "zh-tw": dict(t=["填寫順序"], s=["欄位只能輸入英文或韓文"], r=[
     ("同意條款 + email", "代表人,年滿 14 歲"), ("護照", "掃描或上傳資料頁"),
     ("入境資訊", "抵達日期與班機號碼"), ("出境資訊", "日期必填,班機可不填"),
     ("入境目的 + 職業", "例如觀光"), ("在韓住址", "飯店的英文地址"),
-    ("確認後送出", "逐字對照護照"), ("核發號碼", "存 PDF、收 email")]),
+    ("確認後送出", "逐字對照護照"), ("核發號碼", "存 PDF(email 可能延遲)")]),
 }
 def ea4(lang):
     d = EA4[lang]; f = Fig(d["t"][0]); f.title(d["t"], d["s"])
@@ -369,20 +369,28 @@ def ea5(lang):
 TR4 = {
  "en": dict(t=["Refund slip at the airport"], r=[
     ("Goods in your hand luggage", "Customs may ask to see them", False),
-    ("Refund first", "Before you check in your bags", True),
-    ("Then check in your bags", "", False)], n=["Or claim at a downtown refund kiosk.", "Goods must leave Korea within 3 months."]),
+    ("Customs validation first", "Kiosk or customs office", True),
+    ("Then check in your bags", "", False),
+    ("Collect the refund", "Refund office, kiosk or your card", False)],
+    n=["Took cash downtown? Validate within 21 days.", "No customs validation, no refund."]),
  "ko": dict(t=["환급 전표, 공항에서는"], r=[
-    ("물건은 기내 가방에", "세관이 물건을 확인할 수 있어요", False),
-    ("환급부터", "짐을 부치기 전에", True),
-    ("그다음 짐 부치기", "", False)], n=["시내 환급 키오스크에서도 돼요.", "구매 후 3개월 안에 반출해야 해요."]),
+    ("물건은 기내 가방에", "세관이 물건을 볼 수 있어요", False),
+    ("세관 확인 먼저", "키오스크나 세관 사무소에서", True),
+    ("그다음 짐 부치기", "", False),
+    ("환급 받기", "환급 창구·키오스크·카드", False)],
+    n=["시내에서 먼저 받았다면 21일 안에 세관 확인.", "세관 확인이 없으면 환급도 없어요."]),
  "ja": dict(t=["還付書類は空港で"], r=[
     ("商品は機内持ち込みに", "税関で提示を求められることも", False),
-    ("先に還付手続き", "荷物を預ける前に", True),
-    ("それから荷物を預ける", "", False)], n=["市内の還付キオスクでもOK。", "購入から3か月以内に持ち出す。"]),
+    ("先に税関確認", "キオスクか税関窓口で", True),
+    ("それから荷物を預ける", "", False),
+    ("還付を受け取る", "カウンター・キオスク・カード", False)],
+    n=["市内で先に受け取ったら21日以内に確認。", "税関確認がなければ還付なし。"]),
  "zh-tw": dict(t=["退稅單在機場這樣辦"], r=[
     ("商品放隨身行李", "海關可能要求查看", False),
-    ("先辦退稅", "在托運行李之前", True),
-    ("再托運行李", "", False)], n=["也可以在市區退稅機辦理。", "購買後 3 個月內要帶出韓國。"]),
+    ("先做海關驗證", "自助驗證機或海關櫃檯", True),
+    ("再托運行李", "", False),
+    ("領取退稅", "退稅櫃檯、退稅機或退到卡", False)],
+    n=["在市區先領錢?21 天內要驗證。", "沒有海關驗證就沒有退稅。"]),
 }
 def tr4(lang):
     d = TR4[lang]; f = Fig(d["t"][0]); f.title(d["t"])

@@ -29,9 +29,9 @@ updated: 2026-11-26
 地鐵閘門和公車都只能刷卡。T-money(用起來像悠遊卡)、內建 T-money 的 WOWPASS,或氣候同行卡(Climate Card)短期券,擇一即可。怎麼選、怎麼儲值看[行前準備](/zh-tw/essentials/)和[付款與換錢](/zh-tw/money/)。2026年的變化:
 
 - **2026年3月17日起**,首爾交通公社1~8號線273個車站的440台新售票機,可用海外發行的信用卡、簽帳卡購買氣候同行卡短期券和單程票,手續費3.7%。
-- **直接拿自己的卡刷閘門,目前還不行。** 首爾市規劃2027年更換1~8號線閘門設備;T-money公司計畫2027年起讓海外感應式信用卡可以直接在首爾市區公車上付款,合作的發卡組織包括Visa、Mastercard、JCB、銀聯。
+- **直接拿自己的卡刷閘門,目前還不行。** 首爾市規劃2027年更換1~8號線閘門設備,2030年前擴大到社區公車和民營鐵路;T-money公司計畫2027年起讓海外感應式信用卡可以直接在首爾市區公車上付款,合作的發卡組織包括Visa、Mastercard、JCB、銀聯。
 
-**氣候同行卡短期券划算嗎?** 首爾市公告的價格:1、2、3、5、7日券分別是5,000、8,000、10,000、15,000、20,000韓元,卡片另付3,000韓元。1日券加卡片8,000韓元,約等於5趟地鐵;3日券加卡片13,000韓元,約8趟。可搭首爾市內地鐵和首爾市區公車(含深夜公車),2026年10月1日起也能在仁川機場站下車。新盆唐線、GTX、紅色廣域公車、機場巴士、首爾以外的車站都不能用。我們的判斷:在首爾市內一天搭3次以上、連續3天以上才划算。
+**氣候同行卡短期券划算嗎?** 首爾市公告的價格:1、2、3、5、7日券分別是5,000、8,000、10,000、15,000、20,000韓元,卡片另付3,000韓元。1日券加卡片8,000韓元,約等於5趟地鐵;3日券加卡片13,000韓元,約8趟。可搭首爾市內地鐵和首爾市區公車(含深夜公車),2026年10月1日起也能在仁川機場站下車。新盆唐線、GTX、紅色廣域公車、機場巴士、首爾以外的車站都不能用。適合整天跑景點的日子,整天待咖啡廳就不划算。我們的判斷:在首爾市內一天搭3次以上、連續3天以上才划算。
 
 {{fig:getting-around-2|氣候同行卡短期券能搭什麼、不能搭什麼}}
 
@@ -56,12 +56,20 @@ updated: 2026-11-26
 {{fig:getting-around-4|公車刷兩次,轉乘時間從下車刷卡開始算}}
 
 1. **上車時在讀卡機刷卡。**
-2. **下車前再刷一次。** 首爾市說明,沒刷就斷了轉乘。
+2. **下車前再刷一次。** 首爾市說明:下車沒刷卡就不能轉乘,下一趟公車或地鐵要付全額。
 3. **下車後30分鐘內(晚上9點到隔天早上7點是60分鐘)搭下一班公車或地鐵就算轉乘。** 前10公里只收一次基本票價,之後每5公里加100韓元,最多轉乘4次。重搭同一路線不算轉乘。
 
-> 現金不是備案。首爾市「無現金公車」名單(2026年1月)中,396條市區公車路線有183條不收現金。沒有儲值的卡,就別上公車。
+> 現金不是備案。首爾市「無現金公車」名單(2026年1月)中,396條市區公車路線有183條不收現金。沒卡時首爾市的替代方案是事後銀行轉帳,對觀光客不太實際。沒有儲值的卡,就別上公車。
 
-刷卡票價:藍、綠1,500韓元,社區公車1,200韓元,黃色1,400韓元,紅色3,000韓元,深夜(N)2,500韓元。公車顏色和深夜公車詳見[首爾市區公車](/zh-tw/seoul-bus/)。
+| 顏色 | 種類 | 成人票價(卡) |
+|---|---|---|
+| 藍 | 幹線:市郊與市中心長距離 | 1,500韓元 |
+| 綠 | 支線、社區公車:短程接駁到車站 | 1,500韓元(社區公車1,200韓元) |
+| 黃 | 循環:市中心繞行 | 1,400韓元 |
+| 紅 | 廣域:首都圈與市中心 | 3,000韓元 |
+| N 開頭 | 深夜公車 | 2,500韓元 |
+
+公車顏色和深夜公車詳見[首爾市區公車](/zh-tw/seoul-bus/)。
 
 ## 末班車之後
 
@@ -70,7 +78,7 @@ updated: 2026-11-26
 {{fig:getting-around-5|吃完晚餐,怎麼回飯店?}}
 
 - **末班車:** 首爾市2022年訂下平日末班車約凌晨1點抵達終點站。2025年5月又宣布1~8號線首末班車提早30分鐘,但我們無法確認是否已實施。各站時間不同,請用 NAVER 地圖確認。
-- **深夜公車:** 號碼以 N 開頭的**14條路線**,在晚上11點到早上6點之間行駛,刷卡2,500韓元,氣候同行卡也能搭。
+- **深夜公車:** 號碼以 N 開頭的**14條路線**,在晚上11點到早上6點之間行駛,刷卡2,500韓元,氣候同行卡也能搭。連假期間有時會延長末班車(2026年農曆春節就有延長)。
 
 ## 計程車
 
@@ -81,9 +89,9 @@ updated: 2026-11-26
 - **一般(中型):** 1.6公里內4,800韓元,之後每131公尺或低速時每30秒加100韓元。
 - **中型深夜加成:** 晚上10~11點、凌晨2~4點加20%(起跳5,800韓元),晚上11點~凌晨2點加40%(起跳6,700韓元)。
 - **模範、大型:** 3公里內7,000韓元,晚上10點到凌晨4點加20%。
-- **外國人觀光計程車:** 跳表最多加20%,或從仁川機場的定額車資([機場頁](/zh-tw/airport-to-seoul/))。
+- **外國人觀光計程車:** 跳表最多加20%,或仁川機場↔首爾分區定額(中型7萬~9萬5千韓元,[機場頁](/zh-tw/airport-to-seoul/))。
 
-**用哪個 App?** Kakao Mobility 有兩個。**k.ride** 專為旅客設計:用手機驗證或社群帳號註冊,綁定信用卡、簽帳卡(也支援 Alipay+、微信支付),下車後自動扣款。目的地搜尋和跟司機傳訊息支援 133 種語言,App 介面有英文、日文、簡體和繁體中文。Kakao T 是韓國人用的主 App,台灣的卡一直刷不過的話,就改用 k.ride。
+**用哪個 App?** Kakao Mobility 有兩個。**k.ride** 專為旅客設計:用手機驗證或社群帳號註冊,綁定信用卡、簽帳卡(也支援 Alipay+、微信支付),下車後自動扣款。目的地搜尋和跟司機傳訊息支援 133 種語言,App 介面有英文、日文、簡體和繁體中文。在韓國可以叫 Kakao T 的 Blue、Venti、Black 和模範計程車。Kakao T 是韓國人用的主 App,台灣的卡一直刷不過的話,就改用 k.ride。
 
 {{fig:getting-around-7|k.ride 給旅客的用法}}
 
@@ -91,4 +99,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources">2026年11月26日查閱:首爾市 <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價與轉乘</a>(2025年7月11日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">市區公車體系與票價</a>(2026年3月9日更新)、<a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">無現金公車路線(2026年1月)</a>(2026年3月6日更新)、<a href="https://news.seoul.go.kr/traffic/archives/27974" rel="noopener" target="_blank">深夜公車</a>(2026年3月20日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡短期券</a>(2026年10月12日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">計程車費率</a>(2026年10月14日更新);機場鐵路 <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">首都圈票價規則</a>;k.ride <a href="https://apps.apple.com/us/app/id6474654222" rel="noopener" target="_blank">App Store 資訊</a>(Kakao Mobility);The Korea Herald <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">地鐵售票機接受海外卡</a>(2026年3月16日)、<a href="https://www.koreaherald.com/article/10878189" rel="noopener" target="_blank">2027年起首爾公車可刷海外卡</a>(2026年9月18日)。這次未能重新開啟的:首爾市海外卡交通支付規劃(2025年10月16日)、首爾市媒體中心深夜地鐵(2022年5月30日)、首爾市首末班車調整方案(2025年5月27日)、亞洲經濟票價調漲(2025年6月28日)與 k.ride(2025年3月27日)。</p>
+<p class="sources">2026年11月26日查閱:首爾市 <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價與轉乘</a>(2025年7月11日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">市區公車體系與票價</a>(2026年3月9日更新)、<a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">無現金公車路線(2026年1月)</a>(2026年3月6日更新)、<a href="https://news.seoul.go.kr/traffic/archives/27974" rel="noopener" target="_blank">深夜公車</a>(2026年3月20日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡短期券</a>(2026年10月12日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">計程車費率</a>(2026年10月14日更新);機場鐵路 <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">首都圈票價規則</a>;k.ride <a href="https://apps.apple.com/us/app/id6474654222" rel="noopener" target="_blank">App Store 資訊</a>(Kakao Mobility);The Korea Herald <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">地鐵售票機接受海外卡</a>(2026年3月16日)、<a href="https://www.koreaherald.com/article/10878189" rel="noopener" target="_blank">2027年起首爾公車可刷海外卡</a>(2026年9月18日)。這次未能重新開啟的:首爾市海外卡交通支付規劃(2025年10月16日)、首爾市媒體中心深夜地鐵(2022年5月30日)、首爾市首末班車調整方案(2025年5月27日)、亞洲經濟票價調漲(2025年6月28日)與 k.ride(2025年3月27日)、首爾市媒體中心氣候同行卡觀光券(2024年10月)與無現金公車(2024年2月15日)、Digital Daily 外國旅客付款不便(2026年9月15日)、Insight 2026年春節交通延長(2026年2月9日)。</p>
