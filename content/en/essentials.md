@@ -30,8 +30,8 @@ How we chose: these are the six things that stop you on day one if they are miss
 Foreign visitors file an electronic arrival card online, free, from three days before arrival. Incheon Airport says all foreigners are required to submit it in principle; the official FAQ still allows filing online or on paper before immigration if you missed it, but don't plan on paper. Field-by-field help: [Korea e-Arrival Card](/e-arrival-card/).
 
 - Apply only on the official site, [e-arrivalcard.go.kr](https://www.e-arrivalcard.go.kr). Look-alike sites charge a fee for the same form.
-- You need your passport, flight number and where you are staying.
-- If your flight moves by more than three days, submit again.
+- You need your passport photo page, flight number and where you are staying.
+- You get a confirmation PDF. It is valid for 72 hours, so if your flight moves by more than that, submit again.
 - You do not need one if you hold a valid K-ETA or are a registered foreign resident.
 
 {{fig:essentials-2|Which form you need, in two questions}}
@@ -84,8 +84,8 @@ Download these on wifi at home and set the language first. Naver Map is the one 
 
 | App | Use it for | Notes |
 |---|---|---|
-| Naver Map | Walking, subway and bus directions | Korean, English, Chinese and Japanese |
-| Kakao Map | Directions | A good second opinion |
+| Naver Map | Walking, subway and bus directions | The standard in Korea. Supports Korean, English, Chinese and Japanese |
+| Kakao Map | Directions | A good second opinion; feels closest to Google Maps |
 | Kakao T | Taxis | English interface. Pay by card or in the car |
 | Papago | Translation | Point the camera at a menu or sign |
 | Subway Korea | Subway routes and transfers | Works offline once downloaded |
@@ -93,7 +93,7 @@ Download these on wifi at home and set the language first. Naver Map is the one 
 
 ### What about Google Maps?
 
-In February 2026 the government conditionally approved Google's request to export detailed map data. On 13 November it confirmed Google had met the security conditions, and on 23 November Google announced partnerships for transit, parking and charging data, but still no launch date for full directions ([Korea Herald](https://www.koreaherald.com/article/10946522)). Until it launches, use Naver Map.
+In February 2026 the government conditionally approved Google's request to export detailed map data, and Google has said it plans full navigation in Korea, including turn-by-turn directions. On 13 November it confirmed Google had met the security conditions, and on 23 November Google announced partnerships for transit, parking and charging data, but still no launch date for full directions ([Korea Herald](https://www.koreaherald.com/article/10946522)). Until it launches, use Naver Map.
 
 ## 6. Getting from Incheon Airport
 

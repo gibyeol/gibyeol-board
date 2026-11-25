@@ -39,7 +39,7 @@ Then stop. Drop your bags, walk your own neighborhood, and eat close to the hote
 
 {{fig:first-trip-2|Day one in four steps, with nothing booked for the evening}}
 
-> The day-1 mistake: booking a palace, a show or a dinner for the evening you land. A late flight, a slow immigration line or one wrong train and it is gone. Leave day 1 empty on purpose.
+> The day-1 mistake: booking a palace, a show or a dinner for the evening you land. A late flight, a slow immigration line or one wrong train and it is gone, and you start the trip tired and annoyed. Leave day 1 empty on purpose. If you land early and feel fine, a walk around the area you are staying in is plenty.
 
 ## Day 2: palaces and old Seoul
 
@@ -54,7 +54,7 @@ Adult entry to either is ₩3,000. Visitors wearing hanbok get in free, and so d
 
 {{fig:first-trip-3|Closing days, November hours and the Bukchon window}}
 
-**Late morning: Bukchon, quietly.** The hanok lanes between the two palaces are people's homes. In the red zones, visitors are allowed only from 10:00 to 17:00, so go after your palace. Keep your voice down and don't step into doorways.
+**Late morning: Bukchon, quietly.** The hanok lanes between the two palaces are people's homes. In the red zones, visitors are allowed only from 10:00 to 17:00, so go after your palace, not before breakfast and not after dark. Keep your voice down and don't step into doorways.
 
 **Afternoon:** lunch around Insadong or Ikseon-dong, then go back to the hotel for an hour. That break is what makes the evening possible.
 

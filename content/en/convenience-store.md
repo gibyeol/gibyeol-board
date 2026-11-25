@@ -23,7 +23,7 @@ Day one: you hand the cashier a T-money card and some won cash, say how much, an
 
 ## The big four, and are they really 24 hours?
 
-The four chains are **CU**, **GS25**, **7-Eleven** and **emart24**, with 53,266 stores between them at the end of 2025.
+The four chains are **CU**, **GS25**, **7-Eleven** and **emart24**, with 53,266 stores between them at the end of 2025. That number dropped by about 3% in a year as chains closed weaker stores, but in a city you are rarely more than a short walk from one.
 
 Most of them, but not all, are open 24 hours. In June 2025, 42,791 stores ran around the clock, which is about 78% of the total. The other one in five closes at night, and some of these become unstaffed after hours. If you are counting on a store at 3 a.m., check the hours on the door or in Naver Map.
 
@@ -33,7 +33,7 @@ The 24-hour rule matters for one reason: under Korean pharmacy law, only a store
 
 VISITKOREA, the official tourism site, says T-money cards are sold and loaded at convenience stores across the country, including GS25, CU and 7-Eleven, and that the card itself usually costs ₩3,000–5,000.
 
-What you pay with is the catch. As reported in March 2026, T-money top-ups have taken only cash, Korean-issued cards or Korean phone billing. We could not find any chain saying it accepts foreign cards for top-ups at the counter, so plan on **won cash**.
+What you pay with is the catch. As reported in March 2026, T-money top-ups have taken only cash, Korean-issued cards or Korean phone billing. We could not find any chain saying it accepts foreign cards for top-ups at the counter, so plan on **won cash**. Hand over the card and the cash, say how much, and the staff load it.
 
 {{fig:convenience-store-1|Topping up at the counter, and what to do without cash}}
 
@@ -49,11 +49,11 @@ In winter, convenience stores sell heat packs (핫팩, "hat-paek"), masks and wa
 
 ## Ramyeon at the store
 
-Cup ramyeon works at any store. For packet ramyeon, some CU branches have cooking machines: at CU's "Ramyun Library" store in Hongdae you buy a packet, and the machine cooks it in a disposable bowl. The machine charge was ₩900 when the Korea Herald reported on it, so check the price at the store.
+Eating instant noodles at the window counter is part of the fun of the store. Cup ramyeon works at any store. For packet ramyeon, some CU branches have cooking machines: at CU's "Ramyun Library" store in Hongdae you buy a packet, and the machine cooks it in a disposable bowl. The machine charge was ₩900 when the Korea Herald reported on it, so check the price at the store.
 
 {{fig:convenience-store-3|How the ramyeon machine works}}
 
-CU says it runs more than 40 ramyeon-focused stores, including ones at Incheon Airport and Myeongdong Station. Ordinary branches may not have a machine at all.
+CU says it runs more than 40 ramyeon-focused stores, including ones at Incheon Airport and Myeongdong Station, and its stores along the Han River are known for cooked ramyeon outdoors. Ordinary branches may not have a machine at all.
 
 ## How to read 1+1 and 2+1 tags
 

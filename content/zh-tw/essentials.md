@@ -30,8 +30,8 @@ updated: 2026-11-26
 外國旅客從抵達前 3 天起,可上網免費填寫電子入境卡。仁川機場說明原則上所有外國人都要填;官方 FAQ 則表示,若未事先填寫,入境審查前仍可上網或用紙本補填。但不要把紙本當成計畫。每一欄怎麼填,請看[電子入境卡](/zh-tw/e-arrival-card/)。
 
 - 只在官方網站 [e-arrivalcard.go.kr](https://www.e-arrivalcard.go.kr) 填寫。網路上有收手續費的山寨網站。
-- 需要護照、航班號碼與住宿地址。
-- 航班變動超過 3 天,請重新填寫。
+- 需要護照照片頁、航班號碼與住宿地址。
+- 送出後會收到確認 PDF,效期 72 小時。航班如果大幅延誤,請重新填寫。
 - 持有效 K-ETA 或已在韓國登錄外國人者不需填寫。
 
 {{fig:essentials-2|兩個問題,看你要辦哪一個}}
@@ -84,8 +84,8 @@ iPhone 可用海外 Mastercard、Amex、銀聯為 Mobile T-money App 儲值(Visa
 
 | App | 用途 | 備註 |
 |---|---|---|
-| Naver Map | 步行、地鐵、公車路線 | 支援中文 |
-| Kakao Map | 路線查詢 | 拿來交叉比對 |
+| Naver Map | 步行、地鐵、公車路線 | 韓國最常用,支援中文 |
+| Kakao Map | 路線查詢 | 拿來交叉比對;操作最接近 Google Maps |
 | Kakao T | 叫計程車 | 有英文介面,可用信用卡 |
 | Papago | 翻譯 | 用相機翻譯菜單與招牌 |
 | Subway Korea | 地鐵路線與轉乘 | 下載後可離線使用 |
@@ -93,7 +93,7 @@ iPhone 可用海外 Mastercard、Amex、銀聯為 Mobile T-money App 儲值(Visa
 
 ### Google Maps 能用嗎?
 
-2026 年 2 月政府有條件核准 Google 將高精度地圖資料帶出境。11 月 13 日確認 Google 已符合安全條件,11 月 23 日 Google 公布交通、停車、充電資料的合作計畫,但完整導航的上線日期仍未公布([韓國先驅報](https://www.koreaherald.com/article/10946522))。在那之前,用 Naver Map 最可靠。
+2026 年 2 月政府有條件核准 Google 將高精度地圖資料帶出境,Google 也表示計畫在韓國提供包含逐步導航的完整服務。11 月 13 日確認 Google 已符合安全條件,11 月 23 日 Google 公布交通、停車、充電資料的合作計畫,但完整導航的上線日期仍未公布([韓國先驅報](https://www.koreaherald.com/article/10946522))。在那之前,用 Naver Map 最可靠。
 
 ## 6. 從仁川機場進市區
 

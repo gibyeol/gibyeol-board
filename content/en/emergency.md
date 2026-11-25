@@ -40,7 +40,9 @@ How we chose: the problems below are the ones official visitor guidance and comp
 | 1339 | Health questions and infectious disease (KDCA) | 24 hours |
 | 1345 | Immigration Contact Center (visas, stay) | Multilingual |
 
-112 centres interpret English and Chinese in-house; other languages go through outside interpreters ([Korea Herald, October 2026](https://www.koreaherald.com/article/10913898)). Korea's dedicated tourist police were disbanded in 2023, so don't look for them; call 112.
+112 centres interpret English and Chinese in-house; other languages go through outside interpreters ([Korea Herald, October 2026](https://www.koreaherald.com/article/10913898)). 1330's chat channels are on our [Everyday Korea](/everyday/) page.
+
+Korea's dedicated **tourist police** were disbanded in 2023, so don't look for them; call 112. In 2026 the police added foreign-affairs teams of officers chosen for their language skills, starting with Jongno, Yongsan and Jung in Seoul.
 
 ## What visitors actually run into
 
@@ -51,7 +53,7 @@ Usually the most fixable one. Start from how you paid:
 {{fig:emergency-2|Three routes back to a taxi, by how you paid}}
 
 - **Booked with an app** (Kakao T and similar): the trip record shows the driver's number.
-- **Paid by transport card**: the card company can trace the taxi from your card number. T-money is 1644-1188, Cashbee 1644-1472 (Seoul city guidance).
+- **Paid by transport card**: the card company can trace the taxi from your card number. T-money is 1644-1188, Cashbee 1644-1472 (Seoul city guidance). Have the card number ready.
 - **Paid cash, no app**: note the plate if you can, the pickup and drop-off place and the time, and ask 1330 to help you call the taxi association.
 
 Taxi companies keep lost items for about a week before handing them to the police.
@@ -67,7 +69,7 @@ Once an item reaches the police, it is kept for six months. Since January 2026 t
 {{fig:emergency-3|Lost passport: police box, embassy, then 1345 if needed}}
 
 1. Go to the nearest police station or police box (지구대 / 파출소) and ask for a **loss report confirmation** (분실신고 확인서). Embassies, immigration offices and banks ask for it.
-2. Contact your embassy for an emergency travel document or new passport. Bring passport photos, a copy or the number of the lost passport if you have it, the police report and your flight details. How long it takes depends on your country, so if your departure date is close, say so at the first contact.
+2. Contact your embassy for an emergency travel document or new passport. Bring passport photos, a copy or the number of the lost passport if you have it, the police report and your flight details. How long it takes depends on your country: the Netherlands, for example, quotes about three working days for an emergency document after the appointment. If your departure date is close, say so at the first contact.
 3. If you have questions about your stay or visa, call 1345.
 
 ### An overcharged taxi fare
@@ -113,4 +115,4 @@ Most people never use this page. The five minutes above are so you don't have to
 
 ## Sources
 
-<p class="sources">Re-opened 26 November 2026: Korea Herald, <a href="https://www.koreaherald.com/article/10913898" rel="noopener" target="_blank">112 interpretation in English and Chinese</a> (25 October 2026); Korea Tourism Organization, <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454" rel="noopener" target="_blank">1330 Korea Travel Helpline</a> (overseas number, chat channels, complaints). Not re-opened this round, wording kept from the 25 November 2026 check: Korea.net on 112 interpretation (19 March 2024); Korea Times on the 2023 end of the tourist police (26 January 2026); Newsis on 1330 hours and languages (29 July 2026, site not reachable from our checker); KDCA, 1339 call center (checked 25 November 2026); Naeil Shinmun on lost passports and 1345 (26 February 2026); Seoul Metropolitan Government Mediahub on lost items in taxis and buses (7 October 2021) and on the subway (24 February 2023); Korea.kr on the Police Civil Service 24 lost-and-found search (1 October 2026); Seoul Metropolitan Government on taxi complaints from foreigners (19 October 2026) and the 2025 crackdown (6 August 2025); Ministry of Justice, Emergency Ready App notice (1 August 2025); US State Department travel advisory (11 August 2025); Government of Canada travel advice (15 October 2026).</p>
+<p class="sources">Re-opened 26 November 2026: Korea Herald, <a href="https://www.koreaherald.com/article/10913898" rel="noopener" target="_blank">112 interpretation in English and Chinese</a> (25 October 2026); Korea Tourism Organization, <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454" rel="noopener" target="_blank">1330 Korea Travel Helpline</a> (overseas number, chat channels, complaints). Not re-opened this round, wording kept from the 25 November 2026 check: Korea.net on 112 interpretation (19 March 2024); Korea Times on police foreign-affairs teams and the 2023 end of the tourist police (26 January 2026); Newsis on 1330 hours and languages (29 July 2026, site not reachable from our checker); Netherlands Worldwide, emergency travel document in South Korea (26 March 2026); KDCA, 1339 call center (checked 25 November 2026); Naeil Shinmun on lost passports and 1345 (26 February 2026); Seoul Metropolitan Government Mediahub on lost items in taxis and buses (7 October 2021) and on the subway (24 February 2023); Korea.kr on the Police Civil Service 24 lost-and-found search (1 October 2026); Seoul Metropolitan Government on taxi complaints from foreigners (19 October 2026) and the 2025 crackdown (6 August 2025); Ministry of Justice, Emergency Ready App notice (1 August 2025); US State Department travel advisory (11 August 2025); Government of Canada travel advice (15 October 2026).</p>
