@@ -5,6 +5,10 @@ lede: Our call: the subway does most of the work, buses fill the gaps once you t
 section: transport
 updated: 2026-11-26
 ---
+## Your first ride
+
+The first tap is the moment the city opens up: you touch your card to the gate, the reader shows your balance, and you are in. Follow the line number to your platform, change lines without leaving the gates, and tap out at the numbered exit your map app picked. Our pick for the end of a first day: a bus back to the hotel, a second tap as you step down, and no second base fare if your next ride comes within the transfer window.
+
 ## The one-line judgment
 
 | Situation | Do this | Why |
@@ -16,7 +20,7 @@ updated: 2026-11-26
 
 {{fig:getting-around-1|Base fares for an adult paying by transport card}}
 
-What we left out on purpose: Uber, bike share, and intercity trains (KTX has its own page). Airport to hotel: [Incheon Airport to Seoul](/airport-to-seoul/). Step-by-step guides: [Seoul subway](/seoul-subway/) and [Seoul city buses](/seoul-bus/).
+We picked three ways to move: subway, bus, taxi. What we left out on purpose: Uber, bike share, and intercity trains (KTX has its own page). Airport to hotel: [Incheon Airport to Seoul](/airport-to-seoul/). Step-by-step guides: [Seoul subway](/seoul-subway/) and [Seoul city buses](/seoul-bus/).
 
 ## First: get a card
 
@@ -57,7 +61,7 @@ Buses are easy once you follow two habits: a loaded card when you board, a secon
 
 > Cash is not a backup. Seoul lists 183 of its 396 city bus routes as cashless (January 2026). Never board a bus without a loaded card.
 
-Bus colours, fares and night buses: [Seoul city buses](/seoul-bus/).
+Fares by card: blue and green ₩1,500, village ₩1,200, yellow ₩1,400, red ₩3,000, night (N) ₩2,500. Bus colours and night buses in detail: [Seoul city buses](/seoul-bus/).
 
 ## After the last train
 

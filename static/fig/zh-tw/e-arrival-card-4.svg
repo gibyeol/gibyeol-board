@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 760" role="img" aria-label="填寫順序" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="760" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">填寫順序</text>
+<text x="16" y="62" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">欄位只能輸入英文或韓文</text>
+<rect x="16" y="76" width="368" height="10" rx="0" fill="none"/>
+<rect x="16" y="76" width="368" height="666" rx="22" fill="#e9e2d3" stroke="#16151a" stroke-width="2"/><rect x="28" y="88" width="344" height="28" rx="14" fill="#ffffff"/><text x="200.0" y="108" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">e-arrivalcard.go.kr</text>
+<rect x="28" y="128" width="344" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="56.0" cy="162.0" r="16.0" fill="#16151a"/>
+<text x="56.0" y="168.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="84" y="162" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">同意條款 + email</text>
+<text x="84" y="184" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">代表人,年滿 14 歲</text>
+<rect x="28" y="204" width="344" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="56.0" cy="238.0" r="16.0" fill="#16151a"/>
+<text x="56.0" y="244.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="84" y="238" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">護照</text>
+<text x="84" y="260" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">掃描或上傳資料頁</text>
+<rect x="28" y="280" width="344" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="56.0" cy="314.0" r="16.0" fill="#16151a"/>
+<text x="56.0" y="320.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="84" y="314" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">入境資訊</text>
+<text x="84" y="336" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">抵達日期與班機號碼</text>
+<rect x="28" y="356" width="344" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="56.0" cy="390.0" r="16.0" fill="#16151a"/>
+<text x="56.0" y="396.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="84" y="390" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">出境資訊</text>
+<text x="84" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">日期必填,班機可不填</text>
+<rect x="28" y="432" width="344" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="56.0" cy="466.0" r="16.0" fill="#16151a"/>
+<text x="56.0" y="472.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="84" y="466" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">入境目的 + 職業</text>
+<text x="84" y="488" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">例如觀光</text>
+<rect x="28" y="508" width="344" height="68" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="56.0" cy="542.0" r="16.0" fill="#b8392f"/>
+<text x="56.0" y="548.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="84" y="542" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">在韓住址</text>
+<text x="84" y="564" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">飯店的英文地址</text>
+<rect x="28" y="584" width="344" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="56.0" cy="618.0" r="16.0" fill="#16151a"/>
+<text x="56.0" y="624.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="84" y="618" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">確認後送出</text>
+<text x="84" y="640" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">逐字對照護照</text>
+<rect x="28" y="660" width="344" height="68" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="56.0" cy="694.0" r="16.0" fill="#b8392f"/>
+<text x="56.0" y="700.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">8</text>
+<text x="84" y="694" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">核發號碼</text>
+<text x="84" y="716" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">存 PDF、收 email</text>
+</svg>

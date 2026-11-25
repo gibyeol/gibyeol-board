@@ -7,7 +7,7 @@ report: no
 byline: no
 ---
 <div id="namer" data-lang="ja"></div>
-<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name-concepts.js" defer></script><script src="/static/name-koread.js" defer></script><script src="/static/name.js" defer></script>
+<script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name-concepts.js" defer></script><script src="/static/name-world.js" defer></script><script src="/static/name-koread.js" defer></script><script src="/static/name.js" defer></script>
 
 ## しくみ
 
@@ -15,7 +15,7 @@ byline: no
 - **意味。** 由来と意味を確実・有力・不確かで示し、出典つき。同じ意味を韓・日・中の言葉と実在の名前でも:Grace → 은혜 · 恵(めぐみ) · 恩惠。
 - **ほかの国でのあなたの名前。** Sophiaはスペインで Sofía、ポーランドで Zofia、ハンガリーで Zsófia。Yusuf や Seán のような形は元の名前につながります。
 - **いちばん愛されている国。** 公式統計の赤ちゃんの名前ランキングで上位の国。同じ名前の人の数を数える国はないため、人数ではなく順位で示します。
-- **韓国でつながる場所。** 一歩ごとに出典と確かさを示した短い物語、行った人のひとことの欄、そして次の名前。
+- **世界でつながる場所。** 意味ごとに、いくつもの国で確認した物語や場所を、出典・確認日・確かさ(伝説は「伝承」)つきで。韓国もその一つで、韓国の物語はNadriの韓国ガイドへつながります。そして「その国で生まれていたら」:国ごとの同じ意味の名前、行った人のひとことの欄、次の名前。
 - **漢字の名前**は一字ずつ韓国の訓と音で:花は「꽃 화」。
 - **17言語。** ツールの上で言語を切り替えられます。
 
@@ -23,4 +23,4 @@ byline: no
 
 ## 物語の出典
 
-<p class="sources">名前の意味・各国の形・人気順位:Behind the Name(behindthename.com)、2026年11月25日確認。天の川の伝承(カリクストゥス写本):バチカン天文台。国立ハングル博物館の休館:Korea Times(2025年9月9日)。集賢殿と修政殿:韓国民族文化大百科事典。世宗物語展示:ソウル市メディアハブ(2026年)。済州オルレとサンティアゴ巡礼路:大韓民国政策ブリーフィング、済州オルレ。臨津閣・平和ヌリ公園:坡州市・京畿道。瞻星台:韓国民族文化大百科事典。鎮海軍港祭:昌原市と2026年の祭りの報道。</p>
+<p class="sources">名前の意味・各国の形・人気順位:Behind the Name(behindthename.com)、2026年11月25日確認。天の川の伝承(カリクストゥス写本):バチカン天文台。国立ハングル博物館の休館:Korea Times(2025年9月9日)。集賢殿と修政殿:韓国民族文化大百科事典。世宗物語展示:ソウル市メディアハブ(2026年)。済州オルレとサンティアゴ巡礼路:大韓民国政策ブリーフィング、済州オルレ。臨津閣・平和ヌリ公園:坡州市・京畿道。瞻星台:韓国民族文化大百科事典。鎮海軍港祭:昌原市と2026年の祭りの報道。 世界の物語:項目ごとに出典を記載(ウィキペディア英語・日本語・中国語・スペイン語・韓国語版、Behind the Name、ユネスコ世界遺産センター)、2026年11月25日確認。世界の項目の日本語・中国語は私たちの翻訳で、ネイティブの確認待ちです。</p>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-label="환급 전표, 공항에서는" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="320" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">환급 전표, 공항에서는</text>
+<rect x="16" y="54" width="368" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="44.0" cy="88.0" r="16.0" fill="#16151a"/>
+<text x="44.0" y="94.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="72" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">물건은 기내 가방에</text>
+<text x="72" y="110" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">세관이 물건을 확인할 수 있어요</text>
+<rect x="16" y="130" width="368" height="68" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="44.0" cy="164.0" r="16.0" fill="#b8392f"/>
+<text x="44.0" y="170.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="72" y="164" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">환급부터</text>
+<text x="72" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">짐을 부치기 전에</text>
+<rect x="16" y="206" width="368" height="46" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="44.0" cy="229.0" r="16.0" fill="#16151a"/>
+<text x="44.0" y="235.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="72" y="236" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">그다음 짐 부치기</text>
+<text x="16" y="282" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">시내 환급 키오스크에서도 돼요.</text>
+<text x="16" y="304" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">구매 후 3개월 안에 반출해야 해요.</text>
+</svg>

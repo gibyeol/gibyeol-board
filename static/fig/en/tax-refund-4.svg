@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" role="img" aria-label="Refund slip at the airport" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="320" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Refund slip at the airport</text>
+<rect x="16" y="54" width="368" height="68" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="44.0" cy="88.0" r="16.0" fill="#16151a"/>
+<text x="44.0" y="94.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="72" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Goods in your hand luggage</text>
+<text x="72" y="110" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Customs may ask to see them</text>
+<rect x="16" y="130" width="368" height="68" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="44.0" cy="164.0" r="16.0" fill="#b8392f"/>
+<text x="44.0" y="170.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="72" y="164" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Refund first</text>
+<text x="72" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Before you check in your bags</text>
+<rect x="16" y="206" width="368" height="46" rx="8" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<circle cx="44.0" cy="229.0" r="16.0" fill="#16151a"/>
+<text x="44.0" y="235.0" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="72" y="236" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Then check in your bags</text>
+<text x="16" y="282" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Or claim at a downtown refund kiosk.</text>
+<text x="16" y="304" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Goods must leave Korea within 3 months.</text>
+</svg>

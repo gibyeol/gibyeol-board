@@ -6,6 +6,10 @@ section: essentials
 disclosure: yes
 updated: 2026-11-26
 ---
+## Your first hour in Korea
+
+Plan the hour after baggage claim; it sets the tone of the trip. Visit Seoul says to allow one to two hours from landing for immigration and bags. Then go down to the Transportation Center on B1, buy a T-money card at the convenience store, and tap it at the AREX gate: the reader shows your balance and you are through. The first stations are names you won't know yet: Unseo, Yeongjong, Cheongna International City. Then come the names from your map: Gimpo Airport, Hongik Univ., Gongdeok, Seoul Station. Our pick for the ending: step out at the station or bus stop nearest your bed, not the ride that looked fastest on paper.
+
 ## The short answer
 
 | If you are staying near | Take | Why |
@@ -17,7 +21,7 @@ updated: 2026-11-26
 
 {{fig:airport-to-seoul-1|Four ways from Terminal 1 into Seoul, adult fares}}
 
-What we left out: Gimpo Airport and car hire. Once you are in the city, [Getting around Seoul](/getting-around/) takes over.
+We picked three rides and one fallback for groups. What we left out: Gimpo Airport and car hire. Once you are in the city, [Getting around Seoul](/getting-around/) takes over.
 
 ## AREX Express: the calm option
 
@@ -86,6 +90,14 @@ Decide before you fly, because the trains stop earlier than people expect.
 - Visit Seoul tells you to allow 1–2 hours after landing for immigration and baggage, so a flight landing after about 9 p.m. can miss it.
 - The all-stop train runs later; check its last train on the AREX site for your date.
 - After the trains, late-night buses run to Gangnam (N6000), Hongdae and Cheongnyangni (N6002), Seoul Station and Dongdaemun (N6701), and Jamsil and Gwangnaru (N6703) for ₩17,000–18,000. Their first departures from Terminal 1 are between 23:40 and 00:10. Buy the ticket at the bus counter or a machine.
+
+## The night before you fly
+
+Ten minutes of planning makes the first hour easy.
+
+1. Find your hotel's district and pick the ride from the table at the top.
+2. Bus? Note the route number. Taxi? Note your district's fixed fare.
+3. Landing after about 9 p.m.? Note the late-night bus for your area too.
 
 ## Sources
 

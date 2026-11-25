@@ -1,40 +1,74 @@
 ---
 title: How to shop Olive Young like a local
-description: The four Olive Young Sales, the monthly Olive Young Day, tax-free shopping with your passport, and buying online after your trip.
-lede: Olive Young is Korea's biggest health and beauty chain, and its prices move on a schedule. Time your visit to it and the same basket can cost far less.
+description: When the four Olive Young Sales fall, how the tax comes off at the till with your passport, three basics worth buying, and how to reorder from home.
+lede: Olive Young is Korea's biggest health and beauty chain, and its prices move on a schedule. Time your visit to the sale, bring your passport, and keep the basket short enough that you use it all.
 section: oy
 disclosure: yes
-updated: 2026-11-23
+updated: 2026-11-26
 ---
+## A sale-week visit, start to finish
+
+Picture the till, because that is where the savings land: you put down your basket, hand over your passport, the cashier scans it and the tax comes off the receipt before you pay. During the Olive Young Sale that sits on top of the sale price. Our pick for the ending is not the full bag you carry out but the week after: a sunscreen you are actually using up and a box of sheet masks you are working through. That is why our starter list is short.
+
+## The one-line judgment
+
+| Situation | Do this | Why |
+|---|---|---|
+| Your trip overlaps the first week of March, June, September or December | Shop during the Olive Young Sale | The year's widest discounts, in stores and online |
+| Any other week | Shop anyway, with your passport | The tax comes off at the till on receipts of ₩15,000–₩1,000,000 |
+| New to K-beauty | Start with three basics | Sunscreen, toner pads, sheet masks: low price, easy to pack, easy to use up |
+| Already home | Olive Young Global, or Olive Young US in the US | Global stopped serving US customers on 29 May 2026 |
+
 ## The sale calendar
 
-Olive Young runs two kinds of sales. Only one is worth planning a trip around.
+Only one of Olive Young's two kinds of sale is worth planning a trip around.
 
-| Event | When | What visitors get |
-|---|---|---|
-| **Olive Young Sale** | Four times a year, around the start of March, June, September and December, for about seven days | The widest discounts of the year, in stores and online |
-| Olive Young Day | The 25th to 27th of every month | Smaller in-store deals. Most extra coupons go to Korean app members |
+{{fig:olive-young-1|The Olive Young year: four big sales, one small monthly event}}
 
-The 2026 Olive Young Sales ran 1–7 March, 31 May–6 June and 30 August–5 September. The December sale falls in the first week of December; we will put the confirmed dates on the [deals board](/deals/) as soon as Olive Young announces them.
+- **Olive Young Sale:** four times a year, in March, June, September and December, for about seven days. The 2026 sales ran 1–7 March, 31 May–6 June and 30 August–5 September. The December sale falls in the first week of December; we will put the confirmed dates on the [deals board](/deals/) when Olive Young announces them.
+- **Olive Young Day:** the 25th to 27th of every month. Smaller in-store deals; most extra coupons go to Korean app members.
+
+The waiting is part of it: put the sale week in your calendar and write a three-item list before you fly.
 
 {{deals:2}}
 
 ## In the store
 
-- **Bring your passport.** Olive Young offers immediate tax refunds, so the tax comes off at the till on any receipt from ₩15,000 to ₩1,000,000. This works during sales too, which stacks the savings. [How tax refunds work](/tax-refund/)
-- Big flagship stores in Myeongdong and Seongsu carry the widest range and have staff used to visitors. Smaller branches can be calmer during sale week.
-- 1+1 and 2+1 offers (buy one get one, buy two get one) are everywhere during sales. Check the shelf tag; the deal often applies only to a specific set.
+The passport is the one thing that changes the price at the till, so treat it like your wallet.
 
-## What to look for
+1. **Bring your physical passport.** The shop scans it; a photo will not do.
+2. **Read the shelf tag.** 1+1 (buy one, get one) and 2+1 (buy two, get one) are everywhere during sales; check which item or set the tag covers.
+3. **Pay with your passport.** On a receipt of ₩15,000 to ₩1,000,000 the tax comes off on the spot, sale prices included.
+4. **Over ₩1,000,000 on one receipt?** You pay full price and claim the refund at a kiosk or the airport. [How tax refunds work](/tax-refund/)
 
-Olive Young Awards winners and sets made only for the sale tend to be the best value in December, because the year-end sale is built around the year's bestsellers. Skincare staples such as sunscreen, toner pads and sheet masks are the safest buys if you are new to K-beauty: low price, easy to pack, easy to use up.
+{{fig:olive-young-3|What to check on a 1+1 shelf tag}}
+
+{{fig:olive-young-2|Immediate tax refund at the till, per receipt}}
+
+> Receipts from different stores do not add up. Each receipt has to reach ₩15,000 on its own, so do your shopping in one store rather than three.
+
+Big stores in Myeongdong and Seongsu carry the widest range and have staff used to visitors; smaller branches can be calmer in sale week.
+
+## What to buy: three basics
+
+We pick three because a short list is the one you finish.
+
+{{fig:olive-young-4|A starter basket of three, and why each one}}
+
+- **Sunscreen:** you use it every day, so you finish it. Pick SPF and PA for the days you actually have.
+- **Toner pads:** one container, easy to pack, quick to use.
+- **Sheet masks:** cheap, flat, and one use each.
+
+In December the sale is built around the year's bestsellers, so Olive Young Awards winners and sale-only sets tend to be the best value. What we left out: viral items and rankings. A ranking tells you what sells, not what suits you. Who doesn't need this list: anyone with a routine already; buy your refills during the sale.
 
 ## Buying after your trip
 
-Olive Young Global ships to many countries but, since 29 May 2026, no longer serves customers in the United States, who now shop at Olive Young US. If you cannot wait for your next visit, these are the options worth comparing.
+Reordering is easy as long as you use the right store for where you live.
 
-{{aff:yesstyle_oy|Shop K-beauty from home}}
+{{fig:olive-young-5|Where to reorder from home}}
+
+Olive Young Global ships to many countries. Since 29 May 2026 it no longer serves customers in the United States, who now shop at Olive Young US. Check delivery to your country at checkout.
 
 ## Sources
 
-<p class="sources">CJ Olive Young newsroom announcements of the 2026 Olive Young Sales; Olive Young Global help centre notice on the US platform change (May 2026); Creatrip 2026 Olive Young sale calendar.</p>
+<p class="sources">Opened 26 November 2026 (KST): The Korea Times, <a href="https://www.koreatimes.co.kr/business/companies/20260622/foreign-repeat-visits-to-olive-young-sale-surge-11-fold-in-3-years" rel="noopener" target="_blank">Olive Young Sale every March, June, September and December</a> (22 June 2026); our <a href="/tax-refund/">tax refund page</a> (refund limits, physical passport). Searched, no official December 2026 announcement found as of 26 November 2026. Not reopened this time (sites blocked from our checking environment): CJ Olive Young newsroom announcements of the 2026 sales; Olive Young Global help centre notice on the US platform change (May 2026); Creatrip 2026 sale calendar.</p>

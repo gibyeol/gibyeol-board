@@ -461,12 +461,26 @@
     if (bornL) { r.born = { id: bornL }; more = bornBlock(r.born) + more; }
     if (r.chars) { r.born = bornFromHanja(r.chars.map(function (x) { return x.c; })); if (r.born) more = bornBlock(r.born) + more; }
     var latinConcept = r.kind === 'latin' && key && ((window.NADRI_CONCEPT_OF || {}).latin || {})[key];
-    if (latinConcept) more += conceptBlock(latinConcept, { noChain: !!(r.chain) });
+    var WD = window.NADRI_WORLD || {};
+    if (latinConcept) more += conceptBlock(latinConcept, { noChain: !!(r.chain) || !!WD[latinConcept] });
     // Korean names: surname count, baby-name rank, hanja picker, native meaning
     if (r.kind === 'hangul' && r.ko) more += koSections(r);
-    if (r.chars) { var cids = conceptsForHanja(r.chars.map(function (x) { return x.c; })); cids.forEach(function (id, i) { more += conceptBlock(id, { noChain: i > 0 && !!r.chain }); }); if (cids.length) r.chain = null; }
-    // 5. chain into Korea, with the slot for travellers' lines and the next name
-    var steps = r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
+    var cids = r.chars ? conceptsForHanja(r.chars.map(function (x) { return x.c; })) : [];
+    cids.forEach(function (id, i) { more += conceptBlock(id, { noChain: (i > 0 && !!r.chain) || !!WD[id] }); });
+    // 5. where the meaning leads around the world: many regions, Korea one of them (its chain keeps the links to our guides)
+    var wids = [];
+    if (latinConcept && WD[latinConcept]) wids.push(latinConcept);
+    cids.forEach(function (id) { if (WD[id] && wids.indexOf(id) < 0) wids.push(id); });
+    if (!wids.length && r.chain && WD[r.chain]) wids.push(r.chain);
+    var krChain = r.kind === 'latin' ? r.chain : null;
+    if (cids.length) r.chain = null;
+    if (wids.length) {
+      r.worldId = wids[0];
+      if (!r.born) more = worldBornBlock(wids[0]) + more;
+      wids.slice(0, 2).forEach(function (id, i) { more += worldBlock(id, i === 0 ? krChain : null, name); });
+    }
+    // Korea-only chain (meanings we have not mapped worldwide yet), with the slot for travellers' lines and the next name
+    var steps = !wids.length && r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
     if (steps) {
       more += '<section class="namer-sec namer-chain"><h3 class="namer-h">' + T.chain + '</h3><ol>' + steps.map(function (st) {
         return '<li>' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') +
@@ -550,6 +564,51 @@
     return ids;
   }
 
+  /* the meaning around the world: one checked story or place per region, each with its source; Korea is one region */
+  function regionOf(code) { var R = (window.NADRI_REGIONS || {})[code] || ['', { en: code }], k3 = L3(); return { flag: R[0], name: R[1][k3] || R[1].en }; }
+  function worldName(e) {
+    if (!e.n) return '';
+    return ' → ' + esc(e.n) + (L3() === 'ko' && e.nk ? '<span class="namer-kr">' + esc(e.nk) + '</span>' : '');
+  }
+  function srcLine(e) {
+    return '<span class="namer-step"><span class="namer-conf c-' + e.c + '">' + (T.conf[e.c] || e.c) + '</span> ' + T.src + ': ' +
+      e.s.map(function (x) { return '<a href="' + esc(x[1]) + '" rel="noopener" target="_blank">' + esc(x[0]) + '</a>'; }).join(' · ') +
+      ' · ' + esc(T.opened.replace('{d}', e.d)) + '</span>';
+  }
+  function chainSteps(id) {
+    var steps = window.NADRI_CHAINS && window.NADRI_CHAINS[id]; if (!steps) return '';
+    var k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
+    // inside the world list (flex rows), keep each step a plain list item
+    return '<ol class="namer-steps">' + steps.map(function (st) { return '<li style="display:list-item;border:0;padding:4px 0">' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>'; }).join('') + '</ol>';
+  }
+  function worldBlock(wid, krChain, typed) {
+    var W = (window.NADRI_WORLD || {})[wid]; if (!W) return '';
+    var k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '', C = (window.NADRI_CONCEPTS || {})[wid];
+    var list = W.slice();
+    if (krChain && !list.some(function (e) { return e.r === 'KR'; })) list.push({ r: 'KR', chain: krChain });
+    var rows = list.map(function (e) {
+      var rg = regionOf(e.r), body;
+      if (e.chain) body = chainSteps(e.r === 'KR' && krChain ? krChain : e.chain);
+      else body = '<p>' + esc(e[k3] || e.en) + (e.link ? ' <a href="' + pre + e.link + '">→</a>' : '') + '</p>' + srcLine(e);
+      return '<li data-r="' + e.r + '"><span class="namer-flag">' + rg.flag + '</span><div><b>' + esc(rg.name) + worldName(e) + '</b>' + (e.nn ? ' <small>' + esc(e.nn) + '</small>' : '') + body + '</div></li>';
+    }).join('');
+    var lab = C ? ' · ' + esc(C[k3] || C.en) : '';
+    return '<section class="namer-sec namer-chain namer-world"><h3 class="namer-h">' + T.world + lab + '</h3><ul class="namer-born-list">' + rows + '</ul>' +
+      '<p class="namer-src">' + mail('Nadri world chain: ' + wid + ' / ' + (typed || ''), T.native) + '</p>' +
+      '<div class="namer-oneline"><b>' + T.oneLine + '</b><p>' + mail('Nadri one line: ' + wid, T.oneLineEmpty) + '</p></div></section>';
+  }
+  /* "If you were born in…" built from the world entries that carry a name (used where no older born-in list exists) */
+  function worldBornBlock(wid) {
+    var W = (window.NADRI_WORLD || {})[wid], C = (window.NADRI_CONCEPTS || {})[wid]; if (!W) return '';
+    var named = W.filter(function (e) { return e.n; }); if (!named.length) return '';
+    var k3 = L3(), lab = C ? (C[k3] || C.en) : (named[0].n);
+    var rows = named.slice(0, 6).map(function (e) {
+      var rg = regionOf(e.r);
+      return '<li><span class="namer-flag">' + rg.flag + '</span><div><b>' + esc(rg.name) + worldName(e) + '</b>' + (e.nn ? ' <small>' + esc(e.nn) + '</small>' : '') + '<p>' + esc(e.g[k3] || e.g.en) + '</p><span class="namer-conf c-' + e.c + '">' + (T.conf[e.c] || e.c) + '</span></div></li>';
+    }).join('');
+    return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(lab) + '”</strong></p><h3 class="namer-h">' + T.bornIn + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
+  }
+
   function abroadFor(meanings) {
     var M = window.KO_MEANING_TO_NAME || {}, N = window.NADRI_NAMES || {}, seen = {}, out = [];
     meanings.forEach(function (m) { (M[(m || '').toLowerCase()] || []).forEach(function (k) { if (!seen[k] && N[k] && typeof N[k] === 'object') { seen[k] = 1; out.push(k); } }); });
@@ -596,9 +655,12 @@
         var o = '<p class="namer-mean">' + esc(name) + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
         var ids = conceptsForHanja(list.map(function (x) { return x.h; })), CC = window.NADRI_CONCEPTS || {}, k3 = L3();
         r.born = bornFromHanja(list.map(function (x) { return x.h; })); r.pickedName = name;
-        if (r.born) o += bornBlock(r.born);
+        var WD = window.NADRI_WORLD || {}, wids = ids.filter(function (id) { return WD[id]; });
+        r.worldId = wids[0] || null;
+        if (r.born) o += bornBlock(r.born); else if (wids.length) o += worldBornBlock(wids[0]);
         if (ids.length) o += '<p class="namer-gloss">' + ids.map(function (id) { return esc(CC[id][k3] || CC[id].en); }).join(' + ') + (k3 !== 'en' ? ' <span class="namer-origin">(' + ids.map(function (id) { return esc(CC[id].en); }).join(' + ') + ')</span>' : '') + '</p>';
-        ids.forEach(function (id) { o += conceptBlock(id); });
+        ids.forEach(function (id) { o += conceptBlock(id, { noChain: !!WD[id] }); });
+        wids.slice(0, 2).forEach(function (id) { o += worldBlock(id, null, name); });
         if (!ids.length) { var ab = abroadFor(list.map(function (x) { return x.en; })); if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab; }
         box.querySelector('.namer-hanja-out').innerHTML = o;
         wireGo();
@@ -609,33 +671,57 @@
     Array.prototype.forEach.call(out.querySelectorAll('.namer-go, .namer-next button'), function (b) { b.onclick = function () { input.value = b.getAttribute('data-n'); render(input.value); root.scrollIntoView({ behavior: 'smooth' }); }; });
   }
 
-  /* shareable card: seal + name + meaning + address */
+  /* shareable card (format: ops/name-tool.md appendix): seal, name, "Your name means …", "If you were born in…" 3-5 regions, Insadong seal line */
+  function cardRows(r) {
+    var k3 = L3(), BB = r.born && (window.NADRI_BORN || {})[r.born.id], rows = [], phrase = '';
+    if (BB) {
+      var ph = (r.born.first && BB.first ? BB.first : BB.phrase); phrase = ph[k3] || ph.en;
+      BB.c.filter(function (c) { return c[2]; }).slice(0, 5).forEach(function (c) { rows.push({ flag: c[0], place: c[1][k3] || c[1].en, name: c[2], nn: c[3] ? c[3].split(' ')[0] : '', gloss: '' }); });
+    } else if (r.worldId) {
+      var W = (window.NADRI_WORLD || {})[r.worldId] || [], C = (window.NADRI_CONCEPTS || {})[r.worldId];
+      phrase = C ? (C[k3] || C.en) : '';
+      W.filter(function (e) { return e.n; }).slice(0, 5).forEach(function (e) { var rg = regionOf(e.r); rows.push({ flag: rg.flag, place: rg.name, name: e.n, nn: e.nn || '', gloss: e.g[k3] || e.g.en }); });
+    }
+    return { phrase: phrase, rows: rows };
+  }
   function saveCard(svg, r, name, B) {
     var ready = document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve();
     ready.then(function () {
-      var W = 720, H = 960, c = document.createElement('canvas'); c.width = W * 2; c.height = H * 2;
+      var k3 = L3(), cr = cardRows(r), e = r.meaning && r.meaning.e, line = e && e.m ? (e.m[k3] || e.m.en) : (B ? B.meaning : '');
+      var typedLine = name.trim() !== r.hangul, rowH = cr.rows.length && cr.rows[0].gloss ? 78 : 44;
+      var W = 720, H = cr.rows.length ? 56 + 216 + 64 + (typedLine ? 42 : 0) + 148 + cr.rows.length * rowH + 190 : 960;
+      var c = document.createElement('canvas'); c.width = W * 2; c.height = H * 2;
       var g = c.getContext('2d'); g.scale(2, 2);
       g.fillStyle = '#f4f0e6'; g.fillRect(0, 0, W, H);
       g.strokeStyle = '#16151a'; g.lineWidth = 2; g.strokeRect(24, 24, W - 48, H - 48);
-      g.save(); g.translate((W - 360) / 2, 90); g.scale(1.5, 1.5);
+      var sealS = cr.rows.length ? 0.9 : 1.5, sealW = 240 * sealS;
+      g.save(); g.translate((W - sealW) / 2, 56); g.scale(sealS, sealS);
       g.fillStyle = '#b3261e'; roundRect(g, 6, 6, 228, 228, 14); g.fill();
       g.strokeStyle = '#f4f0e6'; g.lineWidth = 3; roundRect(g, 14, 14, 212, 212, 8); g.stroke();
       g.fillStyle = '#f4f0e6'; g.textAlign = 'center';
       Array.prototype.forEach.call(svg.querySelectorAll('text'), function (t) { g.font = t.getAttribute('font-size') + 'px "Song Myung", serif'; g.fillText(t.textContent, +t.getAttribute('x'), +t.getAttribute('y')); });
       g.restore();
+      var y = 56 + sealW + 64;
       g.fillStyle = '#16151a'; g.textAlign = 'center';
-      g.font = '44px "Song Myung", serif'; g.fillText(r.hangul, W / 2, 520);
-      g.font = '26px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(name, W / 2, 565);
-      var e = r.meaning && r.meaning.e, k3 = L3(), line = e && e.m ? (e.m[k3] || e.m.en) : (B ? B.meaning : '');
-      var BB = r.born && (window.NADRI_BORN || {})[r.born.id];
-      if (BB) {
-        var ph = (r.born.first && BB.first ? BB.first : BB.phrase);
-        g.fillStyle = '#16151a'; g.font = '28px "Song Myung", serif'; g.fillText((r.pickedName ? r.pickedName + ' · ' : '') + '“' + (ph[k3] || ph.en) + '”', W / 2, 615);
-        g.font = '600 18px "IBM Plex Mono", monospace'; g.fillStyle = '#5f5b55'; g.fillText(T.bornIn, W / 2, 660);
-        g.font = '24px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#16151a';
-        BB.c.filter(function (c) { return c[2]; }).slice(0, 5).forEach(function (c, i) { g.fillText(c[0] + ' ' + (c[1][k3] || c[1].en) + ' → ' + c[2] + (c[3] ? ' ' + c[3].split(' ')[0] : ''), W / 2, 700 + i * 36); });
-      } else if (line) { g.fillStyle = '#16151a'; g.font = '30px "Song Myung", serif'; wrap(g, line, W / 2, 640, W - 140, 42); }
-      g.fillStyle = '#b3261e'; g.font = '600 20px "IBM Plex Mono", monospace'; g.fillText('nadri-guide.pages.dev/name', W / 2, H - 60);
+      g.font = '48px "Song Myung", serif'; g.fillText(r.hangul + (r.pickedName ? ' · ' + r.pickedName : ''), W / 2, y);
+      if (typedLine) { y += 42; g.font = '28px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(name.trim(), W / 2, y); }
+      if (cr.rows.length) {
+        y += 66; g.fillStyle = '#16151a'; g.font = '36px "Song Myung", serif';
+        wrap(g, T.yourNameIs + ' “' + cr.phrase + '”', W / 2, y, W - 120, 44);
+        y += 62; g.font = '600 22px "IBM Plex Mono", monospace'; g.fillStyle = '#5f5b55'; g.fillText(T.bornIn, W / 2, y);
+        y += 20; g.textAlign = 'left';
+        cr.rows.forEach(function (row) {
+          y += 40; g.fillStyle = '#16151a'; g.font = '600 30px "IBM Plex Sans KR", sans-serif';
+          var t = row.flag + ' ' + row.place + ' → ' + row.name + (row.nn && row.nn !== row.name ? ' ' + row.nn : '');
+          while (g.measureText(t).width > W - 120 && t.length > 4) t = t.slice(0, -2) + '…';
+          g.fillText(t, 60, y);
+          if (row.gloss) { y += 34; g.font = '24px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(row.gloss, 104, y); }
+          y += 4;
+        });
+        g.textAlign = 'center';
+      } else if (line) { y += 80; g.fillStyle = '#16151a'; g.font = '32px "Song Myung", serif'; wrap(g, line, W / 2, y, W - 140, 44); }
+      g.fillStyle = '#b3261e'; g.font = '26px "IBM Plex Sans KR", sans-serif'; g.fillText(T.cardSeal, W / 2, H - 96);
+      g.font = '600 22px "IBM Plex Mono", monospace'; g.fillText('nadri-guide.pages.dev/name', W / 2, H - 56);
       var a = document.createElement('a'); a.download = 'nadri-' + r.hangul.replace(/ /g, '') + '.png'; a.href = c.toDataURL('image/png'); a.click();
     });
   }

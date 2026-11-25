@@ -16,9 +16,21 @@ updated: 2026-11-26
 
 Our call on cards: bring two from different networks (say, Visa plus Mastercard or JCB). When one is turned down, the other often goes through.
 
+## Your first day with money in Korea
+
+Built from the checked facts below, not from a story.
+
+**Before you fly.** Two cards from different networks in your wallet, and the apps you plan to use (Naver Map, a delivery app, k.ride) installed at home on wifi.
+
+**First evening.** A little won from the airport counter gets you to the hotel. In the city you change the rest for ₩10,000 notes. Dinner and the convenience store go on your card; at the market stall, you hand over a note.
+
+**Last day.** Coins spent at a convenience store, notes kept if you are coming back.
+
+What we left out: a bank-by-bank comparison of foreign transaction fees (they change too often for us to confirm), and other prepaid visitor cards, whose fees we have not checked.
+
 ## Cash: about ₩100,000, changed in the city
 
-About ₩100,000 covers a 3–5 day Seoul trip. Cash really only goes on market food, stalls and topping up a transport card. The common mistake is changing everything at the airport counter on arrival.
+Our call: about ₩100,000 covers a 3–5 day Seoul trip. Cash really only goes on market food, stalls and topping up a transport card. The mistake to avoid is changing everything at the airport counter on arrival.
 
 {{fig:money-1|Where to change money, usually best to worst}}
 
@@ -58,4 +70,4 @@ Spend your coins before you fly; changing won back at home costs you. A WOWPASS 
 
 ## Sources
 
-<p class="sources">Korea Times: <a href="https://www.koreatimes.co.kr/business/companies/20260609/naver-introduces-passport-verification-for-foreign-travelers-to-improve-access-to-reservations-payments" rel="noopener" target="_blank">Naver passport verification</a> (9 June 2026), <a href="https://www.koreatimes.co.kr/business/companies/20260531/baedal-minjok-to-accept-foreign-issued-cards-through-apple-pay" rel="noopener" target="_blank">Baemin and foreign cards on Apple Pay</a> (31 May 2026), <a href="https://www.koreatimes.co.kr/lifestyle/travel-food/20260729/seoul-simplifies-food-delivery-apps-for-international-visitors" rel="noopener" target="_blank">delivery without a Korean phone number</a> (29 July 2026), card use (9 July 2026); The Korea Herald, <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">subway machines accept overseas cards</a> (16 March 2026); Korea.net, <a href="https://www.korea.net/NewsFocus/Society/view?articleId=289001" rel="noopener" target="_blank">273 stations accept international cards</a> (17 March 2026); Seoul Metropolitan Government (subway machines and foreign cards, 16 March 2026); Asia Economy (k.ride, 27 March 2025); Digital Daily (visitor payment complaints, 15 September 2026); WOWPASS official guide (4 November 2025); Arukikata (exchange and ATMs, 4 March 2026). Linked Korea Times, Korea Herald and Korea.net pages opened 26 November 2026; the others were checked for the previous edition.</p>
+<p class="sources">Korea Times: <a href="https://www.koreatimes.co.kr/business/companies/20260609/naver-introduces-passport-verification-for-foreign-travelers-to-improve-access-to-reservations-payments" rel="noopener" target="_blank">Naver passport verification</a> (9 June 2026), <a href="https://www.koreatimes.co.kr/business/companies/20260531/baedal-minjok-to-accept-foreign-issued-cards-through-apple-pay" rel="noopener" target="_blank">Baemin and foreign cards on Apple Pay</a> (31 May 2026), <a href="https://www.koreatimes.co.kr/lifestyle/travel-food/20260729/seoul-simplifies-food-delivery-apps-for-international-visitors" rel="noopener" target="_blank">delivery without a Korean phone number</a> (29 July 2026), card use (9 July 2026); The Korea Herald, <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">subway machines accept overseas cards</a> (16 March 2026); Korea.net, <a href="https://www.korea.net/NewsFocus/Society/view?articleId=289001" rel="noopener" target="_blank">273 stations accept international cards</a> (17 March 2026); Seoul Metropolitan Government (subway machines and foreign cards, 16 March 2026); Asia Economy (k.ride, 27 March 2025); Digital Daily (visitor payment complaints, 15 September 2026); WOWPASS official guide (4 November 2025); Arukikata (<a href="https://www.arukikata.co.jp/webmagazine/258060/" rel="noopener" target="_blank">exchange and ATMs</a>, 4 March 2026). Linked Korea Times, Korea Herald and Korea.net pages opened 26 November 2026; the others were checked for the previous edition.</p>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 390" role="img" aria-label="夜遅く、第1ターミナルから" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>夜遅く、第1ターミナルから</title>
+<rect width="400" height="390" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">夜遅く、第1ターミナルから</text>
+<line x1="92" y1="70" x2="92" y2="262" stroke="#c9c1b2" stroke-width="4"/>
+<text x="20" y="76" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">22:48</text>
+<circle cx="92" cy="70" r="8" fill="#b8392f" stroke="#b8392f" stroke-width="2"/>
+<text x="110" y="76" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">直通列車の最終</text>
+<text x="20" y="124" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">23:40</text>
+<circle cx="92" cy="118" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="110" y="124" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">N6703 · 蚕室・広渡口</text>
+<text x="20" y="172" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">23:50</text>
+<circle cx="92" cy="166" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="110" y="172" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">N6701 · ソウル駅・東大門</text>
+<text x="20" y="220" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">00:00</text>
+<circle cx="92" cy="214" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="110" y="220" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">N6002 · 弘大・清凉里</text>
+<text x="20" y="268" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">00:10</text>
+<circle cx="92" cy="262" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="110" y="268" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">N6000 · 江南</text>
+<line x1="20" y1="280" x2="380" y2="280" stroke="#c9c1b2" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="20" y="306" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">バスは第1ターミナルの始発時刻</text>
+<text x="20" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">深夜バス17,000〜18,000ウォン、</text>
+<text x="20" y="350" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">切符は売り場か券売機で</text>
+<text x="20" y="372" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">一般列車の最終はAREXサイトで</text>
+</svg>

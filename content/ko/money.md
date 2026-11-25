@@ -16,9 +16,21 @@ updated: 2026-11-26
 
 카드에 대한 우리 판단: 브랜드가 다른 카드 두 장(예: Visa와 Mastercard 또는 JCB)을 챙기세요. 한 장이 거절돼도 다른 한 장으로 되는 경우가 많아요.
 
+## 한국에서 돈 쓰는 첫날
+
+아래에서 확인한 사실로 그린 장면이에요. 지어낸 경험담이 아니에요.
+
+**출발 전.** 브랜드가 다른 카드 두 장을 지갑에, 쓸 앱(네이버 지도, 배달 앱, k.ride)은 집에서 와이파이로 미리 설치.
+
+**첫날 저녁.** 공항에서 조금 바꾼 돈으로 숙소까지. 시내에서 나머지를 만 원권으로 바꿔요. 저녁과 편의점은 카드로, 시장 노점에서는 지폐 한 장.
+
+**마지막 날.** 동전은 편의점에서 다 쓰고, 또 올 거라면 지폐는 남겨 둬요.
+
+뺀 것: 카드사별 해외 결제 수수료 비교(자주 바뀌어서 우리가 확인할 수 없어요), 다른 외국인용 선불카드(수수료를 확인하지 못했어요).
+
 ## 현금은 10만 원쯤, 시내에서 바꾸기
 
-3~5일 서울 여행이면 10만 원 정도면 충분해요. 현금이 실제로 나가는 곳은 시장 먹거리, 노점, 교통카드 충전 정도예요. 흔한 실수는 도착하자마자 공항 환전소에서 전부 바꾸는 거예요.
+우리 판단으로는 3~5일 서울 여행에 10만 원 정도면 충분해요. 현금이 실제로 나가는 곳은 시장 먹거리, 노점, 교통카드 충전 정도예요. 피할 실수는 도착하자마자 공항 환전소에서 전부 바꾸는 거예요.
 
 {{fig:money-1|환전 장소, 보통 유리한 순서}}
 
@@ -58,4 +70,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">코리아타임스: <a href="https://www.koreatimes.co.kr/business/companies/20260609/naver-introduces-passport-verification-for-foreign-travelers-to-improve-access-to-reservations-payments" rel="noopener" target="_blank">네이버 여권 인증</a>(2026-06-09), <a href="https://www.koreatimes.co.kr/business/companies/20260531/baedal-minjok-to-accept-foreign-issued-cards-through-apple-pay" rel="noopener" target="_blank">배달의민족 애플페이 해외 카드</a>(2026-05-31), <a href="https://www.koreatimes.co.kr/lifestyle/travel-food/20260729/seoul-simplifies-food-delivery-apps-for-international-visitors" rel="noopener" target="_blank">한국 번호 없이 배달 주문</a>(2026-07-29), 카드 사용(2026-07-09); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026-03-16); 코리아넷 <a href="https://www.korea.net/NewsFocus/Society/view?articleId=289001" rel="noopener" target="_blank">273개 역 해외 카드</a>(2026-03-17); 서울시 보도(2026-03-16 지하철 무인기 해외 카드); 아시아경제(2025-03-27 k.ride); 디지털데일리(2026-09-15 외국인 결제 불편 통계); 와우패스 공식 이용 안내(2025-11-04); 지구를 걷는 법(2026-03-04 환전·ATM). 링크한 코리아타임스·코리아헤럴드·코리아넷 기사는 2026년 11월 26일에 다시 열어 확인했고, 나머지는 이전 판에서 확인한 자료예요.</p>
+<p class="sources">코리아타임스: <a href="https://www.koreatimes.co.kr/business/companies/20260609/naver-introduces-passport-verification-for-foreign-travelers-to-improve-access-to-reservations-payments" rel="noopener" target="_blank">네이버 여권 인증</a>(2026-06-09), <a href="https://www.koreatimes.co.kr/business/companies/20260531/baedal-minjok-to-accept-foreign-issued-cards-through-apple-pay" rel="noopener" target="_blank">배달의민족 애플페이 해외 카드</a>(2026-05-31), <a href="https://www.koreatimes.co.kr/lifestyle/travel-food/20260729/seoul-simplifies-food-delivery-apps-for-international-visitors" rel="noopener" target="_blank">한국 번호 없이 배달 주문</a>(2026-07-29), 카드 사용(2026-07-09); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026-03-16); 코리아넷 <a href="https://www.korea.net/NewsFocus/Society/view?articleId=289001" rel="noopener" target="_blank">273개 역 해외 카드</a>(2026-03-17); 서울시 보도(2026-03-16 지하철 무인기 해외 카드); 아시아경제(2025-03-27 k.ride); 디지털데일리(2026-09-15 외국인 결제 불편 통계); 와우패스 공식 이용 안내(2025-11-04); 지구를 걷는 법(2026-03-04 <a href="https://www.arukikata.co.jp/webmagazine/258060/" rel="noopener" target="_blank">환전·ATM</a>). 링크한 코리아타임스·코리아헤럴드·코리아넷 기사는 2026년 11월 26일에 다시 열어 확인했고, 나머지는 이전 판에서 확인한 자료예요.</p>

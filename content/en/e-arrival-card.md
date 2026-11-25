@@ -18,6 +18,16 @@ updated: 2026-11-26
 
 Who does **not** need this page: Korean citizens (dual nationals enter on their Korean passport), registered residents, valid K-ETA holders, holders of group visas, and people changing planes within 24 hours who never leave the transit area.
 
+What we left out: paid services that file the card for you (the official form is free and takes minutes), and the K-ETA application itself, which exempt travellers don't need before the end of 2026.
+
+## Your arrival, done right
+
+Built from the official rules, not from a story.
+
+**The night before you fly.** Passport, flight number and your hotel's address in English in front of you. About ten minutes on the official site, and a PDF with your issuance number lands in your inbox. The arrival card is done before you pack.
+
+**At the immigration desk.** No pen, no paper card to fill in on your knee. You hand over your passport; the officer already has your details on screen. Once you are through, the card has done its job and expires.
+
 ## Only the official site, and it is free
 
 The one real way to lose money here is a look-alike website. Korea's immigration service has warned about sites that copy the name and charge a fee for the same form. The official site never charges.

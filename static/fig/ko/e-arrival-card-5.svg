@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 336" role="img" aria-label="서로 다른 두 제도" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="336" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">서로 다른 두 제도</text>
+<rect x="16" y="54" width="368" height="134" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">K-ETA</text>
+<text x="30" y="112" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">전자여행허가</text>
+<text x="30" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1만 원, 출발 전에 신청</text>
+<text x="30" y="156" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">미국·일본·대만 등 22개 국가·지역</text>
+<text x="30" y="178" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2026년 12월 31일까지 면제</text>
+<rect x="16" y="198" width="368" height="90" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="232" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">전자입국신고서</text>
+<text x="30" y="256" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">종이 입국신고서를 대신해요</text>
+<text x="30" y="278" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">무료, 도착 전 3일 안에</text>
+<text x="16" y="320" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">유효한 K-ETA가 있으면 신고서는 안 내요.</text>
+</svg>

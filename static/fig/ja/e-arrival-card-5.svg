@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 336" role="img" aria-label="別々の2つの制度" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="336" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">別々の2つの制度</text>
+<rect x="16" y="54" width="368" height="134" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">K-ETA</text>
+<text x="30" y="112" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">電子渡航認証</text>
+<text x="30" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1万ウォン、渡航前に申請</text>
+<text x="30" y="156" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">日本など22の国・地域は</text>
+<text x="30" y="178" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2026年12月31日まで免除</text>
+<rect x="16" y="198" width="368" height="90" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="232" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">電子入国申告書</text>
+<text x="30" y="256" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">紙の入国カードの代わり</text>
+<text x="30" y="278" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">無料、到着前3日以内に</text>
+<text x="16" y="320" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">有効なK-ETAがあれば申告書は不要。</text>
+</svg>

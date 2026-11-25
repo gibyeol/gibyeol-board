@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 436" role="img" aria-label="외국인관광택시 인천공항 → 서울" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>외국인관광택시 인천공항 → 서울</title>
+<rect width="400" height="436" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">외국인관광택시</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">인천공항 → 서울</text>
+<text x="20" y="98" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">강서</text>
+<rect x="20" y="108" width="162.10526315789474" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="192.10526315789474" y="124" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">70,000원</text>
+<text x="20" y="158" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">마포(홍대)·영등포 등</text>
+<rect x="20" y="168" width="173.68421052631578" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="203.68421052631578" y="184" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">75,000원</text>
+<text x="20" y="218" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">중구(명동)·종로 등</text>
+<rect x="20" y="228" width="196.8421052631579" height="20" rx="4" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="226.8421052631579" y="244" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">85,000원</text>
+<text x="20" y="278" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">강남·서초 등</text>
+<rect x="20" y="288" width="208.42105263157896" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="238.42105263157896" y="304" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">90,000원</text>
+<text x="20" y="338" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">송파(잠실)·강동 등</text>
+<rect x="20" y="348" width="220.0" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="250.0" y="364" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">95,000원</text>
+<text x="20" y="396" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">중형 정액, 통행료 포함</text>
+<text x="20" y="418" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">대형·모범 100,000~140,000원</text>
+</svg>

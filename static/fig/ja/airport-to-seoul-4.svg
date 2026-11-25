@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 386" role="img" aria-label="カード2枚、役割が違います" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>カード2枚、役割が違います</title>
+<rect width="400" height="386" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">カード2枚、役割が違います</text>
+<rect x="16" y="54" width="368" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="72" width="64" height="42" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="36" y="82" width="14" height="11" rx="2" fill="#e9e2d3" stroke="#16151a" stroke-width="1.2"/>
+<line x1="36" y1="104" x2="80" y2="104" stroke="#c9c1b2" stroke-width="3"/>
+<text x="108" y="84" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">T-money</text>
+<text x="108" y="108" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">地下鉄・バス・AREX一般列車に</text>
+<text x="108" y="130" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">タッチで乗車</text>
+<text x="108" y="152" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">空港のカード販売機と</text>
+<text x="108" y="174" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">コンビニで販売</text>
+<rect x="16" y="202" width="368" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="220" width="64" height="42" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="36" y="230" width="14" height="11" rx="2" fill="#e9e2d3" stroke="#16151a" stroke-width="1.2"/>
+<line x1="36" y1="252" x2="80" y2="252" stroke="#c9c1b2" stroke-width="3"/>
+<text x="108" y="232" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">WOWPASS</text>
+<text x="108" y="256" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">交通用のT-money機能つき</text>
+<text x="108" y="278" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">外貨をカードに両替</text>
+<text x="108" y="300" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">お店でカード払い</text>
+<text x="20" y="346" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">T-moneyは事前予約して</text>
+<text x="20" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">空港で受け取ることもできます</text>
+</svg>

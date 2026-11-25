@@ -14,6 +14,18 @@ updated: 2026-11-26
 | Lots of small buys at different shops | Batch them in one shop | Receipts can't be added together |
 | A skin clinic or cosmetic procedure | Don't count on a refund | The tourist VAT refund for procedures ended on 31 December 2025 |
 
+## What it looks like at the till
+
+Built from the rules below, not from a story.
+
+**Before you fly.** Put your actual passport where you can reach it while shopping, not just a photo of it. Plan the big shops (Olive Young, a department store) so each receipt clears ₩15,000 on its own.
+
+**At the till.** You spot the "Tax Free" sign, hand over your passport with your card, and the price drops by the tax there and then.
+
+**Departure day.** For instant-refund buys there is nothing left to do at the airport. That is the ending to plan for.
+
+What we left out: operator-by-operator fee tables (we could not reopen them this time), and airport and downtown duty-free shops, which are a separate system from tax refunds.
+
 ## The three numbers
 
 {{fig:tax-refund-1|The three numbers on one receipt}}
