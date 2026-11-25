@@ -1,35 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="ソウルのバス、色で見分ける" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<rect width="720" height="440" fill="#f4f0e6"/>
-<text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">ソウルのバス、色で見分ける</text>
-<rect x="32" y="70" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="80" width="76" height="36" rx="8" fill="#2f5d9e"/>
-<text x="82" y="104" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">青</text>
-<text x="136" y="95" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">幹線</text>
-<text x="136" y="116" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">市内を長く結ぶ</text>
-<text x="672" y="105" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500ウォン</text>
-<rect x="32" y="136" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="146" width="76" height="36" rx="8" fill="#3d7a4a"/>
-<text x="82" y="170" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">緑</text>
-<text x="136" y="161" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">支線・マウル</text>
-<text x="136" y="182" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">駅までの短い移動</text>
-<text x="672" y="171" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500ウォン(マウル1,200)</text>
-<rect x="32" y="202" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="212" width="76" height="36" rx="8" fill="#d9a521"/>
-<text x="82" y="236" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">黄</text>
-<text x="136" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">循環</text>
-<text x="136" y="248" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">中心部を回る</text>
-<text x="672" y="237" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,400ウォン</text>
-<rect x="32" y="268" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="278" width="76" height="36" rx="8" fill="#b8392f"/>
-<text x="82" y="302" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">赤</text>
-<text x="136" y="293" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">広域</text>
-<text x="136" y="314" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">首都圏と中心部</text>
-<text x="672" y="303" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">3,000ウォン</text>
-<rect x="32" y="334" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="344" width="76" height="36" rx="8" fill="#16151a"/>
-<text x="82" y="368" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">N…</text>
-<text x="136" y="359" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">深夜バス</text>
-<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">地下鉄が終わった後</text>
-<text x="672" y="369" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">2,500ウォン</text>
-<text x="32" y="414" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">大人・交通カード運賃</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 613" role="img" aria-label="ソウルのバス、色で見分ける" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>ソウルのバス、色で見分ける</title>
+<rect width="400" height="613" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">ソウルのバス、色で見分ける</text>
+<rect x="16" y="61" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="89" width="68" height="36" rx="12" fill="#2f5d9e"/>
+<text x="62" y="113" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">青</text>
+<text x="108" y="90" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">幹線</text>
+<text x="108" y="113" font-size="16" fill="#5f5b55" text-anchor="start">市内を長く結ぶ</text>
+<text x="108" y="136" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">1,500ウォン</text>
+<rect x="16" y="163" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="191" width="68" height="36" rx="12" fill="#3d7a4a"/>
+<text x="62" y="215" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">緑</text>
+<text x="108" y="192" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">支線・マウル</text>
+<text x="108" y="215" font-size="16" fill="#5f5b55" text-anchor="start">地域と幹線バス・地下鉄をつなぐ</text>
+<text x="108" y="238" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">1,500ウォン(マウル1,200)</text>
+<rect x="16" y="265" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="293" width="68" height="36" rx="12" fill="#d9a521"/>
+<text x="62" y="317" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">黄</text>
+<text x="108" y="294" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">循環</text>
+<text x="108" y="317" font-size="16" fill="#5f5b55" text-anchor="start">中心部を回る</text>
+<text x="108" y="340" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">1,400ウォン</text>
+<rect x="16" y="367" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="395" width="68" height="36" rx="12" fill="#b8392f"/>
+<text x="62" y="419" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">赤</text>
+<text x="108" y="396" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">広域</text>
+<text x="108" y="419" font-size="16" fill="#5f5b55" text-anchor="start">首都圏と中心部</text>
+<text x="108" y="442" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">3,000ウォン</text>
+<rect x="16" y="469" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="497" width="68" height="36" rx="12" fill="#16151a"/>
+<text x="62" y="521" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">N…</text>
+<text x="108" y="498" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">深夜バス</text>
+<text x="108" y="521" font-size="16" fill="#5f5b55" text-anchor="start">地下鉄が終わった後</text>
+<text x="108" y="544" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">2,500ウォン</text>
+<text x="20" y="589" font-size="16" fill="#5f5b55" text-anchor="start">大人・交通カード運賃</text>
 </svg>

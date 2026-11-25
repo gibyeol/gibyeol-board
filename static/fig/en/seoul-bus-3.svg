@@ -1,17 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="Transfer window after you get off" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<rect width="720" height="330" fill="#f4f0e6"/>
-<text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">Transfer window after you get off</text>
-<text x="32" y="128" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">7 a.m.–9 p.m.</text>
-<rect x="180" y="100" width="480" height="44" rx="8" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="180" y="100" width="240.0" height="44" rx="8" fill="#e9e2d3" stroke="#16151a"/>
-<text x="300.0" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">30 min</text>
-<circle cx="180" cy="122" r="9" fill="#b8392f"/>
-<text x="32" y="218" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">9 p.m.–7 a.m.</text>
-<rect x="180" y="190" width="480" height="44" rx="8" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="180" y="190" width="480.0" height="44" rx="8" fill="#e9e2d3" stroke="#16151a"/>
-<text x="420.0" y="218" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">60 min</text>
-<circle cx="180" cy="212" r="9" fill="#b8392f"/>
-<text x="180" y="86" font-size="15" font-weight="700" fill="#b8392f" text-anchor="middle">Tap off</text>
-<text x="32" y="292" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Next bus or subway counts as a transfer</text>
-<text x="32" y="316" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Up to 4 transfers · same route again does not count</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-label="Transfer window after you get off" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Transfer window after you get off</title>
+<rect width="400" height="420" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">Transfer window</text>
+<text x="20" y="68" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">after you get off</text>
+<text x="32" y="106" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">Tap off</text>
+<text x="20" y="137" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">7 a.m.–9 p.m.</text>
+<rect x="38" y="149" width="342" height="44" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="38" y="149" width="171" height="44" rx="10" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<text x="123.5" y="177" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">30 min</text>
+<circle cx="38" cy="171" r="9" fill="#b8392f"/>
+<text x="20" y="230" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">9 p.m.–7 a.m.</text>
+<rect x="38" y="242" width="342" height="44" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="38" y="242" width="342" height="44" rx="10" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<text x="209" y="270" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">60 min</text>
+<circle cx="38" cy="264" r="9" fill="#b8392f"/>
+<text x="20" y="323" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">Next bus or subway</text>
+<text x="20" y="346" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">counts as a transfer</text>
+<circle cx="26" cy="367" r="3.5" fill="#5f5b55"/>
+<text x="38" y="372" font-size="16" fill="#5f5b55" text-anchor="start">Up to 4 transfers</text>
+<circle cx="26" cy="389" r="3.5" fill="#5f5b55"/>
+<text x="38" y="394" font-size="16" fill="#5f5b55" text-anchor="start">Same route again does not count</text>
 </svg>

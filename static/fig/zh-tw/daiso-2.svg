@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="明洞站店大創,4 步驟逛完" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 479" role="img" aria-label="明洞站店大創,4 步驟逛完" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>明洞站店大創,4 步驟逛完</title>
-<rect width="720" height="300" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">明洞站店大創,4 步驟逛完</text>
-<rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="107" cy="114" r="20" fill="#16151a"/>
-<text x="107" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="107" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">樓層指南</text>
-<text x="107" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">有英日中文</text>
-<text x="107" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">縮到 2~3 層</text>
-<path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="275" cy="114" r="20" fill="#16151a"/>
-<text x="275" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="275" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">美妝在 2 樓</text>
-<text x="275" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">爆紅商品</text>
-<text x="275" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">可能賣完</text>
-<path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="443" cy="114" r="20" fill="#16151a"/>
-<text x="443" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="443" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">一次結帳</text>
-<text x="443" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">每張收據</text>
-<text x="443" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">滿 15,000</text>
-<path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="611" cy="114" r="20" fill="#b8392f"/>
-<text x="611" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="611" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">護照</text>
-<text x="611" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">付款時</text>
-<text x="611" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">出示正本</text>
+<rect width="400" height="479" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">明洞站店大創,4 步驟逛完</text>
+<rect x="16" y="61" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="108" r="15" fill="#16151a"/>
+<text x="42" y="114" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="72" y="92" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">樓層指南</text>
+<text x="72" y="115" font-size="16" fill="#5f5b55" text-anchor="start">有英日中文</text>
+<text x="72" y="137" font-size="16" fill="#5f5b55" text-anchor="start">縮到 2~3 層</text>
+<line x1="42" y1="157" x2="42" y2="173" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="176" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="212" r="15" fill="#16151a"/>
+<text x="42" y="218" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="72" y="207" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">美妝在 2 樓</text>
+<text x="72" y="230" font-size="16" fill="#5f5b55" text-anchor="start">爆紅商品可能賣完</text>
+<line x1="42" y1="250" x2="42" y2="266" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="18" y="285" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">要退稅的話</text>
+<rect x="16" y="295" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="332" r="15" fill="#16151a"/>
+<text x="42" y="338" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="72" y="326" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">一次結帳</text>
+<text x="72" y="349" font-size="16" fill="#5f5b55" text-anchor="start">每張收據滿 15,000 韓元</text>
+<line x1="42" y1="369" x2="42" y2="385" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="388" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="424" r="15" fill="#b8392f"/>
+<text x="42" y="430" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="72" y="419" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">護照</text>
+<text x="72" y="442" font-size="16" fill="#5f5b55" text-anchor="start">付款時出示正本</text>
 </svg>

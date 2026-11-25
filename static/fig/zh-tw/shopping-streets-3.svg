@@ -1,31 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 502" role="img" aria-label="2號線半日路線" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 645" role="img" aria-label="2號線半日路線" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>2號線半日路線</title>
-<rect x="0" y="0" width="720" height="502" rx="14" fill="#f4f0e6"/>
-<text x="28" y="44" font-size="22" fill="#16151a" text-anchor="start" font-weight="bold">2號線半日路線</text>
-<rect x="20" y="68" width="680" height="72" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
-<circle cx="56" cy="104.0" r="18" fill="#b8392f"/><text x="56" y="110.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">1</text>
-<text x="92" y="110.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">聖水</text>
-<text x="250" y="98" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">午後</text>
-<text x="250" y="122" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">4號(或3號)出口 · 走到演武場街</text>
-<path d="M56 143 L56 159 M49 152 L56 160 L63 152" stroke="#16151a" stroke-width="2.5" fill="none"/>
-<rect x="20" y="162" width="680" height="72" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="56" cy="198.0" r="18" fill="#16151a"/><text x="56" y="204.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">2</text>
-<text x="92" y="204.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">2號線</text>
-<text x="250" y="192" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">搭乘</text>
-<text x="250" y="216" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">到東大門歷史文化公園站</text>
-<path d="M56 237 L56 253 M49 246 L56 254 L63 246" stroke="#16151a" stroke-width="2.5" fill="none"/>
-<rect x="20" y="256" width="680" height="72" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
-<circle cx="56" cy="292.0" r="18" fill="#b8392f"/><text x="56" y="298.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">3</text>
-<text x="92" y="298.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">東大門</text>
-<text x="250" y="286" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">晚上</text>
-<text x="250" y="310" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">1號出口 → DDP · DOOTA開到午夜</text>
-<path d="M56 331 L56 347 M49 340 L56 348 L63 340" stroke="#16151a" stroke-width="2.5" fill="none"/>
-<rect x="20" y="350" width="680" height="72" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="56" cy="386.0" r="18" fill="#16151a"/><text x="56" y="392.0" font-size="17" fill="#ffffff" text-anchor="middle" font-weight="bold">4</text>
-<text x="92" y="392.0" font-size="18" fill="#16151a" text-anchor="start" font-weight="bold">收據</text>
-<text x="250" y="380" font-size="16" fill="#16151a" text-anchor="start" font-weight="normal">和護照放一起</text>
-<text x="250" y="404" font-size="15" fill="#5f5b55" text-anchor="start" font-weight="normal">單張超過100萬韓元 → 不能現場退稅</text>
-<rect x="20" y="440" width="680" height="44" rx="8" fill="#e9e2d3"/>
-<text x="36" y="468" font-size="15" fill="#16151a" text-anchor="start" font-weight="normal">美妝優先?把聖水換成明洞(乙支路入口站也在2號線)。</text>
+<rect width="400" height="645" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">2號線半日路線</text>
+<rect x="16" y="61" width="368" height="117" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="42" cy="120" r="15" fill="#b8392f"/>
+<text x="42" y="126" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="72" y="92" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">聖水</text>
+<text x="72" y="116" font-size="17" fill="#16151a" text-anchor="start">午後</text>
+<text x="72" y="138" font-size="16" fill="#5f5b55" text-anchor="start">4號(或3號)出口</text>
+<text x="72" y="160" font-size="16" fill="#5f5b55" text-anchor="start">走到演武場街</text>
+<line x1="42" y1="179" x2="42" y2="195" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="198" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="246" r="15" fill="#16151a"/>
+<text x="42" y="252" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="72" y="229" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">2號線</text>
+<text x="72" y="253" font-size="17" fill="#16151a" text-anchor="start">搭乘</text>
+<text x="72" y="275" font-size="16" fill="#5f5b55" text-anchor="start">到東大門歷史文化公園站</text>
+<line x1="42" y1="294" x2="42" y2="310" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="313" width="368" height="117" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="42" cy="372" r="15" fill="#b8392f"/>
+<text x="42" y="378" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="72" y="344" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">東大門</text>
+<text x="72" y="368" font-size="17" fill="#16151a" text-anchor="start">晚上</text>
+<text x="72" y="390" font-size="16" fill="#5f5b55" text-anchor="start">1號出口 → DDP</text>
+<text x="72" y="412" font-size="16" fill="#5f5b55" text-anchor="start">DOOTA開到午夜</text>
+<line x1="42" y1="431" x2="42" y2="447" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="450" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="498" r="15" fill="#16151a"/>
+<text x="42" y="504" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="72" y="481" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">收據</text>
+<text x="72" y="505" font-size="17" fill="#16151a" text-anchor="start">和護照放一起</text>
+<text x="72" y="527" font-size="16" fill="#5f5b55" text-anchor="start">單張超過100萬韓元 → 不能現場退稅</text>
+<rect x="16" y="561" width="368" height="66" rx="12" fill="#e9e2d3"/>
+<text x="30" y="588" font-size="16" fill="#16151a" text-anchor="start">美妝優先?把聖水換成明洞</text>
+<text x="30" y="610" font-size="16" fill="#16151a" text-anchor="start">(乙支路入口站也在2號線)。</text>
 </svg>

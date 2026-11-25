@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 394" role="img" aria-label="第1ターミナル:どこへ行く?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>第1ターミナル:どこへ行く?</title>
+<rect width="400" height="394" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">第1ターミナル:どこへ行く?</text>
+<rect x="16" y="54" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="16" y="54" width="72" height="96" rx="10" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="52" y="110.0" font-size="22" font-weight="700" fill="#16151a" text-anchor="middle">1階</text>
+<text x="104" y="84" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">空港リムジンバス</text>
+<text x="104" y="110" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">切符:売り場と券売機</text>
+<text x="104" y="132" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">乗り場は切符に記載</text>
+<line x1="52" y1="156" x2="52" y2="194" stroke="#16151a" stroke-width="2.5"/>
+<path d="M45,192 L52,202 L59,192 z" fill="#16151a"/>
+<text x="80" y="186" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">地下1階へ</text>
+<rect x="16" y="208" width="368" height="118" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="16" y="208" width="72" height="118" rx="10" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="52" y="275.0" font-size="22" font-weight="700" fill="#16151a" text-anchor="middle">B1</text>
+<text x="104" y="238" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">交通センター</text>
+<text x="104" y="264" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">直通列車:専用カウンター</text>
+<text x="104" y="286" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">一般列車:カード販売機・</text>
+<text x="104" y="308" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">コンビニ、タッチで乗車</text>
+<text x="20" y="354" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">第2ターミナル:バス売り場もAREXも</text>
+<text x="20" y="376" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">地下階</text>
+</svg>

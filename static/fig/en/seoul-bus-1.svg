@@ -1,35 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Seoul bus colours at a glance" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<rect width="720" height="440" fill="#f4f0e6"/>
-<text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">Seoul bus colours at a glance</text>
-<rect x="32" y="70" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="80" width="76" height="36" rx="8" fill="#2f5d9e"/>
-<text x="82" y="104" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Blue</text>
-<text x="136" y="95" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Trunk</text>
-<text x="136" y="116" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Long routes across the city</text>
-<text x="672" y="105" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩1,500</text>
-<rect x="32" y="136" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="146" width="76" height="36" rx="8" fill="#3d7a4a"/>
-<text x="82" y="170" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Green</text>
-<text x="136" y="161" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Branch / village</text>
-<text x="136" y="182" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Short links to stations</text>
-<text x="672" y="171" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩1,500 (village ₩1,200)</text>
-<rect x="32" y="202" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="212" width="76" height="36" rx="8" fill="#d9a521"/>
-<text x="82" y="236" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Yellow</text>
-<text x="136" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Circular</text>
-<text x="136" y="248" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Loops in the centre</text>
-<text x="672" y="237" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩1,400</text>
-<rect x="32" y="268" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="278" width="76" height="36" rx="8" fill="#b8392f"/>
-<text x="82" y="302" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Red</text>
-<text x="136" y="293" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Express</text>
-<text x="136" y="314" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Seoul ↔ wider metro area</text>
-<text x="672" y="303" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩3,000</text>
-<rect x="32" y="334" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<rect x="44" y="344" width="76" height="36" rx="8" fill="#16151a"/>
-<text x="82" y="368" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">N…</text>
-<text x="136" y="359" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Night bus</text>
-<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Late night, after the subway</text>
-<text x="672" y="369" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩2,500</text>
-<text x="32" y="414" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Adult fares with a transport card</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 635" role="img" aria-label="Seoul bus colours at a glance" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Seoul bus colours at a glance</title>
+<rect width="400" height="635" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">Seoul bus colours at a glance</text>
+<rect x="16" y="61" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="89" width="68" height="36" rx="12" fill="#2f5d9e"/>
+<text x="62" y="113" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">Blue</text>
+<text x="108" y="90" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Trunk</text>
+<text x="108" y="113" font-size="16" fill="#5f5b55" text-anchor="start">Long routes across the city</text>
+<text x="108" y="136" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">₩1,500</text>
+<rect x="16" y="163" width="368" height="114" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="202" width="68" height="36" rx="12" fill="#3d7a4a"/>
+<text x="62" y="226" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">Green</text>
+<text x="108" y="192" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Branch / village</text>
+<text x="108" y="215" font-size="16" fill="#5f5b55" text-anchor="start">Links neighbourhoods to trunk</text>
+<text x="108" y="237" font-size="16" fill="#5f5b55" text-anchor="start">buses and the subway</text>
+<text x="108" y="260" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">₩1,500 (village ₩1,200)</text>
+<rect x="16" y="287" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="315" width="68" height="36" rx="12" fill="#d9a521"/>
+<text x="62" y="339" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Yellow</text>
+<text x="108" y="316" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Circular</text>
+<text x="108" y="339" font-size="16" fill="#5f5b55" text-anchor="start">Loops in the centre</text>
+<text x="108" y="362" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">₩1,400</text>
+<rect x="16" y="389" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="417" width="68" height="36" rx="12" fill="#b8392f"/>
+<text x="62" y="441" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">Red</text>
+<text x="108" y="418" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Wide-area</text>
+<text x="108" y="441" font-size="16" fill="#5f5b55" text-anchor="start">Seoul ↔ wider metro area</text>
+<text x="108" y="464" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">₩3,000</text>
+<rect x="16" y="491" width="368" height="92" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="519" width="68" height="36" rx="12" fill="#16151a"/>
+<text x="62" y="543" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">N…</text>
+<text x="108" y="520" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Night bus</text>
+<text x="108" y="543" font-size="16" fill="#5f5b55" text-anchor="start">Late night, after the subway</text>
+<text x="108" y="566" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">₩2,500</text>
+<text x="20" y="611" font-size="16" fill="#5f5b55" text-anchor="start">Adult fares with a transport card</text>
 </svg>

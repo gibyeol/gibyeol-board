@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="2호선 위의 네 쇼핑 지역" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 447" role="img" aria-label="2호선 위의 네 쇼핑 지역" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>2호선 위의 네 쇼핑 지역</title>
-<rect x="0" y="0" width="720" height="440" rx="14" fill="#f4f0e6"/>
-<text x="28" y="44" font-size="22" fill="#16151a" text-anchor="start" font-weight="bold">2호선 위의 네 쇼핑 지역</text>
-<text x="692" y="44" font-size="14" fill="#5f5b55" text-anchor="end" font-weight="normal">개념도, 축척 아님</text>
-<path d="M0 330 C 120 300, 220 360, 360 330 S 600 300, 720 335 L 720 375 C 600 345, 480 385, 360 370 S 120 345, 0 372 Z" fill="#e9e2d3" stroke="#c9c1b2"/>
-<text x="360" y="402" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal">한강</text>
-<ellipse cx="370" cy="270" rx="270" ry="150" fill="none" stroke="#16151a" stroke-width="3" stroke-dasharray="10 7"/>
-<text x="700" y="428" font-size="15" fill="#16151a" text-anchor="end" font-weight="bold">2호선(순환선)</text>
-<circle cx="323" cy="122" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<text x="323" y="78" font-size="17" fill="#16151a" text-anchor="middle" font-weight="bold">명동</text>
-<text x="323" y="98" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="normal">뷰티</text>
-<circle cx="631" cy="231" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<text x="609" y="233" font-size="17" fill="#16151a" text-anchor="end" font-weight="bold">성수</text>
-<text x="609" y="253" font-size="14" fill="#5f5b55" text-anchor="end" font-weight="normal">새 브랜드·팝업</text>
-<circle cx="101" cy="257" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<text x="123" y="259" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">홍대</text>
-<text x="123" y="279" font-size="14" fill="#5f5b55" text-anchor="start" font-weight="normal">젊은 패션</text>
-<circle cx="484" cy="134" r="11" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
-<text x="500" y="94" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">동대문</text>
-<text x="500" y="114" font-size="14" fill="#5f5b55" text-anchor="start" font-weight="normal">밤 옷 쇼핑</text>
+<rect width="400" height="447" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">2호선 위의 네 쇼핑 지역</text>
+<text x="20" y="65" font-size="16" fill="#5f5b55" text-anchor="start">개념도, 축척 아님</text>
+<path d="M0,359 C80,337 160,377 240,359 S360,343 400,355 L400,399 C320,385 260,417 180,401 S60,389 0,405 Z" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<ellipse cx="200" cy="275" rx="158" ry="120" fill="none" stroke="#16151a" stroke-width="3" stroke-dasharray="9 7"/>
+<circle cx="42" cy="275" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<circle cx="181" cy="156" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<circle cx="291" cy="177" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<circle cx="355" cy="300" r="10" fill="#b8392f" stroke="#ffffff" stroke-width="3"/>
+<text x="60" y="269" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">홍대</text>
+<text x="60" y="291" font-size="16" fill="#5f5b55" text-anchor="start">젊은 패션</text>
+<text x="181" y="106" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">명동</text>
+<text x="181" y="128" font-size="16" fill="#5f5b55" text-anchor="middle">뷰티</text>
+<text x="295" y="127" font-size="18" fill="#16151a" font-weight="bold" text-anchor="middle">동대문</text>
+<text x="295" y="149" font-size="16" fill="#5f5b55" text-anchor="middle">밤 옷 쇼핑</text>
+<text x="337" y="294" font-size="18" fill="#16151a" font-weight="bold" text-anchor="end">성수</text>
+<text x="337" y="316" font-size="16" fill="#5f5b55" text-anchor="end">새 브랜드·팝업</text>
+<text x="70" y="393" font-size="16" fill="#5f5b55" text-anchor="middle">한강</text>
+<text x="380" y="429" font-size="16" fill="#16151a" font-weight="bold" text-anchor="end">2호선(순환선)</text>
 </svg>

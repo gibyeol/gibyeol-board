@@ -77,7 +77,7 @@ Decide before you fly, because the trains stop earlier than people expect.
 - The last AREX Express leaves Terminal 1 at 22:48 (Terminal 2 at 22:40), on the current weekday and weekend timetables.
 - Visit Seoul tells you to allow 1–2 hours after landing for immigration and baggage, so a flight landing after about 9 p.m. can miss it.
 - The all-stop train runs later; check its last train on the AREX site for your date.
-- After the trains, late-night buses run to Gangnam (N6000), Hongdae and Cheongnyangni (N6002), Seoul Station and Dongdaemun (N6701), and Jamsil and Gwangnaru (N6703) for ₩17,000–18,000. Buy the ticket at the bus counter or a machine.
+- After the trains, late-night buses run to Gangnam (N6000), Hongdae and Cheongnyangni (N6002), Seoul Station and Dongdaemun (N6701), and Jamsil and Gwangnaru (N6703) for ₩17,000–18,000. Their first departures from Terminal 1 are between 23:40 and 00:10. Buy the ticket at the bus counter or a machine.
 
 ## Sources
 

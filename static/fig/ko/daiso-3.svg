@@ -1,29 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 500" role="img" aria-label="다이소에서 택스리펀드?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 645" role="img" aria-label="다이소에서 택스리펀드?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>다이소에서 택스리펀드?</title>
-<rect width="720" height="500" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">다이소에서 택스리펀드?</text>
-<rect x="32" y="76" width="420" height="56" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
-<text x="242" y="110" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">이 매장에 “Tax Free” 표시가 있나요?</text>
-<line x1="452" y1="104" x2="500" y2="104" stroke="#5f5b55" stroke-width="2"/>
-<text x="476" y="96" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">아니요</text>
-<rect x="500" y="76" width="188" height="56" rx="10" fill="#e9e2d3"/>
-<text x="594" y="110" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">그냥 결제</text>
-<line x1="242" y1="132" x2="242" y2="176" stroke="#5f5b55" stroke-width="2"/>
-<text x="254" y="160" font-size="15" fill="#b8392f" font-weight="bold" text-anchor="start">예</text>
-<rect x="32" y="176" width="420" height="56" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
-<text x="242" y="210" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">영수증 한 장이 ₩15,000 이상인가요?</text>
-<text x="242" y="256" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">₩5,000 × 3 = ₩15,000</text>
-<line x1="452" y1="204" x2="500" y2="204" stroke="#5f5b55" stroke-width="2"/>
-<text x="476" y="196" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">아니요</text>
-<rect x="500" y="176" width="188" height="84" rx="10" fill="#e9e2d3"/>
-<text x="594" y="208" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">더 담거나</text>
-<text x="594" y="234" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">그냥 결제</text>
-<text x="594" y="286" font-size="15" fill="#b8392f" font-weight="normal" text-anchor="middle">영수증마다 따로 계산</text>
-<line x1="242" y1="266" x2="242" y2="316" stroke="#5f5b55" stroke-width="2"/>
-<text x="254" y="298" font-size="15" fill="#b8392f" font-weight="bold" text-anchor="start">예</text>
-<rect x="32" y="316" width="420" height="84" rx="10" fill="#b8392f"/>
-<text x="242" y="350" font-size="18" fill="#ffffff" font-weight="bold" text-anchor="middle">결제할 때</text>
-<text x="242" y="378" font-size="18" fill="#ffffff" font-weight="bold" text-anchor="middle">실물 여권 제시</text>
-<rect x="32" y="430" width="656" height="44" rx="6" fill="#e9e2d3"/>
-<text x="360" y="458" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">규정·한도: 택스리펀드 페이지</text>
+<rect width="400" height="645" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">다이소에서 택스리펀드?</text>
+<rect x="16" y="61" width="368" height="72" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
+<text x="200" y="91" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">이 매장에 “Tax Free”나 “Tax Refund”</text>
+<text x="200" y="114" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">표시가 있나요?</text>
+<rect x="124" y="147" width="260" height="47" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
+<text x="254" y="176" font-size="17" fill="#16151a" text-anchor="middle">그냥 결제</text>
+<line x1="40" y1="133" x2="40" y2="170.5" stroke="#16151a" stroke-width="2.5"/>
+<line x1="40" y1="170.5" x2="122" y2="170.5" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="86" y="161.5" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="middle">아니요</text>
+<line x1="40" y1="170.5" x2="40" y2="244" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="52" y="226" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">예</text>
+<rect x="16" y="246" width="368" height="49" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
+<text x="200" y="276" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">영수증 한 장이 ₩15,000 이상인가요?</text>
+<text x="56" y="319" font-size="16" fill="#5f5b55" text-anchor="start">₩5,000 × 3 = ₩15,000</text>
+<rect x="124" y="339" width="260" height="70" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
+<text x="254" y="368" font-size="17" fill="#16151a" text-anchor="middle">더 담거나</text>
+<text x="254" y="391" font-size="17" fill="#16151a" text-anchor="middle">그냥 결제</text>
+<line x1="40" y1="295" x2="40" y2="374" stroke="#16151a" stroke-width="2.5"/>
+<line x1="40" y1="374" x2="122" y2="374" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="86" y="365" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="middle">아니요</text>
+<text x="254" y="431" font-size="16" fill="#b8392f" text-anchor="middle">영수증마다 따로 계산</text>
+<line x1="40" y1="374" x2="40" y2="487" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="52" y="469" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">예</text>
+<rect x="16" y="489" width="368" height="76" rx="12" fill="#b8392f"/>
+<text x="200" y="520" font-size="18" fill="#ffffff" font-weight="bold" text-anchor="middle">결제할 때</text>
+<text x="200" y="545" font-size="18" fill="#ffffff" font-weight="bold" text-anchor="middle">실물 여권 제시</text>
+<rect x="16" y="583" width="368" height="44" rx="12" fill="#e9e2d3"/>
+<text x="200" y="610" font-size="16" fill="#16151a" text-anchor="middle">규정·한도: 택스리펀드 페이지</text>
 </svg>

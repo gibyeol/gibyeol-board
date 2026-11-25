@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 546" role="img" aria-label="From Terminal 1 into Seoul" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>From Terminal 1 into Seoul</title>
+<rect width="400" height="546" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">From Terminal 1 into Seoul</text>
+<rect x="16" y="54" width="368" height="92" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="82" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">AREX Express</text>
+<text x="32" y="108" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">₩13,000</text>
+<text x="32" y="132" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">43 min nonstop to Seoul Station</text>
+<rect x="16" y="156" width="368" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="184" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">AREX all-stop</text>
+<text x="32" y="210" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">₩4,750 by card</text>
+<text x="32" y="234" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">59 min to Seoul Station,</text>
+<text x="32" y="256" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">stops at Hongdae and Gongdeok</text>
+<rect x="16" y="280" width="368" height="92" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="308" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">Limousine bus</text>
+<text x="32" y="334" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">₩16,000–18,000</text>
+<text x="32" y="358" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">About 60–80 min to hotel areas</text>
+<rect x="16" y="382" width="368" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="410" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">International Taxi</text>
+<text x="32" y="436" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">₩70,000–95,000</text>
+<text x="32" y="460" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Fixed fare by Seoul zone,</text>
+<text x="32" y="482" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">mid-size, tolls included</text>
+<text x="20" y="528" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Adult fares, checked 26 Nov 2026</text>
+</svg>

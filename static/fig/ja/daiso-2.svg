@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="明洞駅店ダイソーを4ステップで" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 479" role="img" aria-label="明洞駅店ダイソーを4ステップで" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>明洞駅店ダイソーを4ステップで</title>
-<rect width="720" height="300" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">明洞駅店ダイソーを4ステップで</text>
-<rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="107" cy="114" r="20" fill="#16151a"/>
-<text x="107" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="107" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">フロアガイド</text>
-<text x="107" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">英・日・中あり</text>
-<text x="107" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">2〜3階に絞る</text>
-<path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="275" cy="114" r="20" fill="#16151a"/>
-<text x="275" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="275" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">コスメは2階</text>
-<text x="275" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">話題の商品は</text>
-<text x="275" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">売り切れも</text>
-<path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="443" cy="114" r="20" fill="#16151a"/>
-<text x="443" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="443" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">会計は1回に</text>
-<text x="443" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">レシート1枚</text>
-<text x="443" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">15,000以上</text>
-<path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="611" cy="114" r="20" fill="#b8392f"/>
-<text x="611" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="611" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">パスポート</text>
-<text x="611" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">支払いの</text>
-<text x="611" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">ときに提示</text>
+<rect width="400" height="479" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">明洞駅店ダイソーを4ステップで</text>
+<rect x="16" y="61" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="108" r="15" fill="#16151a"/>
+<text x="42" y="114" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="72" y="92" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">フロアガイド</text>
+<text x="72" y="115" font-size="16" fill="#5f5b55" text-anchor="start">英・日・中あり</text>
+<text x="72" y="137" font-size="16" fill="#5f5b55" text-anchor="start">2〜3階に絞る</text>
+<line x1="42" y1="157" x2="42" y2="173" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="176" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="212" r="15" fill="#16151a"/>
+<text x="42" y="218" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="72" y="207" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">コスメは2階</text>
+<text x="72" y="230" font-size="16" fill="#5f5b55" text-anchor="start">話題の商品は売り切れも</text>
+<line x1="42" y1="250" x2="42" y2="266" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="18" y="285" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">免税を受けるなら</text>
+<rect x="16" y="295" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="332" r="15" fill="#16151a"/>
+<text x="42" y="338" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="72" y="326" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">会計は1回に</text>
+<text x="72" y="349" font-size="16" fill="#5f5b55" text-anchor="start">レシート1枚ごとに15,000ウォン以上</text>
+<line x1="42" y1="369" x2="42" y2="385" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="388" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="424" r="15" fill="#b8392f"/>
+<text x="42" y="430" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="72" y="419" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">パスポート</text>
+<text x="72" y="442" font-size="16" fill="#5f5b55" text-anchor="start">支払いのときに提示</text>
 </svg>

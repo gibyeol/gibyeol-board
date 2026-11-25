@@ -1,32 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="명동역점 다이소, 4단계" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 479" role="img" aria-label="명동역점 다이소, 4단계" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>명동역점 다이소, 4단계</title>
-<rect width="720" height="300" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">명동역점 다이소, 4단계</text>
-<rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="107" cy="114" r="20" fill="#16151a"/>
-<text x="107" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="107" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">층별 안내</text>
-<text x="107" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">영·일·중 안내</text>
-<text x="107" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">2~3개 층 고르기</text>
-<path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="275" cy="114" r="20" fill="#16151a"/>
-<text x="275" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="275" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">뷰티는 2층</text>
-<text x="275" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">화제 상품은</text>
-<text x="275" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">품절되기도</text>
-<path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="443" cy="114" r="20" fill="#16151a"/>
-<text x="443" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="443" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">한 번에 계산</text>
-<text x="443" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">영수증마다</text>
-<text x="443" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">₩15,000 이상</text>
-<path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="611" cy="114" r="20" fill="#b8392f"/>
-<text x="611" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="611" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">여권</text>
-<text x="611" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">결제할 때</text>
-<text x="611" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">보여 주기</text>
+<rect width="400" height="479" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">명동역점 다이소, 4단계</text>
+<rect x="16" y="61" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="108" r="15" fill="#16151a"/>
+<text x="42" y="114" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="72" y="92" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">층별 안내</text>
+<text x="72" y="115" font-size="16" fill="#5f5b55" text-anchor="start">영·일·중 안내</text>
+<text x="72" y="137" font-size="16" fill="#5f5b55" text-anchor="start">2~3개 층 고르기</text>
+<line x1="42" y1="157" x2="42" y2="173" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="176" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="212" r="15" fill="#16151a"/>
+<text x="42" y="218" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="72" y="207" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">뷰티는 2층</text>
+<text x="72" y="230" font-size="16" fill="#5f5b55" text-anchor="start">화제 상품은 품절되기도</text>
+<line x1="42" y1="250" x2="42" y2="266" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="18" y="285" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">택스리펀드를 받으려면</text>
+<rect x="16" y="295" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="332" r="15" fill="#16151a"/>
+<text x="42" y="338" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="72" y="326" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">한 번에 계산</text>
+<text x="72" y="349" font-size="16" fill="#5f5b55" text-anchor="start">영수증마다 ₩15,000 이상</text>
+<line x1="42" y1="369" x2="42" y2="385" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="388" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="424" r="15" fill="#b8392f"/>
+<text x="42" y="430" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="72" y="419" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">여권</text>
+<text x="72" y="442" font-size="16" fill="#5f5b55" text-anchor="start">결제할 때 보여 주기</text>
 </svg>

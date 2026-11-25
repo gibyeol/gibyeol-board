@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 546" role="img" aria-label="從第1航廈進首爾" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>從第1航廈進首爾</title>
+<rect width="400" height="546" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">從第1航廈進首爾</text>
+<rect x="16" y="54" width="368" height="92" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="82" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">機場鐵路直達車</text>
+<text x="32" y="108" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">13,000韓元</text>
+<text x="32" y="132" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">不停站到首爾站43分鐘</text>
+<rect x="16" y="156" width="368" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="184" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">機場鐵路普通車</text>
+<text x="32" y="210" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">交通卡4,750韓元</text>
+<text x="32" y="234" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">到首爾站59分鐘,</text>
+<text x="32" y="256" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">停弘大入口、孔德</text>
+<rect x="16" y="280" width="368" height="92" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="308" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">機場巴士</text>
+<text x="32" y="334" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">16,000〜18,000韓元</text>
+<text x="32" y="358" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">到飯店密集區約60〜80分鐘</text>
+<rect x="16" y="382" width="368" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="410" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">外國人觀光計程車</text>
+<text x="32" y="436" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">70,000〜95,000韓元</text>
+<text x="32" y="460" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">依首爾區域定額,</text>
+<text x="32" y="482" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">中型車、含過路費</text>
+<text x="20" y="528" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">成人票價,2026年11月26日確認</text>
+</svg>

@@ -1,38 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 610" role="img" aria-label="交通カードと1回用乗車券(大人)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 630" role="img" aria-label="交通カードと1回用乗車券(大人)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>交通カードと1回用乗車券(大人)</title>
-<rect width="720" height="610" rx="16" fill="#f4f0e6"/>
-<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
-
-<text x="360" y="40" font-size="20" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">交通カードと1回用乗車券(大人)</text>
-<rect x="30" y="80" width="660" height="495" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
-<rect x="265" y="80" width="225" height="495" fill="#e9e2d3"/>
-<text x="375" y="115" font-size="17" fill="#b8392f" text-anchor="middle" font-weight="bold" dominant-baseline="middle">T-money・WOWPASS</text>
-<text x="595" y="115" font-size="17" fill="#5f5b55" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1回用乗車券</text>
-<line x1="30" y1="150" x2="690" y2="150" stroke="#c9c1b2" stroke-width="2"/>
-<text x="45" y="192" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">基本運賃(10km)</text>
-<text x="375" y="192" font-size="16" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1,550ウォン</text>
-<text x="595" y="192" font-size="16" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1,650ウォン</text>
-<line x1="30" y1="235" x2="690" y2="235" stroke="#c9c1b2" stroke-width="2"/>
-<text x="45" y="277" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">保証金</text>
-<text x="375" y="277" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">—</text>
-<text x="595" y="267" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">500ウォン、</text>
-<text x="595" y="287" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">出口で返金</text>
-<line x1="30" y1="320" x2="690" y2="320" stroke="#c9c1b2" stroke-width="2"/>
-<text x="45" y="362" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">バス乗り換え割引</text>
-<text x="375" y="352" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">あり</text>
-<text x="375" y="372" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">(30分以内)</text>
-<text x="595" y="362" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">なし</text>
-<line x1="30" y1="405" x2="690" y2="405" stroke="#c9c1b2" stroke-width="2"/>
-<text x="45" y="447" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">使える範囲</text>
-<text x="375" y="437" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">地下鉄</text>
-<text x="375" y="457" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">バス</text>
-<text x="595" y="437" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">首都圏の</text>
-<text x="595" y="457" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">鉄道のみ</text>
-<line x1="30" y1="490" x2="690" y2="490" stroke="#c9c1b2" stroke-width="2"/>
-<text x="45" y="532" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">チャージ</text>
-<text x="375" y="512" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">駅のチャージ機で</text>
-<text x="375" y="532" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">現金</text>
-<text x="375" y="553" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">(WOWPASSはアプリも可)</text>
-<text x="595" y="522" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">毎回</text>
-<text x="595" y="542" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">買い直し</text>
+<rect width="400" height="630" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">交通カードと1回用乗車券(大人)</text>
+<rect x="16" y="61" width="368" height="551" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="16" y="62" width="184" height="549" fill="#e9e2d3"/>
+<text x="108" y="89" font-size="17" fill="#b8392f" font-weight="bold" text-anchor="middle">T-money・</text>
+<text x="108" y="112" font-size="17" fill="#b8392f" font-weight="bold" text-anchor="middle">WOWPASS</text>
+<text x="292" y="89" font-size="17" fill="#5f5b55" font-weight="bold" text-anchor="middle">1回用乗車券</text>
+<line x1="16" y1="129" x2="384" y2="129" stroke="#c9c1b2" stroke-width="2"/>
+<text x="28" y="155" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="start">基本運賃(10km)</text>
+<text x="108" y="182" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">1,550ウォン</text>
+<text x="292" y="182" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">1,650ウォン</text>
+<line x1="16" y1="200" x2="384" y2="200" stroke="#c9c1b2" stroke-width="2"/>
+<text x="28" y="226" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="start">保証金</text>
+<text x="108" y="252" font-size="16" fill="#16151a" text-anchor="middle">—</text>
+<text x="292" y="252" font-size="16" fill="#16151a" text-anchor="middle">500ウォン、</text>
+<text x="292" y="274" font-size="16" fill="#16151a" text-anchor="middle">出口で返金</text>
+<line x1="16" y1="292" x2="384" y2="292" stroke="#c9c1b2" stroke-width="2"/>
+<text x="28" y="318" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="start">バス乗り換え割引</text>
+<text x="108" y="344" font-size="16" fill="#16151a" text-anchor="middle">あり</text>
+<text x="108" y="366" font-size="16" fill="#16151a" text-anchor="middle">(30分以内)</text>
+<text x="292" y="344" font-size="16" fill="#16151a" text-anchor="middle">なし</text>
+<line x1="16" y1="384" x2="384" y2="384" stroke="#c9c1b2" stroke-width="2"/>
+<text x="28" y="410" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="start">使える範囲</text>
+<text x="108" y="436" font-size="16" fill="#16151a" text-anchor="middle">地下鉄・バス</text>
+<text x="292" y="436" font-size="16" fill="#16151a" text-anchor="middle">首都圏の</text>
+<text x="292" y="458" font-size="16" fill="#16151a" text-anchor="middle">鉄道のみ</text>
+<line x1="16" y1="476" x2="384" y2="476" stroke="#c9c1b2" stroke-width="2"/>
+<text x="28" y="502" font-size="16" fill="#5f5b55" font-weight="bold" text-anchor="start">チャージ</text>
+<text x="108" y="528" font-size="16" fill="#16151a" text-anchor="middle">駅のチャージ機で</text>
+<text x="108" y="550" font-size="16" fill="#16151a" text-anchor="middle">現金</text>
+<text x="108" y="572" font-size="16" fill="#5f5b55" text-anchor="middle">(WOWPASSは</text>
+<text x="108" y="594" font-size="16" fill="#5f5b55" text-anchor="middle">アプリも可)</text>
+<text x="292" y="528" font-size="16" fill="#16151a" text-anchor="middle">毎回</text>
+<text x="292" y="550" font-size="16" fill="#16151a" text-anchor="middle">買い直し</text>
+<rect x="16" y="61" width="368" height="551" rx="12" fill="none" stroke="#c9c1b2" stroke-width="2"/>
 </svg>

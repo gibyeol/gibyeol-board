@@ -1,28 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-label="韓国ダイソーの6つの価格:500〜5,000ウォン" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<title>韓国ダイソーの6つの価格:500〜5,000ウォン</title>
-<rect width="720" height="400" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">韓国ダイソーの6つの価格:500〜5,000ウォン</text>
-<text x="32" y="78" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="start">最低価格と最高価格、商品の例(単位:ウォン)</text>
-<line x1="80" y1="210" x2="640" y2="210" stroke="#c9c1b2" stroke-width="2"/>
-<rect x="136.0" y="203" width="504.0" height="14" rx="7" fill="#e9e2d3"/>
-<circle cx="136" cy="210" r="10" fill="#16151a"/>
-<line x1="136" y1="222" x2="136" y2="240" stroke="#5f5b55" stroke-width="1.5"/>
-<text x="136" y="262" font-size="19" fill="#16151a" font-weight="bold" text-anchor="middle">500</text>
-<text x="136" y="286" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">最低価格</text>
-<circle cx="192" cy="210" r="10" fill="#16151a"/>
-<line x1="192" y1="198" x2="192" y2="176" stroke="#5f5b55" stroke-width="1.5"/>
-<text x="192" y="166" font-size="19" fill="#16151a" font-weight="bold" text-anchor="middle">1,000</text>
-<text x="192" y="140" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">シートマスク</text>
-<circle cx="304" cy="210" r="10" fill="#16151a"/>
-<line x1="304" y1="222" x2="304" y2="240" stroke="#5f5b55" stroke-width="1.5"/>
-<text x="304" y="262" font-size="19" fill="#16151a" font-weight="bold" text-anchor="middle">2,000</text>
-<text x="304" y="286" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">ネームタグ</text>
-<circle cx="640" cy="210" r="10" fill="#b8392f"/>
-<line x1="640" y1="198" x2="640" y2="176" stroke="#5f5b55" stroke-width="1.5"/>
-<text x="640" y="166" font-size="19" fill="#b8392f" font-weight="bold" text-anchor="middle">5,000</text>
-<text x="640" y="140" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">無線マウス</text>
-<text x="640" y="116" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="middle">最高価格</text>
-<rect x="32" y="316" width="656" height="64" rx="6" fill="#e9e2d3"/>
-<text x="360" y="342" font-size="16" fill="#16151a" font-weight="bold" text-anchor="middle">価格は全部で6つ(アソン・ダイソー、2026年11月)。</text>
-<text x="360" y="368" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">例:韓国観光公社(2024年)。値札を確認。</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 360" role="img" aria-label="韓国ダイソーの6つの価格: 500〜5,000ウォン" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>韓国ダイソーの6つの価格: 500〜5,000ウォン</title>
+<rect width="400" height="360" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">韓国ダイソーの6つの価格:</text>
+<text x="20" y="68" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">500〜5,000ウォン</text>
+<text x="20" y="94" font-size="16" fill="#5f5b55" text-anchor="start">最低価格と最高価格(単位:ウォン)</text>
+<line x1="56" y1="144" x2="344" y2="144" stroke="#e9e2d3" stroke-width="16" stroke-linecap="round"/>
+<line x1="56" y1="144" x2="344" y2="144" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="2 8"/>
+<circle cx="56" cy="144" r="11" fill="#16151a"/>
+<circle cx="344" cy="144" r="11" fill="#b8392f"/>
+<text x="56" y="190" font-size="24" fill="#16151a" font-weight="bold" text-anchor="middle">500</text>
+<text x="56" y="216" font-size="17" fill="#5f5b55" text-anchor="middle">最低価格</text>
+<text x="344" y="190" font-size="24" fill="#b8392f" font-weight="bold" text-anchor="middle">5,000</text>
+<text x="344" y="216" font-size="17" fill="#b8392f" font-weight="bold" text-anchor="middle">最高価格</text>
+<rect x="16" y="248" width="368" height="94" rx="12" fill="#e9e2d3"/>
+<text x="28" y="278" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">価格は全部で6つ</text>
+<text x="28" y="301" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">(アソン・ダイソー、2026年11月)。</text>
+<text x="28" y="323" font-size="16" fill="#5f5b55" text-anchor="start">値札を確認。</text>
 </svg>

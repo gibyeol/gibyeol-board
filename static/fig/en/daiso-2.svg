@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="Myeongdong Station Daiso: 4 steps" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 508" role="img" aria-label="Myeongdong Station Daiso: 4 steps" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>Myeongdong Station Daiso: 4 steps</title>
-<rect width="720" height="300" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">Myeongdong Station Daiso: 4 steps</text>
-<rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="107" cy="114" r="20" fill="#16151a"/>
-<text x="107" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="107" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Floor guide</text>
-<text x="107" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">EN · JA · ZH</text>
-<text x="107" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">pick 2–3 floors</text>
-<path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="275" cy="114" r="20" fill="#16151a"/>
-<text x="275" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="275" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Beauty: 2F</text>
-<text x="275" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">viral items</text>
-<text x="275" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">can sell out</text>
-<path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="443" cy="114" r="20" fill="#16151a"/>
-<text x="443" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="443" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">One purchase</text>
-<text x="443" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">each receipt</text>
-<text x="443" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">₩15,000+</text>
-<path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
-<rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="611" cy="114" r="20" fill="#b8392f"/>
-<text x="611" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="611" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">Passport</text>
-<text x="611" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">show it when</text>
-<text x="611" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">you pay</text>
+<rect width="400" height="508" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">Myeongdong Station Daiso:</text>
+<text x="20" y="68" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">4 steps</text>
+<rect x="16" y="90" width="368" height="95" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="138" r="15" fill="#16151a"/>
+<text x="42" y="144" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="72" y="121" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Floor guide</text>
+<text x="72" y="144" font-size="16" fill="#5f5b55" text-anchor="start">EN · JA · ZH</text>
+<text x="72" y="166" font-size="16" fill="#5f5b55" text-anchor="start">pick 2–3 floors</text>
+<line x1="42" y1="186" x2="42" y2="202" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="205" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="242" r="15" fill="#16151a"/>
+<text x="42" y="248" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="72" y="236" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Beauty: 2F</text>
+<text x="72" y="259" font-size="16" fill="#5f5b55" text-anchor="start">viral items can sell out</text>
+<line x1="42" y1="279" x2="42" y2="295" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<text x="18" y="314" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="start">For a tax refund</text>
+<rect x="16" y="324" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="360" r="15" fill="#16151a"/>
+<text x="42" y="366" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="72" y="355" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">One purchase</text>
+<text x="72" y="378" font-size="16" fill="#5f5b55" text-anchor="start">each receipt ₩15,000+</text>
+<line x1="42" y1="398" x2="42" y2="414" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="16" y="417" width="368" height="73" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="42" cy="454" r="15" fill="#b8392f"/>
+<text x="42" y="460" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="72" y="448" font-size="18" fill="#16151a" font-weight="bold" text-anchor="start">Passport</text>
+<text x="72" y="471" font-size="16" fill="#5f5b55" text-anchor="start">show it when you pay</text>
 </svg>
