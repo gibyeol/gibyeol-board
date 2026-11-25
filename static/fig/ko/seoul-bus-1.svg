@@ -5,7 +5,7 @@
 <rect x="44" y="80" width="76" height="36" rx="8" fill="#2f5d9e"/>
 <text x="82" y="104" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">파랑</text>
 <text x="136" y="95" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">간선</text>
-<text x="136" y="116" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">시 외곽과 도심을 길게</text>
+<text x="136" y="116" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">외곽과 도심을 길게</text>
 <text x="672" y="105" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500원</text>
 <rect x="32" y="136" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="44" y="146" width="76" height="36" rx="8" fill="#3d7a4a"/>
@@ -15,7 +15,7 @@
 <text x="672" y="171" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500원(마을 1,200원)</text>
 <rect x="32" y="202" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="44" y="212" width="76" height="36" rx="8" fill="#d9a521"/>
-<text x="82" y="236" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">노랑</text>
+<text x="82" y="236" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">노랑</text>
 <text x="136" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">순환</text>
 <text x="136" y="248" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">도심 안을 돌아요</text>
 <text x="672" y="237" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,400원</text>
@@ -29,7 +29,7 @@
 <rect x="44" y="344" width="76" height="36" rx="8" fill="#16151a"/>
 <text x="82" y="368" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">N…</text>
 <text x="136" y="359" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">심야버스</text>
-<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">밤 11시 10분쯤~새벽 6시</text>
+<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">지하철이 끊긴 밤에</text>
 <text x="672" y="369" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">2,500원</text>
 <text x="32" y="414" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">어른, 교통카드 요금</text>
 </svg>

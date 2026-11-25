@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" role="img" aria-label="Transfer window after you get off" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <rect width="720" height="330" fill="#f4f0e6"/>
 <text x="32" y="44" font-size="22" font-weight="700" fill="#16151a">Transfer window after you get off</text>
-<text x="32" y="128" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Day</text>
+<text x="32" y="128" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">7 a.m.–9 p.m.</text>
 <rect x="180" y="100" width="480" height="44" rx="8" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="180" y="100" width="240.0" height="44" rx="8" fill="#e9e2d3" stroke="#16151a"/>
 <text x="300.0" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">30 min</text>

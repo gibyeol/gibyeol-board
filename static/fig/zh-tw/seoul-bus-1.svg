@@ -15,7 +15,7 @@
 <text x="672" y="171" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,500韓元(社區1,200)</text>
 <rect x="32" y="202" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="44" y="212" width="76" height="36" rx="8" fill="#d9a521"/>
-<text x="82" y="236" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">黃</text>
+<text x="82" y="236" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">黃</text>
 <text x="136" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">循環</text>
 <text x="136" y="248" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">在市中心繞行</text>
 <text x="672" y="237" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">1,400韓元</text>
@@ -29,7 +29,7 @@
 <rect x="44" y="344" width="76" height="36" rx="8" fill="#16151a"/>
 <text x="82" y="368" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">N…</text>
 <text x="136" y="359" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">深夜公車</text>
-<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">約23:10~06:00</text>
+<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">地鐵收班後</text>
 <text x="672" y="369" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">2,500韓元</text>
 <text x="32" y="414" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">成人、交通卡票價</text>
 </svg>

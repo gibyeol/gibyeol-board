@@ -10,12 +10,12 @@
 <rect x="32" y="136" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="44" y="146" width="76" height="36" rx="8" fill="#3d7a4a"/>
 <text x="82" y="170" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Green</text>
-<text x="136" y="161" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Feeder / village</text>
-<text x="136" y="182" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Short hops to stations</text>
+<text x="136" y="161" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Branch / village</text>
+<text x="136" y="182" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Short links to stations</text>
 <text x="672" y="171" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩1,500 (village ₩1,200)</text>
 <rect x="32" y="202" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="44" y="212" width="76" height="36" rx="8" fill="#d9a521"/>
-<text x="82" y="236" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Yellow</text>
+<text x="82" y="236" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Yellow</text>
 <text x="136" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Circular</text>
 <text x="136" y="248" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Loops in the centre</text>
 <text x="672" y="237" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩1,400</text>
@@ -23,13 +23,13 @@
 <rect x="44" y="278" width="76" height="36" rx="8" fill="#b8392f"/>
 <text x="82" y="302" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Red</text>
 <text x="136" y="293" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Express</text>
-<text x="136" y="314" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">To the suburbs</text>
+<text x="136" y="314" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Seoul ↔ wider metro area</text>
 <text x="672" y="303" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩3,000</text>
 <rect x="32" y="334" width="656" height="56" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
 <rect x="44" y="344" width="76" height="36" rx="8" fill="#16151a"/>
 <text x="82" y="368" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">N…</text>
 <text x="136" y="359" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Night bus</text>
-<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">About 11:10 p.m.–6 a.m.</text>
+<text x="136" y="380" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Late night, after the subway</text>
 <text x="672" y="369" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩2,500</text>
 <text x="32" y="414" font-size="15" font-weight="400" fill="#5f5b55" text-anchor="start">Adult fares with a transport card</text>
 </svg>
