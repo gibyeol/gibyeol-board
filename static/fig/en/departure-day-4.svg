@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 508" role="img" aria-label="After passport control" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>After passport control</title>
+<rect width="400" height="508" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">After passport control</text>
+<rect x="20" y="60" width="360" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Terminal 1 · gates 1–50</text>
+<rect x="36" y="102" width="74.80000000000001" height="26" rx="13" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="73.4" y="121" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Refund</text>
+<text x="120.80000000000001" y="121" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Near gate 28</text>
+<text x="36" y="150" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Desk 07:00–22:00, kiosks 24 h</text>
+<rect x="36" y="160" width="74.80000000000001" height="26" rx="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="73.4" y="179" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Pickup</text>
+<text x="120.80000000000001" y="179" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Across from gate 43, 4F</text>
+<rect x="20" y="206" width="360" height="112" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="234" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Concourse · gates 101–132</text>
+<rect x="36" y="248" width="74.80000000000001" height="26" rx="13" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="73.4" y="267" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Refund</text>
+<text x="120.80000000000001" y="267" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Kiosk by gate 115</text>
+<rect x="36" y="282" width="74.80000000000001" height="26" rx="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="73.4" y="301" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Pickup</text>
+<text x="120.80000000000001" y="301" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Near gate 119, 4F</text>
+<rect x="20" y="328" width="360" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="356" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Terminal 2 · gates 208–290</text>
+<rect x="36" y="370" width="74.80000000000001" height="26" rx="13" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="73.4" y="389" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Refund</text>
+<text x="120.80000000000001" y="389" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Near gate 253</text>
+<text x="36" y="418" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Desk 07:00–21:30, kiosks 24 h</text>
+<rect x="36" y="428" width="74.80000000000001" height="26" rx="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="73.4" y="447" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Pickup</text>
+<text x="120.80000000000001" y="447" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Near 225 · towards 274, 2F</text>
+<text x="20" y="490" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Concourse: shuttle train, no return</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 370" role="img" aria-label="昌徳宮の後苑:1回100人" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>昌徳宮の後苑:1回100人</title>
+<rect width="400" height="370" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">昌徳宮の後苑:1回100人</text>
+<rect x="20" y="60" width="180" height="44" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="110" y="88" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">オンライン50</text>
+<rect x="200" y="60" width="180" height="44" rx="8" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="290" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">当日50</text>
+<text x="20" y="130" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">例:12日に行くなら</text>
+<line x1="36" y1="162" x2="36" y2="278" stroke="#c9c1b2" stroke-width="4"/>
+<circle cx="36" cy="162" r="9" fill="#b8392f" stroke="#b8392f" stroke-width="2"/>
+<text x="58" y="160" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">6日 10:00</text>
+<text x="58" y="182" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">オンライン予約開始</text>
+<circle cx="36" cy="220" r="9" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="58" y="218" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">11日</text>
+<text x="58" y="240" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">オンライン予約締切</text>
+<circle cx="36" cy="278" r="9" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="58" y="276" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">12日</text>
+<text x="58" y="298" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">当日券50人分を販売</text>
+<text x="20" y="330" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">先着順です。</text>
+<text x="20" y="352" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">昌徳宮の入場券も必要。</text>
+</svg>

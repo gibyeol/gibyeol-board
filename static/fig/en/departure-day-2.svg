@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 448" role="img" aria-label="Which terminal?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Which terminal?</title>
+<rect width="400" height="448" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Which terminal?</text>
+<text x="20" y="74" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">AREX from Seoul</text>
+<line x1="36" y1="84" x2="36" y2="280" stroke="#b8392f" stroke-width="5"/>
+<circle cx="36" cy="112" r="10" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<rect x="60" y="90" width="320" height="160" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="76" y="118" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Terminal 1: first stop</text>
+<text x="76" y="142" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Jeju Air, Trinity Airways,</text>
+<text x="76" y="164" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Eastar Jet, Air Premia, Parata Air,</text>
+<text x="76" y="186" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Peach, ZIPAIR, EVA Air,</text>
+<text x="76" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Tigerair Taiwan and most</text>
+<text x="76" y="230" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">other foreign airlines</text>
+<circle cx="36" cy="286" r="10" fill="#b8392f" stroke="#b8392f" stroke-width="3"/>
+<rect x="60" y="264" width="320" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="76" y="292" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Terminal 2: last stop</text>
+<text x="76" y="316" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Korean Air, Asiana, Jin Air,</text>
+<text x="76" y="338" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Air Busan, Air Seoul, Delta,</text>
+<text x="76" y="360" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Air France, KLM, China Airlines</text>
+<text x="20" y="408" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Codeshare? Check your e-ticket</text>
+<text x="20" y="430" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">or search your flight on airport.kr</text>
+</svg>

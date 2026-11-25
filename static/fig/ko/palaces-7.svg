@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 314" role="img" aria-label="북촌 레드존, 시간대별로" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>북촌 레드존, 시간대별로</title>
+<rect width="400" height="314" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">북촌 레드존, 시간대별로</text>
+<rect x="20.0" y="64" width="150.0" height="46" rx="0" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<rect x="170.0" y="64" width="105.0" height="46" rx="0" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="275.0" y="64" width="105.0" height="46" rx="0" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<line x1="20.0" y1="110" x2="20.0" y2="118" stroke="#16151a" stroke-width="1.5"/>
+<text x="20.0" y="140" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">00:00</text>
+<line x1="170.0" y1="110" x2="170.0" y2="118" stroke="#16151a" stroke-width="1.5"/>
+<text x="170.0" y="140" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">10:00</text>
+<line x1="275.0" y1="110" x2="275.0" y2="118" stroke="#16151a" stroke-width="1.5"/>
+<text x="275.0" y="140" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">17:00</text>
+<line x1="380.0" y1="110" x2="380.0" y2="118" stroke="#16151a" stroke-width="1.5"/>
+<text x="380.0" y="140" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="end">24:00</text>
+<rect x="20" y="164" width="22" height="22" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="52" y="181" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">방문 가능</text>
+<rect x="20" y="196" width="22" height="22" rx="3" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="52" y="213" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">관광객 방문 제한</text>
+<text x="20" y="252" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">북촌로11길 일대, 약 34,000㎡</text>
+<text x="20" y="274" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">과태료 10만 원</text>
+<text x="20" y="296" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">주민과 가게 손님은 예외</text>
+</svg>

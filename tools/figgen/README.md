@@ -11,6 +11,7 @@ Which script owns which figures — run only the owner, or you overwrite later f
 | kbeauty-how-to-choose-1..3 | gen-kbeauty.py |
 | e-arrival-card-*, money-*, tax-refund-* | core-A/ |
 | airport-to-seoul-*, getting-around-*, olive-young-*, duty-free-* | core-B/ |
+| palaces-1..7, seoul-areas-1..2, food-1..4, departure-day-1..5 | gen-guides2.py |
 | essentials-1..5, first-trip-1..3, emergency-1..4, convenience-store-1..3 (essentials also shows airport-to-seoul-1, owned by core-B) | gen-guides1.py |
 
 Check every output with verify.js at 340px (text ≥13px, no overflow/overlap) before copying into static/fig.

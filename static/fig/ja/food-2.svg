@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 366" role="img" aria-label="注文と支払い、3つのパターン" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>注文と支払い、3つのパターン</title>
+<rect width="400" height="366" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">注文と支払い、3つのパターン</text>
+<rect x="20" y="60" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="90" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">テーブルのタブレット</text>
+<text x="36" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">画面で注文</text>
+<text x="36" y="136" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">たいてい注文時に支払い</text>
+<rect x="20" y="158" width="360" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">入口のキオスク</text>
+<text x="36" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">注文して先に支払う店が多い</text>
+<rect x="20" y="234" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="264" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">店員に注文</text>
+<text x="36" y="288" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">呼び出しボタンを押す</text>
+<text x="36" y="310" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">帰りにレジで支払い</text>
+<text x="20" y="348" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">水とおかずのおかわりは無料</text>
+</svg>

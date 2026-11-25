@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 432" role="img" aria-label="ソウル駅での搭乗手続き" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>ソウル駅での搭乗手続き</title>
+<rect width="400" height="432" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">ソウル駅での搭乗手続き</text>
+<rect x="20" y="60" width="360" height="40" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="36" y="86" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">ソウル駅 地下2階</text>
+<text x="20" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">搭乗手続き、荷物預け</text>
+<text x="20" y="154" font-size="22" font-weight="700" fill="#16151a" text-anchor="start">05:20〜19:00</text>
+<text x="20" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">出国審査</text>
+<text x="20" y="212" font-size="22" font-weight="700" fill="#16151a" text-anchor="start">05:30〜19:00</text>
+<text x="20" y="242" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">出発時刻からの締切</text>
+<rect x="20" y="254" width="360" height="40" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="36" y="280" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第1ターミナル</text>
+<text x="364" y="280" font-size="18" font-weight="700" fill="#b8392f" text-anchor="end">3時間前</text>
+<rect x="20" y="302" width="360" height="40" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="36" y="328" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第2ターミナル</text>
+<text x="364" y="328" font-size="18" font-weight="700" fill="#b8392f" text-anchor="end">3時間20分前</text>
+<text x="20" y="370" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">AREX直通列車の乗車券が必要</text>
+<text x="20" y="392" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">当日の仁川発国際線、</text>
+<text x="20" y="414" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">一部の航空会社のみ</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 424" role="img" aria-label="無料入場になる韓服" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>無料入場になる韓服</title>
+<rect width="400" height="424" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">無料入場になる韓服</text>
+<path d="M75,72 L35,102 L45,116 L75,96 L75,140 L135,140 L135,96 L165,116 L175,102 L135,72 z" fill="#e9e2d3" stroke="#16151a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M95,72 L113,102 M113,102 L107,132 M113,102 L121,132" stroke="#b8392f" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text x="200" y="114" font-size="28" font-weight="700" fill="#5f5b55" text-anchor="middle">+</text>
+<path d="M261,72 L329,72 L353,140 L237,140 z" fill="#e9e2d3" stroke="#16151a" stroke-width="2" stroke-linejoin="round"/>
+<text x="105" y="166" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">チョゴリ(上衣)</text>
+<text x="295" y="166" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">スカートかズボン</text>
+<path d="M23,197 L28,202 L38,190" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="203" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">結びひもとボタンを留める</text>
+<path d="M23,227 L28,232 L38,220" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="233" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">脚が隠れている</text>
+<path d="M23,257 L28,262 L38,250" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="263" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">モダン韓服もOK</text>
+<line x1="20" y1="280" x2="380" y2="280" stroke="#c9c1b2" stroke-width="1.5"/>
+<path d="M24,296 L36,308 M36,296 L24,308" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="309" font-size="16" font-weight="400" fill="#b8392f" text-anchor="start">チョゴリにジーンズ</text>
+<path d="M24,326 L36,338 M36,326 L24,338" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="339" font-size="16" font-weight="400" fill="#b8392f" text-anchor="start">Tシャツ風の「韓服」</text>
+<path d="M24,356 L36,368 M36,356 L24,368" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="369" font-size="16" font-weight="400" fill="#b8392f" text-anchor="start">チョルリクなど上下一体の服は</text>
+<text x="50" y="393" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">断られた例あり</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 508" role="img" aria-label="출국심사 뒤" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>출국심사 뒤</title>
+<rect width="400" height="508" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">출국심사 뒤</text>
+<rect x="20" y="60" width="360" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">제1터미널 · 1~50번 게이트</text>
+<rect x="36" y="102" width="52" height="26" rx="13" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="62.0" y="121" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">환급</text>
+<text x="98" y="121" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">28번 근처</text>
+<text x="36" y="150" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">데스크 07:00~22:00, 키오스크 24시간</text>
+<rect x="36" y="160" width="67" height="26" rx="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="69.5" y="179" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">인도장</text>
+<text x="113" y="179" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">43번 맞은편, 4층</text>
+<rect x="20" y="206" width="360" height="112" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="234" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">탑승동 · 101~132번 게이트</text>
+<rect x="36" y="248" width="52" height="26" rx="13" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="62.0" y="267" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">환급</text>
+<text x="98" y="267" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">115번 옆 키오스크</text>
+<rect x="36" y="282" width="67" height="26" rx="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="69.5" y="301" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">인도장</text>
+<text x="113" y="301" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">119번 근처, 4층</text>
+<rect x="20" y="328" width="360" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="356" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">제2터미널 · 208~290번 게이트</text>
+<rect x="36" y="370" width="52" height="26" rx="13" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="62.0" y="389" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">환급</text>
+<text x="98" y="389" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">253번 근처</text>
+<text x="36" y="418" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">데스크 07:00~21:30, 키오스크 24시간</text>
+<rect x="36" y="428" width="67" height="26" rx="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="69.5" y="447" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">인도장</text>
+<text x="113" y="447" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">225번 근처 · 274번 방향, 2층</text>
+<text x="20" y="490" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">탑승동: 셔틀트레인, 되돌아올 수 없어요</text>
+</svg>

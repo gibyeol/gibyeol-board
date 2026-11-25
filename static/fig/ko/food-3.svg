@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 366" role="img" aria-label="외국인이 네이버 지도로 예약하는 순서" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>외국인이 네이버 지도로 예약하는 순서</title>
+<rect width="400" height="366" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">외국인이 네이버 지도로</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">예약하는 순서</text>
+<rect x="20" y="86" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="42" cy="110" r="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="42" y="116" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="66" y="116" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">여권 인증</text>
+<text x="66" y="140" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">휴대폰에서. 한국 번호도,</text>
+<text x="66" y="162" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">고객센터 연락도 필요 없어요</text>
+<rect x="20" y="184" width="360" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="42" cy="208" r="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="42" y="214" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="66" y="214" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">예약·주문·결제</text>
+<text x="66" y="238" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">네이버 지도 안에서</text>
+<rect x="20" y="260" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="42" cy="284" r="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="42" y="290" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="66" y="290" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">식당 확인</text>
+<text x="66" y="314" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">해외 카드 예약을 받을지는</text>
+<text x="66" y="336" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">식당마다 정해요</text>
+</svg>

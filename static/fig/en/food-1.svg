@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 504" role="img" aria-label="At a Korean restaurant table" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>At a Korean restaurant table</title>
+<rect width="400" height="504" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">At a Korean restaurant table</text>
+<rect x="20" y="112" width="56" height="110" rx="8" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<line x1="20" y1="132" x2="76" y2="132" stroke="#16151a" stroke-width="1.5"/>
+<rect x="92" y="62" width="288" height="210" rx="14" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<circle cx="236" cy="167" r="44" fill="#3a3532" stroke="#16151a" stroke-width="2"/>
+<circle cx="236" cy="167" r="30" fill="none" stroke="#8a817a" stroke-width="2"/>
+<rect x="300" y="78" width="64" height="44" rx="6" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<rect x="306" y="84" width="52" height="32" rx="3" fill="#d8e0e6" stroke="none" stroke-width="0"/>
+<circle cx="330" cy="232" r="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<rect x="130" y="260" width="110" height="24" rx="4" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<line x1="170" y1="272" x2="200" y2="272" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="330" cy="202" r="13" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="330" y="208" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">1</text>
+<circle cx="185" cy="302" r="13" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="185" y="308" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">2</text>
+<circle cx="236" cy="230" r="13" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="236" y="236" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">3</text>
+<circle cx="48" cy="248" r="13" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="48" y="254" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">4</text>
+<circle cx="332" cy="142" r="13" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="332" y="148" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">5</text>
+<circle cx="32" cy="342" r="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="348" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">1</text>
+<text x="54" y="348" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Call button: press for staff (it can be loud)</text>
+<circle cx="32" cy="374" r="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="380" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">2</text>
+<text x="54" y="380" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Drawer: spoons, chopsticks, napkins</text>
+<circle cx="32" cy="406" r="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="412" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">3</text>
+<text x="54" y="412" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Grill built into the table (BBQ places)</text>
+<circle cx="32" cy="438" r="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="444" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">4</text>
+<text x="54" y="444" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Storage chair: lift the lid for your coat</text>
+<circle cx="32" cy="470" r="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="476" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">5</text>
+<text x="54" y="476" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Tablet: order here, often pay too</text>
+</svg>

@@ -7,9 +7,9 @@ updated: 2026-11-26
 ---
 ## A BBQ evening
 
-Here is the evening we would plan, built from the Korea Tourism Organization's (KTO) guide to Korean restaurants. At a barbecue place the charcoal grill may be built into the table. If your chair has a lid, lift it: storage chairs are there so your coat doesn't take on the smell of the food. Spoons, chopsticks and napkins are in a small drawer on the table, and there is a call button for staff, which KTO warns may be louder than you expect.
+Our plan, built from the Korea Tourism Organization's (KTO) restaurant guide: At a barbecue place the charcoal grill may be built into the table. If your chair has a lid, lift it: storage chairs are there so your coat doesn't take on the smell of the food. Spoons, chopsticks and napkins are in a small drawer on the table, and there is a call button for staff, which KTO warns may be louder than you expect.
 
-At some places staff grill the meat for you, and when they say it's ready you wrap a piece in a leaf (ssam) and eat. Want more? Call out "Yeogiyo!" (Excuse me!). Our pick for the ending is the one KTO names: a soybean-paste stew (doenjang jjigae) or fried rice to finish.
+Some places grill the meat for you; when it's ready, wrap a piece in a leaf (ssam). Want more? Call out "Yeogiyo!" (Excuse me!). Our pick for the ending is the one KTO names: a soybean-paste stew (doenjang jjigae) or fried rice to finish.
 
 {{fig:food-1|What's at a Korean restaurant table}}
 
@@ -22,11 +22,11 @@ At some places staff grill the meat for you, and when they say it's ready you wr
 | Late night at the hotel | Order on Baemin | Foreign cards work and no Korean phone number is needed |
 | Vegetarian, halal or allergic | Show a Korean sentence before you order | Broths, fish sauce and salted shrimp hide in dishes that look safe |
 
-Our three: **Naver Map** for bookings, **Baemin** for nights in, and the **phrase card** at the bottom if you have a dietary limit. What we left out: restaurant rankings, and the booking apps we could not confirm for visitors. Who doesn't need this page? Someone who eats everything and is happy to walk in and point. For tipping (don't) and the two-serving rule in detail, see [Everyday Korea](/everyday/).
+Our three: **Naver Map** for bookings, **Baemin** for nights in, and the **phrase card** at the bottom if you have a dietary limit. Left out: restaurant rankings, and booking apps we could not confirm for visitors. Who doesn't need this page: anyone who eats everything and is happy to point. For tipping (don't) and the two-serving rule in detail, see [Everyday Korea](/everyday/).
 
 ## What to eat, by situation
 
-The dishes come from KTO's food pages, which also say what each one "usually has" in it. That note matters more than the description if you avoid something.
+The dishes come from KTO's food pages, which also say what each "usually has" in it; that matters more than the description if you avoid something.
 
 **Quick lunch.** Kimbap (rice and vegetables rolled in seaweed, usually with ham, egg or tuna) and kimchi jjigae (kimchi stew with tofu, usually with pork or tuna) are the everyday standbys. Noodle and rice-soup shops are the other easy solo choice.
 
@@ -38,7 +38,7 @@ The dishes come from KTO's food pages, which also say what each one "usually has
 
 ## How ordering works
 
-More and more restaurants have you order, and often pay, on a tabletop tablet or a kiosk at the door (Korea Herald, January 2024; KTO). Find out which kind of place you are in, and the rest follows.
+More restaurants have you order, and often pay, on a tabletop tablet or a door kiosk (Korea Herald, January 2024; KTO). Work out which kind of place you're in.
 
 {{fig:food-2|Three ways to order and pay}}
 
@@ -53,7 +53,7 @@ Since 4 June 2026, Naver has offered passport verification for visitors. With a 
 
 {{fig:food-3|Booking a table in Naver Map as a visitor}}
 
-What we could not confirm: whether Naver's waiting list is included, and whether CatchTable or Tabling work for visitors. If a place has a paper list or a tablet at the door, put your name down and wait nearby.
+Not confirmed: whether Naver's waiting list is included, and whether CatchTable or Tabling work for visitors. At a paper list or door tablet, add your name and wait nearby.
 
 ## Delivery for visitors: Baemin
 

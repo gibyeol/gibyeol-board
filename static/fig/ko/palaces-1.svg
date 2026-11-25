@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 474" role="img" aria-label="경복궁: 북쪽으로 걸어요" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>경복궁: 북쪽으로 걸어요</title>
+<rect width="400" height="474" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">경복궁: 북쪽으로 걸어요</text>
+<line x1="60" y1="88" x2="60" y2="382" stroke="#c9c1b2" stroke-width="4"/>
+<path d="M52,72 L60,58 L68,72 z" fill="#16151a"/>
+<text x="76" y="70" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">북</text>
+<path d="M26,90 L36,76 L84,76 L94,90 z" fill="#16151a"/>
+<rect x="36" y="90" width="48" height="26" rx="2" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<text x="112" y="96" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">근정전</text>
+<text x="112" y="120" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">정전(왕의 자리)</text>
+<path d="M34,188 L42,176 L78,176 L86,188 z" fill="#16151a"/>
+<rect x="42" y="188" width="36" height="20" rx="2" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<rect x="54" y="194" width="12" height="14" rx="6" fill="#f4f0e6" stroke="none" stroke-width="0"/>
+<text x="112" y="192" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">근정문</text>
+<text x="112" y="216" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">세 번째 문</text>
+<path d="M34,284 L42,272 L78,272 L86,284 z" fill="#16151a"/>
+<rect x="42" y="284" width="36" height="20" rx="2" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<rect x="54" y="290" width="12" height="14" rx="6" fill="#f4f0e6" stroke="none" stroke-width="0"/>
+<text x="112" y="288" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">흥례문</text>
+<text x="112" y="312" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1914년 헐림,</text>
+<text x="112" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1997~2001년 다시 지음</text>
+<path d="M34,380 L42,368 L78,368 L86,380 z" fill="#b8392f"/>
+<rect x="42" y="380" width="36" height="20" rx="2" fill="#ffffff" stroke="#b8392f" stroke-width="1.5"/>
+<rect x="54" y="386" width="12" height="14" rx="6" fill="#f4f0e6" stroke="none" stroke-width="0"/>
+<text x="112" y="384" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">광화문</text>
+<text x="112" y="408" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">수문장 교대의식 10:00, 14:00</text>
+<text x="112" y="430" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">무료, 관람권 필요 없음</text>
+<text x="20" y="456" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">개략도, 축척 아님</text>
+</svg>

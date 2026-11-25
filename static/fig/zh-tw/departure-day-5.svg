@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 464" role="img" aria-label="什麼放哪個包" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>什麼放哪個包</title>
+<rect width="400" height="464" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">什麼放哪個包</text>
+<rect x="20" y="60" width="360" height="158" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="36" y="88" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">隨身行李</text>
+<text x="36" y="112" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">行動電源:最多 2 個,</text>
+<text x="36" y="134" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">每個 160Wh 以下</text>
+<text x="36" y="156" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">液體:每瓶 100ml 以下,</text>
+<text x="36" y="178" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">裝進一個 1 公升透明袋</text>
+<text x="36" y="200" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">免稅液體:保持密封</text>
+<rect x="20" y="230" width="360" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="258" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">託運行李</text>
+<text x="36" y="282" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">超過 100ml 的液體</text>
+<text x="36" y="304" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">噴霧:不易燃,每瓶 500ml,</text>
+<text x="36" y="326" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">總共 2 公升以內</text>
+<rect x="20" y="356" width="360" height="90" rx="10" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="36" y="386" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">行動電源絕對不能託運。</text>
+<text x="36" y="408" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">機上不能充電,</text>
+<text x="36" y="430" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">也不能放頭頂置物櫃。</text>
+</svg>

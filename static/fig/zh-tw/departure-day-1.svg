@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 612" role="img" aria-label="仁川機場出境,依順序" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>仁川機場出境,依順序</title>
+<rect width="400" height="612" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">仁川機場出境,依順序</text>
+<rect x="20" y="60" width="360" height="62" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="44" cy="81" r="13" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="44" y="87" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="68" y="87" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">到 3 樓</text>
+<text x="68" y="110" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">起飛前 3 小時</text>
+<rect x="20" y="130" width="360" height="62" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="44" cy="151" r="13" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="44" y="157" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="68" y="157" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">報到、託運行李</text>
+<text x="68" y="180" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">要退稅的商品先告訴櫃檯</text>
+<rect x="20" y="200" width="360" height="62" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="44" cy="221" r="13" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="44" y="227" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="68" y="227" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">退稅機</text>
+<text x="68" y="250" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">有退稅單才需要</text>
+<line x1="20" y1="276" x2="380" y2="276" stroke="#b8392f" stroke-width="2.5" stroke-dasharray="8 6"/>
+<text x="200" y="300" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">過了這裡就回不來</text>
+<rect x="20" y="314" width="360" height="42" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="44" cy="335" r="13" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="44" y="341" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="68" y="341" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">安檢</text>
+<rect x="20" y="364" width="360" height="42" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="44" cy="385" r="13" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="44" y="391" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="68" y="391" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">出境審查</text>
+<rect x="20" y="414" width="360" height="62" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="44" cy="435" r="13" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="44" y="441" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">6</text>
+<text x="68" y="441" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">提貨與退稅</text>
+<text x="68" y="464" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">兌換券上的免稅品提貨處</text>
+<rect x="20" y="484" width="360" height="62" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<circle cx="44" cy="505" r="13" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="44" y="511" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">7</text>
+<text x="68" y="511" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">登機門</text>
+<text x="68" y="534" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">登機前 30~40 分鐘</text>
+<text x="20" y="572" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">在首爾站辦好報到的話,</text>
+<text x="20" y="594" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">走 3 樓專用出境通道</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 426" role="img" aria-label="哪個航廈?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>哪個航廈?</title>
+<rect width="400" height="426" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">哪個航廈?</text>
+<text x="20" y="74" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">從首爾站搭機場鐵路</text>
+<line x1="36" y1="84" x2="36" y2="258" stroke="#b8392f" stroke-width="5"/>
+<circle cx="36" cy="112" r="10" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<rect x="60" y="90" width="320" height="138" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="76" y="118" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第1航廈:先到</text>
+<text x="76" y="142" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">濟州航空、Trinity Airways、</text>
+<text x="76" y="164" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">易斯達航空、Air Premia、</text>
+<text x="76" y="186" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Parata Air、長榮航空、</text>
+<text x="76" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">台灣虎航等多數外籍航空</text>
+<circle cx="36" cy="264" r="10" fill="#b8392f" stroke="#b8392f" stroke-width="3"/>
+<rect x="60" y="242" width="320" height="116" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="76" y="270" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">第2航廈:終點站</text>
+<text x="76" y="294" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">大韓航空、韓亞航空、真航空、</text>
+<text x="76" y="316" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">釜山航空、首爾航空、達美、</text>
+<text x="76" y="338" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">法航、荷航、中華航空</text>
+<text x="20" y="386" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">共用班號請看電子機票,</text>
+<text x="20" y="408" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">或在 airport.kr 查班機</text>
+</svg>

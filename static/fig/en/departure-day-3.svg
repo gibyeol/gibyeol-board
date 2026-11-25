@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 432" role="img" aria-label="Seoul Station check-in" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Seoul Station check-in</title>
+<rect width="400" height="432" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Seoul Station check-in</text>
+<rect x="20" y="60" width="360" height="40" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="36" y="86" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">B2, Seoul Station</text>
+<text x="20" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Check-in, bag drop</text>
+<text x="20" y="154" font-size="22" font-weight="700" fill="#16151a" text-anchor="start">05:20–19:00</text>
+<text x="20" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Immigration</text>
+<text x="20" y="212" font-size="22" font-weight="700" fill="#16151a" text-anchor="start">05:30–19:00</text>
+<text x="20" y="242" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Deadline before departure</text>
+<rect x="20" y="254" width="360" height="40" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="36" y="280" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Terminal 1</text>
+<text x="364" y="280" font-size="18" font-weight="700" fill="#b8392f" text-anchor="end">3 h</text>
+<rect x="20" y="302" width="360" height="40" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="36" y="328" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Terminal 2</text>
+<text x="364" y="328" font-size="18" font-weight="700" fill="#b8392f" text-anchor="end">3 h 20 min</text>
+<text x="20" y="370" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">AREX Express ticket only</text>
+<text x="20" y="392" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Same-day flights from Incheon,</text>
+<text x="20" y="414" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">only some airlines</text>
+</svg>

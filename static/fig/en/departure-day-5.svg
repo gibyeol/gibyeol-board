@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 464" role="img" aria-label="What goes in which bag" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>What goes in which bag</title>
+<rect width="400" height="464" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">What goes in which bag</text>
+<rect x="20" y="60" width="360" height="158" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="36" y="88" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">Carry-on</text>
+<text x="36" y="112" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Power banks: up to 2, each</text>
+<text x="36" y="134" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">160 Wh or less</text>
+<text x="36" y="156" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Liquids: 100 ml or less each,</text>
+<text x="36" y="178" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">in one 1-litre clear bag</text>
+<text x="36" y="200" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Duty-free liquids: sealed bag</text>
+<rect x="20" y="230" width="360" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="258" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">Checked bag</text>
+<text x="36" y="282" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Liquids over 100 ml</text>
+<text x="36" y="304" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Sprays: non-flammable, 500 ml</text>
+<text x="36" y="326" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">each, 2 litres in total</text>
+<rect x="20" y="356" width="360" height="90" rx="10" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="36" y="386" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">Power banks never go in</text>
+<text x="36" y="408" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">the checked bag. No charging</text>
+<text x="36" y="430" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">in flight, not in the overhead bin.</text>
+</svg>

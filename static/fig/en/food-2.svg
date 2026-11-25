@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 366" role="img" aria-label="Three ways to order and pay" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Three ways to order and pay</title>
+<rect width="400" height="366" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Three ways to order and pay</text>
+<rect x="20" y="60" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="90" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Tablet at the table</text>
+<text x="36" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Order on the screen</text>
+<text x="36" y="136" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Usually pay as you order</text>
+<rect x="20" y="158" width="360" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Kiosk at the door</text>
+<text x="36" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Order and often pay first</text>
+<rect x="20" y="234" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="264" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Staff</text>
+<text x="36" y="288" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Press the call button</text>
+<text x="36" y="310" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Pay at the counter on the way out</text>
+<text x="20" y="348" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Water and side dishes: free refills</text>
+</svg>

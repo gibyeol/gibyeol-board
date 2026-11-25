@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 432" role="img" aria-label="首爾站預辦登機" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>首爾站預辦登機</title>
+<rect width="400" height="432" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">首爾站預辦登機</text>
+<rect x="20" y="60" width="360" height="40" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="36" y="86" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">首爾站地下 2 樓</text>
+<text x="20" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">報到、託運</text>
+<text x="20" y="154" font-size="22" font-weight="700" fill="#16151a" text-anchor="start">05:20~19:00</text>
+<text x="20" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">出境審查</text>
+<text x="20" y="212" font-size="22" font-weight="700" fill="#16151a" text-anchor="start">05:30~19:00</text>
+<text x="20" y="242" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">起飛前的截止時間</text>
+<rect x="20" y="254" width="360" height="40" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="36" y="280" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第1航廈</text>
+<text x="364" y="280" font-size="18" font-weight="700" fill="#b8392f" text-anchor="end">3 小時</text>
+<rect x="20" y="302" width="360" height="40" rx="8" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="36" y="328" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第2航廈</text>
+<text x="364" y="328" font-size="18" font-weight="700" fill="#b8392f" text-anchor="end">3 小時 20 分</text>
+<text x="20" y="370" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">限機場鐵路直達車車票</text>
+<text x="20" y="392" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">當天仁川出發的國際線,</text>
+<text x="20" y="414" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">只限部分航空公司</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 464" role="img" aria-label="어느 가방에 넣을까" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>어느 가방에 넣을까</title>
+<rect width="400" height="464" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">어느 가방에 넣을까</text>
+<rect x="20" y="60" width="360" height="158" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="36" y="88" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">기내 가방</text>
+<text x="36" y="112" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">보조배터리: 2개까지,</text>
+<text x="36" y="134" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">각 160Wh 이하</text>
+<text x="36" y="156" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">액체류: 용기당 100ml 이하,</text>
+<text x="36" y="178" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">1L 투명 지퍼백 하나</text>
+<text x="36" y="200" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">면세 액체류: 봉인 봉투</text>
+<rect x="20" y="230" width="360" height="114" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="258" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">부치는 짐</text>
+<text x="36" y="282" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">100ml 넘는 액체류</text>
+<text x="36" y="304" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">스프레이: 비인화성, 개당</text>
+<text x="36" y="326" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">500ml, 합계 2L</text>
+<rect x="20" y="356" width="360" height="90" rx="10" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="36" y="386" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">보조배터리는 부치는 짐에</text>
+<text x="36" y="408" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">절대 안 돼요. 기내 충전 금지,</text>
+<text x="36" y="430" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">선반 보관도 안 돼요.</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 366" role="img" aria-label="點餐付款的三種方式" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>點餐付款的三種方式</title>
+<rect width="400" height="366" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">點餐付款的三種方式</text>
+<rect x="20" y="60" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="90" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">桌上平板</text>
+<text x="36" y="114" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">在螢幕點餐</text>
+<text x="36" y="136" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">通常點餐時付款</text>
+<rect x="20" y="158" width="360" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">門口 kiosk</text>
+<text x="36" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">很多店是點完先付款</text>
+<rect x="20" y="234" width="360" height="88" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="264" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">跟店員點</text>
+<text x="36" y="288" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">按服務鈴</text>
+<text x="36" y="310" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">離開時到櫃檯結帳</text>
+<text x="20" y="348" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">水和小菜續加免費</text>
+</svg>

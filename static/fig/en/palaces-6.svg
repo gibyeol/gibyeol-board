@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 396" role="img" aria-label="Secret Garden: 100 places per session" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Secret Garden: 100 places per session</title>
+<rect width="400" height="396" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Secret Garden: 100 places</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">per session</text>
+<rect x="20" y="86" width="180" height="44" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="110" y="114" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">Online 50</text>
+<rect x="200" y="86" width="180" height="44" rx="8" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="290" y="114" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">On site 50</text>
+<text x="20" y="156" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Example: you visit on the 12th</text>
+<line x1="36" y1="188" x2="36" y2="304" stroke="#c9c1b2" stroke-width="4"/>
+<circle cx="36" cy="188" r="9" fill="#b8392f" stroke="#b8392f" stroke-width="2"/>
+<text x="58" y="186" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">6th, 10:00</text>
+<text x="58" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Online booking opens</text>
+<circle cx="36" cy="246" r="9" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="58" y="244" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">11th</text>
+<text x="58" y="266" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Online booking closes</text>
+<circle cx="36" cy="304" r="9" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="58" y="302" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">12th</text>
+<text x="58" y="324" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">50 places sold on site</text>
+<text x="20" y="356" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">First come, first served.</text>
+<text x="20" y="378" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Buy a palace ticket too.</text>
+</svg>

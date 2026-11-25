@@ -61,7 +61,7 @@ Many shops take the tax off at the till for receipts under ₩1,000,000. If all 
 1. **Goods in your carry-on:** check in first, then use the refund kiosk in the departure hall.
 2. **Goods in your checked bag:** tell the check-in agent. The bag gets a customs tag and comes back to you. Run the kiosk, then put the bag on the large belt next to the customs desk.
 3. If the kiosk asks for an inspection, take your passport, the unused goods and the receipt to the customs desk.
-4. After security there are more kiosks and desks: **Terminal 1** near Gate 28 (desk 07:00–22:00) and in the Concourse by Gate 115; **Terminal 2** near Gate 253, across from Gate 250 (desk 07:00–21:30).
+4. After security there are more kiosks and desks: **Terminal 1** near Gate 28 (desk 07:00–22:00) and in the Concourse by Gate 115; **Terminal 2** near Gate 253, across from Gate 250 (desk 07:00–21:30). The kiosks run 24 hours.
 
 Goods must leave Korea within three months of purchase. Full rules: [Tax refunds in Korea](/tax-refund/).
 

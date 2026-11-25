@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 450" role="img" aria-label="What counts as hanbok for free entry" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>What counts as hanbok for free entry</title>
+<rect width="400" height="450" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">What counts as hanbok</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">for free entry</text>
+<path d="M75,98 L35,128 L45,142 L75,122 L75,166 L135,166 L135,122 L165,142 L175,128 L135,98 z" fill="#e9e2d3" stroke="#16151a" stroke-width="2" stroke-linejoin="round"/>
+<path d="M95,98 L113,128 M113,128 L107,158 M113,128 L121,158" stroke="#b8392f" stroke-width="3" fill="none" stroke-linecap="round"/>
+<text x="200" y="140" font-size="28" font-weight="700" fill="#5f5b55" text-anchor="middle">+</text>
+<path d="M261,98 L329,98 L353,166 L237,166 z" fill="#e9e2d3" stroke="#16151a" stroke-width="2" stroke-linejoin="round"/>
+<text x="105" y="192" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Top (jeogori)</text>
+<text x="295" y="192" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">Skirt or trousers</text>
+<path d="M23,223 L28,228 L38,216" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="229" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Ties and buttons done up</text>
+<path d="M23,253 L28,258 L38,246" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="259" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Legs covered</text>
+<path d="M23,283 L28,288 L38,276" fill="none" stroke="#16151a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50" y="289" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Modern-style hanbok</text>
+<line x1="20" y1="306" x2="380" y2="306" stroke="#c9c1b2" stroke-width="1.5"/>
+<path d="M24,322 L36,334 M36,322 L24,334" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="335" font-size="16" font-weight="400" fill="#b8392f" text-anchor="start">Jeogori with jeans</text>
+<path d="M24,352 L36,364 M36,352 L24,364" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="365" font-size="16" font-weight="400" fill="#b8392f" text-anchor="start">T-shirt-style &quot;hanbok&quot;</text>
+<path d="M24,382 L36,394 M36,382 L24,394" stroke="#b8392f" stroke-width="3" stroke-linecap="round"/>
+<text x="50" y="395" font-size="16" font-weight="400" fill="#b8392f" text-anchor="start">One-piece robes (cheollik)</text>
+<text x="50" y="419" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">have been refused</text>
+</svg>

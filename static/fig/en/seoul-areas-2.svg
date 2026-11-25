@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 672" role="img" aria-label="From Incheon Airport to each area" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>From Incheon Airport to each area</title>
+<rect width="400" height="672" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">From Incheon Airport</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">to each area</text>
+<rect x="20" y="88" width="360" height="36" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="36" y="112" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">Incheon Airport</text>
+<text x="364" y="112" font-size="16" font-weight="700" fill="#ffffff" text-anchor="end">AREX</text>
+<line x1="36" y1="124" x2="36" y2="300" stroke="#b8392f" stroke-width="5"/>
+<circle cx="36" cy="148" r="9" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="58" y="154" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Hongik Univ.</text>
+<text x="58" y="178" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Hongdae · all-stop, ~1 hr, ₩4,650</text>
+<text x="58" y="200" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Line 2 → Seongsu</text>
+<circle cx="36" cy="224" r="9" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="58" y="230" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Gongdeok</text>
+<circle cx="36" cy="300" r="9" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="58" y="306" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Seoul Station</text>
+<text x="58" y="330" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Express nonstop, 43 min, ₩13,000</text>
+<text x="58" y="352" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Line 4 → Myeongdong</text>
+<text x="20" y="398" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">No train? Limousine bus</text>
+<rect x="20" y="410" width="360" height="222" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="438" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6001</text>
+<text x="92" y="438" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Myeongdong, Dongdaemun</text>
+<text x="36" y="468" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6002</text>
+<text x="92" y="468" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Hongdae, Jongno</text>
+<text x="36" y="498" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6011</text>
+<text x="92" y="498" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Gyeongbokgung, Changdeokgung</text>
+<text x="36" y="528" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6701</text>
+<text x="92" y="528" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Gwanghwamun, City Hall, Euljiro</text>
+<text x="36" y="558" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6702</text>
+<text x="92" y="558" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Namsan, Dongdaemun</text>
+<text x="36" y="588" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6013</text>
+<text x="92" y="588" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Seongsu-dong</text>
+<text x="36" y="618" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6020</text>
+<text x="92" y="618" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Gangnam</text>
+<text x="20" y="654" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Times as of June 2026 (Visit Seoul)</text>
+</svg>

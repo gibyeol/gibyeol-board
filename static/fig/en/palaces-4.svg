@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 488" role="img" aria-label="Integrated ticket" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Integrated ticket</title>
+<rect width="400" height="488" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Integrated ticket</text>
+<rect x="20" y="58" width="360" height="300" rx="12" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="20" y="58" width="360" height="100" rx="12" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<line x1="20" y1="158" x2="380" y2="158" stroke="#16151a" stroke-width="2"/>
+<text x="36" y="96" font-size="26" font-weight="700" fill="#b8392f" text-anchor="start">₩6,000</text>
+<text x="36" y="122" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">One visit to each site,</text>
+<text x="36" y="144" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">valid 6 months</text>
+<text x="44" y="184" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Gyeongbokgung</text>
+<path d="M346,170 l10,8 l-10,8" fill="none" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="20" y1="198" x2="380" y2="198" stroke="#5f5b55" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="44" y="224" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Changdeokgung</text>
+<path d="M346,210 l10,8 l-10,8" fill="none" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="20" y1="238" x2="380" y2="238" stroke="#5f5b55" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="44" y="264" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Changgyeonggung</text>
+<path d="M346,250 l10,8 l-10,8" fill="none" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="20" y1="278" x2="380" y2="278" stroke="#5f5b55" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="44" y="304" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Deoksugung</text>
+<path d="M346,290 l10,8 l-10,8" fill="none" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="20" y1="318" x2="380" y2="318" stroke="#5f5b55" stroke-width="1.5" stroke-dasharray="6 5"/>
+<text x="44" y="344" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Jongmyo</text>
+<path d="M346,330 l10,8 l-10,8" fill="none" stroke="#c9c1b2" stroke-width="2"/>
+<text x="20" y="384" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Staff tear off one part per site</text>
+<text x="20" y="416" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Bought separately: ₩9,000</text>
+<text x="20" y="448" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Not included: Secret Garden,</text>
+<text x="20" y="470" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">the art museum in Deoksugung</text>
+</svg>

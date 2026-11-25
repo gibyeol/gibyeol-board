@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 444" role="img" aria-label="일곱 동네의 위치" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>일곱 동네의 위치</title>
+<rect width="400" height="444" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">일곱 동네의 위치</text>
+<path d="M0,294 C80,276 150,316 220,298 S340,274 400,290 L400,320 C340,304 280,328 220,326 S80,304 0,322 z" fill="#c9d6dc" stroke="none"/>
+<text x="28" y="346" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">한강</text>
+<path d="M372,76 L380,60 L388,76 z" fill="#16151a"/>
+<text x="392" y="98" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="end">북</text>
+<rect x="168.0" y="70" width="64" height="34" rx="17" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<text x="200" y="93" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">종로</text>
+<text x="200" y="124" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">궁</text>
+<rect x="40.0" y="140" width="64" height="34" rx="17" fill="#16151a" stroke="#16151a" stroke-width="1.5"/>
+<text x="72" y="163" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">홍대</text>
+<rect x="174.0" y="160" width="64" height="34" rx="17" fill="#16151a" stroke="#16151a" stroke-width="1.5"/>
+<text x="206" y="183" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">명동</text>
+<rect x="283.5" y="102" width="77" height="34" rx="17" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<text x="322" y="125" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">동대문</text>
+<rect x="121.5" y="216" width="77" height="34" rx="17" fill="#16151a" stroke="#16151a" stroke-width="1.5"/>
+<text x="160" y="239" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">서울역</text>
+<rect x="298.0" y="216" width="64" height="34" rx="17" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<text x="330" y="239" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">성수</text>
+<rect x="238.0" y="356" width="64" height="34" rx="17" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<text x="270" y="379" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">강남</text>
+<text x="20" y="426" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">개략도, 축척 아님</text>
+</svg>

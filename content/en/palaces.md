@@ -7,13 +7,13 @@ updated: 2026-11-26
 ---
 ## A morning at Gyeongbokgung
 
-This is the morning we would plan, built from the published schedules. The palace opens at 9:00. At 9:35 the gate guards hold a public drill, and at 10:00 the changing of the guard begins on the square and the royal terrace in front of Gwanghwamun: banners, traditional spears and a band in red with pheasant-feather hats, for about 20 minutes. It is free, and you need no ticket to watch.
+Our plan, built from the published schedules: the palace opens at 9:00. At 9:35 the gate guards hold a public drill, and at 10:00 the changing of the guard begins on the square and the royal terrace in front of Gwanghwamun: banners, traditional spears and a band in red with pheasant-feather hats, for about 20 minutes. Free, and no ticket needed.
 
-Then walk north. Gyeongbokgung is laid out on a north–south axis, so you pass through one gate after another: Gwanghwamun, Heungnyemun, Geunjeongmun, then the throne hall, Geunjeongjeon. Heungnyemun is younger than it looks: it was torn down in 1914 for the colonial Government-General Building and rebuilt between 1997 and 2001.
+Then walk north along the palace's axis, through one gate after another: Gwanghwamun, Heungnyemun, Geunjeongmun, then the throne hall, Geunjeongjeon. Heungnyemun is younger than it looks: it was torn down in 1914 for the colonial Government-General Building and rebuilt between 1997 and 2001.
 
 {{fig:palaces-1|Gyeongbokgung's gates, from the street to the throne hall}}
 
-Our pick for the ending is an evening at another palace. Deoksugung and Changgyeonggung stay open until 21:00 (last entry 20:00), so you can walk through a palace after dark without booking a night tour.
+For the ending we picked an evening at another palace: Deoksugung and Changgyeonggung stay open until 21:00 (last entry 20:00), so you can walk a palace after dark without booking a night tour.
 
 ## The short answer
 
@@ -24,21 +24,21 @@ Our pick for the ending is an evening at another palace. Deoksugung and Changgye
 | You want the quiet, green one | Book Changdeokgung's Secret Garden | Guided, 100 people per session, half the places sold online |
 | Three or more sites | The 6,000 won integrated ticket | Five sites for less than paying separately, valid six months |
 
-We picked three: Gyeongbokgung for the scale, the Secret Garden for something different, and an evening palace for the ending. **Who can skip this:** if you saw a palace on an earlier trip, the others look similar from outside; the Secret Garden is the one that feels genuinely different.
+We picked three: Gyeongbokgung for scale, the Secret Garden for something different, an evening palace for the ending. **Who can skip this:** if you saw a palace on an earlier trip, the others look similar from outside; only the Secret Garden feels genuinely different.
 
 ## Which site is open which day
 
-The closing days are split, so on any day at least some sites are open.
+Closing days are split, so some sites are open every day.
 
 {{fig:palaces-2|Open days at the four palaces and Jongmyo}}
 
 If a closing day falls on a public holiday, the site opens and closes on the next working day instead. For Seollal 2027, see [Seoul in winter](/winter/).
 
-Hours differ by site. Gyeongbokgung closes at 17:00 from November to February, 18:00 in spring and autumn and 18:30 from June to August. Changdeokgung and Jongmyo close at 17:30 from November to January. Deoksugung and Changgyeonggung stay open until 21:00. Last entry is an hour before closing.
+Hours differ. Gyeongbokgung closes at 17:00 from November to February, 18:00 in spring and autumn, 18:30 in summer; Changdeokgung and Jongmyo at 17:30 from November to January; Deoksugung and Changgyeonggung at 21:00. Last entry is an hour before closing.
 
 {{fig:palaces-3|Winter last entry, November to January}}
 
-> In winter, be through Gyeongbokgung's gate by 16:00. That is earlier than the other palaces.
+> In winter, be through Gyeongbokgung's gate by 16:00, earlier than anywhere else.
 
 ## What it costs
 
@@ -53,11 +53,11 @@ Free for foreign visitors aged 18 or under or 65 and over, and for anyone in han
 
 {{fig:palaces-4|How the integrated ticket works}}
 
-The integrated ticket gives one visit to each of the five sites within six months. Staff tear off that site's part at each entrance, so keep the whole ticket together. It does not cover the Secret Garden or the art museum inside Deoksugung. It pays off only if your plan includes Gyeongbokgung, Changdeokgung and one more site.
+The integrated ticket gives one visit to each site within six months; staff tear off that site's part at each entrance, so keep it whole. It excludes the Secret Garden and Deoksugung's art museum, and pays off only if you see Gyeongbokgung, Changdeokgung and one more site.
 
-**Prices may change.** These fees have not moved since 2005. In August 2026 the Korea Heritage Service said new fees would be announced in November and apply from 1 January 2027; on 8 October 2026 Yonhap reported the timing as "undecided". We had seen no new fee table by 26 November 2026.
+**Prices may change.** Unchanged since 2005, the fees were due to rise from 1 January 2027, but on 8 October 2026 Yonhap reported the timing as "undecided". We had seen no new fee table by 26 November 2026.
 
-**Free Wednesdays.** In May 2026 the Heritage Service announced free entry every Wednesday at Deoksugung from August and at Changdeokgung, Changgyeonggung and Jongmyo from October (not Gyeongbokgung, not the Secret Garden). We could not open the official site to confirm it is running, so check [royal.khs.go.kr](https://royal.khs.go.kr) before you count on it. Jongmyo is also free on the last Wednesday of each month.
+**Free Wednesdays.** In May 2026 the Heritage Service announced free entry every Wednesday at Deoksugung from August and at Changdeokgung, Changgyeonggung and Jongmyo from October (not Gyeongbokgung, not the Secret Garden). We could not confirm on the official site that it is running; check [royal.khs.go.kr](https://royal.khs.go.kr) first. Jongmyo is also free on the last Wednesday of each month.
 
 ## Hanbok: is renting worth it?
 
@@ -65,7 +65,7 @@ Wearing hanbok gets you in free. It has to be a top (jeogori) plus a skirt or tr
 
 {{fig:palaces-5|What counts as hanbok for free entry}}
 
-**Our call:** rent for two or three hours around one palace if the photos matter to you. The saving is only 1,000–3,000 won, fitting and returning take time, long skirts on gravel are tiring, and from November to January you will be cold with the ties fastened. Skip it if you want several sites in one day. The free-entry rule is also part of the fee review.
+**Our call:** rent for two or three hours around one palace if the photos matter. The saving is only 1,000–3,000 won, fitting and returning take time, long skirts on gravel tire you, and in winter you will be cold. Skip it for a several-site day. The free-entry rule is also under the fee review.
 
 ## The Secret Garden (Changdeokgung)
 
@@ -74,12 +74,12 @@ Changdeokgung was built in 1405 as a secondary palace, then became the palace Jo
 {{fig:palaces-6|How Secret Garden places are sold}}
 
 1. **Online:** 50 of the 100 places per session, from 10:00 six days before your visit (not counting the visit day) until the day before, first come first served.
-2. **On site:** the other 50, sold on the day. In spring the queue forms before the ticket office opens.
-3. **On the day:** buy a palace ticket too, enter the palace, then go to the garden at your session time. English sessions are frequent; Japanese and Chinese ones are few.
+2. **On site:** the other 50, sold on the day; in spring the queue forms before the office opens.
+3. **On the day:** you also need a palace ticket; go to the garden at your session time. English sessions are frequent; Japanese and Chinese ones few.
 
 ## Jongmyo: check the day
 
-Jongmyo is the royal shrine that holds the spirit tablets of Joseon's kings and queens. Its main hall reopened in April 2025 after about five years of repairs, and 49 tablets were returned to it. On Monday, Wednesday, Thursday and Friday you go in with a guide at set times (individuals join on the spot). On weekends, public holidays and the last Wednesday of the month you can walk around on your own.
+Jongmyo, the royal shrine for the spirit tablets of Joseon's kings and queens, reopened its main hall in April 2025 after about five years of repairs, with 49 tablets returned. On Monday, Wednesday, Thursday and Friday you go in with a guide at set times (individuals join on the spot). On weekends, public holidays and the last Wednesday of the month you can walk around on your own.
 
 ## Bukchon: go between 10 and 5
 
@@ -87,11 +87,11 @@ Bukchon Hanok Village is a neighbourhood where people live; Seoul's own sign cal
 
 {{fig:palaces-7|Bukchon's red zone, hour by hour}}
 
-Bukchon sits between Gyeongbokgung and Changdeokgung, so the easy plan is one palace in the morning, Bukchon at midday, the second palace in the afternoon.
+Bukchon sits between Gyeongbokgung and Changdeokgung: one palace in the morning, Bukchon at midday, the other palace after.
 
 ## Rainy day: the National Museum of Korea
 
-The [National Museum of Korea](https://www.museum.go.kr) is free for the permanent galleries: 9:30–17:30, until 21:00 on Wednesdays and Saturdays. It closes on 1 January, Seollal and Chuseok, and the permanent galleries also close on the first Monday of March, June, September and December, which this year is **Monday 7 December 2026**.
+The [National Museum of Korea](https://www.museum.go.kr)'s permanent galleries are free: 9:30–17:30, until 21:00 on Wednesdays and Saturdays. Closed 1 January, Seollal and Chuseok; the permanent galleries also close on the first Monday of March, June, September and December (next: **Monday 7 December 2026**).
 
 ## The night before
 
@@ -101,8 +101,8 @@ The [National Museum of Korea](https://www.museum.go.kr) is free for the permane
 
 ## What we left out
 
-- **Exact Secret Garden and Jongmyo tour times.** They change by season; check the official schedule.
-- **Deoksugung's guard ceremony times**, **night openings** and **hanbok rental prices.** We could not confirm a current schedule or price list.
+- **Secret Garden and Jongmyo tour times**, which change by season.
+- **Deoksugung's guard ceremony times, night openings and hanbok rental prices**, which we could not confirm.
 
 ## Sources
 

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 482" role="img" aria-label="冬季最後入場 (11~1 月)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>冬季最後入場 (11~1 月)</title>
+<rect width="400" height="482" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">冬季最後入場</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">(11~1 月)</text>
+<text x="20" y="104" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">景福宮</text>
+<rect x="20" y="114" width="210.0" height="22" rx="4" fill="#b8392f" stroke="#b8392f" stroke-width="1"/>
+<text x="238.0" y="132" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">16:00</text>
+<text x="20" y="164" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">昌德宮</text>
+<rect x="20" y="174" width="225.0" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="253.0" y="192" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">16:30</text>
+<text x="20" y="224" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">宗廟</text>
+<rect x="20" y="234" width="225.0" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="253.0" y="252" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">16:30</text>
+<text x="20" y="284" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">德壽宮</text>
+<rect x="20" y="294" width="330.0" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="342.0" y="312" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">20:00</text>
+<text x="20" y="344" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">昌慶宮</text>
+<rect x="20" y="354" width="330.0" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1"/>
+<text x="342.0" y="372" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">20:00</text>
+<line x1="20" y1="388" x2="380" y2="388" stroke="#5f5b55" stroke-width="1.5"/>
+<line x1="20.0" y1="384" x2="20.0" y2="392" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="20.0" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">9:00</text>
+<line x1="140.0" y1="384" x2="140.0" y2="392" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="140.0" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">13:00</text>
+<line x1="260.0" y1="384" x2="260.0" y2="392" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="260.0" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">17:00</text>
+<line x1="380.0" y1="384" x2="380.0" y2="392" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="380.0" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="end">21:00</text>
+<text x="20" y="442" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">關門前 1 小時停止入場</text>
+<text x="20" y="464" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">景福宮 2 月也是 16:00</text>
+</svg>

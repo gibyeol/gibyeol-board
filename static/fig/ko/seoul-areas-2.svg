@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 646" role="img" aria-label="인천공항에서 동네까지" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>인천공항에서 동네까지</title>
+<rect width="400" height="646" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">인천공항에서 동네까지</text>
+<rect x="20" y="62" width="360" height="36" rx="8" fill="#16151a" stroke="#16151a" stroke-width="1"/>
+<text x="36" y="86" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">인천공항</text>
+<text x="364" y="86" font-size="16" font-weight="700" fill="#ffffff" text-anchor="end">공항철도</text>
+<line x1="36" y1="98" x2="36" y2="274" stroke="#b8392f" stroke-width="5"/>
+<circle cx="36" cy="122" r="9" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="58" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">홍대입구</text>
+<text x="58" y="152" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">홍대 · 일반열차 약 1시간, 4,650원</text>
+<text x="58" y="174" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">2호선 → 성수</text>
+<circle cx="36" cy="198" r="9" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="58" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">공덕</text>
+<circle cx="36" cy="274" r="9" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="58" y="280" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">서울역</text>
+<text x="58" y="304" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">직통열차 무정차 43분, 13,000원</text>
+<text x="58" y="326" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">4호선 → 명동</text>
+<text x="20" y="372" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">기차가 없으면 공항버스</text>
+<rect x="20" y="384" width="360" height="222" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="36" y="412" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6001</text>
+<text x="92" y="412" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">명동, 동대문</text>
+<text x="36" y="442" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6002</text>
+<text x="92" y="442" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">홍대, 종로</text>
+<text x="36" y="472" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6011</text>
+<text x="92" y="472" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">경복궁, 창덕궁</text>
+<text x="36" y="502" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6701</text>
+<text x="92" y="502" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">광화문, 시청, 을지로</text>
+<text x="36" y="532" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6702</text>
+<text x="92" y="532" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">남산, 동대문</text>
+<text x="36" y="562" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6013</text>
+<text x="92" y="562" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">성수동</text>
+<text x="36" y="592" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">6020</text>
+<text x="92" y="592" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">강남</text>
+<text x="20" y="628" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2026년 6월 기준 시간(Visit Seoul)</text>
+</svg>
