@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 430" role="img" aria-label="訂KTX" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>訂KTX</title>
+<rect width="400" height="430" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">訂KTX</text>
+<rect x="16" y="56" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="66" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">出發前2個月</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">開賣(2026年10月1日起)</text>
+<path d="M44 119 V141" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 135 L44 143 L50 135" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="147" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="157" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="179" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="172" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">在哪裡買</text>
+<text x="78" y="194" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Korail+ App、letskorail.com、Klook,</text>
+<text x="78" y="216" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">或可刷海外卡的車站售票機</text>
+<path d="M44 232 V254" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 248 L44 256 L50 248" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<rect x="16" y="260" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="270" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="292" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="285" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">選座位方向</text>
+<text x="78" y="307" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">依車種分順向和逆向座位</text>
+<rect x="16" y="337" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="347" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="369" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="362" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">連假列車另外開賣</text>
+<text x="78" y="384" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">2027春節連假:2月6〜9日</text>
+</svg>

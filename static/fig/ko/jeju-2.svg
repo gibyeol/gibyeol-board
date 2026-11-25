@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 715" role="img" aria-label="동쪽 해안의 버스 두 노선" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>동쪽 해안의 버스 두 노선</title>
+<rect width="400" height="715" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">동쪽 해안의 버스 두 노선</text>
+<rect x="16" y="60" width="368" height="34" rx="8" fill="#b8392f"/>
+<text x="30" y="83" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">급행 101번</text>
+<text x="70" y="121" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">제주공항</text>
+<text x="70" y="143" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1층 2번 게이트 앞 2번 승차장</text>
+<text x="70" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">함덕해수욕장</text>
+<text x="70" y="226" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">약 40분, 정류장 10개</text>
+<text x="70" y="287" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">서귀포 남원</text>
+<line x1="44" y1="115" x2="44" y2="281" stroke="#b8392f" stroke-width="5"/>
+<circle cx="44" cy="161" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="170" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="179" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="244" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="253" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="262" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="115" r="8" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="44" cy="198" r="8" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="44" cy="281" r="8" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<text x="20" y="317" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">카드 2,000원부터 · 정류장 적음</text>
+<rect x="16" y="339" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="362" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">201번</text>
+<text x="70" y="400" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">제주시외버스터미널</text>
+<text x="70" y="422" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">공항 아님</text>
+<text x="70" y="483" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">함덕해수욕장</text>
+<text x="70" y="544" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">성산일출봉</text>
+<text x="70" y="605" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">서귀포</text>
+<line x1="44" y1="394" x2="44" y2="599" stroke="#16151a" stroke-width="5"/>
+<circle cx="44" cy="440" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="449" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="458" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="501" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="510" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="519" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="562" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="571" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="580" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="394" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="477" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="538" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="599" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<text x="20" y="635" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">카드 1,150원 · 30~80분 간격</text>
+<text x="20" y="671" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">함덕해수욕장에서 101번 → 201번 환승.</text>
+<text x="20" y="693" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">정류장은 일부만 표시.</text>
+</svg>

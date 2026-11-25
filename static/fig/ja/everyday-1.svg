@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 655" role="img" aria-label="韓国の食堂のテーブルで" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>韓国の食堂のテーブルで</title>
+<rect width="400" height="655" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">韓国の食堂のテーブルで</text>
+<rect x="24" y="62" width="352" height="176" rx="18" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<circle cx="80" cy="114" r="20" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<circle cx="80" cy="114" r="9" fill="#b8392f"/>
+<circle cx="108" cy="88" r="13" fill="#b8392f"/>
+<text x="108" y="94" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<rect x="140" y="84" width="100" height="66" rx="8" fill="#16151a"/>
+<rect x="147" y="91" width="86" height="52" rx="4" fill="#ffffff"/>
+<circle cx="250" cy="82" r="13" fill="#b8392f"/>
+<text x="250" y="88" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<path d="M286 96 L320 96 L314 146 L292 146 Z" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M289 112 L317 112" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="338" cy="92" r="13" fill="#b8392f"/>
+<text x="338" y="98" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<rect x="110" y="176" width="170" height="42" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="195" y="204" font-size="18" font-weight="700" fill="#16151a" text-anchor="middle">2인분 이상</text>
+<circle cx="298" cy="176" r="13" fill="#b8392f"/>
+<text x="298" y="182" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<rect x="16" y="254" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="280" r="17" fill="#b8392f"/>
+<text x="48" y="286" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="279" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">呼び出しボタン</text>
+<text x="78" y="301" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">押すと店員さんが来ます。音は大きめ</text>
+<rect x="16" y="331" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="357" r="17" fill="#b8392f"/>
+<text x="48" y="363" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="356" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">タブレットかキオスク</text>
+<text x="78" y="378" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ここで注文と支払いをする店が多い</text>
+<rect x="16" y="408" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="434" r="17" fill="#b8392f"/>
+<text x="48" y="440" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="433" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">水</text>
+<text x="78" y="455" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">無料。壁際でセルフの店が多い</text>
+<rect x="16" y="485" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<circle cx="48" cy="511" r="17" fill="#b8392f"/>
+<text x="48" y="517" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="78" y="510" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">「2인분 이상」</text>
+<text x="78" y="532" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2人前以上。ひとりなら座る前に確認</text>
+<rect x="16" y="562" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="587" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">チップ不要</text>
+<text x="30" y="609" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">メニュー価格は税・サービス料込み</text>
+</svg>

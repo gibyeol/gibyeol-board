@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 614" role="img" aria-label="Will your plug fit?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Will your plug fit?</title>
+<rect width="400" height="614" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Will your plug fit?</text>
+<circle cx="100" cy="122" r="52" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="80" cy="122" r="9" fill="#16151a"/>
+<circle cx="120" cy="122" r="9" fill="#16151a"/>
+<rect x="276" y="78" width="9" height="30" rx="2" fill="#16151a"/>
+<rect x="305" y="78" width="9" height="30" rx="2" fill="#16151a"/>
+<rect x="256" y="106" width="78" height="66" rx="12" fill="#e9e2d3" stroke="#16151a" stroke-width="2"/>
+<text x="200" y="132" font-size="22" font-weight="700" fill="#b8392f" text-anchor="middle">≠</text>
+<text x="100" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">Korea</text>
+<text x="100" y="226" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">220V, 60Hz</text>
+<text x="100" y="248" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">two round pins</text>
+<text x="295" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">US</text>
+<text x="295" y="226" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">120V</text>
+<text x="295" y="248" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">flat pins</text>
+<text x="20" y="293" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">You need an adapter. Then read the</text>
+<text x="20" y="316" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">label:</text>
+<rect x="16" y="332" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="342" width="119.76680000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="89.88340000000001" y="364" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">100–240V</text>
+<text x="161.76680000000002" y="357" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Adapter is enough</text>
+<text x="161.76680000000002" y="379" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Most phone and laptop</text>
+<text x="161.76680000000002" y="401" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">chargers</text>
+<rect x="16" y="431" width="368" height="89" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="441" width="115.1444" height="32" rx="8" fill="#b8392f"/>
+<text x="87.57220000000001" y="463" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">120V only</text>
+<text x="157.14440000000002" y="456" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Needs a converter</text>
+<text x="157.14440000000002" y="478" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Hair dryer, straightener:</text>
+<text x="157.14440000000002" y="500" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">or leave it at home</text>
+<text x="20" y="548" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Hotel desks can often lend adapters;</text>
+<text x="20" y="570" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Incheon Airport convenience stores sell</text>
+<text x="20" y="592" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">them.</text>
+</svg>

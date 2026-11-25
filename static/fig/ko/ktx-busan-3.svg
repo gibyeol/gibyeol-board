@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 346" role="img" aria-label="왕복 승차권이냐 코레일패스냐(성인)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>왕복 승차권이냐 코레일패스냐(성인)</title>
+<rect width="400" height="346" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">왕복 승차권이냐 코레일패스냐(성인)</text>
+<text x="20" y="77" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">서울-부산 왕복, 54,400원 ×</text>
+<text x="20" y="100" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">2</text>
+<text x="380" y="77" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">108,800원</text>
+<rect x="20" y="110" width="210.58064516129033" height="26" rx="6" fill="#b8392f"/>
+<text x="20" y="167" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">코레일패스 2일권</text>
+<text x="380" y="167" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">131,000원</text>
+<rect x="20" y="177" width="253.5483870967742" height="26" rx="6" fill="#5f5b55"/>
+<text x="20" y="234" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">코레일패스 3일권</text>
+<text x="380" y="234" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">186,000원</text>
+<rect x="20" y="244" width="360.0" height="26" rx="6" fill="#5f5b55"/>
+<text x="20" y="302" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">운임은 2026년 9월 1일 기준, 패스 가격은</text>
+<text x="20" y="324" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2025년 12월 보도 기준.</text>
+</svg>

@@ -13,5 +13,6 @@ Which script owns which figures — run only the owner, or you overwrite later f
 | airport-to-seoul-*, getting-around-*, olive-young-*, duty-free-* | core-B/ |
 | palaces-1..7, seoul-areas-1..2, food-1..4, departure-day-1..5 | gen-guides2.py |
 | essentials-1..5, first-trip-1..3, emergency-1..4, convenience-store-1..3 (essentials also shows airport-to-seoul-1, owned by core-B) | gen-guides1.py |
+| jeju-1..3, ktx-busan-1..4, winter-1..2, everyday-1..2 (everyday also shows emergency-1 and seoul-subway-7, owned by gen-guides1.py and gen_transit.py) | gen-guides3.py |
 
 Check every output with verify.js at 340px (text ≥13px, no overflow/overlap) before copying into static/fig.

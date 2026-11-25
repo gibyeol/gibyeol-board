@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 572" role="img" aria-label="제주 버스 요금 내기" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>제주 버스 요금 내기</title>
+<rect width="400" height="572" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">제주 버스 요금 내기</text>
+<rect x="36" y="62" width="14" height="170" rx="4" fill="#5f5b55"/>
+<rect x="58" y="86" width="96" height="96" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="93" y="94" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="94" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="103" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="103" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="112" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="112" width="8" height="8" fill="#16151a"/>
+<rect x="66" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="75" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="84" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="75" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="129" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="138" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="75" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="129" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="138" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="148" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="148" width="8" height="8" fill="#16151a"/>
+<rect x="138" y="148" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="157" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="166" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="166" width="8" height="8" fill="#16151a"/>
+<rect x="129" y="166" width="8" height="8" fill="#16151a"/>
+<rect x="66" y="94" width="25" height="25" fill="#16151a"/>
+<rect x="71" y="99" width="15" height="15" fill="#ffffff"/>
+<rect x="75" y="103" width="7" height="7" fill="#16151a"/>
+<rect x="120" y="94" width="25" height="25" fill="#16151a"/>
+<rect x="125" y="99" width="15" height="15" fill="#ffffff"/>
+<rect x="129" y="103" width="7" height="7" fill="#16151a"/>
+<rect x="66" y="148" width="25" height="25" fill="#16151a"/>
+<rect x="71" y="153" width="15" height="15" fill="#ffffff"/>
+<rect x="75" y="157" width="7" height="7" fill="#16151a"/>
+<text x="172" y="97" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">기사 옆 기둥의 QR 코드</text>
+<text x="172" y="119" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">여러 언어 안내가 옆에</text>
+<rect x="16" y="248" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="258" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="280" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="273" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">카드</text>
+<text x="78" y="295" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">충전한 교통카드</text>
+<rect x="16" y="325" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="335" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="357" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="350" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">또는 QR 찍기</text>
+<text x="78" y="372" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">QR 결제가 되는 결제 앱으로</text>
+<rect x="16" y="402" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="412" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="434" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="427" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">QR: 요금 입력</text>
+<text x="78" y="449" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">일반 1,150원, 급행 101번 2,000원</text>
+<rect x="16" y="479" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="489" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="511" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="504" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">현금 안 돼요</text>
+<text x="78" y="526" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">2024년 10월 1일부터</text>
+</svg>

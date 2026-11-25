@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 594" role="img" aria-label="Paying on a Jeju bus" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Paying on a Jeju bus</title>
+<rect width="400" height="594" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Paying on a Jeju bus</text>
+<rect x="36" y="62" width="14" height="170" rx="4" fill="#5f5b55"/>
+<rect x="58" y="86" width="96" height="96" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="93" y="94" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="94" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="103" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="103" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="112" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="112" width="8" height="8" fill="#16151a"/>
+<rect x="66" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="75" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="84" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="121" width="8" height="8" fill="#16151a"/>
+<rect x="75" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="93" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="129" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="138" y="130" width="8" height="8" fill="#16151a"/>
+<rect x="75" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="129" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="138" y="139" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="148" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="148" width="8" height="8" fill="#16151a"/>
+<rect x="138" y="148" width="8" height="8" fill="#16151a"/>
+<rect x="111" y="157" width="8" height="8" fill="#16151a"/>
+<rect x="102" y="166" width="8" height="8" fill="#16151a"/>
+<rect x="120" y="166" width="8" height="8" fill="#16151a"/>
+<rect x="129" y="166" width="8" height="8" fill="#16151a"/>
+<rect x="66" y="94" width="25" height="25" fill="#16151a"/>
+<rect x="71" y="99" width="15" height="15" fill="#ffffff"/>
+<rect x="75" y="103" width="7" height="7" fill="#16151a"/>
+<rect x="120" y="94" width="25" height="25" fill="#16151a"/>
+<rect x="125" y="99" width="15" height="15" fill="#ffffff"/>
+<rect x="129" y="103" width="7" height="7" fill="#16151a"/>
+<rect x="66" y="148" width="25" height="25" fill="#16151a"/>
+<rect x="71" y="153" width="15" height="15" fill="#ffffff"/>
+<rect x="75" y="157" width="7" height="7" fill="#16151a"/>
+<text x="172" y="97" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">QR code on the pole by</text>
+<text x="172" y="120" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">the driver</text>
+<text x="172" y="142" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Instructions in several</text>
+<text x="172" y="164" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">languages</text>
+<rect x="16" y="248" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="258" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="280" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="273" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Card</text>
+<text x="78" y="295" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">A loaded Korean transport card</text>
+<rect x="16" y="325" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="335" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="357" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="350" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Or scan the QR</text>
+<text x="78" y="372" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">With a payment app that supports it</text>
+<rect x="16" y="402" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="412" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="434" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="427" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">QR: enter the fare</text>
+<text x="78" y="449" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">₩1,150 regular, ₩2,000 express</text>
+<text x="78" y="471" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">101</text>
+<rect x="16" y="501" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="511" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="533" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="526" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">No cash</text>
+<text x="78" y="548" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Not accepted since 1 October 2024</text>
+</svg>

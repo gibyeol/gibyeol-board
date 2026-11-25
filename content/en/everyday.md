@@ -3,8 +3,12 @@ title: Everyday Korea: eating alone, tipping, English, safety and the small rule
 description: No tipping, solo dining, call bells, how much English to expect, emergency numbers, plugs, drinking age, smoking and subway manners. Checked November 2026.
 lede: Korea is easy on first-timers: no tipping, eating alone is normal, and crime against visitors is rare. What trips people up is the small stuff, like the two-serving rule, missing trash bins and pink subway seats, so here is all of it on one page.
 section: essentials
-updated: 2026-11-25
+updated: 2026-11-26
 ---
+## A dinner on your own
+
+You walk into a noodle shop alone, which in Korea is ordinary enough to have a name, *honbap*. Water is free, often from a dispenser by the wall. When you are ready to order you press the call button on the table instead of waving; it may be louder than you expect. At the end you take the slip to the counter and pay what the menu said, tax and service already in it. Our pick for the ending scene: walking out after paying the listed price, with nothing left to work out.
+
 ## Things that surprise first-timers
 
 | Situation | What to do | Why |
@@ -13,9 +17,6 @@ updated: 2026-11-25
 | You want Korean BBQ on your own | Ask before you sit, or pick a place with single servings | Some restaurants ask solo diners to order two servings |
 | No one comes to your table | Press the call button on the table | Every table has one; servers wait for it |
 | You need help in English at 11 p.m. | Call 1330 (until midnight); for emergencies 112 or 119 | 1330 interprets in 8 languages; 112 and 119 run 24 hours |
-| Your charger plug looks wrong | Bring a two-round-pin adapter | Korea runs on 220V, 60Hz |
-| You have a coffee cup and there's no bin | Keep it until a convenience store or station | Seoul has about 7,100 street bins for the whole city |
-| An empty pink seat on the subway | Leave it | It is for pregnant women |
 
 Our three that matter most: no tipping, the 1330 number, and the plug adapter. Everything else on this page is good manners rather than a problem you need to solve in advance.
 
@@ -40,6 +41,8 @@ The exception is anything cooked at the table for sharing. Some restaurants ask 
 - **Call bell.** Every table has a call button. KTO warns it may be louder than you expect.
 - **Paying.** Many places now take your order and payment on a table tablet or a kiosk at the door. If you ordered from staff and no one brings the bill, take the slip from your table to the counter on the way out.
 - **Cards** are accepted almost everywhere; see [Money in Korea](/money/).
+
+{{fig:everyday-1|What to look for at a Korean restaurant table}}
 
 ## How much English to expect
 
@@ -73,11 +76,15 @@ Feeling safe is not the same as being safe late at night, and the low crime rate
 | 1330 | Korea Travel Hotline: information, interpretation, complaints | 8 languages |
 | 1366 | Domestic violence hotline, 24 hours | |
 
-The 1330 hotline is run by KTO. It covers Korean, English, Japanese, Chinese, Russian, Vietnamese, Thai and Malay/Indonesian, runs 7 a.m. to midnight every day, and can set up a three-way call with you and emergency services. Dial 1330 in Korea or +82-2-1330 from abroad. You can also chat through its web messenger, KakaoTalk, LINE, Facebook or WhatsApp; free online calls over wifi are on the [official 1330 page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454).
+{{fig:emergency-1|Which number to call}}
+
+The 1330 hotline is run by KTO. It covers Korean, English, Japanese, Chinese, Russian, Vietnamese, Thai and Malay/Indonesian, runs 7 a.m. to midnight every day, and can set up a three-way call with you and emergency services. Dial 1330 in Korea or +82-2-1330 from abroad. You can also chat through its web messenger, KakaoTalk, LINE, Facebook or WhatsApp; free online calls over wifi are on the [official 1330 page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454). What to say on each call is in our [emergency guide](/emergency/).
 
 ## Plugs and voltage
 
 Korea uses 220V at 60Hz with a two-round-pin plug (the type usually listed as C or F). The US runs on 120V with flat pins, so you need an adapter. Most phone and laptop chargers say "100–240V" on the label and only need the adapter; a hair dryer or straightener that says 120V only will need a converter, or leave it at home. KTO says hotel front desks can often lend adapters, and they are sold at Incheon Airport convenience stores.
+
+{{fig:everyday-2|Will your plug fit? Check the label first}}
 
 ## Drinking age and ID
 
@@ -97,8 +104,17 @@ Expect to carry your rubbish. Seoul removed street bins after the 1995 pay-per-b
 - **Seats at each end of the car** are for elderly and disabled passengers.
 - **Keep quiet.** Talking softly and keeping phone calls short is the norm Seoul has asked for since its early etiquette campaigns.
 
+{{fig:seoul-subway-7|Seats to leave free on the subway}}
+
+## Before you go
+
+1. Save 112, 119 and 1330 in your phone; from abroad 1330 is +82-2-1330.
+2. Pack a two-round-pin adapter, and read the voltage on your chargers.
+3. Install Papago and Naver Map, and keep your hotel's address in Korean.
+4. Pick your first *honbap*: a noodle shop, a gukbap place or a kimbap shop.
+
 Who doesn't need this page? Repeat visitors who already know the bell and the bins. If that's you, save the 1330 number and move on.
 
 ## Sources
 
-<p class="sources">Korea Tourism Organization (VisitKorea): About Korean Food, Taxi, 1330 Korea Travel Helpline page, Electricity (checked 25 November 2026); Newsis on the 1330 hotline hours (29 July 2026); Korea Times on tipping and the Food Sanitation Act (7 August 2025) and solo diners (15 November 2025); Asia Economy on solo dining and the 2024 time-use survey (28 November 2025); National Data Office, 2025 Statistics on One-Person Households (via Newsis, 9 December 2025); EF EPI 2025 South Korea fact sheet; US State Department travel advisory (11 August 2025); Government of Canada travel advice (15 October 2026); UK FCDO travel advice (14 May 2026); Korea.net on 112 interpretation (19 March 2024); The Star/Korea Herald on 112 languages (25 October 2026); Ministry of Gender Equality and Family youth-age card (bokjiro.go.kr, 8 January 2026) and Korea.kr (4 July 2023); Seoul Metropolitan Government no-smoking zones (checked 25 November 2026); Newsis on e-cigarettes (3 February 2026); Asia Economy on indoor smoking ban (31 December 2014); Yonhap on Seoul street bins (5 November 2026); Seoul Metropolitan Government on pink seats (23 July 2015) and subway etiquette (10 June 2005).</p>
+<p class="sources">Korea Tourism Organization (VisitKorea): About Korean Food, Taxi, 1330 Korea Travel Helpline page, Electricity (checked 25 November 2026); Newsis on the 1330 hotline hours (29 July 2026); Korea Times on tipping and the Food Sanitation Act (7 August 2025) and solo diners (15 November 2025); Asia Economy on solo dining and the 2024 time-use survey (28 November 2025); National Data Office, 2025 Statistics on One-Person Households (via Newsis, 9 December 2025); EF EPI 2025 South Korea fact sheet; US State Department travel advisory (11 August 2025); Government of Canada travel advice (15 October 2026); UK FCDO travel advice (14 May 2026); Korea.net on 112 interpretation (19 March 2024); The Star/Korea Herald on 112 languages (25 October 2026); Ministry of Gender Equality and Family youth-age card (bokjiro.go.kr, 8 January 2026) and Korea.kr (4 July 2023); Seoul Metropolitan Government no-smoking zones (checked 25 November 2026); Newsis on e-cigarettes (3 February 2026); Asia Economy on indoor smoking ban (31 December 2014); Yonhap on Seoul street bins (5 November 2026); Seoul Metropolitan Government on pink seats (23 July 2015) and subway etiquette (10 June 2005). Re-opened 26 November 2026 (KST): <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632&menuSn=454" rel="noopener" target="_blank">VisitKorea, 1330 Travel Helpline page</a> (numbers and chat channels; the hours and languages come from the Newsis report).</p>

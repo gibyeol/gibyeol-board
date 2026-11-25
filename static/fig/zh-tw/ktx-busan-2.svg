@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 798" role="img" aria-label="首爾有車到釜山的三個車站" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>首爾有車到釜山的三個車站</title>
+<rect width="400" height="798" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">首爾有車到釜山的三個車站</text>
+<rect x="16" y="60" width="368" height="34" rx="8" fill="#b8392f"/>
+<text x="30" y="83" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">首爾站・龍山站 KTX</text>
+<text x="70" y="121" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">首爾站或龍山站</text>
+<text x="70" y="143" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">KORAIL PASS:可用</text>
+<text x="70" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">釜山站</text>
+<text x="70" y="226" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2小時17分〜2小時41分</text>
+<line x1="44" y1="115" x2="44" y2="198" stroke="#b8392f" stroke-width="5"/>
+<circle cx="44" cy="161" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="170" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="179" r="3.5" fill="#f4f0e6" stroke="#b8392f" stroke-width="1.5"/>
+<circle cx="44" cy="115" r="8" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="44" cy="198" r="8" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="16" y="256" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="279" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">水西 SRT</text>
+<text x="70" y="317" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">水西</text>
+<text x="70" y="339" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">首爾東南:江南、蠶室</text>
+<text x="70" y="400" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">釜山站</text>
+<line x1="44" y1="311" x2="44" y2="394" stroke="#16151a" stroke-width="5"/>
+<circle cx="44" cy="357" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="366" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="375" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="311" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="394" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<text x="20" y="430" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">KORAIL PASS:2026年8月時不能用</text>
+<rect x="16" y="452" width="368" height="34" rx="8" fill="#16151a"/>
+<text x="30" y="475" font-size="17" font-weight="700" fill="#ffffff" text-anchor="start">清涼里 KTX-Eum</text>
+<text x="70" y="513" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">清涼里</text>
+<text x="70" y="535" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">首爾東邊</text>
+<text x="70" y="596" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">新海雲台</text>
+<text x="70" y="627" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Centum</text>
+<text x="70" y="688" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">釜田</text>
+<text x="70" y="710" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">約3小時38分</text>
+<line x1="44" y1="507" x2="44" y2="682" stroke="#16151a" stroke-width="5"/>
+<circle cx="44" cy="553" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="562" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="571" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="645" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="654" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="663" r="3.5" fill="#f4f0e6" stroke="#16151a" stroke-width="1.5"/>
+<circle cx="44" cy="507" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="590" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="621" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="44" cy="682" r="8" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<text x="20" y="740" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">住海雲台的話</text>
+<text x="20" y="776" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">三種都在Korail+ App訂。</text>
+</svg>

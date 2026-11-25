@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 470" role="img" aria-label="Gimhae Airport into Busan" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Gimhae Airport into Busan</title>
+<rect width="400" height="470" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Gimhae Airport into Busan</text>
+<rect x="16" y="56" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="66" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="88" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="78" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Light rail</text>
+<text x="78" y="103" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Cheapest and fastest. Change at</text>
+<text x="78" y="125" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Sasang (Line 2) or Daejeo (Line 3)</text>
+<rect x="16" y="155" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="165" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="187" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="78" y="180" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Limousine 2</text>
+<text x="78" y="202" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Seomyeon, Bujeon · ₩6,000 · about</text>
+<text x="78" y="224" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">50 min · every 60–80 min</text>
+<rect x="16" y="254" width="368" height="67" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="264" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="286" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="78" y="279" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Limousine 1</text>
+<text x="78" y="301" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Haeundae · ₩9,500</text>
+<rect x="16" y="331" width="368" height="89" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="341" width="36" height="32" rx="8" fill="#b8392f"/>
+<text x="48.0" y="363" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">!</text>
+<text x="78" y="356" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Limousines take no cash</text>
+<text x="78" y="378" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Machine on 1F by Gate 4, or tap a</text>
+<text x="78" y="400" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">card on board</text>
+<text x="20" y="448" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Two bags up to 30 kg in total ride free.</text>
+</svg>

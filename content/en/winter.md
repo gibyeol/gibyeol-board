@@ -3,8 +3,12 @@ title: Seoul in winter: what to wear, snow, and the Seollal 2027 closures
 description: Seoul's real December–February temperatures, how often it snows, what to pack, and what opens and closes over Seollal, 6–9 February 2027.
 lede: Seoul in January is colder than most visitors expect, but it is a dry, bright cold you can dress for. Pack for the wind outside and the heat indoors, and if you land over Seollal, the palaces are your best bet, not the shops.
 section: seoul
-updated: 2026-11-25
+updated: 2026-11-26
 ---
+## A winter day in Seoul
+
+A January morning in Seoul averages −5.5°C. You leave the hotel in a long coat with a thermal layer underneath, hat and gloves on, and stop at the first convenience store for a hot pack (핫팩) to keep in your pocket. Step into a café or onto the subway and the heating is on, so the coat comes open and the scarf comes off. Our pick for the ending scene: if you are here on 31 December, the midnight bell at Bosingak in Jongno, a New Year event held since 1953; if you are here over Seollal, an afternoon at a palace, which opens on the holiday while many shops close.
+
 ## The short answer
 
 | Situation | What to do | Why |
@@ -12,7 +16,6 @@ updated: 2026-11-25
 | Visiting in January | Bring a proper down coat, a thermal base layer, a hat and gloves | The average January low in Seoul is −5.5°C (22°F), and cold snaps go well below that |
 | A cold snap hits | Buy hot packs (핫팩) at any convenience store | Cheap, everywhere, and they work in a coat pocket all day |
 | Going in and out of shops, cafés, the subway | Wear layers you can open or take off | Indoors is heated, and you will overheat in a ski-weight outfit |
-| Hoping for snow | Treat it as a bonus, not a plan | It snows on some winter days, but Seoul rarely stays white for long |
 | In Seoul 6–9 Feb 2027 (Seollal) | Do palaces, skip the big shopping day | Palaces normally stay open on holidays; department stores and the National Museum close on some days |
 
 ## How cold is Seoul in winter?
@@ -43,6 +46,8 @@ You do not need technical mountain gear for the city. Get these three right and 
 2. **A thermal base layer.** A thin top and leggings under normal clothes. This is how you stay warm outside without being too hot inside.
 3. **Hat, gloves and a scarf or neck warmer.** Wind on your ears and hands is what makes −5°C miserable. Touchscreen gloves help, since you will be on maps all day.
 
+{{fig:winter-1|Three things to pack, one to buy there}}
+
 Then add **hot packs (핫팩)**. Convenience stores such as CU, GS25 and 7-Eleven stock them all winter, and their hot pack sales jumped 22–43% in the January 2026 cold snap. Slip one in a coat pocket, or buy the stick-on kind for your back.
 
 **Indoors it is warm.** Shops, cafés, restaurants, subway carriages and most hotel rooms are heated. That is why layers beat one thick jumper: open the coat, take off the scarf, and you stay comfortable on the way in and out.
@@ -52,6 +57,8 @@ Then add **hot packs (핫팩)**. Convenience stores such as CU, GS25 and 7-Eleve
 ## Seollal 2027: what closes and what doesn't
 
 Seollal (Lunar New Year) is Sunday 7 February 2027. The official holiday runs **Saturday 6 to Tuesday 9 February**. Because Seollal falls on a Sunday, Tuesday 9 February is a substitute holiday. Many Koreans travel to see family, so Seoul's own streets go quiet while trains and highways fill up.
+
+{{fig:winter-2|Seollal 2027: what is open, day by day}}
 
 ### Palaces: open, with one catch
 
@@ -73,13 +80,20 @@ Markets and small family-run restaurants set their own days, and there is no off
 
 ### Trains: book early or don't travel on peak days
 
-Korail sells Seollal tickets in a special booking round about four weeks ahead. For the 2026 holiday it ran from 19 to 21 January, online for members through KorailTalk and the Korail website. Overall, 59.7% of seats sold in that round, but the busiest days were 87–90% sold in the peak direction. The 2027 dates have not been announced.
+Korail sells Seollal tickets in a special booking round about four weeks ahead. For the 2026 holiday it ran from 19 to 21 January, online for members through KorailTalk (now the Korail+ app) and the Korail website. Overall, 59.7% of seats sold in that round, but the busiest days were 87–90% sold in the peak direction. The 2027 dates have not been announced.
 
 Our call: if you want a day trip by KTX, do it before 5 February or after 10 February. If you must travel on the holiday, book the moment the round opens.
 
 ## New Year's Eve in Seoul
 
-Seoul's New Year's Eve bell ringing at Bosingak, Jongno, goes ahead on 31 December 2026. The city opened nominations for the citizens who will ring it in November. The programme, road closures and late-night transport for this year have not been announced yet. Last year the city ran later trains and buses for the event. 1 January is a public holiday, and the National Museum of Korea is closed that day.
+Seoul's New Year's Eve bell ringing at Bosingak, Jongno, goes ahead on 31 December 2026. The event has run since 1953. The city took nominations for the citizens who will ring it from 6 to 30 November and plans to announce them around mid-December. The programme, road closures and late-night transport for this year have not been announced yet. Last year the city ran later trains and buses for the event. 1 January is a public holiday, and the National Museum of Korea is closed that day.
+
+## Before you go
+
+1. Pack the three: a long coat, a thermal base layer, and hat, gloves and a scarf.
+2. Lay your dates against 6–10 February 2027 if you are coming in February.
+3. A few days before, check the palace notice on royal.khs.go.kr and your department store's own holiday notice.
+4. Planning a KTX day trip? Tickets open two months ahead, and holiday trains in a separate sale; see [Seoul to Busan](/ktx-busan/).
 
 ## What we left out
 
@@ -88,4 +102,4 @@ Seoul's New Year's Eve bell ringing at Bosingak, Jongno, goes ahead on 31 Decemb
 
 ## Sources
 
-<p class="sources">Korea Meteorological Administration, new climate normals 1991–2020 (25 March 2021) and winter 2025 climate report (4 March 2026); YTN on the Seoul cold snap and cold wave advisories (26 December 2025); Ajunews on convenience store hot pack sales (22 January 2026); Korea AeroSpace Administration, 2027 calendar (korea.kr, 29 June 2026); Korea Heritage Service, palace and royal tomb viewing regulations (amended 5 February 2026); Newsis on 2026 Seollal palace free admission (11 February 2026); National Museum of Korea visitor information (checked 25 November 2026); Asia Economy on department store and supermarket Seollal closures (14 February 2026); Hankyung on Korail Seollal booking (7 January 2026); SBS Biz on Seollal booking results (21 January 2026); Seoul Metropolitan Government on the Bosingak bell nominations (3 November 2026).</p>
+<p class="sources">Korea Meteorological Administration, new climate normals 1991–2020 (25 March 2021) and winter 2025 climate report (4 March 2026); YTN on the Seoul cold snap and cold wave advisories (26 December 2025); Ajunews on convenience store hot pack sales (22 January 2026); Korea AeroSpace Administration, 2027 calendar (korea.kr, 29 June 2026); Korea Heritage Service, palace and royal tomb viewing regulations (amended 5 February 2026); Newsis on 2026 Seollal palace free admission (11 February 2026); National Museum of Korea visitor information (checked 25 November 2026); Asia Economy on department store and supermarket Seollal closures (14 February 2026); Hankyung on Korail Seollal booking (7 January 2026); SBS Biz on Seollal booking results (21 January 2026); Seoul Metropolitan Government on the Bosingak bell nominations (3 November 2026). Re-opened 26 November 2026 (KST): <a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156768474" rel="noopener" target="_blank">Korea AeroSpace Administration, 2027 calendar</a> (korea.kr, 29 June 2026; holiday 6–9 February); <a href="https://mediahub.seoul.go.kr/archives/2019920" rel="noopener" target="_blank">Seoul Metropolitan Government, Bosingak bell nominations</a> (3 November 2026).</p>

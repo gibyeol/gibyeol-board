@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 547" role="img" aria-label="플러그가 맞을까?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>플러그가 맞을까?</title>
+<rect width="400" height="547" fill="#f4f0e6"/>
+<text x="20" y="42" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">플러그가 맞을까?</text>
+<circle cx="100" cy="122" r="52" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="80" cy="122" r="9" fill="#16151a"/>
+<circle cx="120" cy="122" r="9" fill="#16151a"/>
+<rect x="276" y="78" width="9" height="30" rx="2" fill="#16151a"/>
+<rect x="305" y="78" width="9" height="30" rx="2" fill="#16151a"/>
+<rect x="256" y="106" width="78" height="66" rx="12" fill="#e9e2d3" stroke="#16151a" stroke-width="2"/>
+<text x="200" y="132" font-size="22" font-weight="700" fill="#b8392f" text-anchor="middle">≠</text>
+<text x="100" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">한국</text>
+<text x="100" y="226" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">220V, 60Hz</text>
+<text x="100" y="248" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">둥근 핀 두 개</text>
+<text x="295" y="204" font-size="17" font-weight="700" fill="#16151a" text-anchor="middle">미국·일본·대만</text>
+<text x="295" y="226" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">120V·100V·110V</text>
+<text x="295" y="248" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="middle">납작한 핀</text>
+<text x="20" y="293" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">어댑터가 필요해요. 그다음 표시를 보세요:</text>
+<rect x="16" y="309" width="368" height="89" rx="10" fill="#e9e2d3"/>
+<rect x="30" y="319" width="119.76680000000002" height="32" rx="8" fill="#b8392f"/>
+<text x="89.88340000000001" y="341" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">100–240V</text>
+<text x="161.76680000000002" y="334" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">어댑터만 있으면 돼요</text>
+<text x="161.76680000000002" y="356" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">휴대폰·노트북 충전기</text>
+<text x="161.76680000000002" y="378" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">대부분</text>
+<rect x="16" y="408" width="368" height="67" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="30" y="418" width="147.11599999999999" height="32" rx="8" fill="#b8392f"/>
+<text x="103.55799999999999" y="440" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle">자국 전압 전용</text>
+<text x="189.11599999999999" y="433" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">변압기가 필요해요</text>
+<text x="189.11599999999999" y="455" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">드라이기, 고데기</text>
+<text x="20" y="503" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">호텔 프런트에서 빌려주기도 하고, 인천공항</text>
+<text x="20" y="525" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">편의점·면세점에서 팔아요.</text>
+</svg>
