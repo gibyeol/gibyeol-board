@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-label="氣候同行卡短期券" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>氣候同行卡短期券</title>
+<rect width="400" height="420" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">氣候同行卡短期券</text>
+<rect x="16" y="54" width="368" height="94" rx="10" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="32" y="80" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">1日5,000 · 2日8,000韓元</text>
+<text x="32" y="102" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">3日10,000 · 5日15,000韓元</text>
+<text x="32" y="124" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">7日20,000 · 卡片3,000韓元</text>
+<rect x="16" y="160" width="368" height="116" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="188" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">可以</text>
+<text x="32" y="214" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">✓ 首爾地鐵</text>
+<text x="32" y="238" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">✓ 首爾市區公車(含深夜)</text>
+<text x="32" y="262" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">✓ 仁川機場站下車</text>
+<rect x="16" y="286" width="368" height="116" rx="10" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="32" y="314" font-size="17" font-weight="700" fill="#5f5b55" text-anchor="start">不行</text>
+<text x="32" y="340" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">× 新盆唐線、GTX</text>
+<text x="32" y="364" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">× 廣域公車、機場巴士</text>
+<text x="32" y="388" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">× 首爾以外的車站</text>
+</svg>

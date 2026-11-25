@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 424" role="img" aria-label="旅行者向けk.ride" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>旅行者向けk.ride</title>
+<rect width="400" height="424" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">旅行者向けk.ride</text>
+<rect x="40" y="54" width="320" height="352" rx="26" fill="#ffffff" stroke="#16151a" stroke-width="3"/>
+<rect x="170" y="66" width="60" height="8" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<circle cx="74" cy="110" r="15" fill="#b8392f"/>
+<text x="74" y="116" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="100" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">登録</text>
+<text x="100" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Google・Apple・メール</text>
+<circle cx="74" cy="188" r="15" fill="#b8392f"/>
+<text x="74" y="194" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="100" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">海外カードを登録</text>
+<text x="100" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">アプリで登録</text>
+<circle cx="74" cy="266" r="15" fill="#b8392f"/>
+<text x="74" y="272" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="100" y="266" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">タクシーを呼ぶ</text>
+<text x="100" y="290" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">検索とチャットは自動翻訳</text>
+<circle cx="74" cy="344" r="15" fill="#b8392f"/>
+<text x="74" y="350" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="100" y="344" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">降りる</text>
+<text x="100" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">料金は降車後に自動決済</text>
+</svg>

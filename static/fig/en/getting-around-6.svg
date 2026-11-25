@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Regular taxi: base fare by time of night" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Regular taxi: base fare by time of night</title>
+<rect width="400" height="400" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Regular taxi: base fare</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">by time of night</text>
+<text x="20" y="98" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">4 a.m.–10 p.m.</text>
+<rect x="20" y="108" width="179.1044776119403" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="209.1044776119403" y="124" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">₩4,800</text>
+<text x="20" y="158" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">10–11 p.m.</text>
+<text x="380" y="158" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="end">+20%</text>
+<rect x="20" y="168" width="216.4179104477612" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="246.4179104477612" y="184" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">₩5,800</text>
+<text x="20" y="218" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">11 p.m.–2 a.m.</text>
+<text x="380" y="218" font-size="16" font-weight="700" fill="#b8392f" text-anchor="end">+40%</text>
+<rect x="20" y="228" width="250.0" height="20" rx="4" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="280.0" y="244" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">₩6,700</text>
+<text x="20" y="278" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">2–4 a.m.</text>
+<text x="380" y="278" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="end">+20%</text>
+<rect x="20" y="288" width="216.4179104477612" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="246.4179104477612" y="304" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">₩5,800</text>
+<text x="20" y="338" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">First 1.6 km, mid-size taxi.</text>
+<text x="20" y="360" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Distance and time charges rise by</text>
+<text x="20" y="382" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">the same rate.</text>
+</svg>

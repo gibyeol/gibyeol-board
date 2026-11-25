@@ -680,7 +680,7 @@
     } else if (r.worldId) {
       var W = (window.NADRI_WORLD || {})[r.worldId] || [], C = (window.NADRI_CONCEPTS || {})[r.worldId];
       phrase = C ? (C[k3] || C.en) : '';
-      W.filter(function (e) { return e.n; }).slice(0, 5).forEach(function (e) { var rg = regionOf(e.r); rows.push({ flag: rg.flag, place: rg.name, name: e.n, nn: e.nn || '', gloss: e.g[k3] || e.g.en }); });
+      W.filter(function (e) { return e.n; }).slice(0, 5).forEach(function (e) { var rg = regionOf(e.r); rows.push({ flag: rg.flag, place: rg.name, name: e.n + (k3 === 'ko' && e.nk ? '(' + e.nk + ')' : ''), nn: e.nn || '', gloss: e.g[k3] || e.g.en }); });
     }
     return { phrase: phrase, rows: rows };
   }

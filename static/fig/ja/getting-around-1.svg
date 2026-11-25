@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 412" role="img" aria-label="大人・交通カードの運賃" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>大人・交通カードの運賃</title>
+<rect width="400" height="412" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">大人・交通カードの運賃</text>
+<text x="20" y="72" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">地下鉄、10kmまで</text>
+<rect x="20" y="82" width="80.72916666666667" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="110.72916666666667" y="98" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">1,550ウォン</text>
+<text x="20" y="132" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">市内バス 青・緑</text>
+<rect x="20" y="142" width="78.125" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="108.125" y="158" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">1,500ウォン</text>
+<text x="20" y="192" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">深夜バス(N)</text>
+<rect x="20" y="202" width="130.20833333333334" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="160.20833333333334" y="218" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">2,500ウォン</text>
+<text x="20" y="252" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">広域バス(赤)</text>
+<rect x="20" y="262" width="156.25" height="20" rx="4" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="186.25" y="278" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">3,000ウォン</text>
+<text x="20" y="312" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">タクシー、1.6kmまで</text>
+<rect x="20" y="322" width="250.0" height="20" rx="4" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="280.0" y="338" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">4,800ウォン</text>
+<text x="20" y="372" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1回用乗車券1,650ウォン+保証金500ウォン</text>
+<text x="20" y="394" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">マウルバス1,200・黄色バス1,400ウォン</text>
+</svg>

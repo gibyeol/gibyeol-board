@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" role="img" aria-label="기후동행카드 단기권" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>기후동행카드 단기권</title>
+<rect width="400" height="420" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">기후동행카드 단기권</text>
+<rect x="16" y="54" width="368" height="94" rx="10" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="32" y="80" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">1일 5,000원 · 2일 8,000원</text>
+<text x="32" y="102" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">3일 10,000원 · 5일 15,000원</text>
+<text x="32" y="124" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">7일 20,000원 · 카드값 3,000원</text>
+<rect x="16" y="160" width="368" height="116" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="188" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">돼요</text>
+<text x="32" y="214" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">✓ 서울 지하철</text>
+<text x="32" y="238" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">✓ 서울 시내버스(심야 포함)</text>
+<text x="32" y="262" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">✓ 인천공항역 하차</text>
+<rect x="16" y="286" width="368" height="116" rx="10" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="32" y="314" font-size="17" font-weight="700" fill="#5f5b55" text-anchor="start">안 돼요</text>
+<text x="32" y="340" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">× 신분당선, GTX</text>
+<text x="32" y="364" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">× 광역버스·공항버스</text>
+<text x="32" y="388" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">× 서울 밖 역</text>
+</svg>
