@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 430" role="img" aria-label="Tax refund at the till, per receipt" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Tax refund at the till, per receipt</title>
+<rect width="400" height="430" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Tax refund at the till,</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">per receipt</text>
+<rect x="16" y="80" width="368" height="66" rx="10" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="16" y="80" width="10" height="66" rx="3" fill="#5f5b55" stroke="none" stroke-width="0"/>
+<text x="40" y="108" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Under ₩15,000</text>
+<text x="40" y="132" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">No refund</text>
+<rect x="16" y="156" width="368" height="88" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="16" y="156" width="10" height="88" rx="3" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="40" y="184" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">₩15,000 – ₩1,000,000</text>
+<text x="40" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Tax comes off at the till</text>
+<text x="40" y="230" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Show your physical passport</text>
+<rect x="16" y="254" width="368" height="88" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<rect x="16" y="254" width="10" height="88" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="40" y="282" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Over ₩1,000,000</text>
+<text x="40" y="306" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Pay full price, claim at</text>
+<text x="40" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">a kiosk or the airport</text>
+<text x="20" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Each receipt counts on its own.</text>
+<text x="20" y="390" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Receipts from different stores</text>
+<text x="20" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">do not add up.</text>
+</svg>

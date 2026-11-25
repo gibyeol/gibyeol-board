@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" role="img" aria-label="Duty-free or tax-free?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Duty-free or tax-free?</title>
+<rect width="400" height="340" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Duty-free or tax-free?</text>
+<rect x="16" y="54" width="368" height="116" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="84" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">Duty-free shop</text>
+<text x="32" y="110" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Only for people leaving Korea</text>
+<text x="32" y="134" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Goods handed over after</text>
+<text x="32" y="158" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">passport control</text>
+<rect x="16" y="182" width="368" height="116" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="32" y="212" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">Tax-free shop</text>
+<text x="32" y="238" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Normal shops, e.g. Olive Young</text>
+<text x="32" y="262" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Take the goods with you now</text>
+<text x="32" y="286" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Part of the 10% VAT back</text>
+<text x="20" y="322" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">One or the other per purchase</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 416" role="img" aria-label="日本の免税範囲(1人)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>日本の免税範囲(1人)</title>
+<rect width="400" height="416" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">日本の免税範囲(1人)</text>
+<rect x="16" y="54" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="100" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">20万円</text>
+<text x="200" y="85" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">その他の品物</text>
+<text x="200" y="109" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">海外市価の合計</text>
+<rect x="16" y="136" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="182" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">3本</text>
+<text x="200" y="167" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">お酒</text>
+<text x="200" y="191" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1本760ml程度</text>
+<rect x="16" y="218" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="264" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">200本</text>
+<text x="200" y="249" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">紙巻たばこ</text>
+<text x="200" y="273" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">20歳以上</text>
+<rect x="16" y="300" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="346" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">2オンス</text>
+<text x="200" y="331" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">香水</text>
+<text x="200" y="355" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">約56ml</text>
+<text x="20" y="398" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">韓国の免税店で買った物も含まれます</text>
+</svg>

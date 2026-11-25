@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 282" role="img" aria-label="免税の密封袋" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>免税の密封袋</title>
+<rect width="400" height="282" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">免税の密封袋</text>
+<path d="M30,80 L150,80 L142,230 L38,230 z" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<rect x="26" y="68" width="128" height="16" rx="3" fill="#b8392f" stroke="none" stroke-width="0"/>
+<rect x="62" y="130" width="26" height="70" rx="4" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<rect x="92" y="150" width="26" height="50" rx="4" fill="#e9e2d3" stroke="#16151a" stroke-width="1.5"/>
+<text x="90" y="256" font-size="16" font-weight="700" fill="#b8392f" text-anchor="middle">密封袋</text>
+<text x="170" y="106" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">最終目的地まで</text>
+<text x="170" y="136" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">開けない</text>
+<text x="170" y="166" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">乗り継ぎがあるならなおさら</text>
+<text x="170" y="196" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">範囲を超えたら申告</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 340" role="img" aria-label="면세점? 택스리펀드?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>면세점? 택스리펀드?</title>
+<rect width="400" height="340" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">면세점? 택스리펀드?</text>
+<rect x="16" y="54" width="368" height="116" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="84" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">면세점</text>
+<text x="32" y="110" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">출국하는 사람에게만 판매</text>
+<text x="32" y="134" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">물건은 출국심사 뒤에</text>
+<text x="32" y="158" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">인도장에서 받아요</text>
+<rect x="16" y="182" width="368" height="116" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="32" y="212" font-size="18" font-weight="700" fill="#16151a" text-anchor="start">택스리펀드 매장</text>
+<text x="32" y="238" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">올리브영 같은 일반 매장</text>
+<text x="32" y="262" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">물건은 바로 들고 가요</text>
+<text x="32" y="286" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">부가세 10% 일부 환급</text>
+<text x="20" y="322" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">한 번 산 물건엔 둘 중 하나만</text>
+</svg>

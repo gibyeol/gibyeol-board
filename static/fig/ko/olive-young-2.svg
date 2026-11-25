@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 430" role="img" aria-label="계산대 즉시 환급, 영수증 한 장 기준" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>계산대 즉시 환급, 영수증 한 장 기준</title>
+<rect width="400" height="430" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">계산대 즉시 환급,</text>
+<text x="20" y="60" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">영수증 한 장 기준</text>
+<rect x="16" y="80" width="368" height="66" rx="10" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="16" y="80" width="10" height="66" rx="3" fill="#5f5b55" stroke="none" stroke-width="0"/>
+<text x="40" y="108" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">15,000원 미만</text>
+<text x="40" y="132" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">환급 없음</text>
+<rect x="16" y="156" width="368" height="88" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="16" y="156" width="10" height="88" rx="3" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="40" y="184" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">15,000원 ~ 1,000,000원</text>
+<text x="40" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">계산대에서 세금이 바로 빠져요</text>
+<text x="40" y="230" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">여권 실물을 보여 줘요</text>
+<rect x="16" y="254" width="368" height="88" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
+<rect x="16" y="254" width="10" height="88" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="40" y="282" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">1,000,000원 초과</text>
+<text x="40" y="306" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">전액 결제 후 키오스크나</text>
+<text x="40" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">공항에서 환급</text>
+<text x="20" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">영수증마다 따로 계산해요.</text>
+<text x="20" y="390" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">다른 매장 영수증은</text>
+<text x="20" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">합쳐지지 않아요.</text>
+</svg>

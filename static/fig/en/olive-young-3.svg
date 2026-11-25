@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 304" role="img" aria-label="Reading a 1+1 shelf tag" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Reading a 1+1 shelf tag</title>
+<rect width="400" height="304" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Reading a 1+1 shelf tag</text>
+<rect x="16" y="54" width="368" height="120" rx="6" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="28" y="68" width="64" height="40" rx="6" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="60" y="96" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">1+1</text>
+<text x="108" y="86" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Product name</text>
+<rect x="108" y="96" width="180" height="12" rx="3" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<text x="28" y="146" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Price</text>
+<rect x="100" y="134" width="110" height="16" rx="3" fill="#e9e2d3" stroke="none" stroke-width="0"/>
+<rect x="104" y="62" width="270" height="56" rx="8" fill="none" stroke="#b8392f" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="20" y="206" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Which item or set does</text>
+<text x="20" y="228" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">the deal cover? Check here</text>
+<text x="20" y="264" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1+1: buy one, get one</text>
+<text x="20" y="286" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">2+1: buy two, get one</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 412" role="img" aria-label="從下單到提貨" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>從下單到提貨</title>
+<rect width="400" height="412" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">從下單到提貨</text>
+<circle cx="38" cy="78" r="16" fill="#16151a"/>
+<text x="38" y="84" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="66" y="76" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">線上下單</text>
+<text x="66" y="99" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">護照號碼+航班</text>
+<line x1="38" y1="96" x2="38" y2="124" stroke="#c9c1b2" stroke-width="3"/>
+<circle cx="38" cy="148" r="16" fill="#16151a"/>
+<text x="38" y="154" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="66" y="146" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">出發前一天晚上前</text>
+<text x="66" y="169" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">實際截止看網站</text>
+<line x1="38" y1="166" x2="38" y2="194" stroke="#c9c1b2" stroke-width="3"/>
+<circle cx="38" cy="218" r="16" fill="#16151a"/>
+<text x="38" y="224" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="66" y="216" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">出境當天報到</text>
+<text x="66" y="239" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">安檢、出境審查</text>
+<line x1="38" y1="236" x2="38" y2="264" stroke="#c9c1b2" stroke-width="3"/>
+<circle cx="38" cy="288" r="16" fill="#b8392f"/>
+<text x="38" y="294" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="66" y="286" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">4樓提貨處</text>
+<text x="66" y="309" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">護照、登機證、提貨單</text>
+<line x1="38" y1="306" x2="38" y2="334" stroke="#c9c1b2" stroke-width="3"/>
+<circle cx="38" cy="358" r="16" fill="#16151a"/>
+<text x="38" y="364" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">5</text>
+<text x="66" y="356" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">核對品名數量再簽名</text>
+<text x="66" y="379" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">液體留在密封袋裡</text>
+</svg>

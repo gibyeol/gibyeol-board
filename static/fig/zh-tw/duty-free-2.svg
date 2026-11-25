@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 406" role="img" aria-label="仁川機場提貨處(4樓)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>仁川機場提貨處(4樓)</title>
+<rect width="400" height="406" fill="#f4f0e6"/>
+<text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">仁川機場提貨處(4樓)</text>
+<rect x="16" y="54" width="368" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="16" y="54" width="10" height="66" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="40" y="81" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第1航廈東側</text>
+<text x="40" y="105" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">10〜11號登機門對面</text>
+<rect x="16" y="128" width="368" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="16" y="128" width="10" height="66" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="40" y="155" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第1航廈西側</text>
+<text x="40" y="179" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">43〜45號登機門對面</text>
+<rect x="16" y="202" width="368" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="16" y="202" width="10" height="66" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
+<text x="40" y="229" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第1航廈登機長廊</text>
+<text x="40" y="253" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">119號登機門附近,搭接駁列車</text>
+<rect x="16" y="276" width="368" height="66" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="16" y="276" width="10" height="66" rx="3" fill="#b8392f" stroke="none" stroke-width="0"/>
+<text x="40" y="303" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">第2航廈</text>
+<text x="40" y="327" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">252號登機門旁,走過天橋</text>
+<text x="20" y="366" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">去哪個提貨處,看提貨單。</text>
+<text x="20" y="388" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">新羅:起飛前1〜2小時去領</text>
+</svg>
