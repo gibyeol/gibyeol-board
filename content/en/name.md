@@ -1,7 +1,7 @@
 ---
 title: Your name in Korean, Japanese and Chinese: sound, meaning and where it leads
-description: Type your name and see how it sounds in Korean, Japanese and Chinese, what it means, a name with the same meaning in each language, and a place in Korea it leads to. Then stamp it as a Korean seal.
-lede: Names carry meaning. Sophia means wisdom, and in Korea wisdom leads to King Sejong, who created Hangul, and the hall where he gathered his scholars. Type yours and follow the thread.
+description: Type your name and see how it sounds in Korean, Japanese and Chinese, what it means, names with the same meaning around the world, and the stories and places it leads to, in Korea and beyond. Then stamp it as a Korean seal.
+lede: Names carry meaning. Sophia means wisdom: in Istanbul it leads to Hagia Sophia, and in Korea to King Sejong, who created Hangul, and the hall where he gathered his scholars. Type yours and follow the thread around the world.
 updated: 2026-11-25
 report: no
 byline: no
