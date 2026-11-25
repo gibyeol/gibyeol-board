@@ -8,20 +8,20 @@
 window.NADRI_NAMES = {
   sophia: { ko: '소피아', ja: 'ソフィア', zh: '蘇菲亞', o: 'Greek', c: 'h', m: { en: 'wisdom', ko: '지혜', ja: '知恵', zh: '智慧' }, w: { ko: '지혜', ja: '知恵(ちえ)', zh: '智慧' }, i: { ko: '지혜 · 슬기', ja: '智恵(ちえ)', zh: '慧' }, ch: 'wisdom' },
   sofia: 'sophia', sophie: 'sophia',
-  olivia: { ko: '올리비아', ja: 'オリビア', zh: '奧莉維亞', o: 'Latin', c: 'h', m: { en: 'olive tree (made popular by Shakespeare)', ko: '올리브나무 (셰익스피어 작품으로 널리 쓰임)', ja: 'オリーブの木(シェイクスピア作品で広まった)', zh: '橄欖樹(因莎士比亞作品而流行)' }, w: { ko: '올리브', ja: 'オリーブ', zh: '橄欖' }, ch: 'peace' },
-  emma: { ko: '에마', ja: 'エマ', zh: '艾瑪', o: 'Germanic', c: 'h', m: { en: 'whole, universal', ko: '온전한, 온 세상의', ja: 'すべての、完全な', zh: '完整的、普世的' }, w: { ko: '온전함', ja: '完全', zh: '完整' }, i: { ko: '온', ja: '円(まどか)', zh: '全' } },
+  olivia: { ko: '올리비아', ja: 'オリビア', zh: '奧莉維亞', o: 'English, from Latin oliva', c: 'm', m: { en: 'olive tree (made popular by Shakespeare)', ko: '올리브나무 (셰익스피어 작품으로 널리 쓰임)', ja: 'オリーブの木(シェイクスピア作品で広まった)', zh: '橄欖樹(因莎士比亞作品而流行)' }, w: { ko: '올리브', ja: 'オリーブ', zh: '橄欖' }, ch: 'peace' },
+  emma: { ko: '에마', ja: 'エマ', zh: '艾瑪', o: 'Germanic', c: 'h', m: { en: 'whole, great', ko: '온전한, 위대한', ja: '完全な、偉大な', zh: '完整的、偉大的' }, w: { ko: '온전함', ja: '完全', zh: '完整' }, i: { ko: '온', ja: '円(まどか)', zh: '全' } },
   liam: { ko: '리엄', ja: 'リアム', zh: '連恩', o: 'Irish, from William', c: 'h', m: { en: 'will + helmet: a resolute protector', ko: '의지 + 투구: 굳센 수호자', ja: '意志+兜:揺るがない守り手', zh: '意志+頭盔:堅定的守護者' }, w: { ko: '수호', ja: '守護', zh: '守護' }, i: { ko: '수호', ja: '守(まもる)', zh: '守' }, ch: 'guard' },
-  william: 'liam',
+  william: { ko: '윌리엄', ja: 'ウィリアム', zh: '威廉', o: 'Germanic', c: 'h', m: { en: 'will + helmet: a resolute protector', ko: '의지 + 투구: 굳센 수호자', ja: '意志+兜:揺るがない守り手', zh: '意志+頭盔:堅定的守護者' }, w: { ko: '수호', ja: '守護', zh: '守護' }, i: { ko: '수호', ja: '守(まもる)', zh: '守' }, ch: 'guard' },
   noah: { ko: '노아', ja: 'ノア', zh: '諾亞', o: 'Hebrew', c: 'h', m: { en: 'rest, comfort', ko: '쉼, 위로', ja: '休息、慰め', zh: '安息、安慰' }, w: { ko: '쉼', ja: '安らぎ', zh: '安息' }, i: { ko: '안식 · 쉼', ja: '安(やす)', zh: '安' }, ch: 'rest' },
   james: { ko: '제임스', ja: 'ジェームズ', zh: '詹姆士', o: 'Hebrew, via Latin Iacomus (Jacob)', c: 'h', m: { en: 'the same name as Jacob; in Spanish, Saint James became Santiago', ko: '야곱과 같은 이름. 스페인어로 성 야고보(Saint James)가 산티아고가 됐어요', ja: 'ヤコブと同じ名前。スペイン語で聖ヤコブ(Saint James)がサンティアゴに', zh: '與雅各同源。西班牙文的聖雅各(Saint James)就是 Santiago' }, ch: 'santiago' },
-  jacob: 'james', jaime: 'james',
+  jacob: { ko: '제이컵', ja: 'ジェイコブ', zh: '雅各', o: 'Hebrew', c: 'h', m: { en: 'holder of the heel, or supplanter', ko: '발꿈치를 잡은 자, 또는 대신하는 자', ja: 'かかとをつかむ者、または取って代わる者', zh: '抓住腳跟的人,或取而代之者' }, ch: 'santiago' }, jaime: 'james',
   santiago: { ko: '산티아고', ja: 'サンティアゴ', zh: '聖地牙哥', o: 'Spanish', c: 'h', m: { en: 'Saint James (Sant Iago)', ko: '성 야고보 (Sant Iago)', ja: '聖ヤコブ(Sant Iago)', zh: '聖雅各(Sant Iago)' }, ch: 'santiago' },
   grace: { ko: '그레이스', ja: 'グレース', zh: '葛瑞絲', o: 'English, from Latin gratia', c: 'h', m: { en: 'grace, favour', ko: '은혜, 우아함', ja: '恵み、優雅さ', zh: '恩典、優雅' }, w: { ko: '은혜', ja: '恵み', zh: '恩典' }, i: { ko: '은혜', ja: '恵(めぐみ)', zh: '恩惠' } },
   anna: { ko: '안나', ja: 'アンナ', zh: '安娜', o: 'Hebrew', c: 'h', m: { en: 'favour, grace', ko: '은혜', ja: '恵み', zh: '恩典' }, w: { ko: '은혜', ja: '恵み', zh: '恩典' }, i: { ko: '은혜', ja: '恵(めぐみ)', zh: '恩惠' } },
   hannah: 'anna', ann: 'anna', anne: 'anna',
   john: { ko: '존', ja: 'ジョン', zh: '約翰', o: 'Hebrew', c: 'h', m: { en: 'God is gracious', ko: '신은 자비롭다', ja: '神は恵み深い', zh: '神是恩慈的' }, w: { ko: '자비', ja: '恵み', zh: '恩慈' }, i: { ko: '은혜', ja: '恵(めぐみ)', zh: '恩' } },
   jack: 'john', juan: 'john', ivan: 'john', jean: 'john', sean: 'john',
-  david: { ko: '데이비드', ja: 'デイビッド', zh: '大衛', o: 'Hebrew', c: 'h', m: { en: 'beloved', ko: '사랑받는 사람', ja: '愛される人', zh: '被愛的人' }, w: { ko: '사랑', ja: '愛', zh: '愛' }, i: { ko: '사랑', ja: '愛(あい)', zh: '愛' } },
+  david: { ko: '데이비드', ja: 'デイビッド', zh: '大衛', o: 'Hebrew', c: 'h', m: { en: 'beloved (or uncle)', ko: '사랑받는 사람 (또는 삼촌)', ja: '愛される人(またはおじ)', zh: '被愛的人(或叔伯)' }, w: { ko: '사랑', ja: '愛', zh: '愛' }, i: { ko: '사랑', ja: '愛(あい)', zh: '愛' } },
   michael: { ko: '마이클', ja: 'マイケル', zh: '麥可', o: 'Hebrew', c: 'h', m: { en: 'who is like God?', ko: '누가 신과 같은가?', ja: '誰が神のようであろうか', zh: '誰能像神?' } },
   daniel: { ko: '대니얼', ja: 'ダニエル', zh: '丹尼爾', o: 'Hebrew', c: 'h', m: { en: 'God is my judge', ko: '신이 나의 재판관', ja: '神はわが裁き主', zh: '神是我的審判者' } },
   ethan: { ko: '이선', ja: 'イーサン', zh: '伊森', o: 'Hebrew', c: 'h', m: { en: 'solid, enduring', ko: '굳건한, 오래가는', ja: '揺るがない、長く続く', zh: '堅定、持久' }, w: { ko: '굳건함', ja: '堅固', zh: '堅定' }, i: { ko: '굳건', ja: '堅(けん)', zh: '堅' } },
@@ -57,7 +57,7 @@ window.NADRI_NAMES = {
   leo: { ko: '레오', ja: 'レオ', zh: '里歐', o: 'Latin', c: 'h', m: { en: 'lion', ko: '사자', ja: '獅子', zh: '獅子' }, w: { ko: '사자', ja: '獅子', zh: '獅子' } },
   felix: { ko: '펠릭스', ja: 'フェリックス', zh: '菲利克斯', o: 'Latin', c: 'h', m: { en: 'lucky, happy', ko: '운 좋은, 행복한', ja: '幸運な、幸せな', zh: '幸運、快樂' }, w: { ko: '행복', ja: '幸せ', zh: '幸福' }, i: { ko: '행복 · 복', ja: '幸(さち)', zh: '福' } },
   irene: { ko: '아이린', ja: 'アイリーン', zh: '艾琳', o: 'Greek', c: 'h', m: { en: 'peace', ko: '평화', ja: '平和', zh: '和平' }, w: { ko: '평화', ja: '平和', zh: '和平' }, i: { ko: '평화', ja: '和(なごみ)', zh: '和平' }, ch: 'peace' },
-  rose: { ko: '로즈', ja: 'ローズ', zh: '蘿絲', o: 'Latin', c: 'h', m: { en: 'rose (the flower)', ko: '장미', ja: 'バラ', zh: '玫瑰' }, w: { ko: '장미', ja: '薔薇', zh: '玫瑰' } },
+  rose: { ko: '로즈', ja: 'ローズ', zh: '蘿絲', o: 'Norman French, from Germanic', c: 'm', m: { en: 'originally "famous type", later the rose flower', ko: '본래 "이름난 종류"라는 뜻, 나중에 장미꽃과 이어졌어요', ja: '元は「名高い種類」、のちにバラの花と結びつきました', zh: '原意「著名的類型」,後來與玫瑰花連在一起' }, w: { ko: '장미', ja: '薔薇', zh: '玫瑰' } },
   rosa: 'rose',
   margaret: { ko: '마거릿', ja: 'マーガレット', zh: '瑪格麗特', o: 'Greek', c: 'h', m: { en: 'pearl', ko: '진주', ja: '真珠', zh: '珍珠' }, w: { ko: '진주', ja: '真珠', zh: '珍珠' }, i: { ko: '진주', ja: '珠(たま)', zh: '珍珠' } },
   pearl: 'margaret',
@@ -66,7 +66,13 @@ window.NADRI_NAMES = {
   andrew: { ko: '앤드루', ja: 'アンドリュー', zh: '安德魯', o: 'Greek', c: 'h', m: { en: 'manly, brave', ko: '용감한', ja: '勇敢な', zh: '勇敢' }, w: { ko: '용기', ja: '勇気', zh: '勇氣' }, i: { ko: '용(勇)', ja: '勇(いさむ)', zh: '勇' } },
   andy: 'andrew', andre: 'andrew', andrea: 'andrew',
   thomas: { ko: '토머스', ja: 'トーマス', zh: '湯瑪斯', o: 'Aramaic', c: 'h', m: { en: 'twin', ko: '쌍둥이', ja: '双子', zh: '雙胞胎' } },
-  tom: 'thomas'
+  tom: 'thomas',
+  joseph: { ko: '조지프', ja: 'ジョセフ', zh: '約瑟夫', o: 'Hebrew', c: 'h', m: { en: 'he will add', ko: '그가 더하리라', ja: '彼は加える', zh: '他必加增' } },
+  joe: 'joseph', yusuf: 'joseph', jose: 'joseph',
+  matthew: { ko: '매슈', ja: 'マシュー', zh: '馬修', o: 'Hebrew, via Greek', c: 'm', m: { en: 'gift of God', ko: '신의 선물', ja: '神の贈り物', zh: '神的禮物' }, w: { ko: '선물', ja: '贈り物', zh: '禮物' } },
+  matteo: 'matthew', matthias: 'matthew',
+  samuel: { ko: '새뮤얼', ja: 'サミュエル', zh: '山繆', o: 'Hebrew', c: 'h', m: { en: 'name of God', ko: '신의 이름', ja: '神の名', zh: '神的名' } },
+  sam: 'samuel'
 };
 
 
@@ -81,37 +87,42 @@ window.NADRI_KANJI = ('花:꽃:flower,子:아들(아이):child,美:아름다울:
 window.NADRI_KANJI_CHAIN = { '智': 'wisdom', '慧': 'wisdom', '賢': 'wisdom', '哲': 'wisdom', '雪': 'snow', '冬': 'snow', '桜': 'blossom', '櫻': 'blossom', '平': 'peace', '和': 'peace', '星': 'star', '王': 'king', '君': 'king', '宮': 'king', '安': 'rest', '守': 'guard' };
 
 window.NADRI_CHAINS = {
+  /* each step: text in ko/en/ja/zh, c = confidence (h/m/l/legend), s = source, link = our page, x = experience */
   wisdom: [
-    { ko: '세종대왕은 집현전에 학자들을 모았고, 그 시대에 한글이 만들어졌어요.', en: 'King Sejong gathered scholars at the Jiphyeonjeon, the Hall of Worthies, and Hangul was created in his reign.', ja: '世宗大王は集賢殿に学者を集め、その時代にハングルが生まれました。', zh: '世宗大王在集賢殿聚集學者,韓文就在他的時代誕生。' },
-    { ko: '경복궁 수정전은 집현전이 있던 자리에 서 있어요.', en: 'Sujeongjeon hall in Gyeongbokgung stands where the Jiphyeonjeon used to be.', ja: '景福宮の修政殿は、集賢殿があった場所に建っています。', zh: '景福宮的修政殿,就建在集賢殿的舊址上。', link: '/palaces/' },
-    { ko: '광화문광장 세종대왕 동상 아래에는 세종의 업적을 보여 주는 무료 전시 \'세종이야기\'가 있어요.', en: 'Under the King Sejong statue in Gwanghwamun Square, the free "Story of King Sejong" exhibition shows his work.', ja: '光化門広場の世宗大王像の下に、無料の展示「世宗物語」があります。', zh: '光化門廣場世宗大王銅像下方,有免費展覽「世宗故事」。' }
+    { c: 'h', s: 'Encyclopedia of Korean Culture', ko: '세종대왕은 집현전에 학자들을 모았고, 그 시대에 한글이 만들어졌어요.', en: 'King Sejong gathered scholars at the Jiphyeonjeon, the Hall of Worthies, and Hangul was created in his reign.', ja: '世宗大王は集賢殿に学者を集め、その時代にハングルが生まれました。', zh: '世宗大王在集賢殿聚集學者,韓文就在他的時代誕生。' },
+    { c: 'h', s: 'Encyclopedia of Korean Culture', link: '/palaces/', ko: '경복궁 수정전은 집현전이 있던 자리에 서 있어요.', en: 'Sujeongjeon hall in Gyeongbokgung stands where the Jiphyeonjeon used to be.', ja: '景福宮の修政殿は、集賢殿があった場所に建っています。', zh: '景福宮的修政殿,就建在集賢殿的舊址上。' },
+    { c: 'h', s: 'Seoul Metropolitan Government Mediahub, 2026', ko: '광화문광장 세종대왕 동상 아래에는 무료 전시 \'세종이야기\'가 있어요.', en: 'Under the King Sejong statue in Gwanghwamun Square is the free "Story of King Sejong" exhibition.', ja: '光化門広場の世宗大王像の下に、無料の展示「世宗物語」があります。', zh: '光化門廣場世宗大王銅像下方,有免費展覽「世宗故事」。' },
+    { c: 'h', s: 'Korea Times, 9 Sep 2025', ko: '국립한글박물관은 2025년 2월 화재 뒤 문을 닫았고, 2028년 10월 다시 열 예정이에요.', en: 'The National Hangeul Museum closed after a fire in February 2025 and is due to reopen in October 2028.', ja: '国立ハングル博物館は2025年2月の火災で閉館し、2028年10月に再開予定です。', zh: '國立韓文博物館在 2025 年 2 月火災後閉館,預計 2028 年 10 月重新開放。' },
+    { c: 'h', s: 'Trazy, Airbnb Experiences (listings, 2026)', x: true, ko: '마지막은 인사동에서: 지혜의 이름을 한글 도장으로 새기는 체험이 있어요.', en: 'End in Insadong, where you can have your name carved into a Korean seal.', ja: '最後は仁寺洞で。名前をハングルのはんこに彫ってもらう体験があります。', zh: '最後到仁寺洞,可以把名字刻成韓文印章。' }
   ],
   santiago: [
-    { ko: '스페인의 산티아고 순례길(Camino de Santiago)은 성 야고보에게 가는 길이에요.', en: 'Spain\'s Camino de Santiago is the pilgrims\' way to Saint James.', ja: 'スペインのサンティアゴ巡礼路は、聖ヤコブへ向かう道です。', zh: '西班牙的聖雅各朝聖之路(Camino de Santiago),是走向聖雅各的路。' },
-    { ko: '그 길을 걸은 서명숙이 2007년 제주에 만든 걷기 길이 제주 올레예요.', en: 'Suh Myung-sook walked it, came home and opened the first Jeju Olle walking trail in 2007.', ja: 'その道を歩いたソ・ミョンスクが、2007年に済州に作った道が済州オルレです。', zh: '走過這條路的徐明淑,2007 年在濟州開了第一條「濟州偶來」步道。' },
-    { ko: '산티아고의 이름을 가진 사람에게 한국에서 가장 어울리는 길이에요.', en: 'If your name is James or Santiago, this is your walk in Korea.', ja: 'ジェームズやサンティアゴという名前なら、韓国ではこの道がいちばん似合います。', zh: '如果你叫 James 或 Santiago,這就是你在韓國最該走的路。', link: '/jeju/' }
+    { c: 'h', s: 'Behind the Name', ko: 'James와 Jacob은 같은 이름에서 왔고, 스페인어로 성 야고보(Sant Iago)가 Santiago가 됐어요.', en: 'James and Jacob come from the same name, and in Spanish Saint James (Sant Iago) became Santiago.', ja: 'ジェームズとヤコブは同じ名前から来ており、スペイン語で聖ヤコブ(Sant Iago)がサンティアゴになりました。', zh: 'James 和 Jacob 同源,西班牙文的聖雅各(Sant Iago)就成了 Santiago。' },
+    { c: 'legend', s: 'Codex Calixtinus legend, via Vatican Observatory', ko: '전승에 따르면 샤를마뉴는 꿈에서 은하수를 따라 성 야고보의 무덤으로 가라는 말을 들었어요. 그래서 순례길은 \'별의 길\'이라고도 불려요.', en: 'Legend says Charlemagne dreamed the Milky Way was pointing him to Saint James\'s tomb, which is why the Camino is also called the Way of the Stars.', ja: '伝承では、シャルルマーニュが夢で天の川に聖ヤコブの墓へ導かれたといい、巡礼路は「星の道」とも呼ばれます。', zh: '傳說查理曼在夢中被銀河指引到聖雅各的墓,所以朝聖之路也被叫作「星星之路」。' },
+    { c: 'h', s: 'Korea.kr; Jeju Olle Foundation', link: '/jeju/', ko: '그 순례길을 걸은 서명숙이 2007년 제주에 만든 걷기 길이 제주 올레예요. James와 Santiago에게 한국에서 가장 어울리는 길이에요.', en: 'Suh Myung-sook walked the Camino, came home and opened the first Jeju Olle trail in 2007. It is the walk in Korea for every James and Santiago.', ja: 'その道を歩いたソ・ミョンスクが2007年に作ったのが済州オルレ。ジェームズとサンティアゴにいちばん似合う韓国の道です。', zh: '走過這條路的徐明淑,2007 年開了第一條濟州偶來步道,是最適合 James 和 Santiago 的韓國步道。' }
   ],
   guard: [
-    { ko: '조선의 궁궐 문은 수문장이 지켰어요.', en: 'In the Joseon dynasty, palace gates were kept by gate guards, the sumunjang.', ja: '朝鮮王朝の宮殿の門は、守門将が守っていました。', zh: '朝鮮王朝的宮門,由守門將看守。' },
-    { ko: '경복궁 광화문 앞에서 수문장 교대식을 재현해요. 무료로 볼 수 있어요.', en: 'The guard-changing ceremony is re-enacted in front of Gyeongbokgung\'s Gwanghwamun gate, free to watch.', ja: '景福宮・光化門の前で守門将交代式が再現され、無料で見られます。', zh: '景福宮光化門前會重現守門將交接儀式,免費觀看。', link: '/palaces/' }
+    { c: 'h', s: 'Korea Heritage Service', ko: '조선의 궁궐 문은 수문장이 지켰어요.', en: 'In the Joseon dynasty, palace gates were kept by gate guards, the sumunjang.', ja: '朝鮮王朝の宮殿の門は、守門将が守っていました。', zh: '朝鮮王朝的宮門,由守門將看守。' },
+    { c: 'h', s: 'Korea Heritage Service', link: '/palaces/', ko: '경복궁 광화문 앞에서 수문장 교대식을 재현해요. 무료로 볼 수 있어요.', en: 'The guard-changing ceremony is re-enacted in front of Gyeongbokgung\'s Gwanghwamun gate, free to watch.', ja: '景福宮・光化門の前で守門将交代式が再現され、無料で見られます。', zh: '景福宮光化門前會重現守門將交接儀式,免費觀看。' }
   ],
   peace: [
-    { ko: '올리브 가지와 평화를 뜻하는 이름은 한국에서 가장 무거운 질문과 이어져요.', en: 'A name that carries the olive branch, or peace itself, leads to Korea\'s heaviest question.', ja: 'オリーブの枝や平和を意味する名前は、韓国でいちばん重い問いにつながります。', zh: '帶著橄欖枝或「和平」意義的名字,會連到韓國最沉重的問題。' },
-    { ko: '파주 임진각 평화누리공원은 분단선 가까이에서 평화를 생각하는 곳이에요.', en: 'Imjingak Pyeonghwa-Nuri Park in Paju is where Koreans come to think about peace, close to the dividing line.', ja: '坡州の臨津閣・平和ヌリ公園は、分断線の近くで平和を考える場所です。', zh: '坡州臨津閣和平樂園,是在分斷線附近思考和平的地方。' }
+    { c: 'h', s: 'Paju City; Gyeonggi Province', ko: '평화를 뜻하는 이름은 파주 임진각 평화누리공원으로 이어져요. 분단선 가까이에서 평화를 생각하는 곳이에요.', en: 'A name that means peace leads to Imjingak Pyeonghwa-Nuri Park in Paju, where Koreans come to think about peace near the dividing line.', ja: '平和を意味する名前は、坡州の臨津閣・平和ヌリ公園へ。分断線の近くで平和を考える場所です。', zh: '有「和平」意思的名字,會連到坡州臨津閣和平樂園,在分斷線附近思考和平的地方。' }
   ],
   rest: [
-    { ko: '쉼을 뜻하는 이름에는 절에서 하룻밤 머무는 템플스테이가 어울려요.', en: 'A name that means rest suits a templestay: a night at a Buddhist temple.', ja: '休息を意味する名前には、お寺に一晩泊まるテンプルステイが似合います。', zh: '意思是「安息」的名字,很適合去寺廟住一晚的寺院寄宿(Templestay)。' }
+    { c: 'h', s: 'Templestay (Cultural Corps of Korean Buddhism)', ko: '쉼을 뜻하는 이름에는 절에서 하룻밤 머무는 템플스테이가 어울려요.', en: 'A name that means rest suits a templestay: a night at a Buddhist temple.', ja: '休息を意味する名前には、お寺に一晩泊まるテンプルステイが似合います。', zh: '意思是「安息」的名字,很適合去寺廟住一晚的寺院寄宿。' }
   ],
   snow: [
-    { ko: '눈을 뜻하는 이름이라면 한국의 겨울이 제철이에요.', en: 'If your name means snow, Korea\'s winter is your season.', ja: '雪を意味する名前なら、韓国の冬が旬です。', zh: '名字有「雪」,韓國的冬天就是你的季節。', link: '/winter/' }
+    { c: 'h', s: 'Nadri winter guide', link: '/winter/', ko: '눈을 뜻하는 이름이라면 한국의 겨울이 제철이에요.', en: 'If your name means snow, Korea\'s winter is your season.', ja: '雪を意味する名前なら、韓国の冬が旬です。', zh: '名字有「雪」,韓國的冬天就是你的季節。' }
   ],
   blossom: [
-    { ko: '벚꽃 이름에는 매년 봄 창원 진해에서 열리는 진해군항제가 어울려요. 도시 전체가 벚꽃으로 덮여요.', en: 'A cherry-blossom name belongs at the Jinhae Gunhangje festival in Changwon each spring, when the whole town turns pink.', ja: '桜の名前には、毎年春に昌原・鎮海で開かれる鎮海軍港祭が似合います。町じゅうが桜に包まれます。', zh: '櫻花的名字,適合每年春天在昌原鎮海舉辦的鎮海軍港節,整座城都被櫻花覆蓋。' }
+    { c: 'h', s: 'Changwon City; 2026 festival coverage', ko: '벚꽃 이름에는 매년 봄 창원 진해에서 열리는 진해군항제가 어울려요.', en: 'A cherry-blossom name belongs at the Jinhae Gunhangje festival in Changwon each spring.', ja: '桜の名前には、毎年春に昌原・鎮海で開かれる鎮海軍港祭が似合います。', zh: '櫻花的名字,適合每年春天在昌原鎮海舉辦的鎮海軍港節。' }
   ],
   star: [
-    { ko: '경주의 첨성대는 신라 때 세운 별을 보던 대로 알려져 있어요. 동아시아에 남은 가장 오래된 천문 시설 가운데 하나예요.', en: 'Cheomseongdae in Gyeongju, built in the Silla kingdom, is known as a star-watching tower and is one of the oldest surviving observatories in East Asia.', ja: '慶州の瞻星台は新羅時代に建てられた星を観る台とされ、東アジアに残る最古級の天文施設のひとつです。', zh: '慶州的瞻星臺建於新羅時代,被認為是觀星臺,是東亞現存最古老的天文設施之一。' }
+    { c: 'h', s: 'Encyclopedia of Korean Culture', ko: '경주 첨성대는 신라 때 세운 별을 보던 대로 알려져 있고, 동아시아에 남은 가장 오래된 천문 시설 가운데 하나예요. 용도에 대해선 다른 학설도 있어요.', en: 'Cheomseongdae in Gyeongju, from the Silla kingdom, is known as a star-watching tower and is among the oldest surviving observatories in East Asia, though scholars still debate its use.', ja: '慶州の瞻星台は新羅時代の星を観る台とされ、東アジア最古級の天文施設のひとつです(用途には諸説あり)。', zh: '慶州瞻星臺建於新羅,被認為是觀星臺,是東亞現存最古老的天文設施之一(用途仍有爭論)。' }
   ],
   king: [
-    { ko: '집과 나라를 다스리는 이의 이름이라면, 조선 임금이 살던 경복궁부터.', en: 'For a name about ruling a home or a land, start where Joseon\'s kings lived: Gyeongbokgung.', ja: '家や国を治める人の名前なら、朝鮮の王が暮らした景福宮から。', zh: '名字有「統治一家、一國」的意思,就從朝鮮國王住過的景福宮開始。', link: '/palaces/' }
+    { c: 'h', s: 'Nadri palaces guide', link: '/palaces/', ko: '집과 나라를 다스리는 이의 이름이라면, 조선 임금이 살던 경복궁부터.', en: 'For a name about ruling a home or a land, start where Joseon\'s kings lived: Gyeongbokgung.', ja: '家や国を治める人の名前なら、朝鮮の王が暮らした景福宮から。', zh: '名字有「統治一家、一國」的意思,就從朝鮮國王住過的景福宮開始。' }
   ]
 };
+
+/* names that continue each other: "next in the chain" */
+window.NADRI_RELATED = { james: ['jacob', 'santiago'], jacob: ['james', 'santiago'], santiago: ['james', 'jacob'], liam: ['william', 'alexander'], william: ['liam', 'henry'], alexander: ['liam', 'andrew'], henry: ['william', 'alexander'], sophia: ['stella', 'irene'], stella: ['sophia', 'lily'], irene: ['olivia', 'noah'], olivia: ['irene', 'noah'], noah: ['irene', 'olivia'], maria: ['mia', 'anna'], mia: ['maria', 'emma'], anna: ['grace', 'john'], grace: ['anna', 'john'], john: ['grace', 'anna'], elizabeth: ['isabella', 'emma'], isabella: ['elizabeth', 'emma'], eva: ['ava', 'zoe'], ava: ['eva', 'zoe'], zoe: ['eva', 'chloe'], chloe: ['lily', 'zoe'], lily: ['rose', 'chloe'], rose: ['lily', 'margaret'], peter: ['paul', 'andrew'], paul: ['peter', 'matthew'], andrew: ['peter', 'thomas'], matthew: ['thomas', 'john'], thomas: ['matthew', 'andrew'], david: ['samuel', 'daniel'], daniel: ['david', 'samuel'], samuel: ['david', 'daniel'], joseph: ['david', 'benjamin'], benjamin: ['joseph', 'samuel'], leo: ['felix', 'lucas'], felix: ['victoria', 'leo'], victoria: ['felix', 'charlotte'], lucas: ['leo', 'luke'], ethan: ['noah', 'liam'], emma: ['amelia', 'olivia'], amelia: ['emily', 'emma'], emily: ['amelia', 'charlotte'], charlotte: ['emily', 'amelia'], michael: ['david', 'daniel'], margaret: ['rose', 'grace'], joy: ['hope', 'felix'], hope: ['joy', 'grace'] };

@@ -15,6 +15,7 @@ report: no
 
 | Date | Page | What changed |
 |---|---|---|
+| 2026-11-25 | Your name | Name tool v3: 17 languages, your name in other countries, where it is most loved, chains with sources and confidence |
 | 2026-11-25 | Name stamp, Shopping, Copyright and reuse | New: your name in Korean as a seal; shopping guides in one place; what you can quote |
 | 2026-11-25 | Emergencies in Korea | New guide: 112, 119 and 1330, common visitor problems, Korean phrases to show someone nearby |
 | 2026-11-25 | About Nadri | Added what we want Nadri to be and how readers can help build it |

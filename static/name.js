@@ -10,12 +10,13 @@
   if (!root) return;
   var LANG = root.getAttribute('data-lang') || 'en';
 
-  var UI = {
+  var UI_ALL = {
     en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Nothing you type leaves your browser.', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
     ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 브라우저 밖으로 나가지 않아요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
     ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はブラウザの外に送られません。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
     'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會離開瀏覽器。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
-  }[LANG];
+  };
+  var UI = UI_ALL[LANG];
 
   /* ---------- Hangul helpers ---------- */
   var CHO = 'ㄱㄲㄴㄷㄸㄹㅁㅂㅃㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎ', JUNG = 'ㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ', JONG = ' ㄱㄲㄳㄴㄵㄶㄷㄹㄺㄻㄼㄽㄾㄿㅀㅁㅂㅄㅅㅆㅇㅈㅊㅋㅌㅍㅎ';
@@ -183,7 +184,7 @@
     // Spanish, French, German, Italian, Portuguese
     'alejandro:알레한드로,ana:아나,antonio:안토니오,carmen:카르멘,diego:디에고,francisco:프란시스코,javier:하비에르,jorge:호르헤,jose:호세,juan:후안,lucia:루시아,luis:루이스,manuel:마누엘,miguel:미겔,pablo:파블로,santiago:산티아고,sofia:소피아,valentina:발렌티나,camille:카미유,chloé:클로에,léa:레아,louis:루이,lucie:뤼시,manon:마농,pierre:피에르,jean:장,marie:마리,hugo:위고,anna-lena:안나레나,felix:펠릭스,lukas:루카스,leon:레온,giulia:줄리아,marco:마르코,matteo:마테오,francesca:프란체스카,alessandro:알레산드로,joão:주앙,ines:이네스,' +
     // Southeast Asia / others commonly seen
-    'nguyen:응우옌,linh:린,minh:민,anh:아인,siti:시티,putri:뿌뜨리,ahmad:아흐마드,muhammad:무함마드,fatima:파티마,ali:알리,omar:오마르,aisha:아이샤,brooklyn:브루클린,grayson:그레이슨,zachary:재커리,mackenzie:매켄지,xavier:재비어,wyatt:와이엇,hudson:허드슨,lincoln:링컨,nolan:놀런,hunter:헌터,connor:코너,evan:에번,austin:오스틴,jayden:제이든,landon:랜던,carter:카터,ezra:에즈라,isaiah:아이제이아,levi:리바이,luke:루크,max:맥스,miles:마일스,nathaniel:너새니얼,ian:이언,josh:조시,matt:맷,mike:마이크,nick:닉,sam:샘,tom:톰,tim:팀,joe:조,rose:로즈,ruby:루비,penelope:퍼넬러피,riley:라일리,nova:노바,aurora:오로라,savannah:서배너,natalie:내털리,leah:리아,addison:애디슨,naomi:나오미,everly:에벌리,skylar:스카일러,quinn:퀸,sadie:세이디,ivy:아이비,jade:제이드,emilia:에밀리아,madeline:매덜린,kennedy:케네디,kylie:카일리,josephine:조지핀,bailey:베일리,taylor:테일러,morgan:모건,ariana:아리아나,hailey:헤일리,kayla:케일라,jenny:제니,jessie:제시,tiffany:티파니,wendy:웬디,vivian:비비언,irene:아이린,joy:조이,kelly:켈리,vicky:비키,cindy:신디,annie:애니,fiona:피오나,joanne:조앤,judy:주디,peggy:페기,sandy:샌디,tina:티나,winnie:위니,jerry:제리,vincent:빈센트,eason:이슨,jay:제이,allen:앨런,ray:레이,sean:숀,tony:토니,gary:게리,jimmy:지미,johnny:조니,steve:스티브,frank:프랭크,smith:스미스,johnson:존슨,williams:윌리엄스,brown:브라운,jones:존스,garcia:가르시아,miller:밀러,davis:데이비스,rodriguez:로드리게스,martinez:마르티네스,hernandez:에르난데스,lopez:로페스,gonzalez:곤살레스,wilson:윌슨,anderson:앤더슨,moore:무어,martin:마틴,lee:리,thompson:톰프슨,white:화이트,harris:해리스,clark:클라크,lewis:루이스,robinson:로빈슨,walker:워커,young:영,king:킹,wright:라이트,scott:스콧,green:그린,baker:베이커,adams:애덤스,nelson:넬슨,hill:힐,campbell:캠벨,mitchell:미첼,roberts:로버츠,phillips:필립스,evans:에번스,turner:터너,parker:파커,collins:콜린스,edwards:에드워즈,stewart:스튜어트,morris:모리스,murphy:머피,cook:쿡,rogers:로저스,cooper:쿠퍼,ward:워드,cox:콕스,wood:우드,kim:킴,wang:왕,chen:천,schmidt:슈미트,müller:뮐러,schneider:슈나이더,fischer:피셔,weber:베버,meyer:마이어,wagner:바그너,becker:베커,kowalski:코발스키,nowak:노바크,rossi:로시,russo:루소,silva:실바,santos:산투스,dubois:뒤부아,theodore:시어도어,margaret:마거릿,dominic:도미닉,gavin:개빈,garrett:개릿,jaxon:잭슨,arjun:아르준,freya:프레야,oscar:오스카,desmond:데즈먼드,priya:프리야,rahul:라훌,wei:웨이,mei:메이,aubrey:오브리,lillian:릴리언,delilah:딜라일라,kinsley:킨즐리,colton:콜턴,brayden:브레이든,bradley:브래들리,ingrid:잉그리드,spencer:스펜서,trevor:트레버').split(',');
+    'nguyen:응우옌,linh:린,minh:민,anh:아인,siti:시티,putri:뿌뜨리,ahmad:아흐마드,muhammad:무함마드,fatima:파티마,ali:알리,omar:오마르,aisha:아이샤,brooklyn:브루클린,grayson:그레이슨,zachary:재커리,mackenzie:매켄지,xavier:재비어,wyatt:와이엇,hudson:허드슨,lincoln:링컨,nolan:놀런,hunter:헌터,connor:코너,evan:에번,austin:오스틴,jayden:제이든,landon:랜던,carter:카터,ezra:에즈라,isaiah:아이제이아,levi:리바이,luke:루크,max:맥스,miles:마일스,nathaniel:너새니얼,ian:이언,josh:조시,matt:맷,mike:마이크,nick:닉,sam:샘,tom:톰,tim:팀,joe:조,rose:로즈,ruby:루비,penelope:퍼넬러피,riley:라일리,nova:노바,aurora:오로라,savannah:서배너,natalie:내털리,leah:리아,addison:애디슨,naomi:나오미,everly:에벌리,skylar:스카일러,quinn:퀸,sadie:세이디,ivy:아이비,jade:제이드,emilia:에밀리아,madeline:매덜린,kennedy:케네디,kylie:카일리,josephine:조지핀,bailey:베일리,taylor:테일러,morgan:모건,ariana:아리아나,hailey:헤일리,kayla:케일라,jenny:제니,jessie:제시,tiffany:티파니,wendy:웬디,vivian:비비언,irene:아이린,joy:조이,kelly:켈리,vicky:비키,cindy:신디,annie:애니,fiona:피오나,joanne:조앤,judy:주디,peggy:페기,sandy:샌디,tina:티나,winnie:위니,jerry:제리,vincent:빈센트,eason:이슨,jay:제이,allen:앨런,ray:레이,sean:숀,tony:토니,gary:게리,jimmy:지미,johnny:조니,steve:스티브,frank:프랭크,smith:스미스,johnson:존슨,williams:윌리엄스,brown:브라운,jones:존스,garcia:가르시아,miller:밀러,davis:데이비스,rodriguez:로드리게스,martinez:마르티네스,hernandez:에르난데스,lopez:로페스,gonzalez:곤살레스,wilson:윌슨,anderson:앤더슨,moore:무어,martin:마틴,lee:리,thompson:톰프슨,white:화이트,harris:해리스,clark:클라크,lewis:루이스,robinson:로빈슨,walker:워커,young:영,king:킹,wright:라이트,scott:스콧,green:그린,baker:베이커,adams:애덤스,nelson:넬슨,hill:힐,campbell:캠벨,mitchell:미첼,roberts:로버츠,phillips:필립스,evans:에번스,turner:터너,parker:파커,collins:콜린스,edwards:에드워즈,stewart:스튜어트,morris:모리스,murphy:머피,cook:쿡,rogers:로저스,cooper:쿠퍼,ward:워드,cox:콕스,wood:우드,kim:킴,wang:왕,chen:천,schmidt:슈미트,müller:뮐러,schneider:슈나이더,fischer:피셔,weber:베버,meyer:마이어,wagner:바그너,becker:베커,kowalski:코발스키,nowak:노바크,rossi:로시,russo:루소,silva:실바,santos:산투스,dubois:뒤부아,yusuf:유수프,sean:숀,juan:후안,ivan:이반,jaime:하이메,joe:조,matteo:마테오,matthias:마티아스,pedro:페드로,pierre:피에르,hannah:해나,ann:앤,anne:앤,mary:메리,marie:마리,isabel:이저벨,eliza:일라이자,elisa:엘리사,alexandra:알렉산드라,luca:루카,rosa:로사,pearl:펄,victor:빅터,eve:이브,estelle:에스텔,estrella:에스트레야,andre:앙드레,andrea:안드레아,jacques:자크,giovanni:조반니,johannes:요하네스,miguel:미겔,mikhail:미하일,sofiya:소피야,zofia:조피아,theodore:시어도어,margaret:마거릿,dominic:도미닉,gavin:개빈,garrett:개릿,jaxon:잭슨,arjun:아르준,freya:프레야,oscar:오스카,desmond:데즈먼드,priya:프리야,rahul:라훌,wei:웨이,mei:메이,aubrey:오브리,lillian:릴리언,delilah:딜라일라,kinsley:킨즐리,colton:콜턴,brayden:브레이든,bradley:브래들리,ingrid:잉그리드,spencer:스펜서,trevor:트레버').split(',');
   var NAMES = {};
   LIST.forEach(function (p) { var kv = p.split(':'); if (kv[1]) NAMES[kv[0]] = kv[1]; });
 
@@ -263,7 +264,7 @@
     var words = s.split(' ');
     var kind = /[가-힣]/.test(s) ? 'hangul' : /[぀-ヿ]/.test(s) ? 'kana' : /[一-鿿]/.test(s) ? 'han' : /[a-zA-ZÀ-ÿ]/.test(s) ? 'latin' : null;
     if (kind === 'hangul') return hangulResult(words.filter(function (w) { return /[가-힣]/.test(w); }));
-    var out = [], approx = false, romajiUsed = false, infos = [], latinCount = 0;
+    var out = [], approx = false, romajiUsed = false, infos = [], latinCount = 0, firstKey = null;
     for (var i = 0; i < words.length; i++) {
       var w = words[i], h = null;
       if (/[぀-ヿ]/.test(w)) h = kanaWord(w);
@@ -279,7 +280,13 @@
         var key = w.toLowerCase().replace(/[^a-zà-ÿ-]/g, '');
         var jk = LANG === 'ja' && !NAMES[key] && !entryFor(key) ? romajiToKana(key) : null;
         var hit = entryFor(key) || entryFor(key.normalize('NFD').replace(/[\u0300-\u036f]/g, ''));
-        if (hit) { infos.push(hit); h = hit.e.ko; }
+        var typed = key.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        if (hit && hit.key !== typed && hit.key !== key) {
+          // a variant (Yusuf -> Joseph): meaning comes from the root name, but the sound is the name as typed
+          hit = { key: hit.key, e: hit.e, alias: true };
+          infos.push(hit); h = NAMES[key] || NAMES[typed] || roughWord(typed); if (!NAMES[key] && !NAMES[typed]) approx = true;
+          if (!firstKey) firstKey = typed;
+        } else if (hit) { infos.push(hit); h = hit.e.ko; if (!firstKey) firstKey = typed; }
         else if (NAMES[key]) h = NAMES[key];
         else if (jk) { h = kanaWord(jk); romajiUsed = true; }
         else { var plain = key.normalize('NFD').replace(/[̀-ͯ]/g, ''); h = NAMES[plain] || roughWord(plain); if (!NAMES[plain]) approx = true; }
@@ -290,9 +297,9 @@
     var hangul = out.join(' ');
     var note = kind === 'kana' || romajiUsed ? UI.kana : kind === 'han' ? UI.hanja : approx ? UI.approx : UI.checked;
     var sounds = [[kind === 'han' ? UI.reading : UI.lKo, hangul]];
-    var r = { hangul: hangul, kind: kind, note: note, approx: approx, sounds: sounds };
+    var r = { hangul: hangul, kind: kind, note: note, approx: approx, sounds: sounds, firstKey: firstKey };
     if (kind === 'latin') {
-      var all = infos.length === latinCount && infos.length;
+      var all = infos.length === latinCount && infos.length && !infos.some(function (x) { return x.alias; });
       if (all) { sounds.push([UI.lJa, infos.map(function (x) { return x.e.ja; }).join('・')]); sounds.push([UI.lZh, infos.map(function (x) { return x.e.zh; }).join('·')]); }
       var main = infos.filter(function (x) { return x.e.m; })[0];
       if (main) { r.meaning = main; r.chain = main.e.ch; } else r.noMeaning = true;
@@ -330,78 +337,154 @@
       '<g fill="#f4f0e6" font-family="Song Myung, serif">' + txt + '</g></svg>';
   }
 
-  /* ---------- UI ---------- */
-  root.innerHTML =
-    '<form class="namer-form"><label class="vh" for="namer-in">' + UI.ph + '</label>' +
-    '<input id="namer-in" type="text" autocomplete="off" maxlength="40" placeholder="' + UI.ph + '">' +
-    '<button type="submit">' + UI.go + '</button></form>' +
-    '<p class="namer-privacy">' + UI.privacy + '</p><div class="namer-out" aria-live="polite"></div>';
-  var input = root.querySelector('input'), out = root.querySelector('.namer-out');
+  /* ---------- UI (many languages) ---------- */
+  var I18N = window.NADRI_I18N || {}, SITE2UI = { en: 'en', ko: 'ko', ja: 'ja', 'zh-tw': 'zh-TW' };
+  var params = new URLSearchParams(location.search);
+  var uiLang = params.get('hl');
+  if (!uiLang || !I18N[uiLang]) {
+    uiLang = SITE2UI[LANG];
+    // a visitor whose browser speaks another language we support gets that language on the English page
+    var nav = (navigator.language || '').toLowerCase();
+    if (LANG === 'en') Object.keys(I18N).forEach(function (k) { if (k !== 'en' && nav.indexOf(k.toLowerCase().slice(0, 2)) === 0 && ['ko', 'ja', 'zh-TW', 'zh-CN'].indexOf(k) < 0) uiLang = k; });
+  }
+  var T;
+  function applyLang(l) {
+    uiLang = l;
+    var base = I18N.en, t = I18N[l] || base;
+    T = {}; Object.keys(base).forEach(function (k) { T[k] = t[k] !== undefined ? t[k] : base[k]; });
+    var site = { ko: 'ko', ja: 'ja', 'zh-TW': 'zh-tw' }[l] || 'en';
+    UI = Object.assign({}, UI_ALL[site], { lKo: T.ko, lJa: T.ja, lZh: T.zh, roman: T.roman + ' (RR)', approx: T.approx, empty: T.empty, none: T.none, privacy: T.privacy });
+    root.setAttribute('dir', t._rtl ? 'rtl' : 'ltr');
+  }
+  applyLang(uiLang);
+  var L3 = function () { return uiLang === 'ko' ? 'ko' : uiLang === 'ja' ? 'ja' : (uiLang === 'zh-TW' || uiLang === 'zh-CN') ? 'zh' : 'en'; };
+  var esc = function (t) { return String(t).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+  var MAIL = 'gibyeol.official@gmail.com';
+  function mail(subject, label) { return '<a href="mailto:' + MAIL + '?subject=' + encodeURIComponent(subject) + '">' + label + '</a>'; }
+
+  function shell() {
+    var opts = Object.keys(I18N).map(function (k) { return '<option value="' + k + '"' + (k === uiLang ? ' selected' : '') + '>' + I18N[k]._n + '</option>'; }).join('');
+    root.innerHTML =
+      '<div class="namer-langbar"><label>' + T.lang + ' <select class="namer-lang">' + opts + '</select></label></div>' +
+      '<form class="namer-form"><label class="vh" for="namer-in">' + T.ph + '</label>' +
+      '<input id="namer-in" type="text" autocomplete="off" maxlength="40" placeholder="' + esc(T.ph) + '">' +
+      '<button type="submit">' + T.go + '</button></form>' +
+      '<p class="namer-privacy">' + T.privacy + '</p><div class="namer-out" aria-live="polite"></div>';
+    input = root.querySelector('input'); out = root.querySelector('.namer-out');
+    root.querySelector('form').addEventListener('submit', function (e) { e.preventDefault(); render(input.value); });
+    root.querySelector('.namer-lang').addEventListener('change', function (e) {
+      var v = input.value; applyLang(e.target.value); shell(); input.value = v; if (v) render(v);
+    });
+  }
+  var input, out;
+
+  function lname(en) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[en], k = L3(); return m && m[k] ? m[k] : en; }
+  function rname(en) { var m = window.NADRI_RNAMES && window.NADRI_RNAMES[en], k = L3(); return m && m[k] ? m[k] : en; }
+  var LANG_ORDER = ['Spanish', 'French', 'German', 'Italian', 'Portuguese', 'Russian', 'Polish', 'Dutch', 'Greek', 'Arabic', 'Hebrew', 'Turkish', 'Persian', 'Hungarian', 'Finnish', 'Czech', 'Irish', 'Catalan', 'Croatian', 'Danish', 'Norwegian', 'Swedish', 'Icelandic', 'Ukrainian', 'Bulgarian', 'Romanian', 'Georgian', 'Armenian', 'Indonesian', 'Swahili', 'Hawaiian', 'Māori'];
 
   function render(name) {
     var r = convert(name);
-    if (!r) { out.innerHTML = '<p>' + UI.empty + '</p>'; return; }
-    if (r.error) { out.innerHTML = '<p>' + UI.none + '</p>'; return; }
-    var esc = function (t) { return String(t).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
-    var L = LANG === 'zh-tw' ? 'zh' : LANG, pre = LANG === 'en' ? '' : '/' + LANG;
+    if (!r) { out.innerHTML = '<p>' + T.empty + '</p>'; return; }
+    if (r.error) { out.innerHTML = '<p>' + T.none + '</p>'; return; }
+    var k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
+    var key = r.meaning ? r.meaning.key : (r.firstKey || null);
+    var B = (window.NADRI_BTN || {})[r.firstKey] || (key && (window.NADRI_BTN || {})[key]) || null;
     var h = '';
-    h += '<h3 class="namer-h">' + UI.secSound + '</h3>' + r.sounds.map(function (l) { return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + '</strong></div>'; }).join('');
-    if (r.meaning) {
-      var e = r.meaning.e;
-      h += '<h3 class="namer-h">' + UI.secMeaning + ' <span class="namer-conf c-' + e.c + '">' + UI.conf[e.c] + '</span></h3>' +
-        '<p class="namer-mean">' + esc(e.m[L]) + ' <span class="namer-origin">(' + esc(e.o) + ')</span></p>';
-      if (e.w) h += '<p class="namer-sub"><span>' + UI.word + '</span> 한국어 ' + esc(e.w.ko) + ' · 日本語 ' + esc(e.w.ja) + ' · 中文 ' + esc(e.w.zh) + '</p>';
-      if (e.i) h += '<p class="namer-sub"><span>' + UI.idea + '</span> <strong>' + esc(e.i.ko) + '</strong> · ' + esc(e.i.ja) + ' · ' + esc(e.i.zh) + '</p>';
-      h += '<p class="namer-src"><a href="https://www.behindthename.com/name/' + encodeURIComponent(r.meaning.key) + '" rel="noopener" target="_blank">' + UI.src + '</a></p>';
-    } else if (r.noMeaning) {
-      h += '<h3 class="namer-h">' + UI.secMeaning + '</h3><p class="namer-sub">' + UI.noMeaning + '</p>';
+    // 1. sound
+    h += '<h3 class="namer-h">' + T.sound + '</h3>' + r.sounds.map(function (l) { return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + '</strong></div>'; }).join('');
+    // 2. meaning
+    if (r.meaning || B) {
+      var e = r.meaning ? r.meaning.e : {}, conf = e.c || 'h';
+      var local = e.m && e.m[k3] && k3 !== 'en' ? e.m[k3] : null;
+      var root2 = r.meaning && r.meaning.alias ? ' · ' + esc(name.trim().split(' ')[0]) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : '';
+      h += '<h3 class="namer-h">' + T.meaning + root2 + ' <span class="namer-conf c-' + conf + '">' + T.conf[conf] + '</span></h3>';
+      if (local) h += '<p class="namer-mean">' + esc(local) + '</p>';
+      if (B) h += '<p class="' + (local ? 'namer-sub' : 'namer-mean') + '">' + esc(B.meaning) + ' <span class="namer-origin">(' + esc(B.origin) + ')</span></p>';
+      else if (e.m) h += '<p class="namer-mean">' + esc(e.m.en) + '</p>';
+      if (e.w) h += '<p class="namer-sub"><span>' + T.meaning + ' · 한국어 / 日本語 / 中文</span> ' + esc(e.w.ko) + ' / ' + esc(e.w.ja) + ' / ' + esc(e.w.zh) + '</p>';
+      if (e.i) h += '<p class="namer-sub"><span>' + T.idea + '</span> <strong>' + esc(e.i.ko) + '</strong> · ' + esc(e.i.ja) + ' · ' + esc(e.i.zh) + '</p>';
+      h += '<p class="namer-src">' + T.src + ': <a href="https://www.behindthename.com/name/' + encodeURIComponent(r.firstKey || key) + '" rel="noopener" target="_blank">Behind the Name</a></p>';
+    } else if (r.kind === 'latin') {
+      h += '<h3 class="namer-h">' + T.meaning + '</h3><p class="namer-sub">' + mail('Nadri name meaning: ' + name, T.native) + '</p>';
     }
     if (r.chars) {
-      h += '<h3 class="namer-h">' + UI.secMeaning + '</h3><p class="namer-sub"><span>' + UI.chars + '</span></p><ul class="namer-chars">' + r.chars.map(function (x) {
+      h += '<h3 class="namer-h">' + T.meaning + ' · ' + T.chars + '</h3><ul class="namer-chars">' + r.chars.map(function (x) {
         return '<li><b>' + esc(x.c) + '</b> ' + (x.ko ? esc(x.ko) + ' ' : '') + esc(x.read || '') + (x.en ? ' <i>' + esc(x.en) + '</i>' : '') + '</li>';
       }).join('') + '</ul>';
     }
-    var steps = r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
-    var chainHtml = steps ? '<div class="namer-chain"><h3 class="namer-h">' + UI.secChain + '</h3><ol>' + steps.map(function (st) {
-      return '<li>' + esc(st[L]) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '</li>';
-    }).join('') + '</ol></div>' : '';
     var seal = r.hangul.replace(/ /g, '').length <= 9 ? sealSVG(esc(r.hangul)) : '';
-    out.innerHTML = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
-      '<p class="namer-note' + (r.approx ? ' approx' : '') + '">' + r.note + '</p>' +
-      '<p class="namer-actions"><button type="button" class="namer-save">' + UI.save + '</button> <button type="button" class="namer-share">' + UI.share + '</button></p>' +
-      '<p class="namer-wrong"><a href="mailto:gibyeol.official@gmail.com?subject=' + encodeURIComponent('Nadri name: ' + name) + '">' + UI.wrong + '</a></p></div></div>' + chainHtml;
+    var card = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
+      (r.approx || !r.meaning ? '<p class="namer-note' + (r.approx ? ' approx' : '') + '">' + (r.approx ? T.approx : r.note) + '</p>' : '') +
+      '<p class="namer-actions"><button type="button" class="namer-save">' + T.save + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
+      '<p class="namer-wrong">' + mail('Nadri name: ' + name, T.wrong) + '</p></div></div>';
+    // 3. your name in other countries
+    var more = '';
+    if (B && B.variants && Object.keys(B.variants).length) {
+      var langs = Object.keys(B.variants).filter(function (lg) { return !/^(Biblical|Medieval|Ancient|Germanic|Late Roman|Old )/.test(lg) && lg.indexOf('(') < 0; }).sort(function (a, b) { var ia = LANG_ORDER.indexOf(a), ib = LANG_ORDER.indexOf(b); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib); });
+      more += '<section class="namer-sec"><h3 class="namer-h">' + T.variants + '</h3><ul class="namer-var">' + langs.map(function (lg) {
+        return '<li><span>' + esc(lname(lg)) + '</span><b>' + esc(B.variants[lg].slice(0, 3).join(' · ')) + '</b></li>';
+      }).slice(0, 18).join('') + '</ul><p class="namer-src">' + T.src + ': Behind the Name · ' + mail('Nadri name in my language: ' + name, T.native) + '</p></section>';
+    }
+    // 4. where it is most loved
+    if (B && B.top && B.top.length) {
+      more += '<section class="namer-sec"><h3 class="namer-h">' + T.popular + '</h3><ol class="namer-top">' + B.top.slice().sort(function (a, b) { return a[2] - b[2] || b[1] - a[1]; }).map(function (t) {
+        return '<li><span>' + esc(rname(t[0])) + '</span><b>' + T.rank.replace('{r}', t[2]).replace('{y}', t[1]) + '</b></li>';
+      }).join('') + '</ol><p class="namer-src">' + T.popularNote + '</p></section>';
+    }
+    // 5. chain into Korea, with the slot for travellers' lines and the next name
+    var steps = r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
+    if (steps) {
+      more += '<section class="namer-sec namer-chain"><h3 class="namer-h">' + T.chain + '</h3><ol>' + steps.map(function (st) {
+        return '<li>' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') +
+          '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>';
+      }).join('') + '</ol><div class="namer-oneline"><b>' + T.oneLine + '</b><p>' + mail('Nadri one line: ' + r.chain, T.oneLineEmpty) + '</p></div></section>';
+    }
+    var rel = (window.NADRI_RELATED || {})[key] || (window.NADRI_RELATED || {})[r.firstKey];
+    if (rel) more += '<p class="namer-next"><span>' + T.related + '</span> ' + rel.map(function (n) { return '<button type="button" data-n="' + n + '">' + n.charAt(0).toUpperCase() + n.slice(1) + '</button>'; }).join(' ') + '</p>';
+    out.innerHTML = card + more;
     var svg = out.querySelector('svg');
-    out.querySelector('.namer-save').onclick = function () { if (svg) savePNG(svg, r.hangul); };
-    out.querySelector('.namer-share').onclick = function (e) {
-      var url = location.origin + location.pathname + '?n=' + encodeURIComponent(name);
-      (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(function () { e.target.textContent = UI.copied; }, function () { prompt('', url); });
+    out.querySelector('.namer-save').onclick = function () { if (svg) saveCard(svg, r, name, B); };
+    out.querySelector('.namer-share').onclick = function (ev) {
+      var url = location.origin + location.pathname + '?n=' + encodeURIComponent(name) + (uiLang !== SITE2UI[LANG] ? '&hl=' + uiLang : '');
+      (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(function () { ev.target.textContent = T.copied; }, function () { prompt('', url); });
     };
+    Array.prototype.forEach.call(out.querySelectorAll('.namer-next button'), function (b) { b.onclick = function () { input.value = b.getAttribute('data-n'); render(input.value); root.scrollIntoView({ behavior: 'smooth' }); }; });
   }
 
-  function savePNG(svg, name) {
-    var data = new XMLSerializer().serializeToString(svg);
-    var img = new Image(), scale = 3;
+  /* shareable card: seal + name + meaning + address */
+  function saveCard(svg, r, name, B) {
     var ready = document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve();
     ready.then(function () {
-      // draw text with the page font so the exported seal matches what is on screen
-      var c = document.createElement('canvas'); c.width = c.height = 240 * scale;
-      var g = c.getContext('2d'); g.scale(scale, scale);
+      var W = 720, H = 960, c = document.createElement('canvas'); c.width = W * 2; c.height = H * 2;
+      var g = c.getContext('2d'); g.scale(2, 2);
+      g.fillStyle = '#f4f0e6'; g.fillRect(0, 0, W, H);
+      g.strokeStyle = '#16151a'; g.lineWidth = 2; g.strokeRect(24, 24, W - 48, H - 48);
+      g.save(); g.translate((W - 360) / 2, 90); g.scale(1.5, 1.5);
       g.fillStyle = '#b3261e'; roundRect(g, 6, 6, 228, 228, 14); g.fill();
       g.strokeStyle = '#f4f0e6'; g.lineWidth = 3; roundRect(g, 14, 14, 212, 212, 8); g.stroke();
       g.fillStyle = '#f4f0e6'; g.textAlign = 'center';
-      Array.prototype.forEach.call(svg.querySelectorAll('text'), function (t) {
-        g.font = t.getAttribute('font-size') + 'px "Song Myung", serif';
-        g.fillText(t.textContent, +t.getAttribute('x'), +t.getAttribute('y'));
-      });
-      var a = document.createElement('a'); a.download = 'nadri-' + name.replace(/ /g, '') + '.png'; a.href = c.toDataURL('image/png'); a.click();
+      Array.prototype.forEach.call(svg.querySelectorAll('text'), function (t) { g.font = t.getAttribute('font-size') + 'px "Song Myung", serif'; g.fillText(t.textContent, +t.getAttribute('x'), +t.getAttribute('y')); });
+      g.restore();
+      g.fillStyle = '#16151a'; g.textAlign = 'center';
+      g.font = '44px "Song Myung", serif'; g.fillText(r.hangul, W / 2, 520);
+      g.font = '26px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(name, W / 2, 565);
+      var e = r.meaning && r.meaning.e, k3 = L3(), line = e && e.m ? (e.m[k3] || e.m.en) : (B ? B.meaning : '');
+      if (line) { g.fillStyle = '#16151a'; g.font = '30px "Song Myung", serif'; wrap(g, line, W / 2, 640, W - 140, 42); }
+      g.fillStyle = '#b3261e'; g.font = '600 20px "IBM Plex Mono", monospace'; g.fillText('nadri-guide.pages.dev/name', W / 2, H - 60);
+      var a = document.createElement('a'); a.download = 'nadri-' + r.hangul.replace(/ /g, '') + '.png'; a.href = c.toDataURL('image/png'); a.click();
     });
-    void data; void img;
+  }
+  function wrap(g, text, x, y, max, lh) {
+    var words = text.split(/(\s+)/), line = '', n = 0;
+    if (!/\s/.test(text)) words = text.split('');
+    words.forEach(function (w) { var t = line + w; if (g.measureText(t).width > max && line) { g.fillText(line.trim(), x, y + n * lh); n++; line = w; } else line = t; });
+    if (line && n < 4) g.fillText(line.trim(), x, y + n * lh);
   }
   function roundRect(g, x, y, w, h, r) { g.beginPath(); g.moveTo(x + r, y); g.arcTo(x + w, y, x + w, y + h, r); g.arcTo(x + w, y + h, x, y + h, r); g.arcTo(x, y + h, x, y, r); g.arcTo(x, y, x + w, y, r); g.closePath(); }
 
-  root.querySelector('form').addEventListener('submit', function (e) { e.preventDefault(); render(input.value); });
-  var q = new URLSearchParams(location.search).get('n');
+  shell();
+  var q = params.get('n');
   if (q) { input.value = q; render(q); }
 
-  window.NadriName = { convert: convert }; // for tests
+  window.NadriName = { convert: convert, setLang: function (l) { applyLang(l); shell(); } }; // for tests
 })();

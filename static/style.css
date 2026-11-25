@@ -233,3 +233,14 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .namer-chars li{border:1px solid var(--hair);padding:6px 8px;background:#fffdf8}.namer-chars b{font:400 1.4rem 'Song Myung',serif;margin-right:6px}.namer-chars i{color:var(--muted);font-size:.85rem}
 .namer-chain{border:1px solid var(--ink);border-top:0;padding:4px 20px 16px;background:#fffdf8}
 .namer-chain ol{margin:6px 0 0;padding-left:1.2em}.namer-chain li{margin:6px 0}.namer-chain a{font-weight:600;text-decoration:none}
+.namer-langbar{display:flex;justify-content:flex-end;margin-bottom:6px}.namer-langbar label{font:500 .8rem var(--mono);color:var(--muted)}
+.namer-langbar select{font:400 .9rem var(--text);padding:4px 6px;border:1px solid var(--ink);background:#fffdf8;color:var(--ink);margin-left:6px}
+.namer-sec{border:1px solid var(--ink);border-top:0;padding:4px 20px 16px;background:#fffdf8}
+.namer-var{list-style:none;padding:0;margin:6px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:6px 14px}
+.namer-var li{display:flex;flex-direction:column;border-bottom:1px solid var(--hair);padding:4px 0}.namer-var span{font-size:.78rem;color:var(--muted)}.namer-var b{font:400 1.1rem 'Song Myung',serif}
+.namer-top{margin:6px 0;padding-left:1.4em}.namer-top li{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--hair);padding:4px 0}.namer-top b{font:600 .85rem var(--mono);white-space:nowrap}
+.namer-step{display:block;font-size:.78rem;color:var(--muted);margin-top:2px}
+.namer-oneline{margin-top:12px;border:1px dashed var(--rule);padding:10px 12px}.namer-oneline p{margin:4px 0 0;font-size:.9rem}
+.namer-next{margin:10px 0 0;display:flex;flex-wrap:wrap;gap:6px;align-items:center}.namer-next span{font:500 .78rem var(--mono);color:var(--muted)}
+.namer-next button{font:600 .9rem var(--text);border:1px solid var(--ink);background:none;padding:6px 12px;cursor:pointer;color:var(--ink)}
+#namer[dir=rtl] .namer-text,#namer[dir=rtl] .namer-sec{text-align:right}
