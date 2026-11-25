@@ -206,3 +206,19 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 /* show-a-stranger phrase cards (emergency guide) */
 .say{border:1px solid var(--ink);background:var(--card);padding:14px 18px;margin:0 0 10px}
 .say p{margin:0}.say-ko{font:700 1.35rem/1.45 var(--text);word-break:keep-all}.say-tr{color:var(--muted);font-size:.92rem;margin-top:4px!important}
+/* name stamp (fun) */
+.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.namer-form{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 4px}
+.namer-form input{flex:1 1 220px;min-width:0;font:400 1.1rem var(--text);padding:12px 14px;border:1px solid var(--ink);background:#fffdf8;color:var(--ink)}
+.namer-form button,.namer-actions button{font:600 .95rem var(--text);padding:12px 18px;border:1px solid var(--ink);background:var(--ink);color:var(--paper);cursor:pointer}
+.namer-actions button{padding:8px 12px;font-size:.85rem}
+.namer-actions button.namer-share{background:none;color:var(--ink)}
+.namer-privacy{color:var(--muted);font-size:.85rem;margin:0 0 18px}
+.namer-card{display:flex;gap:22px;flex-wrap:wrap;align-items:flex-start;border:1px solid var(--ink);padding:20px;background:var(--card) url(/static/hanji.jpg) 0 0/420px}
+.namer-seal svg{width:180px;height:180px;display:block}
+.namer-text{flex:1 1 220px;min-width:0}
+.namer-line{display:flex;flex-direction:column;margin-bottom:10px}
+.namer-line span{font:500 .72rem var(--mono);letter-spacing:.06em;color:var(--muted);text-transform:uppercase}
+.namer-line strong{font:400 1.7rem/1.3 'Song Myung',serif;word-break:keep-all}
+.namer-note{font-size:.88rem;color:var(--muted)}.namer-note.approx{color:#8a3b12}
+.namer-wrong{font-size:.82rem;margin:0}

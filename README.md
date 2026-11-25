@@ -22,5 +22,8 @@ Cloudflare Pages settings: **Build command** `python3 build.py`, **Build output 
 - **Audience-only pages**: a page written for one audience (e.g. Korean travellers going abroad, in `content/ko/`) adds `only: ko` to its front matter and exists only in that language.
 - Analytics: put the Cloudflare Web Analytics token in `data/site.json` → `analytics.cloudflare_token` (public value). Or turn on Web Analytics in the Pages project settings instead; then leave the token empty.
 - Front matter: `title`, `description`, `lede`, `section` (essentials / oy / tax / deals), `disclosure: yes` on pages with affiliate buttons, `updated`.
-- Shortcodes on their own line: `{{deals}}`, `{{deals:2}}`, `{{aff:key|Button text}}`.
+- Front matter extras: `report: no` hides the report button, `byline: no` hides the "checked against official sources" line (tools and hubs).
+- Shortcodes on their own line: `{{deals}}`, `{{deals:2}}`, `{{aff:key|Button text}}`, `{{guides}}` (all guide groups), `{{guides:olive-young}}` (only the group holding that page).
+- Name stamp (`/name/`): `static/name.js` + `static/hanja-ko.js` (Korean readings of CJK characters, from the hanja package / Unicode Unihan). Add checked Latin-alphabet names to the `LIST` string in name.js.
+- `robots.txt` asks AI training crawlers to stay out; search crawlers are allowed. See trendmin-threads ops/content-protection.md.
 - Every guide ends with a Sources section. Byline is "the Nadri editors"; never write as if we used a product.

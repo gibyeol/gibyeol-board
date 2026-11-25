@@ -47,7 +47,7 @@ def shortcode(line, lang):
     if kind == "board":
         return countdown(lang, int(key) if key else 5)
     if kind == "guides":
-        return guides_index(lang)
+        return guides_index(lang, only=key)  # {{guides:olive-young}} = only the group holding that page
     if kind == "codes":
         return codes_table(lang)
     if kind == "aff":
@@ -271,9 +271,11 @@ GUIDE_GROUPS = [
 PAGES = {}
 
 
-def guides_index(lang):
+def guides_index(lang, only=None):
     pre, out = SITE["languages"][lang]["prefix"], []
     for slugs, label in GUIDE_GROUPS:
+        if only and only not in slugs:
+            continue
         items = [(s, PAGES[(lang, s)][0]) for s in slugs if (lang, s) in PAGES]
         if not items:
             continue
@@ -457,7 +459,7 @@ def page(lang, meta, body_html, path, alternates):
     if meta.get("disclosure") == "yes":
         body_html = f'<p class="disclosure">{ui["disclosure_inline"]}</p>' + body_html
     byline = ""
-    if not meta.get("home") and meta.get("updated"):
+    if not meta.get("home") and meta.get("updated") and meta.get("byline") != "no":
         byline = f'<p class="byline">{ui["byline"].format(date=meta["updated"])}</p>'
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
     header_block = "" if meta.get("home") else f"<header class=\"page-head\"><h1>{inline(title)}</h1>{lede}{byline}</header>"
@@ -562,7 +564,10 @@ def build():
     (DIST / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>',
         encoding="utf-8")
-    (DIST / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n", encoding="utf-8")
+    # AI training crawlers are asked to stay out; search and AI-search crawlers stay allowed (ops/content-protection.md, 2026-11-25)
+    train = ["GPTBot", "CCBot", "Google-Extended", "anthropic-ai", "ClaudeBot", "Bytespider", "Applebot-Extended", "meta-externalagent", "cohere-training-data-crawler", "Diffbot", "omgili"]
+    blocked = "".join(f"User-agent: {b}\nDisallow: /\n\n" for b in train)
+    (DIST / "robots.txt").write_text(f"{blocked}User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n", encoding="utf-8")
     (DIST / "404.html").write_text(page("en", {"title": "Page not found", "noindex": "yes"},
         '<p>This page does not exist. Start from the <a href="/">Nadri home page</a>.</p>', "/404", {}),
         encoding="utf-8")

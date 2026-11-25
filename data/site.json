@@ -28,27 +28,23 @@
    "nav": [
     [
      "/guides/",
-     "All guides A–Z"
+     "Guides"
     ],
     [
-     "/essentials/",
-     "Before you go"
-    ],
-    [
-     "/getting-around/",
-     "Getting around"
-    ],
-    [
-     "/money/",
-     "Money"
-    ],
-    [
-     "/olive-young/",
-     "Olive Young"
+     "/shopping/",
+     "Shopping"
     ],
     [
      "/deals/",
      "Deals board"
+    ],
+    [
+     "/updates/",
+     "News"
+    ],
+    [
+     "/name/",
+     "Fun: name stamp"
     ]
    ],
    "nav_label": "Main",
@@ -78,9 +74,13 @@
     [
      "/updates/",
      "Updates"
+    ],
+    [
+     "/reuse/",
+     "Copyright and reuse"
     ]
    ],
-   "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide.",
+   "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide. © 2026 Nadri. Quote a line and link to us any time; please don't copy whole guides.",
    "report_title": "Spot something out of date?",
    "report_body": "Korean entry, tax and transit rules change often. This guide was last checked on {date}. If something here no longer matches what you saw, tell us and we will re-check it against the official source.",
    "report_cta": "Report an update",
@@ -93,27 +93,23 @@
    "nav": [
     [
      "/guides/",
-     "ガイド一覧"
+     "ガイド"
     ],
     [
-     "/essentials/",
-     "出発前の準備"
-    ],
-    [
-     "/getting-around/",
-     "交通"
-    ],
-    [
-     "/money/",
-     "お金"
-    ],
-    [
-     "/olive-young/",
-     "オリーブヤング"
+     "/shopping/",
+     "ショッピング"
     ],
     [
      "/deals/",
      "セール情報"
+    ],
+    [
+     "/updates/",
+     "お知らせ"
+    ],
+    [
+     "/name/",
+     "遊び:名前はんこ"
     ]
    ],
    "nav_label": "メイン",
@@ -143,9 +139,13 @@
     [
      "/updates/",
      "更新履歴"
+    ],
+    [
+     "/reuse/",
+     "著作権と引用"
     ]
    ],
-   "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。",
+   "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。 © 2026 Nadri. 一文の引用とリンクは歓迎、ガイド全体の転載はご遠慮ください。",
    "report_title": "情報が古くなっていませんか?",
    "report_body": "韓国の入国・免税・交通のルールはよく変わります。このガイドの最終確認日は{date}です。実際と違う点があれば教えてください。公式情報で確認し直します。",
    "report_cta": "更新をリクエスト",
@@ -158,27 +158,23 @@
    "nav": [
     [
      "/guides/",
-     "全部指南"
+     "指南"
     ],
     [
-     "/essentials/",
-     "出發前準備"
-    ],
-    [
-     "/getting-around/",
-     "交通"
-    ],
-    [
-     "/money/",
-     "付款"
-    ],
-    [
-     "/olive-young/",
-     "Olive Young"
+     "/shopping/",
+     "購物"
     ],
     [
      "/deals/",
      "特賣看板"
+    ],
+    [
+     "/updates/",
+     "消息"
+    ],
+    [
+     "/name/",
+     "好玩:名字印章"
     ]
    ],
    "nav_label": "主選單",
@@ -208,9 +204,13 @@
     [
      "/updates/",
      "更新紀錄"
+    ],
+    [
+     "/reuse/",
+     "著作權與引用"
     ]
    ],
-   "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。",
+   "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。 © 2026 Nadri。歡迎引用一兩句並附上連結,請勿整篇轉載。",
    "report_title": "發現資訊過時了嗎?",
    "report_body": "韓國的入境、退稅和交通規定常常改變。這篇指南最後確認日期是 {date}。如果和你實際看到的不一樣,請告訴我們,我們會再依官方資料確認。",
    "report_cta": "回報需要更新",
@@ -223,27 +223,23 @@
    "nav": [
     [
      "/guides/",
-     "전체 가이드"
+     "가이드"
     ],
     [
-     "/essentials/",
-     "출발 전 준비"
-    ],
-    [
-     "/getting-around/",
-     "교통"
-    ],
-    [
-     "/money/",
-     "돈"
-    ],
-    [
-     "/olive-young/",
-     "올리브영"
+     "/shopping/",
+     "쇼핑"
     ],
     [
      "/deals/",
      "할인 상황판"
+    ],
+    [
+     "/updates/",
+     "소식"
+    ],
+    [
+     "/name/",
+     "오락실: 이름 도장"
     ]
    ],
    "nav_label": "메뉴",
@@ -273,9 +269,13 @@
     [
      "/updates/",
      "업데이트 기록"
+    ],
+    [
+     "/reuse/",
+     "저작권과 인용"
     ]
    ],
-   "foot_note": "Nadri는 독립 여행 가이드예요. 규정은 바뀔 수 있으니 입국·세금 규정은 각 가이드에 연결된 공식 사이트에서 최종 확인하세요.",
+   "foot_note": "Nadri는 독립 여행 가이드예요. 규정은 바뀔 수 있으니 입국·세금 규정은 각 가이드에 연결된 공식 사이트에서 최종 확인하세요. © 2026 Nadri. 한두 문장 인용과 링크는 환영해요. 가이드 전체를 옮겨 싣지는 말아 주세요.",
    "report_title": "바뀐 정보를 발견했나요?",
    "report_body": "한국의 입국·면세·교통 규정은 자주 바뀝니다. 이 페이지의 마지막 확인일은 {date}입니다. 실제와 다른 점이 있으면 알려주세요. 공식 출처로 다시 확인하겠습니다.",
    "report_cta": "업데이트 요청하기",
