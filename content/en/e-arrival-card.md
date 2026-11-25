@@ -42,6 +42,8 @@ A submitted card expires 72 hours after you submit it, or once you pass immigrat
 
 There is no app; the form runs in a phone or computer browser. The site has seven interface languages, but **you can only type in English or Korean**, so have your hotel address in English ready.
 
+{{fig:e-arrival-card-4|The form, screen by screen}}
+
 1. **Terms and email.** Agree to the terms and enter your email twice. This person is the representative and must be 14 or older.
 2. **Passport.** Scan the photo page with your camera or upload a picture; type it in by hand if the scan fails. Check every letter against the passport.
 3. **Arrival.** Arrival date and flight number.
@@ -74,6 +76,8 @@ The paper card was the default until the e-Arrival Card launched on 24 February 
 ## How it relates to K-ETA
 
 They are different things. K-ETA is a travel authorisation for visa-free nationals, costs ₩10,000 and is applied for before you fly. The e-Arrival Card is the free replacement for the paper landing card.
+
+{{fig:e-arrival-card-5|K-ETA and the e-Arrival Card side by side}}
 
 - Most short-stay visitors from 22 countries and regions, including the US, are temporarily exempt from K-ETA. The official K-ETA site's notice of 23 December 2025 sets the end of that exemption at **31 December 2026**. Exempt travellers file the e-Arrival Card instead.
 - You can still apply for a K-ETA voluntarily. The only gain is skipping the arrival card, and the fee applies. For a single short trip, the free card is the better deal.

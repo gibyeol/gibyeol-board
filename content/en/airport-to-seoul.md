@@ -25,6 +25,8 @@ Take it only if your hotel is near Seoul Station; otherwise the time it saves go
 
 The Express runs nonstop to Seoul Station in 43 minutes from Terminal 1 and 51 minutes from Terminal 2. The adult fare is ₩13,000, every seat is reserved, and there is free Wi-Fi. You can buy the ticket on arrival at the Express counter in the Transportation Center (B1, Terminal 1) or online; booking ahead is not required.
 
+{{fig:airport-to-seoul-2|Express and all-stop run on the same line}}
+
 If you would rather have the ticket on your phone before you land:
 
 {{aff:klook_airport|Book an AREX Express ticket in advance}}
@@ -35,6 +37,8 @@ For Hongdae and Gongdeok this beats the Express: same line, about a third of the
 
 It takes 59 minutes from Terminal 1 to Seoul Station (66 from Terminal 2). By transport card it costs ₩4,750 to Seoul Station and ₩4,650 to Hongik Univ. or Gongdeok; from Terminal 2 add ₩600. Seats are unreserved, like the subway, and at rush hour it fills with commuters.
 
+{{fig:airport-to-seoul-3|Where to find the bus and the train at Terminal 1}}
+
 1. Follow the signs to the Transportation Center on B1.
 2. Get a transport card at a card machine or the convenience store there, and load it.
 3. Tap in at the AREX gate.
@@ -42,13 +46,13 @@ It takes 59 minutes from Terminal 1 to Seoul Station (66 from Terminal 2). By tr
 
 > Climate Card trap: since 1 October 2026 the Climate Card short-term pass lets you ride to the airport and get off at Terminal 1 or 2, but you cannot board with it at the airport stations. For the ride into Seoul, pay with T-money.
 
+{{fig:airport-to-seoul-4|T-money or WOWPASS: what each card does}}
+
 The airport shops sell transport cards, so pre-ordering is optional. If you want one waiting for you:
 
 {{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
 
 {{aff:klook_wowpass|Or a WOWPASS: money exchange, card payments and T-money in one}}
-
-{{fig:airport-to-seoul-2|Where to find the bus and the train at Terminal 1}}
 
 ## Airport limousine bus: the one people overlook
 
@@ -58,23 +62,27 @@ The ride takes about 60–80 minutes and adult fares into Seoul are ₩16,000–
 
 1. Find your route number. Examples: **6001** Myeongdong and Dongdaemun, **6002** Hongdae and Jongno, **6020** Gangnam, **6200** Jamsil, **6701** Gwanghwamun and City Hall.
 2. Buy a ticket at the bus counter or a kiosk: Terminal 1 first floor (1F), Terminal 2 basement level. Cards are accepted.
-3. Go to the stop printed on your ticket.
+3. Go to the stop printed on your ticket. It also shows your destination, fare and boarding time.
 4. Hand your bags to the staff (up to two per person, 28 inches or smaller) and keep the claim tag.
 5. Get off at the announced stop and match the tag number to your bag.
+
+{{fig:airport-to-seoul-5|What your airport bus ticket shows}}
 
 ## Taxi: for three or four with bags
 
 The International Taxi has fixed fares from Incheon to Seoul, tolls included, which removes the meter worry.
 
-A mid-size car costs ₩70,000 (Gangseo) to ₩95,000 (Songpa, Gangdong and other eastern districts); Myeongdong's district, Jung-gu, is ₩85,000. Large and deluxe cars are ₩100,000–140,000. Desks are in both terminals and foreign cards are accepted. Split four ways, ₩85,000 is about ₩21,000 each, close to the bus fare.
+Mid-size fares by district: ₩70,000 Gangseo; ₩75,000 Mapo (Hongdae), Yeongdeungpo, Eunpyeong and others; ₩85,000 Jung (Myeongdong), Jongno, Yongsan and others; ₩90,000 Gangnam, Seocho, Seongdong and others; ₩95,000 Songpa (Jamsil), Gangdong, Gwangjin and others. Large and deluxe cars are ₩100,000–140,000. Desks are in both terminals and foreign cards are accepted. Split four ways, ₩85,000 is about ₩21,000 each, close to the bus fare.
+
+{{fig:airport-to-seoul-6|International Taxi fixed fares from Incheon, mid-size}}
 
 ## Landing late
 
 Decide before you fly, because the trains stop earlier than people expect.
 
-{{fig:airport-to-seoul-3|What still runs from Terminal 1 late at night}}
+{{fig:airport-to-seoul-7|What still runs from Terminal 1 late at night}}
 
-- The last AREX Express leaves Terminal 1 at 22:48 (Terminal 2 at 22:40), on the current weekday and weekend timetables.
+- The last AREX Express leaves Terminal 1 at 22:48 (Terminal 2 at 22:40), on the current weekday and holiday timetables.
 - Visit Seoul tells you to allow 1–2 hours after landing for immigration and baggage, so a flight landing after about 9 p.m. can miss it.
 - The all-stop train runs later; check its last train on the AREX site for your date.
 - After the trains, late-night buses run to Gangnam (N6000), Hongdae and Cheongnyangni (N6002), Seoul Station and Dongdaemun (N6701), and Jamsil and Gwangnaru (N6703) for ₩17,000–18,000. Their first departures from Terminal 1 are between 23:40 and 00:10. Buy the ticket at the bus counter or a machine.

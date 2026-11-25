@@ -29,6 +29,8 @@ Subway gates and buses are tap-only. Use T-money, WOWPASS (T-money inside), or a
 
 **Is the Climate Card short-term pass worth it?** Seoul lists 1, 2, 3, 5 and 7 days at ₩5,000, ₩8,000, ₩10,000, ₩15,000 and ₩20,000, plus ₩3,000 for the card. So one day costs ₩8,000 with the card, about five subway fares; three days cost ₩13,000, about eight. It covers Seoul's subway and Seoul city buses (night buses included) and, since 1 October 2026, getting off at Incheon Airport. It does not cover the Shinbundang Line, GTX, red wide-area buses, airport buses or stations outside Seoul. Our call: worth it at three or more rides a day for three or more days inside Seoul.
 
+{{fig:getting-around-2|Climate Card short-term pass: what it covers}}
+
 ## The subway in three taps
 
 The subway is the backbone; the only rule that costs money is the exit tap.
@@ -37,6 +39,8 @@ The subway is the backbone; the only rule that costs money is the exit tap.
 2. **Follow the line number and colour.** Changing lines inside a station needs no extra gate.
 3. **Tap out** at the exit. The fare is worked out by distance.
 
+{{fig:getting-around-3|Tap in, change lines inside, tap out}}
+
 Fares (adult, since 28 June 2025): **₩1,550** by card for the first 10 km, then ₩100 every 5 km up to 50 km and every 8 km beyond. A single-journey ticket is ₩1,650 plus a ₩500 deposit you get back at the exit. Your first ride before 6:30 a.m. is 20% off with a card. Repeat visitor? The base fare was ₩1,400 before mid-2025.
 
 For routes, use Naver Map or Kakao Map; Subway Korea works offline. Exits, transfers and first-day mistakes: [Seoul subway for first-timers](/seoul-subway/).
@@ -44,6 +48,8 @@ For routes, use Naver Map or Kakao Map; Subway Korea works offline. Exits, trans
 ## Buses: tap off, every time
 
 Buses are easy once you follow two habits: a loaded card when you board, a second tap when you get off.
+
+{{fig:getting-around-4|On a bus you tap twice; the transfer clock starts when you tap off}}
 
 1. **Tap your card** on the reader as you board.
 2. **Tap it again** before you get off. Seoul says that without this tap the transfer chain breaks.
@@ -57,7 +63,7 @@ Bus colours, fares and night buses: [Seoul city buses](/seoul-bus/).
 
 Decide how you get back before dinner, not at the platform.
 
-{{fig:getting-around-2|After dinner: how to get back}}
+{{fig:getting-around-5|After dinner: how to get back}}
 
 - **Last trains:** in 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m. In May 2025 it announced moving Lines 1–8 first and last trains 30 minutes earlier; we could not confirm that this has happened. Times also differ by station, so check yours in Naver Map.
 - **Night buses:** Seoul runs **14 routes** whose numbers start with N, between 11 p.m. and 6 a.m., for ₩2,500 by card. The Climate Card covers them.
@@ -66,7 +72,7 @@ Decide how you get back before dinner, not at the platform.
 
 A taxi is the plan B, and the price of plan B depends on the clock.
 
-{{fig:getting-around-3|Regular taxi: base fare by time of night}}
+{{fig:getting-around-6|Regular taxi: base fare by time of night}}
 
 - **Regular (mid-size):** ₩4,800 for the first 1.6 km, then ₩100 per 131 m, or per 30 seconds in slow traffic.
 - **Late night, regular taxis:** +20% from 10 to 11 p.m. and 2 to 4 a.m. (base ₩5,800), +40% from 11 p.m. to 2 a.m. (base ₩6,700).
@@ -74,6 +80,8 @@ A taxi is the plan B, and the price of plan B depends on the clock.
 - **International Taxi (for foreign visitors):** the meter plus up to 20%, or fixed fares from Incheon Airport ([airport page](/airport-to-seoul/)).
 
 **Which app?** Kakao Mobility makes two. **k.ride** is built for visitors: sign up with Google, Apple or email, register an overseas card, and the fare is charged after the ride. Destination search and driver chat are auto-translated, and in Korea it calls Kakao T Blue, Venti, Black and deluxe taxis. Kakao T is the main Korean app; if your foreign card keeps failing there, switch to k.ride.
+
+{{fig:getting-around-7|How k.ride works for visitors}}
 
 Who doesn't need a taxi app: if you are in bed by 11 p.m. and travel light, the subway covers you.
 

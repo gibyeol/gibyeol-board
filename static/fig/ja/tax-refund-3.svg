@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 338" role="img" aria-label="実際に戻る金額" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<rect width="400" height="338" fill="#f4f0e6"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 404" role="img" aria-label="実際に戻る金額" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="404" fill="#f4f0e6"/>
 <text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">実際に戻る金額</text>
 <rect x="16" y="54" width="368" height="90" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
 <text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">価格に付加価値税10%込み</text>
 <text x="30" y="112" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">還付会社が手数料を引くので</text>
 <text x="30" y="134" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">戻るのは約5〜8%</text>
-<rect x="16" y="154" width="368" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<text x="30" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">50,000ウォン</text>
-<text x="370" y="186" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">約2,500ウォン</text>
-<path d="M30 200 H370" stroke="#c9c1b2" stroke-width="1"/>
-<text x="30" y="228" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">300,000ウォン</text>
-<text x="370" y="228" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">約15,000〜24,000</text>
-<path d="M30 242 H370" stroke="#c9c1b2" stroke-width="1"/>
-<text x="30" y="270" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1,000,000ウォン</text>
-<text x="370" y="270" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">約60,000〜80,000</text>
-<text x="16" y="322" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">目安です。正確な額は還付書類に。</text>
+<rect x="16" y="154" width="368" height="202" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<text x="30" y="184" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">50,000ウォン</text>
+<text x="30" y="208" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">約2,500ウォン</text>
+<path d="M30 222 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="248" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">300,000ウォン</text>
+<text x="30" y="272" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">約15,000〜24,000</text>
+<path d="M30 286 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="312" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1,000,000ウォン</text>
+<text x="30" y="336" font-size="18" font-weight="700" fill="#b8392f" text-anchor="start">約60,000〜80,000</text>
+<text x="16" y="388" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">目安です。正確な額は還付書類に。</text>
 </svg>

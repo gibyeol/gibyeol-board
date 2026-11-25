@@ -46,6 +46,8 @@ Our call: for most visitors the instant refund at the till is the whole story. T
 
 For receipts of ₩1,000,000 or more, or shops without the instant system:
 
+{{fig:tax-refund-4|The order that matters at the airport}}
+
 1. **Pay full price and ask for a refund slip.**
 2. **Claim it at a downtown refund kiosk or at the airport.**
 3. **At the airport, do it before you check in your bags.** Customs may want to see the goods.
