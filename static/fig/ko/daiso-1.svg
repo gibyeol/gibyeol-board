@@ -1,30 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="한국 다이소의 균일가 6가지" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<title>한국 다이소의 균일가 6가지</title>
-<rect width="720" height="440" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">한국 다이소의 균일가 6가지</text>
-<line x1="32" y1="320" x2="688" y2="320" stroke="#c9c1b2" stroke-width="2"/>
-<rect x="40" y="300" width="88" height="20" rx="4" fill="#5f5b55"/>
-<text x="84.0" y="290.0" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">₩500</text>
-<text x="84.0" y="346" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">1997</text>
-<rect x="152" y="280" width="88" height="40" rx="4" fill="#5f5b55"/>
-<text x="196.0" y="270.0" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">₩1,000</text>
-<text x="196.0" y="346" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">1997</text>
-<rect x="264" y="260" width="88" height="60" rx="4" fill="#5f5b55"/>
-<text x="308.0" y="250.0" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">₩1,500</text>
-<text x="308.0" y="346" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">1997</text>
-<rect x="376" y="240" width="88" height="80" rx="4" fill="#5f5b55"/>
-<text x="420.0" y="230.0" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">₩2,000</text>
-<text x="420.0" y="346" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">1997</text>
-<rect x="488" y="200" width="88" height="120" rx="4" fill="#16151a"/>
-<text x="532.0" y="190.0" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">₩3,000</text>
-<text x="532.0" y="346" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">2004</text>
-<rect x="600" y="120" width="88" height="200" rx="4" fill="#b8392f"/>
-<text x="644.0" y="110.0" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">₩5,000</text>
-<text x="644.0" y="346" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">2006</text>
-<text x="32" y="372" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="start">도입 연도 →</text>
-<rect x="200" y="74" width="300" height="34" rx="6" fill="#ffffff" stroke="#c9c1b2"/>
-<text x="350" y="97" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">예: VT 리들샷 2ml 스틱 6개</text>
-<line x1="440" y1="108" x2="532.0" y2="168" stroke="#5f5b55" stroke-width="1.5"/>
-<rect x="32" y="396" width="656" height="32" rx="6" fill="#e9e2d3"/>
-<text x="360" y="418" font-size="16" fill="#16151a" font-weight="bold" text-anchor="middle">최고가 ₩5,000. 올릴 계획 없음(2026년 보도).</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" role="img" aria-label="한국 다이소 가격 6가지: ₩500~₩5,000" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>한국 다이소 가격 6가지: ₩500~₩5,000</title>
+<rect width="720" height="400" fill="#f4f0e6"/>
+<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">한국 다이소 가격 6가지: ₩500~₩5,000</text>
+<text x="32" y="78" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="start">최저가와 최고가, 상품 예시</text>
+<line x1="80" y1="210" x2="640" y2="210" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="136.0" y="203" width="504.0" height="14" rx="7" fill="#e9e2d3"/>
+<circle cx="136" cy="210" r="10" fill="#16151a"/>
+<line x1="136" y1="222" x2="136" y2="240" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="136" y="262" font-size="19" fill="#16151a" font-weight="bold" text-anchor="middle">₩500</text>
+<text x="136" y="286" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">최저가</text>
+<circle cx="192" cy="210" r="10" fill="#16151a"/>
+<line x1="192" y1="198" x2="192" y2="176" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="192" y="166" font-size="19" fill="#16151a" font-weight="bold" text-anchor="middle">₩1,000</text>
+<text x="192" y="140" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">시트 마스크</text>
+<circle cx="304" cy="210" r="10" fill="#16151a"/>
+<line x1="304" y1="222" x2="304" y2="240" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="304" y="262" font-size="19" fill="#16151a" font-weight="bold" text-anchor="middle">₩2,000</text>
+<text x="304" y="286" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">네임택</text>
+<circle cx="640" cy="210" r="10" fill="#b8392f"/>
+<line x1="640" y1="198" x2="640" y2="176" stroke="#5f5b55" stroke-width="1.5"/>
+<text x="640" y="166" font-size="19" fill="#b8392f" font-weight="bold" text-anchor="middle">₩5,000</text>
+<text x="640" y="140" font-size="16" fill="#5f5b55" font-weight="normal" text-anchor="middle">무선 마우스</text>
+<text x="640" y="116" font-size="16" fill="#b8392f" font-weight="bold" text-anchor="middle">최고가</text>
+<rect x="32" y="316" width="656" height="64" rx="6" fill="#e9e2d3"/>
+<text x="360" y="342" font-size="16" fill="#16151a" font-weight="bold" text-anchor="middle">가격은 모두 6가지(아성다이소, 2026년 11월).</text>
+<text x="360" y="368" font-size="15" fill="#5f5b55" font-weight="normal" text-anchor="middle">예시: 한국관광공사(2024). 가격표를 확인하세요.</text>
 </svg>

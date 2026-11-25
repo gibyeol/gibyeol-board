@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="15 分鐘逛完大型大創" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<title>15 分鐘逛完大型大創</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="明洞站店大創,4 步驟逛完" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>明洞站店大創,4 步驟逛完</title>
 <rect width="720" height="300" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">15 分鐘逛完大型大創</text>
+<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">明洞站店大創,4 步驟逛完</text>
 <rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="107.0" cy="114" r="20" fill="#16151a"/>
-<text x="107.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="107.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">看電梯旁</text>
-<text x="107.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">樓層指南,</text>
-<text x="107.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">縮到 2~3 層</text>
+<circle cx="107" cy="114" r="20" fill="#16151a"/>
+<text x="107" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="107" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">樓層指南</text>
+<text x="107" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">有英日中文</text>
+<text x="107" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">縮到 2~3 層</text>
 <path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="275.0" cy="114" r="20" fill="#16151a"/>
-<text x="275.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="275.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">先去美妝樓層</text>
-<text x="275.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">熱門商品</text>
-<text x="275.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">很快賣完</text>
+<circle cx="275" cy="114" r="20" fill="#16151a"/>
+<text x="275" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="275" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">美妝在 2 樓</text>
+<text x="275" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">爆紅商品</text>
+<text x="275" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">可能賣完</text>
 <path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="443.0" cy="114" r="20" fill="#16151a"/>
-<text x="443.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="443.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">一個購物籃</text>
-<text x="443.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">= 一張收據</text>
-<text x="443.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">(不能加總)</text>
+<circle cx="443" cy="114" r="20" fill="#16151a"/>
+<text x="443" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="443" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">一次結帳</text>
+<text x="443" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">每張收據</text>
+<text x="443" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">滿 15,000</text>
 <path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="611.0" cy="114" r="20" fill="#b8392f"/>
-<text x="611.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="611.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">結帳時</text>
-<text x="611.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">先出示護照,</text>
-<text x="611.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">再付款</text>
+<circle cx="611" cy="114" r="20" fill="#b8392f"/>
+<text x="611" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="611" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">護照</text>
+<text x="611" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">付款時</text>
+<text x="611" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">出示正本</text>
 </svg>

@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="큰 다이소를 15분에" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
-<title>큰 다이소를 15분에</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="명동역점 다이소, 4단계" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>명동역점 다이소, 4단계</title>
 <rect width="720" height="300" fill="#f4f0e6"/>
-<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">큰 다이소를 15분에</text>
+<text x="32" y="48" font-size="24" fill="#16151a" font-weight="bold" text-anchor="start">명동역점 다이소, 4단계</text>
 <rect x="32" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="107.0" cy="114" r="20" fill="#16151a"/>
-<text x="107.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
-<text x="107.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">엘리베이터 옆</text>
-<text x="107.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">층별 안내 보고</text>
-<text x="107.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">2~3개 층 고르기</text>
+<circle cx="107" cy="114" r="20" fill="#16151a"/>
+<text x="107" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="107" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">층별 안내</text>
+<text x="107" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">영·일·중 안내</text>
+<text x="107" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">2~3개 층 고르기</text>
 <path d="M184 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <rect x="200" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="275.0" cy="114" r="20" fill="#16151a"/>
-<text x="275.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
-<text x="275.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">뷰티 층 먼저</text>
-<text x="275.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">인기 상품은</text>
-<text x="275.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">금방 품절</text>
+<circle cx="275" cy="114" r="20" fill="#16151a"/>
+<text x="275" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="275" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">뷰티는 2층</text>
+<text x="275" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">화제 상품은</text>
+<text x="275" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">품절되기도</text>
 <path d="M352 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <rect x="368" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="443.0" cy="114" r="20" fill="#16151a"/>
-<text x="443.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
-<text x="443.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">한 바구니</text>
-<text x="443.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">= 영수증 한 장</text>
-<text x="443.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">(합산 안 됨)</text>
+<circle cx="443" cy="114" r="20" fill="#16151a"/>
+<text x="443" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="443" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">한 번에 계산</text>
+<text x="443" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">영수증마다</text>
+<text x="443" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">₩15,000 이상</text>
 <path d="M520 175 l12 0 m-6 -6 l6 6 l-6 6" fill="none" stroke="#5f5b55" stroke-width="2"/>
 <rect x="536" y="80" width="150" height="190" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<circle cx="611.0" cy="114" r="20" fill="#b8392f"/>
-<text x="611.0" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
-<text x="611.0" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">계산대에서</text>
-<text x="611.0" y="198" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">여권 먼저,</text>
-<text x="611.0" y="224" font-size="16" fill="#16151a" font-weight="normal" text-anchor="middle">그다음 결제</text>
+<circle cx="611" cy="114" r="20" fill="#b8392f"/>
+<text x="611" y="121" font-size="20" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="611" y="172" font-size="17" fill="#16151a" font-weight="bold" text-anchor="middle">여권</text>
+<text x="611" y="200" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">결제할 때</text>
+<text x="611" y="226" font-size="15" fill="#16151a" font-weight="normal" text-anchor="middle">보여 주기</text>
 </svg>
