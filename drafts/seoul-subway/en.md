@@ -14,7 +14,7 @@ updated: 2026-11-26
 | No card, no cash | Climate Card or single ticket at a new machine | Foreign Visa/Mastercard accepted since 17 March 2026 |
 | It's late evening | Check your last train now | Weekends stop earlier, and times may have moved |
 
-Subway only here. Buses and taxis: [Getting around Seoul](/getting-around/). Airport: [Incheon Airport to Seoul](/airport-to-seoul/).
+Subway only here. City buses: [Seoul buses](/seoul-bus/). Taxis: [Getting around Seoul](/getting-around/). Airport: [Incheon Airport to Seoul](/airport-to-seoul/).
 
 ## Pick how you pay
 
@@ -97,6 +97,8 @@ More: [Incheon Airport to Seoul](/airport-to-seoul/).
 
 ## Common first-day mistakes
 
+These come from the official rules above, not from traveller stories we collected.
+
 1. **Skipping the exit tap.** You lose the transfer and pay extra.
 2. **Throwing away the single ticket.** That's ₩500.
 3. **Topping up T-money by credit card.** It's cash.
@@ -104,6 +106,8 @@ More: [Incheon Airport to Seoul](/airport-to-seoul/).
 5. **Boarding a Line 9 express that skips your stop.**
 6. **Assuming a fixed last-train time.**
 
+Left something on a train? Our [emergency page](/emergency/) lists Seoul's lost-and-found centres. Made a mistake that isn't here? Tell us through the update box at the end of this page.
+
 ## Sources
 
-<p class="sources">Opened 26 November 2026 (KST). Seoul transport site (news.seoul.go.kr/traffic): fare table from 28 Jun 2025; transfer discount (updated 2 Feb 2026); one-time card; Climate Card short-term pass (updated 12 Oct 2026) and FAQ; foreign cards at machines (16 Mar 2026); pregnant women's seats. Seoul Media Hub: new kiosks, prepaid cash only (2 Sep 2025); foreign-card fact check (7 Jan 2026); late-night subway (30 May 2022); 2014 transit-card data (29 Apr 2015); Line 9 express (14 Oct 2026). Seoul English site: foreign cards (17 Mar 2026); earlier train hours plan (27 May 2025). Metro9 train guide. AREX train pages. WOWPASS guide. Korea Herald (27 Jun 2023). Korea Times (6 Dec 2017).</p>
+<p class="sources">Opened 26 November 2026 (KST). Seoul transport site: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">fare table</a> (fares from 28 Jun 2025); <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">transfer discount</a> (updated 2 Feb 2026); <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">one-time card</a>; <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">Climate Card short-term pass</a> (updated 12 Oct 2026) and its <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>; <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">foreign cards at machines</a> (16 Mar 2026); <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">pregnant women’s seats</a>. Seoul Media Hub: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">new kiosks, prepaid cash only</a> (2 Sep 2025); <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">foreign-card fact check</a> (7 Jan 2026); <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">late-night subway</a> (30 May 2022); <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014 transit-card data</a> (29 Apr 2015); <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">Line 9 express</a> (14 Oct 2026). Seoul English site: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">foreign cards</a> (17 Mar 2026); <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">earlier train hours plan</a> (27 May 2025). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">Metro9 morning train guide</a>. AREX <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">all-stop</a> and <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">Express</a> train pages. <a href="https://wowpass.io/en/guide" rel="noopener" target="_blank">WOWPASS guide</a>. Korea Herald: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">earlier first and last trains</a> (22 May 2025), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">pink seats and badge</a> (27 Jun 2023). Korea Times: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">priority seats for pregnant women</a> (6 Dec 2017).</p>

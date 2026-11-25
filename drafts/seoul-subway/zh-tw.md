@@ -14,7 +14,7 @@ updated: 2026-11-26
 | 剛落地,沒卡也沒現金 | 用新售票機買氣候同行卡或單程票 | 2026年3月17日起接受海外Visa、Mastercard |
 | 晚上比較晚才回住處 | 立刻查你那一站的末班車 | 週末收班較早,末班時間也可能已調整 |
 
-這頁只講地鐵。公車、計程車、夜間公車請看[首爾交通](/zh-tw/getting-around/),機場進市區請看[仁川機場到首爾](/zh-tw/airport-to-seoul/)。
+這頁只講地鐵。市區公車請看[首爾公車](/zh-tw/seoul-bus/),計程車請看[首爾交通](/zh-tw/getting-around/),機場進市區請看[仁川機場到首爾](/zh-tw/airport-to-seoul/)。
 
 ## 選擇付款方式
 
@@ -97,6 +97,8 @@ updated: 2026-11-26
 
 ## 第一天常見錯誤
 
+這些不是收集來的旅客經驗,而是依上面的官方規定整理出容易犯的錯。
+
 1. **出站沒嗶卡。** 轉乘會斷掉,還會被多收錢。
 2. **把單程票丟掉。** 500韓元押金就沒了。
 3. **想用信用卡幫T-money儲值。** 車站儲值只收現金。
@@ -104,6 +106,8 @@ updated: 2026-11-26
 5. **搭上不停你那站的9號線急行。**
 6. **以為末班車時間是固定的。** 每天出門前再查一次。
 
+東西忘在車上?[緊急狀況指南](/zh-tw/emergency/)有首爾的失物招領中心。遇到這裡沒寫的錯誤,請用本頁最後的回報更新框告訴我們。
+
 ## 資料來源
 
-<p class="sources">2026年11月26日(韓國時間)實際開啟確認。首爾市交通網站(news.seoul.go.kr/traffic):地鐵票價(2025年6月28日調整)、整合轉乘優惠(2026年2月2日更新)、單程交通卡、氣候同行卡短期券介紹(2026年10月12日更新)與FAQ、海外信用卡購買新聞稿(2026年3月16日)、孕婦優先座說明。首爾市 Media Hub:新型售票機與預付卡現金儲值(2025年9月2日)、海外卡事實說明(2026年1月7日)、深夜營運恢復(2022年5月30日)、2014年交通卡分析(2015年4月29日)、9號線急行擴大(2026年10月14日)。首爾市英文網站:海外卡(2026年3月17日)、首末班車提前30分鐘計畫(2025年5月27日)。首爾市地鐵9號線列車運行說明。機場鐵路普通車、直達車說明。WOWPASS官方說明。Korea Herald(2023年6月27日)、Korea Times(2017年12月6日)。</p>
+<p class="sources">2026年11月26日(韓國時間)實際開啟確認。首爾市交通網站:<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價</a>(2025年6月28日調整)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">整合轉乘優惠</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">單程交通卡</a>、<a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">氣候同行卡短期券介紹</a>(2026年10月12日更新)與<a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>、<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">海外信用卡購買新聞稿</a>(2026年3月16日)、<a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">孕婦優先座說明</a>。首爾市 Media Hub:<a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">新型售票機與預付卡現金儲值</a>(2025年9月2日)、<a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">海外卡事實說明</a>(2026年1月7日)、<a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">深夜營運恢復</a>(2022年5月30日)、<a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014年交通卡分析</a>(2015年4月29日)、<a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9號線急行擴大</a>(2026年10月14日)。首爾市英文網站:<a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">海外卡</a>(2026年3月17日)、<a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">首末班車提前30分鐘計畫</a>(2025年5月27日)。<a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">首爾市地鐵9號線早晨列車搭乘說明</a>。機場鐵路<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">普通車</a>、<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車</a>說明。<a href="https://wowpass.io/en/guide" rel="noopener" target="_blank">WOWPASS官方說明</a>。Korea Herald:<a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">首末班車提前</a>(2025年5月22日)、<a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">孕婦座與徽章</a>(2023年6月27日)。Korea Times:<a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">孕婦優先座</a>(2017年12月6日)。</p>

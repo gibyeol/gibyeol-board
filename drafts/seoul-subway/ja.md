@@ -14,7 +14,7 @@ updated: 2026-11-26
 | 着いたばかりでカードも現金もない | 新しい券売機でClimate Cardか1回用乗車券 | 2026年3月17日から海外発行のVisa・Mastercardが使えます |
 | 夜遅くに移動する | その駅の終電をすぐ確認 | 週末は早く終わり、終電時刻が変わった可能性もあります |
 
-このページは地下鉄だけを扱います。バス・タクシー・深夜バスは[ソウルの交通](/ja/getting-around/)、空港からの移動は[仁川空港からソウルへ](/ja/airport-to-seoul/)へ。
+このページは地下鉄だけを扱います。市内バスは[ソウルのバス](/ja/seoul-bus/)、タクシーは[ソウルの交通](/ja/getting-around/)、空港からの移動は[仁川空港からソウルへ](/ja/airport-to-seoul/)へ。
 
 ## 支払い方法を選ぶ
 
@@ -97,6 +97,8 @@ Climate Cardがいらない方:1日1〜2回しか乗らない方、同じ日に�
 
 ## 初日によくある失敗
 
+旅行者の体験談を集めたものではなく、上の公式ルールから起こりやすい失敗を挙げたものです。
+
 1. **降車タッチを忘れる。** 乗り換えが切れ、追加料金がかかります。
 2. **1回用乗車券を捨てる。** 保証金500ウォンが戻りません。
 3. **クレジットカードでT-moneyをチャージしようとする。** 駅のチャージは現金です。
@@ -104,6 +106,8 @@ Climate Cardがいらない方:1日1〜2回しか乗らない方、同じ日に�
 5. **降りたい駅を通過する9号線の急行に乗る。**
 6. **終電の時刻を決めつける。** その日ごとに確認を。
 
+車内に忘れ物をしたら、[緊急時ガイド](/ja/emergency/)にソウルの遺失物センターがあります。ここにない失敗をしたら、このページ最後の更新リクエスト欄から教えてください。
+
 ## 出典
 
-<p class="sources">2026年11月26日(韓国時間)に開いて確認。ソウル市交通サイト(news.seoul.go.kr/traffic):地下鉄運賃案内(2025年6月28日改定)、統合乗り換え割引(2026年2月2日更新)、1回用交通カード、Climate Card短期券の紹介(2026年10月12日更新)とFAQ、海外クレジットカード対応の報道資料(2026年3月16日)、妊婦配慮席の案内。ソウル市メディアハブ:新型キオスクとプリペイドカードの現金チャージ(2025年9月2日)、海外カードに関するファクトブリーフィング(2026年1月7日)、深夜運行の再開(2022年5月30日)、2014年交通カード分析(2015年4月29日)、9号線急行の拡大(2026年10月14日)。ソウル市英語サイト:海外カード対応(2026年3月17日)、始発・終電30分繰り上げ計画(2025年5月27日)。ソウル市メトロ9号線 列車運行案内。空港鉄道 一般列車・直通列車の案内。WOWPASS公式ガイド。コリアヘラルド(2023年6月27日)、コリアタイムズ(2017年12月6日)。</p>
+<p class="sources">2026年11月26日(韓国時間)に開いて確認。ソウル市交通サイト:<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通運賃案内</a>(2025年6月28日改定)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">統合乗り換え割引</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">1回用交通カード</a>、<a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">Climate Card短期券の紹介</a>(2026年10月12日更新)と<a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>、<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">海外クレジットカード対応の報道資料</a>(2026年3月16日)、<a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">妊婦配慮席の案内</a>。ソウル市メディアハブ:<a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">新型キオスクとプリペイドカードの現金チャージ</a>(2025年9月2日)、<a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">海外カードに関するファクトブリーフィング</a>(2026年1月7日)、<a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">深夜運行の再開</a>(2022年5月30日)、<a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014年交通カード分析</a>(2015年4月29日)、<a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9号線急行の拡大</a>(2026年10月14日)。ソウル市英語サイト:<a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">海外カード対応</a>(2026年3月17日)、<a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">始発・終電30分繰り上げ計画</a>(2025年5月27日)。<a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">ソウル市メトロ9号線 朝の列車利用案内</a>。空港鉄道 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">一般列車</a>・<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車</a>の案内。<a href="https://wowpass.io/ja/guide" rel="noopener" target="_blank">WOWPASS公式ガイド</a>。コリアヘラルド:<a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">始発・終電の繰り上げ</a>(2025年5月22日)、<a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">妊婦席とバッジ</a>(2023年6月27日)。コリアタイムズ:<a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">妊婦配慮席</a>(2017年12月6日)。</p>

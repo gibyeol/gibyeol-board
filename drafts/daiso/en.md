@@ -12,7 +12,7 @@ updated: 2026-11-26
 | You need cheap souvenirs, snacks or a travel fix (adapter, luggage scale, phone charger) | Go to Daiso | Prices run from ₩500 to ₩5,000, and VisitKorea names these travel items on its Daiso page |
 | You want to try budget skincare | Go to the beauty shelf first | About 170 beauty brands sell at Daiso in 2026, many with Daiso-only lines, and viral items sell out |
 | You want the widest range in central Seoul | Myeongdong Station branch, 12 floors | Daiso's second-largest store in Seoul, with a floor guide in English, Japanese and Chinese |
-| You want full-size K-beauty or the big seasonal sales | [Olive Young](/olive-young/) | Daiso beauty items are often Daiso-only lines or smaller sizes |
+| You want full-size K-beauty or the big seasonal sales | [Olive Young](/olive-young/) | Daiso beauty items are often Daiso-only lines or smaller sizes; current sales are on our [deals board](/deals/) |
 
 Daiso Korea is run by the Korean company Asung Daiso and has been fully Korean-owned since 2023. Below: the prices, what is worth buying, the big store, and the tax refund.
 
@@ -28,7 +28,7 @@ What this means for you: to stay under ₩5,000, many beauty products come in sm
 
 We are not going to give you a "best of" list built on nothing. Here is what official and major-press pages say.
 
-- **Budget skincare from known Korean brands.** The Korea Herald counted about 170 beauty brands at Daiso in 2026, up from seven in 2022, and more than 1,900 beauty products. Amorepacific, LG H&H and Aekyung sell Daiso-only lines under sub-brands. VisitKorea called VT's Reedle Shot Daiso's top seller in March 2024, and the Korea Herald (September 2026) says Daiso cosmetics have repeatedly sold out after going viral, naming Reedle Shots among them. We could not confirm the current price or pack size on an official page, so check the shelf tag.
+- **Budget skincare from known Korean brands.** The Korea Herald counted about 170 beauty brands at Daiso in 2026, up from seven in 2022, and more than 1,900 beauty products. Amorepacific, LG H&H and Aekyung sell Daiso-only lines under sub-brands. VisitKorea called VT's Reedle Shot Daiso's top seller in March 2024, and the Korea Herald (September 2026) says Daiso cosmetics have repeatedly sold out after going viral, naming Reedle Shots among them. We could not confirm the current price or pack size on an official page, so check the shelf tag. Before you buy, run our [label check](/kbeauty-how-to-choose/).
 - **Snacks and small souvenirs.** VisitKorea puts most snacks at around ₩1,000 to ₩2,000, and lists character goods, photocard accessories, phone accessories and Korean snacks as souvenirs to buy.
 - **Trip fixes.** VisitKorea points to multi-adaptors, portable luggage scales and phone chargers, for when you lost or forgot yours.
 
@@ -36,7 +36,7 @@ Who does not need Daiso: if you only want full-size skincare from one brand, or 
 
 ## The big store: Myeongdong Station
 
-Asung Daiso reopened the Myeongdong Station branch on 1 March 2023 across floors 1 to 12, about 500 pyeong (roughly 1,650 m²), and calls it its second-largest store in Seoul after the Gangnam Express Bus Terminal branch. VisitKorea (updated March 2024) says it has a floor guide in English, Japanese and Chinese and self-checkout kiosks, and sits on the road between Myeong-dong Station Exits 1 and 4.
+Asung Daiso reopened the Myeongdong Station branch on 1 March 2023 across floors 1 to 12, about 500 pyeong (roughly 1,650 m²), and calls it its second-largest store in Seoul after the Gangnam Express Bus Terminal branch. VisitKorea (updated March 2024) says it has a floor guide in English, Japanese and Chinese and self-checkout kiosks, and sits on the road between Myeong-dong Station Exits 1 and 4. For the streets around it, see [where to shop in Seoul](/shopping-streets/).
 
 {{fig:daiso-2|Four steps for the 12-floor Myeongdong Station Daiso}}
 

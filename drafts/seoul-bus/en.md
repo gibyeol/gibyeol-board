@@ -14,7 +14,7 @@ updated: 2026-11-26
 | Unsure where to get off | Follow the route in Naver Map | It works in English, Japanese and Chinese |
 | Out after the last train | An N bus, ₩2,500 | Night routes; check your route's times in the app |
 
-This page is only about Seoul's city buses. Subway, taxis, last trains and which card to buy are on [Getting around Seoul](/getting-around/). Airport to hotel is on [Incheon Airport to Seoul](/airport-to-seoul/). Who does not need this page: if your hotel and sights are all near subway stations, the subway alone is simpler.
+This page is only about Seoul's city buses. The subway is on [Seoul subway](/seoul-subway/); taxis, last trains and which card to buy are on [Getting around Seoul](/getting-around/). Airport to hotel is on [Incheon Airport to Seoul](/airport-to-seoul/). Who does not need this page: if your hotel and sights are all near subway stations, the subway alone is simpler.
 
 ## Read the colour first
 
@@ -83,11 +83,15 @@ After the subway stops, Seoul runs night buses whose route numbers start with N,
 
 ## Common mistakes
 
+These come from Seoul's rules above, not from traveller stories we collected.
+
 1. **Getting off without tapping.** The transfer breaks and the next ride charges the base fare again.
 2. **Boarding with no card or an empty one.** Some routes take no cash.
 3. **Taking a red bus on a Climate Card pass.** It isn't covered.
 4. **Waiting too long between rides.** After 30 minutes (60 at night) the transfer is gone.
 5. **Mixing up airport N buses and city N buses.** The fares are about seven times apart.
+
+Left something on a bus? Our [emergency page](/emergency/) covers lost items. Made a mistake that isn't here? Tell us through the update box at the end of this page.
 
 ## Sources
 

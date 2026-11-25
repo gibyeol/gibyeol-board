@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" role="img" aria-label="Reorder from home" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 362" role="img" aria-label="Reorder from home" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>Reorder from home</title>
-<rect width="400" height="250" fill="#f4f0e6"/>
+<rect width="400" height="362" fill="#f4f0e6"/>
 <text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Reorder from home</text>
 <rect x="16" y="54" width="368" height="52" rx="10" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
 <text x="32" y="87" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Do you live in the US?</text>
-<line x1="100" y1="106" x2="100" y2="132" stroke="#16151a" stroke-width="2.5"/>
-<path d="M93,130 L100,140 L107,130 z" fill="#16151a"/>
-<text x="110" y="130" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">Yes</text>
-<line x1="300" y1="106" x2="300" y2="132" stroke="#16151a" stroke-width="2.5"/>
-<path d="M293,130 L300,140 L307,130 z" fill="#16151a"/>
-<text x="310" y="130" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">No</text>
-<rect x="16" y="140" width="180" height="92" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
-<text x="28" y="168" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Olive Young US</text>
-<text x="28" y="190" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Global stopped US service</text>
-<text x="28" y="212" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">on 29 May 2026</text>
-<rect x="204" y="140" width="180" height="92" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
-<text x="216" y="168" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Olive Young Global</text>
-<text x="216" y="190" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Check delivery to your</text>
-<text x="216" y="212" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">country at checkout</text>
+<line x1="60" y1="106" x2="60" y2="128" stroke="#16151a" stroke-width="2.5"/>
+<path d="M53,126 L60,136 L67,126 z" fill="#16151a"/>
+<text x="72" y="128" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">Yes</text>
+<rect x="16" y="136" width="368" height="86" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<text x="32" y="164" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Olive Young US</text>
+<text x="32" y="186" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Global stopped US service</text>
+<text x="32" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">on 29 May 2026</text>
+<line x1="60" y1="228" x2="60" y2="250" stroke="#16151a" stroke-width="2.5"/>
+<path d="M53,248 L60,258 L67,248 z" fill="#16151a"/>
+<text x="72" y="250" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">No</text>
+<rect x="16" y="258" width="368" height="86" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="32" y="286" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Olive Young Global</text>
+<text x="32" y="308" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Check delivery to your</text>
+<text x="32" y="330" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">country at checkout</text>
 </svg>

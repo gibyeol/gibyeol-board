@@ -1,22 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 416" role="img" aria-label="귀국할 때 1인 면세범위" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 504" role="img" aria-label="귀국할 때 1인 면세범위" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
 <title>귀국할 때 1인 면세범위</title>
-<rect width="400" height="416" fill="#f4f0e6"/>
+<rect width="400" height="504" fill="#f4f0e6"/>
 <text x="20" y="34" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">귀국할 때 1인 면세범위</text>
-<rect x="16" y="54" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<text x="32" y="100" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">800달러</text>
-<text x="200" y="85" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">물품</text>
-<text x="200" y="109" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1인 기준</text>
-<rect x="16" y="136" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<text x="32" y="182" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">2L</text>
-<text x="200" y="167" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">술</text>
-<text x="200" y="191" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">별도, 400달러 이하</text>
-<rect x="16" y="218" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<text x="32" y="264" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">200개비</text>
-<text x="200" y="249" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">담배(궐련)</text>
-<text x="200" y="273" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">별도</text>
-<rect x="16" y="300" width="368" height="74" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
-<text x="32" y="346" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">100ml</text>
-<text x="200" y="331" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">향수</text>
-<text x="200" y="355" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">별도</text>
-<text x="20" y="398" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">만 19세 미만은 술·담배 면세 없음</text>
+<rect x="16" y="54" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="90" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">800달러</text>
+<text x="210" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">물품</text>
+<text x="32" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1인 기준</text>
+<rect x="16" y="158" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="194" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">2L</text>
+<text x="210" y="192" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">술</text>
+<text x="32" y="232" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">별도, 400달러 이하</text>
+<rect x="16" y="262" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="298" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">200개비</text>
+<text x="210" y="296" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">담배(궐련)</text>
+<text x="32" y="336" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">별도</text>
+<rect x="16" y="366" width="368" height="96" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
+<text x="32" y="402" font-size="24" font-weight="700" fill="#b8392f" text-anchor="start">100ml</text>
+<text x="210" y="400" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">향수</text>
+<text x="32" y="440" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">별도</text>
+<text x="20" y="486" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">만 19세 미만은 술·담배 면세 없음</text>
 </svg>

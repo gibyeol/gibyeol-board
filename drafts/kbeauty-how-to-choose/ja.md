@@ -70,7 +70,7 @@ updated: 2026-11-26
 
 ## いつ買うか
 
-価格には周期があります。年4回のオリーブヤングセールの時期は[オリーブヤングのページ](/ja/olive-young/)に、今のお得情報は[お得情報](/ja/deals/)にまとめています。パスポートを持って行けば[その場で免税](/ja/tax-refund/)になります。
+価格には周期があります。年4回のオリーブヤングセールの時期は[オリーブヤングのページ](/ja/olive-young/)に、今のお得情報は[お得情報](/ja/deals/)にまとめています。パスポートを持って行けば[その場で免税](/ja/tax-refund/)になります。予算重視ならダイソー専用ラインや小容量を扱う[ダイソー](/ja/daiso/)、どこで買うかは[明洞・聖水・弘大の選び方](/ja/shopping-streets/)へ。
 
 ## 持ち帰り方
 
@@ -88,4 +88,4 @@ updated: 2026-11-26
 
 ## 出典
 
-<p class="sources">2026年11月26日(韓国時間)に原文を開いて確認:化粧品法 第2条・第4条・第10条第1項第8号(国家法令情報センター law.go.kr、2026年10月20日施行版)、化粧品法施行規則 第19条・別表4(law.go.kr)、食薬処告示「化粧品使用時の注意事項及びアレルギー誘発成分表示に関する規定」別表2(第2026-56号、2026年8月5日)、食薬処告示「機能性化粧品審査に関する規定」SPF・PA表示基準・別表3(law.go.kr)、政策ブリーフィング(korea.kr)食薬処「正しい日焼け止めの選び方」(2024年6月5日)・「食薬処に報告された機能性化粧品か確認してから購入」(2026年3月23日)、korea.kr掲載の食薬処報道資料 2025年3月13日・2024年8月8日、仁川国際空港 制限品目・乗り継ぎ保安検査・制限品目FAQ(airport.kr)。</p>
+<p class="sources">2026年11月26日(韓国時間)に原文を開いて確認:<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%99%94%EC%9E%A5%ED%92%88%EB%B2%95" rel="noopener" target="_blank">化粧品法</a> 第2条・第4条・第10条第1項第8号(国家法令情報センター law.go.kr、2026年10月20日施行版)、<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%99%94%EC%9E%A5%ED%92%88%EB%B2%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">化粧品法施行規則</a> 第19条・別表4(law.go.kr)、食薬処告示<a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%ED%99%94%EC%9E%A5%ED%92%88%EC%82%AC%EC%9A%A9%ED%95%A0%EB%95%8C%EC%9D%98%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD%EB%B0%8F%EC%95%8C%EB%A0%88%EB%A5%B4%EA%B8%B0%EC%9C%A0%EB%B0%9C%EC%84%B1%EB%B6%84%ED%91%9C%EC%8B%9C%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">「化粧品使用時の注意事項及びアレルギー誘発成分表示に関する規定」</a>別表2(第2026-56号、2026年8月5日)、食薬処告示<a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EA%B8%B0%EB%8A%A5%EC%84%B1%ED%99%94%EC%9E%A5%ED%92%88%EC%8B%AC%EC%82%AC%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">「機能性化粧品審査に関する規定」</a>SPF・PA表示基準・別表3(law.go.kr)、政策ブリーフィング(korea.kr)食薬処<a href="https://www.korea.kr/news/policyNewsView.do?newsId=148965990" rel="noopener" target="_blank">「日焼け止めの正しい使い方」</a>(2026年6月5日)・<a href="https://www.korea.kr/multi/mediaNewsView.do?newsId=148961262" rel="noopener" target="_blank">「食薬処に報告された機能性化粧品か確認してから購入」</a>(2026年3月23日)、korea.kr掲載の食薬処報道資料 <a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156678582" rel="noopener" target="_blank">2025年3月13日</a>・<a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156644929" rel="noopener" target="_blank">2024年8月8日</a>、仁川国際空港 <a href="https://www.airport.kr/ap_en/1433/subview.do" rel="noopener" target="_blank">制限品目</a>・<a href="https://www.airport.kr/ap_en/1468/subview.do" rel="noopener" target="_blank">乗り継ぎ保安検査</a>・<a href="https://www.airport.kr/ap_en/1434/subview.do" rel="noopener" target="_blank">制限品目FAQ</a>(airport.kr)。</p>

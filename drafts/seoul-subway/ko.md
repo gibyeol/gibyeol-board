@@ -14,7 +14,7 @@ updated: 2026-11-26
 | 막 도착했는데 카드도 현금도 없음 | 새 무인기에서 기후동행카드나 1회용 승차권 | 2026년 3월 17일부터 해외 Visa·Mastercard를 받아요 |
 | 저녁 늦게 움직임 | 지금 그 역 막차 확인 | 주말은 더 일찍 끊기고, 막차 시각이 바뀌었을 수 있어요 |
 
-이 페이지는 지하철만 다뤄요. 버스·택시·심야버스는 [서울 대중교통](/ko/getting-around/), 공항 이동은 [인천공항에서 서울까지](/ko/airport-to-seoul/)를 보세요. 우리한텐 당연한 '하차 태그'나 '현금 충전'이 외국인 친구에겐 제일 낯선 부분이라, 그 두 가지를 먼저 짚어 주면 좋아요.
+이 페이지는 지하철만 다뤄요. 시내버스는 [서울 버스 타기](/ko/seoul-bus/), 택시는 [서울 대중교통](/ko/getting-around/), 공항 이동은 [인천공항에서 서울까지](/ko/airport-to-seoul/)를 보세요. 우리한텐 당연한 '하차 태그'나 '현금 충전'이 외국인 친구에겐 제일 낯선 부분이라, 그 두 가지를 먼저 짚어 주면 좋아요.
 
 ## 결제 수단 고르기
 
@@ -97,6 +97,8 @@ updated: 2026-11-26
 
 ## 첫날 자주 하는 실수
 
+여행자 경험을 모은 목록이 아니라, 위의 공식 규정에서 생기기 쉬운 실수를 뽑은 거예요.
+
 1. **하차 태그를 안 함.** 환승이 끊기고 추가 요금이 붙어요.
 2. **1회용 승차권을 버림.** 보증금 500원이 거기 들어 있어요.
 3. **신용카드로 티머니를 충전하려 함.** 역 충전은 현금이에요.
@@ -104,6 +106,8 @@ updated: 2026-11-26
 5. **내릴 역을 지나치는 9호선 급행을 탐.**
 6. **막차 시각을 외워 두고 믿음.** 그날그날 확인해요.
 
+열차에 물건을 두고 내렸다면 [긴급 상황 가이드](/ko/emergency/)에 서울 유실물센터가 있어요. 여기 없는 실수를 겪었다면 이 페이지 끝의 업데이트 요청 상자로 알려 주세요.
+
 ## 출처
 
-<p class="sources">2026년 11월 26일(한국 시간)에 열어 확인. 서울시 교통 누리집(news.seoul.go.kr/traffic): 지하철 요금 안내(2025년 6월 28일 조정), 통합환승 할인제도(2026년 2월 2일 수정), 일회용 교통카드, 기후동행카드(단기권) 소개(2026년 10월 12일 수정)와 FAQ, 해외 신용카드 구매 보도자료(2026년 3월 16일), 임산부배려석 안내. 내 손안에 서울: 신형 키오스크·선불카드 현금 충전(2025년 9월 2일), 해외카드 팩트브리핑(2026년 1월 7일), 지하철 심야 운행 재개(2022년 5월 30일), 2014년 교통카드 분석(2015년 4월 29일), 9호선 급행 확대(2026년 10월 14일). 서울시 영문 누리집: 해외카드(2026년 3월 17일), 첫차·막차 30분 조정 계획(2025년 5월 27일). 서울시메트로9호선 열차 운행 안내. 공항철도 일반·직통열차 안내. 와우패스 공식 가이드. 코리아헤럴드(2023년 6월 27일), 코리아타임스(2017년 12월 6일).</p>
+<p class="sources">2026년 11월 26일(한국 시간)에 열어 확인. 서울시 교통 누리집: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 6월 28일 조정), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">일회용 교통카드</a>, <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정)와 <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>, <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">해외 신용카드 구매 보도자료</a>(2026년 3월 16일), <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">임산부배려석 안내</a>. 내 손안에 서울: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">신형 키오스크·선불카드 현금 충전</a>(2025년 9월 2일), <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">해외카드 팩트브리핑</a>(2026년 1월 7일), <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">지하철 심야 운행 재개</a>(2022년 5월 30일), <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014년 교통카드 분석</a>(2015년 4월 29일), <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9호선 급행 확대</a>(2026년 10월 14일). 서울시 영문 누리집: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">해외카드</a>(2026년 3월 17일), <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">첫차·막차 30분 조정 계획</a>(2025년 5월 27일). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">서울시메트로9호선 출근시간 열차 이용 안내</a>. 공항철도 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차</a>·<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차</a> 안내. <a href="https://wowpass.io/ko/guide" rel="noopener" target="_blank">와우패스 공식 가이드</a>. 코리아헤럴드: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">첫차·막차 30분 앞당김</a>(2025년 5월 22일), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">임산부석과 배지</a>(2023년 6월 27일). 코리아타임스: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">임산부 배려석</a>(2017년 12월 6일).</p>
