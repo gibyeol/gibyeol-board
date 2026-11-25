@@ -1,85 +1,82 @@
 ---
 title: Getting around Seoul: subway, bus and taxi without the confusion
-description: How to ride Seoul's subway and buses, what fares cost, when the last trains go, and which taxi app takes your foreign card. Checked November 2026.
+description: How to ride Seoul's subway and buses, what fares cost, how to get back after the last train, and which taxi app takes your foreign card. Checked 26 November 2026.
 lede: Our call: the subway does most of the work, buses fill the gaps once you trust the tap-off rule, and a taxi app is your late-night plan B. Load a transport card before your first ride and almost nothing here can go wrong.
 section: transport
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 ## The one-line judgment
 
 | Situation | Do this | Why |
 |---|---|---|
-| Crossing the city, any time before midnight | Subway | Fast, signposted in English, ₩1,550 for the first 10 km |
+| Crossing the city, before the last train | Subway | Fast, signposted in English, ₩1,550 for the first 10 km |
 | Your stop is far from a station | Bus, with a loaded card | Tap off when you get out, or you lose the free transfer |
-| After the last train, or with heavy bags | Taxi via k.ride or Kakao T | Foreign cards work in the app; the late-night surcharge is up to 40% |
-| No transport card yet | Buy one before your first ride | Some bus routes take no cash at all |
+| After the last train, or with heavy bags | Taxi via k.ride or Kakao T | Foreign cards work in the app; late-night fares are up to 40% higher |
+| No transport card yet | Buy one before your first ride | 183 of Seoul's 396 city bus routes take no cash |
 
-What we left out on purpose: Uber, bike share, and intercity trains (KTX gets its own page). If you are only going airport to hotel and back, you need [Incheon Airport to Seoul](/airport-to-seoul/), not this.
+{{fig:getting-around-1|Base fares for an adult paying by transport card}}
+
+What we left out on purpose: Uber, bike share, and intercity trains (KTX has its own page). Airport to hotel: [Incheon Airport to Seoul](/airport-to-seoul/). Step-by-step guides: [Seoul subway](/seoul-subway/) and [Seoul city buses](/seoul-bus/).
 
 ## First: get a card
 
-Subway gates and buses are tap-only. Use T-money, WOWPASS (which has T-money inside), or a Climate Card short-term pass. We compare them, and where to top up, in [Essentials](/essentials/) and [Money](/money/), so here is only what changed in 2026:
+Get a card before your first ride: it is the one problem you cannot fix once you are on a bus.
 
-- **Since 17 March 2026**, 440 new machines at 273 stations on Seoul Metro Lines 1–8 sell Climate Card short-term passes (1, 2, 3, 5 and 7 days) and single-journey tickets to foreign Visa and Mastercard, with an average fee of about 3.7%.
-- **Tapping your own bank card at the gate still does not work.** Seoul's plan is to replace gate readers on Lines 1–8 in 2027, then extend to village buses and private rail lines by 2030.
+Subway gates and buses are tap-only. Use T-money, WOWPASS (T-money inside), or a Climate Card short-term pass. Which one and where to top up: [Essentials](/essentials/) and [Money](/money/). What changed in 2026:
 
-Is the Climate Card short-term pass worth it? Seoul's tourist-pass prices start at ₩5,000 for 1 day (card sold separately; prices as Seoul last listed them in October 2024). At ₩1,550 a trip, it pays off on your fourth separate trip of the day. It covers Seoul's subway and buses but not the Shinbundang Line or red express buses, so a heavy sightseeing day pays; a slow café day does not.
+- **Since 17 March 2026**, 440 new machines at 273 stations on Seoul Metro Lines 1–8 sell Climate Card passes and single-journey tickets to overseas credit and debit cards, with a 3.7% fee.
+- **Tapping your own bank card at the gate still does not work.** Seoul plans to replace gate readers on Lines 1–8 in 2027, and Tmoney plans to let foreign contactless cards pay on Seoul city buses from 2027.
 
-## Riding the subway
+**Is the Climate Card short-term pass worth it?** Seoul lists 1, 2, 3, 5 and 7 days at ₩5,000, ₩8,000, ₩10,000, ₩15,000 and ₩20,000, plus ₩3,000 for the card. So one day costs ₩8,000 with the card, about five subway fares; three days cost ₩13,000, about eight. It covers Seoul's subway and Seoul city buses (night buses included) and, since 1 October 2026, getting off at Incheon Airport. It does not cover the Shinbundang Line, GTX, red wide-area buses, airport buses or stations outside Seoul. Our call: worth it at three or more rides a day for three or more days inside Seoul.
 
-1. **Tap in** at the gate. You'll see the balance on the reader.
-2. **Follow the line colour.** Each line has a number and colour; changing lines inside a station needs no extra gate, just follow the signs or coloured strips for the line you want.
-3. **Tap out** at the exit. The fare is worked out by distance, so skipping the exit tap is not an option.
+## The subway in three taps
 
-**Fares (adult, transport card, since 28 June 2025):**
+The subway is the backbone; the only rule that costs money is the exit tap.
 
-- ₩1,550 for the first 10 km.
-- +₩100 every 5 km from 10 to 50 km, then +₩100 every 8 km.
-- A single-journey ticket costs ₩100 more and carries a ₩500 deposit you get back at the "Deposit Refund" machine when you exit.
-- Before 6:30 a.m. on weekdays, the first ride is 20% off with a card.
+1. **Tap in** at the gate. The reader shows your balance.
+2. **Follow the line number and colour.** Changing lines inside a station needs no extra gate.
+3. **Tap out** at the exit. The fare is worked out by distance.
 
-Repeat visitor? The base fare went from ₩1,400 to ₩1,550 in mid-2025.
+Fares (adult, since 28 June 2025): **₩1,550** by card for the first 10 km, then ₩100 every 5 km up to 50 km and every 8 km beyond. A single-journey ticket is ₩1,650 plus a ₩500 deposit you get back at the exit. Your first ride before 6:30 a.m. is 20% off with a card. Repeat visitor? The base fare was ₩1,400 before mid-2025.
 
-For routes, use Naver Map or Kakao Map; Subway Korea works offline.
+For routes, use Naver Map or Kakao Map; Subway Korea works offline. Exits, transfers and first-day mistakes: [Seoul subway for first-timers](/seoul-subway/).
 
-## Riding the bus
+## Buses: tap off, every time
 
-Seoul buses are colour-coded, and the colour tells you how far it goes:
+Buses are easy once you follow two habits: a loaded card when you board, a second tap when you get off.
 
-| Colour | Type | Adult fare (card) |
-|---|---|---|
-| Blue | Trunk: long routes across the city | ₩1,500 |
-| Green | Feeder and village buses: short hops to stations | ₩1,500 (village ₩1,200) |
-| Yellow | Circular: loops in the centre | ₩1,400 |
-| Red | Express to the suburbs | ₩3,000 |
-| "N" number | Night bus | ₩2,500 |
+1. **Tap your card** on the reader as you board.
+2. **Tap it again** before you get off. Seoul says that without this tap the transfer chain breaks.
+3. **Board the next bus or subway within 30 minutes** (60 minutes between 9 p.m. and 7 a.m.) and it counts as a transfer: one base fare for the first 10 km, ₩100 per 5 km after that, up to four transfers. Re-boarding the same route does not count.
 
-**The rule locals follow: tap off.** Tap your card again when you get out. Seoul says that without the exit tap you can't get a transfer, which means paying a full fare again on the next bus or subway.
+> Cash is not a backup. Seoul lists 183 of its 396 city bus routes as cashless (January 2026). Never board a bus without a loaded card.
 
-**Transfer discount:** board the next bus or train within 30 minutes of getting off (60 minutes between 9 p.m. and 7 a.m.), up to four transfers. You pay one base fare for the first 10 km and ₩100 per 5 km after that. Re-boarding the same route doesn't count.
+Bus colours, fares and night buses: [Seoul city buses](/seoul-bus/).
 
-**Cash:** Seoul runs some routes as cashless buses, and Digital Daily reported on 15 September 2026 that visitors on those routes must buy and load a Korean transport card. Seoul's backup for people without a card is paying later by bank transfer, which doesn't help most visitors. Our advice: never board a bus without a loaded card.
+## After the last train
 
-## Last trains and night buses
+Decide how you get back before dinner, not at the platform.
 
-Seoul's weekday late service runs so that last trains reach the end of the line around 1 a.m. Times differ by line and station, so the last train from where you are can leave well before that. Check your station's last train in Naver Map before the evening starts, not at 12:40.
+{{fig:getting-around-2|After dinner: how to get back}}
 
-After that, Seoul runs **14 night bus routes** (route numbers start with N), from about 11:10 p.m. to 6 a.m., at ₩2,500 for adults. Around holidays Seoul sometimes extends last trains; it did for Lunar New Year 2026.
+- **Last trains:** in 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m. In May 2025 it announced moving Lines 1–8 first and last trains 30 minutes earlier; we could not confirm that this has happened. Times also differ by station, so check yours in Naver Map.
+- **Night buses:** Seoul runs **14 routes** whose numbers start with N, between 11 p.m. and 6 a.m., for ₩2,500 by card. The Climate Card covers them.
 
 ## Taxis
 
-**Types you will see (Seoul fares, updated 14 October 2026):**
+A taxi is the plan B, and the price of plan B depends on the clock.
 
-- **Regular (mid-size):** ₩4,800 for the first 1.6 km, then ₩100 per 131 m or per 30 seconds in slow traffic.
-- **Deluxe (mobeom) and large:** ₩7,000 for the first 3 km.
-- **International Taxi (for foreign visitors):** meter fare plus up to 20%, or fixed fares from Incheon Airport (₩70,000–95,000 by Seoul zone for mid-size).
+{{fig:getting-around-3|Regular taxi: base fare by time of night}}
 
-**Late-night surcharge on regular taxis:** 20% from 10 to 11 p.m. and 2 to 4 a.m., 40% from 11 p.m. to 2 a.m.
+- **Regular (mid-size):** ₩4,800 for the first 1.6 km, then ₩100 per 131 m, or per 30 seconds in slow traffic.
+- **Late night, regular taxis:** +20% from 10 to 11 p.m. and 2 to 4 a.m. (base ₩5,800), +40% from 11 p.m. to 2 a.m. (base ₩6,700).
+- **Deluxe (mobeom) and large:** ₩7,000 for the first 3 km; +20% from 10 p.m. to 4 a.m.
+- **International Taxi (for foreign visitors):** the meter plus up to 20%, or fixed fares from Incheon Airport ([airport page](/airport-to-seoul/)).
 
-**Which app?** Kakao Mobility makes two. **k.ride** is the one built for visitors: sign up with Google, Apple or email, register an overseas card, and the fare is charged after the ride. Destination search and driver chat are auto-translated, and in Korea it calls Kakao T Blue, Venti, Black and deluxe taxis. Kakao T is the main Korean app; if your foreign card keeps failing there, switch to k.ride.
+**Which app?** Kakao Mobility makes two. **k.ride** is built for visitors: sign up with Google, Apple or email, register an overseas card, and the fare is charged after the ride. Destination search and driver chat are auto-translated, and in Korea it calls Kakao T Blue, Venti, Black and deluxe taxis. Kakao T is the main Korean app; if your foreign card keeps failing there, switch to k.ride.
 
 Who doesn't need a taxi app: if you are in bed by 11 p.m. and travel light, the subway covers you.
 
 ## Sources
 
-<p class="sources">Seoul TOPIS, subway fare table (accessed 25 November 2026); Asia Economy, metropolitan subway fare rise to ₩1,550 (28 June 2025); Seoul Metropolitan Government, subway and bus fare page (updated 11 July 2025) and city bus system and fares (updated 9 March 2026); Seoul, taxi fare system (updated 14 October 2026); Seoul, foreign cards at subway machines (16 March 2026) and foreign-card transit roadmap (16 October 2025); Seoul Media Hub, Climate Card tourist pass (October 2024) and cashless buses (15 February 2024); Digital Daily, visitor payment complaints (15 September 2026); Insight, Lunar New Year 2026 transit extension (9 February 2026); Asia Economy, k.ride (27 March 2025); k.ride App Store listing.</p>
+<p class="sources">Opened 26 November 2026 (KST): Seoul Metropolitan Government, <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">transport fares and transfer rules</a> (updated 11 July 2025), <a href="https://news.seoul.go.kr/traffic/archives/1706" rel="noopener" target="_blank">city bus system and fares</a> (updated 9 March 2026), <a href="https://news.seoul.go.kr/traffic/archives/508898" rel="noopener" target="_blank">cashless bus routes, January 2026</a> (updated 6 March 2026), <a href="https://news.seoul.go.kr/traffic/archives/27974" rel="noopener" target="_blank">night buses</a> (updated 20 March 2026), <a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">Climate Card short-term pass</a> (updated 12 October 2026), <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">taxi fares</a> (updated 14 October 2026); AREX, <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">metropolitan fare rules</a>; The Korea Herald, <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">subway machines accept overseas cards</a> (16 March 2026) and <a href="https://www.koreaherald.com/article/10878189" rel="noopener" target="_blank">foreign cards on Seoul buses from 2027</a> (18 September 2026). Earlier, not reopened this time: Seoul foreign-card transit roadmap (16 October 2025); Seoul Media Hub, late-night subway (30 May 2022); Seoul earlier train hours plan (27 May 2025); Asia Economy, fare rise (28 June 2025) and k.ride (27 March 2025); k.ride App Store listing.</p>
