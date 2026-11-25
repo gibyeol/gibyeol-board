@@ -184,5 +184,31 @@
   ],
   "web": "https://world.nol.com",
   "ios": "id6476254427"
+ },
+ "n_seoul_tower": {
+  "terms": [
+   "N Seoul Tower",
+   "N서울타워",
+   "Nソウルタワー",
+   "N首爾塔"
+  ],
+  "web": "https://www.seoultower.co.kr"
+ },
+ "yes24_ticket_global": {
+  "terms": [
+   "Yes24 Ticket",
+   "YES24 Ticket",
+   "예스24 티켓",
+   "YES24チケット"
+  ],
+  "web": "https://ticket.yes24.com/Pages/English/Perf/FnPerfList.aspx"
+ },
+ "melon_ticket_global": {
+  "terms": [
+   "Melon Ticket",
+   "멜론티켓",
+   "メロンチケット"
+  ],
+  "web": "https://tkglobal.melon.com/main/index.htm?langCd=EN"
  }
 }
