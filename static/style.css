@@ -222,3 +222,14 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
 .namer-line strong{font:400 1.7rem/1.3 'Song Myung',serif;word-break:keep-all}
 .namer-note{font-size:.88rem;color:var(--muted)}.namer-note.approx{color:#8a3b12}
 .namer-wrong{font-size:.82rem;margin:0}
+.namer-h{font:600 .78rem var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:14px 0 6px;border-top:1px solid var(--hair);padding-top:10px}
+.namer-text .namer-h:first-child{border-top:0;padding-top:0;margin-top:0}
+.namer-conf{font:600 .7rem var(--mono);border:1px solid currentColor;padding:1px 6px;margin-left:6px;text-transform:none;letter-spacing:0}
+.namer-conf.c-h{color:#2f6b3a}.namer-conf.c-m{color:#8a6a12}.namer-conf.c-l{color:#8a3b12}
+.namer-mean{font:400 1.25rem/1.4 'Song Myung',serif;margin:0 0 6px}.namer-origin{font:400 .8rem var(--text);color:var(--muted)}
+.namer-sub{font-size:.92rem;margin:4px 0}.namer-sub span{color:var(--muted);margin-right:6px}
+.namer-src{font-size:.8rem;margin:2px 0 0}
+.namer-chars{list-style:none;padding:0;margin:6px 0;display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:6px}
+.namer-chars li{border:1px solid var(--hair);padding:6px 8px;background:#fffdf8}.namer-chars b{font:400 1.4rem 'Song Myung',serif;margin-right:6px}.namer-chars i{color:var(--muted);font-size:.85rem}
+.namer-chain{border:1px solid var(--ink);border-top:0;padding:4px 20px 16px;background:#fffdf8}
+.namer-chain ol{margin:6px 0 0;padding-left:1.2em}.namer-chain li{margin:6px 0}.namer-chain a{font-weight:600;text-decoration:none}

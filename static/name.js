@@ -11,10 +11,10 @@
   var LANG = root.getAttribute('data-lang') || 'en';
 
   var UI = {
-    en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Nothing you type leaves your browser.', wrong: 'Looks wrong? Tell us and we will fix the list.' },
-    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 브라우저 밖으로 나가지 않아요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.' },
-    ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はブラウザの外に送られません。', wrong: 'おかしな結果?教えてもらえればリストを直します。' },
-    'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會離開瀏覽器。', wrong: '結果怪怪的?告訴我們,我們會修正清單。' }
+    en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Nothing you type leaves your browser.', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
+    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 브라우저 밖으로 나가지 않아요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
+    ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はブラウザの外に送られません。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
+    'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會離開瀏覽器。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
   }[LANG];
 
   /* ---------- Hangul helpers ---------- */
@@ -43,7 +43,39 @@
     var rr = cap(romanize(parts[0]).join('')) + (given ? ' ' + cap(romanize(given).join('-')) : '');
     var habit = SURNAME_RR[parts[0]];
     var extra = habit && given ? habit + ' ' + cap(romanize(given).join('')) : '';
-    return { hangul: parts.join(''), lines: [[UI.roman, rr + (extra && extra !== rr.replace('-', '') ? ' · ' + extra : '')]], note: UI.rr };
+    var ja = parts.map(toKatakana).join('・');
+    return { hangul: parts.join(''), kind: 'hangul', sounds: [[UI.roman, rr + (extra && extra !== rr.replace('-', '') ? ' · ' + extra : '')], [UI.lJa + ' (' + UI.kanaApprox + ')', ja]], note: UI.rr };
+  }
+
+
+  /* ---------- Hangul -> katakana (approximate, as Japanese media usually write Korean names) ---------- */
+  var KROW = { '': 'アイウエオ', k: 'カキクケコ', g: 'ガギグゲゴ', s: 'サシスセソ', t: 'タチツテト', d: 'ダヂヅデド', n: 'ナニヌネノ', h: 'ハヒフヘホ', b: 'バビブベボ', p: 'パピプペポ', m: 'マミムメモ', r: 'ラリルレロ' };
+  var KC = { 'ㄱ': ['k', 'g'], 'ㄲ': ['k', 'k'], 'ㄴ': ['n', 'n'], 'ㄷ': ['t', 'd'], 'ㄸ': ['t', 't'], 'ㄹ': ['r', 'r'], 'ㅁ': ['m', 'm'], 'ㅂ': ['p', 'b'], 'ㅃ': ['p', 'p'], 'ㅅ': ['s', 's'], 'ㅆ': ['s', 's'], 'ㅇ': ['', ''], 'ㅈ': ['ch', 'j'], 'ㅉ': ['ch', 'ch'], 'ㅊ': ['ch', 'ch'], 'ㅋ': ['k', 'k'], 'ㅌ': ['t', 't'], 'ㅍ': ['p', 'p'], 'ㅎ': ['h', 'h'] };
+  var KV = { 'ㅏ': 'a', 'ㅐ': 'e', 'ㅑ': 'ya', 'ㅒ': 'ye', 'ㅓ': 'o', 'ㅔ': 'e', 'ㅕ': 'yo', 'ㅖ': 'ye', 'ㅗ': 'o', 'ㅘ': 'wa', 'ㅙ': 'we', 'ㅚ': 'we', 'ㅛ': 'yo', 'ㅜ': 'u', 'ㅝ': 'wo', 'ㅞ': 'we', 'ㅟ': 'wi', 'ㅠ': 'yu', 'ㅡ': 'u', 'ㅢ': 'ui', 'ㅣ': 'i' };
+  var KF = { 'ㄱ': 'ク', 'ㄲ': 'ク', 'ㅋ': 'ク', 'ㄴ': 'ン', 'ㅇ': 'ン', 'ㅁ': 'ム', 'ㄹ': 'ル', 'ㅂ': 'プ', 'ㅍ': 'プ', 'ㄷ': 'ッ', 'ㅅ': 'ッ', 'ㅆ': 'ッ', 'ㅈ': 'ッ', 'ㅊ': 'ッ', 'ㅌ': 'ッ', 'ㅎ': 'ッ' };
+  function kmora(c, v) {
+    var idx = 'aiueo'.indexOf(v);
+    if (c === 'ch' || c === 'j') v = { wa: 'a', we: 'e', wi: 'i', wo: 'o', ui: 'i', ya: 'a', yu: 'u', yo: 'o', ye: 'e' }[v] || v;
+    if (c === 'ch' || c === 'j') { var base = c === 'ch' ? 'チ' : 'ジ'; return v === 'i' ? base : base + { a: 'ャ', u: 'ュ', e: 'ェ', o: 'ョ' }[v]; }
+    if (c === 's' && v === 'i') return 'シ';
+    var td = { ti: 'ティ', tu: 'トゥ', di: 'ディ', du: 'ドゥ' }[c + v];
+    if (td) return td;
+    if (idx >= 0) return KROW[c][idx];
+    var y = { ya: 'ャ', yu: 'ュ', yo: 'ョ' }[v];
+    if (y) return c ? KROW[c][1] + y : { ya: 'ヤ', yu: 'ユ', yo: 'ヨ' }[v];
+    if (v === 'ye') return c ? KROW[c][3] : 'イェ';
+    var w = { wa: 'ァ', we: 'ェ', wi: 'ィ', wo: 'ォ', ui: 'ィ' }[v];
+    if (!c) return { wa: 'ワ', we: 'ウェ', wi: 'ウィ', wo: 'ウォ', ui: 'ウィ' }[v];
+    return KROW[c][2] + w;
+  }
+  function toKatakana(word) {
+    var out = '';
+    for (var i = 0; i < word.length; i++) {
+      if (!isHangul(word[i])) continue;
+      var p = split(word[i]), c = KC[p[0]][i === 0 ? 0 : 1];
+      out += kmora(c, KV[p[1]]) + (p[2] ? (KF[p[2]] || '') : '');
+    }
+    return out;
   }
 
   /* ---------- Kana -> Hangul ---------- */
@@ -220,13 +252,18 @@
   }
 
   /* ---------- run ---------- */
+  function entryFor(key) {
+    var D = window.NADRI_NAMES || {}, e = D[key], hops = 0;
+    while (typeof e === 'string' && hops++ < 3) { key = e; e = D[e]; }
+    return e ? { key: key, e: e } : null;
+  }
   function convert(raw) {
     var s = raw.trim().replace(/\s+/g, ' ');
     if (!s) return null;
     var words = s.split(' ');
     var kind = /[가-힣]/.test(s) ? 'hangul' : /[぀-ヿ]/.test(s) ? 'kana' : /[一-鿿]/.test(s) ? 'han' : /[a-zA-ZÀ-ÿ]/.test(s) ? 'latin' : null;
     if (kind === 'hangul') return hangulResult(words.filter(function (w) { return /[가-힣]/.test(w); }));
-    var out = [], approx = false, romajiUsed = false;
+    var out = [], approx = false, romajiUsed = false, infos = [], latinCount = 0;
     for (var i = 0; i < words.length; i++) {
       var w = words[i], h = null;
       if (/[぀-ヿ]/.test(w)) h = kanaWord(w);
@@ -238,9 +275,12 @@
           h = a && b ? a + ' ' + b : null;
         } else h = hanWord(w, i === 0);
       } else {
+        latinCount++;
         var key = w.toLowerCase().replace(/[^a-zà-ÿ-]/g, '');
-        var jk = LANG === 'ja' && !NAMES[key] ? romajiToKana(key) : null;
-        if (NAMES[key]) h = NAMES[key];
+        var jk = LANG === 'ja' && !NAMES[key] && !entryFor(key) ? romajiToKana(key) : null;
+        var hit = entryFor(key) || entryFor(key.normalize('NFD').replace(/[\u0300-\u036f]/g, ''));
+        if (hit) { infos.push(hit); h = hit.e.ko; }
+        else if (NAMES[key]) h = NAMES[key];
         else if (jk) { h = kanaWord(jk); romajiUsed = true; }
         else { var plain = key.normalize('NFD').replace(/[̀-ͯ]/g, ''); h = NAMES[plain] || roughWord(plain); if (!NAMES[plain]) approx = true; }
       }
@@ -249,9 +289,24 @@
     }
     var hangul = out.join(' ');
     var note = kind === 'kana' || romajiUsed ? UI.kana : kind === 'han' ? UI.hanja : approx ? UI.approx : UI.checked;
-    var label = kind === 'han' ? UI.reading : UI.sound;
-    var rr = romanize(hangul.replace(/ /g, '')).join('-');
-    return { hangul: hangul, lines: [[label, hangul]], note: note, approx: approx };
+    var sounds = [[kind === 'han' ? UI.reading : UI.lKo, hangul]];
+    var r = { hangul: hangul, kind: kind, note: note, approx: approx, sounds: sounds };
+    if (kind === 'latin') {
+      var all = infos.length === latinCount && infos.length;
+      if (all) { sounds.push([UI.lJa, infos.map(function (x) { return x.e.ja; }).join('・')]); sounds.push([UI.lZh, infos.map(function (x) { return x.e.zh; }).join('·')]); }
+      var main = infos.filter(function (x) { return x.e.m; })[0];
+      if (main) { r.meaning = main; r.chain = main.e.ch; } else r.noMeaning = true;
+    }
+    if (kind === 'kana' || romajiUsed) sounds.push([UI.lJa, words.join(' ')]);
+    if (kind === 'han') {
+      var K = window.NADRI_KANJI || {}, KCH = window.NADRI_KANJI_CHAIN || {};
+      r.chars = s.replace(/ /g, '').split('').map(function (c) {
+        var n = c.charCodeAt(0), rd = n >= 0x4E00 && n <= 0x9FFF && window.HANJA_KO ? window.HANJA_KO[n - 0x4E00] : '';
+        return { c: c, read: rd === '·' ? '' : rd, ko: K[c] && K[c].ko, en: K[c] && K[c].en };
+      });
+      r.chars.forEach(function (x) { if (!r.chain && KCH[x.c]) r.chain = KCH[x.c]; });
+    }
+    return r;
   }
 
   /* ---------- seal (dojang) as SVG ---------- */
@@ -288,12 +343,33 @@
     if (!r) { out.innerHTML = '<p>' + UI.empty + '</p>'; return; }
     if (r.error) { out.innerHTML = '<p>' + UI.none + '</p>'; return; }
     var esc = function (t) { return String(t).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
-    var lines = r.lines.map(function (l) { return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + '</strong></div>'; }).join('');
+    var L = LANG === 'zh-tw' ? 'zh' : LANG, pre = LANG === 'en' ? '' : '/' + LANG;
+    var h = '';
+    h += '<h3 class="namer-h">' + UI.secSound + '</h3>' + r.sounds.map(function (l) { return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + '</strong></div>'; }).join('');
+    if (r.meaning) {
+      var e = r.meaning.e;
+      h += '<h3 class="namer-h">' + UI.secMeaning + ' <span class="namer-conf c-' + e.c + '">' + UI.conf[e.c] + '</span></h3>' +
+        '<p class="namer-mean">' + esc(e.m[L]) + ' <span class="namer-origin">(' + esc(e.o) + ')</span></p>';
+      if (e.w) h += '<p class="namer-sub"><span>' + UI.word + '</span> 한국어 ' + esc(e.w.ko) + ' · 日本語 ' + esc(e.w.ja) + ' · 中文 ' + esc(e.w.zh) + '</p>';
+      if (e.i) h += '<p class="namer-sub"><span>' + UI.idea + '</span> <strong>' + esc(e.i.ko) + '</strong> · ' + esc(e.i.ja) + ' · ' + esc(e.i.zh) + '</p>';
+      h += '<p class="namer-src"><a href="https://www.behindthename.com/name/' + encodeURIComponent(r.meaning.key) + '" rel="noopener" target="_blank">' + UI.src + '</a></p>';
+    } else if (r.noMeaning) {
+      h += '<h3 class="namer-h">' + UI.secMeaning + '</h3><p class="namer-sub">' + UI.noMeaning + '</p>';
+    }
+    if (r.chars) {
+      h += '<h3 class="namer-h">' + UI.secMeaning + '</h3><p class="namer-sub"><span>' + UI.chars + '</span></p><ul class="namer-chars">' + r.chars.map(function (x) {
+        return '<li><b>' + esc(x.c) + '</b> ' + (x.ko ? esc(x.ko) + ' ' : '') + esc(x.read || '') + (x.en ? ' <i>' + esc(x.en) + '</i>' : '') + '</li>';
+      }).join('') + '</ul>';
+    }
+    var steps = r.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[r.chain];
+    var chainHtml = steps ? '<div class="namer-chain"><h3 class="namer-h">' + UI.secChain + '</h3><ol>' + steps.map(function (st) {
+      return '<li>' + esc(st[L]) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '</li>';
+    }).join('') + '</ol></div>' : '';
     var seal = r.hangul.replace(/ /g, '').length <= 9 ? sealSVG(esc(r.hangul)) : '';
-    out.innerHTML = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + lines +
+    out.innerHTML = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
       '<p class="namer-note' + (r.approx ? ' approx' : '') + '">' + r.note + '</p>' +
       '<p class="namer-actions"><button type="button" class="namer-save">' + UI.save + '</button> <button type="button" class="namer-share">' + UI.share + '</button></p>' +
-      '<p class="namer-wrong"><a href="mailto:gibyeol.official@gmail.com?subject=' + encodeURIComponent('Nadri name: ' + name) + '">' + UI.wrong + '</a></p></div></div>';
+      '<p class="namer-wrong"><a href="mailto:gibyeol.official@gmail.com?subject=' + encodeURIComponent('Nadri name: ' + name) + '">' + UI.wrong + '</a></p></div></div>' + chainHtml;
     var svg = out.querySelector('svg');
     out.querySelector('.namer-save').onclick = function () { if (svg) savePNG(svg, r.hangul); };
     out.querySelector('.namer-share').onclick = function (e) {
