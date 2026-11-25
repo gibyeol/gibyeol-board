@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-label="One trip, step by step" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>One trip, step by step</title>
+<rect width="720" height="520" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+
+<text x="360" y="40" font-size="20" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">One trip, step by step</text>
+<rect x="20" y="80" width="155" height="230" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<circle cx="44" cy="104" r="15" fill="#b8392f"/>
+<text x="44" y="105" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1</text>
+<rect x="71" y="138" width="14" height="44" rx="3" fill="#16151a"/><rect x="109" y="138" width="14" height="44" rx="3" fill="#16151a"/><rect x="87" y="130" width="20" height="14" rx="3" fill="#b8392f"/>
+<text x="97" y="225" font-size="17" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">Tap in</text>
+<text x="97" y="262" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Balance shows</text>
+<text x="97" y="282" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">on the reader</text>
+<line x1="176" y1="195" x2="194" y2="195" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="195" y="80" width="155" height="230" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="219" cy="104" r="15" fill="#b8392f"/>
+<text x="219" y="105" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">2</text>
+<circle cx="272" cy="160" r="30" fill="#16151a"/>
+<text x="272" y="161" font-size="28" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">4</text>
+<text x="272" y="225" font-size="17" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">Line number</text>
+<text x="272" y="262" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Then check</text>
+<text x="272" y="282" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">the direction</text>
+<line x1="351" y1="195" x2="369" y2="195" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="370" y="80" width="155" height="230" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="394" cy="104" r="15" fill="#b8392f"/>
+<text x="394" y="105" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">3</text>
+<circle cx="425" cy="160" r="20" fill="#16151a"/>
+<text x="425" y="161" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">2</text>
+<circle cx="469" cy="160" r="20" fill="#5f5b55"/>
+<text x="469" y="161" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">5</text>
+<text x="447" y="225" font-size="17" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">Change inside</text>
+<text x="447" y="272" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">No extra gate</text>
+<line x1="526" y1="195" x2="544" y2="195" stroke="#16151a" stroke-width="2.5" marker-end="url(#ah)"/>
+<rect x="545" y="80" width="155" height="230" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<circle cx="569" cy="104" r="15" fill="#b8392f"/>
+<text x="569" y="105" font-size="16" fill="#ffffff" text-anchor="middle" font-weight="bold" dominant-baseline="middle">4</text>
+<rect x="596" y="138" width="14" height="44" rx="3" fill="#16151a"/><rect x="634" y="138" width="14" height="44" rx="3" fill="#16151a"/><rect x="612" y="130" width="20" height="14" rx="3" fill="#b8392f"/>
+<text x="622" y="225" font-size="17" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">Tap out</text>
+<text x="622" y="262" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Fare is set</text>
+<text x="622" y="282" font-size="15" fill="#5f5b55" text-anchor="middle" font-weight="normal" dominant-baseline="middle">by distance</text>
+<rect x="20" y="340" width="330" height="150" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
+<text x="185" y="385" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Bus next?</text>
+<text x="185" y="405" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Board within 30 min</text>
+<text x="185" y="425" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">(60 min, 9 p.m.–7 a.m.)</text>
+<text x="185" y="445" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">with the same card</text>
+<rect x="370" y="340" width="330" height="150" rx="12" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="2"/>
+<text x="535" y="385" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Single ticket?</text>
+<text x="535" y="405" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Put it in the</text>
+<text x="535" y="425" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">Deposit Refund machine:</text>
+<text x="535" y="445" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">₩500 back</text>
+</svg>

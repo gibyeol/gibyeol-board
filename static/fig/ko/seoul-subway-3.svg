@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 610" role="img" aria-label="교통카드 vs 1회용 승차권(어른)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>교통카드 vs 1회용 승차권(어른)</title>
+<rect width="720" height="610" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+
+<text x="360" y="40" font-size="20" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">교통카드 vs 1회용 승차권(어른)</text>
+<rect x="30" y="80" width="660" height="495" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="265" y="80" width="225" height="495" fill="#e9e2d3"/>
+<text x="375" y="115" font-size="17" fill="#b8392f" text-anchor="middle" font-weight="bold" dominant-baseline="middle">티머니·와우패스</text>
+<text x="595" y="115" font-size="17" fill="#5f5b55" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1회용 승차권</text>
+<line x1="30" y1="150" x2="690" y2="150" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="192" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">기본요금(10km)</text>
+<text x="375" y="192" font-size="16" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1,550원</text>
+<text x="595" y="192" font-size="16" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1,650원</text>
+<line x1="30" y1="235" x2="690" y2="235" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="277" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">보증금</text>
+<text x="375" y="277" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">—</text>
+<text x="595" y="267" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">500원,</text>
+<text x="595" y="287" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">나가서 환급</text>
+<line x1="30" y1="320" x2="690" y2="320" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="362" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">버스 환승 할인</text>
+<text x="375" y="352" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">돼요</text>
+<text x="375" y="372" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">(30분 안)</text>
+<text x="595" y="362" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">안 돼요</text>
+<line x1="30" y1="405" x2="690" y2="405" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="447" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">쓸 수 있는 곳</text>
+<text x="375" y="437" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">지하철</text>
+<text x="375" y="457" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">버스</text>
+<text x="595" y="437" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">수도권</text>
+<text x="595" y="457" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">도시철도만</text>
+<line x1="30" y1="490" x2="690" y2="490" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="532" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">충전</text>
+<text x="375" y="522" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">역 충전기에서</text>
+<text x="375" y="542" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">현금</text>
+<text x="595" y="522" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">탈 때마다</text>
+<text x="595" y="542" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">새로 구매</text>
+</svg>

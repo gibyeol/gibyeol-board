@@ -4,36 +4,36 @@
 <rect x="0" y="0" width="720" height="420" rx="14" fill="#f4f0e6"/>
 <text x="28" y="44" font-size="22" fill="#16151a" text-anchor="start" font-weight="bold">어디서 무엇을, 언제</text>
 <rect x="20" y="64" width="680" height="300" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
-<text x="214.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">뷰티</text>
-<text x="302.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">패션</text>
-<text x="390.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">K-팝 굿즈</text>
-<text x="478.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">팝업</text>
+<text x="196.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">뷰티</text>
+<text x="288.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">패션</text>
+<text x="380.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">K-팝 굿즈</text>
+<text x="472.0" y="94" font-size="14" fill="#5f5b55" text-anchor="middle" font-weight="bold">팝업</text>
 <text x="530" y="94" font-size="14" fill="#5f5b55" text-anchor="start" font-weight="bold">가기 좋은 시간</text>
 <rect x="21" y="112" width="678" height="62" fill="#e9e2d3"/>
 <text x="36" y="149" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">명동</text>
-<circle cx="214.0" cy="143" r="11" fill="#b8392f"/>
-<circle cx="302.0" cy="143" r="10" fill="none" stroke="#16151a" stroke-width="2.5"/>
-<line x1="383.0" y1="143" x2="397.0" y2="143" stroke="#c9c1b2" stroke-width="2"/>
-<line x1="471.0" y1="143" x2="485.0" y2="143" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="196.0" cy="143" r="11" fill="#b8392f"/>
+<circle cx="288.0" cy="143" r="10" fill="none" stroke="#16151a" stroke-width="2.5"/>
+<line x1="373.0" y1="143" x2="387.0" y2="143" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="465.0" y1="143" x2="479.0" y2="143" stroke="#c9c1b2" stroke-width="2"/>
 <text x="530" y="148" font-size="15" fill="#16151a" text-anchor="start" font-weight="normal">이른 시간</text>
 <text x="36" y="211" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">성수</text>
-<circle cx="214.0" cy="205" r="10" fill="none" stroke="#16151a" stroke-width="2.5"/>
-<circle cx="302.0" cy="205" r="11" fill="#b8392f"/>
-<line x1="383.0" y1="205" x2="397.0" y2="205" stroke="#c9c1b2" stroke-width="2"/>
-<circle cx="478.0" cy="205" r="11" fill="#b8392f"/>
+<circle cx="196.0" cy="205" r="10" fill="none" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="288.0" cy="205" r="11" fill="#b8392f"/>
+<line x1="373.0" y1="205" x2="387.0" y2="205" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="472.0" cy="205" r="11" fill="#b8392f"/>
 <text x="530" y="210" font-size="15" fill="#16151a" text-anchor="start" font-weight="normal">평일</text>
 <rect x="21" y="236" width="678" height="62" fill="#e9e2d3"/>
 <text x="36" y="273" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">홍대</text>
-<circle cx="214.0" cy="267" r="10" fill="none" stroke="#16151a" stroke-width="2.5"/>
-<circle cx="302.0" cy="267" r="11" fill="#b8392f"/>
-<circle cx="390.0" cy="267" r="11" fill="#b8392f"/>
-<line x1="471.0" y1="267" x2="485.0" y2="267" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="196.0" cy="267" r="10" fill="none" stroke="#16151a" stroke-width="2.5"/>
+<circle cx="288.0" cy="267" r="11" fill="#b8392f"/>
+<circle cx="380.0" cy="267" r="11" fill="#b8392f"/>
+<line x1="465.0" y1="267" x2="479.0" y2="267" stroke="#c9c1b2" stroke-width="2"/>
 <text x="530" y="272" font-size="15" fill="#16151a" text-anchor="start" font-weight="normal">늦은 오후~밤</text>
 <text x="36" y="335" font-size="17" fill="#16151a" text-anchor="start" font-weight="bold">동대문</text>
-<line x1="207.0" y1="329" x2="221.0" y2="329" stroke="#c9c1b2" stroke-width="2"/>
-<circle cx="302.0" cy="329" r="11" fill="#b8392f"/>
-<line x1="383.0" y1="329" x2="397.0" y2="329" stroke="#c9c1b2" stroke-width="2"/>
-<line x1="471.0" y1="329" x2="485.0" y2="329" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="189.0" y1="329" x2="203.0" y2="329" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="288.0" cy="329" r="11" fill="#b8392f"/>
+<line x1="373.0" y1="329" x2="387.0" y2="329" stroke="#c9c1b2" stroke-width="2"/>
+<line x1="465.0" y1="329" x2="479.0" y2="329" stroke="#c9c1b2" stroke-width="2"/>
 <text x="530" y="334" font-size="15" fill="#16151a" text-anchor="start" font-weight="normal">저녁~자정</text>
 <circle cx="40" cy="390" r="9" fill="#b8392f"/><text x="56" y="395" font-size="14" fill="#16151a" text-anchor="start" font-weight="normal">가장 잘 맞음</text>
 <circle cx="260" cy="390" r="8" fill="none" stroke="#16151a" stroke-width="2.5"/><text x="276" y="395" font-size="14" fill="#16151a" text-anchor="start" font-weight="normal">이것도 괜찮음</text>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 610" role="img" aria-label="交通卡 vs 單程票(成人)" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>交通卡 vs 單程票(成人)</title>
+<rect width="720" height="610" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+
+<text x="360" y="40" font-size="20" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">交通卡 vs 單程票(成人)</text>
+<rect x="30" y="80" width="660" height="495" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<rect x="265" y="80" width="225" height="495" fill="#e9e2d3"/>
+<text x="375" y="115" font-size="17" fill="#b8392f" text-anchor="middle" font-weight="bold" dominant-baseline="middle">T-money・WOWPASS</text>
+<text x="595" y="115" font-size="17" fill="#5f5b55" text-anchor="middle" font-weight="bold" dominant-baseline="middle">單程票</text>
+<line x1="30" y1="150" x2="690" y2="150" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="192" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">基本票價(10公里)</text>
+<text x="375" y="192" font-size="16" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1,550韓元</text>
+<text x="595" y="192" font-size="16" fill="#16151a" text-anchor="middle" font-weight="bold" dominant-baseline="middle">1,650韓元</text>
+<line x1="30" y1="235" x2="690" y2="235" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="277" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">押金</text>
+<text x="375" y="277" font-size="17" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">—</text>
+<text x="595" y="267" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">500韓元,</text>
+<text x="595" y="287" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">出站退還</text>
+<line x1="30" y1="320" x2="690" y2="320" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="362" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">公車轉乘優惠</text>
+<text x="375" y="352" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">有</text>
+<text x="375" y="372" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">(30分鐘內)</text>
+<text x="595" y="362" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">沒有</text>
+<line x1="30" y1="405" x2="690" y2="405" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="447" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">可搭乘範圍</text>
+<text x="375" y="437" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">地鐵</text>
+<text x="375" y="457" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">公車</text>
+<text x="595" y="437" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">只限首都圈</text>
+<text x="595" y="457" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">鐵路</text>
+<line x1="30" y1="490" x2="690" y2="490" stroke="#c9c1b2" stroke-width="2"/>
+<text x="45" y="532" font-size="16" fill="#16151a" text-anchor="start" font-weight="bold" dominant-baseline="middle">儲值</text>
+<text x="375" y="522" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">車站儲值機</text>
+<text x="375" y="542" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">付現金</text>
+<text x="595" y="522" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">每趟</text>
+<text x="595" y="542" font-size="16" fill="#16151a" text-anchor="middle" font-weight="normal" dominant-baseline="middle">重新購買</text>
+</svg>
