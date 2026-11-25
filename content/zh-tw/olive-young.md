@@ -66,7 +66,7 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 
 {{fig:olive-young-5|回國後要回購,去哪裡買}}
 
-Olive Young Global 有配送到台灣,運費和條件請在結帳時確認。
+Olive Young Global 有配送到台灣,新客常有首購優惠。運費和條件請在結帳時確認。
 
 ## 資料來源
 
