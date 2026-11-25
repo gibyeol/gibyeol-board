@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 338" role="img" aria-label="What actually comes back" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="338" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">What actually comes back</text>
+<rect x="16" y="54" width="368" height="90" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">10% VAT is inside the price</text>
+<text x="30" y="112" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Refund operators keep a fee,</text>
+<text x="30" y="134" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">so about 5–8% comes back</text>
+<rect x="16" y="154" width="368" height="136" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<text x="30" y="186" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">You spend ₩50,000</text>
+<text x="370" y="186" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">≈ ₩2,500</text>
+<path d="M30 200 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="228" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">You spend ₩300,000</text>
+<text x="370" y="228" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">≈ ₩15,000–24,000</text>
+<path d="M30 242 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="270" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">You spend ₩1,000,000</text>
+<text x="370" y="270" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">≈ ₩60,000–80,000</text>
+<text x="16" y="322" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Estimates. Your slip shows the exact amount.</text>
+</svg>

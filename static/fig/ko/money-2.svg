@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" role="img" aria-label="카드가 막혔다면?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="540" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">카드가 막혔다면?</text>
+<text x="16" y="62" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">상황부터 찾으세요</text>
+<rect x="16" y="76" width="368" height="68" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">택시</text>
+<text x="30" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">k.ride 앱은 해외 카드 결제 가능</text>
+<rect x="16" y="154" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">배달 (배달의민족)</text>
+<text x="30" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">해외 카드로, 한국 번호 없이</text>
+<text x="30" y="234" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">주문 가능 (2026년 7월부터)</text>
+<rect x="16" y="254" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="288" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">네이버 지도 예약·주문</text>
+<text x="30" y="312" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">여권 인증으로 이용</text>
+<text x="30" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(2026년 6월부터)</text>
+<rect x="16" y="354" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="388" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">지하철 기후동행카드</text>
+<text x="30" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1~8호선 273개 역 새 발매기</text>
+<text x="30" y="434" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(해외 카드 수수료 3.7%)</text>
+<rect x="16" y="454" width="368" height="68" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="488" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">그 밖의 곳</text>
+<text x="30" y="512" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">다른 브랜드 카드, 그다음 현금</text>
+</svg>

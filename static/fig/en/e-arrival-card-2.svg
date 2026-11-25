@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 550" role="img" aria-label="Landing on the 31st?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="550" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Landing on the 31st?</text>
+<text x="16" y="62" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Days counted in Korea time</text>
+<rect x="16" y="76" width="368" height="68" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<rect x="28" y="88" width="56" height="36" rx="8" fill="#ffffff"/>
+<text x="56.0" y="112" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="middle">28th</text>
+<text x="96" y="110" font-size="17" font-weight="700" fill="#5f5b55" text-anchor="start">Too early</text>
+<text x="96" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Filing has not opened yet</text>
+<rect x="16" y="154" width="368" height="68" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="28" y="166" width="56" height="36" rx="8" fill="#b8392f"/>
+<text x="56.0" y="190" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">29th</text>
+<text x="96" y="188" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Filing opens</text>
+<text x="96" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">3 days before arrival</text>
+<rect x="16" y="232" width="368" height="64" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="28" y="244" width="56" height="36" rx="8" fill="#16151a"/>
+<text x="56.0" y="268" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">30th</text>
+<text x="96" y="266" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Still fine</text>
+<rect x="16" y="306" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="28" y="318" width="56" height="36" rx="8" fill="#16151a"/>
+<text x="56.0" y="342" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">31st</text>
+<text x="96" y="340" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">You land</text>
+<text x="96" y="364" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Still possible before the</text>
+<text x="96" y="386" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">immigration desk</text>
+<rect x="16" y="412" width="368" height="90" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="446" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">A card expires</text>
+<text x="30" y="470" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">72 hours after you submit,</text>
+<text x="30" y="492" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">or once you pass immigration</text>
+<text x="16" y="534" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Flight moved after you filed? Submit again.</text>
+</svg>

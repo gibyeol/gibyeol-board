@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 648" role="img" aria-label="電子入国申告書は必要?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="648" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">電子入国申告書は必要?</text>
+<rect x="16" y="54" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">韓国籍、または</text>
+<text x="30" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">韓国の外国人登録者?</text>
+<rect x="26" y="122" width="348" height="42" rx="8" fill="#ffffff"/>
+<rect x="36" y="132" width="56" height="26" rx="13" fill="#b8392f"/>
+<text x="64.0" y="151" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="102" y="151" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不要</text>
+<path d="M44 182 V206" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 200 L44 208 L50 200" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="201" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="216" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="250" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">有効なK-ETAがある?</text>
+<rect x="26" y="262" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="272" width="56" height="26" rx="13" fill="#b8392f"/>
+<text x="64.0" y="291" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="102" y="291" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不要</text>
+<text x="102" y="313" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">k-eta.go.krで滞在先を更新</text>
+<path d="M44 344 V368" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 362 L44 370 L50 362" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="363" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="378" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="412" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">24時間以内の乗り継ぎで</text>
+<text x="30" y="434" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">空港の外に出ない?</text>
+<rect x="26" y="446" width="348" height="42" rx="8" fill="#ffffff"/>
+<rect x="36" y="456" width="56" height="26" rx="13" fill="#b8392f"/>
+<text x="64.0" y="475" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="102" y="475" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不要</text>
+<path d="M44 506 V530" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 524 L44 532 L50 524" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="525" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="540" width="368" height="90" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="574" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">無料の電子入国申告書を提出</text>
+<text x="30" y="598" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">e-arrivalcard.go.kr</text>
+<text x="30" y="620" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">到着前3日以内に</text>
+</svg>

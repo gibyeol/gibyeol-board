@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 454" role="img" aria-label="両替はどこで" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="454" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">両替はどこで</text>
+<text x="16" y="62" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ふつう有利な順</text>
+<rect x="16" y="76" width="368" height="68" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<rect x="28" y="88" width="40" height="36" rx="8" fill="#b8392f"/>
+<text x="48.0" y="112" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="80" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">市内の両替所</text>
+<text x="80" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ふつういちばん有利</text>
+<rect x="16" y="154" width="368" height="68" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="28" y="166" width="40" height="36" rx="8" fill="#16151a"/>
+<text x="48.0" y="190" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="80" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">市内の銀行</text>
+<text x="80" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ふつう中間</text>
+<rect x="16" y="232" width="368" height="68" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<rect x="28" y="244" width="40" height="36" rx="8" fill="#16151a"/>
+<text x="48.0" y="268" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="80" y="266" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">空港</text>
+<text x="80" y="290" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ホテルまでの交通費だけ</text>
+<rect x="16" y="316" width="368" height="90" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<rect x="28" y="328" width="52" height="36" rx="8" fill="#ffffff"/>
+<text x="54.0" y="352" font-size="16" font-weight="700" fill="#16151a" text-anchor="middle">ATM</text>
+<text x="92" y="350" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Global ATM</text>
+<text x="92" y="374" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">ATM手数料 約2,000ウォン〜</text>
+<text x="92" y="396" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">+ カード会社所定の利息</text>
+<text x="16" y="438" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">1万ウォン札で受け取りましょう。</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 670" role="img" aria-label="你的收據走哪一條?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="670" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">你的收據走哪一條?</text>
+<rect x="16" y="54" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">單筆未滿 15,000 韓元?</text>
+<rect x="26" y="100" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="110" width="44" height="26" rx="13" fill="#b8392f"/>
+<text x="58.0" y="129" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">是</text>
+<text x="90" y="129" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不能退稅</text>
+<text x="90" y="151" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">同一家店一次買</text>
+<path d="M44 182 V206" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 200 L44 208 L50 200" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="201" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">否</text>
+<rect x="16" y="216" width="368" height="144" rx="10" fill="#e9e2d3"/>
+<text x="30" y="250" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">單筆 100 萬韓元</text>
+<text x="30" y="272" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">以上?</text>
+<rect x="26" y="284" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="294" width="44" height="26" rx="13" fill="#b8392f"/>
+<text x="58.0" y="313" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">是</text>
+<text x="90" y="313" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">索取退稅單</text>
+<text x="90" y="335" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">托運行李前辦理</text>
+<path d="M44 366 V390" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 384 L44 392 L50 384" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="385" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">否</text>
+<rect x="16" y="400" width="368" height="144" rx="10" fill="#e9e2d3"/>
+<text x="30" y="434" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">櫃檯沒有 Tax Free</text>
+<text x="30" y="456" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">標示?</text>
+<rect x="26" y="468" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="478" width="44" height="26" rx="13" fill="#b8392f"/>
+<text x="58.0" y="497" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">是</text>
+<text x="90" y="497" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">索取退稅單</text>
+<text x="90" y="519" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">機場或市區退稅機</text>
+<path d="M44 550 V574" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 568 L44 576 L50 568" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="569" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">否</text>
+<rect x="16" y="584" width="368" height="68" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="618" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">結帳時現場退稅</text>
+<text x="30" y="642" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">出示護照正本</text>
+</svg>

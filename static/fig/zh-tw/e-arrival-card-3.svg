@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 394" role="img" aria-label="是官網嗎?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="394" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">是官網嗎?</text>
+<rect x="16" y="54" width="368" height="120" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<path d="M16 98 H384" stroke="#c9c1b2"/>
+<circle cx="32" cy="76" r="4" fill="#c9c1b2"/>
+<circle cx="44" cy="76" r="4" fill="#c9c1b2"/>
+<circle cx="56" cy="76" r="4" fill="#c9c1b2"/>
+<rect x="72" y="62" width="300" height="28" rx="14" fill="#e9e2d3"/>
+<text x="86" y="82" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">e-arrivalcard.go.kr</text>
+<circle cx="40" cy="123" r="9" fill="#16151a"/><path d="M35 123 l4 4 l7 -8" fill="none" stroke="#ffffff" stroke-width="2"/>
+<text x="58" y="128" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">結尾是 go.kr</text>
+<circle cx="40" cy="151" r="9" fill="#16151a"/><path d="M35 151 l4 4 l7 -8" fill="none" stroke="#ffffff" stroke-width="2"/>
+<text x="58" y="156" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">免費:沒有付款步驟</text>
+<rect x="16" y="188" width="368" height="140" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<path d="M16 232 H384" stroke="#c9c1b2"/>
+<circle cx="32" cy="210" r="4" fill="#c9c1b2"/>
+<circle cx="44" cy="210" r="4" fill="#c9c1b2"/>
+<circle cx="56" cy="210" r="4" fill="#c9c1b2"/>
+<rect x="72" y="196" width="300" height="28" rx="14" fill="#e9e2d3"/>
+<text x="86" y="216" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">名稱很像的網址</text>
+<rect x="30" y="246" width="340" height="34" rx="6" fill="#ffffff" stroke="#c9c1b2"/>
+<text x="42" y="269" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">信用卡號碼  ____ ____ ____</text>
+<circle cx="40" cy="303" r="9" fill="#b8392f"/><path d="M35 298 l10 10 M45 298 l-10 10" stroke="#ffffff" stroke-width="2"/>
+<text x="58" y="309" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">要收手續費 → 馬上關掉</text>
+<text x="16" y="356" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">網址請自己輸入,</text>
+<text x="16" y="378" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不要點搜尋廣告。</text>
+</svg>

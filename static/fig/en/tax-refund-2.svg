@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 696" role="img" aria-label="Which route does your receipt take?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="696" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Which route does</text>
+<text x="16" y="66" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">your receipt take?</text>
+<rect x="16" y="80" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="114" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Receipt under ₩15,000?</text>
+<rect x="26" y="126" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="136" width="52" height="26" rx="13" fill="#b8392f"/>
+<text x="62.0" y="155" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Yes</text>
+<text x="98" y="155" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">No refund</text>
+<text x="98" y="177" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Batch buys in one shop</text>
+<path d="M44 208 V232" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 226 L44 234 L50 226" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="227" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">No</text>
+<rect x="16" y="242" width="368" height="144" rx="10" fill="#e9e2d3"/>
+<text x="30" y="276" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">₩1,000,000 or more</text>
+<text x="30" y="298" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">on one receipt?</text>
+<rect x="26" y="310" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="320" width="52" height="26" rx="13" fill="#b8392f"/>
+<text x="62.0" y="339" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Yes</text>
+<text x="98" y="339" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Refund slip</text>
+<text x="98" y="361" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Claim before you check bags</text>
+<path d="M44 392 V416" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 410 L44 418 L50 410" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="411" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">No</text>
+<rect x="16" y="426" width="368" height="144" rx="10" fill="#e9e2d3"/>
+<text x="30" y="460" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">No “Tax Free” sign</text>
+<text x="30" y="482" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">at the till?</text>
+<rect x="26" y="494" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="504" width="52" height="26" rx="13" fill="#b8392f"/>
+<text x="62.0" y="523" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Yes</text>
+<text x="98" y="523" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">Refund slip</text>
+<text x="98" y="545" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Airport or downtown kiosk</text>
+<path d="M44 576 V600" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 594 L44 602 L50 594" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="595" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">No</text>
+<rect x="16" y="610" width="368" height="68" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="644" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">Instant refund at the till</text>
+<text x="30" y="668" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">Show your physical passport</text>
+</svg>

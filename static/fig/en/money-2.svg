@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 540" role="img" aria-label="Card turned down?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="540" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">Card turned down?</text>
+<text x="16" y="62" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Find your situation</text>
+<rect x="16" y="76" width="368" height="68" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Taxi</text>
+<text x="30" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">k.ride app takes overseas cards</text>
+<rect x="16" y="154" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Food delivery (Baemin)</text>
+<text x="30" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Foreign card, no Korean number</text>
+<text x="30" y="234" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">needed (since July 2026)</text>
+<rect x="16" y="254" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="288" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Naver Map booking or ordering</text>
+<text x="30" y="312" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Verify with your passport</text>
+<text x="30" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(since June 2026)</text>
+<rect x="16" y="354" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="388" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Subway: Climate Card</text>
+<text x="30" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">New machines at 273 stations,</text>
+<text x="30" y="434" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Lines 1–8 (3.7% fee)</text>
+<rect x="16" y="454" width="368" height="68" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="488" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Anywhere else</text>
+<text x="30" y="512" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Your second card, then cash</text>
+</svg>

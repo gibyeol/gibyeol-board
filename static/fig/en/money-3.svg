@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 406" role="img" aria-label="WOWPASS: what it costs" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="406" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">WOWPASS: what it costs</text>
+<rect x="16" y="54" width="368" height="304" rx="10" fill="#ffffff" stroke="#c9c1b2"/>
+<text x="30" y="86" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Card</text>
+<text x="370" y="86" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩5,000</text>
+<path d="M30 100 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="128" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Card reserved in the app</text>
+<text x="370" y="128" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩4,500</text>
+<path d="M30 142 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="170" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Loading foreign cash</text>
+<text x="370" y="170" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">No fee</text>
+<path d="M30 184 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Paying in shops</text>
+<text x="370" y="212" font-size="17" font-weight="700" fill="#b8392f" text-anchor="end">No fee</text>
+<path d="M30 226 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="254" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Withdrawing won, per time</text>
+<text x="370" y="254" font-size="17" font-weight="700" fill="#16151a" text-anchor="end">₩1,000</text>
+<path d="M30 268 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="296" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Withdrawal limit, per time</text>
+<text x="370" y="296" font-size="16" font-weight="400" fill="#16151a" text-anchor="end">₩100,000</text>
+<path d="M30 310 H370" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="338" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Leftover balance</text>
+<text x="370" y="338" font-size="16" font-weight="400" fill="#16151a" text-anchor="end">Won cash only</text>
+<text x="16" y="390" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">Official guide, 4 November 2025</text>
+</svg>

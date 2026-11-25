@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 670" role="img" aria-label="レシートはどのルート?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="670" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">レシートはどのルート?</text>
+<rect x="16" y="54" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">レシートが15,000ウォン未満?</text>
+<rect x="26" y="100" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="110" width="56" height="26" rx="13" fill="#b8392f"/>
+<text x="64.0" y="129" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="102" y="129" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">対象外</text>
+<text x="102" y="151" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">店ごとにまとめ買い</text>
+<path d="M44 182 V206" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 200 L44 208 L50 200" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="201" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="216" width="368" height="144" rx="10" fill="#e9e2d3"/>
+<text x="30" y="250" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">1レシートが</text>
+<text x="30" y="272" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">100万ウォン以上?</text>
+<rect x="26" y="284" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="294" width="56" height="26" rx="13" fill="#b8392f"/>
+<text x="64.0" y="313" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="102" y="313" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">還付書類をもらう</text>
+<text x="102" y="335" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">荷物を預ける前に手続き</text>
+<path d="M44 366 V390" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 384 L44 392 L50 384" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="385" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="400" width="368" height="144" rx="10" fill="#e9e2d3"/>
+<text x="30" y="434" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">レジに Tax Free の</text>
+<text x="30" y="456" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">表示がない?</text>
+<rect x="26" y="468" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="478" width="56" height="26" rx="13" fill="#b8392f"/>
+<text x="64.0" y="497" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">はい</text>
+<text x="102" y="497" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">還付書類をもらう</text>
+<text x="102" y="519" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">空港か市内のキオスク</text>
+<path d="M44 550 V574" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 568 L44 576 L50 568" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="569" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">いいえ</text>
+<rect x="16" y="584" width="368" height="68" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="618" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">レジで即時免税</text>
+<text x="30" y="642" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">パスポートの実物を見せる</text>
+</svg>

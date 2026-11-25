@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 562" role="img" aria-label="卡刷不過?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="562" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">卡刷不過?</text>
+<text x="16" y="62" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">先找你的情況</text>
+<rect x="16" y="76" width="368" height="68" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">計程車</text>
+<text x="30" y="134" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">k.ride App 可用海外卡</text>
+<rect x="16" y="154" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="188" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">外送(外送民族)</text>
+<text x="30" y="212" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">海外卡點餐,不需韓國號碼</text>
+<text x="30" y="234" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(2026 年 7 月起)</text>
+<rect x="16" y="254" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="288" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">Naver Map 訂位、點餐</text>
+<text x="30" y="312" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">用護照驗證就能用</text>
+<text x="30" y="334" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(2026 年 6 月起)</text>
+<rect x="16" y="354" width="368" height="90" rx="10" fill="#ffffff" stroke="#c9c1b2" stroke-width="1"/>
+<text x="30" y="388" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">地鐵:氣候同行卡</text>
+<text x="30" y="412" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">1~8 號線 273 站新售票機</text>
+<text x="30" y="434" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">(海外卡手續費 3.7%)</text>
+<rect x="16" y="454" width="368" height="90" rx="10" fill="#e9e2d3" stroke="#e9e2d3" stroke-width="1"/>
+<text x="30" y="488" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">其他地方</text>
+<text x="30" y="512" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">換另一個卡組織的卡,</text>
+<text x="30" y="534" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">再不行用現金</text>
+</svg>

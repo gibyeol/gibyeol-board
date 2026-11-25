@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 648" role="img" aria-label="需要填電子入境卡嗎?" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<rect width="400" height="648" fill="#f4f0e6"/>
+<text x="16" y="40" font-size="20" font-weight="700" fill="#16151a" text-anchor="start">需要填電子入境卡嗎?</text>
+<rect x="16" y="54" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="88" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">韓國籍,或已登錄的</text>
+<text x="30" y="110" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">在韓外國人?</text>
+<rect x="26" y="122" width="348" height="42" rx="8" fill="#ffffff"/>
+<rect x="36" y="132" width="44" height="26" rx="13" fill="#b8392f"/>
+<text x="58.0" y="151" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">是</text>
+<text x="90" y="151" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不用填</text>
+<path d="M44 182 V206" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 200 L44 208 L50 200" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="201" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">否</text>
+<rect x="16" y="216" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="250" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">持有效 K-ETA?</text>
+<rect x="26" y="262" width="348" height="64" rx="8" fill="#ffffff"/>
+<rect x="36" y="272" width="44" height="26" rx="13" fill="#b8392f"/>
+<text x="58.0" y="291" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">是</text>
+<text x="90" y="291" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不用填</text>
+<text x="90" y="313" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">到 k-eta.go.kr 更新住宿</text>
+<path d="M44 344 V368" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 362 L44 370 L50 362" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="363" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">否</text>
+<rect x="16" y="378" width="368" height="122" rx="10" fill="#e9e2d3"/>
+<text x="30" y="412" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">24 小時內轉機、</text>
+<text x="30" y="434" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">不出轉機區?</text>
+<rect x="26" y="446" width="348" height="42" rx="8" fill="#ffffff"/>
+<rect x="36" y="456" width="44" height="26" rx="13" fill="#b8392f"/>
+<text x="58.0" y="475" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">是</text>
+<text x="90" y="475" font-size="16" font-weight="700" fill="#16151a" text-anchor="start">不用填</text>
+<path d="M44 506 V530" stroke="#5f5b55" stroke-width="2"/>
+<path d="M38 524 L44 532 L50 524" fill="none" stroke="#5f5b55" stroke-width="2"/>
+<text x="60" y="525" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">否</text>
+<rect x="16" y="540" width="368" height="90" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="30" y="574" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">填免費的電子入境卡</text>
+<text x="30" y="598" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">e-arrivalcard.go.kr</text>
+<text x="30" y="620" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">抵達前 3 天內</text>
+</svg>
