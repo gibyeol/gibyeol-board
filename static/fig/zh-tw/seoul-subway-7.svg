@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 426" role="img" aria-label="請空著的座位" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>請空著的座位</title>
+<rect width="400" height="426" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">請空著的座位</text>
+<rect x="16" y="61" width="368" height="120" rx="18" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<rect x="102" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="102" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="130" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="130" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="158" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="158" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="186" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="186" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="214" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="214" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="242" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="242" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="270" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="270" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="298" y="71" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="298" y="149" width="24" height="22" rx="4" fill="#e9e2d3" stroke="#c9c1b2" stroke-width="1.5"/>
+<rect x="28" y="71" width="70" height="22" rx="4" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="28" y="149" width="70" height="22" rx="4" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="302" y="71" width="70" height="22" rx="4" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<rect x="302" y="149" width="70" height="22" rx="4" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
+<circle cx="63" cy="121.0" r="15" fill="#b8392f"/>
+<text x="63" y="127" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="337" cy="121.0" r="15" fill="#b8392f"/>
+<text x="337" y="127" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<rect x="16" y="193" width="368" height="65" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="226" r="15" fill="#b8392f"/>
+<text x="38" y="232" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="62" y="220" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">博愛座</text>
+<text x="62" y="242" font-size="16" fill="#5f5b55" text-anchor="start">車廂兩端:長者、身障者、受傷的人、孕婦</text>
+<rect x="16" y="266" width="368" height="88" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="310" r="15" fill="#e7a3b4"/>
+<text x="38" y="316" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="62" y="293" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">粉紅色座位</text>
+<text x="62" y="316" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">每節2個</text>
+<text x="62" y="338" font-size="16" fill="#5f5b55" text-anchor="start">孕婦優先座,請空著。</text>
+<rect x="16" y="366" width="368" height="44" rx="12" fill="#e9e2d3"/>
+<text x="200" y="393" font-size="16" fill="#16151a" text-anchor="middle">懷孕初期看不出來,有些孕婦會別粉紅色徽章</text>
+</svg>

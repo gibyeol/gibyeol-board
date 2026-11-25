@@ -21,8 +21,8 @@
 <text x="200" y="391" font-size="16" fill="#5f5b55" text-anchor="middle">is topped up separately</text>
 <line x1="16" y1="415" x2="384" y2="415" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="6 6"/>
 <text x="20" y="444" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">No card and no cash yet?</text>
-<text x="20" y="468" font-size="16" fill="#5f5b55" text-anchor="start">Single ticket at a new machine</text>
-<text x="20" y="490" font-size="16" fill="#5f5b55" text-anchor="start">(Visa/Mastercard):</text>
+<text x="20" y="468" font-size="16" fill="#5f5b55" text-anchor="start">Single ticket at a new machine (overseas</text>
+<text x="20" y="490" font-size="16" fill="#5f5b55" text-anchor="start">card):</text>
 <circle cx="26" cy="511" r="3.5" fill="#b8392f"/>
 <text x="38" y="516" font-size="16" fill="#16151a" text-anchor="start">+₩100 a ride</text>
 <circle cx="26" cy="533" r="3.5" fill="#b8392f"/>

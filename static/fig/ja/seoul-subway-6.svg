@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 590" role="img" aria-label="見る標識は3つ" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>見る標識は3つ</title>
+<rect width="400" height="590" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">見る標識は3つ</text>
+<rect x="16" y="61" width="368" height="60" rx="12" fill="#16151a"/>
+<circle cx="62" cy="91" r="20" fill="#ffffff"/>
+<text x="62" y="99" font-size="22" fill="#16151a" font-weight="bold" text-anchor="middle">4</text>
+<text x="100" y="98" font-size="19" fill="#ffffff" font-weight="bold" text-anchor="start">→ (終着駅)</text>
+<circle cx="62" cy="145" r="15" fill="#b8392f"/>
+<text x="62" y="151" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="200" cy="145" r="15" fill="#b8392f"/>
+<text x="200" y="151" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<rect x="16" y="173" width="368" height="60" rx="8" fill="#e9e2d3" stroke="#16151a" stroke-width="2.5"/>
+<text x="200" y="212" font-size="22" fill="#16151a" font-weight="bold" text-anchor="middle">8番出口  ↑</text>
+<circle cx="200.0" cy="257" r="15" fill="#b8392f"/>
+<text x="200" y="263" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<rect x="16" y="285" width="368" height="65" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="318" r="15" fill="#b8392f"/>
+<text x="38" y="324" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="62" y="312" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">路線番号</text>
+<text x="62" y="334" font-size="16" fill="#5f5b55" text-anchor="start">番号で路線を探す</text>
+<rect x="16" y="358" width="368" height="65" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="390" r="15" fill="#b8392f"/>
+<text x="38" y="396" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="62" y="385" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">方向</text>
+<text x="62" y="407" font-size="16" fill="#5f5b55" text-anchor="start">行きたい方向の終着駅</text>
+<rect x="16" y="431" width="368" height="65" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="464" r="15" fill="#b8392f"/>
+<text x="38" y="470" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="62" y="458" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">出口番号</text>
+<text x="62" y="480" font-size="16" fill="#5f5b55" text-anchor="start">地図アプリで確認。例:明洞駅8番出口</text>
+<rect x="16" y="508" width="368" height="66" rx="12" fill="#e9e2d3"/>
+<text x="200" y="535" font-size="16" fill="#16151a" text-anchor="middle">簡略化した図です。実際の標識とは見た目が違</text>
+<text x="200" y="557" font-size="16" fill="#16151a" text-anchor="middle">います</text>
+</svg>

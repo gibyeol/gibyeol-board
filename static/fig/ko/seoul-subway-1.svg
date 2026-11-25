@@ -20,7 +20,7 @@
 <text x="200" y="369" font-size="16" fill="#5f5b55" text-anchor="middle">와우패스의 티머니 잔액은 따로 충전</text>
 <line x1="16" y1="393" x2="384" y2="393" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="6 6"/>
 <text x="20" y="422" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">카드도 현금도 아직 없다면?</text>
-<text x="20" y="446" font-size="16" fill="#5f5b55" text-anchor="start">새 무인기(Visa·Mastercard)에서 1회용 승차권:</text>
+<text x="20" y="446" font-size="16" fill="#5f5b55" text-anchor="start">새 무인기(해외 신용·체크카드)에서 1회용 승차권:</text>
 <circle cx="26" cy="467" r="3.5" fill="#b8392f"/>
 <text x="38" y="472" font-size="16" fill="#16151a" text-anchor="start">한 번에 +100원</text>
 <circle cx="26" cy="489" r="3.5" fill="#b8392f"/>

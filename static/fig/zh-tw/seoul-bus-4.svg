@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 580" role="img" aria-label="搭一次公車" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>搭一次公車</title>
+<rect width="400" height="580" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">搭一次公車</text>
+<rect x="16" y="61" width="368" height="210" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<path d="M30,109 H350 Q372,109 372,131 V231 H30 Z" fill="#e9e2d3" stroke="#16151a" stroke-width="2.5"/>
+<rect x="312" y="117" width="52" height="20" rx="12" fill="#16151a"/>
+<rect x="322" y="124" width="8" height="6" rx="12" fill="#ffffff"/>
+<rect x="334" y="124" width="8" height="6" rx="12" fill="#ffffff"/>
+<rect x="346" y="124" width="8" height="6" rx="12" fill="#ffffff"/>
+<rect x="40" y="145" width="32" height="34" rx="4" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="78" y="145" width="32" height="34" rx="4" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="116" y="145" width="32" height="34" rx="4" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="214" y="145" width="32" height="34" rx="4" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="252" y="145" width="32" height="34" rx="4" fill="#ffffff" stroke="#5f5b55" stroke-width="1.5"/>
+<rect x="166" y="139" width="40" height="92" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<rect x="318" y="143" width="42" height="88" rx="3" fill="#ffffff" stroke="#16151a" stroke-width="2.5"/>
+<rect x="210" y="185" width="9" height="16" rx="12" fill="#b8392f"/>
+<rect x="305" y="185" width="9" height="16" rx="12" fill="#b8392f"/>
+<circle cx="112" cy="191" r="7" fill="#b8392f"/>
+<circle cx="92" cy="233" r="15" fill="#16151a"/><circle cx="270" cy="233" r="15" fill="#16151a"/>
+<circle cx="338" cy="85" r="15" fill="#b8392f"/>
+<text x="338" y="91" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<circle cx="339" cy="259" r="15" fill="#b8392f"/>
+<text x="339" y="265" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<circle cx="112" cy="85" r="15" fill="#b8392f"/>
+<text x="112" y="91" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<circle cx="186" cy="259" r="15" fill="#b8392f"/>
+<text x="186" y="265" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<line x1="112" y1="100" x2="112" y2="184" stroke="#b8392f" stroke-width="2"/>
+<rect x="16" y="283" width="368" height="50" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="308" r="15" fill="#b8392f"/>
+<text x="38" y="314" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">1</text>
+<text x="62" y="314" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">車頭的路線號碼</text>
+<rect x="16" y="341" width="368" height="50" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="366" r="15" fill="#b8392f"/>
+<text x="38" y="372" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">2</text>
+<text x="62" y="372" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">前門:上車刷卡</text>
+<rect x="16" y="399" width="368" height="50" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="424" r="15" fill="#b8392f"/>
+<text x="38" y="430" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">3</text>
+<text x="62" y="430" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">下一站要下?按窗邊下車鈴</text>
+<rect x="16" y="457" width="368" height="50" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="2"/>
+<circle cx="38" cy="482" r="15" fill="#b8392f"/>
+<text x="38" y="488" font-size="17" fill="#ffffff" font-weight="bold" text-anchor="middle">4</text>
+<text x="62" y="488" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">後門:刷卡後下車</text>
+<rect x="16" y="519" width="368" height="45" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
+<text x="200" y="547" font-size="17" fill="#b8392f" font-weight="bold" text-anchor="middle">後門沒刷卡,轉乘就在這裡斷掉</text>
+</svg>

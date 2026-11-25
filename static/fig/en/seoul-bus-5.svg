@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 452" role="img" aria-label="Two kinds of N bus" font-family="system-ui, -apple-system, &quot;Noto Sans KR&quot;, &quot;Noto Sans JP&quot;, &quot;Noto Sans TC&quot;, sans-serif">
+<title>Two kinds of N bus</title>
+<rect width="400" height="452" rx="16" fill="#f4f0e6"/>
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#16151a"/></marker></defs>
+<text x="20" y="39" font-size="21" fill="#16151a" font-weight="bold" text-anchor="start">Two kinds of N bus</text>
+<rect x="16" y="61" width="368" height="152" rx="12" fill="#ffffff" stroke="#16151a" stroke-width="3"/>
+<text x="32" y="94" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">N + route number</text>
+<text x="32" y="118" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">City night bus</text>
+<text x="32" y="147" font-size="17" fill="#16151a" text-anchor="start">14 routes</text>
+<text x="32" y="170" font-size="17" fill="#16151a" text-anchor="start">11 p.m.–6 a.m.</text>
+<text x="32" y="193" font-size="17" fill="#16151a" text-anchor="start">₩2,500 by card: just tap</text>
+<text x="200" y="239" font-size="22" fill="#b8392f" font-weight="bold" text-anchor="middle">≠</text>
+<rect x="16" y="251" width="368" height="129" rx="12" fill="#ffffff" stroke="#b8392f" stroke-width="3"/>
+<text x="32" y="284" font-size="19" fill="#b8392f" font-weight="bold" text-anchor="start">N6000 · N6002 · N6701 · N6703</text>
+<text x="32" y="308" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">Airport late-night bus</text>
+<text x="32" y="337" font-size="17" fill="#16151a" text-anchor="start">₩17,000–18,000</text>
+<text x="32" y="360" font-size="17" fill="#16151a" text-anchor="start">Buy a ticket</text>
+<rect x="16" y="392" width="368" height="44" rx="12" fill="#e9e2d3"/>
+<text x="200" y="419" font-size="16" fill="#16151a" text-anchor="middle">Same letter, about seven times the fare</text>
+</svg>

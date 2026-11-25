@@ -20,7 +20,7 @@
 <text x="200" y="369" font-size="16" fill="#5f5b55" text-anchor="middle">WOWPASSのT-money残高は別にチャージ</text>
 <line x1="16" y1="393" x2="384" y2="393" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="6 6"/>
 <text x="20" y="422" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">カードも現金もまだない?</text>
-<text x="20" y="446" font-size="16" fill="#5f5b55" text-anchor="start">新しい券売機(Visa・Mastercard)で1回用乗車券:</text>
+<text x="20" y="446" font-size="16" fill="#5f5b55" text-anchor="start">新しい券売機(海外発行カード)で1回用乗車券:</text>
 <circle cx="26" cy="467" r="3.5" fill="#b8392f"/>
 <text x="38" y="472" font-size="16" fill="#16151a" text-anchor="start">1回+100ウォン</text>
 <circle cx="26" cy="489" r="3.5" fill="#b8392f"/>

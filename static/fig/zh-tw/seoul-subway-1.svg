@@ -20,7 +20,7 @@
 <text x="200" y="369" font-size="16" fill="#5f5b55" text-anchor="middle">WOWPASS的T-money餘額要分開儲值</text>
 <line x1="16" y1="393" x2="384" y2="393" stroke="#c9c1b2" stroke-width="2" stroke-dasharray="6 6"/>
 <text x="20" y="422" font-size="17" fill="#16151a" font-weight="bold" text-anchor="start">還沒有卡也沒現金?</text>
-<text x="20" y="446" font-size="16" fill="#5f5b55" text-anchor="start">在新售票機(Visa・Mastercard)買單程票:</text>
+<text x="20" y="446" font-size="16" fill="#5f5b55" text-anchor="start">在新售票機(海外發行卡)買單程票:</text>
 <circle cx="26" cy="467" r="3.5" fill="#b8392f"/>
 <text x="38" y="472" font-size="16" fill="#16151a" text-anchor="start">每趟+100韓元</text>
 <circle cx="26" cy="489" r="3.5" fill="#b8392f"/>
