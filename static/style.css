@@ -203,3 +203,6 @@ th{font:500 .74rem var(--mono);letter-spacing:.06em;color:var(--muted);border-bo
   #sun,#moon{opacity:.55}
 }
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}}
+/* show-a-stranger phrase cards (emergency guide) */
+.say{border:1px solid var(--ink);background:var(--card);padding:14px 18px;margin:0 0 10px}
+.say p{margin:0}.say-ko{font:700 1.35rem/1.45 var(--text);word-break:keep-all}.say-tr{color:var(--muted);font-size:.92rem;margin-top:4px!important}

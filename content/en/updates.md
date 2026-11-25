@@ -2,7 +2,7 @@
 title: Updates
 description: What changed on Nadri and when. Every rule change we catch, and every reader report we act on, is logged here.
 lede: Korean entry, tax and transit rules change often. When we re-check a guide or a reader tells us something changed, it goes here with the date.
-updated: 2026-11-23
+updated: 2026-11-25
 report: no
 ---
 ## How we keep guides current
@@ -15,6 +15,8 @@ report: no
 
 | Date | Page | What changed |
 |---|---|---|
+| 2026-11-25 | Emergencies in Korea | New guide: 112, 119 and 1330, common visitor problems, Korean phrases to show someone nearby |
+| 2026-11-25 | About Nadri | Added what we want Nadri to be and how readers can help build it |
 | 2026-11-24 | Incheon Airport to Seoul | New guide: express train, all-stop train or bus, chosen by hotel area |
 | 2026-11-24 | Site | Every page is now available in English, Japanese, Traditional Chinese and Korean |
 | 2026-11-23 | Before you go | Added eSIM, airport train and transit card booking options |

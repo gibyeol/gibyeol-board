@@ -255,7 +255,7 @@ def autolink(body):
 GUIDE_GROUPS = [
     (["first-trip", "seoul-areas", "winter"],
      {"en": "Plan the trip", "ko": "여행 짜기", "ja": "旅の計画", "zh-tw": "規劃行程"}),
-    (["essentials", "e-arrival-card", "money", "everyday", "food", "health"],
+    (["essentials", "e-arrival-card", "money", "everyday", "food", "health", "emergency"],
      {"en": "Before you go", "ko": "출발 전", "ja": "出発前", "zh-tw": "出發前"}),
     (["airport-to-seoul", "getting-around", "ktx-busan", "jeju"],
      {"en": "Arriving and getting around", "ko": "도착하고 이동하기", "ja": "到着と移動", "zh-tw": "抵達與交通"}),
