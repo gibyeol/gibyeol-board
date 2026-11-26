@@ -64,9 +64,11 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-money卡。 列車、地鐵、公車一張搞定。" width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-money卡。</b> 列車、地鐵、公車一張搞定。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 維基共享資源</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="交通卡售票儲值機(仁川蘇萊浦口站,韓國鐵道公社的車站;首爾或機場的機器外觀可能不同)。在這裡儲值。" width="780" height="585" loading="lazy" decoding="async"><figcaption><b>交通卡售票儲值機</b>(仁川蘇萊浦口站,韓國鐵道公社的車站;首爾或機場的機器外觀可能不同)。在這裡儲值。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, 維基共享資源</span></figcaption></figure></div>
 
-1. 在交通中心的交通卡販賣機或便利商店買卡。
-2. 在卡裡儲值。
+1. **買卡:** 在地下1樓交通中心的便利商店或交通卡販賣機。不一定要先訂,但也可以預訂後在機場取卡。
+2. **儲值(只收現金):** 在機器上 ① 在螢幕選儲值和金額 ② 卡片放在「交通卡放置處」不要拿走 ③ 把紙鈔放進「紙鈔投入口」 ④ 確認螢幕上的新餘額再拿卡。用機器照片看步驟:[首爾地鐵 第2步](/zh-tw/seoul-subway/)
 3. 沒有卡就買單程票:貴100韓元,押金500韓元會退還。
+
+{{aff:klook_tmoney|預訂T-money卡,機場取卡}}
 
 <h3 class="tr-step"><span class="n">4</span><i class="ic ic-log-in" aria-hidden="true"></i>在機場鐵路閘門刷卡</h3>
 

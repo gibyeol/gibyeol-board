@@ -64,9 +64,11 @@ Visit Seoulは、着陸後の入国審査と荷物の受け取りに1〜2時間�
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-moneyカード。 列車・地下鉄・バスがこれ1枚。" width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-moneyカード。</b> 列車・地下鉄・バスがこれ1枚。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), ウィキメディア・コモンズ</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="交通カードの販売・チャージ機(仁川の蘇莱浦口駅、KORAILの駅。ソウルや空港の機械は見た目が違うことがあります)。ここでチャージ。" width="780" height="585" loading="lazy" decoding="async"><figcaption><b>交通カードの販売・チャージ機</b>(仁川の蘇莱浦口駅、KORAILの駅。ソウルや空港の機械は見た目が違うことがあります)。ここでチャージ。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, ウィキメディア・コモンズ</span></figcaption></figure></div>
 
-1. 交通センターの交通カード販売機か、コンビニで買います。
-2. カードにお金をチャージします。
+1. **買う:** 地下1階の交通センターのコンビニか交通カード販売機で。必須ではありませんが、予約して空港で受け取ることもできます。
+2. **チャージ(現金のみ):** 機械で ① 画面でチャージと金額を選び ② カードを「交通カードを置くところ」に置いたまま ③「紙幣を入れるところ」にお札を入れ ④ 画面の新しい残高を確かめてからカードを取ります。機械の写真で見る手順:[ソウルの地下鉄 ステップ2](/ja/seoul-subway/)
 3. カードなしなら1回用乗車券:100ウォン高く、保証金500ウォンは戻ってきます。
+
+{{aff:klook_tmoney|T-moneyカードを予約して空港で受け取る}}
 
 <h3 class="tr-step"><span class="n">4</span><i class="ic ic-log-in" aria-hidden="true"></i>AREXの改札でタッチ</h3>
 

@@ -64,9 +64,11 @@ The Express counter, card machines and a convenience store are all on B1.
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-money card. One card for the train, subway and buses." width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-money card.</b> One card for the train, subway and buses. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), Wikimedia Commons</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="Card machine (Soraepogu Station, Incheon, a Korail station; machines in Seoul and at the airport can look different). Load money here." width="780" height="585" loading="lazy" decoding="async"><figcaption><b>Card machine</b> (Soraepogu Station, Incheon, a Korail station; machines in Seoul and at the airport can look different). Load money here. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, Wikimedia Commons</span></figcaption></figure></div>
 
-1. Buy it at a card machine or the convenience store in the Transportation Center.
-2. Load money on it.
+1. **Buy:** at the convenience store or a transit-card machine in the Transportation Center (B1). Not required, but you can also pre-order one and collect it at the airport.
+2. **Top up (cash only):** at the machine ① choose top-up and the amount on the screen, ② keep your card on the "Transit card here" tray, ③ put notes into "Insert bills here", ④ check the new balance on the screen, then take your card. The same steps with machine photos: [Seoul subway, step 2](/seoul-subway/)
 3. No card? A single ticket costs ₩100 more, plus a ₩500 deposit you get back.
+
+{{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
 
 <h3 class="tr-step"><span class="n">4</span><i class="ic ic-log-in" aria-hidden="true"></i>Tap in at the AREX gate</h3>
 
