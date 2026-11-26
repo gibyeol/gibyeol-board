@@ -10,6 +10,10 @@
 - Picture quality bar: "최소 퀄리티는 공식사이트에 나와있는 그림 퀄리티 정도야. 실사수준에 최대한 가깝게 정보를 표기해야 도움이돼." Hand-drawn SVGs are "storyboard" quality — replace them with real images wherever possible.
 - Every language edition (including ko) speaks to whoever is reading, about their situation — no Korean/foreigner split, no "helping a foreign friend" framing (owner 2026-11-26 10:00: "한국인/외국인 구분을 할게 아니라 모두가 필요한 정보를 잘 깔끔하게 고시하면 상황에 맞게 모두가 쓸 수 있는거지").
 
+## Before you start and after you finish (owner 2026-11-26 10:10: "모든 새로운 작업이 시작 될때마다 다시 원칙학습하고 검토해서 수행하고 수행 뒤에도 또 검토해")
+- Before: read /home/user/wondu-archive/docs/원칙서-current.md in full (parts 1–5), then write one paragraph in your report: the essence of this page (why a visitor opens it, what they must do next, how each part helps and where it connects them).
+- After: an independent reviewer (not you) checks your page against the 10 principles, the owner's words above and that essence. Leave your page in a state you would defend line by line.
+
 ## Start from the essence (owner, 2026-11-26 09:56: "어떤 행동을 해야할지 고민을 할때 기준은 \"본질\"이라니까 이걸 하는 목적을 다시 생각하고 어떻게 유저들에게 도움이 되고 연결이 될까를 생각해.")
 Before every layout choice ask: why does a visitor open this page, what must they do next, and how does each element help them do it and connect them onward (to the official site, to our next page, or to a product that genuinely helps)? Delete what doesn't serve that; show what does. There is NO limit on the number of images — the owner: "사진을 한 장 넣으라는 제한은 없었어. 필요하다면 10장을 넣어도 되지". Use as many real images as understanding needs.
 
