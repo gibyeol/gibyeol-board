@@ -97,3 +97,12 @@
 - 쓴 것: `photos/xmas-ornaments.webp` ← [Christmas ornaments in Seoul, South Korea - DSC00723.JPG](https://commons.wikimedia.org/wiki/File:Christmas_ornaments_in_Seoul,_South_Korea_-_DSC00723.JPG), Daderot, **CC0**(공용 API 라이선스 값 'CC0', 'Own work'), 2011-12-03 촬영. 위쪽 장식 부분만 잘라 씀(지나가는 사람 얼굴 빠짐), 780×452 WebP. 기록: `photos.json`. 공개할 때 `static/photo/`로 복사해야 화면에 나옴(지금은 초안 폴더에만 있음).
 - 안 쓴 것: [Christmas impression Seoul, Korea (11266996415).jpg](https://commons.wikimedia.org/wiki/File:Christmas_impression_Seoul,_Korea_(11266996415).jpg)(CC BY-SA 2.0) — 사진 앱 필터로 뭉개져 '불편한 이미지'[7eb4ec94#1776]라서 뺌. [Myeongdong Crowd at Christmas, Seoul.jpg](https://commons.wikimedia.org/wiki/File:Myeongdong_Crowd_at_Christmas,_Seoul.jpg)(CC BY-SA 4.0, 2017) — 사람 얼굴이 주인공인 군중 사진이라 안 받음. 'Nightview of the Gwanghwamun Square 2024.jpg'는 공공누리 1유형이라 이번 지시(CC0/PD/CC BY/BY-SA만)에 맞지 않아 뺌.
 - 위키미디어가 요청 과다(429)로 자주 막혀서 후보를 넓게 보지 못했다. 어드벤트 캘린더·워터볼 같은 품목 예시 사진은 찾지 못함.
+
+## 독립 검토 반영 때 다시 대조한 것 (2026-11-27, 저장된 원문 wondu-archive staging/overnight-2026-11-27/raw/christmas/만, 웹 안 엶)
+
+| 페이지 자리 | 저장된 원문 | 처리 |
+|---|---|---|
+| 다이소 '재고 조회'(코어 팁, 상품 줄, 다이소 7개 안내, description) | daiso-season-180.txt:106 "재고 조회"(버튼 글자만), prdm-stock-page.txt "HTML shell only … stock lookup steps not readable"(S38) | 버튼이 있다는 것만 쓰고 "품번을 넣는지 등 화면 단계는 확인 못 함"으로 고침. 품번은 '공식 페이지에 적힌 번호'로만 |
+| 롯데 잠실 빠른 입장권 예약처 | herald-lotte-jamsil.txt:82 "지난 9일 오후 2시 롯데백화점몰 등에서 시작한 국내 사전 예약" / "클룩 등을 통한 외국인 사전예약자는 1만명에 달한다", sedaily-lotte-jamsil.txt:147 "글로벌 여행 플랫폼 '클룩'을 통해 외국인을 대상으로 사전 예약" | 마켓 표 롯데 줄에 "예약 받은 곳: 롯데백화점몰 등, 해외 방문객은 클룩 등(기사 기준, 예약 화면은 확인 못 함)" 추가(christmas-data.json, 출처 id herald-lotte·sedaily-lotte 그대로) |
+| 케이크 예약 방법 | cj-tlj.txt:64 "오는 12월22일까지 뚜레쥬르 앱에서 홀리데이 제품 35종에 대해 사전예약 시 최대 30% 할인" / kh-cake.txt(코리아헤럴드 11/21): 호텔별 "Reservations begin Dec. 1" 등 기간만, 어디서·어떻게 예약하는지(앱·전화·누리집) 없음 | "예약은 각 호텔·브랜드 앱에서 해요"(근거 없음) → "뚜레쥬르는 뚜레쥬르 앱에서 사전예약. 호텔 케이크를 어디서·어떻게 예약하는지는 기사에 없어 확인 못 했어요" |
+| '2층 회전목마'(독립 검토 권고) | herald-lotte-jamsil.txt:87 "매일 오전 11시 30분부터 오후 9시 30분까지 2층 회전목마도 운영한다" — 원문도 '2층 회전목마'(검토가 적은 '2층짜리'라는 글자는 저장된 원문에 없음) | 원문과 같아 그대로 둠 |
