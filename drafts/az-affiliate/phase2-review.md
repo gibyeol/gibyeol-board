@@ -138,3 +138,48 @@
 - 통신사 3곳 로밍·잠금 문의처, 티머니 공식 사이트(차단·재설정).
 - 지도 그림(t1map)에 ATM·직통 게이트·자판기 점 추가.
 - 와우패스 값 재확인(스크립트로만 나옴).
+
+## 8. 독립 검토 반영 (2026-11-27 03시대 KST, Claude — 작성자 쪽 반영, 재검토는 아직 없음)
+
+기준: 같은 폴더 review-independent-phase2.md ①·②·③. 행 번호는 반영 뒤 브랜치 기준이고 **4개 언어 같은 행**(스크립트로 확인). 새로 연 원문은 wondu-archive `staging/az-affiliate-2026-11-27/raw/`(MANIFEST.md '독립 검토 반영 때 추가 열람'). 캡처: 같은 곳 `fix-shots/`(ko·ja 390px).
+커밋: 331e0a6·653e1a0·28b4c93(airport-to-seoul), 616cd73(essentials), 3f6cddb(seoul-subway), 29582d9(abroad-esim).
+
+### ① 필수 수정
+| # | 처리 | 위치 | 근거 |
+|---|---|---|---|
+| 1 en 와우패스 버튼 | **고침** — 'Get a new Card' → 'Issue via Code' | en/airport-to-seoul.md:208 | raw/wowpass-en-guide.html `product_issuance_guide_machine_step_2` |
+| 2 ja·zh-tw 와우패스 버튼·출처 | **고침** — ja·zh-TW 안내 페이지를 이번에 실제로 열어 저장, 공식 문구로 바꿈: ja「カード発行」→「引き換えコード発行」, zh-tw「發行新卡」→「使用預約碼領取」. 출처 "11月27日確認"은 이제 연 페이지(03:0x KST 열람)라 사실. ja·zh-TW 페이지에서 티머니 잔액 별도 충전·출금 10만/1,000원·환불 500원·5만 원·NFC도 확인 | ja·zh-tw/airport-to-seoul.md:208, 214(출처), 248; essentials:138, seoul-subway:218 출처는 그대로(이제 연 페이지) | raw/wowpass-ja-guide.html, wowpass-zh-TW-guide.html, wowpass-guide-key-strings-ko-en-ja-zhTW.txt |
+| 3 ja 삼성 활성화 코드 | **고침** —「有効化コードを入力」 | ja/essentials.md:81, ja/abroad-esim.md:57 | raw/samsung-jp-esim.txt 367행 |
+| 4 직통 '오른쪽(서쪽)' | **고침 + 확인 못 해 표시** — 1터미널만 오른쪽(서쪽), 2터미널은 "방향 아직 확인 못 함, 지하 1층 교통센터 직통열차 고객안내센터에 물어보세요"(안내센터 위치는 공항철도 직통열차 소개 원문). airport.kr ap_en/ap_ko 1512를 다시 열었으나 방향 글 없음(ko는 메뉴 없음) | airport-to-seoul.md:23(새 접힘), 225, 출처 248 | raw/arex-express-introduce.txt 302~303행, raw/airport-kr-ap_en-1512.txt |
+| 5 아이폰 eSIM 예외 | **고침** — 중국 본토는 iPhone 18 Pro·18 Pro Max·Duo·17e·Air만, 홍콩·마카오엔 nano-SIM 두 개 듀얼 SIM 모델(Apple 문장 그대로의 범위, "eSIM 대신"은 원문에 없어 안 씀). 같은 주장이 있는 abroad-esim에도 넣음 | essentials.md:51, 출처 138; abroad-esim.md:21, 26, 출처 75 | raw/apple-{ko-kr,en-us,ja-jp,zh-tw}-118227.txt 32~36행 |
+| 6 '사기 전에' 위치 | **고침** — 티머니 버튼 바로 위 보이는 문장으로 옮기고 "받는 곳은 아직 확인 못 함(클룩 차단)"도 보이게 둠(⑦ 권고). 접힘 1번은 받는 법만. eSIM 환불 확인도 버튼 위로 | airport-to-seoul.md:189, 195; essentials.md:57, 69 | 검토 ① 6 |
+| 7 직통 표 '어떻게' | **고침** — 새 접힘 '직통열차 표, 발매기에서 사는 순서'(찾아가기 → ①언어 ②도착역(서울역) ③열차 ④인원(어른 만 13세↑, 어린이 6~12세)→확인 ⑤현금·카드 결제 ⑥승차권·영수증 → QR 게이트·지하 4층). "화면 예시는 서울역 기계라 공항 기계는 다를 수 있음" 표시. #prep 안내 상자도 "지하 1층 발매기·안내센터"로 맞춤 | airport-to-seoul.md:17, 21~31, 183 | raw/arex-train-express-guide.txt 387~466행 |
+| 8 ATM 해외 카드 | **확인 못 해 표시로 처리** — "이 ATM에서 해외 카드로 뽑을 수 있는지, 2터미널 ATM 위치는 확인 못 함" 문장 추가. 출처 줄에도 같은 한계 | airport-to-seoul.md:90, 248 | airport.kr 1008 목록에 해외 카드 표시 없음, 1터미널만 있음 |
+| 9 와우패스 분실 시 티머니 | **고침** — "앱에서 정지해 와우패스 잔액은 지킴. 단, 티머니 잔액은 재발급해도 되찾을 수 없음" | airport-to-seoul.md:209 | 와우패스 4개 언어 원문(key-strings 파일) |
+| 10 abroad-esim 아이폰 로밍 | **고침** — 아이폰 접힘 3번 '여행 eSIM의 데이터 로밍 켜기'(설정 → 셀룰러 → 여행 eSIM 번호 → 데이터 로밍, "판매처 안내가 다르면 그 안내") 추가해 목록 3번과 맞춤. 같은 빈칸인 essentials 아이폰 접힘에도 추가(3번) | abroad-esim.md:50, 출처 78; essentials.md:75 | Apple iPhone 사용 설명서 iph3dd5f213(셀룰러 데이터 옵션 → 데이터 로밍, 4개 언어 저장) + 109317(번호별 설정) |
+
+한계(숨기지 않음): 10번 경로 '설정 → 셀룰러 → 여행 eSIM 번호 → 데이터 로밍'은 Apple 문서 두 개(단일 회선 경로 + 번호별 설정)를 합친 것. 실제 화면에서 '셀룰러 데이터 옵션' 한 단계가 더 있을 수 있음(원두 폰 화면 확인 필요, 기존 '원래 번호 → 데이터 로밍'과 같은 한계).
+
+### ② 추가 어긋남
+- 9 "충전식" → **고침**: ko "교통비가 들어 있는 티머니/카드"(airport:90·248, essentials:95, seoul-subway:94·218), ja「交通費が入ったT-money」(airport·subway; essentials는 원래「チャージ済み」), zh-tw「已內含交通費的T-money」(airport·subway; essentials는 원래「預儲值卡」). en "preloaded" 그대로.
+- 10 "외화 현금(16종)" → **고침**: "16종 화폐 현금"/「16種類の通貨の現金」/「16種貨幣的現金」(airport:210). en은 원래 "16 currencies".
+- 11 와우패스 기기 찾기 링크 → **열어서 확인**: /ko·/en·/ja·/zh-TW/map/kiosk 4개 모두 200(raw 저장). 지도 자체는 스크립트라 기기 목록은 확인 못 함. 링크는 그대로.
+- 12 번역 메뉴 이름 → **표시함**: 공항철도 '승차권 변경/반환'은 en·ja·zh-tw에 "(Korean screen: 승차권 변경/반환, our translation)" 식으로 한국어 원래 이름 병기(airport:228). 갤럭시 EID 경로 ja·zh-tw는 essentials 출처(아일랜드)와 abroad-esim 출처(samsungsvc)에 '訳/翻譯' 표시. 새 접힘의 시설·발매기 단계 이름도 en·ja·zh-tw 출처에 '한국어 페이지에서 옮김' 표시.
+- 추론 문장 "QR코드는 판매처 메일이나 앱으로 와요" → **고침**: "보통 … (받는 방법은 구매 확인서)"(essentials:69).
+
+### ③ 4개 언어 불일치
+- 1·2 와우패스 버튼, 3 삼성 메뉴, 4 충전식/preloaded → 위와 같이 고침.
+- 4 zh-tw 용어 → essentials의「機場快線」6곳을「機場鐵路」로(11, 95, 128, 132 버튼 '預訂機場鐵路(AREX)車票', 136 출처). **남음:** zh-tw/convenience-store.md 65·164행의「機場快線」— 이번 대상 4쪽 밖이라 안 고침.
+- 숫자 비교(추가 줄의 숫자 모음, 스크립트): 언어 간 차이는 줄 단위로 바뀐 범위 차이(예: ko만 '충전식'을 고친 줄)에서만 나옴. 단계 수·접힘 수·버튼 수·행 수 4개 언어 같음.
+
+### 화면 확인 (Claude 자체 점검)
+- 빌드 156쪽 성공. 처음 반영본에서 직통열차 카드(ap-pick) 안에 `<a>`를 넣자 `.ap-pick a`(grid) 스타일이 붙어 **390px 가로 넘침(scrollWidth 535, ko·en / ja 415 / zh-tw 414)** — 링크를 빼고 글로만 안내(653e1a0) → 8쪽 모두 scrollWidth 390, 깨진 그림 0, `{{` 노출 0.
+- ko·ja 캡처로 본 것: 새 접힘 순서·글자, '사기 전에' 문장이 버튼 위, 와우패스 ja 버튼 이름·분실 문장, 직통 2터미널 표시, ATM 표시, essentials 예외·환불 문장 위치, abroad-esim 6단계.
+
+### 못 한 것·약한 것
+- 이 반영은 **작성자(Claude) 쪽 반영과 자체 점검뿐** — 독립 재검토 안 함.
+- 2터미널 직통 방향·2터미널 ATM·ATM 해외 카드: 확인 못 함 그대로(표시만).
+- 클룩·Yesim 상품 정보: 차단 그대로(우회 안 함).
+- 발매기 화면 그림 없음(실사 대체 → improvements.md 기록 필요, 이번에 안 씀).
+- ⑧ 권고 중 안 한 것: `updated:` 날짜, 저데이터 모드 질문, iOS 17.4 표시, 갤럭시 모바일 데이터 경로, disclosure 네트워크 설명, privacy 예시.
+- essentials·disclosure는 approved 줄 없음(원두 재승인 필요) 그대로.
