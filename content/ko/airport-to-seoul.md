@@ -64,9 +64,11 @@ Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라�
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="티머니 카드. 열차·지하철·버스를 한 장으로." width="499" height="316" loading="lazy" decoding="async"><figcaption><b>티머니 카드.</b> 열차·지하철·버스를 한 장으로. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 위키미디어 공용</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="교통카드 발매·충전기(인천 소래포구역, 코레일 역. 서울이나 공항의 기계는 모양이 다를 수 있어요). 여기서 충전해요." width="780" height="585" loading="lazy" decoding="async"><figcaption><b>교통카드 발매·충전기</b>(인천 소래포구역, 코레일 역. 서울이나 공항의 기계는 모양이 다를 수 있어요). 여기서 충전해요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, 위키미디어 공용</span></figcaption></figure></div>
 
-1. 교통센터의 교통카드 발매기나 편의점에서 사요.
-2. 카드에 돈을 충전해요.
+1. **사기:** 지하 1층 교통센터의 편의점이나 교통카드 발매기에서 사요. 필수는 아니지만 미리 예약해 두고 공항에서 받을 수도 있어요.
+2. **충전하기 (현금만):** 발매기에서 ① 화면에서 '교통카드 충전'과 금액을 고르고 ② '교통카드 충전하는 곳'에 카드를 올린 채로 ③ '지폐 넣는 곳'에 지폐를 넣어요. ④ 화면에 뜬 새 잔액을 확인하고 카드를 가져가요. 기계 사진으로 보는 순서: [서울 지하철 2단계](/ko/seoul-subway/)
 3. 카드가 없으면 1회용 승차권: 100원 더 비싸고 보증금 500원은 돌려받아요.
+
+{{aff:klook_tmoney|티머니 카드 예약하고 공항에서 받기}}
 
 <h3 class="tr-step"><span class="n">4</span><i class="ic ic-log-in" aria-hidden="true"></i>공항철도 개찰구에 태그해요</h3>
 
