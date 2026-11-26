@@ -1,0 +1,3820 @@
+{
+ "status": "partial",
+ "version": 1,
+ "generated": "2026-11-26",
+ "checked": "2026-11-26",
+ "scope_note": "1차: 겨울 패션·뷰티·먹거리 키워드 + 크리스마스 키워드(명세 8, 8-1). 카테고리 전체(면세·K푸드 전반 등)와 갱신 시스템 상세는 다음 단계.",
+ "rules": {
+  "framing": "전체 랭킹이 기본. 출처가 스스로 나눈 분류(예: '올리브영 발표: 외국인 구매')만 그 이름 그대로 segment_by_source에 적는다. Nadri가 국적 등으로 분류를 만들지 않는다(원두 [7eb4ec94#1598][7eb4ec94#1605]).",
+  "certainty": "certain=회사·기관 공식 발표 / tendency=언론 보도(수치 포함) / inference=Nadri 추론",
+  "eligibility": "이용 자격 제한 혜택은 별도 섹션이 아니라 각 혜택의 who_can_use 조건으로 적음",
+  "images": "쇼핑몰·브랜드 상품 사진 사용 안 함",
+  "codes": "플랫폼·브랜드 공식 페이지나 공식 보도로 확인된 코드만. 코드 모음 사이트 금지"
+ },
+ "sources": {
+  "cj-oy-foreign-1t": {
+   "url": "https://cjnews.cj.net/cj올리브영-외국인-매출-1조원-3개월-빨라져관광객/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-08-31",
+   "checked": "2026-11-26",
+   "title": "CJ올리브영, 외국인 매출 1조원 3개월 빨라져",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-foreign-1t.txt"
+  },
+  "cj-oy-sept-sale": {
+   "url": "https://cjnews.cj.net/cj올리브영-9월-올영세일서-취향-소비-두드러져/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-09-06",
+   "checked": "2026-11-26",
+   "title": "CJ올리브영, 9월 올영세일서 ‘취향 소비’ 두드러져",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-sept-sale.txt"
+  },
+  "cj-oy-june-sale": {
+   "url": "https://cjnews.cj.net/선파우더·픽서·데오드란트-산다6월-올영세일-대/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-06-04",
+   "checked": "2026-11-26",
+   "title": "선파우더·픽서·데오드란트 산다…6월 올영세일 대세는 ‘서바이벌 뷰티’",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-june-sale.txt"
+  },
+  "cj-oy-june-revisit": {
+   "url": "https://cjnews.cj.net/cj올리브영-올영세일-외국인-재방문-3년-새-11배-증가/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-06-22",
+   "checked": "2026-11-26",
+   "title": "CJ올리브영, 올영세일 외국인 재방문 3년 새 11배 증가",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-june-revisit.txt"
+  },
+  "cj-oy-dec2025-sale": {
+   "url": "https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2025-12-09",
+   "checked": "2026-11-26",
+   "title": "올영세일로 본 K뷰티 트렌드 집에서도 전문가처럼, ‘프로 셀프케어’ 부상",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-dec2025-sale.txt"
+  },
+  "cj-oy-2025-annual": {
+   "url": "https://cjnews.cj.net/글로벌-k뷰티-허브-cj올리브영-방한-외국인-구매-1/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2025-12-03",
+   "checked": "2026-11-26",
+   "title": "‘글로벌 K뷰티 허브’ CJ올리브영, 방한 외국인 구매 1조원 시대 열었다",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-2025-annual.txt"
+  },
+  "cj-oy-awards-2025": {
+   "url": "https://cjnews.cj.net/모두가-사랑한-제품을-모두가-사랑할-혜택으로-cj/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2025-11-28",
+   "checked": "2026-11-26",
+   "title": "CJ올리브영, ‘2025 올리브영 어워즈’ 발표",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-awards-2025.txt"
+  },
+  "cj-oy-awards-2024": {
+   "url": "https://cjnews.cj.net/열-돌-맞은-올리브영-어워즈세계인이-즐기는/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2024-12-09",
+   "checked": "2026-11-26",
+   "title": "열 돌 맞은 ‘올리브영 어워즈’",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-awards-2024.txt"
+  },
+  "cj-oy-tourist-benefits": {
+   "url": "https://cjnews.cj.net/cj올리브영-외국인-관광객-대상-제휴·할인-혜택-확대/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-02-02",
+   "checked": "2026-11-26",
+   "title": "CJ올리브영, 외국인 관광객 대상 제휴·할인 혜택 확대 박차",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-oy-tourist-benefits.txt"
+  },
+  "cj-one-couponpack": {
+   "url": "https://cjnews.cj.net/cj-one-글로벌-방한-외국인-대상-스페셜-쿠폰팩-무료/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-11-23",
+   "checked": "2026-11-26",
+   "title": "CJ ONE 글로벌, 방한 외국인 대상 ‘스페셜 쿠폰팩’ 무료 제공",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-one-global-couponpack.txt"
+  },
+  "cj-one-wonderweek-nov": {
+   "url": "https://cjnews.cj.net/cj-one-11월-원더위크-개최-cj더마켓-14000원-할인-쿠폰에/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-11-03",
+   "checked": "2026-11-26",
+   "title": "CJ ONE, 11월 ‘원더위크’ 개최",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-one-wonderweek.txt"
+  },
+  "cj-one-wonder-oct": {
+   "url": "https://cjnews.cj.net/이마트24-할인부터-올리브영-기프트카드-경품까지/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-10-06",
+   "checked": "2026-11-26",
+   "title": "CJ ONE, 10월 원더 시리즈 프로모션",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-emart24-oy.txt"
+  },
+  "cj-bibigo-gimbugak": {
+   "url": "https://cjnews.cj.net/cj제일제당-비비고-김부각-인기에-비비고-캔김-2/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-10-19",
+   "checked": "2026-11-26",
+   "title": "CJ제일제당, ‘비비고 김부각’ 인기에 ‘비비고 캔김’ 출시",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-bibigo-gimbugak.txt"
+  },
+  "cj-brooks": {
+   "url": "https://cjnews.cj.net/아메리칸-클래식에-빠진-mz-브룩스브라더스-무신/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-11-16",
+   "checked": "2026-11-26",
+   "title": "“아메리칸 클래식에 빠진 MZ” 브룩스브라더스, 무신사 등 매출 51%↑",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-musinsa-brooks.txt"
+  },
+  "cj-onstyle-winter": {
+   "url": "https://cjnews.cj.net/한파엔-유행보다-소재-cj온스타일-겨울-패션위/",
+   "publisher": "CJ 뉴스룸(CJ그룹 공식 보도자료)",
+   "published": "2026-11-09",
+   "checked": "2026-11-26",
+   "title": "“한파엔 유행보다 소재” CJ온스타일, ‘겨울 패션위크’ 개최",
+   "excerpt_file": "staging/shop-trends-2026-11-26/cj-onstyle-winter.txt"
+  },
+  "kh-oy-hongdae": {
+   "url": "https://www.koreaherald.com/article/10939575",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-17",
+   "checked": "2026-11-26",
+   "title": "Olive Young in pink: New Hongdae flagship goes all in on makeup",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-oy-hongdae.txt"
+  },
+  "kh-oy-pink": {
+   "url": "https://www.koreaherald.com/article/10944363",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-20",
+   "checked": "2026-11-26",
+   "title": "This pink store is Olive Young’s. Why isn't it green?",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-oy-pink.txt"
+  },
+  "kh-retail-beyond": {
+   "url": "https://www.koreaherald.com/article/10927608",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-07",
+   "checked": "2026-11-26",
+   "title": "Korean retailers follow tourist boom beyond Seoul",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-retail-beyond-seoul.txt"
+  },
+  "kh-musinsa-beauty": {
+   "url": "https://www.koreaherald.com/article/10939577",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-17",
+   "checked": "2026-11-26",
+   "title": "Musinsa Beauty Seongsu generates W500m in first five days",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-musinsa-beauty.txt"
+  },
+  "kh-daiso-kbeauty": {
+   "url": "https://www.koreaherald.com/article/10877187",
+   "publisher": "The Korea Herald",
+   "published": "2026-09-17",
+   "checked": "2026-11-26",
+   "title": "How K-beauty turned dollar store Daiso into retail giant",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-daiso-kbeauty.txt"
+  },
+  "kt-daiso-young": {
+   "url": "https://www.koreatimes.co.kr/southkorea/society/20260420/young-koreans-flock-to-daiso-amid-high-inflation",
+   "publisher": "The Korea Times",
+   "published": "2026-04-20",
+   "checked": "2026-11-26",
+   "title": "Young Koreans flock to Daiso amid high inflation",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-daiso-young.txt"
+  },
+  "kh-puffers": {
+   "url": "https://www.koreaherald.com/article/10908829",
+   "publisher": "The Korea Herald",
+   "published": "2026-10-20",
+   "checked": "2026-11-26",
+   "title": "More sculptural, colorful: Puffers get a style upgrade",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-puffers.txt"
+  },
+  "kh-black-puffer": {
+   "url": "https://www.koreaherald.com/article/10913273",
+   "publisher": "The Korea Herald",
+   "published": "2026-10-24",
+   "checked": "2026-11-26",
+   "title": "Is Korea’s black puffer era coming to an end?",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-black-puffer.txt"
+  },
+  "kh-fur-collars": {
+   "url": "https://www.koreaherald.com/article/10946254",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-23",
+   "checked": "2026-11-26",
+   "title": "Fur is back, coat collars are higher and puffers are lighter this winter",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-fur-collars.txt"
+  },
+  "kh-musinsa-uniqlo": {
+   "url": "https://www.koreaherald.com/article/10799504",
+   "publisher": "The Korea Herald",
+   "published": "2026-07-06",
+   "checked": "2026-11-26",
+   "title": "The battle for basics: Musinsa vs. Uniqlo",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-musinsa-uniqlo.txt"
+  },
+  "kt-musinsa-holiday": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20260508/international-tourists-fuel-sales-surge-at-musinsa-stores-during-holiday-rush",
+   "publisher": "The Korea Times",
+   "published": "2026-05-08",
+   "checked": "2026-11-26",
+   "title": "International tourists fuel sales surge at Musinsa stores during holiday rush",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-musinsa-holiday.txt"
+  },
+  "kh-grand-festival": {
+   "url": "https://www.koreaherald.com/article/10916132",
+   "publisher": "The Korea Herald",
+   "published": "2026-10-27",
+   "checked": "2026-11-26",
+   "title": "Foreign tourists get free palace entry, up to 25% off duty-free shopping during Korea Grand Festival",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-grand-festival.txt"
+  },
+  "kh-cu-115": {
+   "url": "https://www.koreaherald.com/article/10850241",
+   "publisher": "The Korea Herald",
+   "published": "2026-08-24",
+   "checked": "2026-11-26",
+   "title": "A 115% jump: Tourist wallets power Korea’s convenience store growth",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-cu-115.txt"
+  },
+  "kh-gs25-coast": {
+   "url": "https://www.koreaherald.com/article/10814994",
+   "publisher": "The Korea Herald",
+   "published": "2026-07-21",
+   "checked": "2026-11-26",
+   "title": "Foreign sales jump 137% at GS25 stores in coastal tourist spots",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-gs25-coast.txt"
+  },
+  "kh-gs25-na": {
+   "url": "https://www.koreaherald.com/article/10890647",
+   "publisher": "The Korea Herald",
+   "published": "2026-10-04",
+   "checked": "2026-11-26",
+   "title": "GS25 rides high on booming sales to North American visitors",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-gs25-na.txt"
+  },
+  "kt-ricecake": {
+   "url": "https://www.koreatimes.co.kr/business/20261027/convenience-stores-jump-on-koreas-rice-cake-dessert-boom",
+   "publisher": "The Korea Times",
+   "published": "2026-10-27",
+   "checked": "2026-11-26",
+   "title": "Convenience stores jump on Korea's rice cake dessert boom",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-ricecake.txt"
+  },
+  "kt-oy-680": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20251203/olive-young-hits-680-mil-in-foreign-tourist-purchases",
+   "publisher": "The Korea Times",
+   "published": "2025-12-03",
+   "checked": "2026-11-26",
+   "title": "Olive Young hits $680 mil. in foreign tourist purchases",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-oy-680.txt"
+  },
+  "kh-oy-2026-trend": {
+   "url": "https://www.koreaherald.com/article/10640106",
+   "publisher": "The Korea Herald",
+   "published": "2025-12-19",
+   "checked": "2026-11-26",
+   "title": "K-beauty’s next chapter centers on 'whole self' wellness",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-oy-2026-wellness.txt"
+  },
+  "kt-oy-globalmall": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20260309/what-do-foreigners-buy-from-olive-young",
+   "publisher": "The Korea Times",
+   "published": "2026-03-09",
+   "checked": "2026-11-26",
+   "title": "What do foreigners buy from Olive Young?",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-oy-foreigners-buy.txt"
+  },
+  "kh-xmas-seoul": {
+   "url": "https://www.koreaherald.com/article/10929679",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-08",
+   "checked": "2026-11-26",
+   "title": "Seoul is beginning to look like Christmas",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-xmas-seoul.txt"
+  },
+  "kh-souvenir-ddp": {
+   "url": "https://www.koreaherald.com/article/10944307",
+   "publisher": "The Korea Herald",
+   "published": "2026-11-20",
+   "checked": "2026-11-26",
+   "title": "From royal bronzeware to doorbells, Korea’s best souvenirs go on show at DDP",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kh-souvenir-ddp.txt"
+  },
+  "kt-ddp-souvenir": {
+   "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261116/korean-heritage-souvenirs-fuel-41-sales-surge-at-seoul-design-landmark",
+   "publisher": "The Korea Times",
+   "published": "2026-11-16",
+   "checked": "2026-11-26",
+   "title": "Korean heritage souvenirs fuel 41% sales surge at Seoul design landmark",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-ddp-souvenir.txt"
+  },
+  "kt-souvenir-fair": {
+   "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261118/k-culture-gets-festive-makeover-at-korea-tourism-souvenir-fair",
+   "publisher": "The Korea Times",
+   "published": "2026-11-18",
+   "checked": "2026-11-26",
+   "title": "K-culture gets festive makeover at Korea tourism souvenir fair",
+   "excerpt_file": "staging/shop-trends-2026-11-26/kt-souvenir-fair.txt"
+  },
+  "daiso-xmas-market": {
+   "url": "https://www.daiso.co.kr/brand/daiso_news/126062?btype=product",
+   "publisher": "아성다이소 공식 홈페이지(다이소소식)",
+   "published": "2026-11-16",
+   "checked": "2026-11-26",
+   "title": "다이소몰, ‘다이소 득템 대전 크리스마스 마켓’ 행사 진행",
+   "excerpt_file": "staging/shop-trends-2026-11-26/daiso-126062.txt"
+  },
+  "daiso-winter": {
+   "url": "https://www.daiso.co.kr/brand/daiso_news/124659?btype=product",
+   "publisher": "아성다이소 공식 홈페이지(다이소소식)",
+   "published": "2026-11-02",
+   "checked": "2026-11-26",
+   "title": "다이소몰, ‘다이소 득템 대전 따뜻한 겨울나기’ 행사 진행",
+   "excerpt_file": "staging/shop-trends-2026-11-26/daiso-124659.txt"
+  },
+  "daiso-winter-prep": {
+   "url": "https://www.daiso.co.kr/brand/daiso_news/124004?btype=product",
+   "publisher": "아성다이소 공식 홈페이지(다이소소식)",
+   "published": "2026-10-26",
+   "checked": "2026-11-26",
+   "title": "다이소몰, ‘다이소데이 신상 겨울준비템’ 행사 진행",
+   "excerpt_file": "staging/shop-trends-2026-11-26/daiso-124004.txt"
+  },
+  "daiso-beauty-oct": {
+   "url": "https://www.daiso.co.kr/brand/daiso_news/122509?btype=product",
+   "publisher": "아성다이소 공식 홈페이지(다이소소식)",
+   "published": "2026-10-12",
+   "checked": "2026-11-26",
+   "title": "다이소몰, ‘Daiso-DAY 10월 뷰티 신상’ 행사 진행",
+   "excerpt_file": "staging/shop-trends-2026-11-26/daiso-122509.txt"
+  },
+  "daiso-solpay": {
+   "url": "https://www.daiso.co.kr/brand/daiso_news/124786?btype=product",
+   "publisher": "아성다이소 공식 홈페이지(다이소소식)",
+   "published": "2026-11-03",
+   "checked": "2026-11-26",
+   "title": "다이소몰, ‘신한 SOL페이 프로모션’ 진행",
+   "excerpt_file": "staging/shop-trends-2026-11-26/daiso-124786.txt"
+  }
+ },
+ "keywords": [
+  {
+   "id": "kw-light-puffer",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "경량 패딩",
+    "en": "Lightweight puffer"
+   },
+   "source_terms": [
+    {
+     "term": "lightweight padded jacket / 경량 패딩",
+     "by": "kh-puffers"
+    },
+    {
+     "term": "Puffers are getting lighter",
+     "by": "kh-fur-collars"
+    }
+   ],
+   "fact_ids": [
+    "f-lightpuffer-718",
+    "f-lightpuffer-core",
+    "f-lightpuffer-pastel"
+   ],
+   "style_ko": "짧고 가벼운 다운·패딩. 올해는 허리선 있는 입체 실루엣, 넉넉한 어깨, 오트밀·포그 그레이·파스텔. 가을엔 단독 외투, 한겨울엔 코트 안 레이어드(kh-puffers, kh-fur-collars)",
+   "ranking_ids": [
+    "r-musinsa-lightdown",
+    "r-fashion-cardspend-2026-06"
+   ],
+   "item_ids": [
+    "i-musinsa-std-cityleisure",
+    "i-nb-flying77",
+    "i-tnf-ventuson",
+    "i-mlb-curveairshell"
+   ],
+   "brand_ids": [
+    "b-musinsa-standard",
+    "b-newbalance",
+    "b-northface",
+    "b-mlb",
+    "b-musinsa",
+    "b-uniqlo"
+   ],
+   "deal_ids": [
+    "musinsa-bf",
+    "musinsa-archive",
+    "uniqlo-bf",
+    "spao-bf",
+    "topten-bf",
+    "dept-winter-2026",
+    "dept-shinsegae",
+    "dept-lotte",
+    "dept-hyundai"
+   ],
+   "benefit_ids": [],
+   "platform_ids": [
+    "p-musinsa",
+    "p-newbalance-kr"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-color-core",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "컬러 패딩·민트/레몬/퍼플 코어",
+    "en": "Color-core puffers (mint, lemon, purple)"
+   },
+   "source_terms": [
+    {
+     "term": "mint-core, lemon-core, purple-core",
+     "by": "kh-black-puffer"
+    }
+   ],
+   "fact_ids": [
+    "f-colorcore-zigzag",
+    "f-colorcore-wconcept",
+    "f-colorcore-terms",
+    "f-lightpuffer-pastel"
+   ],
+   "style_ko": "블랙·네이비 롱패딩 대신 민트·레몬·퍼플·라벤더 같은 색 외투. 반대 의견(관리 쉬운 블랙)도 함께 보여 줌(kh-black-puffer)",
+   "ranking_ids": [],
+   "item_ids": [
+    "i-mlb-curveairshell"
+   ],
+   "brand_ids": [
+    "b-mlb"
+   ],
+   "deal_ids": [
+    "zigzag-bf",
+    "ably-bf"
+   ],
+   "benefit_ids": [],
+   "platform_ids": [],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-faux-fur",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "퍼(페이크 퍼)",
+    "en": "Faux fur, cropped and casual"
+   },
+   "source_terms": [
+    {
+     "term": "Fur is back",
+     "by": "kh-fur-collars"
+    },
+    {
+     "term": "퍼재킷다퍼줄게(무신사 키워드 쿠폰)",
+     "by": "deals.json:musinsa-offline-codes"
+    }
+   ],
+   "fact_ids": [
+    "f-fur-back"
+   ],
+   "style_ko": "크롭 퍼 재킷·퍼 베스트·퍼 니트 집업, 칼라·소매만 퍼, 스톨. 데님·청키 부츠와. 투톤 그러데이션, 머드 브라운·카키 베이지·애시 그레이(kh-fur-collars)",
+   "ranking_ids": [],
+   "item_ids": [],
+   "brand_ids": [],
+   "deal_ids": [
+    "musinsa-offline-codes",
+    "musinsa-bf"
+   ],
+   "benefit_ids": [
+    "bn-musinsa-offline-keyword"
+   ],
+   "platform_ids": [
+    "p-musinsa"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-high-neck",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "하이넥 코트",
+    "en": "High-neck coats"
+   },
+   "source_terms": [
+    {
+     "term": "coat collars are higher / high-neck designs",
+     "by": "kh-fur-collars"
+    }
+   ],
+   "fact_ids": [
+    "f-highneck"
+   ],
+   "style_ko": "턱까지 올라오는 칼라. 목도리 없이 목을 감쌈, 단추 잠그면 단정·풀면 캐주얼. 울 코트→레더 재킷·블루종으로 확산(kh-fur-collars)",
+   "ranking_ids": [],
+   "item_ids": [],
+   "brand_ids": [],
+   "deal_ids": [
+    "dept-winter-2026",
+    "dept-shinsegae",
+    "dept-lotte",
+    "dept-hyundai"
+   ],
+   "benefit_ids": [],
+   "platform_ids": [],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-material",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "소재(캐시미어·울·카멜·스웨이드)",
+    "en": "Material first: cashmere, wool, camel, suede"
+   },
+   "source_terms": [
+    {
+     "term": "한파엔 유행보다 소재",
+     "by": "cj-onstyle-winter"
+    }
+   ],
+   "fact_ids": [
+    "f-material-onstyle"
+   ],
+   "style_ko": "보온성과 원단 질감 중심. 캐시미어 100% 니트·코트, 메리노울, 카멜 코트, 스웨이드 재킷, 울 스니커즈(cj-onstyle-winter)",
+   "ranking_ids": [],
+   "item_ids": [],
+   "brand_ids": [],
+   "deal_ids": [
+    "dept-winter-2026"
+   ],
+   "benefit_ids": [
+    "bn-onstyle-winterweek"
+   ],
+   "platform_ids": [],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-american-classic",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "아메리칸 클래식",
+    "en": "American classic"
+   },
+   "source_terms": [
+    {
+     "term": "아메리칸 클래식에 빠진 MZ",
+     "by": "cj-brooks"
+    }
+   ],
+   "fact_ids": [
+    "f-amclassic-brooks"
+   ],
+   "style_ko": "헤리티지 + 스포츠·빈티지·밀리터리 협업(바시티 재킷, MA-1, 볼캡)(cj-brooks)",
+   "ranking_ids": [],
+   "item_ids": [
+    "i-brooks-eastlogue"
+   ],
+   "brand_ids": [
+    "b-brooks"
+   ],
+   "deal_ids": [
+    "musinsa-bf"
+   ],
+   "benefit_ids": [],
+   "platform_ids": [
+    "p-brooks-own",
+    "p-musinsa",
+    "p-29cm"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-fleece",
+   "cluster": "winter-fashion",
+   "label": {
+    "ko": "플리스",
+    "en": "Fleece"
+   },
+   "source_terms": [
+    {
+     "term": "기본 플리스·플러피 플리스",
+     "by": "daiso-winter-prep"
+    }
+   ],
+   "fact_ids": [
+    "f-fleece-daiso"
+   ],
+   "style_ko": "실내·겉옷 안 레이어드용 플리스(조끼·반집업·후드). 밀크브라운·아이보리 등(daiso-winter-prep)",
+   "ranking_ids": [],
+   "item_ids": [
+    "i-daiso-fleece",
+    "i-daiso-leggings"
+   ],
+   "brand_ids": [
+    "b-daiso"
+   ],
+   "deal_ids": [],
+   "benefit_ids": [],
+   "platform_ids": [
+    "p-daisomall",
+    "p-daiso"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-k-makeup",
+   "cluster": "winter-beauty",
+   "label": {
+    "ko": "K-메이크업(색조)",
+    "en": "K-makeup"
+   },
+   "source_terms": [
+    {
+     "term": "K-makeup / Color Ground Hongdae",
+     "by": "kh-oy-hongdae"
+    }
+   ],
+   "fact_ids": [
+    "f-oy-makeup-growth",
+    "f-oy-hongdae-buyers",
+    "f-oy-instore-ranking",
+    "f-musinsa-beauty-buyers"
+   ],
+   "style_ko": "스킨케어 위 자연스러운 피부 표현을 완성하는 색조. 프라이머·세팅 스프레이·립 컨디셔너 같은 기능성 메이크업, 퍼스널 컬러 진단(kh-oy-pink)",
+   "ranking_ids": [
+    "r-musinsa-beauty-seongsu"
+   ],
+   "item_ids": [
+    "i-2an-items",
+    "i-sonatural-fixer",
+    "i-sonpark-artibalm",
+    "i-vt-reedle-lipplumper"
+   ],
+   "brand_ids": [
+    "b-2an",
+    "b-clio"
+   ],
+   "deal_ids": [
+    "oy-sale-2026-12",
+    "oy-day-2026-12"
+   ],
+   "benefit_ids": [
+    "bn-oy-sale-coupons-pattern"
+   ],
+   "platform_ids": [
+    "p-oliveyoung",
+    "p-musinsa",
+    "p-daiso",
+    "p-daisomall"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-self-beauty",
+   "cluster": "winter-beauty",
+   "label": {
+    "ko": "셀프뷰티(노글루 속눈썹·속눈썹펌·버블팩)",
+    "en": "Pro self-care at home"
+   },
+   "source_terms": [
+    {
+     "term": "프로 셀프케어 / 셀프뷰티",
+     "by": "cj-oy-dec2025-sale"
+    },
+    {
+     "term": "셀프뷰티 부문 신설",
+     "by": "cj-oy-awards-2025"
+    }
+   ],
+   "fact_ids": [
+    "f-selfbeauty-dec2025",
+    "f-selfbeauty-award"
+   ],
+   "style_ko": "겨울에 숍 대신 집에서 하는 관리: 노글루 속눈썹, 속눈썹 펌 키트, 리프팅 밴드, 가정용 미용기기, 버블팩(cj-oy-dec2025-sale). 작년 12월 데이터라 올해 재확인 필요",
+   "ranking_ids": [
+    "r-oy-dec2025-sale"
+   ],
+   "item_ids": [
+    "i-corinco-noglue",
+    "i-fillimilli-noglue"
+   ],
+   "brand_ids": [],
+   "deal_ids": [
+    "oy-sale-2026-12"
+   ],
+   "benefit_ids": [
+    "bn-oy-sale-coupons-pattern"
+   ],
+   "platform_ids": [
+    "p-oliveyoung"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-home-spa",
+   "cluster": "winter-beauty",
+   "label": {
+    "ko": "홈스파(흡착팩·헤어팩·핸드팩)",
+    "en": "Home spa packs"
+   },
+   "source_terms": [
+    {
+     "term": "홈스파",
+     "by": "cj-oy-sept-sale"
+    }
+   ],
+   "fact_ids": [
+    "f-homespa-sept"
+   ],
+   "style_ko": "얼굴·모발·손을 부위별 팩으로 관리(cj-oy-sept-sale)",
+   "ranking_ids": [],
+   "item_ids": [],
+   "brand_ids": [
+    "b-mediheal"
+   ],
+   "deal_ids": [
+    "oy-sale-2026-12"
+   ],
+   "benefit_ids": [
+    "bn-oy-sale-coupons-pattern"
+   ],
+   "platform_ids": [
+    "p-oliveyoung"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-inner-beauty",
+   "cluster": "winter-beauty",
+   "label": {
+    "ko": "이너뷰티·웰니스(뮤신·글루타치온·수면)",
+    "en": "Inner beauty and wellness"
+   },
+   "source_terms": [
+    {
+     "term": "액티브 이너뷰티",
+     "by": "cj-oy-dec2025-sale"
+    },
+    {
+     "term": "healthy pleasure / early wellness",
+     "by": "kh-oy-2026-trend"
+    }
+   ],
+   "fact_ids": [
+    "f-innerbeauty-dec2025",
+    "f-wellness-2026"
+   ],
+   "style_ko": "바르던 성분(뮤신·레티놀·글루타치온)을 먹는 형태로, 수면 보조제(cj-oy-dec2025-sale, kh-oy-2026-trend)",
+   "ranking_ids": [
+    "r-oy-dec2025-sale"
+   ],
+   "item_ids": [
+    "i-vitalbeauty-retinol",
+    "i-yeoesther-glutathione"
+   ],
+   "brand_ids": [],
+   "deal_ids": [
+    "oy-sale-2026-12"
+   ],
+   "benefit_ids": [
+    "bn-oy-sale-coupons-pattern"
+   ],
+   "platform_ids": [
+    "p-oliveyoung"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-dupe",
+   "cluster": "winter-beauty",
+   "label": {
+    "ko": "듀프(저가 대체품)",
+    "en": "Dupes"
+   },
+   "source_terms": [
+    {
+     "term": "dupe consumption",
+     "by": "kt-daiso-young"
+    }
+   ],
+   "fact_ids": [
+    "f-dupe-daiso",
+    "f-daiso-beauty"
+   ],
+   "style_ko": "유명 브랜드와 비슷한 기능의 저가 상품. 다이소 3,000원대 색조가 대표 사례(kt-daiso-young)",
+   "ranking_ids": [],
+   "item_ids": [
+    "i-sonpark-artibalm",
+    "i-vt-pdrn-lip",
+    "i-vt-reedle-lipplumper"
+   ],
+   "brand_ids": [
+    "b-daiso"
+   ],
+   "deal_ids": [],
+   "benefit_ids": [
+    "bn-daiso-solpay"
+   ],
+   "platform_ids": [
+    "p-daiso",
+    "p-daisomall"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-tteok-dessert",
+   "cluster": "winter-food",
+   "label": {
+    "ko": "떡 디저트(떡런)",
+    "en": "Rice-cake desserts"
+   },
+   "source_terms": [
+    {
+     "term": "tteok-run",
+     "by": "kt-ricecake"
+    }
+   ],
+   "fact_ids": [
+    "f-tteok-boom"
+   ],
+   "style_ko": "버터떡·과일 찹쌀떡·피자 설기·모찌. 편의점이 3,000원대 버전 출시(kt-ricecake)",
+   "ranking_ids": [
+    "r-ricecake-cvs"
+   ],
+   "item_ids": [
+    "i-gs25-hanjeongseon",
+    "i-gs25-pizzaseolgi",
+    "i-cu-choco-mochi"
+   ],
+   "brand_ids": [],
+   "deal_ids": [],
+   "benefit_ids": [
+    "bn-cjone-global-pack"
+   ],
+   "platform_ids": [
+    "p-gs25",
+    "p-cu"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-xmas-decor",
+   "cluster": "christmas",
+   "label": {
+    "ko": "크리스마스 장식·인테리어 소품",
+    "en": "Christmas decor"
+   },
+   "source_terms": [
+    {
+     "term": "크리스마스 마켓(다이소몰 기획전명)",
+     "by": "daiso-xmas-market"
+    }
+   ],
+   "fact_ids": [
+    "f-xmas-daiso"
+   ],
+   "style_ko": "트리 장식, 산타 오너먼트, LED 무드등, 노르딕 패턴 '윈터투게더'(daiso-xmas-market, daiso-winter)",
+   "ranking_ids": [],
+   "item_ids": [
+    "i-daiso-xmas-decor",
+    "i-daiso-train",
+    "i-daiso-dollclothes",
+    "i-daiso-wintertogether"
+   ],
+   "brand_ids": [
+    "b-daiso"
+   ],
+   "deal_ids": [],
+   "benefit_ids": [
+    "bn-daiso-solpay"
+   ],
+   "platform_ids": [
+    "p-daisomall",
+    "p-daiso"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-advent-calendar",
+   "cluster": "christmas",
+   "label": {
+    "ko": "어드벤트 캘린더",
+    "en": "Advent calendars"
+   },
+   "source_terms": [
+    {
+     "term": "어드벤트 캘린더",
+     "by": "daiso-xmas-market"
+    }
+   ],
+   "fact_ids": [
+    "f-xmas-daiso"
+   ],
+   "style_ko": "12월 1~24일 하루 한 칸씩 여는 달력. DIY 서랍형, 퍼즐형(daiso-xmas-market)",
+   "ranking_ids": [],
+   "item_ids": [
+    "i-daiso-advent-house",
+    "i-daiso-advent-puzzle"
+   ],
+   "brand_ids": [
+    "b-daiso"
+   ],
+   "deal_ids": [],
+   "benefit_ids": [
+    "bn-daiso-solpay"
+   ],
+   "platform_ids": [
+    "p-daisomall"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  },
+  {
+   "id": "kw-xmas-market",
+   "cluster": "christmas",
+   "label": {
+    "ko": "크리스마스 마켓·백화점 트리",
+    "en": "Christmas markets and store displays"
+   },
+   "source_terms": [
+    {
+     "term": "Christmas market",
+     "by": "kh-xmas-seoul"
+    }
+   ],
+   "fact_ids": [
+    "f-xmas-dept"
+   ],
+   "style_ko": "백화점 외관 조명·미디어 파사드·테마 마켓(빅토리아풍 잠실, 1980년대 뉴욕풍 더현대)(kh-xmas-seoul)",
+   "ranking_ids": [],
+   "item_ids": [],
+   "brand_ids": [],
+   "deal_ids": [
+    "seoul-winter-market-2026",
+    "ttukseom-xmas",
+    "dept-winter-2026"
+   ],
+   "benefit_ids": [],
+   "platform_ids": [],
+   "image_note": "백화점 장식 사진은 백화점 보도용 이미지 사용 조건 확인 전 쓰지 않음",
+   "status": "partial"
+  },
+  {
+   "id": "kw-kgoods-gift",
+   "cluster": "christmas",
+   "label": {
+    "ko": "K-굿즈 선물(서울 굿즈·관광기념품)",
+    "en": "K-goods gifts"
+   },
+   "source_terms": [
+    {
+     "term": "K-Goods Winter Village / K-굿즈",
+     "by": "kh-souvenir-ddp"
+    }
+   ],
+   "fact_ids": [
+    "f-ddp-gifts",
+    "f-souvenir-fair"
+   ],
+   "style_ko": "전통 문양을 일상용품으로 바꾼 선물: 스티커·엽서·자석·카드·모자, 공모전 수상작(유기·부채·도어벨)",
+   "ranking_ids": [
+    "r-ddp-store",
+    "r-souvenir-contest-2026"
+   ],
+   "item_ids": [
+    "i-ddp-stickers",
+    "i-ddp-postcards",
+    "i-ddp-fish-magnet",
+    "i-ddp-cards",
+    "i-ddp-beltcap"
+   ],
+   "brand_ids": [],
+   "deal_ids": [],
+   "benefit_ids": [
+    "bn-ddp-xmas"
+   ],
+   "platform_ids": [
+    "p-naver-smartstore",
+    "p-kakao-gift",
+    "p-ohouse"
+   ],
+   "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
+   "status": "partial"
+  }
+ ],
+ "signals": [
+  {
+   "keyword_id": "kw-light-puffer",
+   "evidence_count": 3,
+   "sources": [
+    "kh-fur-collars",
+    "kh-musinsa-uniqlo",
+    "kh-puffers"
+   ],
+   "common": [
+    {
+     "id": "b-musinsa",
+     "evidence_count": 2,
+     "sources": [
+      "kh-musinsa-uniqlo",
+      "kh-puffers"
+     ]
+    }
+   ],
+   "emerging": [
+    {
+     "fact": "f-lightpuffer-718",
+     "ko": "경량 패딩 매출 +718%(8월)",
+     "source": "kh-puffers"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "musinsa-bf",
+     "end": "2026-12-02",
+     "status": "confirmed",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    },
+    {
+     "deal_id": "musinsa-archive",
+     "end": "2026-12-17",
+     "status": "confirmed",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    },
+    {
+     "deal_id": "uniqlo-bf",
+     "end": "2026-11-27",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "spao-bf",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "topten-bf",
+     "end": "2026-11-30",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-winter-2026",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-shinsegae",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-lotte",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-hyundai",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-color-core",
+   "evidence_count": 3,
+   "sources": [
+    "kh-black-puffer",
+    "kh-fur-collars",
+    "kh-puffers"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-colorcore-zigzag",
+     "ko": "퍼플 검색 +740%, 레몬 8배",
+     "source": "kh-black-puffer"
+    },
+    {
+     "fact": "f-colorcore-wconcept",
+     "ko": "민트 매출 +130%",
+     "source": "kh-black-puffer"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "zigzag-bf",
+     "end": "2026-12-02",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "ably-bf",
+     "end": "2026-12-03",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-faux-fur",
+   "evidence_count": 1,
+   "sources": [
+    "kh-fur-collars"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-fur-back",
+     "ko": "퍼 재등장(신규 경향)",
+     "source": "kh-fur-collars"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "musinsa-offline-codes",
+     "end": "2026-12-02",
+     "status": "confirmed",
+     "link_basis": "code-keyword: 쿠폰 키워드가 품목명"
+    },
+    {
+     "deal_id": "musinsa-bf",
+     "end": "2026-12-02",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "benefit_id": "bn-musinsa-offline-keyword",
+     "end": "2026-12-02"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-high-neck",
+   "evidence_count": 1,
+   "sources": [
+    "kh-fur-collars"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-highneck",
+     "ko": "하이넥 코트(신규 경향)",
+     "source": "kh-fur-collars"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "dept-winter-2026",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-shinsegae",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-lotte",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-hyundai",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-material",
+   "evidence_count": 1,
+   "sources": [
+    "cj-onstyle-winter"
+   ],
+   "common": [],
+   "emerging": [],
+   "season_sale_overlap": [
+    {
+     "deal_id": "dept-winter-2026",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-american-classic",
+   "evidence_count": 1,
+   "sources": [
+    "cj-brooks"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-amclassic-brooks",
+     "ko": "브룩스브라더스 +51%",
+     "source": "cj-brooks"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "musinsa-bf",
+     "end": "2026-12-02",
+     "status": "confirmed",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-fleece",
+   "evidence_count": 4,
+   "sources": [
+    "daiso-winter",
+    "daiso-winter-prep",
+    "kh-daiso-kbeauty",
+    "kt-daiso-young"
+   ],
+   "common": [
+    {
+     "id": "b-daiso",
+     "evidence_count": 5,
+     "sources": [
+      "daiso-winter",
+      "daiso-winter-prep",
+      "daiso-xmas-market",
+      "kh-daiso-kbeauty",
+      "kt-daiso-young"
+     ]
+    }
+   ],
+   "emerging": [],
+   "season_sale_overlap": []
+  },
+  {
+   "keyword_id": "kw-k-makeup",
+   "evidence_count": 7,
+   "sources": [
+    "cj-oy-awards-2024",
+    "cj-oy-june-sale",
+    "daiso-beauty-oct",
+    "kh-musinsa-beauty",
+    "kh-oy-hongdae",
+    "kh-oy-pink",
+    "kt-daiso-young"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-oy-makeup-growth",
+     "ko": "올리브영 색조 연평균 +36%",
+     "source": "kh-oy-pink"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "oy-sale-2026-12",
+     "end": "2026-12-07",
+     "status": "expected",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    },
+    {
+     "deal_id": "oy-day-2026-12",
+     "end": "2026-12-27",
+     "status": "expected",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    },
+    {
+     "benefit_id": "bn-oy-sale-coupons-pattern",
+     "end": null,
+     "note": "지난 회차 패턴(추론)"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-self-beauty",
+   "evidence_count": 2,
+   "sources": [
+    "cj-oy-awards-2025",
+    "cj-oy-dec2025-sale"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-selfbeauty-dec2025",
+     "ko": "버블팩 검색 +1448%, 속눈썹펌 +967%(작년 12월)",
+     "source": "cj-oy-dec2025-sale"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "oy-sale-2026-12",
+     "end": "2026-12-07",
+     "status": "expected",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    },
+    {
+     "benefit_id": "bn-oy-sale-coupons-pattern",
+     "end": null,
+     "note": "지난 회차 패턴(추론)"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-home-spa",
+   "evidence_count": 2,
+   "sources": [
+    "cj-oy-awards-2024",
+    "cj-oy-sept-sale"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-homespa-sept",
+     "ko": "흡착팩 검색 약 5배",
+     "source": "cj-oy-sept-sale"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "oy-sale-2026-12",
+     "end": "2026-12-07",
+     "status": "expected",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "benefit_id": "bn-oy-sale-coupons-pattern",
+     "end": null,
+     "note": "지난 회차 패턴(추론)"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-inner-beauty",
+   "evidence_count": 2,
+   "sources": [
+    "cj-oy-dec2025-sale",
+    "kh-oy-2026-trend"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-innerbeauty-dec2025",
+     "ko": "먹는 뮤신 매출 140배(작년 12월)",
+     "source": "cj-oy-dec2025-sale"
+    },
+    {
+     "fact": "f-wellness-2026",
+     "ko": "수면 보조제 +300%",
+     "source": "kh-oy-2026-trend"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "deal_id": "oy-sale-2026-12",
+     "end": "2026-12-07",
+     "status": "expected",
+     "link_basis": "verified: 이 세일 플랫폼이 키워드 품목을 판다(오늘 확인분)"
+    },
+    {
+     "benefit_id": "bn-oy-sale-coupons-pattern",
+     "end": null,
+     "note": "지난 회차 패턴(추론)"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-dupe",
+   "evidence_count": 4,
+   "sources": [
+    "daiso-beauty-oct",
+    "daiso-winter",
+    "kh-daiso-kbeauty",
+    "kt-daiso-young"
+   ],
+   "common": [
+    {
+     "id": "b-daiso",
+     "evidence_count": 5,
+     "sources": [
+      "daiso-winter",
+      "daiso-winter-prep",
+      "daiso-xmas-market",
+      "kh-daiso-kbeauty",
+      "kt-daiso-young"
+     ]
+    }
+   ],
+   "emerging": [],
+   "season_sale_overlap": [
+    {
+     "benefit_id": "bn-daiso-solpay",
+     "end": "2026-11-30"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-tteok-dessert",
+   "evidence_count": 1,
+   "sources": [
+    "kt-ricecake"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-tteok-boom",
+     "ko": "CU 떡 매출 +96.5%",
+     "source": "kt-ricecake"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "benefit_id": "bn-cjone-global-pack",
+     "end": "2026-12-31"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-xmas-decor",
+   "evidence_count": 4,
+   "sources": [
+    "daiso-winter",
+    "daiso-xmas-market",
+    "kh-daiso-kbeauty",
+    "kt-daiso-young"
+   ],
+   "common": [
+    {
+     "id": "b-daiso",
+     "evidence_count": 5,
+     "sources": [
+      "daiso-winter",
+      "daiso-winter-prep",
+      "daiso-xmas-market",
+      "kh-daiso-kbeauty",
+      "kt-daiso-young"
+     ]
+    }
+   ],
+   "emerging": [],
+   "season_sale_overlap": [
+    {
+     "benefit_id": "bn-daiso-solpay",
+     "end": "2026-11-30"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-advent-calendar",
+   "evidence_count": 3,
+   "sources": [
+    "daiso-xmas-market",
+    "kh-daiso-kbeauty",
+    "kt-daiso-young"
+   ],
+   "common": [
+    {
+     "id": "b-daiso",
+     "evidence_count": 5,
+     "sources": [
+      "daiso-winter",
+      "daiso-winter-prep",
+      "daiso-xmas-market",
+      "kh-daiso-kbeauty",
+      "kt-daiso-young"
+     ]
+    }
+   ],
+   "emerging": [],
+   "season_sale_overlap": [
+    {
+     "benefit_id": "bn-daiso-solpay",
+     "end": "2026-11-30"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-xmas-market",
+   "evidence_count": 1,
+   "sources": [
+    "kh-xmas-seoul"
+   ],
+   "common": [],
+   "emerging": [],
+   "season_sale_overlap": [
+    {
+     "deal_id": "seoul-winter-market-2026",
+     "end": "2026-12-31",
+     "status": "expected",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "ttukseom-xmas",
+     "end": "2026-12-27",
+     "status": "expected",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    },
+    {
+     "deal_id": "dept-winter-2026",
+     "end": "2026-11-29",
+     "status": "confirmed",
+     "link_basis": "inference: 같은 시기·같은 품목군 세일, 대상 품목 미확인"
+    }
+   ]
+  },
+  {
+   "keyword_id": "kw-kgoods-gift",
+   "evidence_count": 3,
+   "sources": [
+    "kh-souvenir-ddp",
+    "kt-ddp-souvenir",
+    "kt-souvenir-fair"
+   ],
+   "common": [],
+   "emerging": [
+    {
+     "fact": "f-ddp-gifts",
+     "ko": "DDP 스토어 매출 +41.2%",
+     "source": "kt-ddp-souvenir"
+    }
+   ],
+   "season_sale_overlap": [
+    {
+     "benefit_id": "bn-ddp-xmas",
+     "end": "2026-12-25"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  {
+   "id": "f-lightpuffer-718",
+   "ko": "무신사에서 2026년 8월 '경량 패딩' 카테고리 매출이 전년 같은 달보다 718% 늘었다(무신사 자료). 무신사 관계자: 거래량 8배 이상.",
+   "certainty": "tendency",
+   "source": "kh-puffers"
+  },
+  {
+   "id": "f-lightpuffer-core",
+   "ko": "업계 관계자: 경량 패딩이 간절기·아웃도어 보조 외투에서 가을·겨울 핵심 상품으로 넓어졌다. 올해는 허리선이 들어간 입체적 실루엣, 넉넉한 어깨, 오트밀·포그 그레이 같은 뉴트럴 색이 늘었다.",
+   "certainty": "tendency",
+   "source": "kh-puffers"
+  },
+  {
+   "id": "f-lightpuffer-pastel",
+   "ko": "올겨울 경량 패딩은 짙은 원색·블랙·그레이보다 옅은 파스텔 색에 관심이 더 쏠린다(업계 관계자 인용 기사).",
+   "certainty": "tendency",
+   "source": "kh-fur-collars"
+  },
+  {
+   "id": "f-colorcore-zigzag",
+   "ko": "지그재그(카카오스타일) 7~9월 검색: '퍼플' +740%, '레몬' 8배 이상, '민트' 5배 이상(전년 같은 기간 대비).",
+   "certainty": "tendency",
+   "source": "kh-black-puffer"
+  },
+  {
+   "id": "f-colorcore-wconcept",
+   "ko": "W컨셉: 민트색 상품 매출 +130%, 레몬 +92%, 올리브 +39%. 레몬·올리브·퍼플 색 상품 평균 거래액 약 40% 증가.",
+   "certainty": "tendency",
+   "source": "kh-black-puffer"
+  },
+  {
+   "id": "f-colorcore-terms",
+   "ko": "'민트코어·레몬코어·퍼플코어' 같은 색 중심 트렌드가 겨울 외투 색 수요를 넓혔다(업계 전문가). 반면 '자주 입을 거면 블랙'이라는 소비자 반응도 같은 기사에 있다.",
+   "certainty": "tendency",
+   "source": "kh-black-puffer"
+  },
+  {
+   "id": "f-fur-back",
+   "ko": "올겨울 퍼는 짧고 캐주얼하게 돌아왔다: 크롭 퍼 재킷, 퍼 베스트, 퍼 니트 집업, 퍼 스톨·칼라. 대부분 페이크 퍼이고 젊은 층 겨냥. 투톤 그러데이션, 머드 브라운·카키 베이지·애시 그레이.",
+   "certainty": "tendency",
+   "source": "kh-fur-collars"
+  },
+  {
+   "id": "f-highneck",
+   "ko": "코트 트렌드로 하이넥(턱까지 올라오는 높은 칼라) 디자인. 목도리 없이 목을 감싸고, 울 코트에서 레더 재킷·블루종까지 번졌다.",
+   "certainty": "tendency",
+   "source": "kh-fur-collars"
+  },
+  {
+   "id": "f-material-onstyle",
+   "ko": "CJ온스타일 '2026 겨울 패션위크'(~11/19)는 캐시미어·울·카멜·양모·스웨이드·레더를 소재별로 구성. 회사 설명: 보온성과 원단 질감을 중시하는 수요.",
+   "certainty": "certain",
+   "source": "cj-onstyle-winter"
+  },
+  {
+   "id": "f-amclassic-brooks",
+   "ko": "브룩스브라더스 2026년 1~10월 5개 패션 플랫폼(무신사·29CM·SSF샵·코오롱몰·LF몰) 합산 매출 +51%, 브랜드 전체 매출 약 +20%(브랜드웍스 코리아 발표).",
+   "certainty": "certain",
+   "source": "cj-brooks"
+  },
+  {
+   "id": "f-fashion-cardspend",
+   "ko": "와이즈앱·리테일 추정: 2026년 6월 패션 10대 업체 카드 결제 1위 무신사(3,473억 원, 점유 30.9%), 2위 유니클로(20.2%). 5월엔 유니클로가 1위(3,235억 원). 무신사 고객은 10~30대가 4분의 3 가까이, 유니클로는 40~50대가 45.3%.",
+   "certainty": "tendency",
+   "source": "kh-musinsa-uniqlo"
+  },
+  {
+   "id": "f-fleece-daiso",
+   "ko": "다이소몰 겨울 기획전에 기본 플리스·플러피 플리스(조끼·반집업·후드티·후드집업), 플리스 후드 티, 착시 기모 레깅스, 넥워머·뽀글이 목도리 등 방한용품 구성.",
+   "certainty": "certain",
+   "source": "daiso-winter-prep",
+   "also": [
+    "daiso-winter"
+   ]
+  },
+  {
+   "id": "f-oy-makeup-growth",
+   "ko": "올리브영 색조 매출은 최근 5년 연평균 36% 성장. 첫 색조 전문 매장 '컬러그라운드 홍대'(11/20 개장). 한국 색조 수출은 9월까지 11.1억 달러로 스킨케어의 8분의 1.",
+   "certainty": "tendency",
+   "source": "kh-oy-pink",
+   "also": [
+    "kh-oy-hongdae"
+   ]
+  },
+  {
+   "id": "f-oy-hongdae-buyers",
+   "ko": "올리브영 홍대 상권 매장(1~10월): 10~20대가 매출의 절반 이상, 외국인 고객이 84%(올리브영 발표 수치).",
+   "certainty": "tendency",
+   "source": "kh-oy-hongdae",
+   "segment": "올리브영 발표: 홍대 상권 매장 고객 구성"
+  },
+  {
+   "id": "f-oy-instore-ranking",
+   "ko": "컬러그라운드 홍대는 매장 안 랭킹으로 올리브영 자체 데이터와 최신 색조 트렌드를 보여 준다(올리브영 관계자).",
+   "certainty": "tendency",
+   "source": "kh-oy-pink"
+  },
+  {
+   "id": "f-selfbeauty-dec2025",
+   "ko": "2025년 12월 올영세일(11/30~12/6) 온라인몰 검색: '노글루 속눈썹' +265%, '속눈썹 펌' +967%, '버블팩' +1448%, 속눈썹 영양제 매출 +105%(전년 12월 세일 대비).",
+   "certainty": "certain",
+   "source": "cj-oy-dec2025-sale"
+  },
+  {
+   "id": "f-selfbeauty-award",
+   "ko": "2025 올리브영 어워즈에 '셀프뷰티'·'라이프스타일'·'핸드케어'·'구강애프터케어' 부문 신설(40개 부문 166개 상품, 2024.7~2025.6 구매 1.8억 건 기준).",
+   "certainty": "certain",
+   "source": "cj-oy-awards-2025"
+  },
+  {
+   "id": "f-homespa-sept",
+   "ko": "2026년 9월 올영세일(8/30~9/5) 온라인몰 검색: '흡착팩' 약 5배, '온열팩' 2배 이상, '헤어팩' +68%, '핸드팩' +69%(전년 대비).",
+   "certainty": "certain",
+   "source": "cj-oy-sept-sale"
+  },
+  {
+   "id": "f-innerbeauty-dec2025",
+   "ko": "2025년 12월 올영세일: 먹는 '뮤신' 관련 상품군 매출 140배 이상, '다이어트 유산균' 검색 +410%. 글루타치온·레티놀 성분 이너뷰티 상품이 인기 목록에.",
+   "certainty": "certain",
+   "source": "cj-oy-dec2025-sale"
+  },
+  {
+   "id": "f-wellness-2026",
+   "ko": "올리브영 '2026 트렌드 키워드' 리포트: 수면 건강 보조제 매출 300% 이상 증가(멜라토닌·GABA 등), 15~24세 웰니스 소비 2022년부터 매년 두 자릿수 성장, '스킨케어 같은 메이크업' 성장.",
+   "certainty": "tendency",
+   "source": "kh-oy-2026-trend"
+  },
+  {
+   "id": "f-dupe-daiso",
+   "ko": "다이소 '손앤박 아티 스프레드 컬러 밤'(3,000원)은 샤넬 립앤치크밤과 비슷한 기능으로 '듀프' 소비 사례로 보도됨. 오픈서베이 2025 뷰티 트렌드 리포트: 다이소를 뷰티 구매 채널로 쓰는 비율 9.2%p 증가.",
+   "certainty": "tendency",
+   "source": "kt-daiso-young"
+  },
+  {
+   "id": "f-daiso-beauty",
+   "ko": "다이소 뷰티 매출 증가율 2025년 70%, 2024년 144%. 뷰티 브랜드 2022년 7개 → 2026년 약 170개, 상품 약 120개 → 1,900개 이상. 명동역점 1위 카테고리는 뷰티(아성다이소).",
+   "certainty": "tendency",
+   "source": "kh-daiso-kbeauty"
+  },
+  {
+   "id": "f-tteok-boom",
+   "ko": "떡 디저트 붐('떡런'): 엠브레인 추정 떡 지출 1,519억 원(+31.2%), 20대 이하 +45.5%. CU 1~9월 떡 매출 +96.5%, 세븐일레븐 +62%(외국인 +80%).",
+   "certainty": "tendency",
+   "source": "kt-ricecake"
+  },
+  {
+   "id": "f-bananamilk",
+   "ko": "빙그레 바나나맛우유: CU 인천공항점 판매 +43.1%(1/1~8/17), 명동·홍대·성수 외국인 카드 매출 상위 2위 안. GS25 인천공항 한 점포 하루 평균 1,200개.",
+   "certainty": "tendency",
+   "source": "kh-cu-115"
+  },
+  {
+   "id": "f-gimbugak",
+   "ko": "비비고 김부각(2026년 6월 출시) 9월 말 누적 약 50만 봉. 롯데마트 제타플렉스 서울역점 등 글로벌 특화점포 매출 비중 70% 육박.",
+   "certainty": "certain",
+   "source": "cj-bibigo-gimbugak"
+  },
+  {
+   "id": "f-oy-category-foreign",
+   "ko": "올리브영 2026년 1~8월 외국인 구매: 기초화장품 > 색조화장품 > 헤어케어 순 인기, 평균 6개 상품 구입, 35%가 1회 10만 원 이상.",
+   "certainty": "certain",
+   "source": "cj-oy-foreign-1t",
+   "segment": "올리브영 발표: 외국인 구매"
+  },
+  {
+   "id": "f-oy-routine",
+   "ko": "올리브영: 클렌징·스킨케어·마스크팩·선케어를 모두 사는 고객 2019년 1.2만 명 → 2025년 56.9만 명. 내·외국인 인기 품목 상위 10위 중 공통 품목 4개 → 7개(취향이 닮아 감).",
+   "certainty": "certain",
+   "source": "cj-oy-2025-annual"
+  },
+  {
+   "id": "f-oy-sale-schedule",
+   "ko": "올영세일은 연 4회(3·6·9·12월). 2025년 12월 회차는 11/30~12/6이었고 어워즈 수상 상품 특가와 함께 진행.",
+   "certainty": "certain",
+   "source": "cj-oy-sept-sale",
+   "also": [
+    "cj-oy-awards-2025"
+   ]
+  },
+  {
+   "id": "f-xmas-dept",
+   "ko": "백화점 크리스마스: 롯데 잠실점 크리스마스 마켓 11/19~1/3, 롯데 본점(명동) 외관 조명·마켓, 신세계 명동 미디어 파사드 ~1/31(매일 17~24시), 더현대 서울 H빌리지 뉴욕 테마 마켓(예약제, 외국인 현장 입장 가능), 갤러리아 압구정 로로피아나 트리 ~12/31.",
+   "certainty": "tendency",
+   "source": "kh-xmas-seoul"
+  },
+  {
+   "id": "f-xmas-daiso",
+   "ko": "다이소몰 '득템 대전 크리스마스 마켓'(11/16~20): 어드벤트 캘린더, 장식 소품, 완구 등 시즌 신상 500여 종.",
+   "certainty": "certain",
+   "source": "daiso-xmas-market"
+  },
+  {
+   "id": "f-ddp-gifts",
+   "ko": "DDP 디자인스토어(서울디자인재단) 1~10월 매출 27.34억 원 +41.2%. 인기: 서울 스티커 모음, 사대문·4대궁 엽서, 복 물고기 자석, 대한제국 트럼프 카드. 크리스마스 선물 기획전 ~12/25.",
+   "certainty": "tendency",
+   "source": "kt-ddp-souvenir"
+  },
+  {
+   "id": "f-souvenir-fair",
+   "ko": "2026 관광기념품 박람회(11/20~22 DDP, 143개 업체) 주제 '첫눈 덮인 K-굿즈 마을' — 전통 색·문양 + 크리스마스 장식.",
+   "certainty": "tendency",
+   "source": "kt-souvenir-fair",
+   "also": [
+    "kh-souvenir-ddp"
+   ]
+  },
+  {
+   "id": "f-gs25-items",
+   "ko": "GS25 외국인 인기 품목(2026): 바나나우유, 그릭요거트, 얼음컵, 감동란, 교통카드·유심. 중화권 1위는 블루베리 그릭요거트(바나나우유 추월), 북미 고객은 캔맥주 지출 1위.",
+   "certainty": "tendency",
+   "source": "kh-gs25-coast",
+   "also": [
+    "kh-gs25-na"
+   ],
+   "segment": "GS리테일 발표: 외국인·국적권역별"
+  },
+  {
+   "id": "f-musinsa-beauty-buyers",
+   "ko": "무신사 뷰티 성수(첫 5일): 구매 고객 65% 외국인, 여성 85%, 20~30대 70% 이상. 한국인은 향수·메이크업·바디케어, 외국인은 닥터에스테·코스알엑스·온그리디언츠(스킨케어), 오드타입·리스키(메이크업)에 관심.",
+   "certainty": "tendency",
+   "source": "kh-musinsa-beauty",
+   "segment": "무신사 발표: 한국인/외국인 고객"
+  }
+ ],
+ "rankings": [
+  {
+   "id": "r-fashion-cardspend-2026-06",
+   "title_ko": "패션 10대 업체 카드 결제 추정액 순위(2026년 6월)",
+   "source": "kh-musinsa-uniqlo",
+   "segment_by_source": null,
+   "period": "2026-06",
+   "published_regularly": "와이즈앱·리테일 월별 추정치(언론 보도는 비정기)",
+   "items": [
+    {
+     "rank": 1,
+     "name": "무신사",
+     "value": "30.9%"
+    },
+    {
+     "rank": 2,
+     "name": "유니클로",
+     "value": "20.2%"
+    }
+   ],
+   "certainty": "tendency",
+   "note": "전체 랭킹(분류 없음). 3위 이하 기사에 없음."
+  },
+  {
+   "id": "r-oy-june2026-sale",
+   "title_ko": "6월 올영세일 인기상품 상위권(순위 미공개)",
+   "source": "cj-oy-june-sale",
+   "segment_by_source": null,
+   "period": "2026-05-31~06-03",
+   "published_regularly": "올영세일마다 분석 보도자료(연 4회)",
+   "items": [
+    {
+     "rank": null,
+     "item": "i-goodal-sun"
+    },
+    {
+     "rank": null,
+     "item": "i-biore-mist"
+    },
+    {
+     "rank": null,
+     "item": "i-sonatural-fixer"
+    }
+   ],
+   "certainty": "certain",
+   "note": "전체 고객 기준. 겨울 상품 아님(참고용)."
+  },
+  {
+   "id": "r-oy-dec2025-sale",
+   "title_ko": "2025년 12월 올영세일 인기·급상승(순위 미공개)",
+   "source": "cj-oy-dec2025-sale",
+   "segment_by_source": null,
+   "period": "2025-11-30~12-06",
+   "published_regularly": "연 1회(12월 회차)",
+   "items": [
+    {
+     "rank": null,
+     "item": "i-corinco-noglue"
+    },
+    {
+     "rank": null,
+     "item": "i-fillimilli-noglue"
+    },
+    {
+     "rank": null,
+     "item": "i-vitalbeauty-retinol"
+    },
+    {
+     "rank": null,
+     "item": "i-yeoesther-glutathione"
+    }
+   ],
+   "certainty": "certain",
+   "note": "작년 12월 데이터. 올해 12월 세일 분석은 세일 종료 후 나옴(작년 12/9 발표)."
+  },
+  {
+   "id": "r-oy-awards-2025",
+   "title_ko": "2025 올리브영 어워즈(40개 부문 166개 상품)",
+   "source": "cj-oy-awards-2025",
+   "segment_by_source": null,
+   "period": "2024-07~2025-06 구매 1.8억 건",
+   "published_regularly": "매년 11월 말~12월 초 발표",
+   "items": [],
+   "certainty": "certain",
+   "note": "부문별 수상 상품 목록은 oliveyoung.co.kr에만 있고 오늘 봇 차단(Cloudflare)으로 열지 못함 → 상품 칸 비움. 원두 휴대폰 확인 또는 언론 인용 대조 필요."
+  },
+  {
+   "id": "r-oy-awards-2024-hof",
+   "title_ko": "2024 올리브영 어워즈 명예의 전당 브랜드(가나다순, 순위 아님)",
+   "source": "cj-oy-awards-2024",
+   "segment_by_source": null,
+   "period": "2015~2024",
+   "published_regularly": "매년",
+   "items": [
+    {
+     "rank": null,
+     "brand": "b-mediheal"
+    },
+    {
+     "rank": null,
+     "brand": "b-miseenscene"
+    },
+    {
+     "rank": null,
+     "brand": "b-bioderma"
+    },
+    {
+     "rank": null,
+     "brand": "b-isoi"
+    },
+    {
+     "rank": null,
+     "brand": "b-clio"
+    }
+   ],
+   "certainty": "certain",
+   "note": ""
+  },
+  {
+   "id": "r-oy-foreign-category-2026",
+   "title_ko": "올리브영 외국인 구매 인기 카테고리 순서",
+   "source": "cj-oy-foreign-1t",
+   "segment_by_source": "올리브영 발표: 외국인 구매",
+   "period": "2026-01~08",
+   "published_regularly": "반기 안팎 간격 발표(2025-12-03, 2026-08-31)",
+   "items": [
+    {
+     "rank": 1,
+     "name": "기초화장품"
+    },
+    {
+     "rank": 2,
+     "name": "색조화장품"
+    },
+    {
+     "rank": 3,
+     "name": "헤어케어"
+    }
+   ],
+   "certainty": "certain",
+   "note": ""
+  },
+  {
+   "id": "r-musinsa-beauty-seongsu",
+   "title_ko": "무신사 뷰티 성수 개장 5일 인기 브랜드",
+   "source": "kh-musinsa-beauty",
+   "segment_by_source": null,
+   "period": "2026-11-12~16(개장 후 5일)",
+   "published_regularly": "비정기(개장 보도)",
+   "items": [
+    {
+     "rank": 1,
+     "brand": "b-2an",
+     "note": "최고 매출"
+    },
+    {
+     "rank": null,
+     "brand": "LT Piver"
+    },
+    {
+     "rank": null,
+     "brand": "Flower Knows"
+    },
+    {
+     "rank": null,
+     "brand": "Snidel Beauty"
+    },
+    {
+     "rank": null,
+     "brand": "Dove"
+    },
+    {
+     "rank": null,
+     "brand": "Vaseline"
+    }
+   ],
+   "certainty": "tendency",
+   "note": ""
+  },
+  {
+   "id": "r-musinsa-lightdown",
+   "title_ko": "무신사 경량 패딩 판매 1위 언급",
+   "source": "kh-puffers",
+   "segment_by_source": null,
+   "period": "2026-10(기사 시점)",
+   "published_regularly": "비정기",
+   "items": [
+    {
+     "rank": 1,
+     "item": "i-musinsa-std-cityleisure",
+     "note": "클라우디 블루 색상, 남녀 전 사이즈 품절"
+    }
+   ],
+   "certainty": "tendency",
+   "note": "기사 표현 'ranked No. 1 in sales' — 어느 순위표(무신사 전체/브랜드 내)인지 기사에 없음."
+  },
+  {
+   "id": "r-cu-incheon-arrivals",
+   "title_ko": "CU 인천공항 입국장 인근 9개 점포 판매 순위",
+   "source": "kh-cu-115",
+   "segment_by_source": "BGF리테일 발표: 인천공항 입국장 인근 점포",
+   "period": "2026-01-01~08-17",
+   "published_regularly": "비정기",
+   "items": [
+    {
+     "rank": 1,
+     "item": "i-tmoney-travel"
+    },
+    {
+     "rank": 2,
+     "item": "i-banana-milk"
+    },
+    {
+     "rank": 3,
+     "name": "생수"
+    },
+    {
+     "rank": 4,
+     "name": "두바이 쫀득 쿠키"
+    },
+    {
+     "rank": 5,
+     "name": "한국용 어댑터"
+    }
+   ],
+   "certainty": "tendency",
+   "note": ""
+  },
+  {
+   "id": "r-cu-incheon-departures",
+   "title_ko": "CU 인천공항 출국장 인근 10개 점포 판매 순위",
+   "source": "kh-cu-115",
+   "segment_by_source": "BGF리테일 발표: 인천공항 출국장 인근 점포",
+   "period": "2026-01-01~08-17",
+   "published_regularly": "비정기",
+   "items": [
+    {
+     "rank": 1,
+     "item": "i-banana-milk"
+    },
+    {
+     "rank": 2,
+     "name": "생수"
+    },
+    {
+     "rank": 3,
+     "name": "두바이 쫀득 쿠키"
+    },
+    {
+     "rank": 4,
+     "name": "딸기맛 우유"
+    },
+    {
+     "rank": 5,
+     "name": "오리온 비쵸비"
+    }
+   ],
+   "certainty": "tendency",
+   "note": ""
+  },
+  {
+   "id": "r-cu-districts-foreign",
+   "title_ko": "CU 명동·홍대·성수 외국인 카드 매출 상위 5(일부만 보도)",
+   "source": "kh-cu-115",
+   "segment_by_source": "BGF리테일 발표: 외국인 카드 결제",
+   "period": "2026 상반기",
+   "published_regularly": "비정기",
+   "items": [
+    {
+     "rank": null,
+     "item": "i-banana-milk",
+     "note": "세 상권 모두 2위 안"
+    },
+    {
+     "rank": 3,
+     "item": "i-grabmeal-choco",
+     "note": "홍대 3위, 성수 4위"
+    },
+    {
+     "rank": null,
+     "name": "CORTIS 앨범(포토카드)",
+     "note": "성수 5위 안"
+    },
+    {
+     "rank": null,
+     "name": "트래블 카드",
+     "note": "명동만 5위 안"
+    }
+   ],
+   "certainty": "tendency",
+   "note": ""
+  },
+  {
+   "id": "r-ddp-store",
+   "title_ko": "DDP 디자인스토어 인기 상품(순위 미공개)",
+   "source": "kt-ddp-souvenir",
+   "segment_by_source": null,
+   "period": "2026-01~10",
+   "published_regularly": "비정기",
+   "items": [
+    {
+     "rank": null,
+     "item": "i-ddp-stickers"
+    },
+    {
+     "rank": null,
+     "item": "i-ddp-postcards"
+    },
+    {
+     "rank": null,
+     "item": "i-ddp-fish-magnet"
+    },
+    {
+     "rank": null,
+     "item": "i-ddp-cards"
+    }
+   ],
+   "certainty": "tendency",
+   "note": ""
+  },
+  {
+   "id": "r-souvenir-contest-2026",
+   "title_ko": "제29회 관광기념품 공모전 수상(25점 중 보도된 것)",
+   "source": "kh-souvenir-ddp",
+   "segment_by_source": null,
+   "period": "2026",
+   "published_regularly": "매년(문체부·한국관광공사)",
+   "items": [
+    {
+     "rank": "대통령상",
+     "name": "놋반 안성 방짜유기 — 바우덕이 부채 모티브 방짜유기 세트"
+    },
+    {
+     "rank": "금상",
+     "name": "죽호바람 — 단청 문양 부채"
+    },
+    {
+     "rank": "금상",
+     "name": "제주오름젓갈 — 멸치액젓 동결건조 조미료"
+    },
+    {
+     "rank": "은상",
+     "name": "소로소로 — 잡상 모양 도어벨"
+    },
+    {
+     "rank": "은상",
+     "name": "옥희방앗간 — 볶은 들기름 세트"
+    },
+    {
+     "rank": "은상",
+     "name": "감사모아 — 동자석 도어스토퍼"
+    }
+   ],
+   "certainty": "tendency",
+   "note": "판매처는 기사에 없음."
+  },
+  {
+   "id": "r-ricecake-cvs",
+   "title_ko": "편의점 떡 디저트 판매 실적",
+   "source": "kt-ricecake",
+   "segment_by_source": null,
+   "period": "2026-09~10",
+   "published_regularly": "비정기",
+   "items": [
+    {
+     "rank": null,
+     "item": "i-gs25-hanjeongseon",
+     "note": "누적 130만 개, GS25 퀵커머스 매출 1위"
+    },
+    {
+     "rank": null,
+     "item": "i-cu-choco-mochi",
+     "note": "출시 한 달 40만 개"
+    }
+   ],
+   "certainty": "tendency",
+   "note": ""
+  }
+ ],
+ "items": [
+  {
+   "id": "i-musinsa-std-cityleisure",
+   "name": "무신사 스탠다드 시티 레저 후디드 라이트 다운 재킷 (10만 원대)",
+   "brand": "b-musinsa-standard",
+   "category": "fashion/outer",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-musinsa"
+    ],
+    "online_global": [],
+    "basis": "kh-puffers: 무신사 자체 브랜드로 무신사에서 판매 1위"
+   },
+   "source": "kh-puffers",
+   "note": ""
+  },
+  {
+   "id": "i-nb-flying77",
+   "name": "뉴발란스 플라잉 77 슈퍼라이트 후디드 경량 구스 다운",
+   "brand": "b-newbalance",
+   "category": "fashion/outer",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-newbalance-kr"
+    ],
+    "online_global": [],
+    "basis": "kh-puffers: 10/9 공식 온라인몰 출시 하루 만에 첫 물량 품절"
+   },
+   "source": "kh-puffers",
+   "note": ""
+  },
+  {
+   "id": "i-tnf-ventuson",
+   "name": "노스페이스 벤투스 온 재킷",
+   "brand": "b-northface",
+   "category": "fashion/outer",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "판매처 기사에 없음"
+   },
+   "source": "kh-puffers",
+   "note": ""
+  },
+  {
+   "id": "i-mlb-curveairshell",
+   "name": "MLB 커브 에어 쉘 후디드 재킷(라벤더, LA 다저스)",
+   "brand": "b-mlb",
+   "category": "fashion/outer",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "판매처 기사에 없음"
+   },
+   "source": "kh-puffers",
+   "note": ""
+  },
+  {
+   "id": "i-brooks-eastlogue",
+   "name": "브룩스브라더스 × 이스트로그 협업(MA-1 플라이트 점퍼, 모디파이드 피시테일 코트, 윈드스톰 다운 파카, 심볼 볼캡)",
+   "brand": "b-brooks",
+   "category": "fashion/outer",
+   "where_to_buy": {
+    "offline": [
+     "롯데백화점 잠실점·동탄점",
+     "신세계백화점 대구점·타임스퀘어점",
+     "현대백화점 판교점",
+     "스타필드 안성·수원·하남"
+    ],
+    "online_kr": [
+     "p-brooks-own",
+     "p-musinsa",
+     "p-29cm"
+    ],
+    "online_global": [],
+    "basis": "cj-brooks: 11/16 기준 판매처"
+   },
+   "source": "cj-brooks",
+   "note": ""
+  },
+  {
+   "id": "i-goodal-sun",
+   "name": "구달 맑은 어성초 진정 수분 선크림",
+   "brand": "구달",
+   "category": "beauty/suncare",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-june-sale: 올영세일 인기상품"
+   },
+   "source": "cj-oy-june-sale",
+   "note": ""
+  },
+  {
+   "id": "i-biore-mist",
+   "name": "비오레 UV 아쿠아 리치 아쿠아 프로텍트 미스트",
+   "brand": "비오레",
+   "category": "beauty/suncare",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-june-sale"
+   },
+   "source": "cj-oy-june-sale",
+   "note": ""
+  },
+  {
+   "id": "i-sonatural-fixer",
+   "name": "쏘내추럴 올데이 타이트 메이크업 세팅 픽서",
+   "brand": "쏘내추럴",
+   "category": "beauty/makeup",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-june-sale"
+   },
+   "source": "cj-oy-june-sale",
+   "note": ""
+  },
+  {
+   "id": "i-corinco-noglue",
+   "name": "코링코 톡톡하라 노글루 속눈썹",
+   "brand": "코링코",
+   "category": "beauty/self",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-dec2025-sale: 2025 12월 올영세일 인기"
+   },
+   "source": "cj-oy-dec2025-sale",
+   "note": ""
+  },
+  {
+   "id": "i-fillimilli-noglue",
+   "name": "필리밀리 노글루 포인트 가닥 속눈썹",
+   "brand": "필리밀리",
+   "category": "beauty/self",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-dec2025-sale"
+   },
+   "source": "cj-oy-dec2025-sale",
+   "note": ""
+  },
+  {
+   "id": "i-vitalbeauty-retinol",
+   "name": "바이탈뷰티 슈퍼레티놀",
+   "brand": "바이탈뷰티",
+   "category": "beauty/innerbeauty",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-dec2025-sale: 이너뷰티 인기 상품 리스트"
+   },
+   "source": "cj-oy-dec2025-sale",
+   "note": ""
+  },
+  {
+   "id": "i-yeoesther-glutathione",
+   "name": "여에스더 리포좀 글루타치온 필름",
+   "brand": "여에스더",
+   "category": "beauty/innerbeauty",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-dec2025-sale"
+   },
+   "source": "cj-oy-dec2025-sale",
+   "note": ""
+  },
+  {
+   "id": "i-mediheal-teatree",
+   "name": "메디힐 티트리 에센셜 마스크",
+   "brand": "b-mediheal",
+   "category": "beauty/mask",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-awards-2024: 올리브영 어워즈 10년 연속 수상"
+   },
+   "source": "cj-oy-awards-2024",
+   "note": ""
+  },
+  {
+   "id": "i-mediheal-pad",
+   "name": "메디힐 마데카소사이드 흔적 패드",
+   "brand": "b-mediheal",
+   "category": "beauty/pad",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [
+     "p-oy-global"
+    ],
+    "basis": "cj-oy-awards-2024: 패드 부문 1위 + 글로벌몰 구매 데이터 기반 '글로벌 트렌드' 부문 수상(2024)"
+   },
+   "source": "cj-oy-awards-2024",
+   "note": ""
+  },
+  {
+   "id": "i-2an-items",
+   "name": "2aN 베터 미 아이 팔레트·듀얼 치크·멜팅 온 마이 립 글로스(무신사 단독)",
+   "brand": "b-2an",
+   "category": "beauty/makeup",
+   "where_to_buy": {
+    "offline": [
+     "무신사 뷰티 성수"
+    ],
+    "online_kr": [
+     "p-musinsa"
+    ],
+    "online_global": [],
+    "basis": "kh-musinsa-beauty: 무신사 단독 상품"
+   },
+   "source": "kh-musinsa-beauty",
+   "note": ""
+  },
+  {
+   "id": "i-ltpiver",
+   "name": "LT 피베르(프랑스 니치 향수, 무신사 뷰티 단독)",
+   "brand": "LT Piver",
+   "category": "beauty/fragrance",
+   "where_to_buy": {
+    "offline": [
+     "무신사 뷰티 성수"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kh-musinsa-beauty: Musinsa Beauty 단독"
+   },
+   "source": "kh-musinsa-beauty",
+   "note": ""
+  },
+  {
+   "id": "i-sonpark-artibalm",
+   "name": "손앤박 아티 스프레드 컬러 밤(3,000원)",
+   "brand": "손앤박",
+   "category": "beauty/makeup",
+   "where_to_buy": {
+    "offline": [
+     "p-daiso"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-daiso-young: 다이소 판매"
+   },
+   "source": "kt-daiso-young",
+   "note": ""
+  },
+  {
+   "id": "i-vt-pdrn-lip",
+   "name": "VT PDRN 광채 립 세럼(로지피치·글레이즈)",
+   "brand": "VT",
+   "category": "beauty/lip",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-winter: 다이소몰 신상 오픈 브랜드 코너"
+   },
+   "source": "daiso-winter",
+   "note": ""
+  },
+  {
+   "id": "i-vt-reedle-lipplumper",
+   "name": "VT 리들샷 에센스 립플럼퍼",
+   "brand": "VT",
+   "category": "beauty/lip",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-beauty-oct"
+   },
+   "source": "daiso-beauty-oct",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-fleece",
+   "name": "다이소 기본 플리스·플러피 플리스(조끼·반집업·후드티·후드집업), 플리스 후드 티",
+   "brand": "b-daiso",
+   "category": "fashion/fleece",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-winter-prep, daiso-winter"
+   },
+   "source": "daiso-winter-prep",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-leggings",
+   "name": "다이소 착시 기모 레깅스",
+   "brand": "b-daiso",
+   "category": "fashion/winter",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-winter"
+   },
+   "source": "daiso-winter",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-wintertogether",
+   "name": "다이소 '윈터투게더' 시리즈(뜨개 모자·양말 키링, 파자마 가디건 눈사람 등)",
+   "brand": "b-daiso",
+   "category": "christmas/goods",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-winter"
+   },
+   "source": "daiso-winter",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-advent-house",
+   "name": "다이소 집 모양 어드벤트 캘린더(서랍 24칸, DIY)",
+   "brand": "b-daiso",
+   "category": "christmas/advent",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-xmas-market: 다이소몰 기획전(11/16~20) 상품, 이후 판매 여부 미확인"
+   },
+   "source": "daiso-xmas-market",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-advent-puzzle",
+   "name": "다이소 조각 퍼즐 어드벤트 캘린더(1,008조각)",
+   "brand": "b-daiso",
+   "category": "christmas/advent",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-xmas-market"
+   },
+   "source": "daiso-xmas-market",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-xmas-decor",
+   "name": "다이소 낙하산 타는 산타 장식, 산타 가로등 목제 장식(LED·디데이 카드)",
+   "brand": "b-daiso",
+   "category": "christmas/decor",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-xmas-market"
+   },
+   "source": "daiso-xmas-market",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-train",
+   "name": "다이소 레일 기차 놀이 세트(2층 레일, 건전지)",
+   "brand": "b-daiso",
+   "category": "christmas/toy",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-xmas-market"
+   },
+   "source": "daiso-xmas-market",
+   "note": ""
+  },
+  {
+   "id": "i-daiso-dollclothes",
+   "name": "다이소 10~13cm 인형 옷(체크 망토·루돌프·산타)",
+   "brand": "b-daiso",
+   "category": "christmas/goods",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-daisomall"
+    ],
+    "online_global": [],
+    "basis": "daiso-xmas-market"
+   },
+   "source": "daiso-xmas-market",
+   "note": ""
+  },
+  {
+   "id": "i-ddp-stickers",
+   "name": "서울 스티커 모음",
+   "brand": "DDP 디자인스토어",
+   "category": "christmas/kgoods",
+   "where_to_buy": {
+    "offline": [
+     "DDP 디자인스토어(DDP 안 3곳)"
+    ],
+    "online_kr": [
+     "p-naver-smartstore",
+     "p-kakao-gift",
+     "p-ohouse"
+    ],
+    "online_global": [],
+    "basis": "kt-ddp-souvenir: 스토어 온라인 채널은 매장 단위로 기재(상품별 등록 여부 미확인)"
+   },
+   "source": "kt-ddp-souvenir",
+   "note": ""
+  },
+  {
+   "id": "i-ddp-postcards",
+   "name": "사대문·4대궁 엽서",
+   "brand": "DDP 디자인스토어",
+   "category": "christmas/kgoods",
+   "where_to_buy": {
+    "offline": [
+     "DDP 디자인스토어"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ddp-souvenir"
+   },
+   "source": "kt-ddp-souvenir",
+   "note": ""
+  },
+  {
+   "id": "i-ddp-fish-magnet",
+   "name": "복 물고기 자석",
+   "brand": "DDP 디자인스토어",
+   "category": "christmas/kgoods",
+   "where_to_buy": {
+    "offline": [
+     "DDP 디자인스토어"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ddp-souvenir"
+   },
+   "source": "kt-ddp-souvenir",
+   "note": ""
+  },
+  {
+   "id": "i-ddp-cards",
+   "name": "대한제국 트럼프 카드",
+   "brand": "DDP 디자인스토어",
+   "category": "christmas/kgoods",
+   "where_to_buy": {
+    "offline": [
+     "DDP 디자인스토어"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ddp-souvenir"
+   },
+   "source": "kt-ddp-souvenir",
+   "note": ""
+  },
+  {
+   "id": "i-ddp-beltcap",
+   "name": "서울 마이 소울 벨트 캡(옹고 협업, 첫 200개 품절)",
+   "brand": "DDP 디자인스토어",
+   "category": "christmas/kgoods",
+   "where_to_buy": {
+    "offline": [
+     "DDP 디자인스토어"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ddp-souvenir"
+   },
+   "source": "kt-ddp-souvenir",
+   "note": ""
+  },
+  {
+   "id": "i-banana-milk",
+   "name": "빙그레 바나나맛우유",
+   "brand": "빙그레",
+   "category": "food/drink",
+   "where_to_buy": {
+    "offline": [
+     "p-cu",
+     "p-gs25"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kh-cu-115"
+   },
+   "source": "kh-cu-115",
+   "note": ""
+  },
+  {
+   "id": "i-grabmeal-choco",
+   "name": "CU 그랩밀 초코 프로틴 쉐이크",
+   "brand": "CU",
+   "category": "food/drink",
+   "where_to_buy": {
+    "offline": [
+     "p-cu"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kh-cu-115"
+   },
+   "source": "kh-cu-115",
+   "note": ""
+  },
+  {
+   "id": "i-tmoney-travel",
+   "name": "티머니 트래블 카드",
+   "brand": "티머니",
+   "category": "travel",
+   "where_to_buy": {
+    "offline": [
+     "p-cu"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kh-cu-115: CU 인천공항 입국장 점포 1위"
+   },
+   "source": "kh-cu-115",
+   "note": ""
+  },
+  {
+   "id": "i-gs25-hanjeongseon",
+   "name": "GS25 × 로로멜로·한정선 과일 찹쌀떡(요거트·피스타치오, 3,900원)",
+   "brand": "GS25",
+   "category": "food/dessert",
+   "where_to_buy": {
+    "offline": [
+     "p-gs25"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ricecake"
+   },
+   "source": "kt-ricecake",
+   "note": ""
+  },
+  {
+   "id": "i-gs25-pizzaseolgi",
+   "name": "GS25 설빙 피자 설기(11/5 전국 출시)",
+   "brand": "GS25",
+   "category": "food/dessert",
+   "where_to_buy": {
+    "offline": [
+     "p-gs25"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ricecake"
+   },
+   "source": "kt-ricecake",
+   "note": ""
+  },
+  {
+   "id": "i-cu-choco-mochi",
+   "name": "CU 생초코 모찌(기본·말차)",
+   "brand": "CU",
+   "category": "food/dessert",
+   "where_to_buy": {
+    "offline": [
+     "p-cu"
+    ],
+    "online_kr": [],
+    "online_global": [],
+    "basis": "kt-ricecake"
+   },
+   "source": "kt-ricecake",
+   "note": ""
+  },
+  {
+   "id": "i-bibigo-gimbugak",
+   "name": "비비고 김부각 3종(찹쌀·매운맛·새우맛)",
+   "brand": "b-bibigo",
+   "category": "food/snack",
+   "where_to_buy": {
+    "offline": [
+     "롯데마트(제타플렉스 서울역점 등)",
+     "이마트",
+     "편의점",
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-coupang",
+     "p-cjthemarket"
+    ],
+    "online_global": [],
+    "basis": "cj-bibigo-gimbugak: '롯데마트, 이마트, 편의점, 올리브영, 쿠팡, CJ더마켓 등 전 채널'"
+   },
+   "source": "cj-bibigo-gimbugak",
+   "note": ""
+  },
+  {
+   "id": "i-bibigo-cangim",
+   "name": "비비고 캔김 2종(초사리 곱창김·임자도 곱창김)",
+   "brand": "b-bibigo",
+   "category": "food/snack",
+   "where_to_buy": {
+    "offline": [],
+    "online_kr": [
+     "p-cjthemarket",
+     "p-coupang",
+     "네이버 브랜드스토어"
+    ],
+    "online_global": [],
+    "basis": "cj-bibigo-gimbugak: 온라인 먼저, 대형마트·편의점 입점 예정"
+   },
+   "source": "cj-bibigo-gimbugak",
+   "note": ""
+  },
+  {
+   "id": "i-oy-hellokitty-keyring",
+   "name": "텐바이텐 지역 헬로키티 피규어 키링 세트",
+   "brand": "텐바이텐",
+   "category": "christmas/goods",
+   "where_to_buy": {
+    "offline": [
+     "p-oliveyoung"
+    ],
+    "online_kr": [
+     "p-oliveyoung"
+    ],
+    "online_global": [],
+    "basis": "cj-oy-sept-sale: 9월 올영세일 인기(현재 판매 여부 미확인)"
+   },
+   "source": "cj-oy-sept-sale",
+   "note": ""
+  }
+ ],
+ "brands": [
+  {
+   "id": "b-mediheal",
+   "name": "메디힐",
+   "category": "beauty/mask",
+   "known_as": [
+    {
+     "ko": "'티트리 에센셜 마스크'로 올리브영 어워즈 10년 연속 수상(2015~2024)으로 알려짐",
+     "source": "cj-oy-awards-2024",
+     "source_date": "2024-12-09",
+     "certainty": "certain"
+    },
+    {
+     "ko": "'마데카소사이드 흔적 패드'가 2024 어워즈 패드 부문 1위 + 글로벌 트렌드 부문 수상",
+     "source": "cj-oy-awards-2024",
+     "source_date": "2024-12-09",
+     "certainty": "certain"
+    }
+   ],
+   "ranked_in": [
+    "r-oy-awards-2024-hof"
+   ]
+  },
+  {
+   "id": "b-clio",
+   "name": "클리오",
+   "category": "beauty/makeup",
+   "known_as": [
+    {
+     "ko": "올리브영 어워즈 10년간 40개 부문 수상, 역대 최다 수상 브랜드",
+     "source": "cj-oy-awards-2024",
+     "source_date": "2024-12-09",
+     "certainty": "certain"
+    }
+   ],
+   "ranked_in": [
+    "r-oy-awards-2024-hof"
+   ]
+  },
+  {
+   "id": "b-miseenscene",
+   "name": "미장센",
+   "category": "beauty/hair",
+   "known_as": [],
+   "ranked_in": [
+    "r-oy-awards-2024-hof"
+   ]
+  },
+  {
+   "id": "b-bioderma",
+   "name": "바이오더마",
+   "category": "beauty/skincare",
+   "known_as": [],
+   "ranked_in": [
+    "r-oy-awards-2024-hof"
+   ]
+  },
+  {
+   "id": "b-isoi",
+   "name": "아이소이",
+   "category": "beauty/skincare",
+   "known_as": [],
+   "ranked_in": [
+    "r-oy-awards-2024-hof"
+   ]
+  },
+  {
+   "id": "b-2an",
+   "name": "2aN",
+   "category": "beauty/makeup",
+   "known_as": [
+    {
+     "ko": "무신사 뷰티 성수 개장 5일 최고 매출 브랜드",
+     "source": "kh-musinsa-beauty",
+     "source_date": "2026-11-17",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": [
+    "r-musinsa-beauty-seongsu"
+   ]
+  },
+  {
+   "id": "b-musinsa-standard",
+   "name": "무신사 스탠다드",
+   "category": "fashion/basics",
+   "known_as": [
+    {
+     "ko": "10만 원대 경량 다운으로 가격 경쟁, 시티 레저 후디드 라이트 다운 클라우디 블루 판매 1위·전 사이즈 품절로 보도",
+     "source": "kh-puffers",
+     "source_date": "2026-10-20",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": [
+    "r-musinsa-lightdown"
+   ]
+  },
+  {
+   "id": "b-newbalance",
+   "name": "뉴발란스",
+   "category": "fashion/outer",
+   "known_as": [
+    {
+     "ko": "플라잉 77 경량 구스 다운이 10/9 공식몰 출시 하루 만에 첫 물량 품절",
+     "source": "kh-puffers",
+     "source_date": "2026-10-20",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": []
+  },
+  {
+   "id": "b-northface",
+   "name": "노스페이스",
+   "category": "fashion/outer",
+   "known_as": [
+    {
+     "ko": "벤투스 온 재킷: 2025년 1인 1개 제한에도 약 40분 만에 첫 물량 품절, 2026년 리얼블랙·블랙 전 사이즈 품절",
+     "source": "kh-puffers",
+     "source_date": "2026-10-20",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": []
+  },
+  {
+   "id": "b-mlb",
+   "name": "MLB",
+   "category": "fashion/outer",
+   "known_as": [
+    {
+     "ko": "라벤더 커브 에어 쉘(다저스) 첫 물량 품절 후 일부 사이즈 재입고",
+     "source": "kh-puffers",
+     "source_date": "2026-10-20",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": []
+  },
+  {
+   "id": "b-brooks",
+   "name": "브룩스브라더스",
+   "category": "fashion/american-classic",
+   "known_as": [
+    {
+     "ko": "2026년 1~10월 무신사·29CM 등 5개 플랫폼 합산 매출 +51%, 아메리칸 클래식 + 스포츠·빈티지 협업",
+     "source": "cj-brooks",
+     "source_date": "2026-11-16",
+     "certainty": "certain"
+    }
+   ],
+   "ranked_in": []
+  },
+  {
+   "id": "b-musinsa",
+   "name": "무신사",
+   "category": "fashion/platform",
+   "known_as": [
+    {
+     "ko": "2026년 6월 패션 카드 결제 추정 1위(30.9%), 10~30대 고객 비중 높음",
+     "source": "kh-musinsa-uniqlo",
+     "source_date": "2026-07-06",
+     "certainty": "tendency"
+    },
+    {
+     "ko": "8월 경량 패딩 카테고리 매출 +718%",
+     "source": "kh-puffers",
+     "source_date": "2026-10-20",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": [
+    "r-fashion-cardspend-2026-06"
+   ]
+  },
+  {
+   "id": "b-uniqlo",
+   "name": "유니클로",
+   "category": "fashion/basics",
+   "known_as": [
+    {
+     "ko": "2026년 5월 패션 카드 결제 추정 1위, 6월 2위(20.2%). 40~50대 고객 비중 45.3%. 국내 133개 매장(6월)",
+     "source": "kh-musinsa-uniqlo",
+     "source_date": "2026-07-06",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": [
+    "r-fashion-cardspend-2026-06"
+   ]
+  },
+  {
+   "id": "b-daiso",
+   "name": "다이소",
+   "category": "living/beauty",
+   "known_as": [
+    {
+     "ko": "500~5,000원 균일가 정책, 뷰티 브랜드 약 170개·상품 1,900개 이상, 명동역점 1위 카테고리 뷰티",
+     "source": "kh-daiso-kbeauty",
+     "source_date": "2026-09-17",
+     "certainty": "tendency"
+    },
+    {
+     "ko": "3,000원 듀프 상품(손앤박 아티 스프레드 컬러 밤) 사례로 보도",
+     "source": "kt-daiso-young",
+     "source_date": "2026-04-20",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": []
+  },
+  {
+   "id": "b-bibigo",
+   "name": "비비고(CJ제일제당)",
+   "category": "food/snack",
+   "known_as": [
+    {
+     "ko": "김부각 출시 4개월 누적 약 50만 봉, 글로벌 특화점포 매출 비중 70% 육박",
+     "source": "cj-bibigo-gimbugak",
+     "source_date": "2026-10-19",
+     "certainty": "certain"
+    }
+   ],
+   "ranked_in": []
+  },
+  {
+   "id": "b-binggrae",
+   "name": "빙그레",
+   "category": "food/drink",
+   "known_as": [
+    {
+     "ko": "바나나맛우유: CU 인천공항 출국장 점포 1위, 입국장 2위",
+     "source": "kh-cu-115",
+     "source_date": "2026-08-24",
+     "certainty": "tendency"
+    }
+   ],
+   "ranked_in": [
+    "r-cu-incheon-departures",
+    "r-cu-incheon-arrivals"
+   ]
+  }
+ ],
+ "benefits": [
+  {
+   "id": "bn-cjone-global-pack",
+   "title_ko": "CJ ONE 글로벌 스페셜 쿠폰팩(10개 브랜드)",
+   "who_can_use": "방한 외국인 CJ ONE 글로벌 회원(이메일 인증 가입, 한국 휴대폰 번호·신분증 불필요)",
+   "conditions": "시크릿 코드를 CJ ONE 앱 '마이 페이지'에 입력 → 쿠폰 자동 등록, 계정당 1회. 코드는 클룩 한국 여행 상품 구매자·KT Inbound Rental(SIM·eSIM·WiFi) 구매자에게 이메일·문자·공항센터 바우처로 개별 지급. 구성: CGV 3,000원, 뚜레쥬르 10%, 포토이즘, CU·이마트24·메가MGC커피 할인권, 리안헤어, CJ ONE 1,000P, 인천공항 고메브릿지, 신세계면세점 쿠폰",
+   "start": "2026-11-23",
+   "end": "2026-12-31",
+   "status": "active",
+   "code": null,
+   "code_note": "공개 코드 없음(개별 지급 시크릿 코드)",
+   "deal_id": null,
+   "source": "cj-one-couponpack",
+   "certainty": "certain"
+  },
+  {
+   "id": "bn-musinsa-offline-keyword",
+   "title_ko": "무신사 오프라인 매장 키워드 쿠폰 15%",
+   "who_can_use": "무신사 앱 회원(오프라인 매장, MD's Pick 대상 상품)",
+   "conditions": "deals.json 기재 내용. 무신사 앱 쿠폰함에 키워드 입력",
+   "start": "2026-11-20",
+   "end": "2026-12-02",
+   "status": "active",
+   "code": [
+    "퍼재킷다퍼줄게",
+    "어그도무신사랑해"
+   ],
+   "code_note": "출처 musinsa.com/content/1566699932019111639는 2026-11-24 상황판 확인분. 오늘(11/26) 봇 차단(403)으로 재확인 못 함 → 표시 전 재확인 필요",
+   "deal_id": "musinsa-offline-codes",
+   "source": "deals.json:musinsa-offline-codes",
+   "certainty": "certain(11/24 확인)"
+  },
+  {
+   "id": "bn-daiso-solpay",
+   "title_ko": "다이소몰 신한 SOL페이 3만 원 이상 결제 시 마이신한포인트 1,000P",
+   "who_can_use": "신한카드(본인 명의 개인 신용·체크) 소지자",
+   "conditions": "SOL페이 또는 슈퍼SOL 등록 카드로 다이소몰 3만 원 이상 결제, 1인 1회",
+   "start": "2026-11-02",
+   "end": "2026-11-30",
+   "status": "active",
+   "code": null,
+   "code_note": null,
+   "deal_id": null,
+   "source": "daiso-solpay",
+   "certainty": "certain"
+  },
+  {
+   "id": "bn-oy-sale-coupons-pattern",
+   "title_ko": "올영세일 쿠폰 방식(지난 회차 기준)",
+   "who_can_use": "올리브영 온라인몰 회원; 글로벌관광상권 매장 특가는 해당 결제수단 이용자",
+   "conditions": "2026년 6월: 온라인몰에서 매일 00·12·18시 선착순 쿠폰(4만 원 이상 최대 1만 원, 온·오프라인 사용) + 올리브베러 10%(최대 4천 원). 2025년 12월: 특정일 4종 쿠폰팩, 매일 선착순 쿠폰, 세일 전 사전 쿠폰, 글로벌 어워즈 특가(알리페이·위챗페이·유니온페이·와우패스 추가 할인)",
+   "start": null,
+   "end": null,
+   "status": "pattern",
+   "code": null,
+   "code_note": "12월 회차 쿠폰 내용은 공식 발표 전. 이 줄은 지난 회차 사실이고 올해 반복 여부는 추론",
+   "deal_id": null,
+   "source": "cj-oy-june-sale",
+   "certainty": "certain(지난 회차) / inference(올해)"
+  },
+  {
+   "id": "bn-korea-grand-festival-2026",
+   "title_ko": "코리아 그랜드 페스티벌: 면세점 주류·화장품 최대 25%, 백화점·올리브영 최대 15%",
+   "who_can_use": "방한 외국인",
+   "conditions": "25개 면세점(롯데·신라·신세계 등), 공항 웰컴위크(포켓와이파이·eSIM 최대 25%, 공항철도 2,000원)",
+   "start": "2026-10-30",
+   "end": "2026-11-15",
+   "status": "expired",
+   "code": null,
+   "code_note": null,
+   "deal_id": null,
+   "source": "kh-grand-festival",
+   "certainty": "tendency"
+  },
+  {
+   "id": "bn-cjone-wonderweek-nov",
+   "title_ko": "CJ ONE 11월 원더위크: CJ더마켓 20%(최대 1.4만 원, 7만 원 이상), 이마트24 밥류 간편식 50%(1회 최대 5천 원)",
+   "who_can_use": "CJ ONE 회원",
+   "conditions": "더마켓 쿠폰 11/6~10, 이마트24 ~11/8. 원더 시리즈는 매달 '1'이 들어간 날짜에 진행",
+   "start": "2026-11-03",
+   "end": "2026-11-10",
+   "status": "expired",
+   "code": null,
+   "code_note": null,
+   "deal_id": null,
+   "source": "cj-one-wonderweek-nov",
+   "certainty": "certain"
+  },
+  {
+   "id": "bn-daiso-xmas-solpay",
+   "title_ko": "다이소몰 크리스마스 마켓 기간 SOL페이 5천 원 이상 500P",
+   "who_can_use": "신한카드 소지자",
+   "conditions": "선착순, 예산 소진 시 종료",
+   "start": "2026-11-16",
+   "end": "2026-11-20",
+   "status": "expired",
+   "code": null,
+   "code_note": null,
+   "deal_id": null,
+   "source": "daiso-xmas-market",
+   "certainty": "certain"
+  },
+  {
+   "id": "bn-onstyle-winterweek",
+   "title_ko": "CJ온스타일 겨울 패션위크: 브랜드 릴레이 특가, 카드 7%, 매일 10시 99특가",
+   "who_can_use": "CJ온스타일 이용자",
+   "conditions": "",
+   "start": "2026-11-09",
+   "end": "2026-11-19",
+   "status": "expired",
+   "code": null,
+   "code_note": null,
+   "deal_id": null,
+   "source": "cj-onstyle-winter",
+   "certainty": "certain"
+  },
+  {
+   "id": "bn-ddp-xmas",
+   "title_ko": "DDP 디자인스토어 크리스마스 선물 기획전(서울 테마 굿즈, 서울역사박물관 협업 신상 약 30종, 슈톨렌)",
+   "who_can_use": "누구나",
+   "conditions": "할인율 미공개",
+   "start": "2026-11-16",
+   "end": "2026-12-25",
+   "status": "active",
+   "code": null,
+   "code_note": null,
+   "deal_id": null,
+   "source": "kt-ddp-souvenir",
+   "certainty": "tendency"
+  }
+ ],
+ "deal_context": [
+  {
+   "deal_id": "musinsa-bf",
+   "what_people_buy": [
+    {
+     "ko": "경량 패딩: 8월 카테고리 매출 +718%",
+     "fact": "f-lightpuffer-718"
+    },
+    {
+     "ko": "아메리칸 클래식(브룩스브라더스 무신사 등 +51%)",
+     "fact": "f-amclassic-brooks"
+    }
+   ],
+   "brands_known": [
+    "b-musinsa-standard",
+    "b-brooks",
+    "b-northface",
+    "b-newbalance"
+   ],
+   "gap": "블프 기간 판매 순위는 무신사 사이트(봇 차단)에서만 확인 가능"
+  },
+  {
+   "deal_id": "musinsa-offline-codes",
+   "what_people_buy": [
+    {
+     "ko": "키워드 자체가 '퍼 재킷', '어그' → 퍼·어그 시즌 상품 대상",
+     "fact": "f-fur-back"
+    }
+   ],
+   "brands_known": [],
+   "gap": "대상 MD's Pick 목록 미확인"
+  },
+  {
+   "deal_id": "musinsa-archive",
+   "what_people_buy": [
+    {
+     "ko": "무신사 경량 패딩 수요",
+     "fact": "f-lightpuffer-718"
+    }
+   ],
+   "brands_known": [
+    "b-musinsa-standard"
+   ],
+   "gap": null
+  },
+  {
+   "deal_id": "uniqlo-bf",
+   "what_people_buy": [],
+   "brands_known": [
+    "b-uniqlo"
+   ],
+   "gap": "이번 블프 판매 품목 자료 오늘 못 찾음(uniqlo.com 프록시 차단). 고객층(40~50대 45.3%)만 확인"
+  },
+  {
+   "deal_id": "spao-bf",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "자료 없음(spao.com 프록시 차단)"
+  },
+  {
+   "deal_id": "topten-bf",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "자료 없음"
+  },
+  {
+   "deal_id": "dept-winter-2026",
+   "what_people_buy": [
+    {
+     "ko": "올겨울 코트·퍼·경량 패딩 트렌드",
+     "fact": "f-highneck"
+    }
+   ],
+   "brands_known": [],
+   "gap": "백화점 세일 판매 실적 기사(zdnet 등)는 프록시 차단으로 오늘 못 엶"
+  },
+  {
+   "deal_id": "dept-shinsegae",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "동일"
+  },
+  {
+   "deal_id": "dept-lotte",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "동일"
+  },
+  {
+   "deal_id": "dept-hyundai",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "동일"
+  },
+  {
+   "deal_id": "oy-sale-2026-12",
+   "what_people_buy": [
+    {
+     "ko": "작년 12월 회차: 노글루 속눈썹·속눈썹펌·버블팩·먹는 뮤신·글루타치온",
+     "fact": "f-selfbeauty-dec2025"
+    },
+    {
+     "ko": "작년 12월 회차는 어워즈 수상 상품 특가와 같이 진행",
+     "fact": "f-oy-sale-schedule"
+    }
+   ],
+   "brands_known": [
+    "b-mediheal",
+    "b-clio"
+   ],
+   "gap": "올해 12월 회차 날짜·쿠폰 공식 발표 전(deals.json 'expected')"
+  },
+  {
+   "deal_id": "oy-day-2026-12",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "올영데이 공식 자료 오늘 못 엶"
+  },
+  {
+   "deal_id": "zigzag-bf",
+   "what_people_buy": [
+    {
+     "ko": "지그재그 7~9월 검색 '퍼플' +740%, '레몬' 8배, '민트' 5배",
+     "fact": "f-colorcore-zigzag"
+    }
+   ],
+   "brands_known": [],
+   "gap": null
+  },
+  {
+   "deal_id": "ably-bf",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "자료 없음"
+  },
+  {
+   "deal_id": "wconcept-wweek",
+   "what_people_buy": [
+    {
+     "ko": "W컨셉 민트 +130%, 레몬 +92%",
+     "fact": "f-colorcore-wconcept"
+    }
+   ],
+   "brands_known": [],
+   "gap": "행사 11/25 종료"
+  },
+  {
+   "deal_id": "coupang-digital-bf",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "쿠팡 가전 블프 판매 순위 자료 오늘 못 엶(쿠팡·zdnet 프록시 차단)"
+  },
+  {
+   "deal_id": "coupang-direct-bf",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "자료 없음"
+  },
+  {
+   "deal_id": "samsung-week",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "자료 없음"
+  },
+  {
+   "deal_id": "shilla-dfs-bf",
+   "what_people_buy": [
+    {
+     "ko": "10/30~11/15 코리아 그랜드 페스티벌 때 면세점 할인 품목은 주류·화장품",
+     "fact": null,
+     "source": "kh-grand-festival"
+    }
+   ],
+   "brands_known": [],
+   "gap": "신라면세점 블프 판매 순위 자료 없음"
+  },
+  {
+   "deal_id": "amazon-bf",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "자료 없음"
+  },
+  {
+   "deal_id": "seoul-winter-market-2026",
+   "what_people_buy": [
+    {
+     "ko": "백화점·도심 크리스마스 마켓 동시 진행",
+     "fact": "f-xmas-dept"
+    }
+   ],
+   "brands_known": [],
+   "gap": null
+  },
+  {
+   "deal_id": "ttukseom-xmas",
+   "what_people_buy": [],
+   "brands_known": [],
+   "gap": "공식 발표 전"
+  }
+ ],
+ "platforms": [
+  {
+   "id": "p-oliveyoung",
+   "name": "올리브영(매장·온라인몰)",
+   "type": "offline+online_kr",
+   "who_can_use": "누구나(온라인몰 배송은 국내)",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "oliveyoung.co.kr 봇 차단으로 제휴 페이지 미확인"
+   }
+  },
+  {
+   "id": "p-oy-global",
+   "name": "올리브영 글로벌몰",
+   "type": "online_global",
+   "who_can_use": "해외 배송 150여 개국(cj-oy-awards-2024)",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "global.oliveyoung.com 봇 차단(Access restricted)"
+   }
+  },
+  {
+   "id": "p-musinsa",
+   "name": "무신사(앱·온라인)",
+   "type": "online_kr+offline",
+   "who_can_use": "누구나",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "musinsa.com Cloudflare 차단"
+   }
+  },
+  {
+   "id": "p-musinsa-global",
+   "name": "무신사 글로벌",
+   "type": "online_global",
+   "who_can_use": "해외",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "global.musinsa.com Cloudflare 차단"
+   }
+  },
+  {
+   "id": "p-29cm",
+   "name": "29CM",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "프록시 차단"
+   }
+  },
+  {
+   "id": "p-daiso",
+   "name": "다이소 매장",
+   "type": "offline",
+   "who_can_use": "누구나",
+   "affiliate": {
+    "status": "none-known",
+    "url": null,
+    "note": "오프라인"
+   }
+  },
+  {
+   "id": "p-daisomall",
+   "name": "다이소몰",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "robots 허용(/ds/ 등). 제휴 페이지 미확인"
+   }
+  },
+  {
+   "id": "p-cu",
+   "name": "CU",
+   "type": "offline",
+   "who_can_use": "누구나",
+   "affiliate": {
+    "status": "n/a",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-gs25",
+   "name": "GS25",
+   "type": "offline",
+   "who_can_use": "누구나",
+   "affiliate": {
+    "status": "n/a",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-coupang",
+   "name": "쿠팡",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "쿠팡 파트너스 존재는 일반적으로 알려져 있으나 partners.coupang.com 프록시 차단으로 오늘 미확인"
+   }
+  },
+  {
+   "id": "p-cjthemarket",
+   "name": "CJ더마켓",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-newbalance-kr",
+   "name": "뉴발란스 공식 온라인몰",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-brooks-own",
+   "name": "브룩스브라더스 자사몰",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-naver-smartstore",
+   "name": "네이버 스마트스토어(DDP 디자인스토어)",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-kakao-gift",
+   "name": "카카오톡 선물하기(DDP 디자인스토어)",
+   "type": "online_kr",
+   "who_can_use": "국내 카카오톡 사용자",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-ohouse",
+   "name": "오늘의집(DDP 디자인스토어)",
+   "type": "online_kr",
+   "who_can_use": "국내",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": ""
+   }
+  },
+  {
+   "id": "p-klook",
+   "name": "클룩",
+   "type": "online_global",
+   "who_can_use": "누구나",
+   "affiliate": {
+    "status": "verified-exists",
+    "url": "https://affiliate.klook.com/",
+    "note": "페이지 제목 'Join Klook’s Affiliate Program' 오늘 확인. CJ ONE 글로벌 쿠폰팩 시크릿 코드 지급처(한국 여행 상품 구매자)"
+   }
+  },
+  {
+   "id": "p-amazon",
+   "name": "Amazon",
+   "type": "online_global",
+   "who_can_use": "해외",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "affiliate-program.amazon.com 프록시 차단. 오늘 연 페이지 중 아마존이 위 품목을 판다고 확인한 것 없음"
+   }
+  },
+  {
+   "id": "p-yesstyle",
+   "name": "YesStyle",
+   "type": "online_global",
+   "who_can_use": "해외",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "봇 차단(403 challenge). 위 품목 판매 미확인"
+   }
+  },
+  {
+   "id": "p-stylevana",
+   "name": "Stylevana",
+   "type": "online_global",
+   "who_can_use": "해외",
+   "affiliate": {
+    "status": "unverified",
+    "url": null,
+    "note": "robots.txt는 ClaudeBot 등 차단, 본문 403 captcha. 위 품목 판매 미확인"
+   }
+  }
+ ],
+ "platform_coverage": [
+  {
+   "platform_id": "p-daisomall",
+   "items_sold_count": 10,
+   "item_ids": [
+    "i-daiso-advent-house",
+    "i-daiso-advent-puzzle",
+    "i-daiso-dollclothes",
+    "i-daiso-fleece",
+    "i-daiso-leggings",
+    "i-daiso-train",
+    "i-daiso-wintertogether",
+    "i-daiso-xmas-decor",
+    "i-vt-pdrn-lip",
+    "i-vt-reedle-lipplumper"
+   ],
+   "keyword_ids": [
+    "kw-advent-calendar",
+    "kw-dupe",
+    "kw-fleece",
+    "kw-k-makeup",
+    "kw-xmas-decor"
+   ]
+  },
+  {
+   "platform_id": "p-oliveyoung",
+   "items_sold_count": 5,
+   "item_ids": [
+    "i-corinco-noglue",
+    "i-fillimilli-noglue",
+    "i-sonatural-fixer",
+    "i-vitalbeauty-retinol",
+    "i-yeoesther-glutathione"
+   ],
+   "keyword_ids": [
+    "kw-inner-beauty",
+    "kw-k-makeup",
+    "kw-self-beauty"
+   ]
+  },
+  {
+   "platform_id": "p-musinsa",
+   "items_sold_count": 3,
+   "item_ids": [
+    "i-2an-items",
+    "i-brooks-eastlogue",
+    "i-musinsa-std-cityleisure"
+   ],
+   "keyword_ids": [
+    "kw-american-classic",
+    "kw-k-makeup",
+    "kw-light-puffer"
+   ]
+  },
+  {
+   "platform_id": "p-gs25",
+   "items_sold_count": 2,
+   "item_ids": [
+    "i-gs25-hanjeongseon",
+    "i-gs25-pizzaseolgi"
+   ],
+   "keyword_ids": [
+    "kw-tteok-dessert"
+   ]
+  },
+  {
+   "platform_id": "p-newbalance-kr",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-nb-flying77"
+   ],
+   "keyword_ids": [
+    "kw-light-puffer"
+   ]
+  },
+  {
+   "platform_id": "p-brooks-own",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-brooks-eastlogue"
+   ],
+   "keyword_ids": [
+    "kw-american-classic"
+   ]
+  },
+  {
+   "platform_id": "p-29cm",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-brooks-eastlogue"
+   ],
+   "keyword_ids": [
+    "kw-american-classic"
+   ]
+  },
+  {
+   "platform_id": "p-daiso",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-sonpark-artibalm"
+   ],
+   "keyword_ids": [
+    "kw-dupe",
+    "kw-k-makeup"
+   ]
+  },
+  {
+   "platform_id": "p-cu",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-cu-choco-mochi"
+   ],
+   "keyword_ids": [
+    "kw-tteok-dessert"
+   ]
+  },
+  {
+   "platform_id": "p-naver-smartstore",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-ddp-stickers"
+   ],
+   "keyword_ids": [
+    "kw-kgoods-gift"
+   ]
+  },
+  {
+   "platform_id": "p-kakao-gift",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-ddp-stickers"
+   ],
+   "keyword_ids": [
+    "kw-kgoods-gift"
+   ]
+  },
+  {
+   "platform_id": "p-ohouse",
+   "items_sold_count": 1,
+   "item_ids": [
+    "i-ddp-stickers"
+   ],
+   "keyword_ids": [
+    "kw-kgoods-gift"
+   ]
+  }
+ ],
+ "gaps": [
+  "올리브영 어워즈 2025 부문별 수상 상품: oliveyoung.co.kr 봇 차단 → 원두 휴대폰 화면 또는 공식 페이지 수동 확인 필요",
+  "무신사·올리브영 글로벌·YesStyle·Stylevana 실시간 랭킹: 봇 차단(Cloudflare 등) → 자동 수집 불가",
+  "백화점 세일·쿠팡 가전 블프·유니클로/스파오 블프에서 실제로 많이 팔린 품목: 해당 보도 사이트가 이 환경 프록시에서 차단 → 미확인",
+  "라운드랩 자작나무 수분 선크림 '2025 어워즈 선케어 1위' 및 소비자원 지적 보도: 검색 결과에만 보였고 원문(insight.co.kr, 소비자원) 열지 못해 데이터에 넣지 않음",
+  "무신사 키워드 쿠폰 코드: 11/24 확인분, 오늘 재확인 못 함",
+  "상품별 해외 판매처(Amazon·YesStyle·Stylevana): 오늘 연 페이지로 확인된 것 없음 → 비움"
+ ]
+}
