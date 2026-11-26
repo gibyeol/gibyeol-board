@@ -5,6 +5,7 @@ content/<lang>/<slug>.md   page source (front matter + markdown subset)
 data/site.json             languages, navigation, UI strings
 data/affiliates.json       affiliate links; empty url = not shown
 data/deals.json            deals board entries
+data/trending.json         'Trending now' slot (home + /shopping/): which trend page, headline fact, source
 static/                    copied as-is
 """
 import html, json, re, shutil
@@ -16,6 +17,7 @@ DIST = ROOT / "dist"
 SITE = json.loads((ROOT / "data/site.json").read_text(encoding="utf-8"))
 AFF = json.loads((ROOT / "data/affiliates.json").read_text(encoding="utf-8"))
 DEALS = json.loads((ROOT / "data/deals.json").read_text(encoding="utf-8"))
+TREND = json.loads((ROOT / "data/trending.json").read_text(encoding="utf-8"))
 LINKS = {k: v for k, v in json.loads((ROOT / "data/links.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
 BASE = SITE["base_url"].rstrip("/")
 CURRENT = ' aria-current="true"'
@@ -50,6 +52,8 @@ def shortcode(line, lang):
         return guides_index(lang, only=key)  # {{guides:olive-young}} = only the group holding that page
     if kind == "codes":
         return codes_table(lang)
+    if kind == "trending":
+        return trending(lang)
     if kind == "fig":
         # {{fig:name|caption}} → static/fig/<lang>/<name>.svg (language text) or static/fig/<name>.svg (no text)
         for rel in [f"fig/{lang}/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")] + [f"fig/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")]:
@@ -270,7 +274,7 @@ GUIDE_GROUPS = [
      {"en": "Arriving", "ko": "도착했을 때", "ja": "到着したら", "zh-tw": "抵達時"}),
     (["getting-around", "seoul-subway", "seoul-bus", "ktx-busan", "jeju"],
      {"en": "Getting around", "ko": "이동하기", "ja": "移動する", "zh-tw": "交通移動"}),
-    (["deals", "olive-young", "kbeauty-how-to-choose", "daiso", "shopping-streets", "convenience-store", "tax-refund", "duty-free", "skin-clinic", "winter-light-puffer"],
+    (["deals", "olive-young", "kbeauty-how-to-choose", "daiso", "shopping-streets", "convenience-store", "tax-refund", "duty-free", "skin-clinic"],
      {"en": "Shopping and deals", "ko": "쇼핑과 할인", "ja": "買い物とセール", "zh-tw": "購物與特賣"}),
     (["seoul-areas", "palaces", "food", "winter", "concert-trip", "everyday"],
      {"en": "Travelling in Korea", "ko": "한국 안에서 여행하기", "ja": "韓国を旅する", "zh-tw": "在韓國旅行"}),
@@ -407,6 +411,21 @@ def countdown(lang, n=5):
             f'<table><thead><tr><th>{hu["left"]}</th><th>{hu["sale"]}</th></tr></thead><tbody>{rows}</tbody></table></aside>')
 
 
+def trending(lang):
+    """'Trending now' card: one headline fact from the current trend page (data/trending.json), linked to that page."""
+    slug, t = TREND.get("page"), TREND.get("text", {}).get(lang)
+    if not slug or not t or (lang, slug) not in PAGES:
+        return ""
+    title = PAGES[(lang, slug)][0].get("title", slug)
+    src = f'{DEAL_UI[lang]["source"]}: {html.escape(t["source"])}'
+    if TREND.get("source_url"):
+        src = f'<a href="{html.escape(TREND["source_url"])}" rel="noopener" target="_blank">{src}</a>'
+    return (f'<section class="trend-now" aria-label="{html.escape(t["label"])}"><p class="tn-k">{html.escape(t["label"])}</p>'
+            f'<a class="tn-go" href="{url_for(lang, slug)}"><span class="tn-num">{html.escape(t["num"])}</span>'
+            f'<span class="tn-fact">{html.escape(t["fact"])}</span><strong class="tn-title">{inline(title)}&nbsp;→</strong></a>'
+            f'<p class="tn-src">{src}</p></section>')
+
+
 def codes_table(lang):
     hu, du = HOME_UI[lang], DEAL_UI[lang]
     rows = ""
@@ -485,7 +504,7 @@ def page(lang, meta, body_html, path, alternates):
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
     # Shopping pages sit under the Shopping menu, not under "Guides › Korea travel guides".
     slug = path.strip("/").split("/")[-1]
-    shop_slugs = set(next(g for g, _ in GUIDE_GROUPS if "daiso" in g)) | {"winter-light-puffer"}
+    shop_slugs = set(next(g for g, _ in GUIDE_GROUPS if "daiso" in g)) | {"winter-light-puffer", TREND.get("page")}
     if not meta.get("section"):
         crumb = ""
     elif slug in shop_slugs:
@@ -576,6 +595,15 @@ def build():
     missing = sorted(f"content/{l}/{s}.md" for l in SITE["languages"] for s in slugs if (l, s) not in pages)
     if missing:
         raise SystemExit("Missing translations (every shared page must exist in every language):\n  " + "\n  ".join(missing))
+    # The trending slot quotes its trend page word for word: fail the build if a fact is not on that page.
+    if TREND.get("page"):
+        for lang, t in TREND["text"].items():
+            if (lang, TREND["page"]) not in pages:
+                raise SystemExit(f"data/trending.json: content/{lang}/{TREND['page']}.md does not exist")
+            body = pages[(lang, TREND["page"])][1]
+            gone = [k for k in ("num", "fact", "source") if t[k] not in body]
+            if gone:
+                raise SystemExit(f"data/trending.json [{lang}] {gone}: not found word for word in content/{lang}/{TREND['page']}.md")
     for lang in SITE["languages"]:
         items = live_items(lang)
         COUNTS[lang] = {"deals": len(items), "codes": sum(len(d.get("code", [])) for d in items),

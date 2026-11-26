@@ -1,0 +1,12 @@
+{
+  "_note": "'Trending now' slot on the home page and /shopping/. To show the next trend page, change `page` and the text below; nothing else. Empty `page` = slot hidden. Each fact must be copied exactly from that page (build.py checks it). Owner decision [7eb4ec94#2256].",
+  "page": "winter-light-puffer",
+  "source_url": "https://www.koreaherald.com/article/10908829",
+  "source_date": "2026-10-20",
+  "text": {
+    "ko": {"label": "지금 뜨는 것", "num": "+718%", "fact": "무신사 8월 경량 패딩 매출(전년 대비)", "source": "코리아헤럴드 10/20"},
+    "en": {"label": "Trending now", "num": "+718%", "fact": "Musinsa lightweight puffer sales in August (vs a year before)", "source": "Korea Herald Oct 20"},
+    "ja": {"label": "いま話題", "num": "+718%", "fact": "ムシンサの8月の軽量ダウン売上(前年比)", "source": "コリアヘラルド 10/20"},
+    "zh-tw": {"label": "正夯", "num": "+718%", "fact": "MUSINSA 8 月輕羽絨銷售額(和去年比)", "source": "韓國先驅報 10/20"}
+  }
+}

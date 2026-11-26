@@ -2,7 +2,7 @@
 title: Nadri: 헤매지 않고 짜는 한국 여행
 description: 한국 여행에 필요한 입국 서류, 앱, 돈, 쇼핑, 세일 일정을 공식 출처로 확인하고 최신 상태로 정리했어요.
 home: yes
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 <section class="front">
 <article class="lead">
@@ -13,7 +13,13 @@ updated: 2026-11-25
 <p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">출처: 지디넷코리아, 2026-11-10</a> · <a href="/ko/deals/">세일 전체 보기</a></p>
 </article>
 
+<div class="front-side">
+
+{{trending}}
+
 {{board:5}}
+
+</div>
 
 </section>
 
