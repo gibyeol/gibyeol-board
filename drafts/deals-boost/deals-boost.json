@@ -1,0 +1,238 @@
+{
+ "status": "draft",
+ "made": "2026-11-26",
+ "board_checked": "2026-11-24",
+ "note": "data/deals.json·상황판은 건드리지 않음. 원두 검토용 초안.",
+ "fields": {
+  "buys": "주로 사는 것 — 출처가 말한 것만",
+  "brands": "출처가 쓴 분류 그대로 + 브랜드 + 출처 있는 이유 한 줄",
+  "certainty": "확실=회사·기관 공식 발표 또는 원두 휴대폰 화면 / 경향=언론 보도 수치",
+  "unverified_leads": "검색 결과 요약에만 보이고 원문을 열지 못한 것 — 상황판에 쓰면 안 됨, 원두 확인용"
+ },
+ "deals": {
+  "musinsa-offline-codes": {
+   "title": "무신사 오프라인 매장 키워드 쿠폰",
+   "end": "2026-12-02",
+   "buys": [
+    {
+     "item": "무신사 전체 랭킹 상위 6개 중 3개가 어그(타즈먼 II·클래식 미니 II) — 쿠폰 키워드 '어그'와 같은 품목",
+     "source": "wondu-musinsa-ranking-1788",
+     "date": "2026-11-26 16:2x",
+     "certainty": "확실",
+     "kind": "플랫폼 랭킹(온라인)"
+    }
+   ],
+   "brands": [],
+   "gaps": [
+    "MD's Pick 대상 상품 목록: musinsa.com 봇 차단 → 확인 못 함",
+    "오프라인 매장에서 실제 많이 팔린 품목: 자료 없음",
+    "랭킹은 온라인 앱 화면. 매장 판매와 같은지 모름"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "uniqlo-bf": {
+   "title": "유니클로 블랙프라이데이",
+   "end": "2026-11-27",
+   "buys": [
+    {
+     "item": "세실리에 반센 협업: 1차(5월) 셔링 원피스·티셔츠 몇 시간 만에 품절. 2차(가을·겨울, 플리스 위주)는 11/20 출시",
+     "source": "kh-collabs-fleece",
+     "date": "2026-11-15",
+     "certainty": "경향",
+     "kind": "품절 보도(블프 할인 대상인지 모름)"
+    }
+   ],
+   "brands": [],
+   "gaps": [
+    "이번 블프에서 많이 팔린 품목: uniqlo.com 이 환경에서 차단, 관련 기사 못 찾음",
+    "히트텍 인기: 2017년 기사만 검색에 보이고 원문 안 열림(옛 주소가 다른 기사로 넘어감)"
+   ],
+   "not_applicable": "단일 브랜드 세일이라 '계열별 대표 브랜드' 칸은 해당 없음",
+   "unverified_leads": [
+    "검색 요약에만 보임: 코리아타임스 2017 '히트텍은 한국에서 유니클로 인기 상품 중 하나' — 원문 못 엶, 9년 전"
+   ]
+  },
+  "musinsa-bf": {
+   "title": "무신사 무진장 26 겨울 블프",
+   "end": "2026-12-02",
+   "buys": [
+    {
+     "item": "브랜드 판매 금액 1위 무신사 스탠다드(약 104.7억 원). 5위 아디다스, 6위 노스페이스, 7위 디미트리블랙, 8위 아웃스탠딩, 9위 드로우핏, 10위 수아레",
+     "source": "wondu-musinsa-bf-1625",
+     "date": "2026-11-26 16:25",
+     "certainty": "확실",
+     "kind": "행사 판매 순위(브랜드)"
+    },
+    {
+     "item": "무신사 전체 랭킹 상위: 반스 컴피쿠시 원(1), 디미트리블랙 미드웨이트 패딩(2), 아디다스 도쿄(3), 어그 타즈먼 II·클래식 미니 II(4~6)",
+     "source": "wondu-musinsa-ranking-1788",
+     "date": "2026-11-26 16:2x",
+     "certainty": "확실",
+     "kind": "플랫폼 랭킹(행사 기간 중)"
+    },
+    {
+     "item": "경량 패딩: 8월 카테고리 매출 +718%(전년 같은 달 대비)",
+     "source": "kh-puffers",
+     "date": "2026-10-20",
+     "certainty": "경향",
+     "kind": "카테고리 매출 증가(행사 전 수치)"
+    }
+   ],
+   "brands": [
+    {
+     "category_from_source": "경량 패딩 (무신사 카테고리)",
+     "brand": "무신사 스탠다드",
+     "reason": "시티 레저 후디드 라이트 다운 '클라우디 블루' 판매 1위·남녀 전 사이즈 품절. 10만 원대",
+     "source": "kh-puffers",
+     "date": "2026-10-20",
+     "certainty": "경향"
+    },
+    {
+     "category_from_source": "경량 패딩 (무신사 카테고리)",
+     "brand": "노스페이스",
+     "reason": "벤투스 온 재킷: 작년 1인 1개 제한에도 약 40분 만에 품절, 올해 리얼블랙·블랙 전 사이즈 품절",
+     "source": "kh-puffers",
+     "date": "2026-10-20",
+     "certainty": "경향"
+    },
+    {
+     "category_from_source": "'경량패딩' 검색 후기 많은 순",
+     "brand": "예일",
+     "reason": "웜업 퀼팅자켓 후기 1만+, 평점 4.9 (후기순 1위)",
+     "source": "wondu-musinsa-lp-reviews-1827",
+     "date": "2026-11-26 17:04",
+     "certainty": "확실",
+     "note": "후기 수 순서이지 판매 순위 아님"
+    },
+    {
+     "category_from_source": "'경량패딩' 검색 후기 많은 순",
+     "brand": "수아레",
+     "reason": "라이트 시어쉘 패딩 점퍼 후기 7천+, 평점 4.9. 블프 브랜드 판매 10위",
+     "source": "wondu-musinsa-lp-reviews-1827",
+     "date": "2026-11-26 17:04",
+     "certainty": "확실",
+     "note": "후기 수 순서이지 판매 순위 아님"
+    },
+    {
+     "category_from_source": "아메리칸 클래식 (출처 표현)",
+     "brand": "브룩스브라더스",
+     "reason": "1~10월 무신사·29CM 등 5개 플랫폼 합산 매출 +51%",
+     "source": "cj-brooks",
+     "date": "2026-11-16",
+     "certainty": "확실",
+     "note": "이번 블프 할인 대상인지는 확인 못 함"
+    }
+   ],
+   "gaps": [
+    "블프 품목별(아우터·신발 등) 판매 순위: musinsa.com 봇 차단 → 확인 못 함",
+    "2~4위 브랜드: 받은 화면에 없음"
+   ],
+   "not_applicable": null,
+   "unverified_leads": [
+    "검색 요약에만 보임(원문 미대조): 무진장 25 겨울 블프 여성 아우터 1위 팬시클럽 아일렛 퍼 MA-1, 남성 신발 1위 킨치 샤워 808, 뷰티 1위 존바바토스 아티산 EDT — 작년 행사, musinsa.com 차단으로 원문 못 엶"
+   ]
+  },
+  "spao-bf": {
+   "title": "스파오 블랙프라이데이",
+   "end": "2026-11-29",
+   "buys": [],
+   "brands": [],
+   "gaps": [
+    "이번 블프 품목·판매 자료 없음(spao.com·관련 기사 매체 이 환경에서 차단)",
+    "한국소비자원 다운 재킷 시험(2013): 스파오 남성 다운이 무거운 제품 중 가장 따뜻·저렴 — 13년 전 제품이라 넣지 않음"
+   ],
+   "not_applicable": "단일 브랜드 세일이라 '계열별 대표 브랜드' 칸은 해당 없음",
+   "unverified_leads": []
+  },
+  "musinsa-archive": {
+   "title": "무신사 아카이브 세일",
+   "end": "2026-12-17",
+   "buys": [],
+   "brands": [],
+   "gaps": [
+    "행사 전(12/3 시작). 이 세일 품목·판매 자료 없음",
+    "작년 아카이브 세일 결과 기사: 이 환경에서 열리는 매체에서 못 찾음"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  }
+ },
+ "sources": {
+  "wondu-musinsa-bf-1625": {
+   "url": null,
+   "publisher": "무신사 앱 '무진장 26 겨울 블프' 집계 화면 (원두 제공, 비공개)",
+   "date": "2026-11-26 16:25",
+   "opened": "owner-screen",
+   "took": "브랜드 판매 금액 순위 1·5~10위, 전체 판매액·브랜드 수",
+   "quote": "1 무신사 스탠다드 10,467,458,440원 / 5 아디다스 / 6 노스페이스 / 7 디미트리블랙 / 8 아웃스탠딩 / 9 드로우핏 / 10 수아레 (2~4위 화면에 없음)"
+  },
+  "wondu-musinsa-ranking-1788": {
+   "url": null,
+   "publisher": "무신사 앱 랭킹 '전체' 탭 화면 (원두 제공 [7eb4ec94#1788])",
+   "date": "2026-11-26 16:2x",
+   "opened": "owner-screen",
+   "took": "전체 랭킹 1~6위·10위·13위 중 보이는 칸",
+   "quote": "1 반스 컴피쿠시 원 / 2 디미트리블랙 Comfortemp 미드웨이트 패딩 / 3 아디다스 도쿄 / 4 어그 타즈먼 II / 5 어그 클래식 미니 II / 6 어그 타즈먼 II / 10 노스페이스 / 13 어그"
+  },
+  "wondu-musinsa-lp-reviews-1827": {
+   "url": null,
+   "publisher": "무신사 앱 '경량패딩' 검색 후기 많은 순 화면 (원두 제공 [7eb4ec94#1827])",
+   "date": "2026-11-26 17:04",
+   "opened": "owner-screen",
+   "took": "후기 많은 순 12개(광고 2개 표시)",
+   "quote": "1 예일 웜업 퀼팅자켓 ★4.9 후기 1만+ / 7 수아레 라이트 시어쉘 패딩 점퍼 ★4.9 후기 7천+ (후기순 = 판매순 아님)"
+  },
+  "kh-puffers": {
+   "url": "https://www.koreaherald.com/article/10908829",
+   "publisher": "The Korea Herald",
+   "date": "2026-10-20",
+   "opened": "curl-today",
+   "took": "무신사 경량 패딩 8월 +718%, 무신사 스탠다드·노스페이스 품절",
+   "quote": "sales in the lightweight padded jacket category rose 718 percent in August from a year earlier / The Cloudy Blue colorway has sold out in all men's and women's sizes and ranked No. 1 in sales / In 2025, its initial stock sold out in about 40 minutes despite a limit of one per customer. This year, the Real Black and Black colorways have again sold out in all sizes."
+  },
+  "cj-brooks": {
+   "url": "https://cjnews.cj.net/아메리칸-클래식에-빠진-mz-브룩스브라더스-무신/",
+   "publisher": "CJ 뉴스룸(브랜드웍스 코리아 발표)",
+   "date": "2026-11-16",
+   "opened": "staged",
+   "took": "브룩스브라더스 5개 플랫폼 합산 매출 +51%, 판매처",
+   "quote": "2026년 1~10월 무신사·29CM·SSF샵·코오롱몰·LF몰 등 5개 패션 플랫폼의 합산 매출이 전년 동기 대비 51% 증가 / 롯데백화점 잠실점·동탄점, 신세계백화점 대구점·타임스퀘어점, 현대백화점 판교점 …에서 만나볼 수 있다"
+  },
+  "kh-collabs-fleece": {
+   "url": "https://www.koreaherald.com/article/10937465",
+   "publisher": "The Korea Herald",
+   "date": "2026-11-15",
+   "opened": "curl-today",
+   "took": "유니클로 × 세실리에 반센 1차 품절, 2차 가을·겨울 출시",
+   "quote": "Uniqlo is set to release its second collection with Danish designer Cecilie Bahnsen on Friday. … Shirred dresses and T-shirts from that line sold out within hours of release."
+  }
+ },
+ "not_done_yet": [
+  "oy-sale-2026-12",
+  "klook-bf-2026",
+  "dept-winter-2026",
+  "korea-grand-sale-2027",
+  "seoul-winter-market-2026",
+  "oy-day-2026-12",
+  "wconcept-wweek",
+  "shilla-dfs-bf",
+  "dept-shinsegae",
+  "dept-lotte",
+  "dept-hyundai",
+  "samsung-week",
+  "coupang-digital-bf",
+  "ably-bf",
+  "zigzag-bf",
+  "trinity-nov",
+  "topten-bf",
+  "amazon-bf",
+  "coupang-direct-bf",
+  "zara-bf",
+  "hm-bf",
+  "cathay-bf",
+  "jejuair-flex",
+  "eastar-promo",
+  "ttukseom-xmas"
+ ]
+}
