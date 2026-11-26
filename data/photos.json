@@ -1,1319 +1,1475 @@
 [
- {
-  "file": "static/photo/airport-1.webp",
-  "subject": "Incheon Airport Terminal 2 arrival hall (baggage claim)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg",
-  "author": "AirportTerminalGuy",
-  "license": "CC BY 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
-  "original_date": "2024-08-25 18:12:15",
-  "modifications": [
-   "resized to 780x439",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/airport-2.webp",
-  "subject": "AREX Express Train concourse, Incheon Airport Terminal 1 Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-17 19:45:54",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/subway-1.webp",
-  "subject": "Ticket gates with card readers, Myeongdong Station (Line 4)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
-  "author": "LERK",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{User:LERK/Licence2016}} = {{self|cc-by-sa-4.0|cc-by-sa-2.1-jp}}",
-  "original_date": "{{taken_on|2018-11-24|location=South_Kor",
-  "modifications": [
-   "resized to 780x439",
-   "light auto-contrast",
-   "1 detected face(s) blurred",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/subway-2.webp",
-  "subject": "Line 2 (green) platform direction sign, Jamsil Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg",
-  "author": "阿貴",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
-  "original_date": "{{taken_on|2012-08-13|location=South Kor",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: 阿貴, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/subway-3.webp",
-  "subject": "Ticket vending and card reload machines (Soraepogu Station, Incheon — Korail; per the Commons description)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
-  "author": "LandAndTree",
-  "license": "CC BY 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
-  "original_date": "2024-07-13",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/subway-4.webp",
-  "subject": "Subway station entrance/exit, Hyehwa Station Exit 1 (2006 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg",
-  "author": "Jolly6656 (Korean Wikipedia)",
-  "license": "Public domain (PD-user: released by the author)",
-  "license_tag_on_file_page": "{{PD-user-w|ko|Korean Wikipedia|Jolly6656}}",
-  "original_date": "2006-12-02",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Jolly6656 (Korean Wikipedia), Public domain (PD-user: released by the author), via Wikimedia Commons",
-  "share_alike": false,
-  "retrieved": "2026-11-26",
-  "note": "Public domain by author release on Korean Wikipedia (2006). Old photo."
- },
- {
-  "file": "static/photo/bus-1.webp",
-  "subject": "Seoul blue (trunk) city bus, route 105",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png",
-  "author": "Ki hoon",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2015-09-04",
-  "modifications": [
-   "resized to 780x520",
-   "light auto-contrast",
-   "2 area(s) blurred (faces/plates, manual)",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Ki hoon, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 area(s) blurred (faces/plates, manual))",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/bus-2.webp",
-  "subject": "Seoul green (branch) city bus, route 7211",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg",
-  "author": "Wikiwater2020",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
-  "original_date": "{{According to Exif data|2021-09-02|loca",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "2 area(s) blurred (faces/plates, manual)",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, 2 area(s) blurred (faces/plates, manual))",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/bus-3.webp",
-  "subject": "Seoul bus stop shelter with arrival display, Seobinggo Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_Seoul_Bus_Stop_Seobinggo_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-18 07:50:17",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/bus-4.webp",
-  "subject": "Inside a Seoul city bus, front door and card reader area",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_bus_interior_front.jpg",
-  "author": "Sgroey",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-08-21 11:15:33",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/palace-1.webp",
-  "subject": "Gwanghwamun, main gate of Gyeongbokgung",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_Plaza_-_Gwanghwamun_gate_-_Gyeongbokgung_Palace_2016_-_hschrijver.jpg",
-  "author": "Hschrijver",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2016-04-24 13:47:09",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Hschrijver, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/palace-2.webp",
-  "subject": "Royal guard changing ceremony, Gyeongbokgung",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace_Changing_of_the_Guard_Ceremony_2019_(4).jpg",
-  "author": "Ethan Doyle White",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2019-11-07 01:44:47",
-  "modifications": [
-   "resized to 780x520",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Ethan Doyle White, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/palace-3.webp",
-  "subject": "Injeongjeon Hall, Changdeokgung",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Injeongjeon_Hall_01.jpg",
-  "author": "Bernard Gagnon",
-  "license": "CC0 1.0 (Public Domain Dedication)",
-  "license_tag_on_file_page": "{{self|cc-zero}}",
-  "original_date": "2022-09-27",
-  "modifications": [
-   "resized to 780x520",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Bernard Gagnon, CC0 1.0 (Public Domain Dedication), via Wikimedia Commons",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/bukchon-1.webp",
-  "subject": "Bukchon Hanok Village street (Bukchon-ro 11-gil)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
-  "author": "Basile Morin",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-06-03 18:15:50",
-  "modifications": [
-   "resized to 780x520",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/myeongdong-1.webp",
-  "subject": "Myeongdong shopping street at night (2012 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Myeongdong_at_night.jpg",
-  "author": "Christian Bolz",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2012-10-12 17:53:18",
-  "modifications": [
-   "resized to 780x440",
-   "light auto-contrast",
-   "2 detected face(s) blurred",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Christian Bolz, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 detected face(s) blurred)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/seongsu-1.webp",
-  "subject": "Street in Seongsu-dong",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seongsu_Street.jpg",
-  "author": "Qhairy",
-  "license": "CC BY 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
-  "original_date": "2026-06-22 16:32:23",
-  "modifications": [
-   "resized to 780x1040",
-   "light auto-contrast",
-   "2 detected face(s) blurred",
-   "2 area(s) blurred (faces/plates, manual)",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Qhairy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 detected face(s) blurred, 2 area(s) blurred (faces/plates, manual))",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/hongdae-1.webp",
-  "subject": "Hongdae shopping street (daytime)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg",
-  "author": "U0894629",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2022-08-02",
-  "modifications": [
-   "resized to 780x833",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: U0894629, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/hongdae-2.webp",
-  "subject": "Hongdae street at night",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg",
-  "author": "lumoplank (Flickr)",
-  "license": "CC0 1.0 (Public Domain Dedication)",
-  "license_tag_on_file_page": "{{Cc-zero}}",
-  "original_date": "{{other date|before|2024-09-16}}",
-  "modifications": [
-   "resized to 780x520",
-   "light auto-contrast",
-   "2 area(s) blurred (faces/plates, manual)",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: lumoplank (Flickr), CC0 1.0 (Public Domain Dedication), via Wikimedia Commons",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/convenience-store-1.webp",
-  "subject": "7-Eleven convenience store (Muan International Airport)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg",
-  "author": "LERK",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{User:LERK/Licence2016}} = {{self|cc-by-sa-4.0|cc-by-sa-2.1-jp}}",
-  "original_date": "{{taken_on|location=South_Korea|2019-05-",
-  "modifications": [
-   "resized to 780x439",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/convenience-store-2.webp",
-  "subject": "CU convenience store street front (2012 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Convenience_Store_CU_Arirang_Hotel_20120803.jpg",
-  "author": "hyolee2",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
-  "original_date": "{{taken_on|2012-08-03|location=South Kor",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/daiso-1.webp",
-  "subject": "Daiso store front, Namdaemun-ro No.1 store (2011 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Daiso_Namdaemun-ro_No.1_store.JPG",
-  "author": "Kirakirameister",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}",
-  "original_date": "2011-10-06",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Kirakirameister, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/olive-young-1.webp",
-  "subject": "Olive Young store front (night)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:OliveYoung_store.png",
-  "author": "Pkccccj",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2021-05-07",
-  "modifications": [
-   "resized to 780x500",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Pkccccj, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/food-1.webp",
-  "subject": "Korean barbecue table: grill and banchan (2008 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Korean_barbecue-Grill_and_banchan.jpg",
-  "author": "suksim (Flickr)",
-  "license": "CC BY 2.0",
-  "license_tag_on_file_page": "{{cc-by-2.0}}",
-  "original_date": "2008-04-19 18:40:06",
-  "modifications": [
-   "resized to 780x522",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: suksim (Flickr), CC BY 2.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/market-1.webp",
-  "subject": "Gwangjang Market food alley",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
-  "author": "Bgag",
-  "license": "CC0 1.0 (Public Domain Dedication)",
-  "license_tag_on_file_page": "{{self|cc-zero}}",
-  "original_date": "2022-09-26",
-  "modifications": [
-   "resized to 780x436",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Bgag, CC0 1.0 (Public Domain Dedication), via Wikimedia Commons",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/market-2.webp",
-  "subject": "Jeon (pancakes) at a Gwangjang Market stall",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul,_Jongno_District,_Gwangjang_Market,_Jeon.jpg",
-  "author": "Dr. Thomas Liptak",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "{{Taken on|2026-09-28 17:39:30|location=",
-  "modifications": [
-   "cropped",
-   "resized to 780x302",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/jeju-1.webp",
-  "subject": "Seongsan Ilchulbong from the air (2006 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_from_the_air.jpg",
-  "author": "Korea.net / Korean Culture and Information Service",
-  "license": "CC BY-SA 2.0",
-  "license_tag_on_file_page": "{{Korea.net}} = {{Cc-by-sa-2.0|Korea.net / Korean Culture and Information Service (Photographer name)}}",
-  "original_date": "2006-10-18 17:22",
-  "modifications": [
-   "resized to 780x508",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/jeju-2.webp",
-  "subject": "Seongsan Ilchulbong at blue hour, hydrangeas in front",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg",
-  "author": "Basile Morin",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-06-16 20:09:35",
-  "modifications": [
-   "resized to 780x488",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/busan-1.webp",
-  "subject": "Haeundae Beach, Busan",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Busan_City_Haeundae_Beach.jpg",
-  "author": "Busan Metropolitan City (부산광역시)",
-  "license": "KOGL Type 1 (공공누리 제1유형)",
-  "license_tag_on_file_page": "{{KOGL Type 1|1=부산광역시}}",
-  "original_date": "2024-09-15",
-  "modifications": [
-   "resized to 780x450",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Busan Metropolitan City (부산광역시), KOGL Type 1 (공공누리 제1유형), via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": false,
-  "retrieved": "2026-11-26",
-  "note": "KOGL Type 1 (공공누리 제1유형): attribution required, modification and commercial use allowed. Listed on Commons; check the original source (Busan city) before publishing if strictness required."
- },
- {
-  "file": "static/photo/busan-2.webp",
-  "subject": "Busan Station main hall (2018 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Busan_Station_Busan_(31885854218).jpg",
-  "author": "bryansjs (Flickr)",
-  "license": "CC BY-SA 2.0",
-  "license_tag_on_file_page": "{{cc-by-sa-2.0}}",
-  "original_date": "2018-10-16 16:51",
-  "modifications": [
-   "cropped",
-   "resized to 780x327",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: bryansjs (Flickr), CC BY-SA 2.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/ktx-1.webp",
-  "subject": "KTX-Sancheon high-speed train",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:KTX-Sancheon.jpg",
-  "author": "Minseong Kim (IMKSv)",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2014-12-02",
-  "modifications": [
-   "resized to 780x449",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Minseong Kim (IMKSv), CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/winter-1.webp",
-  "subject": "Gyeongbokgung covered with snow (January 2010)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace_covered_with_snow_(4271054304).jpg",
-  "author": "Korea.net / Korean Culture and Information Service",
-  "license": "CC BY-SA 2.0",
-  "license_tag_on_file_page": "{{Korea.net}} = {{Cc-by-sa-2.0|Korea.net / Korean Culture and Information Service (Photographer name)}}",
-  "original_date": "2010-01-13 14:46",
-  "modifications": [
-   "resized to 780x519",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/icn-t1-arrival.webp",
-  "subject": "Incheon Airport Terminal 1 arrival hall, seen from the upper level (2023)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_3.jpg",
-  "author": "ノボホショコロトソ",
-  "license": "CC BY 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
-  "original_date": "2023-09-28 14:33:15",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "1 detected face(s) blurred",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: ノボホショコロトソ, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/arex-allstop-concourse.webp",
-  "subject": "AREX all-stop (local) train concourse, Incheon Airport Terminal 1 Station, B1 (2024)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-17 19:52:05",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "1 detected face(s) blurred",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/tmoney-card.webp",
-  "subject": "T-money transit card, older design (2010 scan)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:T-money_card.jpg",
-  "author": "zisk",
-  "license": "Public domain (PD-self: released by the author)",
-  "license_tag_on_file_page": "{{PD-self}}",
-  "original_date": "2010-01-24",
-  "modifications": [
-   "kept at 499x316",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: zisk, Public domain, via Wikimedia Commons (modified: light auto-contrast)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/airport-to-seoul-gates.webp",
-  "subject": "Annotated: AREX all-stop concourse, Terminal 1 Station (ticket machines, gates, Express sign)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-17 19:52:05",
-  "modifications": [
-   "cropped",
-   "resized to 780x344",
-   "light auto-contrast",
-   "1 area blurred (face, manual)",
-   "numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast, 1 area blurred (face, manual), numbered red boxes added)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/airport-to-seoul-platform.webp",
-  "subject": "Annotated: AREX all-stop platform 2 sign, Terminal 1 Station (2024)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-17 19:53:25",
-  "modifications": [
-   "cropped to the platform sign (from the full-size original)",
-   "resized to 780x269",
-   "light auto-contrast",
-   "numbered red box added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped to the platform sign (from the full-size original), light auto-contrast, numbered red box added)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/seoul-taxi.webp",
-  "subject": "Seoul taxis at night (2015); regular taxis, not the International Taxi",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_taxis_01.jpg",
-  "author": "Ilya Plekhanov",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2015-08-08",
-  "modifications": [
-   "resized to 780x520",
-   "light auto-contrast",
-   "1 area(s) blurred (faces/plates, manual)",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Ilya Plekhanov, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 area(s) blurred (faces/plates, manual))",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/oy-myeongdong-passport-sign.webp",
-  "subject": "Olive Young Myeongdong checkout counters with the lit sign 'Please prepare your physical passport (for immediate tax refund)'",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg",
-  "author": "Sgroey",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-08-19 11:33:27",
-  "modifications": [
-   "cropped (left half, middle band, people's heads excluded)",
-   "resized to 780x403",
-   "light auto-contrast",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (left half, middle band, people's heads excluded), resized to 780x403, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/oy-wonju-till-marked.webp",
-  "subject": "Olive Young Wonju Dangu branch: checkout counter (marked 1), service desk",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
-  "author": "Choi Kwang-mo",
-  "license": "CC0",
-  "license_tag_on_file_page": "{{self|cc-zero|FAL}}",
-  "original_date": "2020-04-17 22:17:43",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "red box and number 1 added",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: resized to 780x585, light auto-contrast, red box and number 1 added)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/oy-wonju-counter-marked.webp",
-  "subject": "Olive Young Wonju Dangu branch: checkout counter (marked 1) and a round sale sticker (marked 2)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
-  "author": "Choi Kwang-mo",
-  "license": "CC0",
-  "license_tag_on_file_page": "{{self|cc-zero|FAL}}",
-  "original_date": "2020-04-17 22:17:43",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "red boxes and numbers 1-2 added",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: resized to 780x585, light auto-contrast, red boxes and numbers 1-2 added)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/oy-wonju-tags-marked.webp",
-  "subject": "Olive Young Wonju Dangu branch: shelf edge with a pink promotion tag (marked 1) and a regular price tag (marked 2)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.18.09_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
-  "author": "Choi Kwang-mo",
-  "license": "CC0",
-  "license_tag_on_file_page": "{{self|cc-zero|FAL}}",
-  "original_date": "2020-04-17 22:18:09",
-  "modifications": [
-   "cropped from the 1920px Commons thumbnail (top-left shelf edge)",
-   "resized to 780x253",
-   "light auto-contrast",
-   "red boxes and numbers 1-2 added",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: cropped, light auto-contrast, red boxes and numbers added)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/oy-pick-sunscreen.webp",
-  "subject": "Sunscreen pack label showing SPF50+ (marked 1) and PA+++ (marked 2); a Japanese brand (Anessa), used only as a label-reading example",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Japanese_sunscreen.jpg",
-  "author": "Yiting",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2020-07-23",
-  "modifications": [
-   "cropped (top of pack)",
-   "resized to 780x588",
-   "light auto-contrast",
-   "red boxes and numbers 1-2 added",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Yiting, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (top of pack), resized to 780x588, light auto-contrast, red boxes and numbers 1-2 added)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible on the pack; captions say it is a label example, not a recommendation."
- },
- {
-  "file": "static/photo/oy-pick-sheet-mask.webp",
-  "subject": "A single sheet mask in its flat foil pouch (A.H.C brand visible)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:PX%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9.jpg",
-  "author": "김인겸 (Kim In-gyeom)",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2021-12-23 00:16:19",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: 김인겸 (Kim In-gyeom), CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 780x585, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible; captions describe the format only."
- },
- {
-  "file": "static/fig/seoul-subway-hero.webp",
-  "subject": "Ticket gates and Way Out sign, Myeongdong Station (Line 4)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
-  "author": "LERK",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
-  "original_date": "2018-11-24",
-  "modifications": [
-   "resized to 780x439",
-   "light auto-contrast",
-   "2 people blurred (manual)",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 780x439, light auto-contrast, 2 people blurred (manual), converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license. Used instead of static/photo/subway-1.webp because that version shows a flat grey block where a false face detection was blurred."
- },
- {
-  "file": "static/fig/seoul-subway-exit-sign.webp",
-  "subject": "Way Out sign with numbered exits and machine pointer, Myeongdong Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
-  "author": "LERK",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
-  "original_date": "2018-11-24",
-  "modifications": [
-   "cropped from the 1920px thumbnail",
-   "resized to 780x166",
-   "3 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, numbers added)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/fig/seoul-subway-gate.webp",
-  "subject": "Ticket gates with card readers, Konkuk Univ. Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg",
-  "author": "revi",
-  "license": "CC BY 2.0 KR",
-  "license_tag_on_file_page": "{{self|Cc-by-2.0-kr|FAL|attribution=revi}}",
-  "original_date": "2013-06-07",
-  "modifications": [
-   "cropped",
-   "resized to 780x556",
-   "6 areas blurred (people, manual)",
-   "2 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: revi, CC BY 2.0 KR, via Wikimedia Commons (modified: cropped, resized to 780x556, 6 areas blurred (people, manual), 2 numbered red boxes added, converted to WebP q82)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/seoul-subway-machine.webp",
-  "subject": "Ticket vending and card reload machine (Korail-run station)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
-  "author": "LandAndTree",
-  "license": "CC BY 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
-  "original_date": "2024-07-13",
-  "modifications": [
-   "cropped",
-   "resized to 716x844",
-   "4 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 716x844, 4 numbered red boxes added, converted to WebP q82)",
-  "share_alike": false,
-  "retrieved": "2026-11-26",
-  "note": "Soraepogu Station, Incheon (Korail) per the Commons description. No longer used on seoul-subway (replaced by -machine-yongsan and -machine-closeup)."
- },
- {
-  "file": "static/fig/seoul-subway-platform-sign.webp",
-  "subject": "Line 2 platform station sign, Jamsil Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg",
-  "author": "阿貴",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
-  "original_date": "2014-08-13",
-  "modifications": [
-   "cropped",
-   "resized to 780x257",
-   "2 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: 阿貴, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 780x257, 2 numbered red boxes added, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/fig/seoul-subway-refund.webp",
-  "subject": "Single-journey ticket deposit refund machine",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_subway_single_use_card_deposit_refund_machine.jpg",
-  "author": "Sgroey",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-08-18",
-  "modifications": [
-   "cropped",
-   "resized to 600x951",
-   "3 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 600x951, 3 numbered red boxes added, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/fig/seoul-subway-pink-seat.webp",
-  "subject": "Pink seat for pregnant women and floor sign, Seoul subway car (2018; file title says Line 1, file categories say Line 3 / Seoul Metro Class 3000)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg",
-  "author": "Garam",
-  "license": "Attribution",
-  "license_tag_on_file_page": "{{Attribution|1=User:Garam}}",
-  "original_date": "2018-03-31",
-  "modifications": [
-   "cropped",
-   "resized to 780x585",
-   "2 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Garam, Attribution licence, via Wikimedia Commons (modified: cropped, 2 numbered red boxes added)",
-  "share_alike": false,
-  "retrieved": "2026-11-26",
-  "license_text_on_file_page": "The copyright holder of this file, User:Garam, allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted."
- },
- {
-  "file": "static/fig/seoul-subway-priority-seat.webp",
-  "subject": "Priority seats at the end of a Seoul Metro car",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG",
-  "author": "hyolee2",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
-  "original_date": "",
-  "modifications": [
-   "cropped",
-   "resized to 560x635",
-   "advertising poster with a face blurred",
-   "2 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 560x635, advertising poster with a face blurred, 2 numbered red boxes added, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/fig/seoul-bus-stop-display.webp",
-  "subject": "Seoul bus stop real-time arrival display",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Bus_Info_in_the_Bus_Stop.jpg",
-  "author": "Wikiwater2020",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
-  "original_date": "2021-06-20",
-  "modifications": [
-   "cropped",
-   "resized to 780x323",
-   "1 numbered red box added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 780x323, 1 numbered red box added, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/fig/seoul-bus-front.webp",
-  "subject": "Seoul blue bus route 105: front route number and front door",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png",
-  "author": "Ki hoon",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "(see static/photo/bus-1.webp entry)",
-  "original_date": "",
-  "modifications": [
-   "made from static/photo/bus-1.webp (light auto-contrast, driver and plate blurred)",
-   "2 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Ki hoon, CC BY-SA 4.0, via Wikimedia Commons (modified: made from static/photo/bus-1.webp (light auto-contrast, driver and plate blurred), 2 numbered red boxes added, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/fig/seoul-bus-reader-front.webp",
-  "subject": "Bus boarding card reader (2012 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg",
-  "author": "Wnstlr93 (Korean Wikipedia)",
-  "license": "CC BY 3.0",
-  "license_tag_on_file_page": "{{cc-by-3.0}}",
-  "original_date": "2012-01-04",
-  "modifications": [
-   "cropped",
-   "resized to 600x686",
-   "auto-contrast and brightened",
-   "1 numbered red box added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Wnstlr93 (Korean Wikipedia), CC BY 3.0, via Wikimedia Commons (modified: cropped, resized to 600x686, auto-contrast and brightened, 1 numbered red box added, converted to WebP q82)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/seoul-bus-reader-rear.webp",
-  "subject": "Bus rear-door (transfer/tap-off) card reader (2012 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg",
-  "author": "Wnstlr93 (Korean Wikipedia)",
-  "license": "CC BY 3.0",
-  "license_tag_on_file_page": "{{cc-by-3.0}}",
-  "original_date": "2012-01-04",
-  "modifications": [
-   "cropped",
-   "resized to 600x521",
-   "auto-contrast",
-   "3 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Wnstlr93 (Korean Wikipedia), CC BY 3.0, via Wikimedia Commons (modified: cropped, resized to 600x521, auto-contrast, 3 numbered red boxes added, converted to WebP q82)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/bus-yellow-1.webp",
-  "subject": "Seoul yellow (circular) bus, route 05",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG",
-  "author": "hyolee2",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0|GFDL}}",
-  "original_date": "",
-  "modifications": [
-   "resized to 640x516",
-   "light auto-contrast",
-   "1 area blurred (plate, manual)",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: hyolee2, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 640x516, light auto-contrast, 1 area blurred (plate, manual), converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/photo/bus-red-1.webp",
-  "subject": "Seoul red (wide-area) bus, route 9401",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg",
-  "author": "Wikiwater2020",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
-  "original_date": "2019-04-29",
-  "modifications": [
-   "resized to 640x480",
-   "light auto-contrast",
-   "2 areas blurred (plates, manual)",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: resized to 640x480, light auto-contrast, 2 areas blurred (plates, manual), converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/photo/bus-airport-1.webp",
-  "subject": "Airport limousine bus, route 6000 (2009 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Airport_Bus_6000.jpg",
-  "author": "Baek Seung Woon",
-  "license": "CC BY-SA 2.0 KR",
-  "license_tag_on_file_page": "{{self|cc-by-sa-2.0-kr}}",
-  "original_date": "2009-07-24",
-  "modifications": [
-   "resized to 640x480",
-   "light auto-contrast",
-   "3 areas blurred (plate, driver, pedestrian; manual)",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Baek Seung Woon, CC BY-SA 2.0 KR, via Wikimedia Commons (modified: resized to 640x480, light auto-contrast, 3 areas blurred (plate, driver, pedestrian; manual), converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
- },
- {
-  "file": "static/photo/oy-myeongdong-sign-closeup.webp",
-  "subject": "Close-up of the lit till sign at Olive Young Myeongdong: Please prepare your physical passport (for immediate tax refund)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg",
-  "author": "Sgroey",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-08-19 11:33:27",
-  "modifications": [
-   "cropped (close-up of the sign band)",
-   "resized to 780x192",
-   "light auto-contrast",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (close-up of the sign band), resized to 780x192, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/oy-myeongdong-entrance.webp",
-  "subject": "Olive Young Myeongdong checkout lanes with the passport sign and an Entrance marker (no faces in frame)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg",
-  "author": "Sgroey",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-08-19 11:33:27",
-  "modifications": [
-   "cropped (right half, middle band)",
-   "resized to 780x366",
-   "light auto-contrast",
-   "converted to WebP"
-  ],
-  "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (right half, middle band), resized to 780x366, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26",
-  "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
- },
- {
-  "file": "static/photo/express-cabin.webp",
-  "subject": "AREX Express train interior, reserved seats (2020)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg",
-  "author": "Bonnielou2013",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "6 March 2020, 10:44:01",
-  "modifications": [
-   "cropped",
-   "resized to 780x971",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: Bonnielou2013, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/limousine-6010.webp",
-  "subject": "Airport limousine bus, route 6010, in Seoul (2015 photo)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_Airport_Limousine_6010.JPG",
-  "author": "hyolee2",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
-  "original_date": "2015-03-29",
-  "modifications": [
-   "resized to 780x585",
-   "light auto-contrast",
-   "1 detected face(s) blurred",
-   "1 area(s) blurred (faces/plates, manual)",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred, 1 area(s) blurred (faces/plates, manual))",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/airport-to-seoul-b1.webp",
-  "subject": "Annotated: AREX Express concourse, Terminal 1 Station B1 (Express Train sign, ticket machines)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-17 19:45:54",
-  "modifications": [
-   "resized",
-   "light auto-contrast",
-   "numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, numbered red boxes added)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/arex-platform-wide.webp",
-  "subject": "AREX platform 1/2, Incheon Airport Terminal 1 Station (2024)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg",
-  "author": "MNXANL",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
-  "original_date": "2024-03-17 19:53:25",
-  "modifications": [
-   "cropped",
-   "resized to 780x492",
-   "light auto-contrast",
-   "converted to WebP q80"
-  ],
-  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/seoul-subway-machine-yongsan.webp",
-  "subject": "Ticket vending and top-up machines, Yongsan Station, Seoul (Line 1, Korail)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
-  "author": "YKJJ",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
-  "original_date": "2023-01-24",
-  "modifications": [
-   "cropped",
-   "resized to 780x536",
-   "2 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: YKJJ, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 780x536, 2 numbered red boxes added, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/seoul-subway-machine-closeup.webp",
-  "subject": "Close-up of a ticket/top-up machine, Soraepogu Station, Incheon (Korail)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
-  "author": "LandAndTree",
-  "license": "CC BY 4.0",
-  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
-  "original_date": "2024-07-13",
-  "modifications": [
-   "cropped",
-   "resized to 710x547",
-   "3 numbered red boxes added",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 710x547, 3 numbered red boxes added, converted to WebP q82)",
-  "share_alike": false,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/fig/seoul-subway-exit-zoom.webp",
-  "subject": "Exit numbers 9 and 10 on the Way Out sign, Myeongdong Station",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
-  "author": "LERK",
-  "license": "CC BY-SA 4.0",
-  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
-  "original_date": "2018-11-24",
-  "modifications": [
-   "cropped",
-   "enlarged to 780x146",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, enlarged to 780x146, converted to WebP q82)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- },
- {
-  "file": "static/photo/bus-blue-2.webp",
-  "subject": "Seoul blue (trunk) bus, route 720 (2019)",
-  "source_site": "Wikimedia Commons",
-  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg",
-  "author": "Wikiwater2020",
-  "license": "CC BY-SA 3.0",
-  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
-  "original_date": "2019-03-06",
-  "modifications": [
-   "resized to 640x480",
-   "light auto-contrast",
-   "2 areas blurred (plate, driver; manual)",
-   "converted to WebP q82"
-  ],
-  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, plate and driver blurred)",
-  "share_alike": true,
-  "retrieved": "2026-11-26"
- }
+  {
+    "file": "static/photo/airport-1.webp",
+    "subject": "Incheon Airport Terminal 2 arrival hall (baggage claim)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg",
+    "author": "AirportTerminalGuy",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+    "original_date": "2024-08-25 18:12:15",
+    "modifications": [
+      "resized to 780x439",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/airport-2.webp",
+    "subject": "AREX Express Train concourse, Incheon Airport Terminal 1 Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-17 19:45:54",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/subway-1.webp",
+    "subject": "Ticket gates with card readers, Myeongdong Station (Line 4)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{User:LERK/Licence2016}} = {{self|cc-by-sa-4.0|cc-by-sa-2.1-jp}}",
+    "original_date": "{{taken_on|2018-11-24|location=South_Kor",
+    "modifications": [
+      "resized to 780x439",
+      "light auto-contrast",
+      "1 detected face(s) blurred",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/subway-2.webp",
+    "subject": "Line 2 (green) platform direction sign, Jamsil Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg",
+    "author": "阿貴",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+    "original_date": "{{taken_on|2012-08-13|location=South Kor",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: 阿貴, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/subway-3.webp",
+    "subject": "Ticket vending and card reload machines (Soraepogu Station, Incheon — Korail; per the Commons description)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
+    "author": "LandAndTree",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+    "original_date": "2024-07-13",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/subway-4.webp",
+    "subject": "Subway station entrance/exit, Hyehwa Station Exit 1 (2006 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg",
+    "author": "Jolly6656 (Korean Wikipedia)",
+    "license": "Public domain (PD-user: released by the author)",
+    "license_tag_on_file_page": "{{PD-user-w|ko|Korean Wikipedia|Jolly6656}}",
+    "original_date": "2006-12-02",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Jolly6656 (Korean Wikipedia), Public domain (PD-user: released by the author), via Wikimedia Commons",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "note": "Public domain by author release on Korean Wikipedia (2006). Old photo."
+  },
+  {
+    "file": "static/photo/bus-1.webp",
+    "subject": "Seoul blue (trunk) city bus, route 105",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png",
+    "author": "Ki hoon",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2015-09-04",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "2 area(s) blurred (faces/plates, manual)",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Ki hoon, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 area(s) blurred (faces/plates, manual))",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/bus-2.webp",
+    "subject": "Seoul green (branch) city bus, route 7211",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg",
+    "author": "Wikiwater2020",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+    "original_date": "{{According to Exif data|2021-09-02|loca",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "2 area(s) blurred (faces/plates, manual)",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, 2 area(s) blurred (faces/plates, manual))",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/bus-3.webp",
+    "subject": "Seoul bus stop shelter with arrival display, Seobinggo Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_Seoul_Bus_Stop_Seobinggo_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-18 07:50:17",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/bus-4.webp",
+    "subject": "Inside a Seoul city bus, front door and card reader area",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_bus_interior_front.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-08-21 11:15:33",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/palace-1.webp",
+    "subject": "Gwanghwamun, main gate of Gyeongbokgung",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gwanghwamun_Plaza_-_Gwanghwamun_gate_-_Gyeongbokgung_Palace_2016_-_hschrijver.jpg",
+    "author": "Hschrijver",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2016-04-24 13:47:09",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Hschrijver, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/palace-2.webp",
+    "subject": "Royal guard changing ceremony, Gyeongbokgung",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace_Changing_of_the_Guard_Ceremony_2019_(4).jpg",
+    "author": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2019-11-07 01:44:47",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Ethan Doyle White, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/palace-3.webp",
+    "subject": "Injeongjeon Hall, Changdeokgung",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Injeongjeon_Hall_01.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC0 1.0 (Public Domain Dedication)",
+    "license_tag_on_file_page": "{{self|cc-zero}}",
+    "original_date": "2022-09-27",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Bernard Gagnon, CC0 1.0 (Public Domain Dedication), via Wikimedia Commons",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/bukchon-1.webp",
+    "subject": "Bukchon Hanok Village street (Bukchon-ro 11-gil)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-06-03 18:15:50",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/myeongdong-1.webp",
+    "subject": "Myeongdong shopping street at night (2012 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Myeongdong_at_night.jpg",
+    "author": "Christian Bolz",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2012-10-12 17:53:18",
+    "modifications": [
+      "resized to 780x440",
+      "light auto-contrast",
+      "2 detected face(s) blurred",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Christian Bolz, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 detected face(s) blurred)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/seongsu-1.webp",
+    "subject": "Street in Seongsu-dong",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seongsu_Street.jpg",
+    "author": "Qhairy",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+    "original_date": "2026-06-22 16:32:23",
+    "modifications": [
+      "resized to 780x1040",
+      "light auto-contrast",
+      "2 detected face(s) blurred",
+      "2 area(s) blurred (faces/plates, manual)",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Qhairy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 detected face(s) blurred, 2 area(s) blurred (faces/plates, manual))",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/hongdae-1.webp",
+    "subject": "Hongdae shopping street (daytime)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg",
+    "author": "U0894629",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2022-08-02",
+    "modifications": [
+      "resized to 780x833",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: U0894629, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/hongdae-2.webp",
+    "subject": "Hongdae street at night",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hongdae,_Seoul-_Part_II_-_Hongdae2237.jpg",
+    "author": "lumoplank (Flickr)",
+    "license": "CC0 1.0 (Public Domain Dedication)",
+    "license_tag_on_file_page": "{{Cc-zero}}",
+    "original_date": "{{other date|before|2024-09-16}}",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "2 area(s) blurred (faces/plates, manual)",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: lumoplank (Flickr), CC0 1.0 (Public Domain Dedication), via Wikimedia Commons",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/convenience-store-1.webp",
+    "subject": "7-Eleven convenience store (Muan International Airport)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{User:LERK/Licence2016}} = {{self|cc-by-sa-4.0|cc-by-sa-2.1-jp}}",
+    "original_date": "{{taken_on|location=South_Korea|2019-05-",
+    "modifications": [
+      "resized to 780x439",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/convenience-store-2.webp",
+    "subject": "CU convenience store street front (2012 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Convenience_Store_CU_Arirang_Hotel_20120803.jpg",
+    "author": "hyolee2",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
+    "original_date": "{{taken_on|2012-08-03|location=South Kor",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/daiso-1.webp",
+    "subject": "Daiso store front, Namdaemun-ro No.1 store (2011 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Daiso_Namdaemun-ro_No.1_store.JPG",
+    "author": "Kirakirameister",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|GFDL|cc-by-sa-3.0,2.5,2.0,1.0}}",
+    "original_date": "2011-10-06",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Kirakirameister, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 3.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/olive-young-1.webp",
+    "subject": "Olive Young store front (night)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:OliveYoung_store.png",
+    "author": "Pkccccj",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2021-05-07",
+    "modifications": [
+      "resized to 780x500",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Pkccccj, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/food-1.webp",
+    "subject": "Korean barbecue table: grill and banchan (2008 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Korean_barbecue-Grill_and_banchan.jpg",
+    "author": "suksim (Flickr)",
+    "license": "CC BY 2.0",
+    "license_tag_on_file_page": "{{cc-by-2.0}}",
+    "original_date": "2008-04-19 18:40:06",
+    "modifications": [
+      "resized to 780x522",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: suksim (Flickr), CC BY 2.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/market-1.webp",
+    "subject": "Gwangjang Market food alley",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
+    "author": "Bgag",
+    "license": "CC0 1.0 (Public Domain Dedication)",
+    "license_tag_on_file_page": "{{self|cc-zero}}",
+    "original_date": "2022-09-26",
+    "modifications": [
+      "resized to 780x436",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Bgag, CC0 1.0 (Public Domain Dedication), via Wikimedia Commons",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/market-2.webp",
+    "subject": "Jeon (pancakes) at a Gwangjang Market stall",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul,_Jongno_District,_Gwangjang_Market,_Jeon.jpg",
+    "author": "Dr. Thomas Liptak",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "{{Taken on|2026-09-28 17:39:30|location=",
+    "modifications": [
+      "cropped",
+      "resized to 780x302",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/jeju-1.webp",
+    "subject": "Seongsan Ilchulbong from the air (2006 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_from_the_air.jpg",
+    "author": "Korea.net / Korean Culture and Information Service",
+    "license": "CC BY-SA 2.0",
+    "license_tag_on_file_page": "{{Korea.net}} = {{Cc-by-sa-2.0|Korea.net / Korean Culture and Information Service (Photographer name)}}",
+    "original_date": "2006-10-18 17:22",
+    "modifications": [
+      "resized to 780x508",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/jeju-2.webp",
+    "subject": "Seongsan Ilchulbong at blue hour, hydrangeas in front",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_in_front_of_Seongsan_Ilchulbong_volcano_at_blue_hour_in_Jeju_Island_South_Korea.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-06-16 20:09:35",
+    "modifications": [
+      "resized to 780x488",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Basile Morin, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/busan-1.webp",
+    "subject": "Haeundae Beach, Busan",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Busan_City_Haeundae_Beach.jpg",
+    "author": "Busan Metropolitan City (부산광역시)",
+    "license": "KOGL Type 1 (공공누리 제1유형)",
+    "license_tag_on_file_page": "{{KOGL Type 1|1=부산광역시}}",
+    "original_date": "2024-09-15",
+    "modifications": [
+      "resized to 780x450",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Busan Metropolitan City (부산광역시), KOGL Type 1 (공공누리 제1유형), via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "note": "KOGL Type 1 (공공누리 제1유형): attribution required, modification and commercial use allowed. Listed on Commons; check the original source (Busan city) before publishing if strictness required."
+  },
+  {
+    "file": "static/photo/busan-2.webp",
+    "subject": "Busan Station main hall (2018 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Busan_Station_Busan_(31885854218).jpg",
+    "author": "bryansjs (Flickr)",
+    "license": "CC BY-SA 2.0",
+    "license_tag_on_file_page": "{{cc-by-sa-2.0}}",
+    "original_date": "2018-10-16 16:51",
+    "modifications": [
+      "cropped",
+      "resized to 780x327",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: bryansjs (Flickr), CC BY-SA 2.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/ktx-1.webp",
+    "subject": "KTX-Sancheon high-speed train",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:KTX-Sancheon.jpg",
+    "author": "Minseong Kim (IMKSv)",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2014-12-02",
+    "modifications": [
+      "resized to 780x449",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Minseong Kim (IMKSv), CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/winter-1.webp",
+    "subject": "Gyeongbokgung covered with snow (January 2010)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Palace_covered_with_snow_(4271054304).jpg",
+    "author": "Korea.net / Korean Culture and Information Service",
+    "license": "CC BY-SA 2.0",
+    "license_tag_on_file_page": "{{Korea.net}} = {{Cc-by-sa-2.0|Korea.net / Korean Culture and Information Service (Photographer name)}}",
+    "original_date": "2010-01-13 14:46",
+    "modifications": [
+      "resized to 780x519",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/icn-t1-arrival.webp",
+    "subject": "Incheon Airport Terminal 1 arrival hall, seen from the upper level (2023)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_3.jpg",
+    "author": "ノボホショコロトソ",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+    "original_date": "2023-09-28 14:33:15",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "1 detected face(s) blurred",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: ノボホショコロトソ, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/arex-allstop-concourse.webp",
+    "subject": "AREX all-stop (local) train concourse, Incheon Airport Terminal 1 Station, B1 (2024)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-17 19:52:05",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "1 detected face(s) blurred",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/tmoney-card.webp",
+    "subject": "T-money transit card, older design (2010 scan)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:T-money_card.jpg",
+    "author": "zisk",
+    "license": "Public domain (PD-self: released by the author)",
+    "license_tag_on_file_page": "{{PD-self}}",
+    "original_date": "2010-01-24",
+    "modifications": [
+      "kept at 499x316",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: zisk, Public domain, via Wikimedia Commons (modified: light auto-contrast)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/airport-to-seoul-gates.webp",
+    "subject": "Annotated: AREX all-stop concourse, Terminal 1 Station (ticket machines, gates, Express sign)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-17 19:52:05",
+    "modifications": [
+      "cropped",
+      "resized to 780x344",
+      "light auto-contrast",
+      "1 area blurred (face, manual)",
+      "numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast, 1 area blurred (face, manual), numbered red boxes added)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/airport-to-seoul-platform.webp",
+    "subject": "Annotated: AREX all-stop platform 2 sign, Terminal 1 Station (2024)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-17 19:53:25",
+    "modifications": [
+      "cropped to the platform sign (from the full-size original)",
+      "resized to 780x269",
+      "light auto-contrast",
+      "numbered red box added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped to the platform sign (from the full-size original), light auto-contrast, numbered red box added)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/seoul-taxi.webp",
+    "subject": "Seoul taxis at night (2015); regular taxis, not the International Taxi",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_taxis_01.jpg",
+    "author": "Ilya Plekhanov",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2015-08-08",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "1 area(s) blurred (faces/plates, manual)",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Ilya Plekhanov, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 area(s) blurred (faces/plates, manual))",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/oy-myeongdong-passport-sign.webp",
+    "subject": "Olive Young Myeongdong checkout counters with the lit sign 'Please prepare your physical passport (for immediate tax refund)'",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-08-19 11:33:27",
+    "modifications": [
+      "cropped (left half, middle band, people's heads excluded)",
+      "resized to 780x403",
+      "light auto-contrast",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (left half, middle band, people's heads excluded), resized to 780x403, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/oy-wonju-till-marked.webp",
+    "subject": "Olive Young Wonju Dangu branch: checkout counter (marked 1), service desk",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "author": "Choi Kwang-mo",
+    "license": "CC0",
+    "license_tag_on_file_page": "{{self|cc-zero|FAL}}",
+    "original_date": "2020-04-17 22:17:43",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "red box and number 1 added",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: resized to 780x585, light auto-contrast, red box and number 1 added)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/oy-wonju-counter-marked.webp",
+    "subject": "Olive Young Wonju Dangu branch: checkout counter (marked 1) and a round sale sticker (marked 2)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "author": "Choi Kwang-mo",
+    "license": "CC0",
+    "license_tag_on_file_page": "{{self|cc-zero|FAL}}",
+    "original_date": "2020-04-17 22:17:43",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "red boxes and numbers 1-2 added",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: resized to 780x585, light auto-contrast, red boxes and numbers 1-2 added)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/oy-wonju-tags-marked.webp",
+    "subject": "Olive Young Wonju Dangu branch: shelf edge with a pink promotion tag (marked 1) and a regular price tag (marked 2)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.18.09_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "author": "Choi Kwang-mo",
+    "license": "CC0",
+    "license_tag_on_file_page": "{{self|cc-zero|FAL}}",
+    "original_date": "2020-04-17 22:18:09",
+    "modifications": [
+      "cropped from the 1920px Commons thumbnail (top-left shelf edge)",
+      "resized to 780x253",
+      "light auto-contrast",
+      "red boxes and numbers 1-2 added",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: cropped, light auto-contrast, red boxes and numbers added)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/oy-pick-sunscreen.webp",
+    "subject": "Sunscreen pack label showing SPF50+ (marked 1) and PA+++ (marked 2); a Japanese brand (Anessa), used only as a label-reading example",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Japanese_sunscreen.jpg",
+    "author": "Yiting",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2020-07-23",
+    "modifications": [
+      "cropped (top of pack)",
+      "resized to 780x588",
+      "light auto-contrast",
+      "red boxes and numbers 1-2 added",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Yiting, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (top of pack), resized to 780x588, light auto-contrast, red boxes and numbers 1-2 added)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible on the pack; captions say it is a label example, not a recommendation."
+  },
+  {
+    "file": "static/photo/oy-pick-sheet-mask.webp",
+    "subject": "A single sheet mask in its flat foil pouch (A.H.C brand visible)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:PX%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9.jpg",
+    "author": "김인겸 (Kim In-gyeom)",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2021-12-23 00:16:19",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: 김인겸 (Kim In-gyeom), CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 780x585, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible; captions describe the format only."
+  },
+  {
+    "file": "static/fig/seoul-subway-hero.webp",
+    "subject": "Ticket gates and Way Out sign, Myeongdong Station (Line 4)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+    "original_date": "2018-11-24",
+    "modifications": [
+      "resized to 780x439",
+      "light auto-contrast",
+      "2 people blurred (manual)",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 780x439, light auto-contrast, 2 people blurred (manual), converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license. Used instead of static/photo/subway-1.webp because that version shows a flat grey block where a false face detection was blurred."
+  },
+  {
+    "file": "static/fig/seoul-subway-exit-sign.webp",
+    "subject": "Way Out sign with numbered exits and machine pointer, Myeongdong Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+    "original_date": "2018-11-24",
+    "modifications": [
+      "cropped from the 1920px thumbnail",
+      "resized to 780x166",
+      "3 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, numbers added)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/fig/seoul-subway-gate.webp",
+    "subject": "Ticket gates with card readers, Konkuk Univ. Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg",
+    "author": "revi",
+    "license": "CC BY 2.0 KR",
+    "license_tag_on_file_page": "{{self|Cc-by-2.0-kr|FAL|attribution=revi}}",
+    "original_date": "2013-06-07",
+    "modifications": [
+      "cropped",
+      "resized to 780x556",
+      "6 areas blurred (people, manual)",
+      "2 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: revi, CC BY 2.0 KR, via Wikimedia Commons (modified: cropped, resized to 780x556, 6 areas blurred (people, manual), 2 numbered red boxes added, converted to WebP q82)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/seoul-subway-machine.webp",
+    "subject": "Ticket vending and card reload machine (Korail-run station)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
+    "author": "LandAndTree",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+    "original_date": "2024-07-13",
+    "modifications": [
+      "cropped",
+      "resized to 716x844",
+      "4 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 716x844, 4 numbered red boxes added, converted to WebP q82)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "note": "Soraepogu Station, Incheon (Korail) per the Commons description. No longer used on seoul-subway (replaced by -machine-yongsan and -machine-closeup)."
+  },
+  {
+    "file": "static/fig/seoul-subway-platform-sign.webp",
+    "subject": "Line 2 platform station sign, Jamsil Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg",
+    "author": "阿貴",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+    "original_date": "2014-08-13",
+    "modifications": [
+      "cropped",
+      "resized to 780x257",
+      "2 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: 阿貴, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 780x257, 2 numbered red boxes added, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/fig/seoul-subway-refund.webp",
+    "subject": "Single-journey ticket deposit refund machine",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_subway_single_use_card_deposit_refund_machine.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-08-18",
+    "modifications": [
+      "cropped",
+      "resized to 600x951",
+      "3 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 600x951, 3 numbered red boxes added, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/fig/seoul-subway-pink-seat.webp",
+    "subject": "Pink seat for pregnant women and floor sign, Seoul subway car (2018; file title says Line 1, file categories say Line 3 / Seoul Metro Class 3000)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg",
+    "author": "Garam",
+    "license": "Attribution",
+    "license_tag_on_file_page": "{{Attribution|1=User:Garam}}",
+    "original_date": "2018-03-31",
+    "modifications": [
+      "cropped",
+      "resized to 780x585",
+      "2 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Garam, Attribution licence, via Wikimedia Commons (modified: cropped, 2 numbered red boxes added)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "license_text_on_file_page": "The copyright holder of this file, User:Garam, allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted."
+  },
+  {
+    "file": "static/fig/seoul-subway-priority-seat.webp",
+    "subject": "Priority seats at the end of a Seoul Metro car",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG",
+    "author": "hyolee2",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
+    "original_date": "",
+    "modifications": [
+      "cropped",
+      "resized to 560x635",
+      "advertising poster with a face blurred",
+      "2 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 560x635, advertising poster with a face blurred, 2 numbered red boxes added, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/fig/seoul-bus-stop-display.webp",
+    "subject": "Seoul bus stop real-time arrival display",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Bus_Info_in_the_Bus_Stop.jpg",
+    "author": "Wikiwater2020",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+    "original_date": "2021-06-20",
+    "modifications": [
+      "cropped",
+      "resized to 780x323",
+      "1 numbered red box added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 780x323, 1 numbered red box added, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/fig/seoul-bus-front.webp",
+    "subject": "Seoul blue bus route 105: front route number and front door",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png",
+    "author": "Ki hoon",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "(see static/photo/bus-1.webp entry)",
+    "original_date": "",
+    "modifications": [
+      "made from static/photo/bus-1.webp (light auto-contrast, driver and plate blurred)",
+      "2 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Ki hoon, CC BY-SA 4.0, via Wikimedia Commons (modified: made from static/photo/bus-1.webp (light auto-contrast, driver and plate blurred), 2 numbered red boxes added, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/fig/seoul-bus-reader-front.webp",
+    "subject": "Bus boarding card reader (2012 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg",
+    "author": "Wnstlr93 (Korean Wikipedia)",
+    "license": "CC BY 3.0",
+    "license_tag_on_file_page": "{{cc-by-3.0}}",
+    "original_date": "2012-01-04",
+    "modifications": [
+      "cropped",
+      "resized to 600x686",
+      "auto-contrast and brightened",
+      "1 numbered red box added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Wnstlr93 (Korean Wikipedia), CC BY 3.0, via Wikimedia Commons (modified: cropped, resized to 600x686, auto-contrast and brightened, 1 numbered red box added, converted to WebP q82)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/seoul-bus-reader-rear.webp",
+    "subject": "Bus rear-door (transfer/tap-off) card reader (2012 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg",
+    "author": "Wnstlr93 (Korean Wikipedia)",
+    "license": "CC BY 3.0",
+    "license_tag_on_file_page": "{{cc-by-3.0}}",
+    "original_date": "2012-01-04",
+    "modifications": [
+      "cropped",
+      "resized to 600x521",
+      "auto-contrast",
+      "3 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Wnstlr93 (Korean Wikipedia), CC BY 3.0, via Wikimedia Commons (modified: cropped, resized to 600x521, auto-contrast, 3 numbered red boxes added, converted to WebP q82)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/bus-yellow-1.webp",
+    "subject": "Seoul yellow (circular) bus, route 05",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG",
+    "author": "hyolee2",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0|GFDL}}",
+    "original_date": "",
+    "modifications": [
+      "resized to 640x516",
+      "light auto-contrast",
+      "1 area blurred (plate, manual)",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: hyolee2, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 640x516, light auto-contrast, 1 area blurred (plate, manual), converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/bus-red-1.webp",
+    "subject": "Seoul red (wide-area) bus, route 9401",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg",
+    "author": "Wikiwater2020",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+    "original_date": "2019-04-29",
+    "modifications": [
+      "resized to 640x480",
+      "light auto-contrast",
+      "2 areas blurred (plates, manual)",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: resized to 640x480, light auto-contrast, 2 areas blurred (plates, manual), converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/bus-airport-1.webp",
+    "subject": "Airport limousine bus, route 6000 (2009 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Airport_Bus_6000.jpg",
+    "author": "Baek Seung Woon",
+    "license": "CC BY-SA 2.0 KR",
+    "license_tag_on_file_page": "{{self|cc-by-sa-2.0-kr}}",
+    "original_date": "2009-07-24",
+    "modifications": [
+      "resized to 640x480",
+      "light auto-contrast",
+      "3 areas blurred (plate, driver, pedestrian; manual)",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Baek Seung Woon, CC BY-SA 2.0 KR, via Wikimedia Commons (modified: resized to 640x480, light auto-contrast, 3 areas blurred (plate, driver, pedestrian; manual), converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/oy-myeongdong-sign-closeup.webp",
+    "subject": "Close-up of the lit till sign at Olive Young Myeongdong: Please prepare your physical passport (for immediate tax refund)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-08-19 11:33:27",
+    "modifications": [
+      "cropped (close-up of the sign band)",
+      "resized to 780x192",
+      "light auto-contrast",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (close-up of the sign band), resized to 780x192, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/oy-myeongdong-entrance.webp",
+    "subject": "Olive Young Myeongdong checkout lanes with the passport sign and an Entrance marker (no faces in frame)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-08-19 11:33:27",
+    "modifications": [
+      "cropped (right half, middle band)",
+      "resized to 780x366",
+      "light auto-contrast",
+      "converted to WebP"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (right half, middle band), resized to 780x366, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+  },
+  {
+    "file": "static/photo/express-cabin.webp",
+    "subject": "AREX Express train interior, reserved seats (2020)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg",
+    "author": "Bonnielou2013",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "6 March 2020, 10:44:01",
+    "modifications": [
+      "cropped",
+      "resized to 780x971",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Bonnielou2013, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/limousine-6010.webp",
+    "subject": "Airport limousine bus, route 6010, in Seoul (2015 photo)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_Airport_Limousine_6010.JPG",
+    "author": "hyolee2",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
+    "original_date": "2015-03-29",
+    "modifications": [
+      "resized to 780x585",
+      "light auto-contrast",
+      "1 detected face(s) blurred",
+      "1 area(s) blurred (faces/plates, manual)",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred, 1 area(s) blurred (faces/plates, manual))",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/airport-to-seoul-b1.webp",
+    "subject": "Annotated: AREX Express concourse, Terminal 1 Station B1 (Express Train sign, ticket machines)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-17 19:45:54",
+    "modifications": [
+      "resized",
+      "light auto-contrast",
+      "numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, numbered red boxes added)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/arex-platform-wide.webp",
+    "subject": "AREX platform 1/2, Incheon Airport Terminal 1 Station (2024)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg",
+    "author": "MNXANL",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+    "original_date": "2024-03-17 19:53:25",
+    "modifications": [
+      "cropped",
+      "resized to 780x492",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/seoul-subway-machine-yongsan.webp",
+    "subject": "Ticket vending and top-up machines, Yongsan Station, Seoul (Line 1, Korail)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
+    "author": "YKJJ",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+    "original_date": "2023-01-24",
+    "modifications": [
+      "cropped",
+      "resized to 780x536",
+      "2 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: YKJJ, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 780x536, 2 numbered red boxes added, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/seoul-subway-machine-closeup.webp",
+    "subject": "Close-up of a ticket/top-up machine, Soraepogu Station, Incheon (Korail)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
+    "author": "LandAndTree",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+    "original_date": "2024-07-13",
+    "modifications": [
+      "cropped",
+      "resized to 710x547",
+      "3 numbered red boxes added",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 710x547, 3 numbered red boxes added, converted to WebP q82)",
+    "share_alike": false,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/fig/seoul-subway-exit-zoom.webp",
+    "subject": "Exit numbers 9 and 10 on the Way Out sign, Myeongdong Station",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+    "original_date": "2018-11-24",
+    "modifications": [
+      "cropped",
+      "enlarged to 780x146",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, enlarged to 780x146, converted to WebP q82)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/bus-blue-2.webp",
+    "subject": "Seoul blue (trunk) bus, route 720 (2019)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg",
+    "author": "Wikiwater2020",
+    "license": "CC BY-SA 3.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+    "original_date": "2019-03-06",
+    "modifications": [
+      "resized to 640x480",
+      "light auto-contrast",
+      "2 areas blurred (plate, driver; manual)",
+      "converted to WebP q82"
+    ],
+    "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, plate and driver blurred)",
+    "share_alike": true,
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/icn-t1-departure-hall-4.webp",
+    "subject": "Incheon Airport Terminal 1, entrance to Departure Hall 4 (hall number and gate map sign), 2024",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_airport_departure_gate_access.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-sa-4.0}} (source={{own}}), checked via action=raw 2026-11-26",
+    "original_date": "2024-09-01 20:13:18",
+    "modifications": [
+      "cropped to top 760px of 1280px thumbnail",
+      "resized to 780x463",
+      "light auto-contrast",
+      "red boxes and numbers 1-2 added",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, auto-contrast, boxes and numbers added)",
+    "share_alike": true,
+    "used_on": [
+      "duty-free (ko, en, ja, zh-tw) hero"
+    ],
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/lotte-dfs-myeongdong-night.webp",
+    "subject": "Lotte Duty Free main store building, Myeongdong, at night (2023)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Night_view_of_Lotte_Duty_Free_Shop.jpg",
+    "author": "Leeinm",
+    "license": "CC BY 4.0",
+    "license_tag_on_file_page": "{{self|cc-by-4.0}} (source={{own}}), checked via action=raw 2026-11-26",
+    "original_date": "2023-12-19 19:15:07",
+    "modifications": [
+      "resized to 780x520",
+      "light auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Leeinm, CC BY 4.0, via Wikimedia Commons (modified: resized, auto-contrast)",
+    "share_alike": false,
+    "used_on": [
+      "duty-free (ko, en, ja, zh-tw) downtown section"
+    ],
+    "retrieved": "2026-11-26",
+    "note": "Building exterior in a public street; store signage visible (trademark, descriptive use only)."
+  },
+  {
+    "file": "static/photo/customs-allowance-ko.webp",
+    "subject": "Screenshot (cropped): Korea Customs Service, traveler personal goods page, duty-free allowance section, annotated 1-3",
+    "source_site": "customs.go.kr (Korea Customs Service, central government agency)",
+    "source_url": "https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&cntntsId=829",
+    "author": "Korea Customs Service",
+    "license": "Public work by a state agency, free use under Copyright Act Art. 24-2(1) (owner rule 2026-11-26: state/local-government screens allowed when cropped and edited)",
+    "original_date": "captured 2026-11-26 (Playwright, 390x844 mobile, deviceScaleFactor 2)",
+    "modifications": [
+      "cropped to the allowance section only",
+      "red boxes and numbers 1-3 added",
+      "converted to WebP q82, 780x448"
+    ],
+    "attribution": "Screen: Korea Customs Service (customs.go.kr), captured 2026-11-26, cropped and annotated",
+    "share_alike": false,
+    "used_on": [
+      "duty-free (ko, en, ja, zh-tw) allowance section"
+    ],
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/myeongdong-night-market-2024.webp",
+    "subject": "Myeongdong main street at night with cosmetics shops and food stalls (2024)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_1.jpg",
+    "author": "Sgroey",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "license_tag_on_file_page": "LicenseShortName from Commons API extmetadata, 2026-11-26",
+    "original_date": "2024-08-21 20:21:47",
+    "modifications": [
+      "light auto-contrast",
+      "resized to 780x585",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified)",
+    "share_alike": true,
+    "used_on": [
+      "shopping-streets hero (4 langs)"
+    ],
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/hongik-exit-9.webp",
+    "subject": "Hongik University Station exit 9 with subway pole sign (station 239) and exit-number sign",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hongik_University_Station_exit_9.jpg",
+    "author": "Jonathan Kramer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "license_tag_on_file_page": "LicenseShortName from Commons API extmetadata, 2026-11-26",
+    "original_date": "Taken on 27 June 2013",
+    "modifications": [
+      "cropped to sign area (x0-760, y70-440 of 1280px thumb)",
+      "light auto-contrast",
+      "red boxes and numbers 1-2 added",
+      "resized to 760x370",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Jonathan Kramer, CC BY-SA 3.0, via Wikimedia Commons (modified)",
+    "share_alike": true,
+    "used_on": [
+      "shopping-streets exit-number section (4 langs)"
+    ],
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/seongsu-yeonmujang-gil.webp",
+    "subject": "Yeonmujang-gil street, Seongsu-dong",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg",
+    "author": "Dr. Thomas Liptak",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "license_tag_on_file_page": "LicenseShortName from Commons API extmetadata, 2026-11-26",
+    "original_date": "Taken on 30 September 2026, 11:44:04",
+    "modifications": [
+      "cropped (y420-1380 of 1280x1920 thumb)",
+      "light auto-contrast",
+      "resized to 780x585",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Dr. Thomas Liptak, CC BY-SA 4.0, via Wikimedia Commons (modified)",
+    "share_alike": true,
+    "used_on": [
+      "shopping-streets Seongsu (4 langs)"
+    ],
+    "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/hongdae-street-2026.webp",
+    "subject": "Main road near Hongik Univ. Station, Hongdae (2026)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:Hongdae_Street_02.jpg",
+    "author": "Qhairy",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_tag_on_file_page": "LicenseShortName from Commons API extmetadata, 2026-11-26",
+    "original_date": "2026-06-20 07:51:32",
+    "modifications": [
+      "light auto-contrast",
+      "resized to 780x585",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Qhairy, CC BY 4.0, via Wikimedia Commons (modified)",
+    "share_alike": false,
+    "used_on": [
+      "shopping-streets Hongdae (4 langs)"
+    ],
+    "retrieved": "2026-11-26"
+  }
 ]
