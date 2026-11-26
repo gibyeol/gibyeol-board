@@ -49,7 +49,7 @@ updated: 2026-11-27
 
 <h2 id="luggage">짐을 맡기고 싶을 때</h2>
 
-<ul class="tr-choose tr-compare"><li><i class="ic ic-package" aria-hidden="true"></i><b>몇 시간, 아무 역에서나</b><ul class="tr-kv"><li><b>어디</b> 지하철역 무인 보관함 '또타라커'</li><li><b>요금</b> 4시간 2,200~4,400원(주중)</li><li><b>필요</b> 휴대폰만(보관함 QR → 웹)</li><li><b>바로 가기</b> <a href="#locker">보관함 쓰는 법</a></li></ul></li><li><i class="ic ic-users" aria-hidden="true"></i><b>큰 캐리어, 직원에게</b><ul class="tr-kv"><li><b>어디</b> '또타러기지' 7개 역(서울역·명동·홍대입구 등)</li><li><b>요금</b> 4시간 3,000~9,000원(주중)</li><li><b>덤</b> 인천공항까지 당일 배송도</li><li><b>바로 가기</b> <a href="#tluggage">서울역에서 찾기</a></li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항에서</b><ul class="tr-kv"><li><b>1터미널</b> 3층 B·N 체크인 카운터 근처</li><li><b>2터미널</b> 3층 서편 1번 게이트 근처</li><li><b>요금</b> 확인하지 못했어요</li><li><b>바로 가기</b> <a href="#airport">공항에서 찾기</a></li></ul></li><li><i class="ic ic-hotel" aria-hidden="true"></i><b>체크아웃 뒤 저녁 비행기</b><ul class="tr-kv"><li><b>먼저</b> 숙소 프런트에 맡아 주는지 물어봐요</li><li><b>안 되면</b> 위 셋 중 동선에 맞는 곳</li></ul></li></ul>
+<ul class="tr-choose tr-compare"><li><i class="ic ic-package" aria-hidden="true"></i><b>몇 시간, 아무 역에서나</b><ul class="tr-kv"><li><b>어디</b> 지하철역 무인 보관함 '또타라커'</li><li><b>요금</b> 4시간 2,200~4,400원(주중)</li><li><b>필요</b> 휴대폰만(보관함 QR → 웹)</li><li><b>바로 가기</b> <a href="#locker">보관함 쓰는 법</a></li></ul></li><li><i class="ic ic-users" aria-hidden="true"></i><b>큰 캐리어, 직원에게</b><ul class="tr-kv"><li><b>어디</b> '또타러기지' 6개 역(서울역·명동·홍대입구 등)</li><li><b>요금</b> 4시간 3,000~9,000원(주중)</li><li><b>덤</b> 인천공항 2터미널까지 당일 배송</li><li><b>바로 가기</b> <a href="#tluggage">서울역에서 찾기</a></li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항에서</b><ul class="tr-kv"><li><b>1터미널</b> 3층 B·N 체크인 카운터 근처</li><li><b>2터미널</b> 3층 서편 1번 게이트 근처</li><li><b>요금</b> 2터미널 하루 5,000원부터(한진), 1터미널은 확인 못 함</li><li><b>바로 가기</b> <a href="#airport">공항에서 찾기</a></li></ul></li><li><i class="ic ic-hotel" aria-hidden="true"></i><b>체크아웃 뒤 저녁 비행기</b><ul class="tr-kv"><li><b>먼저</b> 숙소 프런트에 맡아 주는지 물어봐요</li><li><b>안 되면</b> 위 셋 중 동선에 맞는 곳</li></ul></li></ul>
 
 <h3 class="tr-step" id="locker"><span class="n">1</span><i class="ic ic-package" aria-hidden="true"></i>지하철역 무인 보관함(또타라커)</h3>
 
@@ -77,21 +77,31 @@ updated: 2026-11-27
 
 <h3 class="tr-step" id="tluggage"><span class="n">2</span><i class="ic ic-users" aria-hidden="true"></i>직원 짐 보관소(또타러기지): 서울역에서 찾기</h3>
 
-<ul class="tr-kv"><li><b>있는 역</b> 서울역, 명동, 홍대입구, 잠실, 종로3가, 수서, 김포공항</li><li><b>보관(주중 4시간)</b> S(~20인치) 3,000원 · M(20~23인치) 4,000원 · L(23~27인치) 6,000원 · XL(27인치~) 9,000원</li><li><b>넘으면</b> 1시간마다 1,000원</li><li><b>배송</b> 역 → 인천공항 당일 20,000~31,000원</li><li><b>언어</b> 영어·중국어·일본어 안내</li></ul>
+<ul class="tr-kv"><li><b>있는 역</b> 서울역, 명동, 홍대입구, 종로3가, 잠실, 김포공항</li><li><b>시간</b> 09:00~22:00</li><li><b>보관 4시간(주중)</b> S 3,000원 · M 4,000원 · L 6,000원 · XL 9,000원</li><li><b>보관 4시간(주말)</b> S 4,000원 · M 6,000원 · L 9,000원 · XL 13,000원</li><li><b>크기</b> S ~20인치 · M 20~23인치 · L 23~27인치 · XL 27인치~</li><li><b>넘으면</b> 1시간마다 1,000원</li><li><b>결제</b> 현금·카드</li><li><b>전화</b> 02-6110-2977</li></ul>
 
 1. **지금 내가 있는 곳:** 1호선 또는 4호선 서울역 개찰구 안팎.
-2. **갈 방향:** '공항철도·KTX' 갈아타는 통로 표지를 따라가요. 지하 1층이에요.
+2. **갈 방향:** '공항철도·KTX' 갈아타는 통로 표지를 따라가요. 지하 1층이에요(누리집 위치: 지하 1층, 1번 출구에서 2번 출구 쪽).
 3. **맞게 왔다면 보이는 것:** 통로 한쪽의 파란 간판 **T-Luggage**, 그 아래 **METRO Carrier Service**와 배송(Delivery)·보관(Storage)·픽업(Pick-up) 아이콘.
 4. **바로 옆:** 무인 자동 보관소 **T-Luggage Auto**. 붙어 있는 QR로 예약·결제하고 키오스크에 짐을 넣어요(안내 문구 "Wheels to the left": 바퀴를 왼쪽으로).
-5. **운영:** 서울역 매장 09:00~22:00(2026년 11월 기사). 직접 가서 맡기거나 [또타러기지 누리집](https://tluggage.co.kr/)에서 예약해요.
+5. **맡기기:** 창구에 그냥 가서 맡기거나 [또타러기지 누리집](https://tluggage.co.kr/)에서 '보관예약'. 누리집은 한국어·영어·중국어·일본어.
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>마지막 날 동선:</b> 서울역에서 캐리어를 인천공항으로 당일 배송 보내고 빈손으로 다녀요. 공항에서 찾는 곳·마감 시각은 확인하지 못했어요. 맡길 때 받는 안내에서 꼭 확인해요.</span></aside>
+<h4 id="to-airport">캐리어를 인천공항으로 먼저 보내기 (2터미널만)</h4>
 
-<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>요금·시간의 출처와 차이</summary>
+1. **내 터미널 확인:** 항공권(e-티켓)에 **2터미널(T2)**이라고 적혀 있어야 해요. 1터미널에는 받아 주는 한진택배 영업소가 없어서 안 돼요.
+2. **맡기기:** 전날까지 [또타러기지 누리집](https://tluggage.co.kr/)에서 '배송예약'(항공편명 필요), 또는 당일 **09:00~12:00**에 위 6개 역 창구에 직접.
+3. **요금(1개):** 주중 S·M 20,000원 · L 26,000원 · XL 31,000원 / 주말 29,000원 · 38,000원 · 45,000원.
+4. **공항에서 찾기:** 2터미널 **3층 서편 1번 게이트 근처 한진택배**, **16:30~21:00**. 아래 '인천공항에서 맡기기'의 2터미널 3층 창구와 같은 곳이에요.
 
-- 요금과 7개 역은 서울시 '내 손안에 서울' 시민기자 기사(2025년 3월 11일)에 실린 숫자예요. 운영사 누리집(tluggage.co.kr)은 열지 못해 대조하지 못했어요.
-- 운영 시간: 2025년 3월 기사는 10:00~22:00, 2026년 11월 서울역 기사는 09:00~22:00. 역마다 다를 수 있어요.
-- 서울 시내 역끼리 당일 배송은 17,000~31,000원(같은 2025년 기사).
+<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>두 안내가 달라요.</b> 또타러기지 예약 화면에는 "2시까지 입고된 물품은 당일 4시까지 배송", 도착지 1·2터미널로 적혀 있어요. 한진택배 안내는 접수 09:00~12:00, 1터미널 불가예요. 맡길 때 직원에게 "2터미널, 몇 시부터 찾을 수 있어요?"를 꼭 물어요.</span></aside>
+
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>다른 역 위치, 역끼리 배송, 못 맡기는 것, 취소</summary>
+
+- **역별 위치(누리집):** 명동 1·9·10번 출구 쪽 지하 1층 · 홍대입구 2호선 지하 1층 공항철도 연결통로(영문 안내: 2·3번 출구 사이) · 종로3가 5호선 지하 1층 6번 출구 쪽 · 잠실 3·4번 출구 쪽 지하 1층 · 김포공항 5호선 지하 1층 국제선 방향.
+- **공항 → 역(도착한 날):** 2터미널 한진택배에 09:00~14:00 맡기면 고른 역 창구에서 18:00~22:00에 찾아요(한진 안내).
+- **역끼리 당일 배송(1개):** 주중 S·M 17,000원 · L 26,000원 · XL 31,000원 / 주말 25,000원 · 38,000원 · 45,000원.
+- **못 맡기는 것(약관):** 귀금속·현금, 깨지기 쉬운 것, 상하는 것, 전자기기(노트북·카메라·아이패드·휴대폰 등) 등. 맡긴 짐 배상은 최대 50만 원.
+- **예약 취소:** 이용 3일 전보다 일찍 100% 환불, 1~3일 전 50%, 전날·당일은 환불 안 돼요.
+- **출처 차이:** 2025년 3월 시민기자 기사는 수서역까지 7개 역, 10:00~22:00. 누리집 지점 버튼은 6개 역이고, 상세 설명에만 강남역·수서역이 있어요. 강남역·수서역은 가기 전에 02-6110-2977로 확인해요.
 
 </details>
 
@@ -106,16 +116,18 @@ updated: 2026-11-27
 3. **B 카운터 근처: 짐캐리** 07:00~21:00 (010-8040-8215)
 4. **N 카운터 근처: 짐캐리(24시간)** (010-8168-8215). 밤늦게 도착했으면 이쪽.
 
+<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>1터미널 짐캐리 요금은 확인하지 못했어요.</b> 짐캐리 누리집이 연결되지 않았어요. 맡기기 전에 창구에서 1일 요금을 물어보거나 위 번호로 전화해요.</span></aside>
+
 **2터미널** — 같은 층 또는 3층.
 
 1. 1층 **서편 끝 1번 게이트 근처: 한진택배** 07:00~21:00 (032-743-5834). 코트룸(외투 보관) 출고는 24시간.
 2. 21시가 넘었으면 3층 **서편 1번 게이트 근처 '택배·보관·포장존': 한진택배(24시간)** (032-743-5835).
 
-<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>요금은 공항 공식 안내에 없어요.</b> 맡기기 전에 창구에서 1일 요금을 물어보거나 위 번호로 전화해요.</span></aside>
+<ul class="tr-kv"><li><b>한진 보관 요금(하루, 24시간 안)</b> 소 5,000원 · 중 6,000원 · 대 7,000원 · 특대 10,000원 · 초특대 12,000원 · 세 변 합 180cm 넘으면 20,000원</li><li><b>4시간 안</b> 세 변 합 180cm 이하 5,000원</li><li><b>크기 기준</b> 소 ~1kg·~90cm · 중 ~10kg·~120cm · 대 ~20kg·~140cm · 특대 ~30kg·~160cm · 초특대 30kg~·~180cm (cm는 가로+세로+높이)</li><li><b>못 맡기는 것</b> 냉동·냉장 상품</li></ul>
 
 ## 자주 하는 실수
 
-<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>빌린 보조배터리를 들고 버스·비행기 타기.</b> 반납은 대여기에서만 돼요. 타기 전에 꽂아요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>보관함에 빈 칸이 있는지 안 보고 가기.</b> 앱 지도에서 빈 칸을 먼저 봐요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>4시간이 기본인 줄 모르고 오래 두기.</b> 넘으면 1시간마다 500~1,000원(무인 보관함), 1,000원(직원 보관소)이 붙어요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>음식·귀중품 맡기기.</b> 무인 보관함은 귀중품·음식·동식물·위험물을 못 넣어요.</span></li></ul>
+<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>빌린 보조배터리를 들고 버스·비행기 타기.</b> 반납은 대여기에서만 돼요. 타기 전에 꽂아요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>보관함에 빈 칸이 있는지 안 보고 가기.</b> 앱 지도에서 빈 칸을 먼저 봐요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>4시간이 기본인 줄 모르고 오래 두기.</b> 넘으면 1시간마다 500~1,000원(무인 보관함), 1,000원(직원 보관소)이 붙어요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>1터미널 출발인데 공항으로 짐 배송 보내기.</b> 역 → 공항 배송은 2터미널에서만 받아요. 항공권의 터미널부터 봐요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>음식·귀중품 맡기기.</b> 무인 보관함은 귀중품·음식·동식물·위험물을 못 넣어요.</span></li></ul>
 
 <ul class="tr-next"><li><a href="/ko/convenience-store/"><i class="ic ic-store" aria-hidden="true"></i>편의점에서 할 수 있는 것<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/ko/seoul-subway/"><i class="ic ic-train-front" aria-hidden="true"></i>서울 지하철 타기<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/ko/departure-day/"><i class="ic ic-plane" aria-hidden="true"></i>출국하는 날: 보조배터리 규정<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li></ul>
 
