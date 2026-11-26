@@ -1,6 +1,6 @@
 ---
 title: Nadri: plan your Korea trip without the guesswork
-description: Entry forms, apps, money, shopping and sale dates for visiting Korea, checked against official sources and kept up to date.
+description: Entry forms, apps, money, shopping and sale dates in Korea, checked against official sources and kept up to date.
 home: yes
 updated: 2026-11-26
 ---
