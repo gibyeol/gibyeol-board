@@ -4,9 +4,9 @@ Writer: shopA subagent. Git read-only; coordinator commits.
 New photo catalog entries: drafts/photos-shopA.json. Substitutes: drafts/improvements-shopA.md.
 
 ## Status
-- [x] kbeauty-how-to-choose (ko, en, ja, zh-tw) — done 13:55 KST: top-down hero+facts, 4-step label reading (기능성화장품, SPF·PA, 전성분, 사용기한), sunscreen choice, 25 allergens, ad claims, where to buy/pay (Olive Young/Daiso/tax refund links), airport liquids; approved: removed; all old facts kept (source of SPF15 advice corrected to korea.kr 2024-05-13). Screenshots: scratchpad/shopA/ko_kbeauty-how-to-choose-*.png
-- [ ] daiso (ko, en, ja, zh-tw)
-- [ ] convenience-store (ko, en, ja, zh-tw)
+- [x] kbeauty-how-to-choose (ko, en, ja, zh-tw) — done: top-down hero+facts, 4-step label reading (기능성화장품, SPF·PA, 전성분, 사용기한), sunscreen choice, 25 allergens, ad claims, where to buy/pay (Olive Young/Daiso/tax refund links), airport liquids; approved: removed; all old facts kept (source of SPF15 advice corrected to korea.kr 2024-05-13). Screenshots: scratchpad/shopA/ko_kbeauty-how-to-choose-*.png
+- [x] daiso (ko, en, ja, zh-tw) — done. 5 new CC0 photos (storefront, floor guide, floor sign, price tags, chargers) in drafts/photos-shopA.json. Screenshots: scratchpad/shopA/*daiso*-full.png
+- [x] convenience-store (ko, en, ja, zh-tw) — done (all 3 pages finished by 14:33 KST, date command). 5 new photos (CU/GS25/7-Eleven/emart24 fronts, ramyeon wall). Screenshots: scratchpad/shopA/*convenience-store*-full.png
 
 ## Next improvements
 - kbeauty: real photo of a Korean box back label (see improvements-shopA.md); a photo of Olive Young tester counter.
@@ -40,3 +40,38 @@ convenience:
 - Korea Herald 10947683 (2026-11-24): 공항철도 티머니 1.5만원(카드 5천+1만), 해외카드 가능; 일반 티머니 충전은 대체로 현금.
 - Blocked today: cu.bgfretail.com, gs25.gsretail.com, eng.tmoney.co.kr, pay.tmoney.co.kr, biz.sbs.co.kr, mastercard.com, thumb.wikimedia.org (use upload.wikimedia.org).
 Photos found (Commons): Daiso Wonju Dangu/Hoengseong CC0 (Choi Kwang-mo, MatthieuRicard): floor guide 2020-03-17 21.40.56, 3F sign 21.39.49, 2F sign 21.40.13, exterior Hoengseong 12.55.48, chargers 12.54.12; CU Namdaemun-ro-5ga (LERK BY-SA 4.0); GS25 Okcheon Museong 2024 CC0; E-mart 24 Okcheon Mir 2024 CC0; 24 hours Ramyeon (lazy fri13th CC BY 2.0).
+
+## kbeauty-how-to-choose — principle check (re-checked after owner's 2026-11-26 bar)
+- 본질·근본 사용법: PASS — page teaches reading ANY Korean box (4 fixed legal items: 기능성화장품, SPF·PA, 전성분, 사용기한), with the Korean words to look for; works in any shop (intro of "30초 라벨 읽기").
+- 두괄식: PASS — first screen = title/lede + 2 buttons + real label photo (SPF/PA boxed) + 4 key facts; details collapsed (법 항목, 25 성분, 표, 선물, 출처).
+- A to Z (every verb): PASS — 찾기/읽기 steps 1–4 numbered; 확인(온라인)=의약품안전나라 path; 고르기(선크림)=3 cases; 사기/계산=Olive Young·Daiso·tax-refund links; 테스트=numbered 1–4; 짐 싸기=3 rules + departure-day link; 의사·약사 상담=health page link.
+- 따라 하기: PASS — at the shelf: flip box → find each Korean word → decide; what if mark missing (note), what if mini (details).
+- 길 찾기: N/A in-store layout not needed for label reading; price-tag location shown (photo "상품 바로 아래 선반").
+- 실사 우선: PARTIAL — real photos (sunscreen label, OY shelf tags); back-of-box is an SVG substitute → logged in improvements-shopA.md.
+- 블로그 수준 아님 / 접근성: short sentences, icons per element, numbered steps.
+- 사실 손실 없음: all old facts kept (law articles, 25 allergens thresholds, SPF/PA, MFDS 144/200, 82/100, airport 100mL/1L/500mL·2L/duty-free bag, ranking caveat, tester steps, gift, 12월 vs 해운대); added facts all from pages opened today; one source attribution corrected.
+
+## daiso — principle check
+- 본질·근본 사용법: PASS — teaches the repeatable routine for any branch: find (official store search → address/hours/services incl. 택스리펀드), read floor guide + ceiling sign, read shelf price tags, pay (card/cashless option, staffed till for tax refund, self-checkout QR), keep receipt (2-week rules), out of stock (stock check, 1522-4400, 1330).
+- 두괄식: PASS — first screen: lede, 2 buttons (찾기, 계산·택스리펀드), real storefront photo marking the sign, 4 facts (₩500–5,000, hours, passport+₩15,000, receipt 2 weeks).
+- A to Z (every verb): 찾기 = numbered 1–4 + link; 가기(명동역점) = exits 1/4 + address; 층 찾기 = floor-guide photo + ceiling sign + words; 가격 확인 = tag photo; 계산/택스리펀드 = numbered 1–3 + tax-refund link; 셀프 계산 = 1–3; 교환·환불 = rules; 재고 찾기 = link + phone; 도움 = 1330.
+- 따라 하기: PASS for a first-timer in a branch (what you see: sign, floor board, ceiling sign, tags; what if no QR → barcode → staff; what if not in stock).
+- 길 찾기: floor guide + ceiling sign photos (current floor, what's here, way to lift); Myeongdong 2023 floor list (checkout 1F). Street-level route from Myeongdong exits not drawn (only "between exits 1 and 4" + address) → next improvement.
+- 실사: 5 real CC0 photos (Wonju/Hoengseong branches, 2020 — older than today; layout differs by store, stated).
+- 사실: all old facts kept (6 prices, ownership 2023, 170 brands/1,900 products, sub-brands, Reedle Shot, sold out, snacks, souvenirs, travel items, Myeongdong 12F 500평 2nd largest, 2F beauty, multilingual guide, self-checkout QR, hours 10–22/09:30–22, Seollal/Chuseok, cards, stock 1522-4400, store finder, tax-refund stores list, ₩50,000→₩2,500). Updated: Myeongdong now B1–12F (store search), tax-refund store list now from official store-search filter.
+- Next improvements: drawn street map Myeongdong exits 1/4 → store; photo of a Daiso self-checkout screen and a staffed till with tax-free sign (none found on Commons today).
+
+## convenience-store — principle check
+- 본질·근본 사용법: PASS — recognise the 4 signs anywhere; check 24h (door, map app, CU finder filter); buy/load T-money (phrases in Korean), refund balance before leaving; read 1+1/2+1; pay (card, wallets); CU instant tax refund; age rule; ramyeon machine; medicine only in 24h stores.
+- 두괄식: PASS — first screen: 2 buttons + 4 real sign photos + 4 key facts; details collapsed (no-cash options, table, scenes, extras, sources).
+- A to Z: 찾기 1–3 + CU finder link; 사기·충전 numbered + phrases + seoul-subway link; 현금 없을 때 5 options; 환불 where; 1+1 link to CU deals; 택스리펀드 1–3 + tax-refund link; 라면 1–2 numbered; 약 = 24h + health link; ATM = finder + money link.
+- 길 찾기: store recognition by sign photos; in-store layout N/A (small stores). Ramyeon Library location by district only → next improvement (map).
+- 실사: 5 real licensed photos + T-money photo. No licensed photo of a counter top-up, hot-pack shelf, 1+1 tag or ramyeon machine found today → SVG substitutes kept, logged.
+- 사실: no number lost vs HEAD (checked mechanically). New official sources: CU service pages, law.go.kr, VisitKorea FAQ, tmoney.co.kr, App Store developer reply, Seoul city, korea.net. Still not re-openable today (proxy-blocked: ceoscoredaily, mt.co.kr, ajunews, asiae, segye, sidae, biz.sbs, koreatimes article, cr.mufg.jp, paypay.ne.jp, thefact, gsretail.com): those facts kept and listed under "not re-opened" in each page's sources.
+- Changed facts: mobile T-money foreign cards now Mastercard/Amex/UnionPay/JCB (was "Master/Amex/UnionPay, not Visa"); added T-money refund rule, TMONEY TRAVEL CARD ₩4,000, CU tax-refund exclusions and process.
+
+## Next improvements (all pages)
+- kbeauty: real photo of a Korean box back label.
+- daiso: street map Myeongdong Station exits 1/4 → store; photos of self-checkout and a staffed till; newer Seoul-branch photos.
+- convenience-store: licensed photos of counter top-up, 1+1 shelf tag, ramyeon machine, hot-pack shelf; map to CU Hongdae Sangsang; re-open blocked news sources when hosts are allowed.
+- kbeauty (4 langs): airport.kr sub-page links replaced by the main page + path in text (follows commit a586a11 policy), after the coordinator's WIP commit ca28414.

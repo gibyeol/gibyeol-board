@@ -1,92 +1,164 @@
 ---
-title: 韓国のコンビニ活用術:旅行者が本当に使うのはここ
-description: T-moneyの購入とチャージ、カイロ、店内ラーメン、1+1・2+1の見方、カード・PayPay決済、免税、お酒の年齢。CU・GS25・セブン-イレブン・emart24。
-lede: 韓国のコンビニは、交通カードも防寒グッズも夜食も揃う、旅でいちばん頼れる場所です。ただし何でもコンビニで買えばいいわけではないので、ほかで買ったほうがいいものもはっきり書きました。
+title: 韓国のコンビニの使い方:探す、T-moneyチャージ、1+1、支払い、免税、ラーメン
+description: CU・GS25・セブン-イレブン・emart24の看板の見分け方、24時間営業店の探し方、レジでT-moneyを買って現金でチャージ、1+1・2+1の読み方、カード・PayPay、CUの即時免税、店内ラーメンの作り方、お酒・たばこの年齢。
+lede: コンビニは旅行中いちばんよく入る店です。交通カードもカイロも夜食も路地にあります。看板4つを覚えれば、どの街でも同じように使えます。
 section: shopping
-approved: 2026-11-26
 updated: 2026-11-26
 ---
-## 初めての旅で立ち寄る3回
+<div class="tr-cta"><a class="tr-btn go" href="#tmoney"><i class="ic ic-credit-card" aria-hidden="true"></i>T-moneyを買ってチャージ</a><a class="tr-btn" href="#find"><i class="ic ic-moon" aria-hidden="true"></i>24時間の店を探す</a></div>
 
-初日:レジにT-moneyカードとウォン現金を出して金額を伝えれば、地下鉄に乗る準備は完了。寒い夜:明日の王宮歩き用のカイロ(핫팩)と、カップ麺をひとつ。一部のCUには、袋麺を使い捨て容器で調理してくれる機械もあります。最後の1回に私たちが選んだのは、帰国の朝、買い忘れたものを買いに寄る場面です。
+<ul class="tr-colours"><li><img src="/static/photo/cvs-cu-front.webp" alt="CUの店の正面:紫のCUの文字と黄緑の帯の看板"><b>CU</b><span class="t">紫の文字、黄緑の帯。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:CU_Namdaemun-ro-5ga_branch_20181122_072838.jpg" rel="noopener" target="_blank">LERK</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>(切り抜き)</span></li><li><img src="/static/photo/cvs-gs25-front.webp" alt="GS25の店の正面:黒地に白いGSと水色の25"><b>GS25</b><span class="t">白い「GS」と水色の「25」。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:GS25_Okcheon_Museong_Branch_20240730.jpg" rel="noopener" target="_blank">LandAndTree</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>(切り抜き)</span></li><li><img src="/static/photo/cvs-7eleven-front.webp" alt="オレンジ・緑・赤のストライプのセブン-イレブン"><b>セブン-イレブン</b><span class="t">オレンジ・緑・赤のストライプと7。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg" rel="noopener" target="_blank">LERK</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>(切り抜き)</span></li><li><img src="/static/photo/cvs-emart24-front.webp" alt="黄色いemart24の看板の店の正面"><b>emart24</b><span class="t">黄色い「emart24」の文字。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:E-mart_24_Okcheon_Mir_Branch_20240731.jpg" rel="noopener" target="_blank">LandAndTree</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>(切り抜き)</span></li></ul>
 
-## 結論:ここはコンビニ、ここは別の店
+<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>大手4チェーン<small>2025年末で計53,266店</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>24時間は約78%<small>深夜は営業時間を確認</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>T-moneyは現金でチャージ<small>レジで、ウォンで</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>お酒・たばこ<small>2026年は2007年以前生まれ</small></span></li></ul>
 
-| こんなとき | どうする | 理由 |
-|---|---|---|
-| 着いてすぐ交通カードが必要 | 最初に見つけたコンビニでT-moneyを買い、ウォン現金でチャージ | 全国のコンビニで販売・チャージができます。海外カードでのチャージは基本的にできません |
-| 寒い、夜中に風邪薬がほしい | 24時間営業の店へ | 常備薬を売れるのは、年中無休・24時間営業の店だけです |
-| 夜食を安く済ませたい | 店内でラーメン | 袋麺を調理する機械がある店もあります |
-| コスメをまとめ買いしたい | [オリーブヤング](/ja/olive-young/)や百貨店へ | 品ぞろえが多く、免税もまとまった金額向けです |
-| お土産のラーメン・お菓子をまとめ買い | 1+1に飛びつく前に、大型スーパーと値段を比べる | 1+1でも、1個あたりではスーパーより高いことがあります |
+## コンビニでできること
 
-**出発前に:** チャージ用のウォン現金を少し用意し、ビールを買うつもりならパスポートを持ち歩きましょう。下で取り上げる3つは、T-moneyのチャージ方法、1+1・2+1の見方、お酒の年齢ルールです。ATMと両替は[お金のページ](/ja/money/)にまとめています。
+<ul class="tr-choose"><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>交通カードを買ってチャージ</b><span>T-moneyを買い、現金でチャージ。<a href="#tmoney">方法</a></span></li><li><i class="ic ic-sun" aria-hidden="true"></i><b>寒さ・風邪のとき</b><span>カイロ、マスク、温かい飲み物。24時間営業の店には風邪薬・鎮痛剤などの常備薬も。</span></li><li><i class="ic ic-coins" aria-hidden="true"></i><b>安く一食</b><span>カップラーメン、一部のCUには袋ラーメンを作る機械も。<a href="#ramyeon">使い方</a></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><b>現金を引き出す</b><span>ATMのある店で。CUは<a href="#find">店舗検索</a>で絞り込めます。手数料は機械の画面で確認:<a href="/ja/money/">お金のページ</a></span></li></ul>
 
-## 4大チェーンと「24時間」の実際
+<ul class="tr-choose"><li><i class="ic ic-user-x" aria-hidden="true"></i><b>コンビニ向きでないもの</b><span>コスメをたくさん買うなら<a href="/ja/olive-young/">オリーブヤング</a>、ラーメンやお菓子をお土産に大量に買うなら先に大型スーパーと値段を比べて。</span></li></ul>
 
-韓国の主なコンビニは**CU**、**GS25**、**セブン-イレブン**、**emart24**の4つ。2025年末の店舗数は4社合計で53,266店でした。不採算店の整理で1年に約3%減りましたが、街なかなら少し歩けばどこかの店が見つかります。
+<h2 id="find">1. 近くのコンビニを探し、24時間か確かめる</h2>
 
-ただし、全店が24時間営業ではありません。2025年6月時点で24時間営業は42,791店、全体の約78%です。残りの約2割は夜間に閉まるか、無人営業に切り替わります。深夜に行く予定があるなら、入口の表示やNAVERマップで営業時間を確かめてください。
+大手は**CU、GS25、セブン-イレブン、emart24**の4つ(上の写真)。2025年末で4社合わせて53,266店でした。不採算店の整理で1年に3%近く減りましたが、都市なら少し歩けば必ず1軒あります。
 
-24時間営業かどうかで変わるのが薬です。韓国の薬事法では、風邪薬や鎮痛剤などの常備薬を売れるのは、年中無休・24時間営業の店に限られます。
+ただし全部が24時間ではありません。2025年6月時点で24時間営業は42,791店、全体の約78%。残りの5軒に1軒は夜に閉まるか無人になります。深夜に行くなら:
 
-## T-money:買うのはコンビニ、チャージは現金で
+1. **入口のドア**に書かれた営業時間を見ます。
+2. または地図アプリ(例:NAVER Map)で店を押して営業時間を確認します。
+3. CUなら[CU店舗検索](https://cu.bgfretail.com/store/list.do?category=store)(韓国語)で地域か店名で検索し、「매장 유형 및 서비스」で**24시간**(24時間)や**현금지급기**(ATM)を選べます。
 
-韓国観光公社の公式サイトVISITKOREAによると、T-moneyはGS25・CU・セブン-イレブンなど全国のコンビニで買えて、チャージもできます。カード本体は通常3,000〜5,000ウォンです。
+<h2 id="tmoney">2. T-moneyを買って、現金でチャージ</h2>
 
-注意したいのは支払い方法です。2026年3月の報道によると、T-moneyのチャージは現金、韓国で発行されたカード、韓国の携帯決済に限られてきました。レジで海外カードのチャージを受け付けると公表しているチェーンは見つからなかったので、**ウォンの現金**を用意しておくのが確実です。カードと現金を渡して、チャージしたい金額を伝えれば店員さんがやってくれます。
+T-moneyは地下鉄・バスに乗るチャージ式交通カード。GS25、CU、セブン-イレブンなど全国のコンビニで販売・チャージしています。カード代は3,000〜5,000ウォンです。
 
-{{fig:convenience-store-1|レジでのチャージと、現金がないときの方法}}
+<figure class="tr-photo"><img src="/static/photo/tmoney-card.webp" alt="T-moneyカード" loading="lazy" width="499" height="316"><figcaption><b>T-moneyカード</b>(旧デザイン)。デザインはいろいろあります。<span class="tr-credit">写真:<a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>、パブリックドメイン、ウィキメディア・コモンズ(明るさ自動補正)</span></figcaption></figure>
 
-ほかの方法もあります。
+<h3 class="tr-step"><span class="n">1</span><i class="ic ic-shopping-basket" aria-hidden="true"></i>レジでカードを買う</h3>
 
-- iPhoneのモバイルT-moneyアプリは、海外のMastercard・Amex・UnionPayでチャージできます(Visaは不可。JCBも対象として報じられていません)。
-- 2026年11月23日から、仁川空港の空港鉄道駅にあるT-money自販機で、15,000ウォンのチャージ済みT-moneyカード(カード代5,000ウォン+交通費10,000ウォン)を海外のクレジットカードで買えます([コリア・ヘラルド](https://www.koreaherald.com/article/10947683))。
-- 2026年3月から、ソウル地下鉄1〜8号線の273駅にある新しい券売機で、海外カードで気候同行カードと1回券が買えます。詳しくは[準備リスト](/ja/essentials/)へ。
+1. レジで「**ティモニ カドゥ チュセヨ**」(티머니 카드 주세요/T-moneyカードください)と言います。
+2. カード代を払います。外国人旅行者向けの「TMONEY TRAVEL CARD」は4,000ウォンです。
 
-## 冬:カイロと風邪薬
+<h3 class="tr-step"><span class="n">2</span><i class="ic ic-banknote" aria-hidden="true"></i>ウォンの現金でチャージ</h3>
 
-冬のコンビニでは、カイロ(韓国語で「핫팩」)、マスク、温かい飲み物を売っています。寒波だった2026年1月には、大手3社ともカイロの売上が前年より22〜43%増え、GS25では防寒インナーの売上がほぼ倍になりました。手袋や防寒着を忘れてしまっても、まずはコンビニで何とかなります。24時間営業の店なら風邪薬もあります。
+1. カードと**ウォンの現金**を一緒に出します。
+2. 金額を言います。例:「**マノン チュンジョネ チュセヨ**」(만 원 충전해 주세요/1万ウォンチャージしてください)。
+3. スタッフがチャージしてくれます。CUは全店でT-moneyのチャージができます。
 
-## 店内でラーメン
+<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>海外発行のカードでは基本的にチャージできません。T-moneyのチャージはこれまで現金、韓国発行のカード、韓国の携帯電話決済だけで、ソウル市も外国人は交通カードを現金で買ってチャージするしかなかったと説明しています。レジで海外カードでチャージできると案内しているコンビニは見つかりませんでした。ウォンの現金を少し持っておきましょう。</span></aside>
 
-窓ぎわのカウンターでカップ麺を食べるのも、韓国コンビニの楽しみのひとつです。カップ麺はどの店でも。袋麺なら、調理機械のあるCUを探してみてください。弘大(ホンデ)の「ラーメンライブラリー」店では、袋麺を買うと機械が使い捨て容器で調理してくれます。韓国の英字紙が伝えた時点の利用料は900ウォンでした。今の料金はお店で確かめてください。
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-circle-check" aria-hidden="true"></i>改札で確かめる</h3>
+
+地下鉄の改札にカードをかざすと、端末に残高が出ます。その後は駅の券売機でもチャージできます(カード残高は最大50万ウォン)。写真付きの手順:[ソウル地下鉄の乗り方](/ja/seoul-subway/)
+
+<details class="tr-more"><summary><i class="ic ic-credit-card" aria-hidden="true"></i>現金がないときのほかの方法</summary>
+
+- **iPhone:** モバイルT-moneyアプリで、開始ボタンの下の「Foreigner」を押すと海外カードで残高をチャージできると、T-moneyがApp Storeの返信で案内しています。対応カードはMastercard・アメックス・銀聯・JCBで、Visaはリストにありません。
+- **Android:** T-moneyの「コリアツアーカード」アプリで海外カードでチャージできるとソウル市が説明しています。
+- **仁川空港に着いたばかりなら:** 2026年11月23日から、空港鉄道駅のT-money自販機で15,000ウォンのT-money(カード代5,000ウォン+交通費10,000ウォン)を海外のクレジットカードで買えます。購入後にクレジットカードで再チャージできるかは発表にありませんでした。
+- **ソウルの地下鉄駅:** 2026年3月17日から、1〜8号線273駅の新型券売機(440台)で海外カードで**気候同行カードと1回用乗車券**が買えます(平均3.7%の利用料)。T-moneyのチャージ用ではありません。詳しくは[ソウル地下鉄の乗り方](/ja/seoul-subway/)。
+- **現金を引き出すなら:** コンビニのATM、または[お金のページ](/ja/money/)。
+
+{{fig:convenience-store-1|レジでのチャージ方法、現金がないとき}}
+
+</details>
+
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>帰る前に残高を戻す:</b> T-moneyの残高はコンビニで払い戻せます。5万ウォンを超える場合はソウル駅10番出口近くのT-money Townへ。</span></aside>
+
+## 3. 選んで支払う
+
+### 1+1、2+1の読み方
+
+表示は棚の値札に付いています。**1+1**は1つ買うともう1つ、**2+1**は2つ買うともう1つ無料。対象商品は毎月変わり、CUは一部の対象商品が早く売り切れることがあるので行く前に店に問い合わせるよう案内しています。今月のCUの対象商品:[CUイベント商品](https://cu.bgfretail.com/event/plus.do)(韓国語)。
+
+{{fig:convenience-store-2|表示の意味と、やってみたい計算}}
+
+1個あたりの値段を計算しましょう。1+1の飲み物でも1本あたりではスーパーより高い例があったと報じられています。もともと2つ買うつもりのときだけお得です。
+
+### 支払い:JCBもPayPayも
+
+<ul class="tr-choose"><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>カード:ほぼどこでも</b><span>三菱UFJニコスのMUFGカード韓国ガイド(2025年12月9日更新)はコンビニをカードが使える場所に挙げ、Visa、Mastercard、アメックス、JCB、銀聯を挙げています。</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>スマホ決済</b><span>日本のPayPayは<a href="https://paypay.ne.jp/overseas/korea/" rel="noopener" target="_blank">公式ページ</a>で韓国の対応店としてCU、emart24、GS25、セブン-イレブンを挙げていますが、使えない店舗もあるそうです。2025年、GS25の外国人決済額の97.7%はアリペイとウィーチャットペイでした。</span></li></ul>
+
+### CUで免税(即時還付)
+
+コンビニは金額が小さくて対象になりにくいのですが、CUは対象店で24時間、即時還付をしています(支払額の最大7%)。
+
+1. 店に貼られた**Tax-Refund運営店ステッカー**を確認します。600店以上のCUで受けられます。
+2. レジで**택스리펀 결제**(タックスリファンドで支払い)を頼みます。
+3. **パスポート原本**(またはモバイルパスポート)を見せます。1回15,000〜999,999ウォンが対象です。
+
+<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>対象外:お酒、たばこ、非課税商品(白い牛乳、果物、野菜、生理用品など)、店内調理品、サービス商品。対象者とルール:<a href="/ja/tax-refund/">タックスリファンド</a></span></aside>
+
+### お酒・たばこは「生まれた年」で判断
+
+青少年保護法は誕生日ではなく**生まれた年**で数えます。19歳になる年の1月1日から買えるので、2026年は2007年以前生まれは買え、2008年以降生まれは買えません。2008年生まれは2027年1月1日から。身分証の確認があるのでパスポートを持ち歩きましょう。
+
+<h2 id="ramyeon">4. 店内でラーメンを食べる</h2>
+
+窓際の席でラーメンを食べるのもコンビニの楽しみ方です。カップラーメンはどの店でも、袋ラーメンは調理機のあるCUで作ります。CUは2016年からこの機械を置いています。
+
+<figure class="tr-photo"><img src="/static/photo/cvs-ramyeon-wall.webp" alt="壁一面に袋ラーメンが並ぶコンビニの売り場と大きなカップ麺の模型" loading="lazy" width="780" height="585"><figcaption>ラーメン特化コンビニの棚。袋ラーメンを選んで機械で作ります。<span class="tr-credit">写真:lazy fri13th、<a href="https://creativecommons.org/licenses/by/2.0/deed.ja" rel="noopener" target="_blank">CC BY 2.0</a>、<a href="https://commons.wikimedia.org/wiki/File:24_hours_Ramyeon_Ramen_convenience_store_(South_Korea).jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(明るさ自動補正)</span></figcaption></figure>
+
+<h3 class="tr-step"><span class="n">1</span><i class="ic ic-shopping-basket" aria-hidden="true"></i>ラーメンと使い捨て容器を別々に買う</h3>
+
+袋ラーメンを選び、会計のときに調理用の**使い捨て容器**も一緒に買います。弘大サンサン店では報道当時、容器込みの調理料が900ウォンでした。今の値段は店で確認してください。
+
+<h3 class="tr-step"><span class="n">2</span><i class="ic ic-scan-line" aria-hidden="true"></i>容器に入れ、バーコード、スタート</h3>
+
+1. 麺とスープを容器に入れます。
+2. 容器の**バーコード**を調理機にかざします。
+3. **スタートボタン**を押します。弘大「ラーメン図書館」の機械の案内は英語・中国語・日本語にもなっています。
 
 {{fig:convenience-store-3|ラーメン調理機の使い方}}
 
-CUによると、ラーメンに力を入れた店は全国40店以上あり、仁川空港や明洞駅にもあります。漢江沿いの店では、外で食べる「漢江ラーメン」が人気です。ふつうの店には機械がないこともあります。
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>CU弘大サンサン店「ラーメン図書館」</b><span>ソウル麻浦区西橋洞。袋ラーメン約230種、調理機3台。2024年3月時点で、ブランドを問わず5袋を超えて買うと50%引き(この店のみ)。</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>ほかのラーメン特化店</b><span>CUはラーメン特化店を全国40店以上運営し、仁川空港と明洞駅にもあります。漢江の店は外で食べる「漢江ラーメン」で有名。一般の店には調理機がないこともあります。</span></li></ul>
 
-## 1+1・2+1の見方
+## 5. 冬と体調が悪いとき
 
-表示は棚の値札に付いています。**1+1**は1個買うともう1個無料、**2+1**は2個買うと3個目が無料。対象商品は月ごとに入れ替わり、CUの公式イベントページでも一部の商品は早めに売り切れることがあると案内しています。
+- **カイロ・マスク・温かい飲み物:** 寒波が来た2026年1月、大手3社ともカイロの売上が前年より22〜43%増え、GS25では肌着の売上が2倍近くになりました。手袋や上着を忘れたら、まずコンビニへ。
+- **風邪薬・鎮痛剤:** 薬事法で、コンビニは**24時間年中無休の店だけ**が安全常備医薬品(20品目以内)を販売できます。夜に薬が必要なら24時間の店へ。薬局の探し方:[旅行中に具合が悪くなったら](/ja/health/)
 
-{{fig:convenience-store-2|セール札の意味と、ひとつだけしたい計算}}
+## よくある失敗
 
-私たちのおすすめは、1個あたりの値段で考えることです。韓国メディアの報道では、1+1の飲み物が1本あたりでスーパーより高い例がありました。もともと2本ほしいときに使うのがいちばんお得です。
+<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>海外カードだけ持ってT-moneyのチャージに行く。ウォンの現金を。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>どのコンビニも24時間だと思う。5軒に1軒は違います。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>1+1だからと何でも入れる。1個あたりの値段をスーパーと比べて。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>CUの免税でお酒・たばこも払う。対象外です。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>帰る日にT-moneyの残高をそのままにする。コンビニで払い戻せます。</span></li></ul>
 
-## 支払い:JCBもPayPayも
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>ひとことで判断、表で見る</summary>
 
-カードはほとんどの店で使えます。三菱UFJニコスのMUFGカードの韓国ガイド(2025年12月9日更新)では、コンビニもクレジットカードが使える場所に入っています。主に使えるブランドはVisa、Mastercard、アメックス、JCB、銀聯です。
+| こんなとき | こうする | 理由 |
+|---|---|---|
+| 着いてすぐ交通カードが要る | 最初に見つけたコンビニでT-moneyを買い、ウォン現金でチャージ | 全国のコンビニで販売・チャージ。海外カードでは基本的にチャージできません |
+| とても寒い、深夜に風邪薬が要る | 24時間のコンビニへ | 常備薬は年中無休24時間の店だけが売れます |
+| 安く夜食を食べたい | 店内でラーメン | 袋ラーメンを作る機械がある店も |
+| コスメをたくさん買う | [オリーブヤング](/ja/olive-young/)か百貨店へ | 品ぞろえが多く、免税も大きな金額向け |
+| ラーメン・お菓子をお土産に大量に買う | 1+1から入れず、大型スーパーと値段を比べる | 1+1でも1個あたりはスーパーより高いことがあります |
 
-日本のスマホ決済なら[PayPayの公式ページ](https://paypay.ne.jp/overseas/korea/)を確認してください。韓国の対応店として、CU、emart24、GS25、セブン-イレブンが載っています。ただし、使えない店舗もあるそうです。
+</details>
 
-## 免税は一部の店だけ
+<details class="tr-more"><summary><i class="ic ic-calendar-check" aria-hidden="true"></i>初めての旅で立ち寄る3回</summary>
 
-コンビニの買い物は、ふつう免税になるほどの金額にはなりません。ただ、CUは韓国観光公社と組んで、600店以上でその場で免税になる即時還付を行っています。パスポートを見せると、税金を引いた金額で払えます。1回の会計15,000ウォン以上という通常の条件は同じです。詳しいルールは[免税のページ](/ja/tax-refund/)へ。
+初日:レジにT-moneyカードとウォンの現金を出して金額を言えば、地下鉄に乗る準備は完了。寒い夜:明日の古宮散歩用のカイロとカップラーメン。最後の一回として私たちが選んだのは、帰国の日の朝、忘れ物を買い、T-moneyの残高を払い戻しに寄る場面です。
 
-## お酒・たばこは「生まれ年」で判断
+**出発前に:** チャージ用のウォン現金を少し、ビールを買うならパスポートも。食事付きのパッケージツアーで交通カードもチャージ済みなら、お酒の年齢以外は飛ばしてかまいません。
 
-韓国の青少年保護法は、誕生日ではなく**生まれた年**で年齢を数えます。2026年は2007年以前に生まれた人なら購入でき、2008年以降に生まれた人は買えません。基準は毎年1月1日に1年ずつ進むので、2008年生まれなら2027年1月1日から買えます。年齢確認を求められることがあるので、パスポートを持ち歩いてください。
+</details>
 
-## そのほか便利なもの
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>こんなことも、載せなかったもの</summary>
 
-- **両替**:GS25には15か国の外貨をウォンに替えられる機械があります。セブン-イレブンも、観光地の店を中心に無人両替機を増やしています。
-- **通訳**:CUの約70店では、38言語のAI通訳が使えます。
+- **両替:** GS25には外貨15種類をウォンに替えるキオスクがあります。セブン-イレブンも観光地の店を中心に無人両替機を増やしています。
+- **通訳:** CUは約70店で38言語のAI通訳を提供しています。
+- **モバイルバッテリーのレンタル:** 機械のあるCUで借り、機械のある場所ならどこでも返せます。「완충이」アプリを使い、30分800ウォン(提携会社の方針で変わることがあります)。
 
-## 載せなかったこと
+載せなかったもの:宅配と荷物配送。CUはDHLと組んで海外宅配を受け付けていますが、韓国の携帯番号がない旅行者が予約できるかは確認できませんでした。ATMの手数料は機械ごとに違うので、引き出す前に画面で確認してください。
 
-食事付きのツアーで交通カードもチャージ済みなら、お酒の年齢ルール以外は読み飛ばして大丈夫です。ほかに載せなかったもの:宅配と荷物の配送サービスです。CUはDHLと組んで海外宅配を受け付けていますが、韓国の電話番号がない旅行者でも予約できるかは確認できませんでした。ATMの手数料は機械によって違うので、引き出す前に画面で確かめてください。
+</details>
 
-## 出典
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典</summary>
 
-<p class="sources">2026年11月26日に確認:コリア・ヘラルド「<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のチャージ済みT-moneyカード</a>」(2026年11月24日)。今回は再確認できず(確認ツールから接続できない、または原文リンクが記録されていない)、2026年11月25日の確認内容を維持:CEOスコアデイリー(店舗数、2026年4月7日);マネートゥデイ(24時間営業店と常備薬販売、2025年12月21日);VISITKOREA「Transportation Cards」(2026年8月更新);SBS Biz(T-moneyのチャージ方法、2026年3月19日);コリア・タイムズ(T-moneyはウォンでチャージ、2025年4月23日);ソウル市(地下鉄券売機、2026年3月16日);亜洲経済(冬の売上、2026年1月22日);コリア・ヘラルド(CUのラーメン調理機、2023年12月11日、2024年12月23日更新);アジア経済(CUのラーメン特化店、2025年4月22日;月替わりの行事、2025年1月12日);<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">CUイベントページ</a>(2026年11月25日確認);sidae.com(1+1の単価、2025年3月26日);<a href="https://www.cr.mufg.jp/mycard/beginner/22103/index.html" rel="noopener" target="_blank">MUFGカード韓国ガイド</a>(2025年12月9日更新);世界日報(決済、2026年6月26日;両替機と通訳、2026年7月1日);<a href="https://paypay.ne.jp/overseas/korea/" rel="noopener" target="_blank">PayPay韓国の対応店</a>(2026年11月25日確認);The Fact(CUの免税とセブン-イレブンの両替機、2025年9月23日);保健福祉部 福祉ロ(青少年保護法上の年齢、2026年1月8日)。</p>
+<p class="sources">2026年11月26日に開いて確認:CU<a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(即時還付)案内</a>(運営店ステッカー、最大7%、15,000〜999,999ウォン、対象外商品、パスポート原本・モバイルパスポート)・<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">交通カード案内</a>(全店でT-moneyチャージ)・<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">ATM</a>・<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">モバイルバッテリーレンタル</a>・<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">店舗検索</a>(24時間・ATMの絞り込み)・<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">イベント商品</a>(1+1・2+1、早期売り切れ);国家法令情報センター<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">薬事法</a>第44条の2(2026年11月12日施行:20品目以内、24時間年中無休の店)・<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">青少年保護法</a>第2条(19歳になる年の1月1日);VISITKOREA<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026年8月更新:コンビニで販売・チャージ、3,000〜5,000ウォン、券売機で最大50万ウォン、コンビニでの払い戻しと5万ウォン超はT-money Town);T-money<a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">外国人専用カード</a>(TMONEY TRAVEL CARD 4,000ウォン、コンビニ);App Store<a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">モバイルT-money</a>の開発者返信(Foreignerボタン、Mastercard・アメックス・銀聯・JCB);ソウル市<a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025年 外国人の交通決済改善</a>(現金での購入・チャージ、Androidのコリアツアーカードアプリ)・<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026年3月16日発表</a>(273駅440台、気候同行カード・1回券、3.7%);コリア・ヘラルド<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のチャージ済みT-money</a>(2026年11月24日)・<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU弘大サンサン店のラーメン店</a>(2023年12月11日、2024年12月23日更新:900ウォン、調理機3台、2016年から);コリアネット<a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">ラーメン図書館</a>(2024年3月20日:約230種、容器・バーコード・スタートボタン、英中日の案内、5袋超で50%引き)。</p>
+
+<p class="sources">今回は再確認できず(確認ツールから接続がブロック)、2026年11月25日の確認内容を維持:CEOスコアデイリー(店舗数、2026年4月7日);マネートゥデイ(24時間営業店数、2025年12月21日);亜洲経済(冬の売上、2026年1月22日);アジア経済(CUのラーメン特化店、2025年4月22日;月替わりの行事、2025年1月12日);sidae.com(1+1の単価、2025年3月26日);SBS Biz(T-moneyのチャージ方法、2026年3月19日);コリア・タイムズ(T-moneyはウォンでチャージ、2025年4月23日);<a href="https://www.cr.mufg.jp/mycard/beginner/22103/index.html" rel="noopener" target="_blank">MUFGカード韓国ガイド</a>(2025年12月9日更新);世界日報(決済、2026年6月26日;両替機と通訳、2026年7月1日);<a href="https://paypay.ne.jp/overseas/korea/" rel="noopener" target="_blank">PayPay韓国の対応店</a>;The Fact(CUの免税600店以上とセブン-イレブンの両替機、2025年9月23日)。GS25の公式サイトは今回も開けませんでした。</p>
+
+</details>
+
+## 次へ
+
+<ul class="tr-next"><li><a href="/ja/seoul-subway/"><i class="ic ic-train-front" aria-hidden="true"></i>ソウル地下鉄:T-moneyで乗る<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/ja/money/"><i class="ic ic-wallet" aria-hidden="true"></i>お金:現金、カード、ATM<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/ja/tax-refund/"><i class="ic ic-receipt" aria-hidden="true"></i>タックスリファンド:パスポートを見せるだけ<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li></ul>

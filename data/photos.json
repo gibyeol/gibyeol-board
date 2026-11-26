@@ -1534,5 +1534,216 @@
       "skin-clinic (4 langs)"
     ],
     "retrieved": "2026-11-26"
+  },
+  {
+    "file": "static/photo/daiso-storefront.webp",
+    "subject": "Daiso store front with red daiso logo and 다이소 sign (Gangwon Hoengseong store, 2020)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-06_12.55.48_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EA%B0%95%EC%9B%90%ED%9A%A1%EC%84%B1%EC%A0%90_%EC%99%B8%EB%B6%80_%EC%A0%84%EA%B2%BD.jpg",
+    "author": "Choi Kwang-mo",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "resized to 780x585",
+      "auto-contrast",
+      "red box and number 1 added",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: resized to 780x585, auto-contrast, red box and number 1 added, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "daiso (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/daiso-floor-guide.webp",
+    "subject": "Daiso 층별안내 FLOOR GUIDE board, 1F-4F (Wonju Dangu store, 2020)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-03-17_21.40.56_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "author": "MatthieuRicard",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "cropped",
+      "resized to 560x665",
+      "auto-contrast",
+      "red boxes and numbers 1-2 added",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: MatthieuRicard, CC0, via Wikimedia Commons (modified: cropped, resized to 560x665, auto-contrast, red boxes and numbers 1-2 added, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "daiso (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/daiso-floor-sign.webp",
+    "subject": "Daiso ceiling floor sign 3F with category list and arrow to elevator (Wonju Dangu store, 2020)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-03-17_21.39.49_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "author": "MatthieuRicard",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "resized to 780x585",
+      "auto-contrast",
+      "red boxes and numbers 1-3 added",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: MatthieuRicard, CC0, via Wikimedia Commons (modified: resized to 780x585, auto-contrast, red boxes and numbers 1-3 added, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "daiso (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/daiso-price-tags.webp",
+    "subject": "Daiso shelf-edge price tags ₩5,000 / ₩2,000 / ₩3,000 (Wonju Dangu store, 2020)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-02_20.18.01_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "author": "Choi Kwang-mo",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "cropped",
+      "580x500",
+      "auto-contrast",
+      "red boxes and numbers 1-3 added",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: cropped, 580x500, auto-contrast, red boxes and numbers 1-3 added, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "daiso (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/daiso-chargers.webp",
+    "subject": "Daiso display of phone chargers, cables and earphones (Gangwon Hoengseong store, 2020)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:2020-04-06_12.54.12_%EB%8B%A4%EC%9D%B4%EC%86%8C_%EA%B0%95%EC%9B%90%ED%9A%A1%EC%84%B1%EC%A0%90_%EC%B6%A9%EC%A0%84%EA%B8%B0.jpg",
+    "author": "Choi Kwang-mo",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "cropped",
+      "resized to 780x731",
+      "auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: Choi Kwang-mo, CC0, via Wikimedia Commons (modified: cropped, resized to 780x731, auto-contrast, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "daiso (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/cvs-cu-front.webp",
+    "subject": "CU store front, Namdaemun-ro 5-ga branch, Seoul (2018)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:CU_Namdaemun-ro-5ga_branch_20181122_072838.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "modifications": [
+      "cropped to sign area",
+      "640x480",
+      "auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped to sign area, 640x480, auto-contrast, converted to WebP q80)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "convenience-store (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/cvs-gs25-front.webp",
+    "subject": "GS25 store front, Okcheon Museong branch (2024)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:GS25_Okcheon_Museong_Branch_20240730.jpg",
+    "author": "LandAndTree",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "cropped",
+      "720x540",
+      "auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LandAndTree, CC0, via Wikimedia Commons (modified: cropped, 720x540, auto-contrast, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "convenience-store (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/cvs-emart24-front.webp",
+    "subject": "emart24 store front, Okcheon Mir branch (2024)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:E-mart_24_Okcheon_Mir_Branch_20240731.jpg",
+    "author": "LandAndTree",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "modifications": [
+      "cropped",
+      "660x495",
+      "auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LandAndTree, CC0, via Wikimedia Commons (modified: cropped, 660x495, auto-contrast, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "convenience-store (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/cvs-7eleven-front.webp",
+    "subject": "7-Eleven store, Muan International Airport (2019); crop of existing static/photo/convenience-store-1.webp",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg",
+    "author": "LERK",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "modifications": [
+      "cropped from convenience-store-1.webp",
+      "470x352",
+      "auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped from convenience-store-1.webp, 470x352, auto-contrast, converted to WebP q80)",
+    "share_alike": true,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "convenience-store (ko,en,ja,zh-tw)"
+    ]
+  },
+  {
+    "file": "static/photo/cvs-ramyeon-wall.webp",
+    "subject": "Wall of packet ramyeon and giant cup-noodle displays in a ramyeon-themed convenience store, South Korea (2024; exact store not stated on file page)",
+    "source_site": "Wikimedia Commons",
+    "source_url": "https://commons.wikimedia.org/wiki/File:24_hours_Ramyeon_Ramen_convenience_store_(South_Korea).jpg",
+    "author": "lazy fri13th",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "modifications": [
+      "resized to 780x585",
+      "auto-contrast",
+      "converted to WebP q80"
+    ],
+    "attribution": "Photo: lazy fri13th, CC BY 2.0, via Wikimedia Commons (modified: resized to 780x585, auto-contrast, converted to WebP q80)",
+    "share_alike": false,
+    "retrieved": "2026-11-26",
+    "used_on": [
+      "convenience-store (ko,en,ja,zh-tw)"
+    ]
   }
 ]
