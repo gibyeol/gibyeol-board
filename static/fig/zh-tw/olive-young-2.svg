@@ -9,12 +9,12 @@
 <text x="40" y="132" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">不能退稅</text>
 <rect x="16" y="156" width="368" height="88" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
 <rect x="16" y="156" width="10" height="88" rx="3" fill="#b8392f" stroke="none" stroke-width="0"/>
-<text x="40" y="184" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">15,000〜1,000,000韓元</text>
+<text x="40" y="184" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">15,000至未滿1,000,000韓元</text>
 <text x="40" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">結帳時直接扣稅</text>
 <text x="40" y="230" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">出示護照正本</text>
 <rect x="16" y="254" width="368" height="88" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
 <rect x="16" y="254" width="10" height="88" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
-<text x="40" y="282" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">超過1,000,000韓元</text>
+<text x="40" y="282" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">1,000,000韓元以上</text>
 <text x="40" y="306" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">先付全額,再到退稅機</text>
 <text x="40" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">或機場辦退稅</text>
 <text x="20" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">每張收據分開計算。</text>
