@@ -379,3 +379,6 @@ details.tr-more .fig{padding:8px}
 .tr-next a{display:flex;align-items:center;gap:10px;min-height:48px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:8px 12px;text-decoration:none;font-weight:600}
 .tr-next a .ic{width:1.4em;height:1.4em;color:var(--red)}.tr-next a .ic-arrow-right{margin-left:auto;color:var(--muted)}
 @media (min-width:700px){.tr-facts{grid-template-columns:repeat(4,1fr)}.tr-colours{grid-template-columns:repeat(4,1fr)}}
+.eac-next{list-style:none;padding:0;margin:1rem 0;display:grid;gap:8px}
+.eac-next a{display:flex;align-items:center;gap:10px;min-height:52px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;text-decoration:none;font-weight:600;line-height:1.35}
+.eac-next a .ic{width:1.4em;height:1.4em;color:var(--red)}.eac-next a .ic-arrow-right{margin-left:auto;color:var(--muted)}
