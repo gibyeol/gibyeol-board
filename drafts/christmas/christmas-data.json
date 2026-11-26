@@ -1,0 +1,429 @@
+{
+ "_about": "크리스마스 키워드 초안의 '자주 바뀌는 숫자'(날짜·값·검색 증가율·마켓 시간). gen_christmas_block.py가 이 파일만 읽어 christmas.md의 <!-- trend:start -->~<!-- trend:end --> 사이를 다시 쓴다. 하루 갱신 = 이 파일만 고치고 스크립트 실행. 숫자는 모두 sources의 원문(raw)에서 글자 그대로 확인한 것. 라이브 data/*.json은 건드리지 않음(초안).",
+ "status": "draft",
+ "as_of": "2026-11-27",
+ "checked": "2026-11-27 01:31~01:36 KST (새 출처) / 00:00~01:30 KST (이전 출처)",
+ "raw_dir": "wondu-archive: staging/overnight-2026-11-27/raw/christmas/",
+ "sources": {
+  "daiso-season": {
+   "publisher": "아성다이소 공식",
+   "title": "시즌/시리즈상품 > 2026 크리스마스 마켓",
+   "url": "https://www.daiso.co.kr/brand/product/season/180",
+   "published": null,
+   "checked": "2026-11-27",
+   "raw": "daiso-season-180.txt"
+  },
+  "daiso-news": {
+   "publisher": "아성다이소 공식 다이소소식",
+   "title": "다이소몰, 크리스마스 신상을 한자리에! '다이소 득템 대전 크리스마스 마켓' 행사 진행",
+   "url": "https://www.daiso.co.kr/brand/daiso_news/126062?btype=product",
+   "published": "2026-11-16",
+   "checked": "2026-11-27",
+   "raw": "daiso-126062.txt"
+  },
+  "ssg-emart": {
+   "publisher": "신세계그룹 뉴스룸(이마트 보도자료)",
+   "title": "미리 크리스마스! 이마트 트리∙장식용품 최대 30% 할인",
+   "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+   "published": "2026-11-26",
+   "checked": "2026-11-27",
+   "raw": "ssg-emart-xmas.txt"
+  },
+  "ssg-casamia": {
+   "publisher": "신세계그룹 뉴스룸(신세계까사 보도자료)",
+   "title": "작은 소품 하나로 달라지는 우리 집 연말 풍경! 신세계까사 까사미아, 크리스마스 · 연말 홈데코 아이템 제안",
+   "url": "https://www.shinsegaegroupnewsroom.com/casamia-unveils-christmas-home-decor-picks/",
+   "published": "2026-11-23",
+   "checked": "2026-11-27",
+   "raw": "ssg-casamia.txt"
+  },
+  "viva-11st": {
+   "publisher": "브릿지경제",
+   "title": "트리 만들고 장식 달고… 11번가, 크리스마스 집 꾸미기 기획전",
+   "url": "https://www.viva100.com/article/20261125500124",
+   "published": "2026-11-25",
+   "checked": "2026-11-27",
+   "raw": "viva100-11st.txt"
+  },
+  "n2d-emart": {
+   "publisher": "뉴스투데이",
+   "title": "이마트·11번가·신세계푸드, 트리부터 케이크까지 '크리스마스' 준비",
+   "url": "https://www.news2day.co.kr/article/20261126500087",
+   "published": "2026-11-26",
+   "checked": "2026-11-27",
+   "raw": "news2day-emart.txt"
+  },
+  "herald-lotte": {
+   "publisher": "헤럴드경제",
+   "title": "롯데타운 잠실에 '영국 크리스마스 마켓'…첫 주말 4만명 모인다",
+   "url": "https://biz.heraldcorp.com/article/10942206",
+   "published": "2026-11-19",
+   "checked": "2026-11-27",
+   "raw": "herald-lotte-jamsil.txt"
+  },
+  "sedaily-lotte": {
+   "publisher": "서울경제",
+   "title": "잠실 롯데타운에 영국의 크리스마스 떴다",
+   "url": "https://www.sedaily.com/article/20116554",
+   "published": "2026-11-19",
+   "checked": "2026-11-27",
+   "raw": "sedaily-lotte-jamsil.txt"
+  },
+  "techm-dept3": {
+   "publisher": "테크M",
+   "title": "신세계 명동 빛의 축제, 뉴욕에 빠진 더현대서울, 잠실 롯데는 영국…백화점 3사 '크리스마스 전쟁'",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=157526",
+   "published": "2026-11-19",
+   "checked": "2026-11-27",
+   "raw": "techm-157526-dept3.txt"
+  },
+  "cj-tlj": {
+   "publisher": "CJ뉴스룸(CJ푸드빌 보도자료)",
+   "title": "뚜레쥬르, 이도현과 함께한 홀리데이 캠페인 영상 공개…케이크 사전예약도",
+   "url": "https://cjnews.cj.net/%eb%9a%9c%eb%a0%88%ec%a5%ac%eb%a5%b4-%ec%9d%b4%eb%8f%84%ed%98%84%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%98%81%ec%83%81-%ea%b3%b5/",
+   "published": "2026-11-11",
+   "checked": "2026-11-27",
+   "raw": "cj-tlj.txt"
+  },
+  "seoul-winterfest": {
+   "publisher": "서울시 내 손안에 서울",
+   "title": "누가 돌아왔게? 52일간의 설렘, 서울윈터페스티벌",
+   "url": "https://mediahub.seoul.go.kr/archives/2020167",
+   "published": "2026-11-25",
+   "checked": "2026-11-27",
+   "raw": "seoul-winterfest.txt"
+  },
+  "visitseoul-gwm": {
+   "publisher": "VISIT SEOUL(서울관광재단)",
+   "title": "2026 Gwanghwamun Market",
+   "url": "https://english.visitseoul.net/eventsx/2026GwanghwamunMarket/ENP0rc1ic",
+   "published": null,
+   "checked": "2026-11-27",
+   "raw": "visitseoul-gwm.txt"
+  },
+  "kt-sejong": {
+   "publisher": "The Korea Times",
+   "title": "Sejong Center's outdoor garden transforms into winter market",
+   "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261117/sejong-centers-outdoor-garden-transforms-into-winter-market",
+   "published": "2026-11-17",
+   "checked": "2026-11-27",
+   "raw": "kt-sejong.txt"
+  },
+  "kt-namdaemun": {
+   "publisher": "The Korea Times",
+   "title": "From jade rings to flowers: What young Koreans are buying at Namdaemun",
+   "url": "https://www.koreatimes.co.kr/lifestyle/trends/20261118/from-jade-rings-to-flowers-what-young-koreans-are-buying-at-namdaemun",
+   "published": "2026-11-18",
+   "checked": "2026-11-27",
+   "raw": "kt-namdaemun.txt"
+  },
+  "vs-namdaemun": {
+   "publisher": "VISIT SEOUL(서울관광재단)",
+   "title": "Namdaemun Market",
+   "url": "https://english.visitseoul.net/area/Namdaemun-Market/ENP000085",
+   "published": null,
+   "checked": "2026-11-27",
+   "raw": "vs-namdaemun.txt"
+  },
+  "ajunews-winterfest": {
+   "publisher": "아주경제",
+   "title": "1000만명 찾은 '서울윈터페스티벌', 한강까지 넓힌다…52일간 겨울축제",
+   "url": "https://www.ajunews.com/view/20261125131022252",
+   "published": "2026-11-25",
+   "checked": "2026-11-27",
+   "raw": "ajunews-winterfest.txt"
+  },
+  "n2d-daiso": {
+   "publisher": "뉴스투데이",
+   "title": "지그재그·다이소몰·갤러리아몰, 연말 쇼핑 대전 펼친다",
+   "url": "https://www.news2day.co.kr/article/20261116500099",
+   "published": "2026-11-16",
+   "checked": "2026-11-27",
+   "raw": "news2day-zigzag.txt"
+  }
+ },
+ "strip": [
+  {
+   "label": "어드벤트 캘린더 첫 칸 12/1",
+   "url": "https://www.daiso.co.kr/brand/product/season/180",
+   "start": "2026-11-27",
+   "end": "2026-12-01",
+   "today_text": "오늘 첫 칸",
+   "src": "daiso-season",
+   "note": "카운트다운 대상 = 12/1(첫 칸 여는 날). start는 이 줄을 띄우기 시작한 날"
+  },
+  {
+   "label": "11번가 '미리 만나는 크리스마스'",
+   "pct": 20,
+   "url": "https://www.viva100.com/article/20261125500124",
+   "start": "2026-11-25",
+   "end": "2026-11-29",
+   "src": "viva-11st",
+   "note": "start = 발표일(시작일은 기사에 없음). '오는 29일까지'"
+  },
+  {
+   "label": "이마트 트리·장식",
+   "pct": 30,
+   "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+   "start": "2026-11-26",
+   "end": "2026-12-02",
+   "src": "ssg-emart",
+   "note": "신세계포인트 적립 시"
+  },
+  {
+   "label": "뚜레쥬르 케이크 예약",
+   "pct": 30,
+   "url": "https://cjnews.cj.net/%eb%9a%9c%eb%a0%88%ec%a5%ac%eb%a5%b4-%ec%9d%b4%eb%8f%84%ed%98%84%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%98%81%ec%83%81-%ea%b3%b5/",
+   "start": "2026-11-11",
+   "end": "2026-12-22",
+   "src": "cj-tlj"
+  },
+  {
+   "label": "까사미아 온라인 'HAPPY HOLIDAY'",
+   "pct": 50,
+   "url": "https://www.shinsegaegroupnewsroom.com/casamia-unveils-christmas-home-decor-picks/",
+   "start": "2026-11-23",
+   "end": "2026-12-24",
+   "src": "ssg-casamia"
+  },
+  {
+   "label": "롯데 잠실 크리스마스 마켓",
+   "url": "https://biz.heraldcorp.com/article/10942206",
+   "start": "2026-11-19",
+   "end": "2027-01-03",
+   "src": "herald-lotte"
+  },
+  {
+   "label": "광화문 마켓",
+   "url": "https://english.visitseoul.net/eventsx/2026GwanghwamunMarket/ENP0rc1ic",
+   "start": "2026-12-11",
+   "end": "2027-01-10",
+   "src": "visitseoul-gwm"
+  },
+  {
+   "label": "한강 크리스마스마켓",
+   "url": "https://mediahub.seoul.go.kr/archives/2020167",
+   "start": "2026-12-24",
+   "end": "2026-12-27",
+   "src": "seoul-winterfest"
+  }
+ ],
+ "stats": [
+  {
+   "value": "3.7배",
+   "label": "까사미아 온라인몰 크리스마스 상품 매출(11/1~20, 10월 같은 기간보다)",
+   "cite": "신세계까사 발표 11/23",
+   "src": "ssg-casamia"
+  },
+  {
+   "value": "+102%",
+   "label": "11번가 '크리스마스 소품' 검색(11/13~22, 직전 열흘보다)",
+   "cite": "11번가 발표, 브릿지경제 11/25",
+   "src": "viva-11st"
+  },
+  {
+   "value": "1만 6천 명",
+   "label": "롯데 잠실 마켓 예약 첫날 동시 접속. 11월 주말 빠른 입장권은 30분 만에 매진",
+   "cite": "롯데백화점 발표, 헤럴드경제 11/19",
+   "src": "herald-lotte"
+  }
+ ],
+ "picks": {
+  "title": "가게가 앞세운 상품과 값",
+  "src_note": "각 가게 발표(출처 단어 그대로: 대표상품·베스트셀러·대표 상품) · 판매 순위 아님 · 할인가는 조건·기간 있음",
+  "items": [
+   {
+    "name": "원터치 팝업트리 150cm (펼치면 5초 설치)",
+    "store": "이마트",
+    "price": "79,200원",
+    "cond": "9만 9천 원에서 20%↓ · 신세계포인트 적립 시 · ~12/2",
+    "src_word": "대표상품",
+    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+    "src": "ssg-emart",
+    "src_word_src": "ssg-emart"
+   },
+   {
+    "name": "베이직 트리 60·120·150cm",
+    "store": "이마트",
+    "price": "6,320~9,520원",
+    "cond": "20%↓ · ~12/2",
+    "src_word": "실속형 상품",
+    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+    "src": "ssg-emart",
+    "src_word_src": "ssg-emart"
+   },
+   {
+    "name": "LED 와이어전구(1000구) 세트",
+    "store": "트레이더스",
+    "price": "49,800원",
+    "cond": "5만 5,800원에서 6천 원↓ · 삼성카드 결제 시 · ~11/29",
+    "src_word": "매년 베스트셀러",
+    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+    "src": "ssg-emart",
+    "src_word_src": "ssg-emart"
+   },
+   {
+    "name": "집모양 어드벤트 캘린더(24칸)",
+    "store": "다이소 1081347",
+    "price": "5,000원",
+    "cond": "품번으로 매장 재고 찾기",
+    "src_word": "대표 상품",
+    "url": "https://www.daiso.co.kr/brand/product/season/180",
+    "src": "daiso-season",
+    "src_word_src": "n2d-daiso"
+   },
+   {
+    "name": "LED 트리",
+    "store": "다이소 1081011",
+    "price": "5,000원",
+    "cond": "",
+    "src_word": "",
+    "url": "https://www.daiso.co.kr/brand/product/season/180",
+    "src": "daiso-season",
+    "src_word_src": "daiso-season"
+   },
+   {
+    "name": "워터볼 미니",
+    "store": "다이소 1081499",
+    "price": "1,000원",
+    "cond": "",
+    "src_word": "",
+    "url": "https://www.daiso.co.kr/brand/product/season/180",
+    "src": "daiso-season",
+    "src_word_src": "daiso-season"
+   },
+   {
+    "name": "딸기·초콜릿 케이크 '딸무크'",
+    "store": "이마트 안 베이커리",
+    "price": "27,980원",
+    "cond": "11/26부터 · 지난해 크리스마스 직전 10일 하루 평균 약 1000개",
+    "src_word": "대표 상품",
+    "url": "https://www.news2day.co.kr/article/20261126500087",
+    "src": "n2d-emart",
+    "src_word_src": "n2d-emart"
+   }
+  ]
+ },
+ "bars": {
+  "title": "11번가에서 검색이 늘어난 말",
+  "src_note": "11/13~22, 직전 열흘보다 · 11번가 발표(브릿지경제 11/25) · 판매량 아님",
+  "items": [
+   {
+    "label": "크리스마스 소품",
+    "value": 102
+   },
+   {
+    "label": "크리스마스 리스",
+    "value": 49
+   },
+   {
+    "label": "크리스마스 장식",
+    "value": 48
+   },
+   {
+    "label": "크리스마스 트리",
+    "value": 32
+   }
+  ],
+  "reading": "Nadri 읽기: 트리보다 소품·리스 검색이 더 많이 늘었어요. 값은 1,000원(다이소 워터볼 미니)부터 79,200원(이마트 원터치 트리)까지"
+ },
+ "links": [
+  {
+   "label": "이마트 행사 내용(보도자료)",
+   "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/"
+  },
+  {
+   "label": "다이소몰 '크리스마스 마켓'",
+   "url": "https://www.daisomall.co.kr/ds/diy/C109"
+  },
+  {
+   "label": "다이소몰 랭킹",
+   "url": "https://www.daisomall.co.kr/ds/rank/C105"
+  },
+  {
+   "label": "다이소 76개 전체(공식)",
+   "url": "https://www.daiso.co.kr/brand/product/season/180"
+  }
+ ],
+ "markets": {
+  "summary": "구경하며 사는 마켓 6곳: 언제·몇 시·가는 길",
+  "summary_src": "서울시·VISIT SEOUL·코리아타임스·헤럴드경제·서울경제·테크M · 11/27 확인",
+  "rows": [
+   {
+    "name": "광화문 마켓",
+    "url": "https://english.visitseoul.net/eventsx/2026GwanghwamunMarket/ENP0rc1ic",
+    "when": "12/11~1/10",
+    "hours": "일~목 17:30~22:00<br>금·토 ~22:30",
+    "sells": "크리스마스 소품·먹거리 부스, 입장 무료",
+    "access": "5호선 광화문역 9번 출구 181m",
+    "src": [
+     "visitseoul-gwm",
+     "seoul-winterfest"
+    ]
+   },
+   {
+    "name": "세종문화회관 겨울 마켓",
+    "url": "https://www.koreatimes.co.kr/lifestyle/people-events/20261117/sejong-centers-outdoor-garden-transforms-into-winter-market",
+    "when": "~1/3",
+    "hours": "매일 11:00~21:00",
+    "sells": "주마다 10~20팀: 장식·뜨개·도자기·액세서리. 1만 원 이상 사면 추첨",
+    "access": "5호선 광화문역 1·8번 출구 270m(세종문화회관)",
+    "src": [
+     "kt-sejong"
+    ]
+   },
+   {
+    "name": "롯데 잠실 크리스마스 마켓",
+    "url": "https://biz.heraldcorp.com/article/10942206",
+    "when": "11/19~1/3",
+    "hours": "매일 11:30~22:00<br>2층 회전목마 ~21:30",
+    "sells": "상점 40여 곳(절반이 먹거리), 17m 시계탑. 빠른 입장권은 예약(11월 주말분 매진)",
+    "access": "잠실 롯데월드타워 '월드파크' 야외 잔디광장. 역·출구는 출처에 없음 → 지도 앱에 '월드파크' 검색",
+    "src": [
+     "herald-lotte",
+     "sedaily-lotte"
+    ]
+   },
+   {
+    "name": "신세계 홀리데이 마켓",
+    "url": "https://www.techm.kr/news/articleView.html?idxno=157526",
+    "when": "본점 11/24~<br>강남점 10/30~",
+    "hours": "기사에 없음",
+    "sells": "크리스마스 소품·선물, 타로·캐리커처 체험",
+    "access": "신세계백화점 본점(명동)·강남점 안. 층·끝나는 날은 기사에 없음",
+    "src": [
+     "techm-dept3"
+    ]
+   },
+   {
+    "name": "남대문시장 조화 상가",
+    "url": "https://www.koreatimes.co.kr/lifestyle/trends/20261118/from-jade-rings-to-flowers-what-young-koreans-are-buying-at-namdaemun",
+    "when": "월~토<br>일요일 쉼",
+    "hours": "가게마다 다름",
+    "sells": "트리 장식·인형·반짝이 전구",
+    "access": "4호선 회현역 7번 출구 17m(시장 입구). 조화 상가는 꽃시장(E동 3층)에서 몇 블록 거리 — 정확한 동·층은 출처에 없음",
+    "src": [
+     "kt-namdaemun",
+     "vs-namdaemun"
+    ]
+   },
+   {
+    "name": "로맨틱 한강 크리스마스마켓",
+    "url": "https://mediahub.seoul.go.kr/archives/2020167",
+    "when": "12/24~12/27",
+    "hours": "발표 전",
+    "sells": "먹거리·체험. 같은 곳에서 12/24~31 '한강 나이트 사우나'",
+    "access": "뚝섬한강공원(출구는 발표 전)",
+    "src": [
+     "seoul-winterfest",
+     "ajunews-winterfest"
+    ]
+   }
+  ]
+ },
+ "not_found": [
+  "올해 크리스마스 상품 '판매 순위'(몇 위)를 공개한 출처: 못 찾음. 다이소몰 랭킹은 스크립트로만 그려져 못 읽음(우회 안 함).",
+  "크리스마스 할인 '코드': 공식 발표에서 0개. 대신 조건부 할인(이마트 신세계포인트 적립, 트레이더스 삼성카드 결제)만 있음.",
+  "롯데 잠실 마켓 가장 가까운 역·출구, 한강 마켓 시간·출구, 남대문 조화 상가 동·층: 연 출처에 없음."
+ ]
+}
