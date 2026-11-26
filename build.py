@@ -446,6 +446,30 @@ SKY = """<svg class="sky" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMax s
 </svg>"""
 
 
+# ---------- desktop layout (2026-11-26): table of contents + image/text pairs. Mobile CSS hides/ignores both ----------
+TOC_LABEL = {"ko": "이 페이지", "en": "On this page", "ja": "このページ", "zh-tw": "本頁內容"}
+_FIG = r'(?:<figure class="(?:fig|tr-photo)[^"]*"[^>]*>.*?</figure>|<div class="tr-pair[^"]*">.*?</div>)'
+
+
+def desktop_pairs(body):
+    """Wrap a picture and the text that explains it in <div class="sbs"> so wide screens can put them side by side.
+    The wrapper has no box of its own, so phones render exactly as before."""
+    sbs = lambda m: f'<div class="sbs">{m.group(1)}\n{m.group(2)}</div>'
+    body = re.sub(rf'({_FIG})\n(<ol class="steps">.*?</ol>)', sbs, body, flags=re.S)
+    body = re.sub(rf'(?<=</h3>\n)({_FIG})\n(<p>.*?</p>)',
+                  lambda m: sbs(m) if '-step"' in body[:m.start()].rsplit("<h3", 1)[-1][:40] else m.group(0), body, flags=re.S)
+    body = re.sub(rf'(<figure class="fig"[^>]*>(?:(?!</figure>).)*?-shot-.*?</figure>)\n(<ul class="eac-facts eac-wide">.*?</ul>)', sbs, body, flags=re.S)
+    return body
+
+
+def toc(lang, body):
+    hs = re.findall(r'<h2 id="([^"]+)">(.*?)</h2>', body, flags=re.S)
+    if len(hs) < 3:
+        return ""
+    lis = "".join(f'<li><a href="#{hid}">{re.sub(r"<[^>]+>", "", t)}</a></li>' for hid, t in hs)
+    return f'<nav class="toc" aria-label="{TOC_LABEL[lang]}"><p class="toc-h">{TOC_LABEL[lang]}</p><ol>{lis}</ol></nav>'
+
+
 # ---------- layout ----------
 def page(lang, meta, body_html, path, alternates):
     ui, L = SITE["ui"][lang], SITE["languages"][lang]
@@ -478,6 +502,9 @@ def page(lang, meta, body_html, path, alternates):
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
     crumb = (f'<p class="crumb"><a href="{L["prefix"]}/guides/">{ui["crumb_guides"]}</a> › <a href="{L["prefix"]}/guides/">{ui["crumb_country"]}</a></p>' if meta.get("section") else "")
     header_block = "" if meta.get("home") else f"<header class=\"page-head\">{crumb}<h1>{inline(title)}</h1>{lede}{byline}</header>"
+    side = "" if meta.get("home") else toc(lang, body_html)
+    if not meta.get("home"):
+        body_html = desktop_pairs(body_html)
     return f"""<!doctype html>
 <html lang="{L['hreflang']}">
 <head>
@@ -505,8 +532,8 @@ def page(lang, meta, body_html, path, alternates):
     </div>
   </div>
 </header>
-<main id="main" class="wrap">
-{header_block}
+<main id="main" class="wrap{' has-toc' if side else ''}">
+{header_block}{side}
 {('<div class="home-body">' + body_html + '</div>') if meta.get('home') else ('<article class="body">' + body_html + '</article>')}
 {report_box(lang, meta, path)}
 </main>
