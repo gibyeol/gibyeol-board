@@ -45,3 +45,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Also from the Lucide GitHub repository (https://github.com/lucide-icons/lucide, icons/ folder, main branch, downloaded 2026-11-26, added for the airport-to-seoul page; same ISC license as above): car-taxi-front.svg arrow-down.svg store.svg wifi.svg
