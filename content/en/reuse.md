@@ -2,6 +2,7 @@
 title: Copyright and reuse
 description: What you can quote from Nadri, what you can't copy, and how to tell us about a copy.
 lede: We want Nadri to be shared. We just want the reader to end up at the original, where the facts are kept current.
+approved: 2026-11-26
 updated: 2026-11-25
 report: no
 byline: no

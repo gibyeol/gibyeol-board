@@ -2,6 +2,7 @@
 title: About Nadri
 description: Who makes Nadri, how guides are researched and checked, and how to reach us.
 lede: Nadri comes from nadeuri, the Korean word for a light-hearted day out. We started in Korea, and that is where we test everything first.
+approved: 2026-11-26
 updated: 2026-11-25
 ---
 ## What Nadri is for

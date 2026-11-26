@@ -3,6 +3,7 @@ title: Everyday Korea: eating alone, tipping, English, safety and the small rule
 description: No tipping, solo dining, call bells, how much English to expect, emergency numbers, plugs, drinking age, smoking and subway manners. Checked November 2026.
 lede: Korea is easy on first-timers: no tipping, eating alone is normal, and crime against visitors is rare. What trips people up is the small stuff, like the two-serving rule, missing trash bins and pink subway seats, so here is all of it on one page.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A dinner on your own

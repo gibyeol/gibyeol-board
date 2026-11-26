@@ -3,6 +3,7 @@ title: Seoul city buses: colours, tapping off, transfers and night buses
 description: How to ride a Seoul city bus as a visitor: what each colour means, why you tap twice, the transfer window, N night buses and airport buses.
 lede: Our call: Seoul buses are easy once you follow two habits, a loaded card before you board and a second tap when you get off. Let a map app tell you where to get out, and keep airport buses and city buses apart in your head.
 section: transport
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first bus ride

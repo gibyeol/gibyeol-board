@@ -1,6 +1,7 @@
 ---
 title: Nadri의 수익 구조
 description: Nadri의 제휴 파트너십과 광고, 그리고 그것이 추천에 영향을 주는 부분과 주지 않는 부분을 밝혀요.
+approved: 2026-11-26
 updated: 2026-11-23
 ---
 ## 제휴 링크

@@ -4,6 +4,7 @@ description: 電子入境卡(e-Arrival Card)、K-ETA、eSIM、付款、交通卡
 lede: 出發前要決定的 6 件事,依照用到的順序排好。韓國入境規定這一年改了不只一次,所以每一項都附上官方連結。
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 這些先辦好,落地後的第一個小時

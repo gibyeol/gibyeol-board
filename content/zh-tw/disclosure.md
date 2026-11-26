@@ -1,6 +1,7 @@
 ---
 title: Nadri 的收入來源
 description: Nadri 的聯盟行銷合作與廣告,以及它們會與不會如何影響我們的推薦。
+approved: 2026-11-26
 updated: 2026-11-23
 ---
 ## 聯盟行銷連結

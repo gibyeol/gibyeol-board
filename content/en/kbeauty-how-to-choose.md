@@ -3,6 +3,7 @@ title: How to choose K-beauty in Korea without falling for the hype
 description: Read a Korean label in 30 seconds, pick SPF and PA for your day, spot fragrance allergens, skip medical-sounding claims, and pack it all home.
 lede: The box tells you more than the ranking does. Three checks on the label (functional mark, SPF/PA, ingredients) beat any viral list, and they take half a minute.
 section: shopping
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## At the shelf: thirty seconds with the box

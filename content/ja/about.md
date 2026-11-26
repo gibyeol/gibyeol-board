@@ -2,6 +2,7 @@
 title: Nadriについて
 description: Nadriを作っている人、ガイドの調べ方と確認方法、連絡先。
 lede: Nadri(ナドゥリ)は、気軽なお出かけを意味する韓国語「nadeuri(나들이)」から名付けました。私たちは韓国から始めました。何でもまず韓国で試します。
+approved: 2026-11-26
 updated: 2026-11-25
 ---
 ## Nadriの目的

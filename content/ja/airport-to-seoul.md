@@ -4,6 +4,7 @@ description: AREX直通列車・一般列車、空港リムジンバス、タク
 lede: ソウルへの「一番いい行き方」はひとつではありません。ホテルに一番近く降ろしてくれるものが正解。だからホテルの場所から逆算するのがおすすめです。
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 韓国での最初の1時間

@@ -3,6 +3,7 @@ title: Olive Young 聰明買攻略
 description: 一年四次 Olive Young Sale 的時間、帶護照結帳就扣稅的方法、第一次買先買哪三樣,以及回國後怎麼回購。
 lede: Olive Young 的價格跟著固定行事曆走。對準特賣去、帶護照、只放用得完的量,這是我們的建議。
 section: oy
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 特賣週逛 Olive Young,從頭到尾

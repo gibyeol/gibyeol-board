@@ -3,6 +3,7 @@ title: How to shop Olive Young like a local
 description: When the four Olive Young Sales fall, how the tax comes off at the till with your passport, three basics worth buying, and how to reorder from home.
 lede: Olive Young is Korea's biggest health and beauty chain, and its prices move on a schedule. Time your visit to the sale, bring your passport, and keep the basket short enough that you use it all.
 section: oy
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A sale-week visit, start to finish

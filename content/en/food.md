@@ -3,6 +3,7 @@ title: Eating in Korea: what to order, how ordering works, and eating with dieta
 description: Which dishes fit which moment, tablet and kiosk ordering, booking through Naver Map, Baemin delivery with a foreign card, plus vegetarian, halal and allergy help. Checked November 2026.
 lede: Eat by situation, not by bucket list: kimbap or a stew for a quick lunch, BBQ with company, cash at the market, and Baemin to your hotel late at night. If you have a dietary limit, the one thing that matters is a clear Korean sentence, so we wrote them for you below.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A BBQ evening

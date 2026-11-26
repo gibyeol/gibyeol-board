@@ -471,7 +471,10 @@ def page(lang, meta, body_html, path, alternates):
         body_html = f'<p class="disclosure">{ui["disclosure_inline"]}</p>' + body_html
     byline = ""
     if not meta.get("home") and meta.get("updated") and meta.get("byline") != "no":
-        byline = f'<p class="byline">{ui["byline"].format(date=meta["updated"])}</p>'
+        # "approved by an editor" only when the owner approved this version: `approved:` date >= `updated:` date.
+        # Anyone who edits a page after approval removes `approved:` (see drafts/BRIEF-access.md).
+        key = "byline" if meta.get("approved") and meta["approved"] >= meta["updated"] else "byline_pending"
+        byline = f'<p class="byline">{ui[key].format(date=meta["updated"])}</p>'
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
     header_block = "" if meta.get("home") else f"<header class=\"page-head\"><h1>{inline(title)}</h1>{lede}{byline}</header>"
     return f"""<!doctype html>

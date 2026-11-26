@@ -3,6 +3,7 @@ title: Seoul's palaces and old town: tickets, hanbok, closing days and what's wo
 description: Which Seoul palace to pick, ticket prices, the Monday/Tuesday closing days, winter hours, free entry in hanbok, the Secret Garden and Bukchon's visiting hours.
 lede: If you only have half a day, do Gyeongbokgung in the morning, walk through Bukchon before 5 pm, and stop there. Tickets cost 1,000–3,000 won, so plan around closing days and winter hours, not money.
 section: seoul
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A morning at Gyeongbokgung

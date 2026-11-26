@@ -3,6 +3,7 @@ title: Where to shop in Seoul: Myeongdong, Seongsu or Hongdae?
 description: Which of three Seoul shopping streets fits what you want to buy, when to go, the subway exit, tax-free at the till, and when to skip each one.
 lede: Our call: Myeongdong for beauty on a first trip, Seongsu for new brands and pop-ups on a weekday, and Hongdae for young fashion later in the day. All three have a Line 2 station, so two fit in one afternoon.
 section: shopping
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## One afternoon on Line 2

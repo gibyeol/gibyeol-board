@@ -3,6 +3,7 @@ title: Your last day in Korea: Incheon on time, refunds, power banks, leftover w
 description: How early to reach Incheon, which terminal, Seoul Station check-in, airport tax refunds, duty-free pickup, the 2026 power bank rules, liquids and leftover won. Checked November 2026.
 lede: Be at Incheon three hours before departure, and if your airline allows it, drop your bags at Seoul Station first. Most last-day stress comes from three things: the wrong terminal, a refund you forgot, and a power bank in the wrong bag.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your last morning

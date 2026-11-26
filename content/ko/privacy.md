@@ -1,6 +1,7 @@
 ---
 title: 개인정보
 description: Nadri를 방문할 때 Nadri와 Nadri가 이용하는 서비스가 수집하는 데이터를 안내해요.
+approved: 2026-11-26
 updated: 2026-11-24
 ---
 ## Nadri가 수집하는 것

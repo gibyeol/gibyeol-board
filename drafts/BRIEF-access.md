@@ -34,6 +34,7 @@ Before every layout choice ask: why does a visitor open this page, what must the
 - Save images as .webp (or .jpg) ≤780px wide under static/fig/<lang>/<slug>-<name>.webp (language-specific screens) or static/photo/. The build accepts {{fig:name|caption}} for .svg/.webp/.jpg/.png.
 
 ## Process
+- If the page you edit has an `approved:` line in its front matter, DELETE that line (the byline then says "not yet reviewed by a Nadri editor" until the owner approves the new version).
 - Edit content/en and content/ko first; then ja and zh-tw with the same structure (use the site's own language screen if available).
 - Run `python3 build.py`, serve dist/ and screenshot each edited page at 390 width; look at them yourself and fix cramped/confusing spots. Save the page screenshots to your scratch folder.
 - Do not use git except read-only; do not push; the coordinator commits.

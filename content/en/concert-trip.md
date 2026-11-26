@@ -3,6 +3,7 @@ title: Flying to Seoul for a K-pop concert: tickets, venues, bags and the night 
 description: How foreigners buy K-pop tickets in Korea, what the 2026 anti-scalping law changed, and how to reach KSPO Dome, Gocheok Sky Dome and Inspire Arena.
 lede: Buy only on the global site the agency names, in your passport name, and never from a reseller. Then book your hotel by venue, not by neighborhood vibe, because getting home after the encore is the hard part.
 section: seoul
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## The one-line judgment

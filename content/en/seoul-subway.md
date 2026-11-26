@@ -4,6 +4,7 @@ description: How to pay for the Seoul subway, top up, transfer to buses, find yo
 lede: Our call: get a T-money-type card before your first ride and tap it in and out every time. Most first-day problems come from the single ticket, a missed exit tap, or the last train.
 section: transport
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first ride

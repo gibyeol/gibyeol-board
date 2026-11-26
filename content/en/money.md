@@ -3,6 +3,7 @@ title: Money in Korea: card, cash and exchange, sorted
 description: Where foreign cards work, how much cash to carry, where to exchange, what to do when an app rejects your card, and leftover won. Checked for late 2026.
 lede: Short version: pay by card almost everywhere, carry a little cash for market food, and change money in the city, not at the airport. Get those three right and money stops being a thing you think about.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## The short answer
