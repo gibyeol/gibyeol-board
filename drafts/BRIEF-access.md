@@ -15,7 +15,7 @@ Before every layout choice ask: why does a visitor open this page, what must the
 
 ## Target: someone skimming the page on a phone understands it in under one minute
 1. **First screen**: the reader instantly sees what this is, whether it applies to them and what to do — with real images (as many as needed) + a big reassuring line + the main action link(s). Little visible text.
-2. **Do this**: numbered steps; each step = one real image (annotated with numbered red boxes where it shows a screen/machine/sign) + one short phrase per number. Short words, no jargon.
+2. **Do this**: numbered steps; each step = the real image(s) it needs (annotated with numbered red boxes where it shows a screen/machine/sign) + one short phrase per number. Short words, no jargon.
 3. **Icons on every element**: who, time, cost, where, warning, tip, done, card/cash, train/bus, etc. Use the free icon set already in static/icons/ (Lucide, ISC license; see static/icons/LICENSE.txt). If you need an icon that isn't there, download that single SVG from the Lucide GitHub repository and add its name to LICENSE.txt. No CDN.
 4. **One honest decision**: where a product genuinely helps (affiliate), show it as a picture + one sentence ("not required, but…") + the button. Only live keys in data/affiliates.json; `disclosure: yes` when used. Money never decides the order.
 5. **Common mistakes**: a short list with a warning icon.
