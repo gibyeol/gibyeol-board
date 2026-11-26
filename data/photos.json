@@ -589,5 +589,182 @@
   "share_alike": true,
   "retrieved": "2026-11-26",
   "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 2.0) with attribution and a link to the license."
+ },
+ {
+  "file": "static/photo/icn-transport-center.webp",
+  "subject": "Incheon Airport Transportation Center main hall, Terminal 1 (2016 photo)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_Airport_Transportation_Center_Main_Hall.jpg",
+  "author": "Minseong Kim",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+  "original_date": "3 February 2016 13:47:26",
+  "modifications": [
+   "resized to 780x502",
+   "light auto-contrast",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: Minseong Kim, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/icn-t1-arrival.webp",
+  "subject": "Incheon Airport Terminal 1 arrival hall, seen from the upper level (2023)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_3.jpg",
+  "author": "ノボホショコロトソ",
+  "license": "CC BY 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+  "original_date": "2023-09-28 14:33:15",
+  "modifications": [
+   "resized to 780x585",
+   "light auto-contrast",
+   "1 detected face(s) blurred",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: ノボホショコロトソ, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/arex-allstop-concourse.webp",
+  "subject": "AREX all-stop (local) train concourse, Incheon Airport Terminal 1 Station, B1 (2024)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
+  "author": "MNXANL",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+  "original_date": "2024-03-17 19:52:05",
+  "modifications": [
+   "resized to 780x585",
+   "light auto-contrast",
+   "1 detected face(s) blurred",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 detected face(s) blurred)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/tmoney-card.webp",
+  "subject": "T-money transit card, older design (2010 scan)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:T-money_card.jpg",
+  "author": "zisk",
+  "license": "Public domain (PD-self: released by the author)",
+  "license_tag_on_file_page": "{{PD-self}}",
+  "original_date": "2010-01-24",
+  "modifications": [
+   "kept at 499x316",
+   "light auto-contrast",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: zisk, Public domain, via Wikimedia Commons (modified: light auto-contrast)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/airport-to-seoul-gates.webp",
+  "subject": "Annotated: AREX all-stop concourse, Terminal 1 Station (ticket machines, gates, Express sign)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
+  "author": "MNXANL",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+  "original_date": "2024-03-17 19:52:05",
+  "modifications": [
+   "cropped",
+   "resized to 780x344",
+   "light auto-contrast",
+   "1 area blurred (face, manual)",
+   "numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast, 1 area blurred (face, manual), numbered red boxes added)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/airport-to-seoul-platform.webp",
+  "subject": "Annotated: AREX all-stop platform 2 sign, Terminal 1 Station (2024)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg",
+  "author": "MNXANL",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+  "original_date": "2024-03-17 19:53:25",
+  "modifications": [
+   "cropped",
+   "kept at 704x528",
+   "light auto-contrast",
+   "numbered red box added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast, numbered red box added)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/airport-bus.webp",
+  "subject": "Airport limousine bus at an Incheon Airport bus stop, stop sign 11A (2008 photo)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bus_Station_Incheon_Airport.JPG",
+  "author": "Yerbol Nisanbayev",
+  "license": "CC BY 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-3.0}}",
+  "original_date": "3 September 2008 (Exif)",
+  "modifications": [
+   "cropped",
+   "resized to 780x772",
+   "light auto-contrast",
+   "1 detected face(s) blurred",
+   "1 area(s) blurred (faces/plates, manual)",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: Yerbol Nisanbayev, CC BY 3.0, via Wikimedia Commons (modified: cropped, light auto-contrast, 1 detected face(s) blurred, 1 area(s) blurred (faces/plates, manual))",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/seoul-taxi.webp",
+  "subject": "Seoul taxis at night (2015)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_taxis_01.jpg",
+  "author": "Ilya Plekhanov",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+  "original_date": "2015-08-08",
+  "modifications": [
+   "resized to 780x520",
+   "light auto-contrast",
+   "1 area(s) blurred (faces/plates, manual)",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: Ilya Plekhanov, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 1 area(s) blurred (faces/plates, manual))",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/airport-to-seoul-bus-stop.webp",
+  "subject": "Annotated: limousine bus stop 11A at Incheon Airport (2008 photo)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bus_Station_Incheon_Airport.JPG",
+  "author": "Yerbol Nisanbayev",
+  "license": "CC BY 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-3.0}}",
+  "original_date": "3 September 2008 (Exif)",
+  "modifications": [
+   "cropped",
+   "resized to 780x772",
+   "light auto-contrast",
+   "1 detected face(s) blurred",
+   "1 area(s) blurred (faces/plates, manual)",
+   "numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Yerbol Nisanbayev, CC BY 3.0, via Wikimedia Commons (modified: cropped, light auto-contrast, 1 detected face(s) blurred, 1 area(s) blurred (faces/plates, manual), numbered red boxes added)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
  }
 ]

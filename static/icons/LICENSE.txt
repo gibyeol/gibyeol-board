@@ -47,3 +47,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Also from the Lucide GitHub repository (https://github.com/lucide-icons/lucide, icons/ folder, main branch, downloaded 2026-11-26, added for the airport-to-seoul page; same ISC license as above): car-taxi-front.svg arrow-down.svg store.svg wifi.svg
+Also from lucide-static v1.80.0 (npm registry, 2026-11-26, added for the tax-refund and olive-young pages; same ISC license as above): receipt.svg tag.svg ban.svg stamp.svg hand-coins.svg shopping-basket.svg calendar-check.svg globe.svg truck.svg sun.svg droplets.svg layers.svg percent.svg package.svg scan-line.svg sparkles.svg
