@@ -270,7 +270,7 @@ GUIDE_GROUPS = [
      {"en": "Arriving", "ko": "도착했을 때", "ja": "到着したら", "zh-tw": "抵達時"}),
     (["getting-around", "seoul-subway", "seoul-bus", "ktx-busan", "jeju"],
      {"en": "Getting around", "ko": "이동하기", "ja": "移動する", "zh-tw": "交通移動"}),
-    (["deals", "olive-young", "kbeauty-how-to-choose", "daiso", "shopping-streets", "convenience-store", "tax-refund", "duty-free", "skin-clinic"],
+    (["deals", "olive-young", "kbeauty-how-to-choose", "daiso", "shopping-streets", "convenience-store", "tax-refund", "duty-free", "skin-clinic", "winter-light-puffer"],
      {"en": "Shopping and deals", "ko": "쇼핑과 할인", "ja": "買い物とセール", "zh-tw": "購物與特賣"}),
     (["seoul-areas", "palaces", "food", "winter", "concert-trip", "everyday"],
      {"en": "Travelling in Korea", "ko": "한국 안에서 여행하기", "ja": "韓国を旅する", "zh-tw": "在韓國旅行"}),
