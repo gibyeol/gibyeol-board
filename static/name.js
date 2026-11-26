@@ -12,7 +12,7 @@
 
   var UI_ALL = {
     en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Your name stays on this device: we never send it anywhere, and the share card is drawn right here. This page loads no affiliate or ad scripts. Cloudflare, our host, counts visits without cookies. A copied link contains the name.', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
-    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 이 기기 밖으로 보내지 않고, 공유 카드도 이 기기에서 그려요. 이 페이지에는 제휴·광고 스크립트가 없어요. 사이트를 호스팅하는 Cloudflare가 쿠키 없이 방문 수를 세요. 링크를 복사하면 그 링크에는 이름이 들어가요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
+    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 이 기기 밖으로 보내지 않고, 공유 카드도 이 기기에서 그려요. 이 페이지에는 제휴·광고 스크립트가 없어요. 사이트를 호스팅하는 Cloudflare가 쿠키 없이 방문 수를 세요. 링크를 복사하면 그 링크에는 이름이 들어가요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', btnKo: 'Behind the Name 영어 설명을 우리말로 옮겼어요. 원문', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
     ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はこの端末の外に送らず、共有カードもこの端末で描きます。このページにはアフィリエイトや広告のスクリプトはありません。サイトをホストするCloudflareが、Cookieを使わずに訪問数を数えます。リンクをコピーすると、そのリンクには名前が入ります。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
     'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會傳出這台裝置,分享卡也是在這台裝置上畫出來的。這一頁沒有聯盟行銷或廣告程式。網站主機 Cloudflare 會在不使用 Cookie 的情況下計算造訪次數。複製的連結裡會包含名字。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
   };
@@ -332,6 +332,8 @@
         return { c: c, read: rd === '·' ? '' : rd, ko: K[c] && K[c].ko, en: K[c] && K[c].en };
       });
       r.chars.forEach(function (x) { if (!r.chain && KCH[x.c]) r.chain = KCH[x.c]; });
+      var w0 = words[0], gv = words.length > 1 ? words.slice(1).join('') : (w0.length >= 2 && w0.length <= 4 ? w0.slice(w0.length === 4 ? 2 : 1) : w0);
+      r.givenChars = gv.split('');
     }
     return r;
   }
@@ -408,15 +410,13 @@
     if (r.error) { out.innerHTML = '<p>' + T.none + '</p>'; return; }
     var k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
     var key = r.meaning ? r.meaning.key : (r.firstKey || null);
+    var bkey = (window.NADRI_BTN || {})[r.firstKey] ? r.firstKey : key;
     var B = (window.NADRI_BTN || {})[r.firstKey] || (key && (window.NADRI_BTN || {})[key]) || null;
+    r.btnKo = k3 === 'ko' && B ? (window.NADRI_BTN_KO || {})[bkey] || '' : '';
     var h = '';
     // 1. sound
     h += '<h3 class="namer-h">' + T.sound + '</h3>' + r.sounds.map(function (l) {
-      var back = '';
-      if (L3() === 'ko' && r.kind !== 'kana') {
-        if (/[\u30A0-\u30FF]/.test(l[1])) back = l[1].split(/[・\s]/).map(function (w) { return kanaWord(w) || ''; }).join(' ').trim();
-        else if (/[\u0400-\u04FF]/.test(l[1])) back = cyrToHangul(l[1]);
-      }
+      var back = readBack(l[1], r.kind);
       return '<div class="namer-line"><span>' + l[0] + '</span><strong>' + esc(l[1]) + (back ? '<span class="namer-kr">' + esc(back) + '</span>' : '') + '</strong></div>'; }).join('');
     // 2. meaning
     if (r.meaning || B) {
@@ -425,7 +425,9 @@
       var root2 = r.meaning && r.meaning.alias ? ' · ' + esc(name.trim().split(' ')[0]) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : '';
       h += '<h3 class="namer-h">' + T.meaning + root2 + ' <span class="namer-conf c-' + conf + '">' + T.conf[conf] + '</span></h3>';
       if (local) h += '<p class="namer-mean">' + esc(local) + '</p>';
-      if (B) h += '<p class="' + (local ? 'namer-sub' : 'namer-mean') + '">' + esc(B.meaning) + ' <span class="namer-origin">(' + esc(B.origin) + ')</span></p>';
+      // Korean interface: our Korean translation first, Behind the Name's English sentence under it (owner: "영어를 없애라는 말이 아니야")
+      if (B && r.btnKo) h += '<p class="' + (local ? 'namer-sub' : 'namer-mean') + '">' + esc(r.btnKo) + ' <span class="namer-origin">(' + esc(B.origin) + ')</span></p><p class="namer-src">' + UI.btnKo + ': “' + esc(B.meaning) + '”</p>';
+      else if (B) h += '<p class="' + (local ? 'namer-sub' : 'namer-mean') + '">' + esc(B.meaning) + ' <span class="namer-origin">(' + esc(B.origin) + ')</span></p>';
       else if (e.m) h += '<p class="namer-mean">' + esc(e.m.en) + '</p>';
       if (e.w) h += '<p class="namer-sub"><span>' + T.meaning + ' · 한국어 / 日本語 / 中文</span> ' + esc(e.w.ko) + ' / ' + esc(e.w.ja) + ' / ' + esc(e.w.zh) + '</p>';
       if (e.i) h += '<p class="namer-sub"><span>' + T.idea + '</span> <strong>' + esc(e.i.ko) + '</strong> · ' + esc(e.i.ja) + ' · ' + esc(e.i.zh) + '</p>';
@@ -436,7 +438,7 @@
     if (r.chars) {
       h += '<h3 class="namer-h">' + T.meaning + ' · ' + T.chars + '</h3><ul class="namer-chars">' + r.chars.map(function (x) {
         return '<li><b>' + esc(x.c) + '</b> ' + (x.ko ? esc(x.ko) + ' ' : '') + esc(x.read || '') + (x.en ? ' <i>' + esc(x.en) + '</i>' : '') + '</li>';
-      }).join('') + '</ul>';
+      }).join('') + '</ul>%%WHOLE%%';
     }
     var seal = r.hangul.replace(/ /g, '').length <= 9 ? sealSVG(esc(r.hangul)) : '';
     var card = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
@@ -459,7 +461,12 @@
     }
     var bornL = r.kind === 'latin' && key && ((window.NADRI_BORN_OF || {}).latin || {})[key];
     if (bornL) { r.born = { id: bornL }; more = bornBlock(r.born) + more; }
-    if (r.chars) { r.born = bornFromHanja(r.chars.map(function (x) { return x.c; })); if (r.born) more = bornBlock(r.born) + more; }
+    if (r.chars) {
+      r.born = bornFromHanja(r.chars.map(function (x) { return x.c; }));
+      var KJ = window.NADRI_KANJI || {}, gl = function (c) { return KJ[c] ? (k3 === 'ko' ? KJ[c].ko : KJ[c].en) : ''; };
+      r.whole = (r.givenChars || []).some(gl) ? wholeMeaning(r.givenChars, gl, r.born) : '';
+      if (r.born) more = bornBlock(r.born, r.whole) + more;
+    }
     var latinConcept = r.kind === 'latin' && key && ((window.NADRI_CONCEPT_OF || {}).latin || {})[key];
     var WD = window.NADRI_WORLD || {};
     if (latinConcept) more += conceptBlock(latinConcept, { noChain: !!(r.chain) || !!WD[latinConcept] });
@@ -477,7 +484,7 @@
     if (cids.length) r.chain = null;
     if (wids.length) {
       r.worldId = wids[0];
-      if (!r.born) more = worldBornBlock(wids[0]) + more;
+      if (!r.born) more = worldBornBlock(wids[0], r.whole) + more;
       wids.slice(0, 2).forEach(function (id, i) { more += worldBlock(id, i === 0 ? krChain : null, name); });
     }
     // Korea-only chain (meanings we have not mapped worldwide yet), with the slot for travellers' lines and the next name
@@ -490,6 +497,8 @@
     }
     var rel = (window.NADRI_RELATED || {})[key] || (window.NADRI_RELATED || {})[r.firstKey];
     if (rel) more += '<p class="namer-next"><span>' + T.related + '</span> ' + rel.map(function (n) { return '<button type="button" data-n="' + n + '">' + n.charAt(0).toUpperCase() + n.slice(1) + '</button>'; }).join(' ') + '</p>';
+    // the whole-name meaning appears once: in the born-in heading if there is one, else under the characters
+    card = card.replace('%%WHOLE%%', r.whole && more.indexOf('namer-born-h') < 0 ? '<p class="namer-gloss">' + T.yourNameIs + ' <strong>“' + esc(r.whole) + '”</strong></p>' : '');
     out.innerHTML = card + more;
     prepareCard(r);
     out.querySelector('.namer-cardbtn').onclick = cardClick;
@@ -503,6 +512,32 @@
 
 
 
+  /* the Hangul reading the page shows after a sound line (Korean interface): kana and Cyrillic read back (as before),
+     Chinese characters by their Mandarin reading (외래어 표기법 Chinese table; data name-zhko.js, built by tools/build_zhko.py) */
+  function zhRead(v) {
+    var Z = window.NADRI_ZHKO, M = window.NADRI_ZHKO_MULTI || '', out = '', approx = false, ok = true;
+    if (!Z || L3() !== 'ko') return '';
+    Array.from(v).forEach(function (ch) {
+      if (/[\s·・]/.test(ch)) out += ' ';
+      else if (Z[ch]) { out += Z[ch]; if (M.indexOf(ch) >= 0) approx = true; }
+      else ok = false;
+    });
+    return ok && out.trim() ? out.trim().replace(/\s+/g, ' ') + (approx ? ' · ' + UI.kanaApprox : '') : '';
+  }
+  function readBack(v, kind) {
+    if (L3() !== 'ko' || kind === 'kana' || !v) return '';
+    if (/[\u30A0-\u30FF]/.test(v)) return v.split(/[・\s]/).map(function (w) { return kanaWord(w) || ''; }).join(' ').trim();
+    if (/[\u0400-\u04FF]/.test(v)) return cyrToHangul(v);
+    if (/[\u4E00-\u9FFF]/.test(v) && kind !== 'han') return zhRead(v);
+    return '';
+  }
+  /* the whole given name's meaning, every character joined (元斗 = 으뜸 + 별, owner's design); a natural phrase only where the
+     data has one that covers every character (the born-in 'first star' phrase for 元/一/始/初/首 + the star character) */
+  function wholeMeaning(chars, gloss, born) {
+    var BB = born && (window.NADRI_BORN || {})[born.id], M = (window.NADRI_BORN_OF || {}).hanja || {}, k3 = L3();
+    if (BB && born.first && BB.first && chars.length > 1 && chars.every(function (c) { return '元一始初首'.indexOf(c) >= 0 || M[c] === born.id; })) return BB.first[k3] || BB.first.en;
+    return chars.map(function (c) { return gloss(c) || c; }).join(' + ');
+  }
   function kr(form, lang) {
     if (L3() !== 'ko' || !form || /[가-힣]/.test(form)) return '';
     var r = window.nadriKoRead ? window.nadriKoRead(form, lang) : '';
@@ -537,7 +572,7 @@
     var id = BORN_PRI.filter(function (b) { return found[b]; })[0];
     return id ? { id: id, first: chars.some(function (c) { return '元一始初首'.indexOf(c) >= 0; }) } : null;
   }
-  function bornBlock(b) {
+  function bornBlock(b, whole) {
     var B = (window.NADRI_BORN || {})[b.id]; if (!B) return '';
     var k3 = L3(), ph = (b.first && B.first ? B.first : B.phrase);
     var rows = B.c.map(function (c) {
@@ -545,7 +580,8 @@
       if (!c[2]) return '<li class="hold"><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + '</b> <small>' + esc(c[3]) + '</small><p>' + esc(why) + ' ' + mail('Nadri born-in: ' + b.id + ' / ' + country, T.native) + '</p></div></li>';
       return '<li><span class="namer-flag">' + c[0] + '</span><div><b>' + esc(country) + ' → ' + esc(c[2]) + kr(c[2]) + '</b>' + (c[3] ? ' <small>' + esc(c[3]) + '</small>' : '') + '<p>' + esc(why) + '</p><span class="namer-pct">' + T.sure + ' ' + c[5] + '%</span></div></li>';
     }).join('');
-    return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(ph[k3] || ph.en) + '”</strong></p><h3 class="namer-h">' + T.bornIn + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
+    var p0 = ph[k3] || ph.en, top = whole || p0;
+    return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(top) + '”</strong></p><h3 class="namer-h">' + T.bornIn + (top !== p0 ? ' · ' + esc(p0) : '') + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
   }
 
   /* one meaning, the names that carry it around the world, and its Korean story */
@@ -600,7 +636,7 @@
       '<div class="namer-oneline"><b>' + T.oneLine + '</b><p>' + mail('Nadri one line: ' + wid, T.oneLineEmpty) + '</p></div></section>';
   }
   /* "If you were born in…" built from the world entries that carry a name (used where no older born-in list exists) */
-  function worldBornBlock(wid) {
+  function worldBornBlock(wid, whole) {
     var W = (window.NADRI_WORLD || {})[wid], C = (window.NADRI_CONCEPTS || {})[wid]; if (!W) return '';
     var named = W.filter(function (e) { return e.n; }); if (!named.length) return '';
     var k3 = L3(), lab = C ? (C[k3] || C.en) : (named[0].n);
@@ -608,7 +644,8 @@
       var rg = regionOf(e.r);
       return '<li><span class="namer-flag">' + rg.flag + '</span><div><b>' + esc(rg.name) + worldName(e) + '</b>' + (e.nn ? ' <small>' + esc(e.nn) + '</small>' : '') + '<p>' + esc(e.g[k3] || e.g.en) + '</p><span class="namer-conf c-' + e.c + '">' + (T.conf[e.c] || e.c) + '</span></div></li>';
     }).join('');
-    return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(lab) + '”</strong></p><h3 class="namer-h">' + T.bornIn + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
+    var top = whole || lab;
+    return '<section class="namer-sec namer-born"><p class="namer-born-h">' + T.yourNameIs + ' <strong>“' + esc(top) + '”</strong></p><h3 class="namer-h">' + T.bornIn + (top !== lab ? ' · ' + esc(lab) : '') + '</h3><ul class="namer-born-list">' + rows + '</ul></section>';
   }
 
   function abroadFor(meanings) {
@@ -632,7 +669,8 @@
       (bi >= 0 ? T.koBabyRank.replace('{r}', bi + 1).replace('{g}', T.boys) + ' ' : '') + (gi >= 0 ? T.koBabyRank.replace('{r}', gi + 1).replace('{g}', T.girls) : '') + (bi < 0 && gi < 0 ? T.koBabyNone : '') + '</p>';
     var nat = (window.KO_NATIVE || {})[K.given];
     if (nat) h += '<p class="namer-sub"><span>' + T.koNative + '</span> <strong>' + esc(k3 === 'ko' ? nat[0] : nat[1]) + '</strong></p>' + abroadFor([nat[1]]);
-    var bornN = ((window.NADRI_BORN_OF || {}).native || {})[K.given]; if (bornN) { r.born = { id: bornN }; h = bornBlock(r.born) + h; }
+    if (nat) r.whole = k3 === 'ko' ? nat[0] : nat[1];
+    var bornN = ((window.NADRI_BORN_OF || {}).native || {})[K.given]; if (bornN) { r.born = { id: bornN }; h = bornBlock(r.born, r.whole) + h; }
     h += '<p class="namer-src">' + T.src + ': ' + T.srcKo + '</p></section>';
     // hanja picker for each syllable of the given name
     var H = window.KO_NAME_HANJA || {}, sy = K.given.split('');
@@ -654,13 +692,17 @@
         var list = Object.keys(picked).sort().map(function (k) { return picked[k]; });
         var sh = (window.KO_SURNAME_HANJA || {})[r.ko.sur] || '';
         var name = sh + list.map(function (x) { return x.h; }).join('');
-        var o = '<p class="namer-mean">' + esc(name) + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
+        var zr = zhRead(name);
+        var o = '<p class="namer-mean">' + esc(name) + (zr ? '<span class="namer-kr">' + esc(T.zh + ' ' + zr) + '</span>' : '') + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
         var ids = conceptsForHanja(list.map(function (x) { return x.h; })), CC = window.NADRI_CONCEPTS || {}, k3 = L3();
         r.born = bornFromHanja(list.map(function (x) { return x.h; })); r.pickedName = name; r.picked = list; r.pickedIds = ids;
         var WD = window.NADRI_WORLD || {}, wids = ids.filter(function (id) { return WD[id]; });
         r.worldId = wids[0] || null;
-        if (r.born) o += bornBlock(r.born); else if (wids.length) o += worldBornBlock(wids[0]);
-        if (ids.length) o += '<p class="namer-gloss">' + ids.map(function (id) { return esc(CC[id][k3] || CC[id].en); }).join(' + ') + (k3 !== 'en' ? ' <span class="namer-origin">(' + ids.map(function (id) { return esc(CC[id].en); }).join(' + ') + ')</span>' : '') + '</p>';
+        var bySyl = r.ko.given.split('').map(function (c, j) { return picked[j] || null; });
+        var hun = {}; list.forEach(function (x) { hun[x.h] = k3 === 'ko' ? x.hun : x.en; });
+        r.whole = wholeMeaning(bySyl.map(function (x) { return x ? x.h : '?'; }), function (c) { return hun[c] || ''; }, r.born);
+        var bb = r.born ? bornBlock(r.born, r.whole) : wids.length ? worldBornBlock(wids[0], r.whole) : '';
+        o += bb || '<p class="namer-gloss">' + T.yourNameIs + ' <strong>“' + esc(r.whole) + '”</strong></p>';
         ids.forEach(function (id) { o += conceptBlock(id, { noChain: !!WD[id] }); });
         wids.slice(0, 2).forEach(function (id) { o += worldBlock(id, null, name); });
         if (!ids.length) { var ab = abroadFor(list.map(function (x) { return x.en; })); if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab; }
@@ -707,24 +749,19 @@
     // 1. sound: every line of the page's sound section, with the page's Hangul read-back of kana and Cyrillic (Korean interface)
     r.sounds.forEach(function (l) {
       if (!l[1] || l[1] === m.hero) return;
-      var back = '';
-      if (ko && r.kind !== 'kana') {
-        if (/[゠-ヿ]/.test(l[1])) back = l[1].split(/[・\s]/).map(function (w) { return kanaWord(w) || ''; }).join(' ').trim();
-        else if (/[Ѐ-ӿ]/.test(l[1])) back = cyrToHangul(l[1]);
-      }
+      var back = readBack(l[1], r.kind);
       m.sounds.push({ label: l[0] + (r.approx && l[0] === UI.lKo ? ' (' + UI.kanaApprox + ')' : ''), lines: String(l[1]).split(' · '), read: back });
     });
-    if (r.pickedName) m.sounds.push({ label: T.koHanja, lines: [r.pickedName], read: '' });
+    if (r.pickedName) { var zr = zhRead(r.pickedName); m.sounds.push({ label: T.koHanja, lines: [r.pickedName], read: zr ? T.zh + ' ' + zr : '' }); }
     // 2. the whole-name meaning ("Your name means …")
     var e = r.meaning && r.meaning.e, B = r.btn, BB = r.born && (window.NADRI_BORN || {})[r.born.id];
     var ids = (r.kind === 'hangul' ? r.pickedIds : r.kind === 'han' ? r.cids : (r.concept ? [r.concept] : [])) || [];
     ids = ids.filter(function (id) { return CC[id]; });
-    var ph = null;
-    if (r.kind === 'latin' && e && e.m) ph = { word: (k3 !== 'en' && e.m[k3]) || e.m.en, conf: T.conf[e.c || 'h'], detail: B && B.meaning ? B.meaning : '' };
-    else if (r.kind === 'latin' && B && B.meaning) ph = { word: B.meaning, conf: T.conf.h, long: true };
-    else if (BB && r.born.first && BB.first) ph = { word: BB.first[k3] || BB.first.en };
-    else if (ids.length > 1) ph = { word: ids.map(clabel).join(' + ') };
-    else if (BB) ph = { word: BB.phrase[k3] || BB.phrase.en };
+    var ph = null, btnLine = r.btnKo || (B && B.meaning) || '';
+    if (r.kind === 'latin' && e && e.m) ph = { word: (k3 !== 'en' && e.m[k3]) || e.m.en, conf: T.conf[e.c || 'h'], detail: btnLine };
+    else if (r.kind === 'latin' && B && B.meaning) ph = { word: btnLine, conf: T.conf.h, long: true };
+    else if (r.whole) ph = { word: r.whole };   // every character of the given name (or the native word's meaning), as the page shows it
+    else if (BB) ph = { word: (r.born.first && BB.first ? BB.first : BB.phrase)[k3] || BB.phrase.en };
     else if (r.worldId && CC[r.worldId]) ph = { word: clabel(r.worldId) };
     else if (ids.length) ph = { word: clabel(ids[0]) };
     var nat = r.kind === 'hangul' && r.ko && !(r.picked && r.picked.length) ? (window.KO_NATIVE || {})[r.ko.given] : null;
@@ -733,7 +770,7 @@
       if (r.kind === 'han' && r.chars) ph.detail = r.chars.filter(function (x) { return x.ko || x.en; }).map(function (x) { return x.c + ' ' + (ko && x.ko ? x.ko + ' ' + (x.read || '') : (x.en || x.ko)); }).join(' · ');
       if (r.kind === 'hangul' && r.picked && r.picked.length) ph.detail = r.picked.map(function (x) { return x.h + ' ' + (ko ? x.hun : x.en); }).join(' · ');
       if (r.meaning && r.meaning.alias) ph.root = cap(r.meaning.key);
-      if (r.kind === 'latin') m.src.phrase = ['Behind the Name'];
+      if (r.kind === 'latin') m.src.phrase = [r.btnKo ? 'Behind the Name (우리말 옮김)' : 'Behind the Name'];
       m.phrase = ph;
     }
     m.concept = r.concept || ids[0] || r.worldId || (r.born && r.born.id) || null;
@@ -745,7 +782,11 @@
     else if (r.worldId && WD[r.worldId]) WD[r.worldId].filter(function (x) { return x.n && !dup(x.n); }).forEach(function (x) {
       rows.push({ place: regionOf(x.r).name, name: x.n, read: ko && x.nk ? x.nk : '', orig: x.nn || '', why: x.g[k3] || x.g.en, conf: T.conf[x.c] || x.c, src: x.s && x.s[0] && x.s[0][0] });
     });
-    if (rows.length) m.born = rows;
+    if (rows.length) {
+      m.born = rows;
+      var bp = BB ? ((r.born.first && BB.first ? BB.first : BB.phrase)[k3] || BB.phrase.en) : clabel(r.worldId);
+      m.bornLabel = T.bornIn + (bp && (!m.phrase || m.phrase.word !== bp) ? ' · ' + bp : '');
+    }
     // 4. names with the same meaning in other languages (the page's concept grid; for native Korean words, its list of names abroad)
     var cid = ids.filter(function (id) { return CC[id].names && CC[id].names.length; })[0];
     if (cid) {
@@ -877,7 +918,7 @@
       });
       var rowH = function (x) { return 30 + x.name.size * 1.2 + (x.extra && !x.inline ? 30 : 0) + (x.why ? x.why.lines.length * x.why.size * 1.35 + 4 : 0); };
       blocks.push({ id: 'born', h: 40 + R.reduce(function (a, x) { return a + rowH(x) + 16; }, 0) - 16, src: R.map(function (x) { return x.it.src; }), draw: function (y) {
-        cardLabel(g, T.bornIn, CM, y + 22); y += 40;
+        cardLabel(g, m.bornLabel || T.bornIn, CM, y + 22); y += 40;
         R.forEach(function (x) {
           drawLines(g, x.place, CM, y + 22, 30, C_MUTED);
           g.font = cfont('text', x.place.size); chip(g, x.it.conf, CM + g.measureText(x.place.lines[0]).width + 10, y + 24);
