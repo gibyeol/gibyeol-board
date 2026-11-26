@@ -33,7 +33,7 @@
 | 서울교통공사 www.seoulmetro.co.kr (편의시설 menuIdx=569 등) | https 요청이 http로 302 → 시간 초과 | 역별 보관함 위치 목록 | 원두가 seoulmetro.co.kr 허용 또는 휴대폰 화면 캡처 |
 | 또타라커 공식 tlocker.co.kr / smrte.co.kr | 프록시 403 | 현재 요금표(2025-03 시민기자 기사 숫자와 같은지) | 해당 호스트 허용 |
 | 또타러기지 공식 tluggage.co.kr | 프록시 403 / WebFetch ENOTFOUND | 역별 운영 시간·요금표·배송 요금 | tluggage.co.kr 허용 |
-| 아시아경제 'Seoul Subway Lockers Now Usable Instantly via QR Code Without App Installation' https://view.asiae.co.kr/en/article/2026090708424187862 · 헤럴드경제 https://biz.heraldcorp.com/article/10864461 (2026-09-07) | 프록시 403 / ENOTFOUND | **보관함 QR을 찍으면 앱 설치·회원가입 없이 웹으로 이용, 8월에 보관함 있는 전 역으로 확대 완료**. 앱은 계속 사용 가능 | 둘 중 하나 허용, 또는 서울교통공사 보도자료 원문. **확인되면 배터리처럼 '앱 없이도 돼요'로 페이지를 바꿔야 함(가장 중요한 미확인)** |
+| 아시아경제 'Seoul Subway Lockers Now Usable Instantly via QR Code Without App Installation' https://view.asiae.co.kr/en/article/2026090708424187862 · 헤럴드경제 https://biz.heraldcorp.com/article/10864461 (2026-09-07) | 프록시 403 / ENOTFOUND | **보관함 QR을 찍으면 앱 설치·회원가입 없이 웹으로 이용, 8월에 보관함 있는 전 역으로 확대 완료**. 앱은 계속 사용 가능 | 둘 중 하나 허용, 또는 서울교통공사 보도자료 원문. **확인되면 배터리처럼 '앱 없이도 돼요'로 페이지를 바꿔야 함(가장 중요한 미확인)** → 2026-11-27 01:3x 변경: 원두 허용 [7eb4ec94#2712] 뒤 두 기사 모두 열림(D표 S16·S17). 서울교통공사 원문은 여전히 못 엶 |
 | 완충이 구글 플레이 / 공식 누리집 | 403 | 요금제 상세, 해외 카드·해외 번호 가입 가능 여부 | play.google.com 허용 |
 | 충전돼지 piggycell.com | 프록시 403 | 요금(검색 요약에 숫자 없음) | 허용 |
 | 짐캐리 jimcarry.co.kr · 한진 hanjin.com | 프록시 403 | 공항 보관 요금(검색 요약: 대한항공 코트룸 안내 등, 출처마다 다름) | 허용 또는 공항 현장 요금표 |
@@ -48,3 +48,15 @@
 - 럭스테이(LugStay): 근거가 2020년 시민기자 기사(mediahub 1293868)뿐이고 누리집 lugstay.com이 막혀 지금 운영 여부 확인 못 함.
 - 공항 보관 요금: 공식 목록에 없음. 검색 요약의 대한항공 코트룸 요금(1일 2,500원 / 4,000원, 페이지마다 다름)은 외투 보관이라 짐 보관과 다름.
 - Klook 'T-PASS 짐 배송·보관'(검색 결과에 보임): 지시대로 제휴 링크 안 넣음.
+
+## D. 2차 수집 — 원두 허용 뒤 (2026-11-27 01:30~ KST, 서버 `TZ=Asia/Seoul date` 기준)
+
+근거: 원두 "전부 허용해 아직 사용량 많이 남았어 작업 계속해" [7eb4ec94#2712]. 방법은 1차와 같음(`curl -A 'Mozilla/5.0'`, 우회 없음). 받은 원문은 비공개 저장소 wondu-archive `staging/overnight-2026-11-27/raw/facilities/`에 커밋(수집 기록 `FETCH-LOG-2026-11-27-0130.md`).
+
+| # | 출처 | 등급 · 날짜 | 가져온 것 (원문 그대로) | 페이지 위치 |
+|---|---|---|---|---|
+| S16 | 아시아경제(영문) 'Seoul Subway Lockers Now Usable Instantly via QR Code Without App Installation' https://view.asiae.co.kr/en/article/2026090708424187862 | 언론(서울교통공사 발표 인용) · "Published 07 Sep.2026 08:42(KST)", 11/27 01:3x 확인 | "It is now possible to use the Seoul subway locker service without installing an app. By scanning the QR code attached to the locker with a smartphone, users can access the service directly via a web page without needing to install an app or sign up as a member." / "Seoul Metro announced on September 7 that it has introduced a locker web service and has completed its implementation in all stations under its jurisdiction where lockers are operated." / "To use the service, simply scan the QR code on the locker and select the web option." / "finished expanding it to all stations last August" | lede, 선택 카드 '필요', 지하철 보관함 초록 상자·2~3단계 |
+| S17 | 헤럴드경제(영문) 'Scan, skip the app, store: Seoul subway lockers now work via QR web access' https://biz.heraldcorp.com/article/10864461 | 언론(서울교통공사 발표 인용) · "Published : Sept. 7, 2026", "Updated : Oct. 14, 2026", 11/27 확인 | "Passengers can now scan the QR code on any locker with a smartphone and go straight to a webpage — no app download or account registration needed." / "The process is straightforward: scan the QR code on the locker, select the web option, and the browser opens the service page immediately." / "completed the expansion to all locker-equipped stations in August" | 같음 (S16과 교차 확인) |
+| S18 | 구글 플레이 'T locker 또타라커 - 지하철 물품보관전달함' https://play.google.com/store/apps/details?id=io.mobinity.locker | 앱스토어(개발자 SEOUL METROPOLITAIN RAPID TRANSIT ENGINEERING) · "업데이트 날짜 2026. 8. 19.", 11/27 확인 | "또타라커 : 서울교통공사 운영전역사(단 1호선 : 서울역~청량리역, 9호선 : 삼전역~중앙보훈병원역)" / "내 주변 물품 보관함과 창고를 지도에서 바로 검색" / "1:1 챗봇 상담" | 보관함 1단계 안드로이드 링크 |
+
+판정: S16·S17은 **서로 다른 두 언론사가 같은 서울교통공사 발표를 보도**한 것(출처는 사실상 1곳: 서울교통공사 발표). 서울교통공사 누리집 원문은 못 엶(B표 갱신 참고). 그래서 페이지에는 "서울교통공사 … 발표(아시아경제·헤럴드경제 보도)"라고 적었다. 두 기사 모두 웹 화면의 결제 수단·해외 카드·문 여는 순서는 말하지 않는다 → 페이지에 "확인하지 못한 것"으로 적음.

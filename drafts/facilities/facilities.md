@@ -1,7 +1,7 @@
 ---
 title: 보조배터리 빌리기·짐 맡기기: 서울에서 손 가볍게
 description: 휴대폰 배터리가 떨어졌을 때 CU에서 보조배터리 빌리는 법(앱, 30분 800원, 반납), 지하철역 보관함·직원 짐 보관소·인천공항 짐 보관 위치와 요금. 2026년 11월 27일 확인.
-lede: 배터리는 CU 대여기에서 30분 800원. 짐은 지하철역 보관함에 4시간 2,200원부터. 둘 다 앱으로 해요.
+lede: 배터리는 CU 대여기에서 30분 800원('완충이' 앱). 짐은 지하철역 보관함에 4시간 2,200원부터, 보관함의 QR을 찍으면 앱 없이도 돼요.
 section: essentials
 updated: 2026-11-27
 ---
@@ -49,17 +49,21 @@ updated: 2026-11-27
 
 <h2 id="luggage">짐을 맡기고 싶을 때</h2>
 
-<ul class="tr-choose tr-compare"><li><i class="ic ic-package" aria-hidden="true"></i><b>몇 시간, 아무 역에서나</b><ul class="tr-kv"><li><b>어디</b> 지하철역 무인 보관함 '또타라커'</li><li><b>요금</b> 4시간 2,200~4,400원(주중)</li><li><b>필요</b> 또타라커 앱</li><li><b>바로 가기</b> <a href="#locker">보관함 쓰는 법</a></li></ul></li><li><i class="ic ic-users" aria-hidden="true"></i><b>큰 캐리어, 직원에게</b><ul class="tr-kv"><li><b>어디</b> '또타러기지' 7개 역(서울역·명동·홍대입구 등)</li><li><b>요금</b> 4시간 3,000~9,000원(주중)</li><li><b>덤</b> 인천공항까지 당일 배송도</li><li><b>바로 가기</b> <a href="#tluggage">서울역에서 찾기</a></li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항에서</b><ul class="tr-kv"><li><b>1터미널</b> 3층 B·N 체크인 카운터 근처</li><li><b>2터미널</b> 3층 서편 1번 게이트 근처</li><li><b>요금</b> 확인하지 못했어요</li><li><b>바로 가기</b> <a href="#airport">공항에서 찾기</a></li></ul></li><li><i class="ic ic-hotel" aria-hidden="true"></i><b>체크아웃 뒤 저녁 비행기</b><ul class="tr-kv"><li><b>먼저</b> 숙소 프런트에 맡아 주는지 물어봐요</li><li><b>안 되면</b> 위 셋 중 동선에 맞는 곳</li></ul></li></ul>
+<ul class="tr-choose tr-compare"><li><i class="ic ic-package" aria-hidden="true"></i><b>몇 시간, 아무 역에서나</b><ul class="tr-kv"><li><b>어디</b> 지하철역 무인 보관함 '또타라커'</li><li><b>요금</b> 4시간 2,200~4,400원(주중)</li><li><b>필요</b> 휴대폰만(보관함 QR → 웹)</li><li><b>바로 가기</b> <a href="#locker">보관함 쓰는 법</a></li></ul></li><li><i class="ic ic-users" aria-hidden="true"></i><b>큰 캐리어, 직원에게</b><ul class="tr-kv"><li><b>어디</b> '또타러기지' 7개 역(서울역·명동·홍대입구 등)</li><li><b>요금</b> 4시간 3,000~9,000원(주중)</li><li><b>덤</b> 인천공항까지 당일 배송도</li><li><b>바로 가기</b> <a href="#tluggage">서울역에서 찾기</a></li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항에서</b><ul class="tr-kv"><li><b>1터미널</b> 3층 B·N 체크인 카운터 근처</li><li><b>2터미널</b> 3층 서편 1번 게이트 근처</li><li><b>요금</b> 확인하지 못했어요</li><li><b>바로 가기</b> <a href="#airport">공항에서 찾기</a></li></ul></li><li><i class="ic ic-hotel" aria-hidden="true"></i><b>체크아웃 뒤 저녁 비행기</b><ul class="tr-kv"><li><b>먼저</b> 숙소 프런트에 맡아 주는지 물어봐요</li><li><b>안 되면</b> 위 셋 중 동선에 맞는 곳</li></ul></li></ul>
 
 <h3 class="tr-step" id="locker"><span class="n">1</span><i class="ic ic-package" aria-hidden="true"></i>지하철역 무인 보관함(또타라커)</h3>
 
 <ul class="tr-kv"><li><b>있는 곳</b> 서울교통공사 역(1~8호선, 1호선은 서울역~청량리, 9호선은 삼전~중앙보훈병원)</li><li><b>크기·요금(주중 4시간)</b> 소 2,200원 · 중 3,300원 · 대 4,400원</li><li><b>넘으면(1시간마다)</b> 소 500원 · 중 800원 · 대 1,000원</li><li><b>대형 칸</b> 50×90×60cm</li><li><b>못 넣는 것</b> 귀중품, 음식, 동식물, 위험물</li></ul>
 
-1. **앱 설치:** [T locker 또타라커(앱스토어)](https://apps.apple.com/kr/app/t-locker-%EB%98%90%ED%83%80%EB%9D%BC%EC%BB%A4-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AC%BC%ED%92%88-%EB%B3%B4%EA%B4%80-%EC%A0%84%EB%8B%AC%ED%95%A8/id1503291383), 안드로이드는 플레이 스토어에서 '또타라커'. 한국어·영어·일본어·중국어(간체).
-2. **찾기:** 앱 지도에서 가까운 역 보관함과 빈 칸을 봐요. 가서 빈 칸이 없으면 헛걸음이니 꼭 먼저 확인해요.
-3. **고르고 결제:** 짐 크기에 맞는 칸을 골라 앱에서 예약·결제해요.
-4. **넣기:** 앱이 문을 열어요. 비밀번호는 30초마다 새로 만들어져요.
-5. **찾기:** 다시 앱으로 열어요. 4시간이 넘었으면 추가 요금이 붙어요.
+<aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span><b>앱 없이 돼요.</b> 보관함의 QR을 찍고 '웹'을 고르면 앱 설치·회원가입 없이 이용해요. 서울교통공사가 2026년 8월까지 보관함이 있는 모든 역에 넣었다고 9월 7일 발표했어요(아시아경제·헤럴드경제 보도).</span></aside>
+
+1. **빈 칸 미리 보기(하면 좋아요):** [또타라커 앱(아이폰)](https://apps.apple.com/kr/app/t-locker-%EB%98%90%ED%83%80%EB%9D%BC%EC%BB%A4-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AC%BC%ED%92%88-%EB%B3%B4%EA%B4%80-%EC%A0%84%EB%8B%AC%ED%95%A8/id1503291383) · [안드로이드](https://play.google.com/store/apps/details?id=io.mobinity.locker) 지도에서 가까운 역 보관함과 빈 칸을 봐요. 가서 빈 칸이 없으면 헛걸음이에요. 앱을 안 깔았으면 2번부터.
+2. **QR 찍기:** 역 보관함에 붙은 QR 코드를 휴대폰 카메라로 찍어요.
+3. **'웹' 고르기:** 앱과 웹 중 **웹**을 누르면 브라우저에서 바로 이어져요.
+4. **고르고 결제:** 짐 크기에 맞는 칸(소·중·대)을 골라 결제해요.
+5. **넣기·찾기:** 화면 안내대로 문을 열어 넣어요. 찾을 때 4시간이 넘었으면 추가 요금이 붙어요.
+
+<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>확인하지 못한 것:</b> 웹 화면의 결제 수단(해외 카드가 되는지)과 찾을 때 누르는 순서. 웹 화면을 직접 열어 보지 못했어요. 앱으로 하면 앱이 문을 열고, 비밀번호는 30초마다 새로 만들어져요. 앱 언어: 한국어·영어·일본어·중국어(간체).</span></aside>
 
 <aside class="tr-note"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>안 열리면:</b> 앱 안의 1:1 상담, 또는 역의 고객안전실(역무실)에 가요. 서울교통공사 고객센터 1577-1234.</span></aside>
 
@@ -67,7 +71,7 @@ updated: 2026-11-27
 
 - 소형 6시간: 2,200원 + 500원 × 2시간 = 3,200원(주중 요금 기준 계산).
 - 크기: 소 50×30×60cm, 중 50×45×60cm, 대 50×90×60cm.
-- 주말·공휴일 요금, 앱 결제 수단(해외 카드 여부)은 공식 누리집을 열지 못해 확인하지 못했어요.
+- 주말·공휴일 요금, 결제 수단(해외 카드 여부)은 확인하지 못했어요. 운영사 누리집(tlocker.co.kr)은 다른 주소로 넘어가 열리지 않았고, 서울교통공사 안내 페이지도 열리지 않았어요.
 
 </details>
 
@@ -117,7 +121,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>출처와 사진 정보</summary>
 
-<p class="sources">2026년 11월 27일 열어 확인: CU <a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">공유보조배터리 대여</a>(완충이, 30분 800원, 어디서든 반납)·<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">매장찾기</a>('공유보조 배터리' 버튼); 앱스토어 <a href="https://apps.apple.com/kr/app/%EC%99%84%EC%B6%A9e/id1531816431" rel="noopener" target="_blank">완충e</a>(QR 대여, 반납 때 앱 불필요)·<a href="https://apps.apple.com/us/app/cungjeondwaeji/id1493471671" rel="noopener" target="_blank">충전돼지</a>·<a href="https://apps.apple.com/kr/app/t-locker-%EB%98%90%ED%83%80%EB%9D%BC%EC%BB%A4-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AC%BC%ED%92%88-%EB%B3%B4%EA%B4%80-%EC%A0%84%EB%8B%AC%ED%95%A8/id1503291383" rel="noopener" target="_blank">T locker 또타라커</a>(운영 역, 지도 검색, 앱으로 잠금 제어, 지원 언어); 인천국제공항공사 <a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">편의 · 공공시설</a>(1터미널 짐캐리, 2터미널 한진택배 위치·시간·전화); 서울시 내 손안에 서울 <a href="https://mediahub.seoul.go.kr/archives/1277874" rel="noopener" target="_blank">또타라커 앱 출시</a>(2020년 4월 21일), 시민기자 기사 <a href="https://mediahub.seoul.go.kr/archives/2013639" rel="noopener" target="_blank">또타라커·또타러기지</a>(2025년 3월 11일: 크기·요금·7개 역·배송 요금), <a href="https://mediahub.seoul.go.kr/archives/2019938" rel="noopener" target="_blank">서울역 또타러기지</a>(2026년 11월 10일: 지하 1층 위치·운영 시간·무인 보관소), <a href="https://mediahub.seoul.go.kr/archives/2015132" rel="noopener" target="_blank">지하철 이용 팁</a>(2025년 7월 23일: 30초 비밀번호, 무선 충전), <a href="https://mediahub.seoul.go.kr/archives/2018791" rel="noopener" target="_blank">유실물 집앞배송</a>(고객센터 1577-1234). 이번에 열지 못한 것: 서울교통공사·또타라커·또타러기지·충전돼지·짐캐리·한진 공식 누리집, 2026년 9월 '보관함 QR로 앱 없이' 보도(아시아경제·헤럴드경제).</p>
+<p class="sources">2026년 11월 27일 열어 확인: CU <a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">공유보조배터리 대여</a>(완충이, 30분 800원, 어디서든 반납)·<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">매장찾기</a>('공유보조 배터리' 버튼); 앱스토어 <a href="https://apps.apple.com/kr/app/%EC%99%84%EC%B6%A9e/id1531816431" rel="noopener" target="_blank">완충e</a>(QR 대여, 반납 때 앱 불필요)·<a href="https://apps.apple.com/us/app/cungjeondwaeji/id1493471671" rel="noopener" target="_blank">충전돼지</a>·<a href="https://apps.apple.com/kr/app/t-locker-%EB%98%90%ED%83%80%EB%9D%BC%EC%BB%A4-%EC%A7%80%ED%95%98%EC%B2%A0-%EB%AC%BC%ED%92%88-%EB%B3%B4%EA%B4%80-%EC%A0%84%EB%8B%AC%ED%95%A8/id1503291383" rel="noopener" target="_blank">T locker 또타라커</a>(운영 역, 지도 검색, 앱으로 잠금 제어, 지원 언어); 인천국제공항공사 <a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">편의 · 공공시설</a>(1터미널 짐캐리, 2터미널 한진택배 위치·시간·전화); 서울시 내 손안에 서울 <a href="https://mediahub.seoul.go.kr/archives/1277874" rel="noopener" target="_blank">또타라커 앱 출시</a>(2020년 4월 21일), 시민기자 기사 <a href="https://mediahub.seoul.go.kr/archives/2013639" rel="noopener" target="_blank">또타라커·또타러기지</a>(2025년 3월 11일: 크기·요금·7개 역·배송 요금), <a href="https://mediahub.seoul.go.kr/archives/2019938" rel="noopener" target="_blank">서울역 또타러기지</a>(2026년 11월 10일: 지하 1층 위치·운영 시간·무인 보관소), <a href="https://mediahub.seoul.go.kr/archives/2015132" rel="noopener" target="_blank">지하철 이용 팁</a>(2025년 7월 23일: 30초 비밀번호, 무선 충전), <a href="https://mediahub.seoul.go.kr/archives/2018791" rel="noopener" target="_blank">유실물 집앞배송</a>(고객센터 1577-1234). 2026년 11월 27일 추가로 열어 확인: '보관함 QR로 앱 없이' 보도 <a href="https://view.asiae.co.kr/en/article/2026090708424187862" rel="noopener" target="_blank">아시아경제</a>(2026년 9월 7일)·<a href="https://biz.heraldcorp.com/article/10864461" rel="noopener" target="_blank">헤럴드경제</a>(9월 7일, 10월 14일 수정), 구글 플레이 <a href="https://play.google.com/store/apps/details?id=io.mobinity.locker" rel="noopener" target="_blank">또타라커</a>. 열지 못한 것: 서울교통공사 또타라커 안내·보도자료 원문, 또타라커 운영 누리집.</p>
 
 <p class="sources"><b>이 페이지의 사진</b></p><ul class="ap-credits"><li><a href="https://commons.wikimedia.org/wiki/File:CU_Namdaemun-ro-5ga_branch_20181122_072838.jpg" rel="noopener" target="_blank">File:CU Namdaemun-ro-5ga branch 20181122 072838.jpg</a>: LERK, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 기존 static/photo/cvs-cu-front.webp 그대로.</li><li><a href="https://commons.wikimedia.org/wiki/File:Incheon_airport_departure_gate_access.jpg" rel="noopener" target="_blank">File:Incheon airport departure gate access.jpg</a>: Sgroey, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 수정: 960px 판에서 왼쪽 위 카운터 표지 부분만 잘라 냄(사람 없는 부분), 1.5배 확대, 번호 표시 ①② 추가.</li></ul>
 
