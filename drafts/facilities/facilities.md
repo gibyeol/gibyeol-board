@@ -81,11 +81,11 @@ updated: 2026-11-27
 4. **바로 옆:** 무인 자동 보관소 **T-Luggage Auto**. 붙어 있는 QR로 예약·결제하고 키오스크에 짐을 넣어요(안내 문구 "Wheels to the left": 바퀴를 왼쪽으로).
 5. **운영:** 서울역 매장 09:00~22:00(2026년 11월 기사). 직접 가서 맡기거나 [또타러기지 누리집](https://tluggage.co.kr/)에서 예약해요.
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>마지막 날 동선:</b> 서울역에서 캐리어를 인천공항으로 당일 배송 보내고 빈손으로 다녀요. 공항에서 찾는 곳·마감 시각은 이 작업에서 확인하지 못했어요. 맡길 때 받는 안내에서 꼭 확인해요.</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>마지막 날 동선:</b> 서울역에서 캐리어를 인천공항으로 당일 배송 보내고 빈손으로 다녀요. 공항에서 찾는 곳·마감 시각은 확인하지 못했어요. 맡길 때 받는 안내에서 꼭 확인해요.</span></aside>
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>요금·시간의 출처와 차이</summary>
 
-- 요금과 7개 역은 서울시 '내 손안에 서울' 시민기자 기사(2025년 3월 11일)에 실린 숫자예요. 운영사 누리집(tluggage.co.kr)은 이 작업에서 열지 못했어요.
+- 요금과 7개 역은 서울시 '내 손안에 서울' 시민기자 기사(2025년 3월 11일)에 실린 숫자예요. 운영사 누리집(tluggage.co.kr)은 열지 못해 대조하지 못했어요.
 - 운영 시간: 2025년 3월 기사는 10:00~22:00, 2026년 11월 서울역 기사는 09:00~22:00. 역마다 다를 수 있어요.
 - 서울 시내 역끼리 당일 배송은 17,000~31,000원(같은 2025년 기사).
 
@@ -93,7 +93,7 @@ updated: 2026-11-27
 
 <h3 class="tr-step" id="airport"><span class="n">3</span><i class="ic ic-plane" aria-hidden="true"></i>인천공항에서 맡기기</h3>
 
-<figure class="tr-photo"><img src="/static/photo/facilities-icn-t1-counter-letter.webp" alt="인천공항 1터미널 3층. 기둥에 노란 알파벳 H가 붙은 체크인 카운터." width="465" height="393" loading="lazy" decoding="async"><figcaption><b>1터미널 3층 출국장.</b> ① 기둥 위 큰 노란 알파벳이 체크인 카운터 이름이에요(사진은 H). ② 멀리 다음 글자가 보여요. 이 글자로 B와 N을 찾아요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Incheon_airport_departure_gate_access.jpg" rel="noopener" target="_blank">Sgroey</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 위키미디어 공용; 잘라 냄, 번호 표시는 Nadri</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/facilities-icn-t1-counter-letter.webp" alt="인천공항 1터미널 3층. 기둥에 노란 알파벳 H가 붙은 체크인 카운터." width="465" height="393" style="max-width:465px;margin:0 auto;display:block" loading="lazy" decoding="async"><figcaption><b>1터미널 3층 출국장.</b> ① 기둥 위 큰 노란 알파벳이 체크인 카운터 이름이에요(사진은 H). ② 멀리 다음 글자가 보여요. 이 글자로 B와 N을 찾아요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Incheon_airport_departure_gate_access.jpg" rel="noopener" target="_blank">Sgroey</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 위키미디어 공용; 잘라 냄, 번호 표시는 Nadri</span></figcaption></figure>
 
 **1터미널** — 비행기에서 내리면 1층 입국장이에요. 짐 보관은 **3층**(출국장)이에요.
 
@@ -104,7 +104,7 @@ updated: 2026-11-27
 
 **2터미널** — 같은 층 또는 3층.
 
-1. 1층 입국장 **서편 끝 1번 게이트 근처: 한진택배** 07:00~21:00 (032-743-5834). 코트룸(외투 보관) 출고는 24시간.
+1. 1층 **서편 끝 1번 게이트 근처: 한진택배** 07:00~21:00 (032-743-5834). 코트룸(외투 보관) 출고는 24시간.
 2. 21시가 넘었으면 3층 **서편 1번 게이트 근처 '택배·보관·포장존': 한진택배(24시간)** (032-743-5835).
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>요금은 공항 공식 안내에 없어요.</b> 맡기기 전에 창구에서 1일 요금을 물어보거나 위 번호로 전화해요.</span></aside>
