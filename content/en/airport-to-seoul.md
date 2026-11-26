@@ -22,7 +22,7 @@ The Express skips the commuter crowd, which after a long flight matters more tha
 
 1. **Getting there:** from the 1F arrivals hall, take the lift or escalator down to the Transportation Center on B1. At Terminal 1, facing the Transportation Center, the Express side is on the **right (west)**. At Terminal 2 we have not been able to confirm the direction yet: ask at the **Express customer service center** in the B1 Transportation Center.
 2. **At the machine:** ① choose a language (Korean, English, Chinese, Japanese) ② choose your destination (Seoul Station) ③ choose a train (departure time) ④ choose the number of people (adult 13+, child 6–12), then confirm ⑤ pay by cash or card ⑥ take your ticket and receipt. Don't leave the ticket behind.
-3. **Then:** scan the ticket's QR code at the gate and go down to the **B4** platform. More in ['After you buy: riding the Express'](#prep) below.
+3. **Then:** scan the ticket's QR code at the gate and go down to the **B4** platform. More in ['After you buy: boarding the Express train'](#prep) below.
 
 The machine screens shown in AREX's guide are from a Seoul Station machine. The airport machines may look a little different.
 
