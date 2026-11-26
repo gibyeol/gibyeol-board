@@ -2,6 +2,7 @@
 title: 隱私權
 description: 你造訪時,Nadri 及其使用的服務會蒐集哪些資料。
 updated: 2026-11-26
+approved: 2026-11-26
 ---
 ## Nadri 蒐集的資料
 
