@@ -443,7 +443,7 @@
     var seal = r.hangul.replace(/ /g, '').length <= 9 ? sealSVG(esc(r.hangul)) : '';
     var card = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
       (r.approx || !r.meaning ? '<p class="namer-note' + (r.approx ? ' approx' : '') + '">' + (r.approx ? T.approx : r.note) + '</p>' : '') +
-      '<p class="namer-actions"><button type="button" class="namer-cardbtn">' + (SHARE_FILES ? T.cardShare : T.cardSave) + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
+      '<p class="namer-actions">' + (SHARE_FILES ? '<button type="button" class="namer-cardshare">' + T.cardShare + '</button> ' : '') + '<button type="button" class="namer-cardbtn">' + T.cardSave + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
       '<p class="namer-wrong">' + mail('Nadri name: ' + name, T.wrong) + '</p></div></div>';
     // 3. your name in other countries
     var more = '';
@@ -501,7 +501,8 @@
     card = card.replace('%%WHOLE%%', r.whole && more.indexOf('namer-born-h') < 0 ? '<p class="namer-gloss">' + T.yourNameIs + ' <strong>“' + esc(r.whole) + '”</strong></p>' : '');
     out.innerHTML = card + more;
     prepareCard(r);
-    out.querySelector('.namer-cardbtn').onclick = cardClick;
+    out.querySelector('.namer-cardbtn').onclick = function () { cardClick(false); };
+    var cs = out.querySelector('.namer-cardshare'); if (cs) cs.onclick = function () { cardClick(true); };
     out.querySelector('.namer-share').onclick = function (ev) {
       var url = location.origin + location.pathname + '?n=' + encodeURIComponent(name) + (uiLang !== SITE2UI[LANG] ? '&hl=' + uiLang : '');
       (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(function () { ev.target.textContent = T.copied; }, function () { prompt('', url); });
@@ -1078,8 +1079,8 @@
     });
   }
   function canvasBlob(c) { return new Promise(function (res, rej) { try { c.toBlob(function (b) { if (b) res(b); else rej(new Error('blob')); }, 'image/png'); } catch (err) { rej(err); } }); }
-  var SHARE_FILES = (function () {   // phones with a share sheet that takes image files; computers save the PNG instead
-    try { return !!(navigator.share && navigator.canShare && window.matchMedia && matchMedia('(pointer: coarse)').matches && navigator.canShare({ files: [new File([new Blob(['x'], { type: 'image/png' })], 'nadri.png', { type: 'image/png' })] })); } catch (err) { return false; }
+  var SHARE_FILES = (function () {   // any browser whose share sheet takes image files (phones, Windows/macOS Chrome·Edge·Safari); owner [7eb4ec94#2569]
+    try { return !!(navigator.share && navigator.canShare && navigator.canShare({ files: [new File([new Blob(['x'], { type: 'image/png' })], 'nadri.png', { type: 'image/png' })] })); } catch (err) { return false; }
   })();
   var cardJob = null;
   // drawn as soon as the result shows, so the share sheet can open straight from the tap
@@ -1107,14 +1108,15 @@
     a.download = job.fname; a.href = u; document.body.appendChild(a); a.click(); a.remove();
     setTimeout(function () { URL.revokeObjectURL(u); }, 4000);
   }
-  function cardClick() {
+  function cardClick(wantShare) {
     var job = cardJob; if (!job) return;
     var page = location.origin + location.pathname;   // the link in the share text carries no name
     var share = function (j) {
       return navigator.share({ files: [j.file], title: 'Nadri', text: T.cardTry + ' ' + page }).catch(function (err) { if (!err || err.name !== 'AbortError') downloadCard(j); });
     };
-    if (SHARE_FILES && job.file) { share(job); return; }
-    job.p.then(function (j) { if (SHARE_FILES && j.file) share(j); else downloadCard(j); });
+    if (!wantShare) { if (job.blob) downloadCard(job); else job.p.then(downloadCard); return; }
+    if (job.file) { share(job); return; }
+    job.p.then(function (j) { if (j.file) share(j); else downloadCard(j); });
   }
 
   shell();
