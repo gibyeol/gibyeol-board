@@ -344,6 +344,34 @@
    "not_applicable": null,
    "unverified_leads": []
   },
+  "samsung-week": {
+   "title": "삼성위크 (삼성닷컴)",
+   "end": "2026-11-30",
+   "buys": [],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "삼성위크 인기 제품 자료: 출처(시사경제)·삼성 뉴스룸 이 환경에서 안 열림, KH/KT에 행사 기사 없음",
+    "TIME '올해의 발명 2026'에 갤럭시 S26 울트라 등 3개 선정 기사(KT 10/16)는 상(award)이지 '많이 산 것'이 아니고, 삼성위크 할인 대상인지도 모름 → 넣지 않음"
+   ],
+   "not_applicable": "단일 브랜드(삼성) 행사라 '계열별 대표 브랜드' 칸은 해당 없음",
+   "unverified_leads": []
+  },
+  "coupang-digital-bf": {
+   "title": "쿠팡 가전·디지털 블랙프라이데이",
+   "end": "2026-11-29",
+   "buys": [],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "이번 가전·디지털 블프 판매 순위: 출처(zdnet)·쿠팡 이 환경에서 안 열림",
+    "KH/KT에 이번 행사 기사 없음(검색 확인)"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
   "ably-bf": {
    "title": "에이블리 에블프",
    "end": "2026-12-03",
@@ -401,6 +429,43 @@
    ],
    "not_applicable": null,
    "unverified_leads": []
+  },
+  "topten-bf": {
+   "title": "탑텐 블프 (텐텐데이)",
+   "end": "2026-11-30",
+   "buys": [],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "탑텐 블프 품목·판매 자료 없음(출처 에스콰이어·탑텐몰 이 환경에서 안 열림, KH/KT에 기사 없음)"
+   ],
+   "not_applicable": "단일 브랜드 세일이라 '계열별 대표 브랜드' 칸은 해당 없음",
+   "unverified_leads": []
+  },
+  "amazon-bf": {
+   "title": "아마존 블랙프라이데이 · 사이버먼데이 (미국)",
+   "end": "2026-11-30",
+   "buys": [
+    {
+     "item": "해외직구 수요가 몰리는 품목(관세청 표현): 식·의약품, 화장품, 가방·신발·의류, 전기·전자제품 — 순위 없음",
+     "source": "korea-kr-customs-2024",
+     "date": "2024-10-21",
+     "certainty": "확실",
+     "kind": "정부 발표(단속 안내 속 표현)"
+    }
+   ],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "미국 아마존 블프에서 한국 직구족이 많이 산 품목·브랜드: 자료 못 찾음(aboutamazon.com 이 환경에서 안 열림)",
+    "관세청 품목 표현은 2024년 단속 안내 속 문장이고 아마존 한정 자료가 아님"
+   ],
+   "not_applicable": null,
+   "unverified_leads": [
+    "검색 요약에만 보임: 2021년 기사 '직구족 인기 품목 가전·건강식품'(뉴데일리) — 원문 못 엶, 5년 전"
+   ]
   },
   "uniqlo-bf": {
    "title": "유니클로 블랙프라이데이",
@@ -518,6 +583,87 @@
    "gaps": [
     "이번 블프 품목·판매 자료 없음(spao.com·관련 기사 매체 이 환경에서 차단)",
     "한국소비자원 다운 재킷 시험(2013): 스파오 남성 다운이 무거운 제품 중 가장 따뜻·저렴 — 13년 전 제품이라 넣지 않음"
+   ],
+   "not_applicable": "단일 브랜드 세일이라 '계열별 대표 브랜드' 칸은 해당 없음",
+   "unverified_leads": []
+  },
+  "coupang-direct-bf": {
+   "title": "쿠팡 로켓직구 블프",
+   "end": "2026-12-01",
+   "buys": [
+    {
+     "item": "해외직구 수요가 몰리는 품목(관세청 표현): 식·의약품, 화장품, 가방·신발·의류, 전기·전자제품 — 순위 없음",
+     "source": "korea-kr-customs-2024",
+     "date": "2024-10-21",
+     "certainty": "확실",
+     "kind": "정부 발표(단속 안내 속 표현)"
+    },
+    {
+     "item": "로켓직구 일본 상품: 류카쿠산 사탕이 꾸준히 팔림, 모모야 라유·큐피 마요네즈도. 뷰티·생활용품은 돈키호테 인기 상품, 아이리스 오야마가 잘 팔림",
+     "source": "kh-coupang-global",
+     "date": "2026-08-10",
+     "certainty": "확실(회사 발표)",
+     "kind": "플랫폼 발표(행사 자료 아님)"
+    }
+   ],
+   "brands": [
+    {
+     "category_from_source": "일본 식품 (쿠팡 표현 'food')",
+     "brand": "류카쿠산",
+     "reason": "로켓직구에서 꾸준한 수요(쿠팡 발표)",
+     "source": "kh-coupang-global",
+     "date": "2026-08-10",
+     "certainty": "확실(회사 발표)"
+    },
+    {
+     "category_from_source": "일본 식품 (쿠팡 표현 'food')",
+     "brand": "모모야 · 큐피",
+     "reason": "라유·마요네즈가 류카쿠산과 함께 꾸준히 팔림(쿠팡 발표)",
+     "source": "kh-coupang-global",
+     "date": "2026-08-10",
+     "certainty": "확실(회사 발표)"
+    },
+    {
+     "category_from_source": "일본 뷰티·생활용품 (쿠팡 표현)",
+     "brand": "아이리스 오야마",
+     "reason": "가성비 생활용품이 잘 팔림(쿠팡 발표)",
+     "source": "kh-coupang-global",
+     "date": "2026-08-10",
+     "certainty": "확실(회사 발표)"
+    }
+   ],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "이번 로켓직구 블프 판매 순위: 출처(잡포스트)·쿠팡 뉴스룸 이 환경에서 안 열림",
+    "미국·유럽·중국 상품 쪽 '잘 팔린다' 자료: 못 찾음(기사는 새로 들어온 브랜드 소개뿐)"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "zara-bf": {
+   "title": "자라 블랙프라이데이",
+   "end": "2026-12-01",
+   "buys": [],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "자라 한국 판매 순위 자료 없음",
+    "KH 10/5 기사에 '하이넥 재킷·트렌치를 파는 곳' 중 하나로 자라가 나오지만 판매 자료가 아니라서 넣지 않음"
+   ],
+   "not_applicable": "단일 브랜드 세일이라 '계열별 대표 브랜드' 칸은 해당 없음",
+   "unverified_leads": []
+  },
+  "hm-bf": {
+   "title": "H&M 블랙프라이데이",
+   "end": "2026-11-30",
+   "buys": [],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "H&M 한국 판매 자료 없음"
    ],
    "not_applicable": "단일 브랜드 세일이라 '계열별 대표 브랜드' 칸은 해당 없음",
    "unverified_leads": []
@@ -705,20 +851,29 @@
    "opened": "curl-today",
    "took": "작년 겨울 지그재그·에이블리 꽃무늬 누빔 조끼 베스트셀러",
    "quote": "On apps popular with women in their 20s, including Zigzag and Ably, the floral quilted vest consistently ranks as a bestseller. Prices range from 5,000 won ($3.85) to 40,000 won."
+  },
+  "kh-coupang-global": {
+   "url": "https://www.koreaherald.com/article/10836449",
+   "publisher": "The Korea Herald (쿠팡 발표)",
+   "date": "2026-08-10",
+   "opened": "curl-today",
+   "took": "로켓직구 일본 상품 중 꾸준히 팔리는 것",
+   "quote": "Japan has been just as strong across food and beauty, with Ryukakusan candies drawing steady demand alongside Momoya's chili oil and Kewpie mayonnaise … Beauty and household goods have performed well too, led by Don Quijote favorites and everyday items from value-priced brand Iris Ohyama, the company said."
+  },
+  "korea-kr-customs-2024": {
+   "url": "https://www.korea.kr/briefing/policyBriefingView.do?newsId=156655742",
+   "publisher": "대한민국 정책브리핑(관세청 브리핑)",
+   "date": "2024-10-21",
+   "opened": "curl-today",
+   "took": "관세청 표현: 해외직구 수요가 몰리는 품목",
+   "quote": "주요 단속 대상 품목은 최근 직... 해외직구 수요가 집중되는 식·의약품, 화장품, 가방·신발·의류 등 잡화, 전기·전자제품 등입니다."
   }
  },
  "not_done_yet": [
   "klook-bf-2026",
   "korea-grand-sale-2027",
   "seoul-winter-market-2026",
-  "samsung-week",
-  "coupang-digital-bf",
   "trinity-nov",
-  "topten-bf",
-  "amazon-bf",
-  "coupang-direct-bf",
-  "zara-bf",
-  "hm-bf",
   "cathay-bf",
   "jejuair-flex",
   "eastar-promo",
