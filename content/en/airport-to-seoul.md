@@ -51,9 +51,9 @@ Visit Seoul says to allow one to two hours from landing for immigration and bags
 
 {{fig:airport-to-seoul-t1map|Terminal 1: from the 1F arrival halls down to the B1 Transportation Center. Redrawn by Nadri from the positions on Incheon International Airport Corporation's floor plan and facility list (checked 26 Nov 2026)}}
 
-1. Whichever arrival hall you come out of (A–F), **walk to the middle (towards Exits 7 and 8)**. Follow the signs for the Transportation Center and the Airport Railroad (AREX).
-2. What you pass on the right way: info desks (near Exits 5 and 10, 24 hours), airport bus desks (near Exits 9 and 11), SIM and roaming counters (near arrival halls A and F).
-3. Go down to B1: that's the Transportation Center. Facing it, the regular train is on the left (east) and the express train on the right (west).
+1. On the airport's plan, the Transportation Center is **in front of the middle of the terminal (around Exits 7 and 8)**. Whichever arrival hall you come out of (A–F), follow the signs for the Transportation Center and the Airport Railroad (AREX) towards the middle.
+2. What you pass on the right way: info desks (near Exits 5 and 10, 24 hours), airport bus desks (near Exits 9 and 11), mobile carriers' roaming centres (near arrival hall A, 06:00–22:00, and F, 24 hours).
+3. Go down to B1: that's the Transportation Center. If you see the **Travel Center** (07:00–21:30) in the middle, you're in the right place. Facing the Transportation Center, the regular train is on the left (east) and the express train on the right (west).
 
 <details class="tr-more"><summary><i class="ic ic-map" aria-hidden="true"></i>Landed at Terminal 2?</summary>
 

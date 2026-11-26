@@ -5,16 +5,16 @@
 import math, os, html
 L = {
  'ko': dict(f1='1층 입국장', b1='지하 1층 교통센터', here='여기서 나와요', go='가운데로 걸어가 지하 1층으로', reg='일반열차', exp='직통열차',
-            info='안내데스크 24시간', bus='공항버스 안내', roam='유심·로밍', taxi='인터내셔널택시 4C', e='동', w='서',
+            info='안내데스크 24시간', bus='공항버스 안내', roam='로밍센터', taxi='인터내셔널택시 4C', e='동', w='서',
             t1='1터미널', t2='2터미널', ex='출입구', busw='버스 대기실', gl='지방 01~10', gs='서울 11~35', gg='경기 36~45', down='입국장에서 지하 1층으로 내려가요', gates='회색 칸 = 버스 타는 곳 번호'),
  'en': dict(f1='1F arrival halls', b1='B1 Transportation Center', here='You come out here', go='Walk to the middle, go down to B1', reg='Regular train', exp='Express train',
-            info='Info desk 24h', bus='Airport bus desk', roam='SIM & roaming', taxi='International Taxi 4C', e='E', w='W',
+            info='Info desk 24h', bus='Airport bus desk', roam='Roaming centre', taxi='International Taxi 4C', e='E', w='W',
             t1='Terminal 1', t2='Terminal 2', ex='Exit', busw='Bus waiting room', gl='Local 01–10', gs='Seoul 11–35', gg='Gyeonggi 36–45', down='Go down to B1', gates='Grey = bus stop numbers'),
  'ja': dict(f1='1階 到着ロビー', b1='地下1階 交通センター', here='ここから出てきます', go='真ん中へ歩いて地下1階へ', reg='一般列車', exp='直通列車',
-            info='案内デスク 24時間', bus='空港バス案内', roam='SIM・ローミング', taxi='国際タクシー 4C', e='東', w='西',
+            info='案内デスク 24時間', bus='空港バス案内', roam='ローミング', taxi='国際タクシー 4C', e='東', w='西',
             t1='第1ターミナル', t2='第2ターミナル', ex='出入口', busw='バス待合室', gl='地方 01〜10', gs='ソウル 11〜35', gg='京畿 36〜45', down='到着ロビーから地下1階へ下ります', gates='灰色 = バス乗り場の番号'),
  'zh-tw': dict(f1='1樓 入境大廳', b1='地下1樓 交通中心', here='你從這裡出來', go='走到中間,下到地下1樓', reg='普通列車', exp='直達車',
-            info='服務台 24小時', bus='機場巴士服務台', roam='SIM·漫遊', taxi='International Taxi 4C', e='東', w='西',
+            info='服務台 24小時', bus='機場巴士服務台', roam='漫遊中心', taxi='International Taxi 4C', e='東', w='西',
             t1='第1航廈', t2='第2航廈', ex='出入口', busw='巴士候車室', gl='地方 01〜10', gs='首爾 11〜35', gg='京畿 36〜45', down='從入境大廳下到地下1樓', gates='灰色 = 巴士乘車處編號'),
 }
 FONT = "font-family='Pretendard,Noto Sans KR,Noto Sans JP,Noto Sans TC,system-ui,sans-serif'"
@@ -58,7 +58,6 @@ def t1(lab):
     def tag(n, s, col, dy, anchor='middle'):
         x, y = ex[n]; y -= 18
         return f"<line x1='{x:.0f}' y1='{y:.0f}' x2='{x:.0f}' y2='{y+dy:.0f}' stroke='{col}' stroke-width='2.5'/>" + T(x - 4 if anchor == 'start' else x, y + dy - 6, s, 20, col, '700', anchor)
-    o.append(tag(4, lab['taxi'], '#374151', -40))
     o.append(tag(5, 'ⓘ ' + lab['info'], '#7c3aed', -78))
     o.append(tag(9, lab['bus'], '#b45309', -40, 'start'))
     o.append(tag(10, 'ⓘ ' + lab['info'], '#7c3aed', -78))
