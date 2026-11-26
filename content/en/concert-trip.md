@@ -21,8 +21,6 @@ What we left out: fan club membership how-tos (they change per agency and per to
 
 ## A concert day, from booking to the last train
 
-Built from the facts below, not from a story.
-
 **The weeks before.** Your NOL World account shows a verified passport, the booking is in the exact romanized name on that passport, and your hotel is chosen by venue. While you wait, check the door-to-door time in Naver Map.
 
 **Show day.** The suitcase stays at the hotel. At the pickup counter you show your physical passport and the booking confirmation.

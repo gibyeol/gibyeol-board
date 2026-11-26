@@ -8,7 +8,7 @@ updated: 2026-11-26
 ---
 ## A BBQ evening
 
-Our plan, built from the Korea Tourism Organization's (KTO) restaurant guide: At a barbecue place the charcoal grill may be built into the table. If your chair has a lid, lift it: storage chairs are there so your coat doesn't take on the smell of the food. Spoons, chopsticks and napkins are in a small drawer on the table, and there is a call button for staff, which KTO warns may be louder than you expect.
+Our plan: At a barbecue place the charcoal grill may be built into the table. If your chair has a lid, lift it: storage chairs are there so your coat doesn't take on the smell of the food. Spoons, chopsticks and napkins are in a small drawer on the table, and there is a call button for staff, which KTO warns may be louder than you expect.
 
 Some places grill the meat for you; when it's ready, wrap a piece in a leaf (ssam). Want more? Call out "Yeogiyo!" (Excuse me!). Our pick for the ending is the one KTO names: a soybean-paste stew (doenjang jjigae) or fried rice to finish.
 

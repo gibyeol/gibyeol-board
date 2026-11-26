@@ -8,7 +8,7 @@ updated: 2026-11-26
 ---
 ## A morning at Gyeongbokgung
 
-Our plan, built from the published schedules: the palace opens at 9:00. At 9:35 the gate guards hold a public drill, and at 10:00 the changing of the guard begins on the square and the royal terrace in front of Gwanghwamun: banners, traditional spears and a band in red with pheasant-feather hats, for about 20 minutes, again at 14:00, with shorter gate-guard rituals at 11:00 and 13:00. Free, and no ticket needed.
+Our plan: the palace opens at 9:00. At 9:35 the gate guards hold a public drill, and at 10:00 the changing of the guard begins on the square and the royal terrace in front of Gwanghwamun: banners, traditional spears and a band in red with pheasant-feather hats, for about 20 minutes, again at 14:00, with shorter gate-guard rituals at 11:00 and 13:00. Free, and no ticket needed.
 
 Then walk north along the palace's axis, through one gate after another: Gwanghwamun, Heungnyemun, Geunjeongmun, then the throne hall, Geunjeongjeon. Heungnyemun is younger than it looks: it was torn down in 1914 for the colonial Government-General Building and rebuilt between 1997 and 2001.
 

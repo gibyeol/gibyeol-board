@@ -196,8 +196,6 @@ updated: 2026-11-26
 
 **입국심사대 앞.** 펜도, 무릎 위에서 쓰는 종이 카드도 없어요. 여권을 내밀면 심사관 화면에 정보가 이미 떠 있어요. 심사를 마치면 신고서는 할 일을 다 하고 효력이 끝나요.
 
-공식 규정으로 그린 장면이에요. 지어낸 경험담이 아니에요.
-
 ## 다음 할 일
 
 <a class="eac-nextcard" href="/ko/airport-to-seoul/"><img src="/static/photo/airport-1.webp" alt="인천공항 제2터미널 도착 홀" loading="lazy" decoding="async"><span><b><i class="ic ic-plane" aria-hidden="true"></i>도착했다면: 인천공항에서 서울까지</b>입국심사 다음 고민은 하나예요. 숙소에 제일 가깝게 내려 주는 교통편 고르기.</span><small>Photo: AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)</small></a>

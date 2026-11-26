@@ -105,8 +105,6 @@ The ₩1,000,000 and ₩5,000,000 limits were doubled on 1 January 2024 and are 
 
 <details class="tr-more"><summary><i class="ic ic-calendar-check" aria-hidden="true"></i>A shopping day, start to finish</summary>
 
-Built from the rules on this page, not from a story.
-
 **Before you fly.** Put your actual passport where you can reach it while shopping, not just a photo of it. Plan the big shops (Olive Young, a department store) so each receipt clears ₩15,000 on its own.
 
 **At the till.** You spot the "Tax Free" sign, hand over your passport with your card, and the price drops by the tax there and then. Sale prices still count: at Olive Young the tax refund applies during the big seasonal sales too.
