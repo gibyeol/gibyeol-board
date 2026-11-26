@@ -1,13 +1,13 @@
 ---
 title: 보조배터리 빌리기·짐 맡기기: 서울에서 손 가볍게
-description: 휴대폰 배터리가 떨어졌을 때 CU에서 보조배터리 빌리는 법(앱, 30분 800원, 반납), 지하철역 보관함·직원 짐 보관소·인천공항 짐 보관 위치와 요금. 2026년 11월 27일 확인.
-lede: 배터리는 CU 대여기에서 30분 800원('완충이' 앱). 짐은 지하철역 보관함에 4시간 2,200원부터, 보관함의 QR을 찍으면 앱 없이도 돼요.
+description: 휴대폰 배터리가 떨어졌을 때 CU에서 보조배터리 빌리는 법(앱, 30분 800원, 반납), 지하철역 보관함·직원 짐 보관소·인천공항 짐 보관 위치와 요금. 출처는 2026년 11월 27일에 열어 봄(지하철역 보관함 요금은 2025년 3월 서울시 시민기자 기사 숫자).
+lede: 배터리는 CU 대여기에서 30분 800원('완충이' 앱). 짐은 지하철역 보관함에 4시간 2,200원부터(2025년 3월 기사 기준), 보관함의 QR을 찍으면 앱 없이도 돼요.
 section: essentials
 updated: 2026-11-27
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#battery"><i class="ic ic-smartphone" aria-hidden="true"></i>배터리가 없어요</a><a class="tr-btn" href="#luggage"><i class="ic ic-luggage" aria-hidden="true"></i>짐을 맡기고 싶어요</a></div>
 
-<ul class="tr-facts"><li><i class="ic ic-smartphone" aria-hidden="true"></i><span>30분 800원<small>CU 보조배터리 대여('완충이' 앱)</small></span></li><li><i class="ic ic-package" aria-hidden="true"></i><span>4시간 2,200원부터<small>지하철역 무인 보관함(소형, 주중)</small></span></li><li><i class="ic ic-users" aria-hidden="true"></i><span>4시간 3,000원부터<small>서울역·명동 등 직원 보관소(주중)</small></span></li><li><i class="ic ic-plane" aria-hidden="true"></i><span>공항은 24시간<small>1터미널 3층 N, 2터미널 3층 서편</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-smartphone" aria-hidden="true"></i><span>30분 800원<small>CU 보조배터리 대여('완충이' 앱)</small></span></li><li><i class="ic ic-package" aria-hidden="true"></i><span>4시간 2,200원부터<small>지하철역 무인 보관함(소형, 주중) · 2025년 3월 기사 기준</small></span></li><li><i class="ic ic-users" aria-hidden="true"></i><span>4시간 3,000원부터<small>서울역·명동 등 직원 보관소(주중)</small></span></li><li><i class="ic ic-plane" aria-hidden="true"></i><span>공항은 24시간<small>1터미널 3층 N, 2터미널 3층 서편</small></span></li></ul>
 
 <h2 id="battery">배터리가 없을 때</h2>
 
@@ -49,11 +49,11 @@ updated: 2026-11-27
 
 <h2 id="luggage">짐을 맡기고 싶을 때</h2>
 
-<ul class="tr-choose tr-compare"><li><i class="ic ic-package" aria-hidden="true"></i><b>몇 시간, 아무 역에서나</b><ul class="tr-kv"><li><b>어디</b> 지하철역 무인 보관함 '또타라커'</li><li><b>요금</b> 4시간 2,200~4,400원(주중)</li><li><b>필요</b> 휴대폰만(보관함 QR → 웹)</li><li><b>바로 가기</b> <a href="#locker">보관함 쓰는 법</a></li></ul></li><li><i class="ic ic-users" aria-hidden="true"></i><b>큰 캐리어, 직원에게</b><ul class="tr-kv"><li><b>어디</b> '또타러기지' 6개 역(서울역·명동·홍대입구 등)</li><li><b>요금</b> 4시간 3,000~9,000원(주중)</li><li><b>덤</b> 인천공항 2터미널까지 당일 배송</li><li><b>바로 가기</b> <a href="#tluggage">서울역에서 찾기</a></li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항에서</b><ul class="tr-kv"><li><b>1터미널</b> 3층 B·N 체크인 카운터 근처</li><li><b>2터미널</b> 3층 서편 1번 게이트 근처</li><li><b>요금</b> 2터미널 하루 5,000원부터(한진), 1터미널은 확인 못 함</li><li><b>바로 가기</b> <a href="#airport">공항에서 찾기</a></li></ul></li><li><i class="ic ic-hotel" aria-hidden="true"></i><b>체크아웃 뒤 저녁 비행기</b><ul class="tr-kv"><li><b>먼저</b> 숙소 프런트에 맡아 주는지 물어봐요</li><li><b>안 되면</b> 위 셋 중 동선에 맞는 곳</li></ul></li></ul>
+<ul class="tr-choose tr-compare"><li><i class="ic ic-package" aria-hidden="true"></i><b>몇 시간, 아무 역에서나</b><ul class="tr-kv"><li><b>어디</b> 지하철역 무인 보관함 '또타라커'</li><li><b>요금</b> 4시간 2,200~4,400원(주중, 2025년 3월 기사 기준)</li><li><b>필요</b> 휴대폰만(보관함 QR → 웹)</li><li><b>바로 가기</b> <a href="#locker">보관함 쓰는 법</a></li></ul></li><li><i class="ic ic-users" aria-hidden="true"></i><b>큰 캐리어, 직원에게</b><ul class="tr-kv"><li><b>어디</b> '또타러기지' 6개 역(서울역·명동·홍대입구 등)</li><li><b>요금</b> 4시간 3,000~9,000원(주중)</li><li><b>덤</b> 인천공항 2터미널까지 당일 배송</li><li><b>바로 가기</b> <a href="#tluggage">서울역에서 찾기</a></li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항에서</b><ul class="tr-kv"><li><b>1터미널</b> 3층 B·N 체크인 카운터 근처</li><li><b>2터미널</b> 3층 서편 1번 게이트 근처</li><li><b>요금</b> 2터미널 하루 5,000원부터(한진), 1터미널은 확인 못 함</li><li><b>바로 가기</b> <a href="#airport">공항에서 찾기</a></li></ul></li><li><i class="ic ic-hotel" aria-hidden="true"></i><b>체크아웃 뒤 저녁 비행기</b><ul class="tr-kv"><li><b>먼저</b> 숙소 프런트에 맡아 주는지 물어봐요</li><li><b>안 되면</b> 위 셋 중 동선에 맞는 곳</li></ul></li></ul>
 
 <h3 class="tr-step" id="locker"><span class="n">1</span><i class="ic ic-package" aria-hidden="true"></i>지하철역 무인 보관함(또타라커)</h3>
 
-<ul class="tr-kv"><li><b>있는 곳</b> 서울교통공사 역(1~8호선, 1호선은 서울역~청량리, 9호선은 삼전~중앙보훈병원)</li><li><b>크기·요금(주중 4시간)</b> 소 2,200원 · 중 3,300원 · 대 4,400원</li><li><b>넘으면(1시간마다)</b> 소 500원 · 중 800원 · 대 1,000원</li><li><b>대형 칸</b> 50×90×60cm</li><li><b>못 넣는 것</b> 귀중품, 음식, 동식물, 위험물</li></ul>
+<ul class="tr-kv"><li><b>있는 곳</b> 서울교통공사 역(1~8호선, 1호선은 서울역~청량리, 9호선은 삼전~중앙보훈병원)</li><li><b>크기·요금(주중 4시간, 2025년 3월 기사 기준)</b> 소 2,200원 · 중 3,300원 · 대 4,400원</li><li><b>넘으면(1시간마다)</b> 소 500원 · 중 800원 · 대 1,000원</li><li><b>대형 칸</b> 50×90×60cm</li><li><b>못 넣는 것</b> 귀중품, 음식, 동식물, 위험물</li></ul>
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span><b>앱 없이 돼요.</b> 보관함의 QR을 찍고 '웹'을 고르면 앱 설치·회원가입 없이 이용해요. 서울교통공사가 2026년 8월까지 보관함이 있는 모든 역에 넣었다고 9월 7일 발표했어요(아시아경제·헤럴드경제 보도).</span></aside>
 
@@ -81,7 +81,7 @@ updated: 2026-11-27
 <ul class="tr-kv"><li><b>있는 역</b> 서울역, 명동, 홍대입구, 종로3가, 잠실, 김포공항</li><li><b>시간</b> 09:00~22:00</li><li><b>보관 4시간(주중)</b> S 3,000원 · M 4,000원 · L 6,000원 · XL 9,000원</li><li><b>보관 4시간(주말)</b> S 4,000원 · M 6,000원 · L 9,000원 · XL 13,000원</li><li><b>크기</b> S ~20인치 · M 20~23인치 · L 23~27인치 · XL 27인치~</li><li><b>넘으면</b> 1시간마다 1,000원</li><li><b>결제</b> 현금·카드</li><li><b>전화</b> 02-6110-2977</li></ul>
 
 1. **지금 내가 있는 곳:** 1호선 또는 4호선 서울역 개찰구 안팎.
-2. **갈 방향:** '공항철도·KTX' 갈아타는 통로 표지를 따라가요. 지하 1층이에요(누리집 위치: 지하 1층, 1번 출구에서 2번 출구 쪽).
+2. **갈 방향:** 공항철도·KTX로 갈아타는 통로 쪽으로 가요(서울시 기사 설명: 1·4호선에서 공항철도/KTX 환승통로로 가는 길목). 지하 1층이에요(누리집 위치: 지하 1층, 1번 출구에서 2번 출구 쪽).
 3. **맞게 왔다면 보이는 것:** 통로 한쪽의 파란 간판 **T-Luggage**, 그 아래 **METRO Carrier Service**와 배송(Delivery)·보관(Storage)·픽업(Pick-up) 아이콘.
 4. **바로 옆:** 무인 자동 보관소 **T-Luggage Auto**. 붙어 있는 QR로 예약·결제하고 키오스크에 짐을 넣어요(안내 문구 "Wheels to the left": 바퀴를 왼쪽으로).
 5. **맡기기:** 창구에 그냥 가서 맡기거나 [또타러기지 누리집](https://tluggage.co.kr/)에서 '보관예약'. 누리집은 한국어·영어·중국어·일본어.
@@ -97,7 +97,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>다른 역 위치, 역끼리 배송, 못 맡기는 것, 취소</summary>
 
-- **역별 위치(누리집):** 명동 1·9·10번 출구 쪽 지하 1층 · 홍대입구 2호선 지하 1층 공항철도 연결통로(영문 안내: 2·3번 출구 사이) · 종로3가 5호선 지하 1층 6번 출구 쪽 · 잠실 3·4번 출구 쪽 지하 1층 · 김포공항 5호선 지하 1층 국제선 방향.
+- **역별 위치(누리집):** 명동 1·9·10번 출구 쪽 지하 1층(영문 안내: B1) · 홍대입구 2호선 지하 1층 공항철도 연결통로(영문 안내: 2·3번 출구 사이) · 종로3가 5호선 지하 1층 6번 출구 쪽 · 잠실 3·4번 출구 쪽 지하 1층 · 김포공항 5호선 지하 1층 국제선 방향.
 - **공항 → 역(도착한 날):** 2터미널 한진택배에 09:00~14:00 맡기면 고른 역 창구에서 18:00~22:00에 찾아요(한진 안내).
 - **역끼리 당일 배송(1개):** 주중 S·M 17,000원 · L 26,000원 · XL 31,000원 / 주말 25,000원 · 38,000원 · 45,000원.
 - **못 맡기는 것(약관):** 귀금속·현금, 깨지기 쉬운 것, 상하는 것, 전자기기(노트북·카메라·아이패드·휴대폰 등) 등. 맡긴 짐 배상은 최대 50만 원.
@@ -119,10 +119,10 @@ updated: 2026-11-27
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>1터미널 짐캐리 요금은 확인하지 못했어요.</b> 짐캐리 누리집이 연결되지 않았어요. 맡기기 전에 창구에서 1일 요금을 물어보거나 위 번호로 전화해요.</span></aside>
 
-**2터미널** — 같은 층 또는 3층.
+**2터미널** — 짐 보관은 **3층**(출국장)이에요.
 
-1. 1층 **서편 끝 1번 게이트 근처: 한진택배** 07:00~21:00 (032-743-5834). 코트룸(외투 보관) 출고는 24시간.
-2. 21시가 넘었으면 3층 **서편 1번 게이트 근처 '택배·보관·포장존': 한진택배(24시간)** (032-743-5835).
+1. 3층 **서편 1번 게이트 근처 '택배·보관·포장존': 한진택배(24시간)** (032-743-5835). 한진 안내의 수하물 보관 카운터 위치도 이곳 하나예요.
+2. 1층 **서편 끝 1번 게이트 근처**에도 한진택배 창구가 있어요(07:00~21:00, 032-743-5834, 코트룸(외투 보관) 출고 24시간). 공항 안내에는 '택배/우편'으로만 적혀 있어 **짐을 맡아 주는지는 확인하지 못했어요.**
 
 <ul class="tr-kv"><li><b>한진 보관 요금(3층 창구, 하루·24시간 안)</b> 소 5,000원 · 중 6,000원 · 대 7,000원 · 특대 10,000원 · 초특대 12,000원 · 세 변 합 180cm 넘으면 20,000원</li><li><b>4시간 안</b> 세 변 합 180cm 이하 5,000원</li><li><b>크기 기준</b> 소 ~1kg·~90cm · 중 ~10kg·~120cm · 대 ~20kg·~140cm · 특대 ~30kg·~160cm · 초특대 30kg~·~180cm (cm는 가로+세로+높이)</li><li><b>못 맡기는 것</b> 냉동·냉장 상품</li></ul>
 
