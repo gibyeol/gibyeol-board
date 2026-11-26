@@ -2,7 +2,7 @@ import json, os
 from PIL import Image, ImageDraw, ImageFilter
 R='/home/user/gibyeol-board/static/fig'
 UP,DOWN,PAD=72,16,36
-OPT={0:{'crop':False,'keep_top':True},1:{'keep_top':True},11:{'crop':False,'keep_top':True},12:{'crop':False,'keep_top':True}}
+OPT={1:{'keep_top':True,'noveil':True},5:{'noveil':True},6:{'keep_top':True},8:{'noveil':True},9:{'noveil':True,'crop':False},11:{'crop':False,'keep_top':True},12:{'crop':False,'keep_top':True}}
 def edit(lang,n):
     o=OPT.get(n,{})
     im=Image.open(f'raw/{lang}-shot-{n}.png').convert('RGB')
@@ -22,14 +22,14 @@ def edit(lang,n):
     mask=Image.new('L',im.size,0); d=ImageDraw.Draw(mask)
     if o.get('keep_top') and merged: merged[0][0]=0
     for y0,y1 in merged: d.rectangle((0,y0,im.width,y1),fill=255)
-    out=Image.composite(im,soft,mask)
+    out=im if o.get('noveil') else Image.composite(im,soft,mask)
     if merged and o.get('crop',True):  # crop to what matters
         top=max(0,merged[0][0]-PAD); bot=min(im.height,merged[-1][1]+PAD)
         out=out.crop((0,top,im.width,bot))
     return out
 for lang in ('en','ko'):
     os.makedirs(f'{R}/{lang}',exist_ok=True)
-    shots={n:edit(lang,n) for n in (0,1,2,3,5,6,7,8,9,10,11,12)}
+    shots={n:edit(lang,n) for n in (1,2,5,6,7,8,9,10,11,12)}
     a,b=edit(lang,'4a'),edit(lang,'4b'); gap=44
     m=Image.new('RGB',(a.width,a.height+gap+b.height),'white'); m.paste(a,(0,0)); m.paste(b,(0,a.height+gap))
     d=ImageDraw.Draw(m); y=a.height+gap//2

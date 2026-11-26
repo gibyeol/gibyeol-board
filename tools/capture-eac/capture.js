@@ -126,14 +126,12 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
     const r=[];
     r.push(await mark(p, await V('input[name=ps_fmnm]').elementHandle(),1));
     r.push(await mark(p, await V('input[name=ps_gvnm]').elementHandle(),2));
-    r.push(await mark(p, await V('select.btd_year').evaluateHandle(e=>e.parentElement),3));
-    r.push(await mark(p, await V('.info_nat').elementHandle(),4));
-    r.push(await mark(p, await V('input[name=ps_no]').elementHandle(),5));
-    r.push(await mark(p, sexSel,6));
-    const exp = await p.evaluateHandle(()=>{ const ss=[...document.querySelectorAll('select')].filter(s=>s.getBoundingClientRect().height>0); const i=ss.findIndex(s=>/Male|남/.test(s.innerText)); return ss[i+1].parentElement;});
-    r.push(await mark(p, exp, 7));
+    r.push(await mark(p, await V('#fmnmChk1').evaluateHandle(e=>e.closest('.checkbox-area')||e.parentElement),3,{outR:true}));
+    const usfk = await p.evaluateHandle(()=>window.__small('USFK'));
+    r.push(await mark(p, usfk, 4, {outR:true}));
+    r.push(await mark(p, await V('input[name=ps_no]').elementHandle(),null));
     const ub = await V('button.btnOcrScan').boundingBox(); const sy=await p.evaluate(()=>scrollY);
-    const h5=await p.evaluate(()=>document.querySelector('h5.infoBox').getBoundingClientRect().top+scrollY); await clipShot(p,'shot-6',h5-14,r[6][3]+16);
+    const h5=await p.evaluate(()=>document.querySelector('h5.infoBox').getBoundingClientRect().top+scrollY); await clipShot(p,'shot-6',r[0][1]-50,r[4][3]+20);
   }
   // arrival/departure
   await V('input[name=ent_prr_ymd]').evaluate(e=>{e.removeAttribute('readonly'); e.value='2026-11-28'; e.dispatchEvent(new Event('change',{bubbles:true}));});
@@ -199,10 +197,10 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
     await p.setViewportSize({width:390,height:1200}); await p.waitForTimeout(300); const bb = await btn.boundingBox(); await btn.click({position:{x:(loc==='EN'? bb.width*0.75 : bb.width*0.25), y:bb.height/2}});
     await p.waitForTimeout(1500);
     await V('#keywordAddr').fill('08013'); await V('#btnSearchAddr').click(); await p.waitForTimeout(2500); await L.ready(p).catch(()=>{});
-    const k = await markSel(p,'#keywordAddr',1,{fixed:true},'div');
+    const k = await markSel(p,'#keywordAddr',8,{fixed:true},'div');
     const row = await p.evaluateHandle(()=>{const k=document.querySelector('#keywordAddr'); const kb=k.getBoundingClientRect().bottom; return [...document.querySelectorAll('li,tr,a,div')].filter(x=>{const r=x.getBoundingClientRect(); return r.height>20&&r.height<90&&r.top>kb+20&&/08013/.test(x.innerText)&&x.offsetParent;}).sort((a,b)=>a.getBoundingClientRect().top-b.getBoundingClientRect().top || b.getBoundingClientRect().width-a.getBoundingClientRect().width)[0]||null;});
-    let r2=null; if (await row.evaluate(e=>!!e)) r2 = await mark(p,row,2,{fixed:true}); else console.log('no result row');
-    const t2 = await markSel(p,'#twoTab',3,{fixed:true});
+    let r2=null; if (await row.evaluate(e=>!!e)) r2 = await mark(p,row,9,{fixed:true}); else console.log('no result row');
+    const t2 = await markSel(p,'#twoTab',10,{fixed:true});
     const top = await p.evaluate(()=>{let c=document.querySelector('#twoTab'); while(c.parentElement&&c.getBoundingClientRect().height<350) c=c.parentElement; return c.getBoundingClientRect().top;});
     const bot = r2 ? r2[3]+60 : 900;
     await clipShot(p,'shot-9',top-14,Math.min(bot,1200),true);

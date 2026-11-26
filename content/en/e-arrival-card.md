@@ -69,7 +69,7 @@ Tick, type your email twice, tap **Confirm**. The person filling in for the grou
 
 1. Surname = your family name.
 2. Given name = your first (and middle) names.
-3. "unknown": tick only if your passport has no surname (or no given name).
+3. "unknown": a box next to the name — leave it alone unless your passport really has no surname or given name (our reading of the form; the official FAQ doesn't explain it).
 4. "For USFK – DoD ID number" is only for US Forces Korea. Everyone else types the passport number.
 
 Birthday shown as XX on your passport? Pick 00, the site's help says. Your passport must still be valid on your arrival date.
@@ -109,7 +109,7 @@ The site announced a verification-code step at submission from 6 May 2026. Our p
 
 <aside class="note eac-done"><i class="ic ic-file-down" aria-hidden="true"></i><span>Done! Save the PDF with your issue number on your phone. You don't have to show it (the officer sees your details on screen), but keep it in case you are asked.</span></aside>
 
-<aside class="note eac-warn"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>The site warns that Gmail, Outlook.com, Hotmail and QQ emails can arrive late or not at all. Save the PDF, don't wait for the email.</span></aside>
+<aside class="note eac-warn"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>The PDF is also emailed, but the site warns that Gmail, Outlook.com, Hotmail and QQ emails can arrive late or not at all. Save the PDF, don't wait for the email.</span></aside>
 
 ## Common mistakes
 
