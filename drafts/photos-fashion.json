@@ -1,0 +1,25 @@
+[
+ {
+  "file": "static/photo/light-puffer-rack.webp",
+  "subject": "Short quilted padded jackets hanging on a clothing-store wall (light blue one marked 1); Cebu City, Philippines, 2022",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Down_jackets_(09-09-2022).jpg",
+  "author": "PaulGorduiz106",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "original_date": "2022-09-09 13:09:21",
+  "modifications": [
+   "960px thumbnail cropped to the three padded jackets on the lower row (left jacket with a visible logo cut out)",
+   "small chest logo on the navy jacket blurred",
+   "auto-contrast",
+   "resized to 780x422",
+   "red box and number 1 added",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: PaulGorduiz106, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, logo blurred, auto-contrast, red box and number 1 added)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "used_on": ["winter-light-puffer (ko)"],
+  "note": "Not a Korean store and not confirmed to be a lightweight puffer; caption says it only shows the shape. BY-SA: the modified image must stay under CC BY-SA 4.0 with attribution."
+ }
+]
