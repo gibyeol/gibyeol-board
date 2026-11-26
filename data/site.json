@@ -87,7 +87,10 @@
    "report_cta": "Report an update",
    "report_subject": "Nadri update request",
    "report_mail": "Page: {url}\n\nWhat has changed:\n\nWhere you saw it (link or place), if you can share it:\n",
-   "updates": "Updates"
+   "updates": "Updates",
+   "catch": "Less hassle, more joy.",
+   "crumb_country": "Korea travel guides",
+   "crumb_guides": "Guides"
   },
   "ja": {
    "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
@@ -153,7 +156,10 @@
    "report_cta": "更新をリクエスト",
    "report_subject": "Nadri 更新リクエスト",
    "report_mail": "ページ: {url}\n\n変わっていた点:\n\n確認した場所やリンク(わかれば):\n",
-   "updates": "更新履歴"
+   "updates": "更新履歴",
+   "catch": "迷わず、もっと楽しく。",
+   "crumb_country": "韓国旅行ガイド",
+   "crumb_guides": "ガイド"
   },
   "zh-tw": {
    "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
@@ -219,7 +225,10 @@
    "report_cta": "回報需要更新",
    "report_subject": "Nadri 更新回報",
    "report_mail": "頁面: {url}\n\n哪裡不一樣了:\n\n在哪裡看到的(連結或地點,方便的話):\n",
-   "updates": "更新紀錄"
+   "updates": "更新紀錄",
+   "catch": "少點麻煩，多點快樂。",
+   "crumb_country": "韓國旅遊指南",
+   "crumb_guides": "指南"
   },
   "ko": {
    "tagline": "한국 여행을 더 쉽게. 직접 확인한 정보로 여행·쇼핑·문화를 안내해요.",
@@ -285,7 +294,10 @@
    "report_cta": "업데이트 요청하기",
    "report_subject": "Nadri 업데이트 요청",
    "report_mail": "페이지: {url}\n\n바뀐 내용:\n\n확인한 곳(링크나 장소, 가능하면):\n",
-   "updates": "업데이트 기록"
+   "updates": "업데이트 기록",
+   "catch": "덜 헤매고, 더 즐겁게",
+   "crumb_country": "한국 여행 가이드",
+   "crumb_guides": "가이드"
   }
  },
  "head_meta": [
