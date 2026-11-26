@@ -2,7 +2,7 @@
 title: Nadri: plan your Korea trip without the guesswork
 description: Entry forms, apps, money, shopping and sale dates for visiting Korea, checked against official sources and kept up to date.
 home: yes
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 <section class="front">
 <article class="lead">
@@ -13,7 +13,13 @@ updated: 2026-11-25
 <p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">Source: ZDNet Korea, 2026-11-10</a> · <a href="/deals/">See every sale</a></p>
 </article>
 
+<div class="front-side">
+
+{{trending}}
+
 {{board:5}}
+
+</div>
 
 </section>
 

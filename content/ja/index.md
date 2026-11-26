@@ -2,7 +2,7 @@
 title: Nadri|韓国旅行の準備と買い物を、迷わず計画
 description: 電子入国申告、K-ETA、アプリ、お金、オリーブヤングのセール時期まで。公式情報で確認した韓国旅行ガイド。
 home: yes
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 <section class="front">
 <article class="lead">
@@ -13,7 +13,13 @@ updated: 2026-11-25
 <p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">出典:ZDNet Korea、2026-11-10</a> · <a href="/ja/deals/">セールをすべて見る</a></p>
 </article>
 
+<div class="front-side">
+
+{{trending}}
+
 {{board:5}}
+
+</div>
 
 </section>
 

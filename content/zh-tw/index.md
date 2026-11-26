@@ -2,7 +2,7 @@
 title: Nadri|韓國自由行準備與購物,一次規劃好
 description: 電子入境卡、K-ETA、App、換錢、Olive Young 特賣時間。依官方資料確認的韓國旅遊指南。
 home: yes
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 <section class="front">
 <article class="lead">
@@ -13,7 +13,13 @@ updated: 2026-11-25
 <p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">來源:ZDNet Korea,2026-11-10</a> · <a href="/zh-tw/deals/">看全部特賣</a></p>
 </article>
 
+<div class="front-side">
+
+{{trending}}
+
 {{board:5}}
+
+</div>
 
 </section>
 
