@@ -10,6 +10,9 @@
 - Picture quality bar: "최소 퀄리티는 공식사이트에 나와있는 그림 퀄리티 정도야. 실사수준에 최대한 가깝게 정보를 표기해야 도움이돼." Hand-drawn SVGs are "storyboard" quality — replace them with real images wherever possible.
 - Every language edition (including ko) speaks to whoever is reading, about their situation — no Korean/foreigner split, no "helping a foreign friend" framing (owner 2026-11-26 10:00: "한국인/외국인 구분을 할게 아니라 모두가 필요한 정보를 잘 깔끔하게 고시하면 상황에 맞게 모두가 쓸 수 있는거지").
 
+## Nadri's essence — owner's definition (2026-11-26 11:02, verbatim): "유저들에게 가치를 줘야 그만큼이 수익화가 될거아니야? 그럼 그 가치란 무엇인가? 여행/쇼핑/문화 관련 올인원 정보를 편하게 제공하고 그들에게 여행에서 불편함을 줄이고 행복의 가치를 더 주려고 하는 거잖아? AI와 연결이니 현장검수를 통해 뭘하니 이런거는 그냥 방식일 뿐이고 본질이 아니라고."
+Every element is judged by one question: does it make this person's trip less of a hassle, or happier? AI, verification, photos, affiliates are only ways to get there.
+
 ## Before you start and after you finish (owner 2026-11-26 10:10: "모든 새로운 작업이 시작 될때마다 다시 원칙학습하고 검토해서 수행하고 수행 뒤에도 또 검토해")
 - Before: read /home/user/wondu-archive/docs/원칙서-current.md in full (parts 1–5), then write one paragraph in your report: the essence of this page (why a visitor opens it, what they must do next, how each part helps and where it connects them).
 - After: an independent reviewer (not you) checks your page against the 10 principles, the owner's words above and that essence. Leave your page in a state you would defend line by line.
