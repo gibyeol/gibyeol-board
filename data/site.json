@@ -1,308 +1,309 @@
 {
- "base_url": "https://nadri-guide.pages.dev",
- "languages": {
-  "en": {
-   "name": "English",
-   "hreflang": "en",
-   "prefix": ""
+  "base_url": "https://nadri-guide.pages.dev",
+  "languages": {
+    "en": {
+      "name": "English",
+      "hreflang": "en",
+      "prefix": ""
+    },
+    "ja": {
+      "name": "日本語",
+      "hreflang": "ja",
+      "prefix": "/ja"
+    },
+    "zh-tw": {
+      "name": "繁體中文",
+      "hreflang": "zh-Hant-TW",
+      "prefix": "/zh-tw"
+    },
+    "ko": {
+      "name": "한국어",
+      "hreflang": "ko",
+      "prefix": "/ko"
+    }
   },
-  "ja": {
-   "name": "日本語",
-   "hreflang": "ja",
-   "prefix": "/ja"
+  "ui": {
+    "en": {
+      "tagline": "Korea, made easy to plan. Trips, shopping and culture from people who check the details.",
+      "nav": [
+        [
+          "/guides/",
+          "Guides"
+        ],
+        [
+          "/shopping/",
+          "Shopping"
+        ],
+        [
+          "/deals/",
+          "Deals board"
+        ],
+        [
+          "/updates/",
+          "News"
+        ],
+        [
+          "/name/",
+          "Fun: your name"
+        ]
+      ],
+      "nav_label": "Main",
+      "lang_label": "Language",
+      "skip": "Skip to content",
+      "byline": "Researched with AI, checked against official sources on {date}, approved by a Nadri editor.",
+      "byline_pending": "Researched with AI and checked against official sources on {date}. Not yet reviewed by a Nadri editor.",
+      "disclosure_inline": "Some links on this page are affiliate links. If you book or buy through them, Nadri may earn a commission at no extra cost to you.",
+      "aff_link": "Affiliate link",
+      "deals_empty": "No deals on the board right now. Check back soon.",
+      "deals_checked": "Board last checked {date} (KST). Dates marked expected follow past years and change when the store announces them.",
+      "deal_confirmed": "Confirmed",
+      "deal_expected": "Expected",
+      "deal_go": "See the offer",
+      "foot": [
+        [
+          "/about/",
+          "About Nadri"
+        ],
+        [
+          "/disclosure/",
+          "How we make money"
+        ],
+        [
+          "/privacy/",
+          "Privacy"
+        ],
+        [
+          "/updates/",
+          "Updates"
+        ],
+        [
+          "/reuse/",
+          "Copyright and reuse"
+        ]
+      ],
+      "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide. © 2026 Nadri. Quote a line and link to us any time; please don't copy whole guides.",
+      "report_title": "Spot something out of date?",
+      "report_body": "Korean entry, tax and transit rules change often. This guide was last checked on {date}. If something here no longer matches what you saw, tell us and we will re-check it against the official source.",
+      "report_cta": "Report an update",
+      "report_subject": "Nadri update request",
+      "report_mail": "Page: {url}\n\nWhat has changed:\n\nWhere you saw it (link or place), if you can share it:\n",
+      "updates": "Updates",
+      "catch": "Less hassle, more joy.",
+      "crumb_country": "Korea travel guides",
+      "crumb_guides": "Guides"
+    },
+    "ja": {
+      "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
+      "nav": [
+        [
+          "/guides/",
+          "ガイド"
+        ],
+        [
+          "/shopping/",
+          "ショッピング"
+        ],
+        [
+          "/deals/",
+          "セール情報"
+        ],
+        [
+          "/updates/",
+          "お知らせ"
+        ],
+        [
+          "/name/",
+          "遊び:名前"
+        ]
+      ],
+      "nav_label": "メイン",
+      "lang_label": "言語",
+      "skip": "本文へ移動",
+      "byline": "AIで調べ、{date}に公式情報で確認し、Nadri編集部が承認。",
+      "byline_pending": "AIで調べ、{date}に公式情報で確認。Nadri編集部の確認前です。",
+      "disclosure_inline": "このページには広告(アフィリエイト)リンクが含まれます。リンク経由で予約・購入された場合、Nadriが紹介料を受け取ることがあります(お客様の負担は変わりません)。",
+      "aff_link": "PR",
+      "deals_empty": "現在掲載中のセール情報はありません。",
+      "deals_checked": "最終確認:{date}(韓国時間)。「予定」は例年の傾向に基づくもので、公式発表で更新します。",
+      "deal_confirmed": "確定",
+      "deal_expected": "予定",
+      "deal_go": "詳細を見る",
+      "foot": [
+        [
+          "/about/",
+          "Nadriについて"
+        ],
+        [
+          "/disclosure/",
+          "収益について"
+        ],
+        [
+          "/privacy/",
+          "プライバシー"
+        ],
+        [
+          "/updates/",
+          "更新履歴"
+        ],
+        [
+          "/reuse/",
+          "著作権と引用"
+        ]
+      ],
+      "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。 © 2026 Nadri. 一文の引用とリンクは歓迎、ガイド全体の転載はご遠慮ください。",
+      "report_title": "情報が古くなっていませんか?",
+      "report_body": "韓国の入国・免税・交通のルールはよく変わります。このガイドの最終確認日は{date}です。実際と違う点があれば教えてください。公式情報で確認し直します。",
+      "report_cta": "更新をリクエスト",
+      "report_subject": "Nadri 更新リクエスト",
+      "report_mail": "ページ: {url}\n\n変わっていた点:\n\n確認した場所やリンク(わかれば):\n",
+      "updates": "更新履歴",
+      "catch": "迷わず、もっと楽しく。",
+      "crumb_country": "韓国旅行ガイド",
+      "crumb_guides": "ガイド"
+    },
+    "zh-tw": {
+      "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
+      "nav": [
+        [
+          "/guides/",
+          "指南"
+        ],
+        [
+          "/shopping/",
+          "購物"
+        ],
+        [
+          "/deals/",
+          "特賣看板"
+        ],
+        [
+          "/updates/",
+          "消息"
+        ],
+        [
+          "/name/",
+          "好玩:名字"
+        ]
+      ],
+      "nav_label": "主選單",
+      "lang_label": "語言",
+      "skip": "跳到內容",
+      "byline": "以 AI 調查,{date} 依官方資料確認,Nadri 編輯部核准。",
+      "byline_pending": "以 AI 調查,{date} 依官方資料確認。尚未經 Nadri 編輯部審核。",
+      "disclosure_inline": "本頁含有聯盟行銷(廣告)連結。透過連結預訂或購買時,Nadri 可能獲得佣金,你支付的價格不會因此改變。",
+      "aff_link": "廣告連結",
+      "deals_empty": "目前沒有上架的優惠資訊。",
+      "deals_checked": "最後確認:{date}(韓國時間)。標示「預計」的日期依往年慣例推估,官方公布後會更新。",
+      "deal_confirmed": "已確認",
+      "deal_expected": "預計",
+      "deal_go": "查看優惠",
+      "foot": [
+        [
+          "/about/",
+          "關於 Nadri"
+        ],
+        [
+          "/disclosure/",
+          "收入來源"
+        ],
+        [
+          "/privacy/",
+          "隱私權"
+        ],
+        [
+          "/updates/",
+          "更新紀錄"
+        ],
+        [
+          "/reuse/",
+          "著作權與引用"
+        ]
+      ],
+      "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。 © 2026 Nadri。歡迎引用一兩句並附上連結,請勿整篇轉載。",
+      "report_title": "發現資訊過時了嗎?",
+      "report_body": "韓國的入境、退稅和交通規定常常改變。這篇指南最後確認日期是 {date}。如果和你實際看到的不一樣,請告訴我們,我們會再依官方資料確認。",
+      "report_cta": "回報需要更新",
+      "report_subject": "Nadri 更新回報",
+      "report_mail": "頁面: {url}\n\n哪裡不一樣了:\n\n在哪裡看到的(連結或地點,方便的話):\n",
+      "updates": "更新紀錄",
+      "catch": "少點麻煩，多點快樂。",
+      "crumb_country": "韓國旅遊指南",
+      "crumb_guides": "指南"
+    },
+    "ko": {
+      "tagline": "한국 여행을 더 쉽게. 직접 확인한 정보로 여행·쇼핑·문화를 안내해요.",
+      "nav": [
+        [
+          "/guides/",
+          "가이드"
+        ],
+        [
+          "/shopping/",
+          "쇼핑"
+        ],
+        [
+          "/deals/",
+          "할인 상황판"
+        ],
+        [
+          "/updates/",
+          "소식"
+        ],
+        [
+          "/name/",
+          "오락실: 내 이름"
+        ]
+      ],
+      "nav_label": "메뉴",
+      "lang_label": "언어",
+      "skip": "본문으로",
+      "byline": "AI로 조사하고, {date} 공식 정보로 확인하고, Nadri 에디터가 승인했어요.",
+      "byline_pending": "AI로 조사하고 {date} 공식 정보로 확인했어요. 아직 Nadri 에디터 검토 전이에요.",
+      "disclosure_inline": "이 페이지의 일부 링크는 제휴(광고) 링크예요. 이 링크로 예약하거나 구매하면 Nadri가 수수료를 받을 수 있고, 이용자가 내는 금액은 달라지지 않아요.",
+      "aff_link": "광고 링크",
+      "deals_empty": "지금 올라온 할인 정보가 없어요.",
+      "deals_checked": "마지막 확인: {date}. '예정'은 예년 일정 기준이며 공식 발표가 나오면 바로 고칩니다.",
+      "deal_confirmed": "확정",
+      "deal_expected": "예정",
+      "deal_go": "바로 가기",
+      "foot": [
+        [
+          "/about/",
+          "Nadri 소개"
+        ],
+        [
+          "/disclosure/",
+          "수익 구조"
+        ],
+        [
+          "/privacy/",
+          "개인정보"
+        ],
+        [
+          "/updates/",
+          "업데이트 기록"
+        ],
+        [
+          "/reuse/",
+          "저작권과 인용"
+        ]
+      ],
+      "foot_note": "Nadri는 독립 여행 가이드예요. 규정은 바뀔 수 있으니 입국·세금 규정은 각 가이드에 연결된 공식 사이트에서 최종 확인하세요. © 2026 Nadri. 한두 문장 인용과 링크는 환영해요. 가이드 전체를 옮겨 싣지는 말아 주세요.",
+      "report_title": "바뀐 정보를 발견했나요?",
+      "report_body": "한국의 입국·면세·교통 규정은 자주 바뀝니다. 이 페이지의 마지막 확인일은 {date}입니다. 실제와 다른 점이 있으면 알려주세요. 공식 출처로 다시 확인하겠습니다.",
+      "report_cta": "업데이트 요청하기",
+      "report_subject": "Nadri 업데이트 요청",
+      "report_mail": "페이지: {url}\n\n바뀐 내용:\n\n확인한 곳(링크나 장소, 가능하면):\n",
+      "updates": "업데이트 기록",
+      "catch": "덜 헤매고, 더 즐겁게",
+      "crumb_country": "한국 여행 가이드",
+      "crumb_guides": "가이드"
+    }
   },
-  "zh-tw": {
-   "name": "繁體中文",
-   "hreflang": "zh-Hant-TW",
-   "prefix": "/zh-tw"
-  },
-  "ko": {
-   "name": "한국어",
-   "hreflang": "ko",
-   "prefix": "/ko"
-  }
- },
- "ui": {
-  "en": {
-   "tagline": "Korea, made easy to plan. Trips, shopping and culture from people who check the details.",
-   "nav": [
-    [
-     "/guides/",
-     "Guides"
-    ],
-    [
-     "/shopping/",
-     "Shopping"
-    ],
-    [
-     "/deals/",
-     "Deals board"
-    ],
-    [
-     "/updates/",
-     "News"
-    ],
-    [
-     "/name/",
-     "Fun: your name"
-    ]
-   ],
-   "nav_label": "Main",
-   "lang_label": "Language",
-   "skip": "Skip to content",
-   "byline": "Researched with AI, checked against official sources on {date}, approved by a Nadri editor.",
-   "byline_pending": "Researched with AI and checked against official sources on {date}. Not yet reviewed by a Nadri editor.",
-   "disclosure_inline": "Some links on this page are affiliate links. If you book or buy through them, Nadri may earn a commission at no extra cost to you.",
-   "aff_link": "Affiliate link",
-   "deals_empty": "No deals on the board right now. Check back soon.",
-   "deals_checked": "Board last checked {date} (KST). Dates marked expected follow past years and change when the store announces them.",
-   "deal_confirmed": "Confirmed",
-   "deal_expected": "Expected",
-   "deal_go": "See the offer",
-   "foot": [
-    [
-     "/about/",
-     "About Nadri"
-    ],
-    [
-     "/disclosure/",
-     "How we make money"
-    ],
-    [
-     "/privacy/",
-     "Privacy"
-    ],
-    [
-     "/updates/",
-     "Updates"
-    ],
-    [
-     "/reuse/",
-     "Copyright and reuse"
-    ]
-   ],
-   "foot_note": "Nadri is an independent guide. Rules change: confirm entry and tax rules with the official sites linked in each guide. © 2026 Nadri. Quote a line and link to us any time; please don't copy whole guides.",
-   "report_title": "Spot something out of date?",
-   "report_body": "Korean entry, tax and transit rules change often. This guide was last checked on {date}. If something here no longer matches what you saw, tell us and we will re-check it against the official source.",
-   "report_cta": "Report an update",
-   "report_subject": "Nadri update request",
-   "report_mail": "Page: {url}\n\nWhat has changed:\n\nWhere you saw it (link or place), if you can share it:\n",
-   "updates": "Updates",
-   "catch": "Less hassle, more joy.",
-   "crumb_country": "Korea travel guides",
-   "crumb_guides": "Guides"
-  },
-  "ja": {
-   "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
-   "nav": [
-    [
-     "/guides/",
-     "ガイド"
-    ],
-    [
-     "/shopping/",
-     "ショッピング"
-    ],
-    [
-     "/deals/",
-     "セール情報"
-    ],
-    [
-     "/updates/",
-     "お知らせ"
-    ],
-    [
-     "/name/",
-     "遊び:名前"
-    ]
-   ],
-   "nav_label": "メイン",
-   "lang_label": "言語",
-   "skip": "本文へ移動",
-   "byline": "AIで調べ、{date}に公式情報で確認し、Nadri編集部が承認。",
-   "byline_pending": "AIで調べ、{date}に公式情報で確認。Nadri編集部の確認前です。",
-   "disclosure_inline": "このページには広告(アフィリエイト)リンクが含まれます。リンク経由で予約・購入された場合、Nadriが紹介料を受け取ることがあります(お客様の負担は変わりません)。",
-   "aff_link": "PR",
-   "deals_empty": "現在掲載中のセール情報はありません。",
-   "deals_checked": "最終確認:{date}(韓国時間)。「予定」は例年の傾向に基づくもので、公式発表で更新します。",
-   "deal_confirmed": "確定",
-   "deal_expected": "予定",
-   "deal_go": "詳細を見る",
-   "foot": [
-    [
-     "/about/",
-     "Nadriについて"
-    ],
-    [
-     "/disclosure/",
-     "収益について"
-    ],
-    [
-     "/privacy/",
-     "プライバシー"
-    ],
-    [
-     "/updates/",
-     "更新履歴"
-    ],
-    [
-     "/reuse/",
-     "著作権と引用"
-    ]
-   ],
-   "foot_note": "Nadriは独立系の旅行ガイドです。入国・税制のルールは変わることがあるため、各ガイドの公式リンクで最終確認してください。 © 2026 Nadri. 一文の引用とリンクは歓迎、ガイド全体の転載はご遠慮ください。",
-   "report_title": "情報が古くなっていませんか?",
-   "report_body": "韓国の入国・免税・交通のルールはよく変わります。このガイドの最終確認日は{date}です。実際と違う点があれば教えてください。公式情報で確認し直します。",
-   "report_cta": "更新をリクエスト",
-   "report_subject": "Nadri 更新リクエスト",
-   "report_mail": "ページ: {url}\n\n変わっていた点:\n\n確認した場所やリンク(わかれば):\n",
-   "updates": "更新履歴",
-   "catch": "迷わず、もっと楽しく。",
-   "crumb_country": "韓国旅行ガイド",
-   "crumb_guides": "ガイド"
-  },
-  "zh-tw": {
-   "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
-   "nav": [
-    [
-     "/guides/",
-     "指南"
-    ],
-    [
-     "/shopping/",
-     "購物"
-    ],
-    [
-     "/deals/",
-     "特賣看板"
-    ],
-    [
-     "/updates/",
-     "消息"
-    ],
-    [
-     "/name/",
-     "好玩:名字"
-    ]
-   ],
-   "nav_label": "主選單",
-   "lang_label": "語言",
-   "skip": "跳到內容",
-   "byline": "以 AI 調查,{date} 依官方資料確認,Nadri 編輯部核准。",
-   "byline_pending": "以 AI 調查,{date} 依官方資料確認。尚未經 Nadri 編輯部審核。",
-   "disclosure_inline": "本頁含有聯盟行銷(廣告)連結。透過連結預訂或購買時,Nadri 可能獲得佣金,你支付的價格不會因此改變。",
-   "aff_link": "廣告連結",
-   "deals_empty": "目前沒有上架的優惠資訊。",
-   "deals_checked": "最後確認:{date}(韓國時間)。標示「預計」的日期依往年慣例推估,官方公布後會更新。",
-   "deal_confirmed": "已確認",
-   "deal_expected": "預計",
-   "deal_go": "查看優惠",
-   "foot": [
-    [
-     "/about/",
-     "關於 Nadri"
-    ],
-    [
-     "/disclosure/",
-     "收入來源"
-    ],
-    [
-     "/privacy/",
-     "隱私權"
-    ],
-    [
-     "/updates/",
-     "更新紀錄"
-    ],
-    [
-     "/reuse/",
-     "著作權與引用"
-    ]
-   ],
-   "foot_note": "Nadri 是獨立的旅遊指南。入境與退稅規定可能變動,請以各篇指南附上的官方連結為準。 © 2026 Nadri。歡迎引用一兩句並附上連結,請勿整篇轉載。",
-   "report_title": "發現資訊過時了嗎?",
-   "report_body": "韓國的入境、退稅和交通規定常常改變。這篇指南最後確認日期是 {date}。如果和你實際看到的不一樣,請告訴我們,我們會再依官方資料確認。",
-   "report_cta": "回報需要更新",
-   "report_subject": "Nadri 更新回報",
-   "report_mail": "頁面: {url}\n\n哪裡不一樣了:\n\n在哪裡看到的(連結或地點,方便的話):\n",
-   "updates": "更新紀錄",
-   "catch": "少點麻煩，多點快樂。",
-   "crumb_country": "韓國旅遊指南",
-   "crumb_guides": "指南"
-  },
-  "ko": {
-   "tagline": "한국 여행을 더 쉽게. 직접 확인한 정보로 여행·쇼핑·문화를 안내해요.",
-   "nav": [
-    [
-     "/guides/",
-     "가이드"
-    ],
-    [
-     "/shopping/",
-     "쇼핑"
-    ],
-    [
-     "/deals/",
-     "할인 상황판"
-    ],
-    [
-     "/updates/",
-     "소식"
-    ],
-    [
-     "/name/",
-     "오락실: 내 이름"
-    ]
-   ],
-   "nav_label": "메뉴",
-   "lang_label": "언어",
-   "skip": "본문으로",
-   "byline": "AI로 조사하고, {date} 공식 정보로 확인하고, Nadri 에디터가 승인했어요.",
-   "byline_pending": "AI로 조사하고 {date} 공식 정보로 확인했어요. 아직 Nadri 에디터 검토 전이에요.",
-   "disclosure_inline": "이 페이지의 일부 링크는 제휴(광고) 링크예요. 이 링크로 예약하거나 구매하면 Nadri가 수수료를 받을 수 있고, 이용자가 내는 금액은 달라지지 않아요.",
-   "aff_link": "광고 링크",
-   "deals_empty": "지금 올라온 할인 정보가 없어요.",
-   "deals_checked": "마지막 확인: {date}. '예정'은 예년 일정 기준이며 공식 발표가 나오면 바로 고칩니다.",
-   "deal_confirmed": "확정",
-   "deal_expected": "예정",
-   "deal_go": "바로 가기",
-   "foot": [
-    [
-     "/about/",
-     "Nadri 소개"
-    ],
-    [
-     "/disclosure/",
-     "수익 구조"
-    ],
-    [
-     "/privacy/",
-     "개인정보"
-    ],
-    [
-     "/updates/",
-     "업데이트 기록"
-    ],
-    [
-     "/reuse/",
-     "저작권과 인용"
-    ]
-   ],
-   "foot_note": "Nadri는 독립 여행 가이드예요. 규정은 바뀔 수 있으니 입국·세금 규정은 각 가이드에 연결된 공식 사이트에서 최종 확인하세요. © 2026 Nadri. 한두 문장 인용과 링크는 환영해요. 가이드 전체를 옮겨 싣지는 말아 주세요.",
-   "report_title": "바뀐 정보를 발견했나요?",
-   "report_body": "한국의 입국·면세·교통 규정은 자주 바뀝니다. 이 페이지의 마지막 확인일은 {date}입니다. 실제와 다른 점이 있으면 알려주세요. 공식 출처로 다시 확인하겠습니다.",
-   "report_cta": "업데이트 요청하기",
-   "report_subject": "Nadri 업데이트 요청",
-   "report_mail": "페이지: {url}\n\n바뀐 내용:\n\n확인한 곳(링크나 장소, 가능하면):\n",
-   "updates": "업데이트 기록",
-   "catch": "덜 헤매고, 더 즐겁게",
-   "crumb_country": "한국 여행 가이드",
-   "crumb_guides": "가이드"
-  }
- },
- "head_meta": [
-  "<meta name='impact-site-verification' value='ffe61ff4-9b52-4121-91fd-fa025aca5e29'>",
-  "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">\n  (function () {\n      var script = document.createElement(\"script\");\n      script.async = 1;\n      script.setAttribute(\"data-cmp-ab\",\"2\");\n      script.src = 'https://tpembars.com/NjA1NjAy.js?t=605602';\n      document.head.appendChild(script);\n  })();\n</script>"
- ],
- "contact_email": "gibyeol.official@gmail.com"
+  "head_meta": [
+    "<meta name='impact-site-verification' value='ffe61ff4-9b52-4121-91fd-fa025aca5e29'>",
+    "<meta name='awin-verification' content='Awin'>",
+    "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">\n  (function () {\n      var script = document.createElement(\"script\");\n      script.async = 1;\n      script.setAttribute(\"data-cmp-ab\",\"2\");\n      script.src = 'https://tpembars.com/NjA1NjAy.js?t=605602';\n      document.head.appendChild(script);\n  })();\n</script>"
+  ],
+  "contact_email": "gibyeol.official@gmail.com"
 }
