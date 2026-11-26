@@ -586,6 +586,8 @@
     var k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '', C = (window.NADRI_CONCEPTS || {})[wid];
     var list = W.slice();
     if (krChain && !list.some(function (e) { return e.r === 'KR'; })) list.push({ r: 'KR', chain: krChain });
+    // Korea first (owner 2026-11-26 11:14: "한국부분이 가장 먼저 눈에 보이게 위로 올려")
+    list.sort(function (a, b) { return (a.r === 'KR' ? 0 : 1) - (b.r === 'KR' ? 0 : 1); });
     var rows = list.map(function (e) {
       var rg = regionOf(e.r), body;
       if (e.chain) body = chainSteps(e.r === 'KR' && krChain ? krChain : e.chain);
