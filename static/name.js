@@ -1137,6 +1137,7 @@
     x: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.9 1.2h3.7l-8 9.2L24 22.8h-7.4l-5.8-7.6-6.6 7.6H.5l8.6-9.8L0 1.2h7.6l5.2 6.9zm-1.3 19.5h2L6.5 3.2H4.3z"/></svg>',
     facebook: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 22v-8.2h2.8l.4-3.2h-3.2V8.5c0-.9.3-1.6 1.6-1.6h1.7V4.1c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.4H7.3v3.2h2.8V22z"/></svg>',
     line: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 3C6.5 3 2 6.6 2 11c0 3.9 3.5 7.2 8.3 7.9.3.1.8.2.9.5.1.3.1.7 0 1l-.1.9c0 .3-.2 1 .9.6 1.1-.5 6-3.5 8.2-6.1C21.7 14.2 22 12.7 22 11c0-4.4-4.5-8-10-8z"/><text x="12" y="13.6" text-anchor="middle" font-size="5.6" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#fff">LINE</text></svg>',
+    instagram: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.3" cy="6.7" r="1" fill="currentColor" stroke="none"/></svg>',
     link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>',
     save: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>'
   };
@@ -1167,6 +1168,7 @@
       '<div class="nshare-img"><img alt="" hidden><span class="nshare-wait">…</span></div>' +
       '<div class="nshare-row">' +
         (SHARE_FILES ? item('nshare-phone', 'phone', T.phoneShare) : '') +
+        item('nshare-ig', 'instagram', 'Instagram') +
         item('nshare-threads', 'threads', 'Threads', L.threads) + item('nshare-xx', 'x', 'X', L.x) +
         item('nshare-fb', 'facebook', 'Facebook', L.facebook) + item('nshare-line', 'line', 'LINE', L.line) +
         item('nshare-copy', 'link', T.share) + item('nshare-save', 'save', T.saveImg) +
@@ -1196,6 +1198,20 @@
       now(function (o) {
         if (!o.file) { downloadCard(o); return; }
         navigator.share({ files: [o.file], title: 'Nadri', text: T.cardTry + ' ' + L.page }).catch(function (err) { if (!err || err.name !== 'AbortError') downloadCard(o); });
+      });
+    };
+    // Instagram has no web share link (owner [7eb4ec94#2626]): with an app share sheet, send the image there (pick Instagram);
+    // otherwise save the image and open Instagram, with a one-line hint
+    el.querySelector('.nshare-ig').onclick = function () {
+      now(function (o) {
+        if (SHARE_FILES && o.file) {
+          navigator.share({ files: [o.file], title: 'Nadri', text: T.cardTry + ' ' + L.page }).catch(function (err) { if (!err || err.name !== 'AbortError') downloadCard(o); });
+          return;
+        }
+        downloadCard(o);
+        window.open('https://www.instagram.com/', '_blank', 'noopener');
+        var IG = { ko: '이미지를 저장했어요. 인스타그램에서 + 를 눌러 올려 주세요.', ja: '画像を保存しました。Instagramの「+」から投稿してください。', 'zh-tw': '圖片已儲存。到 Instagram 按「+」上傳。' };
+        el.querySelector('.nshare-note').textContent = IG[LANG] || 'Image saved. Open Instagram and tap + to post it.';
       });
     };
     el.querySelector('.nshare-save').onclick = function () { now(downloadCard); };
