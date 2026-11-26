@@ -20,6 +20,7 @@ usage: python3 drafts/prototype/gen_trend_block.py
 import html
 import json
 import pathlib
+import re
 from datetime import date, datetime
 from zoneinfo import ZoneInfo
 
@@ -32,28 +33,28 @@ TODAY = datetime.now(ZoneInfo("Asia/Seoul")).date()
 
 # Fixed words of the block. Prices in the narrow review list use ₩ in every language but Korean.
 UI = {
-    "ko": {"aria": "오늘의 트렌드", "tag": "트렌드", "today": "오늘 마감", "starts": "{m}/{d} 시작", "upto": "최대 {n}%",
+    "ko": {"aria": "오늘의 트렌드", "tag": "트렌드", "ext": "↗ = 날짜가 실린 기사로 연결", "today": "오늘 마감", "starts": "{m}/{d} 시작", "upto": "최대 {n}%",
            "search": "무신사에서 상품 이름으로 검색", "rv_h": "후기 많은 경량 패딩",
-           "rv_src": "무신사 후기순 2026-11-26 17:04(운영자 확인 화면) · 판매 순위 아님 · 광고·비경량 제외",
+           "rv_src": "무신사 후기순 2026-11-26 17:04(운영자 확인 화면) · 판매 순위 아님 · 광고·비경량 제외 · 이름을 누르면 무신사 홈(이름으로 검색)",
            "rank": "{n}위", "bars_src": "11/26 16:25(운영자 확인 화면) · 전 상품 기준 · 2–4위 미확인 · 빨강=경량 패딩 품절 보도",
            "cmp": "공식몰 사양 비교 더 보기", "cmp_src": "가격·충전재·핏·평점",
            "th": ["제품 → 공식 페이지", "가격", "충전재", "핏", "평점", "지금"]},
-    "en": {"aria": "Today's trend", "tag": "Trend", "today": "Ends today", "starts": "starts {mon} {d}", "upto": "up to {n}%",
+    "en": {"aria": "Today's trend", "tag": "Trend", "ext": "↗ = opens the Korean news article with the dates", "today": "Ends today", "starts": "starts {mon} {d}", "upto": "up to {n}%",
            "search": "Search this name on Musinsa", "rv_h": "Lightweight puffers with the most reviews",
-           "rv_src": "Musinsa, most-reviewed sort, 2026-11-26 17:04 (screen checked by our operator) · not a sales ranking · ads and non-lightweight items left out",
+           "rv_src": "Musinsa, most-reviewed sort, 2026-11-26 17:04 (screen checked by our operator) · not a sales ranking · ads and non-lightweight items left out · names open Musinsa home; search the Korean name",
            "rank": "#{n}", "bars_src": "Nov 26 16:25 (screen checked by our operator) · all items · ranks 2–4 not checked · red = lightweight puffer sell-out in the news",
            "cmp": "Compare official store specs", "cmp_src": "price · fill · fit · rating",
            "th": ["Product → official page", "Price", "Fill", "Fit", "Rating", "Now"]},
-    "ja": {"aria": "今日のトレンド", "tag": "トレンド", "today": "今日まで", "starts": "{m}/{d}開始", "upto": "最大{n}%",
+    "ja": {"aria": "今日のトレンド", "tag": "トレンド", "ext": "↗ = 日付が載った韓国語の記事が開きます", "today": "今日まで", "starts": "{m}/{d}開始", "upto": "最大{n}%",
            "search": "ムシンサで商品名を検索", "rv_h": "レビューの多い軽量ダウン",
-           "rv_src": "ムシンサ レビュー順 2026-11-26 17:04(運営者が確認した画面)・売上順位ではありません・広告と軽量でない商品は除外",
-           "rank": "{n}位", "bars_src": "11/26 16:25(運営者が確認した画面)・全商品・2〜4位は未確認・赤=軽量ダウンの品切れ報道あり",
+           "rv_src": "ムシンサ レビュー順 2026-11-26 17:04(運営者が確認した画面)・売上順位ではありません・広告と軽量でない商品は除外・名前はムシンサのトップへ(韓国語名で検索)",
+           "rank": "{n}位", "bars_src": "11/26 16:25(運営者が確認した画面)・全商品・2〜4位は未確認・赤=軽量ダウンの品切れ報道あり・金額はウォン",
            "cmp": "公式ストアの仕様を比べる", "cmp_src": "価格・中わた・フィット・評価",
            "th": ["商品 → 公式ページ", "価格", "中わた", "フィット", "評価", "今"]},
-    "zh-tw": {"aria": "今日趨勢", "tag": "趨勢", "today": "今天截止", "starts": "{m}/{d} 開始", "upto": "最高折扣 {n}%",
+    "zh-tw": {"aria": "今日趨勢", "tag": "趨勢", "ext": "↗ = 開啟刊登日期的韓文報導", "today": "今天截止", "starts": "{m}/{d} 開始", "upto": "最低 {z} 折",
               "search": "在 MUSINSA 用商品名稱搜尋", "rv_h": "評論最多的輕羽絨",
-              "rv_src": "MUSINSA 評論數排序 2026-11-26 17:04(營運者確認的畫面)・不是銷售排名・已排除廣告與非輕量商品",
-              "rank": "#{n}", "bars_src": "11/26 16:25(營運者確認的畫面)・全商品・第2〜4名未確認・紅色=有輕羽絨售罄報導",
+              "rv_src": "MUSINSA 評論數排序 2026-11-26 17:04(營運者確認的畫面)・不是銷售排名・已排除廣告與非輕量商品・點名稱到 MUSINSA 首頁(用韓文名稱搜尋)",
+              "rank": "#{n}", "bars_src": "11/26 16:25(營運者確認的畫面)・全商品・第2〜4名未確認・紅色=有輕羽絨售罄報導・金額為韓元",
               "cmp": "比較官網規格", "cmp_src": "價格・填充物・版型・評分",
               "th": ["商品 → 官方頁面", "價格", "填充物", "版型", "評分", "現在"]},
 }
@@ -71,12 +72,12 @@ TR = {
     "무신사 블프": ("Musinsa Black Friday", "ムシンサ ブラックフライデー", "MUSINSA 黑五"),
     # headline numbers
     "★4.9·1만+": ("★4.9 · 10k+", "★4.9・1万+", "★4.9・1萬+"),
-    "104.7억": ("₩10.47bn", "104.7億", "104.7億"),
+    "104.7억": ("₩10.47bn", "104.7億ウォン", "104.7 億韓元"),
     "무신사 8월 경량 패딩 매출(전년 대비)": ("Musinsa lightweight puffer sales in August (vs a year before)",
                                 "ムシンサの8月の軽量ダウン売上(前年比)", "MUSINSA 8 月輕羽絨銷售額(和去年比)"),
     "코리아헤럴드 10/20": ("Korea Herald Oct 20", "コリアヘラルド 10/20", "韓國先驅報 10/20"),
-    "후기 1위 예일 퀼팅자켓 49,800원": ("Most reviews: Yale quilted jacket ₩49,800",
-                              "レビュー数1位 Yale キルティングジャケット 49,800ウォン", "評論數第 1:Yale 絎縫外套 49,800 韓元"),
+    "후기 1위 예일 퀼팅자켓 49,800원": ("Most reviews: YALE quilted jacket ₩49,800",
+                              "レビュー数1位 YALE キルティングジャケット 49,800ウォン", "評論數第 1:YALE 絎縫外套 49,800 韓元"),
     "무신사 후기순 11/26 17:04": ("Musinsa, most reviews, Nov 26 17:04", "ムシンサ レビュー順 11/26 17:04", "MUSINSA 評論數排序 11/26 17:04"),
     "블프 전 상품 브랜드 판매 1위 무신사 스탠다드": ("No. 1 brand in Black Friday sales (all items): Musinsa Standard",
                                    "ブラックフライデー全商品のブランド売上1位 ムシンサ・スタンダード",
@@ -98,14 +99,15 @@ TR = {
     "아디다스": ("adidas", "アディダス", "adidas"),
     "노스페이스": ("The North Face", "ザ・ノース・フェイス", "The North Face"),
     # links
-    "무신사 블프 브랜드 랭킹 보러 가기": ("See the Musinsa Black Friday brand ranking", "ムシンサのブラックフライデー ブランドランキングを見る",
-                              "看 MUSINSA 黑五品牌排名"),
-    "무신사에서 경량 다운 보기": ("See light down jackets on Musinsa", "ムシンサで軽量ダウンを見る", "在 MUSINSA 看輕羽絨"),
+    "무신사 홈에서 블프 랭킹 찾기": ("Musinsa home: find the Black Friday ranking", "ムシンサのトップで ブラックフライデーのランキングを探す",
+                              "到 MUSINSA 首頁找黑五排名"),
+    "무신사 홈에서 '경량 패딩' 검색": ("Musinsa home: search 경량 패딩", "ムシンサのトップで「경량 패딩」を検索", "到 MUSINSA 首頁搜尋「경량 패딩」"),
     # comparison table
     "유니클로 라이트다운볼륨": ("Uniqlo Light Down Volume", "ユニクロ ライトダウンボリューム", "UNIQLO Light Down Volume"),
     "유니클로 PUFFTECH컴팩트(남)": ("Uniqlo PUFFTECH Compact (men)", "ユニクロ PUFFTECHコンパクト(メンズ)", "UNIQLO PUFFTECH Compact(男)"),
     "유니클로 울트라라이트다운(남)": ("Uniqlo Ultra Light Down (men)", "ユニクロ ウルトラライトダウン(メンズ)", "UNIQLO Ultra Light Down(男)"),
-    "무신사 스탠다드 라이트 다운": ("Musinsa Standard light down", "ムシンサ・スタンダード ライトダウン", "MUSINSA STANDARD 輕羽絨"),
+    "무신사 스탠다드 라이트 다운 (무신사 홈)": ("Musinsa Standard light down (Musinsa home)", "ムシンサ・スタンダード ライトダウン(ムシンサのトップ)",
+                                 "MUSINSA STANDARD 輕羽絨(MUSINSA 首頁)"),
     "아크테릭스 세륨 후디(미국)": ("Arc'teryx Cerium Hoody (US)", "アークテリクス セリウムフーディ(米国)", "始祖鳥 Cerium Hoody(美國)"),
     "10만 원대": ("₩100k–199k", "10万ウォン台", "10 多萬韓元"),
     "솜털 85%": ("85% down", "ダウン85%", "羽絨 85%"),
@@ -124,9 +126,9 @@ TR = {
 }
 
 # Musinsa product names: the Korean name stays (it is what you type into Musinsa's search); a plain gloss goes on top.
-# Product-line words we could not confirm (원업, 시어쉘) are left only in the Korean name.
+# Brand spellings YALE / SUARE: see name_en_source in data/shop-trends.json. 시어쉘 (unconfirmed) stays only in the Korean name.
 PRODUCT = {
-    ("예일", "원업 퀼팅자켓_블랙"): ("Yale · quilted jacket, black", "Yale・キルティングジャケット ブラック", "Yale・絎縫外套 黑色"),
+    ("예일", "웜업 퀼팅자켓_블랙"): ("YALE · Warm-up Quilted Jacket, black", "YALE・Warm-up キルティングジャケット ブラック", "YALE・Warm-up 絎縫外套 黑色"),
     ("무신사 스탠다드", "트랜스폼 라운드 넥 라이트 다운 재킷[블랙]"): (
         "Musinsa Standard · Transform round-neck light down jacket, black",
         "ムシンサ・スタンダード・トランスフォーム ラウンドネック ライトダウンジャケット ブラック",
@@ -135,11 +137,11 @@ PRODUCT = {
         "Musinsa Standard Sports · Core padded jacket (4 colors)",
         "ムシンサ・スタンダード スポーツ・コア パディングジャケット(4色)",
         "MUSINSA STANDARD SPORTS・Core 鋪棉外套(4 色)"),
-    ("예일", "원업 퀼팅자켓_아이보리"): ("Yale · quilted jacket, ivory", "Yale・キルティングジャケット アイボリー", "Yale・絎縫外套 象牙白"),
+    ("예일", "웜업 퀼팅자켓_아이보리"): ("YALE · Warm-up Quilted Jacket, ivory", "YALE・Warm-up キルティングジャケット アイボリー", "YALE・Warm-up 絎縫外套 象牙白"),
     ("수아레", "(컬러 추가) 라이트 시어쉘 패딩 점퍼 - 6 COLOR"): (
-        "Suare · light padded jumper, 6 colors (colors added)",
-        "Suare・ライト パディングジャンパー 6色(色追加)",
-        "Suare・輕量鋪棉夾克 6 色(新增顏色)"),
+        "SUARE · light padded jumper, 6 colors (colors added)",
+        "SUARE・ライト パディングジャンパー 6色(色追加)",
+        "SUARE・輕量鋪棉夾克 6 色(新增顏色)"),
 }
 MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
@@ -173,11 +175,24 @@ def dday(d, lang):
     return UI[lang]["today"] if n == 0 else f"D-{n}"
 
 
+def stat_value(v):
+    """Big headline number. "104.7億ウォン" may break only between 億 and ウォン on a phone."""
+    v = html.escape(v)
+    m = re.fullmatch(r"(.+?億)(ウォン)", v)
+    return f'<b class="nw">{m.group(1)}</b><wbr><b class="nw">{m.group(2)}</b>' if m else v
+
+
+def zhe(pct):
+    """Taiwanese 折 notation: 60% off = 4 折 (you pay 40%)."""
+    z = (100 - pct) / 10
+    return f"{z:g}"
+
+
 def deal_link(d, lang):
     """The row opens this language's deals board if the deal is listed there, else the sale's source article."""
     if lang == "ko" or lang in d.get("text", {}):
-        return f'href="{PREFIX[lang]}/deals/"'
-    return f'href="{html.escape(d["source"]["url"])}" rel="noopener" target="_blank"'
+        return f'href="{PREFIX[lang]}/deals/"', ""
+    return f'href="{html.escape(d["source"]["url"])}" rel="noopener" target="_blank"', " ↗"
 
 
 def trend_block(lang):
@@ -192,17 +207,21 @@ def trend_block(lang):
     out = [f'<section class="tb" aria-label="{ui["aria"]}"><p class="tag tag-t"><i class="ic ic-timer" aria-hidden="true"></i>'
            f'{ui["tag"]} · {e(tr(blk["as_of"], lang))}</p>']
     # sale strip (site.js keeps D-day live and hides ended rows)
-    rows = []
+    rows, ext = [], False
     for did, label in blk["deals"]:
         d = deals.get(did)
         if not d or date.fromisoformat(d["end"]) < TODAY:
             continue
-        pct = f' <b>{ui["upto"].format(n=d["hero"]["value"])}</b>' if d.get("hero", {}).get("kind") == "pct" else ""
-        rows.append((d["end"], f'<tr data-start="{d["start"]}" data-end="{d["end"]}"><td><a {deal_link(d, lang)}>{e(tr(label, lang))}{pct} '
-                     f'<span class="dday" data-today="{ui["today"]}">{dday(d, lang)}</span></a></td></tr>'))
+        pct = f' <b>{ui["upto"].format(n=d["hero"]["value"], z=zhe(d["hero"]["value"]))}</b>' if d.get("hero", {}).get("kind") == "pct" else ""
+        href, mark = deal_link(d, lang)
+        ext = ext or bool(mark)
+        rows.append((d["end"], f'<tr data-start="{d["start"]}" data-end="{d["end"]}"><td><a {href}>{e(tr(label, lang))}{pct} '
+                     f'<span class="dday" data-today="{ui["today"]}">{dday(d, lang)}</span>{mark}</a></td></tr>'))
+    if ext:  # some chips open the Korean news article behind the sale dates, not our deals board
+        out[0] = out[0][:-4] + f'<span class="src">{ui["ext"]}</span></p>'
     out.append('<table class="codes strip" role="presentation"><tbody>' + "".join(r for _, r in sorted(rows)) + "</tbody></table>")
     # headline numbers
-    cards = "".join(f'<div{" class=hero" if i == 0 else ""}><strong>{e(tr(h["value"], lang))}</strong><span>{e(tr(h["label"], lang))}</span>'
+    cards = "".join(f'<div{" class=hero" if i == 0 else ""}><strong>{stat_value(tr(h["value"], lang))}</strong><span>{e(tr(h["label"], lang))}</span>'
                     f'<span class="src">{e(tr(h["cite"], lang))}</span></div>' for i, h in enumerate(blk["headline"]))
     out.append(f'<div class="stats">{cards}</div>')
     # review-sorted list (not a sales rank); ad-labelled items are excluded
