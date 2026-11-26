@@ -19,23 +19,19 @@ updated: 2026-11-26
 
 One receipt, one shop. Receipts from different shops are never added together.
 
-<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>Under ₩15,000</b><span>No refund. Buy more in the same shop so one receipt reaches ₩15,000.</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>₩15,000 to under ₩1,000,000</b><span>Most shopping. Tax off at the till: show your passport, done. Up to ₩5,000,000 in total per visit.</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>₩1,000,000 or more</b><span>Pay full price, take the refund slip, get it checked by customs at the airport.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>No “Tax Free” sign at the till</b><span>Same as a big purchase: refund slip, then the airport or a downtown kiosk.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>Under ₩15,000</b><span>No refund. Buy more in the same shop so one receipt reaches ₩15,000.</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>₩15,000 to under ₩1,000,000</b><span>Most shopping. Tax off at the till: show your passport, done. Up to ₩5,000,000 in total per visit.</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>₩1,000,000 or more</b><span>Pay full price, take the refund slip, get it checked by customs at the airport.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>Tax-free shop, but no instant refund at the till</b><span>Refund slip, then the airport or a downtown kiosk.</span></li><li><i class="ic ic-circle-help" aria-hidden="true"></i><b>No Tax Free sign at all</b><span>Ask at the till. If it isn't a tax-free shop, there's no refund.</span></li></ul>
 
 ## At the till (the usual way)
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-store" aria-hidden="true"></i>Look for “Tax Free” or “Tax Refund”</h3>
 
-<figure class="tr-photo"><img src="/static/photo/olive-young-1.webp" alt="Olive Young store front at night" loading="lazy" width="780" height="500"><figcaption>Most big chains offer it, including Olive Young and department stores. Look for the sign at the counter.<span class="tr-credit">Photo: Pkccccj, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">Wikimedia Commons</a> (light auto-contrast)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/oy-myeongdong-sign-closeup.webp" alt="Close-up of the lit sign over Olive Young tills in Myeongdong: Please prepare your physical passport (for immediate tax refund)" loading="lazy" width="780" height="192"><figcaption>The sign at the till looks like this. Most big chains have one, including Olive Young and department stores.<span class="tr-credit">Photo: Sgroey, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (cropped, light auto-contrast)</span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-id-card" aria-hidden="true"></i>Hand over your passport when you pay</h3>
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-till-marked.webp" alt="The checkout counter of an Olive Young branch, marked 1" loading="lazy" width="780" height="585"><figcaption><b>1</b> The till. Hand over your real passport with your card: the shop scans it, and the price drops by the tax right there, sale prices too.<span class="tr-credit">Photo: Choi Kwang-mo (Olive Young Wonju Dangu branch, 2020), <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>, via <a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (box and number added)</span></figcaption></figure>
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-receipt" aria-hidden="true"></i>Check the receipt</h3>
-
-{{fig:tax-refund-1|The three numbers on one receipt}}
-
-<h3 class="tr-step"><span class="n">4</span><i class="ic ic-circle-check" aria-hidden="true"></i>Done</h3>
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-circle-check" aria-hidden="true"></i>Done</h3>
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span>Nothing to do at the airport. Just take the goods out of Korea within 3 months.</span></aside>
 

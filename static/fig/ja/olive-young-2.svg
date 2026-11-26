@@ -9,12 +9,12 @@
 <text x="40" y="132" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">還付なし</text>
 <rect x="16" y="156" width="368" height="88" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2.5"/>
 <rect x="16" y="156" width="10" height="88" rx="3" fill="#b8392f" stroke="none" stroke-width="0"/>
-<text x="40" y="184" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">15,000〜1,000,000ウォン</text>
+<text x="40" y="184" font-size="17" font-weight="700" fill="#b8392f" text-anchor="start">15,000以上1,000,000ウォン未満</text>
 <text x="40" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">レジで税金分が引かれる</text>
 <text x="40" y="230" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">パスポートの実物を見せる</text>
 <rect x="16" y="254" width="368" height="88" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="1.5"/>
 <rect x="16" y="254" width="10" height="88" rx="3" fill="#16151a" stroke="none" stroke-width="0"/>
-<text x="40" y="282" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">1,000,000ウォン超</text>
+<text x="40" y="282" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">1,000,000ウォン以上</text>
 <text x="40" y="306" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">全額を払い、キオスクか</text>
 <text x="40" y="328" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">空港で還付</text>
 <text x="20" y="368" font-size="16" font-weight="400" fill="#5f5b55" text-anchor="start">レシートは1枚ずつ数えます。</text>

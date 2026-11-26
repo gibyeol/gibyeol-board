@@ -19,23 +19,19 @@ updated: 2026-11-26
 
 영수증 한 장, 한 매장 기준이에요. 다른 매장 영수증끼리는 합산이 안 돼요.
 
-<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>₩15,000 미만</b><span>환급 없음. 같은 매장에서 더 사서 영수증 한 장을 ₩15,000 이상으로 만드세요.</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>₩15,000 이상 ₩1,000,000 미만</b><span>대부분의 쇼핑. 계산대에서 여권을 보여 주면 끝. 한 번 입국에 합계 ₩5,000,000까지.</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>₩1,000,000 이상</b><span>정가로 내고 환급 전표를 받아, 공항에서 세관 확인을 받아요.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>계산대에 “Tax Free” 표시가 없을 때</b><span>큰 구매와 같아요. 환급 전표를 받고 공항이나 시내 키오스크로.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>₩15,000 미만</b><span>환급 없음. 같은 매장에서 더 사서 영수증 한 장을 ₩15,000 이상으로 만드세요.</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>₩15,000 이상 ₩1,000,000 미만</b><span>대부분의 쇼핑. 계산대에서 여권을 보여 주면 끝. 한 번 입국에 합계 ₩5,000,000까지.</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>₩1,000,000 이상</b><span>정가로 내고 환급 전표를 받아, 공항에서 세관 확인을 받아요.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>택스프리 매장인데 계산대 즉시 환급이 안 될 때</b><span>환급 전표를 받고 공항이나 시내 키오스크로.</span></li><li><i class="ic ic-circle-help" aria-hidden="true"></i><b>“Tax Free” 표시가 아예 없을 때</b><span>계산대에 물어보세요. 택스프리 매장이 아니면 환급이 없어요.</span></li></ul>
 
 ## 계산대에서 받기
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-store" aria-hidden="true"></i>“Tax Free”나 “Tax Refund” 표시 찾기</h3>
 
-<figure class="tr-photo"><img src="/static/photo/olive-young-1.webp" alt="밤에 찍은 올리브영 매장 입구" loading="lazy" width="780" height="500"><figcaption>올리브영과 백화점을 포함한 대부분의 대형 체인에 있어요. 계산대에서 표시를 확인하세요.<span class="tr-credit">사진: Pkccccj, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">위키미디어 공용</a> (밝기 자동 보정)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/oy-myeongdong-sign-closeup.webp" alt="명동 올리브영 계산대 위 안내판 확대: Please prepare your physical passport (for immediate tax refund)" loading="lazy" width="780" height="192"><figcaption>계산대 표시는 이렇게 생겼어요. 올리브영과 백화점을 포함한 대부분의 대형 체인에 있어요.<span class="tr-credit">사진: Sgroey, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (잘라 냄, 밝기 자동 보정)</span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-id-card" aria-hidden="true"></i>결제할 때 여권 내기</h3>
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-till-marked.webp" alt="올리브영 매장 계산대, 1번 표시" loading="lazy" width="780" height="585"><figcaption><b>1</b> 계산대. 카드와 함께 여권 실물을 내면 매장이 스캔하고, 그 자리에서 세금만큼 가격이 내려가요. 세일가도 돼요.<span class="tr-credit">사진: 최광모(올리브영 원주단구점, 2020), <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ko" rel="noopener" target="_blank">CC0</a>, <a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (상자·번호 추가)</span></figcaption></figure>
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-receipt" aria-hidden="true"></i>영수증 확인</h3>
-
-{{fig:tax-refund-1|영수증 한 장으로 보는 숫자 세 가지}}
-
-<h3 class="tr-step"><span class="n">4</span><i class="ic ic-circle-check" aria-hidden="true"></i>끝</h3>
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-circle-check" aria-hidden="true"></i>끝</h3>
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span>공항에서 할 일은 없어요. 물건을 3개월 안에 한국 밖으로 가지고 나가기만 하면 돼요.</span></aside>
 

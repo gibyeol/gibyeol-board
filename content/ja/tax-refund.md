@@ -19,23 +19,19 @@ updated: 2026-11-26
 
 1店舗・1レシートが基準です。別々の店のレシートは合算できません。
 
-<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>15,000ウォン未満</b><span>還付なし。同じ店でまとめて買い、1レシート15,000ウォン以上に。</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>15,000ウォン以上100万ウォン未満</b><span>ほとんどの買い物はこれ。レジでパスポートを見せれば完了。1回の入国で合計500万ウォンまで。</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>100万ウォン以上</b><span>全額を払って還付書類を受け取り、空港で税関確認を受けます。</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>レジに「Tax Free」の表示がない</b><span>大きな買い物と同じ。還付書類をもらい、空港か市内のキオスクへ。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>15,000ウォン未満</b><span>還付なし。同じ店でまとめて買い、1レシート15,000ウォン以上に。</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>15,000ウォン以上100万ウォン未満</b><span>ほとんどの買い物はこれ。レジでパスポートを見せれば完了。1回の入国で合計500万ウォンまで。</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>100万ウォン以上</b><span>全額を払って還付書類を受け取り、空港で税関確認を受けます。</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>免税店だが、レジでの即時免税がない</b><span>還付書類をもらい、空港か市内のキオスクへ。</span></li><li><i class="ic ic-circle-help" aria-hidden="true"></i><b>「Tax Free」の表示がまったくない</b><span>レジで聞きましょう。免税店でなければ還付はありません。</span></li></ul>
 
 ## レジで受け取る
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-store" aria-hidden="true"></i>「Tax Free」「Tax Refund」の表示を探す</h3>
 
-<figure class="tr-photo"><img src="/static/photo/olive-young-1.webp" alt="夜のオリーブヤング店舗の入口" loading="lazy" width="780" height="500"><figcaption>オリーブヤングや百貨店など、大手チェーンの多くが対応しています。レジで表示を確かめましょう。<span class="tr-credit">写真:Pkccccj、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(明るさ自動補正)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/oy-myeongdong-sign-closeup.webp" alt="明洞のオリーブヤングのレジ上の表示の拡大:Please prepare your physical passport (for immediate tax refund)" loading="lazy" width="780" height="192"><figcaption>レジの表示はこんな形です。オリーブヤングや百貨店など、大手チェーンの多くにあります。<span class="tr-credit">写真:Sgroey、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(切り抜き、明るさ自動補正)</span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-id-card" aria-hidden="true"></i>支払い時にパスポートを出す</h3>
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-till-marked.webp" alt="オリーブヤング店舗のレジ、1の印" loading="lazy" width="780" height="585"><figcaption><b>1</b> レジ。カードと一緒にパスポートの実物を出すと、お店がスキャンし、その場で税金分だけ値段が下がります。セール価格でも対象です。<span class="tr-credit">写真:Choi Kwang-mo(オリーブヤング原州丹邱店、2020年)、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>、<a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(枠と番号を追加)</span></figcaption></figure>
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-receipt" aria-hidden="true"></i>レシートを確かめる</h3>
-
-{{fig:tax-refund-1|1枚のレシートで見る3つの数字}}
-
-<h3 class="tr-step"><span class="n">4</span><i class="ic ic-circle-check" aria-hidden="true"></i>完了</h3>
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-circle-check" aria-hidden="true"></i>完了</h3>
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span>空港ですることはありません。購入から3か月以内に商品を韓国から持ち出すだけです。</span></aside>
 

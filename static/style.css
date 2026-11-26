@@ -466,3 +466,12 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .tr-photo img[src*="priority-seat"]{max-width:420px;margin-inline:auto}
 .fig img[src*="seoul-bus-reader-"],.fig img[src*="seoul-subway-refund"]{max-width:300px;margin-inline:auto}
 .tr-colours span.t b{display:inline;margin:0;font-size:inherit}
+.ap-pick li.x{background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px 8px 10px}
+.ap-pick li.x .hd{display:grid;grid-template-columns:104px 1fr;gap:12px;align-items:center;line-height:1.35}
+.ap-pick .pts{list-style:none;padding:0;margin:.6rem 4px 0;display:grid;gap:5px}
+.ap-pick .pts li{display:flex;gap:8px;align-items:flex-start;line-height:1.4;font-size:.95rem}
+.ap-pick .pts .ic{width:1.2em;height:1.2em;color:var(--muted);margin-top:2px;flex:none}
+.ap-pick .who{margin:.55rem 4px 0;padding:6px 8px;border-radius:8px;background:var(--paper);font-weight:600;font-size:.92rem;line-height:1.4}
+.acc-pad{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;line-height:1.45}
+.acc-pad .ic{width:1.4em;height:1.4em;color:var(--red);margin-top:2px}
+@media (min-width:700px){.acc-picks{grid-template-columns:1fr 1fr}}

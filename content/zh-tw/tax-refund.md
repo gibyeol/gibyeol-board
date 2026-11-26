@@ -19,23 +19,19 @@ updated: 2026-11-26
 
 以同一家店、單張收據計算。不同店家的收據不能合併。
 
-<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>未滿 15,000 韓元</b><span>不能退稅。在同一家店多買一點,讓單張收據滿 15,000 韓元。</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>15,000 至未滿 1,000,000 韓元</b><span>大部分購物都是這種。結帳時出示護照就完成。同一次入境總額上限 5,000,000 韓元。</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>1,000,000 韓元以上</b><span>付全額、拿退稅單,到機場做海關驗證。</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>收銀台沒有「Tax Free」標示</b><span>和大筆消費一樣:拿退稅單,到機場或市區退稅機辦理。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-circle-x" aria-hidden="true"></i><b>未滿 15,000 韓元</b><span>不能退稅。在同一家店多買一點,讓單張收據滿 15,000 韓元。</span></li><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>15,000 至未滿 1,000,000 韓元</b><span>大部分購物都是這種。結帳時出示護照就完成。同一次入境總額上限 5,000,000 韓元。</span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>1,000,000 韓元以上</b><span>付全額、拿退稅單,到機場做海關驗證。</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>是退稅店家,但收銀台不能現場退稅</b><span>拿退稅單,到機場或市區退稅機辦理。</span></li><li><i class="ic ic-circle-help" aria-hidden="true"></i><b>完全沒有「Tax Free」標示</b><span>在收銀台問問看。不是退稅店家就不能退稅。</span></li></ul>
 
 ## 在收銀台退稅
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-store" aria-hidden="true"></i>找「Tax Free」或「Tax Refund」標示</h3>
 
-<figure class="tr-photo"><img src="/static/photo/olive-young-1.webp" alt="夜晚的 Olive Young 門市入口" loading="lazy" width="780" height="500"><figcaption>Olive Young、百貨公司等大型連鎖店多半都有。在櫃檯確認標示。<span class="tr-credit">照片:Pkccccj,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">維基共享資源</a>(自動調整亮度)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/oy-myeongdong-sign-closeup.webp" alt="明洞 Olive Young 收銀台上方告示特寫:Please prepare your physical passport (for immediate tax refund)" loading="lazy" width="780" height="192"><figcaption>收銀台的標示長這樣。Olive Young、百貨公司等大型連鎖店多半都有。<span class="tr-credit">照片:Sgroey,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調整亮度)</span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-id-card" aria-hidden="true"></i>結帳時遞上護照</h3>
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-till-marked.webp" alt="Olive Young 門市收銀台,標示 1" loading="lazy" width="780" height="585"><figcaption><b>1</b> 收銀台。刷卡時一起遞上護照正本,店家掃描後,價格當場少掉稅金,特價品也一樣。<span class="tr-credit">照片:Choi Kwang-mo(Olive Young 原州丹邱店,2020 年),<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">維基共享資源</a>(加上框線與編號)</span></figcaption></figure>
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-receipt" aria-hidden="true"></i>確認收據</h3>
-
-{{fig:tax-refund-1|一張收據看懂三個數字}}
-
-<h3 class="tr-step"><span class="n">4</span><i class="ic ic-circle-check" aria-hidden="true"></i>完成</h3>
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-circle-check" aria-hidden="true"></i>完成</h3>
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span>機場不用再辦。只要商品在購買後 3 個月內帶出韓國。</span></aside>
 

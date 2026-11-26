@@ -7,13 +7,13 @@
 <line x1="60" y1="106" x2="60" y2="128" stroke="#16151a" stroke-width="2.5"/>
 <path d="M53,126 L60,136 L67,126 z" fill="#16151a"/>
 <text x="72" y="128" font-size="16" font-weight="700" fill="#5f5b55" text-anchor="start">예</text>
-<rect x="16" y="136" width="368" height="86" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
+<rect x="16" y="136" width="292" height="86" rx="10" fill="#ffffff" stroke="#16151a" stroke-width="2"/>
 <text x="32" y="164" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">올리브영 US</text>
 <text x="32" y="186" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">2026년 5월 29일부터</text>
 <text x="32" y="208" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">글로벌몰은 미국 서비스 중단</text>
-<line x1="60" y1="228" x2="60" y2="250" stroke="#16151a" stroke-width="2.5"/>
-<path d="M53,248 L60,258 L67,248 z" fill="#16151a"/>
-<text x="72" y="250" font-size="16" font-weight="700" fill="#b8392f" text-anchor="start">아니요</text>
+<line x1="346" y1="106" x2="346" y2="250" stroke="#b8392f" stroke-width="2.5"/>
+<path d="M339,248 L346,258 L353,248 z" fill="#b8392f"/>
+<text x="346" y="128" font-size="15" font-weight="700" fill="#b8392f" text-anchor="middle" paint-order="stroke" stroke="#f4f0e6" stroke-width="6">아니요</text>
 <rect x="16" y="258" width="368" height="86" rx="10" fill="#ffffff" stroke="#b8392f" stroke-width="2"/>
 <text x="32" y="286" font-size="17" font-weight="700" fill="#16151a" text-anchor="start">올리브영 글로벌</text>
 <text x="32" y="308" font-size="16" font-weight="400" fill="#16151a" text-anchor="start">결제할 때 내 나라로</text>
