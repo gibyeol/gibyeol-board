@@ -23,4 +23,4 @@ updated: 2026-11-25
 
 {{codes}}
 
-<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">해외로</div><div><h2 id="abroad-h">해외로 나가는 한국인이라면, 데이터는 eSIM부터 확인</h2><p>폰이 eSIM을 지원하고 통신사 잠금이 없다면 eSIM이 가장 편해요. 두 가지 모두 설정 메뉴에서 2분이면 확인돼요. <a href="/ko/abroad-esim/">확인하는 법</a></p></div></section>
+<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">출국</div><div><h2 id="abroad-h">한국에서 다른 나라로 간다면, 데이터는 eSIM부터 확인</h2><p>폰이 eSIM을 지원하고 통신사 잠금이 없다면 eSIM이 가장 편해요. 두 가지 모두 설정 메뉴에서 2분이면 확인돼요. <a href="/ko/abroad-esim/">확인하는 법</a></p></div></section>

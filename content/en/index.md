@@ -23,3 +23,4 @@ updated: 2026-11-25
 
 {{codes}}
 
+<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">Flying out</div><div><h2 id="abroad-h">Flying out of Korea to another country? Check eSIM first for data</h2><p>If your phone supports eSIM and is not carrier-locked, an eSIM is the easiest option. Both checks take two minutes in your settings menu. <a href="/abroad-esim/">How to check</a></p></div></section>

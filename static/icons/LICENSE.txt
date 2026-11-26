@@ -1,5 +1,6 @@
 Icons in this folder are from Lucide (https://lucide.dev), lucide-static v1.80.0, downloaded from the npm registry on 2026-11-26.
 Files: arrow-right.svg calendar-days.svg circle-check.svg circle-help.svg circle-x.svg clock.svg external-link.svg file-down.svg hotel.svg id-card.svg info.svg list-checks.svg mail.svg pencil.svg plane.svg shield-check.svg smartphone.svg triangle-alert.svg user-check.svg user-x.svg users.svg wallet.svg 
+Also from lucide-static v1.80.0 (npm registry, 2026-11-26, added for the Seoul subway and bus pages): train-front.svg bus.svg credit-card.svg banknote.svg map-pin.svg map.svg arrow-right-left.svg door-open.svg bell.svg moon.svg coins.svg lightbulb.svg luggage.svg armchair.svg log-in.svg log-out.svg ticket.svg signpost.svg timer.svg baby.svg route.svg
 
 ISC License
 

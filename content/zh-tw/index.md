@@ -23,3 +23,4 @@ updated: 2026-11-25
 
 {{codes}}
 
+<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">出境</div><div><h2 id="abroad-h">要從韓國飛往其他國家?上網先確認 eSIM</h2><p>手機支援 eSIM 又沒有電信鎖的話,eSIM 最方便。兩項都能在設定選單裡 2 分鐘確認完。<a href="/zh-tw/abroad-esim/">確認方法</a></p></div></section>
