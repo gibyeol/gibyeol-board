@@ -440,7 +440,7 @@ details.tr-more .fig{padding:8px}
 .acc-picks span.t{display:block;margin:0 4px 4px}
 .acc-picks .tr-credit{margin:0 4px 2px}
 @media (min-width:700px){.acc-picks{grid-template-columns:repeat(3,1fr)}}
-.ap-routes li{min-width:0;overflow-wrap:anywhere}
+.ap-routes li{min-width:0;overflow-wrap:break-word}
 .acc-noimg{display:flex;align-items:center;justify-content:center;width:100%;aspect-ratio:4/3;border-radius:8px;background:#f1ece2;color:var(--muted)}
 .acc-noimg .ic{width:56px;height:56px}
 .acc-picks b,.acc-picks strong{display:inline}.acc-picks>li>b{display:flex}
