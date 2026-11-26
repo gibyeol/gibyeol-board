@@ -23,9 +23,9 @@ updated: 2026-11-27
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-smartphone" aria-hidden="true"></i>'완충이' 앱 설치하고 가입</h3>
 
-<ul class="tr-kv"><li><b>아이폰</b> 앱스토어 이름은 <a href="https://apps.apple.com/kr/app/%EC%99%84%EC%B6%A9e/id1531816431" rel="noopener" target="_blank">완충e</a>(개발사 에브리포터블, 무료)</li><li><b>안드로이드</b> 구글 플레이에서 '완충이' 검색(CU 안내)</li><li><b>언어</b> 앱스토어 표시: 영어 지원</li></ul>
+<ul class="tr-kv"><li><b>아이폰</b> 앱스토어 이름은 <a href="https://apps.apple.com/kr/app/%EC%99%84%EC%B6%A9e/id1531816431" rel="noopener" target="_blank">완충e</a>(개발사 에브리포터블, 무료)</li><li><b>안드로이드</b> 구글 플레이 <a href="https://play.google.com/store/apps/details?id=io.everyportable" rel="noopener" target="_blank">완충이 - 보조배터리 공유 서비스</a></li><li><b>언어</b> 앱스토어 표시: 영어 지원</li></ul>
 
-<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>확인하지 못한 것:</b> 해외 카드·해외 전화번호로 가입·결제가 되는지. 가입이 막히면 숙소나 카페에서 충전하고, 충전기·케이블은 <a href="/ko/daiso/">다이소</a>에서 살 수 있어요.</span></aside>
+<aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>확인하지 못한 것:</b> 해외 카드·해외 전화번호로 가입·결제가 되는지(앱스토어·구글 플레이 설명에 없음), 30분이 넘으면 요금이 어떻게 붙는지, 하루 최대 요금, 잃어버렸을 때 요금. 가입이 막히면 숙소나 카페에서 충전하고, 충전기·케이블은 <a href="/ko/daiso/">다이소</a>에서 살 수 있어요.</span></aside>
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-scan-line" aria-hidden="true"></i>대여기의 QR을 앱으로 찍기</h3>
 
@@ -41,7 +41,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>다른 대여기, 무료로 잠깐 충전하기</summary>
 
-- **다른 대여기:** '충전돼지(Piggycell)'도 QR로 빌리고 다른 곳에 반납하는 방식이에요. 결제는 카카오페이·네이버페이 등(앱스토어 설명). 요금은 공식 누리집을 열지 못해 확인하지 못했어요.
+- **다른 대여기:** '충전돼지(Piggycell)'도 QR로 빌리고, 충전돼지가 있는 곳이면 어디든 반납해요. 편의점·영화관·카페·식당 등에 있어요. 배터리는 5000mAh, 케이블 3종류가 달려 있어요. 결제는 카카오페이·네이버페이 등 간편결제. 카메라가 안 되면 QR 아래 12자리 번호를 직접 넣어도 돼요. 앱: [아이폰](https://apps.apple.com/kr/app/apple-store/id1493471671) · [안드로이드](https://play.google.com/store/apps/details?id=com.panda.charge). **요금은 누리집·앱 설명 어디에도 없어요.** 앱 설명에 '설치점별 요금안내'를 곧 넣는다고 적혀 있어 곳마다 다를 수 있어요.
 - **무료, 무선 충전 폰만:** 서울 지하철 일부 역의 디지털 종합안내도에 무선 충전기가 달려 있어요(서울시 '내 손안에 서울' 시민기자 기사, 2025년 7월). 무선 충전이 안 되는 폰은 못 써요.
 - **비행기에 탈 때:** 보조배터리는 부치는 짐에 못 넣어요. 규정은 [출국하는 날](/ko/departure-day/)에.
 
