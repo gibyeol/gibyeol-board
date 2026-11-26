@@ -37,3 +37,8 @@ Owner 13:32 (withdrawn by coordinator): "최소한의 컨텐츠 양과 질을 �
 - 따라 하기: at home (registry), at reception (certificate posted), at consultation (documents, questions), after (who to call). Wayfinding: KTO center address + building/wing/floor; station exit not sourced today (logged).
 - 실사: two annotated law.go.kr screens (statute, Art. 7 not copyrighted + Art. 24-2); no licensed clinic photos (logged).
 - Facts: official sources opened today — law.go.kr (3 laws), medicalkorea (registry, registration, certification), KHIDI call center, HIRA, K-medi, Seoul city, KTO; press only for bills/visa; FTC (blocked) and data.go.kr (blocked) facts kept from the previous edition and marked "not reopened". No facts removed.
+
+## Review fixes (all 4 langs)
+- skin-clinic: removed "1분" time claim; VAT 10% restored with 부가가치세법 제30조 (law.go.kr, opened today); HIRA main and K-medi eng home re-added to sources (both open).
+- duty-free: Lotte (eng.lottedfs.com) and Shinsegae (406) still not reachable → Visit Seoul links kept; "처음부터 끝까지" essay removed; T1 3F "where am I" added (gate-number sign, gate 28 centre + Hello Pharmacy, gate 25 24h info desk + KB exchange; airport.kr ko 1008 + en 1536); gate-sign photo logged as improvement.
+- shopping-streets: map-app names now match data/links.json terms (auto-linked to official app pages); Musinsa "지상 4층·지하층" restored (Korea Herald 10725111 reopened today); route story replaced by a 3-step route; list essay sentence removed.

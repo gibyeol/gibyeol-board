@@ -25,7 +25,7 @@ updated: 2026-11-26
 
 <figure class="tr-photo"><img src="/static/photo/hongik-exit-9.webp" alt="弘大入口站9號出口。1 寫著站名和站號239的地鐵柱子,2 9號出入口標示" loading="lazy" width="760" height="370"><figcaption><b>1</b> 地鐵標示: 站名(弘大入口)和站號(239)。<b>2</b> 出口號碼(9號出入口)。到了地面,用這個標示確認出口對不對。<span class="tr-credit">照片: Jonathan Kramer(弘大入口站9號出口),<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Hongik_University_Station_exit_9.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調亮、加上框與編號)</span></figcaption></figure>
 
-1. **在地圖App找店。** 在NAVER 地圖或Kakao Map輸入店名,會出現最近的車站和出口號碼。也可以直接用這頁寫的出口號碼。
+1. **在地圖App找店。** 在NAVER 地圖或 Kakao Map 輸入店名,會出現最近的車站和出口號碼。也可以直接用這頁寫的出口號碼。
 2. **刷卡出站後,跟著出口號碼指標走。** 圓圈裡的數字是出口號碼,箭頭是方向([首爾地鐵第6步](/zh-tw/seoul-subway/)有實際指標照片)。
 3. **到地面後像上面照片一樣確認出口號碼。** 大站出錯出口要走很遠。
 4. **從出口到店家,在地圖App的路線規劃選「步行」跟著走。** 下面每一區都寫了出口看得到的地標(建築、街名)。還是不確定的話,到觀光服務中心(弘大是7號出口附近的麻浦觀光服務中心)或向店員出示這頁上的店名。
