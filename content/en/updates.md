@@ -2,7 +2,7 @@
 title: Updates
 description: What changed on Nadri and when. Every rule change we catch, and every reader report we act on, is logged here.
 lede: Korean entry, tax and transit rules change often. When we re-check a guide or a reader tells us something changed, it goes here with the date.
-updated: 2026-11-25
+updated: 2026-11-26
 report: no
 ---
 ## How we keep guides current
@@ -15,6 +15,10 @@ report: no
 
 | Date | Page | What changed |
 |---|---|---|
+| 2026-11-26 | Duty-free, Palaces, e-Arrival Card, Before you go | Corrected: Incheon duty-free pickup counters (Terminal 2 counters are on 2F; no Terminal 1 East counter), Gyeongbokgung winter last entry 16:00, K-ETA exemption extended to 31 December 2027 (notice of 23 November) |
+| 2026-11-26 | New guides | Seoul subway, Seoul buses, Daiso, Shopping streets (Myeongdong, Seongsu, Hongdae), How to choose K-beauty |
+| 2026-11-26 | 22 guides | Re-checked against official sources, drawings added where a picture helps, a short scene at the top of each guide |
+| 2026-11-26 | Your name | Where your name leads around the world: 64 sourced stories and places in 29 regions, new share card |
 | 2026-11-25 | Your name | Korean names: surname head count (2015 census), 2025 baby-name rank, pick your hanja to see the meaning and foreign names with the same meaning, Russian spelling |
 | 2026-11-25 | Your name | Name tool v3: 17 languages, your name in other countries, where it is most loved, chains with sources and confidence |
 | 2026-11-25 | Name stamp, Shopping, Copyright and reuse | New: your name in Korean as a seal; shopping guides in one place; what you can quote |

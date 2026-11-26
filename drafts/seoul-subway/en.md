@@ -3,6 +3,7 @@ title: Seoul subway for first-timers: pay, transfer, exit, and get home
 description: How to pay for the Seoul subway, top up, transfer to buses, find your exit and avoid the usual first-day mistakes. Checked November 2026.
 lede: Our call: get a T-money-type card before your first ride and tap it in and out every time. Most first-day problems come from the single ticket, a missed exit tap, or the last train.
 section: transport
+disclosure: yes
 updated: 2026-11-26
 ---
 ## Your first ride
@@ -45,6 +46,12 @@ Our call: a stored-value card suits almost everyone.
 - **Single ticket:** fare plus ₩100, plus a ₩500 deposit. Rail only, so no bus.
 
 Who does NOT need the Climate Card: anyone riding once or twice a day, or leaving Seoul (Suwon, Pangyo) that day.
+
+Station machines and convenience stores sell T-money, so buying ahead is optional. If you want a card waiting at the airport:
+
+{{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
+
+{{aff:klook_wowpass|Or a WOWPASS: money exchange, card payments and T-money in one}}
 
 ## Topping up: bring some cash
 
@@ -119,6 +126,10 @@ Our call: the **all-stop** AREX is just another subway line; the **Express** is 
 - **Express:** non-stop Seoul Station–Incheon Airport, reserved seats, ₩13,000 adult.
 
 More: [Incheon Airport to Seoul](/airport-to-seoul/).
+
+Optional, if you want the Express ticket on your phone before you land:
+
+{{aff:klook_airport|Book an AREX Express ticket in advance}}
 
 ## Common first-day mistakes
 
