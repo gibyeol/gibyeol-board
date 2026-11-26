@@ -1,14 +1,13 @@
 ---
 title: How Nadri makes money
 description: Nadri's affiliate partnerships and advertising, and how they do and do not affect what we recommend.
-approved: 2026-11-26
-updated: 2026-11-23
+updated: 2026-11-27
 ---
 ## Affiliate links
 
 Some links on Nadri are affiliate links. If you buy or book through one, the shop or booking site pays Nadri a commission. You pay the same price. Pages with affiliate links say so at the top, and affiliate buttons are labelled.
 
-Partners we work with or are applying to include Coupang Partners, Klook, Airalo, Agoda, YesStyle and Amazon Associates. As an Amazon Associate, Nadri earns from qualifying purchases.
+Every affiliate button on the site today is a Klook or Yesim link through the travel affiliate network Travelpayouts. On pages that carry the affiliate notice, and only if you choose "Accept" in the cookie notice, scripts from Travelpayouts and Skimlinks may turn some travel and shop links into affiliate links ([Privacy](/privacy/)). Applied and waiting for review: Agoda and Trip.com through Travelpayouts, YesStyle through Awin, and Olive Young through Rakuten Advertising. We add them here once approved.
 
 ## What commissions do not change
 
