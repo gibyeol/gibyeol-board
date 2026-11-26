@@ -1,0 +1,101 @@
+/* Prototype styles for drafts/prototype/winter-light-puffer.md (v3). Scoped to .story / .story-more and to
+   main:has(.story) for the compact page head. Included on the page by one raw line:
+   <link rel="stylesheet" href="/static/proto.css">  (preview: copied to static/ in a scratch build; publish: copy to static/ or merge into style.css). */
+main:has(.story) .page-head{padding:.7rem 0 .5rem;margin-bottom:.6rem;max-width:none}
+main:has(.story) .page-head h1{font-size:1.65rem;display:inline;margin-right:.6rem}
+main:has(.story) .crumb{margin:0 0 .2rem;font-size:.8rem}
+main:has(.story) .lede{display:inline;font-size:1rem;margin:0}
+main:has(.story) .byline{display:flex;margin:.35rem 0 0;font-size:.7rem}
+main:has(.story) .byline::before{width:20px;height:20px}
+.story{display:grid;gap:12px 22px;margin:0 0 .6rem;font-size:.86rem;line-height:1.35}
+.story *{box-sizing:border-box}
+.story section{display:flex;flex-direction:column;gap:5px;min-width:0;border-radius:12px;padding:8px 10px}
+.story .tb{background:#fff;border:1px solid var(--hair);border-top:4px solid var(--red)}
+.story .cb{background:#efe9dd;border:1px solid var(--hair);border-top:4px solid var(--ink)}
+.story .tag{margin:0;display:flex;align-items:center;gap:6px;font:700 .82rem/1.2 var(--text)}
+.story .tag .ic{width:1.15em;height:1.15em}
+.story .tag-t{color:var(--red)}.story .tag-c{color:var(--ink)}
+.story h3{margin:3px 0 0;font:700 .78rem/1.2 var(--text);color:var(--muted);display:flex;flex-wrap:wrap;gap:2px 6px;align-items:baseline}
+.story h3 .ic{width:1.1em;height:1.1em;color:var(--red);align-self:center}
+.story .src{font:500 .66rem/1.2 var(--mono);color:var(--muted)}
+.story a{color:inherit}
+/* sale strip (live D-day via site.js on .codes tr[data-end]) */
+.story table.codes.strip{display:block;width:100%;margin:0}
+.story .strip tbody{display:flex;flex-wrap:wrap;gap:5px}
+.story .codes.strip tr{display:block;padding:0;border:0}
+.story .codes.strip td{display:block;padding:0;border:0;text-align:left}
+.story .strip a{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--ink);border-radius:999px;padding:2px 9px;background:#fff;text-decoration:none;font-size:.76rem;white-space:nowrap}
+.story .strip .dday{border:0;padding:0;font-size:.74rem}
+.story .strip .dday.hot{background:none;color:var(--red)}
+/* headline numbers */
+.story .stats{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:6px}
+.story .stats>div{border:1px solid var(--hair);border-radius:10px;padding:5px 8px;background:#fff}
+.story .stats strong{display:block;font:700 1.35rem/1.05 var(--mono)}
+.story .stats .nw{white-space:nowrap;font:inherit}  /* ja "104.7億ウォン" may break only after 億 */
+.story .stats .hero{background:var(--red);border-color:var(--red);color:#fff}
+.story .stats .hero strong{font-size:1.9rem}
+.story .stats>div:nth-child(2) strong{font-size:1.15rem;color:var(--red)}
+.story .stats span{display:block;font-size:.72rem;line-height:1.25}
+.story .stats .hero .src{color:#f7dcd6}
+/* ranking bars */
+.story .bars{list-style:none;margin:0;padding:0;display:grid;gap:0;border:0}
+.story .bars li{display:grid;grid-template-columns:2.2em 7em 1fr 5em;gap:6px;align-items:center;font-size:.74rem;margin:0;padding:0;line-height:1.2;border:0}
+.story .bars li::before{content:none}
+.story .bars i{display:block;height:8px;border-radius:2px;background:var(--hair)}
+.story .bars li.lp i{background:var(--red)}
+.story .bars em{font-style:normal;font:600 .72rem var(--mono);text-align:right}
+.story .links{margin:2px 0;display:flex;flex-wrap:wrap;gap:6px}
+.story .tb-go{display:inline-flex;align-items:center;border-radius:8px;padding:3px 10px;background:var(--ink);color:#fff;text-decoration:none;font-weight:600;font-size:.78rem}
+.story .tb-go:hover{background:var(--red);color:#fff}
+/* review-sorted list */
+.story .rv{list-style:none;margin:0;padding:0;display:grid;gap:0}
+.story .rv li{display:grid;grid-template-columns:1.4em 1fr auto auto;gap:6px;align-items:baseline;font-size:.76rem;margin:0;padding:2px 0;border-bottom:1px solid var(--hair);line-height:1.25}
+.story .rv li::before{content:none}
+.story .rv .nm{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.story .rv .nm a{font-weight:600;text-decoration:underline;text-underline-offset:2px}
+.story .rv .r{font:600 .74rem var(--mono);color:var(--red);white-space:nowrap}
+.story .rv .p{font:700 .76rem var(--mono);text-align:right;white-space:nowrap}
+.story .rv small{font-weight:500;color:var(--muted)}
+.story .rv .nm .ko{display:block;overflow:hidden;text-overflow:ellipsis;font-size:.66rem}  /* Korean product name under the translated one (en/ja/zh-tw) */
+.story .reading{margin:0;font-size:.7rem;color:var(--muted)}
+.story details.cmpd{margin:2px 0 0}
+.story details.cmpd>summary{cursor:pointer;font:700 .76rem/1.3 var(--text);color:var(--ink);display:flex;gap:6px;align-items:center}
+.story details.cmpd>summary .ic{width:1.1em;height:1.1em;color:var(--red)}
+/* comparison table */
+.story table.cmp{width:100%;border-collapse:collapse;font-size:.72rem}
+.story .cmp th{font:600 .66rem var(--mono);color:var(--muted);text-align:left;border-bottom:1px solid var(--ink);padding:2px 4px}
+.story .cmp td{border-bottom:1px solid var(--hair);padding:2px 4px;vertical-align:top;white-space:nowrap}
+.story .cmp td.n{font-family:var(--mono)}
+.story .cmp a{font-weight:600;text-decoration:underline;text-underline-offset:2px}
+/* core block */
+.story .scale{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center}
+.story .scale div{background:#fff;border:1px solid var(--hair);padding:2px 0;font-size:.7rem;line-height:1.2}
+.story .scale b{display:block;font:700 .9rem var(--mono)}
+.story .combos{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.story .combo{background:#fff;border:1px solid var(--hair);border-radius:10px;padding:5px;font-size:.72rem;text-align:center}
+.story .combo .sw{display:flex;flex-direction:column;gap:2px;margin-bottom:3px}
+.story .combo .sw span{display:flex;align-items:center;justify-content:center;min-height:19px;padding:1px 3px;line-height:1.15;border-radius:5px;font-size:.7rem}
+.story .combo .sw .top{min-height:24px}
+.story .combo .sw .none{border:1px dashed var(--muted);background:repeating-linear-gradient(45deg,#fff 0 5px,#f1ece2 5px 10px);color:var(--muted)}
+.story .terms{display:grid;grid-template-columns:repeat(3,1fr);gap:5px}
+.story .terms div{background:#fff;border:1px solid var(--hair);border-radius:8px;padding:4px 7px}
+.story .terms b{display:block;font-size:.92rem}
+.story .terms span{display:block;font-size:.7rem;color:var(--muted);line-height:1.25}
+.story .tips{list-style:none;margin:0;padding:0;display:grid;gap:2px}
+.story .tips li{display:flex;gap:6px;align-items:center;font-size:.76rem;margin:0}
+.story .tips li::before{content:none}
+.story .tips .ic{width:1.1em;height:1.1em;color:var(--red)}
+.story-more{display:flex;flex-wrap:wrap;gap:6px;margin:.4rem 0 1rem}
+.story-more>details{flex:1 1 160px;margin:0}
+.story-more>details[open]{flex-basis:100%}
+@media (min-width:900px){
+  .story{grid-template-columns:1.12fr 1fr;width:min(1128px,calc(100vw - 152px))}
+  .story-more{width:min(1128px,calc(100vw - 152px))}
+}
+@media (max-width:899px){
+  .story,.story-more{max-width:100%}
+  .story .cmp{display:block;overflow-x:auto}
+  .story .rv .nm,.story .rv .nm .ko{white-space:normal;overflow:visible;text-overflow:clip}
+  .story .scale{grid-template-columns:repeat(4,1fr)}
+  .story .terms{grid-template-columns:1fr 1fr}
+}
