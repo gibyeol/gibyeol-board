@@ -1,109 +1,141 @@
 ---
-title: Where to shop in Seoul: Myeongdong, Seongsu or Hongdae?
-description: Which of three Seoul shopping streets fits what you want to buy, when to go, the subway exit, tax-free at the till, and when to skip each one.
-lede: Our call: Myeongdong for beauty on a first trip, Seongsu for new brands and pop-ups on a weekday, and Hongdae for young fashion later in the day. All three have a Line 2 station, so two fit in one afternoon.
+title: Seoul shopping streets: how to get to Myeongdong, Seongsu and Hongdae, and how to pay
+description: Three Seoul shopping streets matched to what you want to buy, how to find the right subway exit, what is on each street with opening hours, tax-free at the till with your passport, and when to skip each one. Checked 26 November 2026.
+lede: Myeongdong for beauty, Seongsu on a weekday for new brands and pop-ups, Hongdae later in the day for young fashion. All three have a Line 2 station, so two fit in one afternoon.
 section: shopping
-approved: 2026-11-26
 updated: 2026-11-26
 ---
-## One afternoon on Line 2
+<div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-map-pin" aria-hidden="true"></i>Where to go</a><a class="tr-btn" href="#pay"><i class="ic ic-receipt" aria-hidden="true"></i>Paying, tax-free</a></div>
 
-Picture the afternoon as a route, not a list of shops. You come up Exit 4 at Seongsu Station, where Yeonmujang-gil starts. Visit Seoul says this was a handmade-shoe street before fashion and beauty flagships and pop-ups moved in, and Olive Young N Seongsu is about a minute's walk away. Then one ride on Line 2 to Hongik Univ., up Exit 9, and 350 m to R3, where clothing and cosmetics shops pack the blocks. We end in Hongdae on purpose, because shops there stay open into the evening (Covernat until 21:00, per Visit Seoul). The ending we really aim for is a week later: one thing you are wearing or using at home because it suits you, not because there was a line for it. That is our call, and it is why pop-ups stay optional.
+<figure class="tr-hero acc-hero"><img src="/static/photo/myeongdong-night-market-2024.webp" alt="Myeongdong at night: cosmetics shops on both sides, food stalls down the middle" width="780" height="585"><figcaption><b>Myeongdong at night.</b> Cosmetics shops line both sides of the main street, food stalls run down the middle.<span class="tr-credit">Photo: Sgroey (2024), <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_1.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (resized, auto-contrast)</span></figcaption></figure>
 
-{{fig:shopping-streets-3|A half-day shopping route on Line 2}}
+<ul class="tr-facts"><li><i class="ic ic-train-front" aria-hidden="true"></i><span>All on Line 2<small>Euljiro 1-ga, Seongsu, Hongik Univ.</small></span></li><li><i class="ic ic-signpost" aria-hidden="true"></i><span>The exit number gets you there<small>Myeongdong 5, Seongsu 4, Hongdae 9</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>Real passport<small>Tax taken off at the till (tax-free stores)</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>One receipt ₩15,000–1,000,000<small>Refunded on the spot</small></span></li></ul>
 
-On a beauty-first trip, swap Seongsu for Myeongdong: Euljiro 1-ga is also on Line 2.
+<h2 id="pick">Where to go</h2>
 
-## The short answer
+This page is about where to **shop**. For where to **stay**, see [Seoul neighborhoods](/seoul-areas/).
 
-| If you want | Go to | Why |
-|---|---|---|
-| K-beauty and fashion in one walk | Myeongdong | Visit Seoul calls it Seoul's no. 1 place for shopping |
-| New Korean brands and pop-ups | Seongsu | Olive Young N Seongsu, Musinsa Megastore and pop-ups around Yeonmujang-gil |
-| Young fashion and K-pop shops | Hongdae | R3 fashion street is 350 m from the station |
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-beauty, first time in Seoul: Myeongdong</b><span>Euljiro 1-ga Station (Line 2) exit 5 or Myeongdong Station (Line 4) exit 8. Visit Seoul calls it the no. 1 place for shopping. Our call: go right after opening. <a href="#myeongdong">Myeongdong</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>New Korean brands, pop-ups: Seongsu</b><span>Seongsu Station (Line 2) exit 4. Olive Young N Seongsu and Musinsa Mega Store around Yeonmujang-gil. Weekends are busy, so our call is a weekday. <a href="#seongsu">Seongsu</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>Young fashion, K-pop goods: Hongdae</b><span>R3 fashion street, 350 m from Hongik Univ. Station (Line 2) exit 9. Our call: late afternoon into evening. <a href="#hongdae">Hongdae</a></span></li></ul>
 
-This page is about where to **shop**. If you are choosing where to **sleep**, see [where to stay in Seoul](/seoul-areas/).
+{{fig:shopping-streets-1|Our call: what each street suits and when to go}}
 
-{{fig:shopping-streets-1|Our pick: what each street is best for, and when to go}}
+## Getting there by exit number
 
-## Before you go: a short list
+There is one skill for finding any shopping street in Seoul: **station name + exit number**. Learn it once and it works in every neighborhood.
 
-Our call: the list is the part of shopping you can enjoy at home, and a short one is the one you finish.
+<figure class="tr-photo"><img src="/static/photo/hongik-exit-9.webp" alt="Hongik University Station exit 9. 1 subway pole sign with the station name and number 239, 2 the exit 9 sign" loading="lazy" width="760" height="370"><figcaption><b>1</b> Subway sign: station name (Hongik Univ.) and station number (239). <b>2</b> Exit number (exit 9). At street level, this sign tells you whether you came out of the right exit.<span class="tr-credit">Photo: Jonathan Kramer (Hongik University Station exit 9), <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Hongik_University_Station_exit_9.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (cropped, auto-contrast, boxes and numbers added)</span></figcaption></figure>
 
-1. **Write what you want by kind:** beauty, clothes or K-pop goods. The table above turns that into a street.
-2. **Check the dates** of any pop-up you saw online. Pop-ups run for set dates.
-3. **Save the exits in Naver Map** and pack your physical passport for tax-free at the till.
+1. **Find the shop in a map app.** Type the shop name into Naver Map or KakaoMap; it shows the nearest station and exit number. You can also use the exit numbers on this page.
+2. **Tap out and follow the exit-number signs.** The number in a circle is the exit, the arrow is the direction ([Seoul subway, step 6](/seoul-subway/), with photos of the real signs).
+3. **At street level, check the exit number** as in the photo above. In big stations the wrong exit can mean a long walk.
 
-**Buying for someone else?** Our call, from what is on this page:
+How to ride, read the line map and top up your card: [Seoul subway](/seoul-subway/).
 
-- **A K-pop fan:** Hongdae, K-Pop Square near Exit 1.
-- **Someone who uses skincare:** Myeongdong or Olive Young N Seongsu. Run our [label check](/kbeauty-how-to-choose/) first.
+{{fig:shopping-streets-2|Concept map: the shopping areas north of the Han River (not to scale)}}
 
-## The handy fact: all three are on Line 2
+<h2 id="myeongdong">Myeongdong: beauty, and a first trip</h2>
 
-Our call: plan your shopping around Line 2. It is Seoul's circular line (Korea Herald), and each area has a Line 2 station.
-
-{{fig:shopping-streets-2|Schematic only: the shopping areas north of the Han River (not to scale)}}
-
-| Area | Station | Exit |
-|---|---|---|
-| Myeongdong | Myeongdong (Line 4) or Euljiro 1-ga (Line 2) | Exit 8 (Line 4) or Exit 5 (Line 2), the exits Olive Young gives for its Myeongdong Global Store |
-| Seongsu | Seongsu (Line 2) | Exit 4, where Yeonmujang-gil starts; Exit 3 for Musinsa Megastore (475 m) |
-| Hongdae | Hongik Univ. (Line 2, AREX, Gyeongui–Jungang) | Exit 9 for R3 fashion street (350 m) |
-
-> Check the exit in Naver Map before you go up. In big stations the wrong exit can add a long walk.
-
-## Myeongdong: for beauty and a first trip
-
-Visit Seoul calls Myeongdong "the no. 1 place for shopping": two large department stores, shopping centers, brand shops and street vendors, with food stalls along both sides of the main street. It also notes the area is especially crowded with foreign visitors.
+<figure class="tr-photo"><img src="/static/photo/myeongdong-1.webp" alt="Myeongdong shopping street at night" loading="lazy" width="780" height="520"><figcaption><b>Myeongdong shopping street</b> (2012 photo).<span class="tr-credit">Photo: Christian Bolz, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, Wikimedia Commons</span></figcaption></figure>
 
 {{fig:shopping-streets-4|Myeongdong: which exit for which store}}
 
-- **Best for:** K-beauty, fashion, street food while you walk.
-- **Best time:** soon after opening. This is our guess, not crowd data: Visit Seoul gives no hourly figures, and Olive Young's Myeongdong Global Store opens at 10:00.
-- **Tax-free:** Olive Young Myeongdong Global Store refunds at the till; see the steps below.
-- **Nearby:** the 12-floor [Daiso](/daiso/) by Myeong-dong Station. Read [how to choose K-beauty](/kbeauty-how-to-choose/) before you buy, and check the [deals board](/deals/) for current sales.
-- **Skip if:** you want streets where locals shop.
+- **Getting there:** Euljiro 1-ga Station (Line 2) exit 5 or Myeongdong Station (Line 4) exit 8, the exits Olive Young's Myeongdong Global store gives.
+- **What's there:** two large department stores, shopping centers, brand shops and street vendors, with food stalls along both sides of the main street. Myeongdong Underground Shopping Center has K-pop items and souvenirs. Visit Seoul notes it is especially busy with foreign visitors these days.
+- **Olive Young Myeongdong Global:** 53 Myeongdong-gil. Daily 10:00–22:30 (may change). Two floors, instant tax refund at the till, simple payment such as WeChat Pay and Alipay, gift wrapping, foreign-language help. The store has no restroom and points you to the nearest subway station.
+- **Best time:** right after opening. That is our guess, not crowd data.
+- **Nearby:** the 12-floor [Daiso](/daiso/) next to Myeongdong Station. Duty-free: Lotte main store (Euljiro 1-ga exits 7 and 8) and Shinsegae (Hoehyeon exit 5) are close ([duty-free](/duty-free/)).
+- **Skip it if:** you want streets where locals shop.
 
-## Seongsu: for new brands and pop-ups
+<h2 id="seongsu">Seongsu: new brands and pop-ups</h2>
 
-Seongsu grew from a handmade-shoe district into a hub for fashion, beauty, pop-ups and flagship stores; Visit Seoul says the shoe street centered on Yeonmujang-gil, starting from Exit 4. Olive Young N Seongsu opened there in late November 2024, about a minute's walk from Exit 4. Musinsa Megastore Seongsu opened on 24 April 2026: four floors plus a basement, 6,600 m², with its first offline beauty floor on the second level (Korea Herald). Visit Seoul lists it as open 11:00 to 22:00 daily.
+<figure class="tr-photo"><img src="/static/photo/seongsu-yeonmujang-gil.webp" alt="Yeonmujang-gil street in Seongsu-dong with shop signs" loading="lazy" width="780" height="585"><figcaption><b>Yeonmujang-gil</b>, which starts at Seongsu Station exit 4.<span class="tr-credit">Photo: Dr. Thomas Liptak, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (cropped, auto-contrast)</span></figcaption></figure>
 
-{{fig:shopping-streets-5|Seongsu Station: Exit 4 or Exit 3}}
+{{fig:shopping-streets-5|Seongsu Station: exit 4 or exit 3}}
 
-- **Best for:** Korean fashion labels, beauty from newer brands, pop-up stores.
-- **Best time:** a weekday. The Korea Herald's Seongsu shopping guide (July 2026) warns that weekends get crowded at Musinsa Megastore and usually mean a wait at some shops.
-- **Tax-free:** we could not confirm each store's rules. Bring your passport and ask before you pay.
-- **Skip if:** you hate queues, or you are chasing one pop-up you saw online. Pop-ups run for set dates (a Zozotown pop-up at Musinsa Store Seongsu ran 16 to 31 October 2026), so check it is still on.
+- **Getting there:** Seongsu Station (Line 2) exit 4, where Yeonmujang-gil starts. Musinsa Mega Store is 475 m from exit 3.
+- **What it is:** small factories arrived from the late 1950s, handmade-shoe makers gathered here after 1967, and the area is now full of fashion, beauty, pop-ups and flagship stores (Visit Seoul).
+- **Olive Young N Seongsu:** 13 Yeonmujang 7-gil, 118 m from exit 4 (about a minute on foot). Opened in late November 2024. 1F is a plaza with changing brand pop-ups and free four-cut photos for the first 300 visitors each day; 2F Beauty & Culture, 3F Skin & Wellness, 4F VIP lounge. Free services such as makeup sessions need a reservation; slots for the following week open every Friday at noon.
+- **Musinsa Mega Store Seongsu:** opened 24 April 2026, about 6,600 m². 2F is Musinsa's first offline beauty floor. Daily 11:00–22:00.
+- **Best time:** a weekday. The Korea Herald's Seongsu shopping guide (July 2026) says Musinsa Mega Store gets crowded on weekends and some stores usually have a wait then.
+- **Tax-free:** we could not confirm each store's rules. Bring your passport and ask before paying.
+- **Skip it if:** you hate queues, or you only want one pop-up you saw online. Pop-ups run for fixed dates (for example, the Jojotown pop-up at Musinsa Store Seongsu ran 16–31 October 2026). Check it is still on.
 
-## Hongdae: for young fashion and K-pop goods
+<h2 id="hongdae">Hongdae: young fashion and K-pop goods</h2>
 
-Hongdae is the area around Hongik University. Visit Seoul describes the R3 area, 350 m from Exit 9, as packed with clothing and cosmetic stores. Near Exit 1, the former LINE Friends flagship has changed to K-Pop Square.
+<figure class="tr-photo"><img src="/static/photo/hongdae-street-2026.webp" alt="Main road and buildings near Hongik Univ. Station" loading="lazy" width="780" height="585"><figcaption><b>Hongdae street</b> (2026).<span class="tr-credit">Photo: Qhairy, <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener" target="_blank">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Hongdae_Street_02.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (resized, auto-contrast)</span></figcaption></figure>
 
-{{fig:shopping-streets-6|Hongik Univ. Station: Exit 9 or Exit 1}}
+{{fig:shopping-streets-6|Hongik Univ. Station: exit 9 or exit 1}}
 
-- **Best for:** casual and street fashion, K-pop goods, cosmetics.
-- **Best time:** late afternoon into the evening. Our judgment from opening hours, not crowd data: some flagships open only at noon (Covernat: 12:00–21:00, per Visit Seoul).
-- **Tax-free:** at some brand stores. Visit Seoul says the Covernat flagship gives foreign visitors a tax refund at the counter. Smaller shops vary.
-- **Skip if:** you want a calm browse.
+- **Getting there:** R3 fashion street is 350 m from exit 9 of Hongik Univ. Station (Line 2, AREX airport railroad, Gyeongui–Jungang Line). Because AREX stops here, it is easy to fit in on an airport day.
+- **What's there:** the area around Hongik University. R3 is packed with clothing and cosmetics shops. The former LINE Friends flagship near exit 1 is now K-Pop Square (daily 11:00–22:00). The Kakao Friends flagship is at exit 8.
+- **Covernat Hongdae flagship:** about a 10-minute walk from exit 9. Daily 12:00–21:00; foreign tourists can get a tax refund at the counter; Alipay accepted.
+- **Help nearby:** Mapo Tourist Information Center, a 3-minute walk from exit 7.
+- **Best time:** late afternoon into evening. That is our call from opening hours, not crowd data: some flagships only open at noon.
+- **Skip it if:** you want to browse quietly.
 
-## Tax-free at the till, step by step
+<h2 id="pay">Paying: cards and tax-free</h2>
 
-These steps follow Olive Young Myeongdong Global Store's own FAQ. Other stores: ask before you pay.
+Big stores take cards, and some, such as Olive Young Myeongdong Global and Covernat Hongdae, take Alipay or WeChat Pay. Cash and cards: [money in Korea](/money/).
 
-{{fig:shopping-streets-7|The instant refund range for one receipt}}
+{{fig:shopping-streets-7|Instant refund range for one receipt}}
 
-1. **Bring your physical passport.** The instant refund needs the passport itself.
-2. **Keep each receipt between ₩15,000 and ₩1,000,000.** That is the range for the instant refund there.
-3. **Show the passport when you pay.** The refund is given in the store.
-4. **Over ₩1,000,000 on one receipt?** No instant refund at the till. See [tax refunds](/tax-refund/).
+<h3 class="tr-step"><span class="n">1</span><i class="ic ic-id-card" aria-hidden="true"></i>Bring your real passport</h3>
 
-## What we left out, and who doesn't need this
+The instant refund at the till needs your physical passport; a photo won't do. It is for people visiting Korea ([who qualifies](/tax-refund/)).
 
-We left out Dongdaemun. The fact: Visit Seoul lists Doota Mall as open 10:30 to midnight. The rest is our call, not a rule: we see late-night clothes shopping as its draw, and on a short trip Seongsu and Hongdae already cover fashion. If you want to look at clothes after Musinsa Megastore closes at 22:00, add Dongdaemun. We also left out Garosu-gil in Sinsa, Hannam-dong and the Gangnam department stores, because we have not yet checked them by category. We don't rank individual stores or prices, because they change.
+<h3 class="tr-step"><span class="n">2</span><i class="ic ic-receipt" aria-hidden="true"></i>Keep one receipt at one store between ₩15,000 and ₩1,000,000</h3>
 
-If you only want cosmetics, go straight to our [Olive Young guide](/olive-young/). If you are buying big-ticket items, read [duty-free](/duty-free/) first.
+Receipts from different stores don't add up. Instant refunds are capped at ₩5,000,000 in total per entry to Korea.
 
-## Sources
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>Hand over your passport when you pay</h3>
 
-<p class="sources">Visit Seoul: <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">"Myeongdong" feature</a> (edited 18 Nov 2025), <a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">"2025 Seoul Trend Dispatch: Seongsu-dong"</a> (edited 15 Jun 2026), <a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">Musinsa Mega Store Seongsu</a> (edited 20 Jul 2026), <a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a> (edited 31 Aug 2026), <a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a> (edited 8 Aug 2026), <a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">"Fan life starts in Hongdae"</a> (edited 24 Oct 2026), <a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">Doota Mall</a> (edited 20 Nov 2026). Olive Young: <a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">Myeongdong Global Town site</a>, store info and FAQ. Korea Herald: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">"Gigantic Olive Young store lures young trend-setters in Seongsu"</a> (21 Nov 2024), <a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">"Seoul bus walkout leaves commuters waiting, confused"</a> (13 Jan 2026), <a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">"New Seongsu landmark? Musinsa brings retail vision at full volume"</a> (25 Apr 2026), <a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">"The only Seongsu shopping guide you need"</a> (4 Jul 2026), <a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">"Musinsa expands Japanese fashion offerings with Korean pop-up"</a> (6 Oct 2026). All checked 26 Nov 2026 (KST).</p>
+The tax comes off on the spot. Per Olive Young Myeongdong Global's FAQ, the refund is 5–8% of the purchase, calculated in ₩1,000 units. Sanitary goods, shopping bags and dried fruit products are excluded.
+
+<h3 class="tr-step"><span class="n">4</span><i class="ic ic-plane" aria-hidden="true"></i>Over ₩1,000,000, or no passport with you</h3>
+
+No instant refund at the till. Take the refund slip and claim at the airport refund counter; steps in [tax refund](/tax-refund/). Slips from other stores of the same operator (GTF) can also be refunded at the GTF desk in the Global Service Lounge on 2F of Olive Young Myeongdong Global (real passport needed).
+
+## Common mistakes
+
+<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>Leaving a big station without checking the exit number. You come out on the wrong side and walk a long way.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>Bringing only a photo of your passport. The till refund needs the real one.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>Splitting purchases across three stores. Each receipt must pass ₩15,000.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>Going to Seongsu for a pop-up that has ended. Check the dates first.</span></li></ul>
+
+<details class="tr-more"><summary><i class="ic ic-route" aria-hidden="true"></i>An afternoon on Line 2 (sample route)</summary>
+
+{{fig:shopping-streets-3|A half-day shopping route on Line 2}}
+
+Picture the afternoon as a route, not a list of shops. You come up exit 4 at Seongsu Station, where Yeonmujang-gil starts, and Olive Young N Seongsu is about a minute's walk away. Then one ride on Line 2 to Hongik Univ., up exit 9, and 350 m to R3. We end in Hongdae on purpose, because shops there stay open into the evening (Covernat until 21:00, per Visit Seoul). The ending we really aim for is a week later: one thing you are wearing or using at home because it suits you, not because there was a line for it. That is why pop-ups stay optional. If beauty comes first, swap Seongsu for Myeongdong; Euljiro 1-ga is on Line 2 too.
+
+</details>
+
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>A short list before you go, and gifts</summary>
+
+Making the list is part of the shopping you can enjoy at home, and a short list is one you will finish.
+
+1. **Write what you want by type:** beauty, clothes, K-pop goods. 'Where to go' above turns that into a street.
+2. **Check the dates of any pop-up you saw online.** Pop-ups run for fixed dates.
+3. **Save the exit in your map app**, and bring your real passport for tax-free at the till.
+
+**Buying for someone else?** Our call, from the facts on this page:
+
+- **K-pop fan:** Hongdae, K-Pop Square by exit 1.
+- **Skincare user:** Myeongdong or Olive Young N Seongsu. Read [how to read the labels](/kbeauty-how-to-choose/) first.
+
+</details>
+
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>What we left out, and who doesn't need this page</summary>
+
+We left out Dongdaemun. The facts: per Visit Seoul, Doota Mall is open 10:30 to midnight and is 207 m from exit 8 of Dongdaemun Station (Lines 1 and 4). The rest is our call: late-night clothes shopping is Dongdaemun's strength, and on a short trip Seongsu and Hongdae cover fashion. If you want to keep shopping for clothes after Musinsa Mega Store closes at 22:00, add Dongdaemun. We also left out Garosu-gil in Sinsa-dong, Hannam-dong and the Gangnam department stores, because we have not yet checked them item by item. We don't cover store rankings or prices, because they change.
+
+Only buying cosmetics? Go straight to the [Olive Young guide](/olive-young/). Buying something expensive? Read [duty-free](/duty-free/) first. Current sales are on the [deals board](/deals/).
+
+</details>
+
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>Sources</summary>
+
+<p class="sources">Checked 26 November 2026 (KST). Visit Seoul: <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">Myeongdong feature</a> (no. 1 for shopping, department stores and vendors, underground shopping center; edited 18 November 2025), <a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">'2025 Seoul Trend Dispatch: Seongsu-dong'</a> (Yeonmujang-gil and exit 4, shoe-street history, Olive Young N Seongsu floors, reservations and 118 m; edited 15 June 2026), <a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">Musinsa Mega Store Seongsu</a> (6,600 m², exit 3 475 m, 11:00–22:00; edited 20 July 2026), <a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a> (exit 9 350 m, Mapo Tourist Information Center 3 minutes from exit 7; edited 31 August 2026), <a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a> (12:00–21:00, tax refund, Alipay, 10 minutes from exit 9; edited 8 August 2026), <a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">'Fan life starts in Hongdae'</a> (K-Pop Square exit 1, 11:00–22:00; Kakao Friends exit 8; edited 24 October 2026), <a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">Doota Mall</a> (10:30–24:00, Dongdaemun exit 8; edited 20 November 2026). Olive Young <a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">Myeongdong Global Town site</a> (address, hours, exits, services, tax-refund FAQ, no restroom). The Korea Herald: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">Olive Young N Seongsu</a> (21 November 2024), <a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">Seoul bus strike and Line 2</a> (13 January 2026), <a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">Musinsa Mega Store Seongsu opens</a> (25 April 2026), <a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">Seongsu shopping guide</a> (4 July 2026), <a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">Musinsa Jojotown pop-up</a> (6 October 2026); the Korea Herald articles were checked for the previous edition (morning of 26 November 2026) and not reopened.</p>
+
+</details>
+
+## Next
+
+<ul class="tr-next"><li><a href="/olive-young/"><i class="ic ic-shopping-basket" aria-hidden="true"></i>Olive Young: sale weeks and basics<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/tax-refund/"><i class="ic ic-receipt" aria-hidden="true"></i>Tax refund: who qualifies, big purchases<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/seoul-subway/"><i class="ic ic-train-front" aria-hidden="true"></i>How to ride the Seoul subway<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li></ul>

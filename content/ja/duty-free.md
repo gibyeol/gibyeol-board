@@ -146,7 +146,7 @@ updated: 2026-11-26
 
 ### 韓国に入国するとき(関税庁)
 
-<figure class="tr-photo"><img src="/static/photo/customs-allowance-ko.webp" alt="韓国関税庁の旅行者携帯品のページ(韓国語)の免税範囲部分。1 800ドル、2 お酒・たばこ・香水は別枠、3 19歳未満" loading="lazy" width="780" height="452"><figcaption><b>1</b> 品物の合計800ドル以下、<b>2</b> それとは別にお酒2L・400ドル以下、紙巻きたばこ200本、電子たばこニコチン液20ml、香水100ml、<b>3</b> 19歳未満はお酒・たばこの免税なし。<span class="tr-credit">画面: 韓国関税庁<a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">旅行者携帯品通関</a>(韓国語)、2026年11月26日キャプチャー(一部を切り抜き、枠・番号を追加)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/customs-allowance-ko.webp" alt="韓国関税庁の旅行者携帯品のページ(韓国語)の免税範囲部分。1 800ドル、2 お酒・たばこ・香水は別枠、3 19歳未満" loading="lazy" width="780" height="448"><figcaption><b>1</b> 品物の合計800ドル以下、<b>2</b> それとは別にお酒2L・400ドル以下、紙巻きたばこ200本、電子たばこニコチン液20ml、香水100ml、<b>3</b> 19歳未満はお酒・たばこの免税なし。<span class="tr-credit">画面: 韓国関税庁<a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">旅行者携帯品通関</a>(韓国語)、2026年11月26日キャプチャー(一部を切り抜き、枠・番号を追加)</span></figcaption></figure>
 
 | | 免税範囲(1人) |
 |---|---|

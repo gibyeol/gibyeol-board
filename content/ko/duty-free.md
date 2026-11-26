@@ -146,7 +146,7 @@ updated: 2026-11-26
 
 ### 한국으로 돌아올 때(관세청)
 
-<figure class="tr-photo"><img src="/static/photo/customs-allowance-ko.webp" alt="관세청 여행자 휴대품 통관 페이지의 면세범위 부분. 1 미화 800달러, 2 주류·담배·향수 별도, 3 만 19세 미만" loading="lazy" width="780" height="452"><figcaption><b>1</b> 물품 합계 미화 800달러 이하, <b>2</b> 그와 별도로 술 2L·400달러 이하, 필터담배 200개비, 전자담배 니코틴용액 20ml, 향수 100ml, <b>3</b> 만 19세 미만은 술·담배 면세 없음.<span class="tr-credit">화면: 관세청 <a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">여행자 휴대품 통관</a>, 2026년 11월 26일 캡처(일부만 잘라 냄, 상자·번호 추가)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/customs-allowance-ko.webp" alt="관세청 여행자 휴대품 통관 페이지의 면세범위 부분. 1 미화 800달러, 2 주류·담배·향수 별도, 3 만 19세 미만" loading="lazy" width="780" height="448"><figcaption><b>1</b> 물품 합계 미화 800달러 이하, <b>2</b> 그와 별도로 술 2L·400달러 이하, 필터담배 200개비, 전자담배 니코틴용액 20ml, 향수 100ml, <b>3</b> 만 19세 미만은 술·담배 면세 없음.<span class="tr-credit">화면: 관세청 <a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">여행자 휴대품 통관</a>, 2026년 11월 26일 캡처(일부만 잘라 냄, 상자·번호 추가)</span></figcaption></figure>
 
 | | 면세범위(1인) |
 |---|---|

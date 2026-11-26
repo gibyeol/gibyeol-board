@@ -1,109 +1,141 @@
 ---
-title: 首爾去哪裡逛街?明洞、聖水、弘大怎麼選
-description: 依想買的東西選首爾三個逛街區域:最佳時段、地鐵出口、結帳退稅步驟,以及什麼情況可以跳過。
-lede: 我們的判斷:第一次去、主攻美妝選明洞;新品牌和快閃店平日去聖水;年輕服飾傍晚以後去弘大。三區都有2號線車站,半天就能串兩區。
+title: 首爾逛街: 明洞、聖水、弘大怎麼去、怎麼付款
+description: 依想買的東西選首爾三個逛街區域,怎麼找對地鐵出口,每區有什麼和營業時間,結帳時出示護照扣掉稅金(退稅),以及什麼情況可以跳過。2026年11月26日確認。
+lede: 美妝去明洞,新品牌和快閃店平日去聖水,年輕服飾傍晚去弘大。三區都有2號線車站,半天就能串兩區。
 section: shopping
-approved: 2026-11-26
 updated: 2026-11-26
 ---
-## 用2號線過一個下午
+<div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-map-pin" aria-hidden="true"></i>去哪一區</a><a class="tr-btn" href="#pay"><i class="ic ic-receipt" aria-hidden="true"></i>付款・退稅</a></div>
 
-把逛街想成一條路線,而不是一串店名。從聖水站4號出口上來,就是演武場街的起點。Visit Seoul 說這裡原本是手工鞋街,後來服飾、美妝旗艦店和快閃店陸續進駐;Olive Young N 聖水步行約1分鐘。接著搭一次2號線到弘大入口站,從9號出口走350公尺,就是服飾店和美妝店密集的 R3。把弘大排在最後是刻意的:那裡有營業到晚上的店(Visit Seoul 標示 COVERNAT 到21:00)。不過我們真正選的結尾是一週後:你在家穿著、用著的一件東西,是因為適合自己才買,不是因為有人排隊。這是我們的判斷,所以快閃店只當「有空再去」。
+<figure class="tr-hero acc-hero"><img src="/static/photo/myeongdong-night-market-2024.webp" alt="夜晚的明洞,兩側是美妝店,中間是小吃攤" width="780" height="585"><figcaption><b>明洞的夜晚。</b> 大街兩側是美妝店,中間排著小吃攤。<span class="tr-credit">照片: Sgroey(2024),<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_1.jpg" rel="noopener" target="_blank">維基共享資源</a>(縮小、自動調亮)</span></figcaption></figure>
 
-{{fig:shopping-streets-3|2號線半日逛街路線}}
+<ul class="tr-facts"><li><i class="ic ic-train-front" aria-hidden="true"></i><span>三區都在2號線<small>乙支路入口、聖水、弘大入口站</small></span></li><li><i class="ic ic-signpost" aria-hidden="true"></i><span>出口號碼帶路<small>明洞5號、聖水4號、弘大9號</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>護照正本<small>結帳時扣稅(退稅商店)</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>單張收據1.5萬〜100萬韓元<small>當場即時退稅</small></span></li></ul>
 
-美妝優先的話,把聖水換成明洞:乙支路入口站也在2號線。
+<h2 id="pick">去哪一區</h2>
 
-## 先說結論
+這頁講的是在哪裡**買**。在哪裡**住**請看[首爾住宿區域怎麼選](/zh-tw/seoul-areas/)。
 
-| 想買 | 去 | 原因 |
-|---|---|---|
-| 韓國美妝和服飾一次逛 | 明洞 | Visit Seoul 稱它是首爾購物第一名的地方 |
-| 韓國新品牌、快閃店 | 聖水 | 演武場街一帶有 Olive Young N 聖水、MUSINSA Megastore 和快閃店 |
-| 年輕服飾、K-POP 店 | 弘大 | R3 服飾街離車站350公尺 |
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-beauty、第一次來首爾: 明洞</b><span>2號線乙支路入口站5號或4號線明洞站8號出口。Visit Seoul稱它是「購物第一站」。我們認為剛開門時最好。<a href="#myeongdong">看明洞</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>韓國新品牌、快閃店: 聖水</b><span>2號線聖水站4號出口。練武場街有Olive Young N 聖水、MUSINSA Mega Store。週末很擠,我們建議平日。<a href="#seongsu">看聖水</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>年輕服飾、K-pop周邊: 弘大</b><span>2號線弘大入口站9號出口走350公尺的R3時尚街。我們建議傍晚到晚上。<a href="#hongdae">看弘大</a></span></li></ul>
 
-這篇講的是去哪裡**買**。要選住哪裡,請看[首爾住哪區](/zh-tw/seoul-areas/)。
+{{fig:shopping-streets-1|我們的判斷: 各區適合買什麼、什麼時候去}}
 
-{{fig:shopping-streets-1|我們的判斷:每區最適合買什麼、什麼時候去}}
+## 用出口號碼找路
 
-## 出發前:列一張短清單
+在首爾找逛街區域只要一個技巧: **站名+出口號碼**。學會一次,哪一區都一樣。
 
-我們的看法:列清單是在家就能享受的那段逛街,而且短的清單才會用到最後。
+<figure class="tr-photo"><img src="/static/photo/hongik-exit-9.webp" alt="弘大入口站9號出口。1 寫著站名和站號239的地鐵柱子,2 9號出入口標示" loading="lazy" width="760" height="370"><figcaption><b>1</b> 地鐵標示: 站名(弘大入口)和站號(239)。<b>2</b> 出口號碼(9號出入口)。到了地面,用這個標示確認出口對不對。<span class="tr-credit">照片: Jonathan Kramer(弘大入口站9號出口),<a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 3.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Hongik_University_Station_exit_9.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調亮、加上框與編號)</span></figcaption></figure>
 
-1. **按種類寫下想買的:** 美妝、衣服、K-POP 周邊。上面的表會告訴你去哪一區。
-2. **網路上看到的快閃店,先查日期。** 快閃店有固定檔期。
-3. **在 NAVER 地圖存好出口**,帶護照正本辦結帳現場退稅。
+1. **在地圖App找店。** 在Naver地圖或KakaoMap輸入店名,會出現最近的車站和出口號碼。也可以直接用這頁寫的出口號碼。
+2. **刷卡出站後,跟著出口號碼指標走。** 圓圈裡的數字是出口號碼,箭頭是方向([首爾地鐵第6步](/zh-tw/seoul-subway/)有實際指標照片)。
+3. **到地面後像上面照片一樣確認出口號碼。** 大站出錯出口要走很遠。
 
-**要買給別人?** 以下是用本頁事實做的我們的判斷:
+怎麼搭地鐵、看路線圖、儲值交通卡,在[首爾地鐵](/zh-tw/seoul-subway/)用照片整理好了。
 
-- **K-POP 粉絲:** 弘大,1號出口附近的 K-Pop Square。
-- **有在保養的人:** 明洞或 Olive Young N 聖水;先看[怎麼看標籤](/zh-tw/kbeauty-how-to-choose/)。
+{{fig:shopping-streets-2|示意圖: 漢江北邊的逛街區域(距離、比例非實際)}}
 
-## 最好用的一點:三區都在2號線
+<h2 id="myeongdong">明洞: 美妝,也是第一次來首爾</h2>
 
-我們的建議是以2號線排動線。2號線是首爾的環狀線(韓國先驅報),三個區域都有2號線車站。
+<figure class="tr-photo"><img src="/static/photo/myeongdong-1.webp" alt="夜晚的明洞購物街" loading="lazy" width="780" height="520"><figcaption><b>明洞購物街</b>(2012年照片)。<span class="tr-credit">照片: Christian Bolz,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>,維基共享資源</span></figcaption></figure>
 
-{{fig:shopping-streets-2|示意圖:漢江北岸的逛街區域(非實際比例)}}
+{{fig:shopping-streets-4|明洞: 哪個出口到哪家店}}
 
-| 區域 | 車站 | 出口 |
-|---|---|---|
-| 明洞 | 明洞站(4號線)或乙支路入口站(2號線) | 4號線8號或2號線5號(Olive Young 明洞 Global 門市標示的出口) |
-| 聖水 | 聖水站(2號線) | 演武場街從4號出口開始;MUSINSA Megastore 走3號(475公尺) |
-| 弘大 | 弘大入口站(2號線、機場鐵路、京義中央線) | R3 服飾街走9號(350公尺) |
+- **怎麼去:** 2號線乙支路入口站5號出口或4號線明洞站8號出口,是Olive Young明洞全球旗艦店指引的出口。
+- **有什麼:** 兩家大型百貨公司、購物中心、品牌店、攤販,大街兩側有小吃攤。明洞地下購物中心有K-pop商品和紀念品。Visit Seoul寫道,最近特別多外國遊客。
+- **Olive Young明洞全球旗艦店:** 明洞街53。每天10:00〜22:30(依店家狀況可能變動)。1〜2樓,結帳即時退稅,微信支付、支付寶等行動支付,禮品包裝,外語服務。店裡沒有廁所,請你使用附近地鐵站的廁所。
+- **適合的時間:** 剛開門。這是我們的推測,不是人潮資料。
+- **附近:** 明洞站旁12層樓的[DAISO](/zh-tw/daiso/)。免稅店有樂天免稅店總店(乙支路入口站7・8號出口)、新世界免稅店(會賢站5號出口)([免稅店](/zh-tw/duty-free/))。
+- **可以跳過的人:** 想走當地人逛的街的人。
 
-> 出站前先用 NAVER 地圖確認出口。大站走錯出口,可能要多走一大段。
+<h2 id="seongsu">聖水: 新品牌和快閃店</h2>
 
-## 明洞:美妝,也最適合第一次去
+<figure class="tr-photo"><img src="/static/photo/seongsu-yeonmujang-gil.webp" alt="聖水洞練武場街的街道和招牌" loading="lazy" width="780" height="585"><figcaption><b>練武場街</b>,從聖水站4號出口開始。<span class="tr-credit">照片: Dr. Thomas Liptak,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調亮)</span></figcaption></figure>
 
-Visit Seoul 稱明洞是首爾「購物第一名的地方」:有兩間大型百貨公司、購物中心、品牌店和攤販,大街兩側排滿小吃攤。它也提到最近這裡外國旅客特別多。
+{{fig:shopping-streets-5|聖水站: 4號出口或3號出口}}
 
-{{fig:shopping-streets-4|明洞:哪個出口到哪家店}}
+- **怎麼去:** 2號線聖水站4號出口,練武場街從這裡開始。MUSINSA Mega Store距3號出口475公尺。
+- **是什麼地方:** 1950年代末開始有小工廠,1967年後手工鞋業者聚集成為手工鞋街,現在是時尚、美妝、快閃店、旗艦店聚集的地方(Visit Seoul)。
+- **Olive Young N 聖水:** 練武場7街13,距4號出口118公尺(步行約1分鐘)。2024年11月底開幕。1樓是品牌快閃輪替的廣場,每天前300名免費四格照;2樓美妝與文化,3樓保養與健康,4樓VIP休息室。化妝等免費服務需預約,每週五中午開放下週的預約。
+- **MUSINSA Mega Store 聖水:** 2026年4月24日開幕,約6,600平方公尺。2樓是MUSINSA第一個實體美妝樓層。每天11:00〜22:00。
+- **適合的時間:** 平日。韓國先驅報的聖水購物指南(2026年7月)寫道,MUSINSA Mega Store週末很擠,有些店週末通常要排隊。
+- **退稅:** 各店規則我們沒能確認。帶著護照,結帳前先問。
+- **可以跳過的人:** 不想排隊的人、只為看網路上某個快閃店的人。快閃店有固定期間(例: MUSINSA Store聖水的Jojotown快閃店是2026年10月16〜31日)。先確認還有沒有。
 
-- **適合買:** 韓國美妝、服飾,邊走邊吃小吃。
-- **最佳時段:** 剛開門時。這是我們的推測,不是人潮數據:Visit Seoul 沒有各時段數字,Olive Young 明洞 Global 門市10:00開門。
-- **退稅:** Olive Young 明洞 Global 門市可在櫃台現場退稅,步驟見下方。
-- **附近:** 明洞站旁12層樓的 [Daiso](/zh-tw/daiso/)。買之前先看[韓國美妝怎麼挑](/zh-tw/kbeauty-how-to-choose/),目前的折扣看[優惠看板](/zh-tw/deals/)。
-- **可以跳過,如果:** 你想逛在地人走的街。
+<h2 id="hongdae">弘大: 年輕服飾和K-pop周邊</h2>
 
-## 聖水:新品牌和快閃店
+<figure class="tr-photo"><img src="/static/photo/hongdae-street-2026.webp" alt="弘大入口站附近的大馬路和建築" loading="lazy" width="780" height="585"><figcaption><b>弘大街頭</b>(2026年)。<span class="tr-credit">照片: Qhairy,<a href="https://creativecommons.org/licenses/by/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY 4.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Hongdae_Street_02.jpg" rel="noopener" target="_blank">維基共享資源</a>(縮小、自動調亮)</span></figcaption></figure>
 
-聖水從手工鞋街區,變成服飾、美妝、快閃店和旗艦店集中的地方。Visit Seoul 說手工鞋街的中心是從聖水站4號出口開始的演武場街。Olive Young N 聖水在2024年11月下旬開幕,離4號出口步行約1分鐘。MUSINSA Megastore 聖水在2026年4月24日開幕,地上4層加地下樓層、6,600平方公尺,2樓是 MUSINSA 第一個實體美妝樓層(韓國先驅報)。Visit Seoul 標示每天11:00–22:00營業。
+{{fig:shopping-streets-6|弘大入口站: 9號出口或1號出口}}
 
-{{fig:shopping-streets-5|聖水站:4號還是3號出口}}
+- **怎麼去:** 弘大入口站(2號線、機場鐵路、京義・中央線)9號出口走350公尺就是R3時尚街。因為是機場鐵路站,往返機場那天也好順路。
+- **有什麼:** 弘益大學周邊。R3一帶服飾店和美妝店很密集。1號出口那邊原本的LINE FRIENDS旗艦店改成K-Pop Square(每天11:00〜22:00)。Kakao Friends旗艦店在8號出口。
+- **COVERNAT弘大旗艦店:** 9號出口步行約10分鐘。每天12:00〜21:00,外國旅客可在櫃台退稅,可用支付寶。
+- **需要幫忙:** 麻浦觀光服務中心,7號出口步行3分鐘。
+- **適合的時間:** 傍晚到晚上。這是看營業時間做的判斷,不是人潮資料;有些旗艦店中午才開。
+- **可以跳過的人:** 想安靜逛的人。
 
-- **適合買:** 韓國服飾品牌、新興美妝品牌、快閃店。
-- **最佳時段:** 平日。韓國先驅報的聖水購物指南(2026年7月)提醒,MUSINSA Megastore 週末人多,有些店週末通常要排隊。
-- **退稅:** 我們沒能逐店確認規則。帶護照,結帳前先問。
-- **可以跳過,如果:** 你不想排隊,或只為了網路上看到的某一間快閃店。快閃店有固定檔期(例如 MUSINSA Store 聖水的 ZOZOTOWN 快閃店是2026年10月16日到31日),先確認還在不在。
+<h2 id="pay">付款: 刷卡和退稅</h2>
 
-## 弘大:年輕服飾和 K-POP 周邊
+大型商店可以刷卡,Olive Young明洞全球旗艦店和COVERNAT弘大等也收支付寶、微信支付。現金和卡片準備看[換錢與付款](/zh-tw/money/)。
 
-弘大是弘益大學周邊。Visit Seoul 介紹離9號出口350公尺的 R3 一帶,服飾店和美妝店密集。1號出口附近原 LINE FRIENDS 旗艦店已改為 K-Pop Square。
+{{fig:shopping-streets-7|單張收據的即時退稅範圍}}
 
-{{fig:shopping-streets-6|弘大入口站:9號還是1號出口}}
+<h3 class="tr-step"><span class="n">1</span><i class="ic ic-id-card" aria-hidden="true"></i>帶護照正本</h3>
 
-- **適合買:** 休閒、街頭風服飾,K-POP 周邊,美妝。
-- **最佳時段:** 傍晚到晚上。這是依營業時間的判斷,不是人潮數據:有些旗艦店中午才開(Visit Seoul 標示 COVERNAT 12:00–21:00)。
-- **退稅:** 部分品牌店可以;例如 Visit Seoul 註明 COVERNAT 旗艦店外國旅客可在櫃台退稅。小店不一定。
-- **可以跳過,如果:** 你想安靜慢慢逛。
+結帳即時退稅要有護照正本,照片不行。適用於訪韓旅客([誰適用](/zh-tw/tax-refund/))。
 
-## 結帳現場退稅步驟
+<h3 class="tr-step"><span class="n">2</span><i class="ic ic-receipt" aria-hidden="true"></i>在同一家店讓一張收據落在1萬5千〜100萬韓元</h3>
 
-以下依 Olive Young 明洞 Global 門市自己的 FAQ。其他店請結帳前先問。
+不同店的收據不能合併。每次入境即時退稅合計上限500萬韓元。
 
-{{fig:shopping-streets-7|單張收據的現場退稅範圍}}
+<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>付款時一起出示護照</h3>
 
-1. **帶護照正本。** 現場退稅要看護照本身。
-2. **單張收據控制在1萬5千到100萬韓元。** 這是該店現場退稅的範圍。
-3. **結帳時出示護照。** 退稅在店內辦好。
-4. **單張收據超過100萬韓元?** 不能在結帳時現場退稅,詳見[退稅](/zh-tw/tax-refund/)。
+當場扣掉稅金。依Olive Young明洞全球旗艦店FAQ,退稅約為購買金額的5〜8%,以1,000韓元為單位計算。衛生用品、購物袋、果乾等不適用。
 
-## 沒寫的,和不需要這篇的人
+<h3 class="tr-step"><span class="n">4</span><i class="ic ic-plane" aria-hidden="true"></i>超過100萬韓元或沒帶護照</h3>
 
-東大門這次沒寫。事實只有這一條:Visit Seoul 標示 DOOTA MALL 10:30營業到午夜。其餘是我們的判斷,不是規則:我們認為它的強項是深夜買衣服,而短程旅行的服飾已有聖水和弘大。如果 MUSINSA Megastore 22:00關門後還想逛衣服,就把東大門加進去。新沙洞林蔭道(Garosu-gil)、漢南洞、江南百貨公司也沒寫,因為還沒按品項查證。個別店家排名和價格會變,所以不寫。
+結帳時不能即時退稅。拿退稅單到機場退稅櫃台辦理,步驟看[退稅](/zh-tw/tax-refund/)。同一家GTF業者的其他店退稅單,也可以到Olive Young明洞全球旗艦店2樓全球服務休息室的GTF櫃台辦(要護照正本)。
 
-只買美妝,直接看 [Olive Young 指南](/zh-tw/olive-young/)。要買高價品,先看[免稅店](/zh-tw/duty-free/)。
+## 常見錯誤
 
-## 資料來源
+<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>在大站沒看出口號碼就出站。走到反方向要走很遠。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>只帶護照照片。結帳退稅要正本。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>分三家店買。每張收據都要超過1萬5千韓元。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>去聖水看已經結束的快閃店。先確認日期。</span></li></ul>
 
-<p class="sources">Visit Seoul(英文版):<a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">明洞專題</a>(2025年11月18日更新)、<a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">〈2025 Seoul Trend Dispatch: Seongsu-dong〉</a>(2026年6月15日更新)、<a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">MUSINSA Mega Store 聖水</a>(2026年7月20日更新)、<a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(2026年8月31日更新)、<a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a>(2026年8月8日更新)、<a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">〈Fan life starts in Hongdae〉</a>(2026年10月24日更新)、<a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">DOOTA MALL</a>(2026年11月20日更新)。Olive Young <a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">明洞 Global Town 網站</a>門市資訊與FAQ。韓國先驅報:<a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">Olive Young N 聖水</a>(2024年11月21日)、<a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">首爾公車罷工與2號線</a>(2026年1月13日)、<a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">MUSINSA Megastore 聖水開幕</a>(2026年4月25日)、<a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">聖水購物指南</a>(2026年7月4日)、<a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">MUSINSA 的 ZOZOTOWN 快閃店</a>(2026年10月6日)。皆於2026年11月26日(韓國時間)查閱。</p>
+<details class="tr-more"><summary><i class="ic ic-route" aria-hidden="true"></i>搭2號線的一個下午(路線範例)</summary>
+
+{{fig:shopping-streets-3|2號線半天逛街路線}}
+
+把逛街想成一條路線,而不是一張店家清單。從聖水站4號出口上來,練武場街就從這裡開始,Olive Young N 聖水步行1分鐘。接著搭一次2號線到弘大入口站,9號出口出來走350公尺就是R3。把弘大放在最後是因為有店開到晚上(依Visit Seoul,COVERNAT到21:00)。不過我們真正選的最後一幕是一週後: 在家穿著或用著一件因為適合自己、而不是因為排隊才買的東西。所以快閃店留作選項。美妝優先的話,把聖水換成明洞;乙支路入口站也在2號線。
+
+</details>
+
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>出發前的短清單、挑禮物</summary>
+
+列清單是在家就能先享受的逛街的一部分,短才會用到最後。
+
+1. **依種類寫下想買的:** 美妝、衣服、K-pop周邊。上面的「去哪一區」幫你換成地點。
+2. **網路上看到的快閃店要確認日期。** 快閃店有固定期間。
+3. **在地圖App存好出口**,為了結帳退稅帶護照正本。
+
+**要送人嗎?** 這是依本頁事實做的判斷:
+
+- **K-pop粉絲:** 弘大,1號出口那邊的K-Pop Square。
+- **有在保養的人:** 明洞或Olive Young N 聖水。先看[怎麼看標籤](/zh-tw/kbeauty-how-to-choose/)。
+
+</details>
+
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>省略的內容、不需要這頁的人</summary>
+
+省略了東大門。事實是: 依Visit Seoul,斗山塔(DOOTA MALL)營業10:30〜午夜,距1・4號線東大門站8號出口207公尺。其餘是我們的判斷: 深夜買衣服是東大門的強項,短程旅行的話,服飾在聖水和弘大就夠了。MUSINSA Mega Store 22:00打烊後還想逛衣服,就加上東大門。新沙洞林蔭道、漢南洞、江南百貨公司也省略了,因為還沒逐項確認。店家排名和價格會變,所以不寫。
+
+只買化妝品的話直接看[Olive Young指南](/zh-tw/olive-young/),要買貴的東西先看[免稅店](/zh-tw/duty-free/)。目前的特價在[特價看板](/zh-tw/deals/)。
+
+</details>
+
+<details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出處</summary>
+
+<p class="sources">2026年11月26日(韓國時間)確認。Visit Seoul(英文): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">明洞特輯</a>(購物第一站、百貨與攤販、地下購物中心,2025年11月18日修訂)、<a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">「2025 Seoul Trend Dispatch: Seongsu-dong」</a>(練武場街與4號出口、手工鞋街歷史、Olive Young N 聖水各樓層・預約・118公尺,2026年6月15日修訂)、<a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">MUSINSA Mega Store 聖水</a>(6,600平方公尺、3號出口475公尺、11:00〜22:00,2026年7月20日修訂)、<a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9號出口350公尺、麻浦觀光服務中心距7號出口3分鐘,2026年8月31日修訂)、<a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a>(12:00〜21:00、退稅、支付寶、9號出口10分鐘,2026年8月8日修訂)、<a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">「Fan life starts in Hongdae」</a>(K-Pop Square 1號出口 11:00〜22:00、Kakao Friends 8號出口,2026年10月24日修訂)、<a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">DOOTA MALL</a>(10:30〜24:00、東大門站8號出口,2026年11月20日修訂)。Olive Young<a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">明洞全球城網站</a>(地址、營業時間、出口、服務、退稅FAQ、沒有廁所)。韓國先驅報: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">Olive Young N 聖水</a>(2024年11月21日)、<a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">首爾公車罷工與2號線</a>(2026年1月13日)、<a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">MUSINSA Mega Store 聖水開幕</a>(2026年4月25日)、<a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">聖水購物指南</a>(2026年7月4日)、<a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">MUSINSA Jojotown快閃店</a>(2026年10月6日);韓國先驅報的文章在前一版(2026年11月26日上午)確認,這次沒有重新打開。</p>
+
+</details>
+
+## 下一步
+
+<ul class="tr-next"><li><a href="/zh-tw/olive-young/"><i class="ic ic-shopping-basket" aria-hidden="true"></i>Olive Young: 特賣時期和基本款<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/zh-tw/tax-refund/"><i class="ic ic-receipt" aria-hidden="true"></i>退稅: 誰適用、大額購物<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/zh-tw/seoul-subway/"><i class="ic ic-train-front" aria-hidden="true"></i>怎麼搭首爾地鐵<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li></ul>

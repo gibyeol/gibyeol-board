@@ -1,11 +1,11 @@
 ---
-title: "Duty-free shopping in Korea: how to buy, and how to pick it up at the airport"
+title: Duty-free shopping in Korea: how to buy, and how to pick it up at the airport
 description: How buying works at online, downtown and airport duty-free shops, what passport and flight details you need, order deadlines, the walk to the Incheon pickup counter (floor, gate, landmarks), and the allowance where you land (Korea $800, Japan, Taiwan, US). Checked 26 November 2026.
 lede: Duty-free goods are handed over on the day you fly, at a pickup counter after passport control. As long as your passport and flight details match, it works the same wherever you bought.
 section: shopping
 updated: 2026-11-26
 ---
-<div class="tr-cta"><a class="tr-btn go" href="#pickup"><i class="ic ic-map-pin" aria-hidden="true"></i>Walk to the pickup counter</a><a class="tr-btn" href="#limit"><i class="ic ic-luggage" aria-hidden="true"></i>How much is duty-free?</a></div>
+<div class="tr-cta"><a class="tr-btn go" href="#pickup"><i class="ic ic-map-pin" aria-hidden="true"></i>Pickup counter</a><a class="tr-btn" href="#limit"><i class="ic ic-luggage" aria-hidden="true"></i>Allowance</a></div>
 
 <figure class="tr-hero acc-hero"><img src="/static/photo/icn-t1-departure-hall-4.webp" alt="Entrance to Departure Hall 4, Incheon Airport Terminal 1, with the hall number (1) and a gate map (2) above it" width="780" height="463"><figcaption><b>You collect duty-free goods beyond this door.</b> Departure Hall entrance, Incheon Terminal 1. <b>1</b> Departure Hall number, <b>2</b> gate map. After security and passport control you are in the duty-free area, and the pickup counters are in there.<span class="tr-credit">Photo: Sgroey (2024), <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Incheon_airport_departure_gate_access.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (cropped, auto-contrast, boxes and numbers added)</span></figcaption></figure>
 
@@ -17,7 +17,7 @@ All three sell the same duty-free goods. One question decides it: **how sure are
 
 <ul class="tr-choose"><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>You know what you want: online duty-free (app)</b><span>Perfume, imported cosmetics, liquor you already know. Order by the evening before you fly, no store visit, collect at the airport. <a href="#online">How to order</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>You want to see and compare: a downtown store</b><span>Bring your passport and flight details to a Seoul store. You pay downtown; the goods wait for you at the airport pickup counter. <a href="#downtown">Stores and how to get there</a></span></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>Something small, last minute: the airport shop</b><span>Buy after security and passport control and carry it straight on. No pickup counter to find.</span></li></ul>
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>If you mostly want Korean skincare, <a href="/en/olive-young/">Olive Young</a> with the <a href="/en/tax-refund/">instant tax refund at the till</a> (for people visiting Korea) is simpler than duty-free.</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>If you mostly want Korean skincare, <a href="/olive-young/">Olive Young</a> with the <a href="/tax-refund/">instant tax refund at the till</a> (for people visiting Korea) is simpler than duty-free.</span></aside>
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>Duty-free is not the same as tax refund</summary>
 
@@ -26,7 +26,7 @@ Know which one you are in before you pay. You collect the goods in different pla
 {{fig:duty-free-4|Duty-free shop or tax-refund store: where you get the goods}}
 
 - **Duty-free shop:** a bonded store that sells only to people leaving Korea. What you buy downtown or online can't be taken away on the spot; you collect it after passport control on departure day.
-- **Tax refund (Tax Free):** ordinary stores such as Olive Young and department stores give foreign visitors part of the 10% VAT back. See [tax refund](/en/tax-refund/).
+- **Tax refund (Tax Free):** ordinary stores such as Olive Young and department stores give foreign visitors part of the 10% VAT back. See [tax refund](/tax-refund/).
 
 Each purchase gets one or the other, not both.
 
@@ -89,7 +89,7 @@ You need a ticket (e-ticket; a phone screen works) that shows your departure dat
 
 <ul class="tr-choose"><li><i class="ic ic-store" aria-hidden="true"></i><b>Lotte Duty Free main store (Myeongdong)</b><span>Floors 9–12 of Lotte Department Store. 50 m from Euljiro 1-ga Station (Line 2), exits 7 and 8. Daily 09:30–20:00.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>Shinsegae Duty Free Myeongdong</b><span>Floors 8–12 of Shinsegae Department Store main branch. 145 m from Hoehyeon Station (Line 4), exit 5. Mon–Thu 10:30–20:00, Fri–Sun 10:30–20:30.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>Shilla Duty Free Seoul</b><span>Next to The Shilla hotel. 278 m from Dongguk Univ. Station (Line 3), exit 5. Daily 09:00–20:00. Runs free shuttle buses linking Seoul's main shopping districts.</span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>Hyundai Duty Free Trade Center</b><span>Mon–Thu 10:30–20:00, Fri–Sun 10:30–20:30.</span></li></ul>
 
-How to find the right exit: [Seoul subway](/en/seoul-subway/). Hours change, so check the links above before you go.
+How to find the right exit: [Seoul subway](/seoul-subway/). Hours change, so check the links above before you go.
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>Choose, then show passport and ticket at the till</h3>
 
@@ -99,7 +99,7 @@ After you pay, the goods stay at the store and wait for you at the airport picku
 
 <h2 id="pickup">Departure day: the walk to the pickup counter</h2>
 
-Wherever you bought, you collect **only at a pickup counter inside the departure area**, after security and passport control. You can't collect on arrival. Arriving at the airport 3 hours early leaves time ([departure day](/en/departure-day/)). Hyundai asks you to reach the counter **at least 1 hour before departure**, because it can be busy.
+Wherever you bought, you collect **only at a pickup counter inside the departure area**, after security and passport control. You can't collect on arrival. Arriving at the airport 3 hours early leaves time ([departure day](/departure-day/)). Hyundai asks you to reach the counter **at least 1 hour before departure**, because it can be busy.
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-ticket" aria-hidden="true"></i>Read the counter name on your voucher</h3>
 
@@ -107,7 +107,7 @@ Wherever you bought, you collect **only at a pickup counter inside the departure
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-door-open" aria-hidden="true"></i>Check in, then enter the departure area</h3>
 
-Check in and drop your bags at the airline counter, then go through an entrance marked 'Departure Hall' with a number, as in the photo above, for security and passport control. The airport steps are in [departure day](/en/departure-day/).
+Check in and drop your bags at the airline counter, then go through an entrance marked 'Departure Hall' with a number, as in the photo above, for security and passport control. The airport steps are in [departure day](/departure-day/).
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-signpost" aria-hidden="true"></i>Follow the gate-number signs to the counter</h3>
 
@@ -146,7 +146,7 @@ When you leave Korea there is **no limit** on duty-free purchases. Hyundai says 
 
 ### Entering Korea (Korea Customs Service)
 
-<figure class="tr-photo"><img src="/static/photo/customs-allowance-ko.webp" alt="Allowance section of the Korea Customs Service traveler page (Korean). 1 US$800, 2 alcohol, tobacco and perfume on top, 3 under 19" loading="lazy" width="780" height="452"><figcaption><b>1</b> Goods up to US$800 in total, <b>2</b> on top of that alcohol up to 2 L and US$400, 200 filter cigarettes, 20 ml e-cigarette nicotine liquid, 100 ml perfume, <b>3</b> no alcohol or tobacco allowance under 19.<span class="tr-credit">Screen: Korea Customs Service, <a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">traveler's personal goods</a> (Korean), captured 26 November 2026 (cropped, boxes and numbers added)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/customs-allowance-ko.webp" alt="Allowance section of the Korea Customs Service traveler page (Korean). 1 US$800, 2 alcohol, tobacco and perfume on top, 3 under 19" loading="lazy" width="780" height="448"><figcaption><b>1</b> Goods up to US$800 in total, <b>2</b> on top of that alcohol up to 2 L and US$400, 200 filter cigarettes, 20 ml e-cigarette nicotine liquid, 100 ml perfume, <b>3</b> no alcohol or tobacco allowance under 19.<span class="tr-credit">Screen: Korea Customs Service, <a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">traveler's personal goods</a> (Korean), captured 26 November 2026 (cropped, boxes and numbers added)</span></figcaption></figure>
 
 | | Allowance per person |
 |---|---|
@@ -182,7 +182,7 @@ That country's customs rules set the limit. Three people ask about often:
 
 - **Direct flight:** liquids packed in the shared duty-free tamper-evident bag (with the receipt attached) can be carried on board whatever the volume or number. Downtown and online liquor is handed over after security, so the liquids limit doesn't apply when you board in Korea.
 - **Don't open it before your final destination.** If it has been opened or damaged, it can't be carried on.
-- **Transferring?** Liquids can be confiscated under the transit country's security rules. Via the US, liquids in opaque or metal containers are restricted; if your final destination after a transfer is a US territory, Australia (or its territories), Canada or the Virgin Islands, you can't buy liquids. Ask your airline first. More in [departure day](/en/departure-day/).
+- **Transferring?** Liquids can be confiscated under the transit country's security rules. Via the US, liquids in opaque or metal containers are restricted; if your final destination after a transfer is a US territory, Australia (or its territories), Canada or the Virgin Islands, you can't buy liquids. Ask your airline first. More in [departure day](/departure-day/).
 
 ## Common mistakes
 
@@ -204,7 +204,7 @@ Left out: brand price comparisons and membership-tier tips, because prices chang
 
 - **Incheon Airport:** Shilla and Shinsegae gave back the core zones (DF1, DF2: cosmetics, perfume, liquor, tobacco) amid weak sales, and Lotte (DF1) and Hyundai (DF2) took over in 2026, with contracts to June 2033. Shinsegae still runs zone DF4, and Shilla and Shinsegae keep their fashion and boutique zones.
 - **Downtown:** all four have stores in Seoul. A June 2026 report said Hyundai is shrinking its Dongdaemun and Trade Center stores while Shilla and Shinsegae focus on downtown and online. Check hours before you go.
-- **Sales:** Shilla Duty Free's Black Friday is on the [deals board](/en/deals/) with its end date and source.
+- **Sales:** Shilla Duty Free's Black Friday is on the [deals board](/deals/) with its end date and source.
 
 </details>
 
@@ -222,4 +222,4 @@ Order ahead and the end of your trip goes like this. Check in, pass security and
 
 ## Next
 
-<ul class="tr-next"><li><a href="/en/departure-day/"><i class="ic ic-plane" aria-hidden="true"></i>Departure day: the airport in order<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/en/tax-refund/"><i class="ic ic-receipt" aria-hidden="true"></i>Tax refund at ordinary stores<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/en/olive-young/"><i class="ic ic-shopping-basket" aria-hidden="true"></i>Olive Young: sale weeks and three basics<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li></ul>
+<ul class="tr-next"><li><a href="/departure-day/"><i class="ic ic-plane" aria-hidden="true"></i>Departure day: the airport in order<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/tax-refund/"><i class="ic ic-receipt" aria-hidden="true"></i>Tax refund at ordinary stores<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li><li><a href="/olive-young/"><i class="ic ic-shopping-basket" aria-hidden="true"></i>Olive Young: sale weeks and three basics<i class="ic ic-arrow-right" aria-hidden="true"></i></a></li></ul>
