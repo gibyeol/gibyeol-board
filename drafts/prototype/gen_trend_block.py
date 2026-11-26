@@ -43,7 +43,7 @@ def trend_block():
     deals = {d["id"]: d for d in D["items"]}
     items = {i["id"]: i for i in T["items"]}
     rk = next(r for r in T["rankings"] if r["id"] == blk["ranking_id"])
-    out = [f'<section class="tb" aria-label="오늘의 트렌드"><p class="tag tag-t"><i class="ic ic-timer" aria-hidden="true"></i>오늘의 트렌드 · 매일 갱신 <span class="src">{html.escape(blk["as_of"])}</span></p>']
+    out = [f'<section class="tb" aria-label="오늘의 트렌드"><p class="tag tag-t"><i class="ic ic-timer" aria-hidden="true"></i>트렌드 · {html.escape(blk["as_of"])}</p>']
     # sale strip (site.js keeps D-day live and hides ended rows)
     rows = []
     for did, label in blk["deals"]:
@@ -60,14 +60,14 @@ def trend_block():
     out.append(f'<div class="stats">{cards}</div>')
     # review-sorted list (not a sales rank); ad-labelled items are excluded
     rv = next(r for r in T["rankings"] if r["id"] == blk["reviews_id"])
-    shown = [it for it in rv["items"] if not it["ad"]][: blk["reviews_show"]]
+    shown = [it for it in rv["items"] if not it["ad"] and not it.get("not_light_puffer")][: blk["reviews_show"]]
     lis = ""
-    for it in shown:
+    for n, it in enumerate(shown, 1):
         q = urllib.parse.quote(f'{it["brand"]} {it["product"]}')
-        lis += (f'<li><b>{it["pos"]}</b><span class="nm"><a href="https://www.musinsa.com/search/goods?keyword={q}" rel="noopener" target="_blank">'
+        lis += (f'<li><b>{n}</b><span class="nm"><a href="https://www.musinsa.com/" rel="noopener" target="_blank" title="무신사에서 상품 이름으로 검색">'
                 f'{html.escape(it["brand"])} · {html.escape(it["product"])}</a><!-- aff-slot: musinsa {html.escape(it["brand"])} {html.escape(it["product"])} --></span>'
                 f'<span class="r">★{it["rating"]:.1f} ({html.escape(it["reviews"])})</span><span class="p">{it["price_krw"]:,}원 <small>{it["discount_pct"]}%↓</small></span></li>')
-    out.append(f'<h3><i class="ic ic-users" aria-hidden="true"></i>후기 많은 경량 패딩<span class="src">무신사 후기순 11/26 17:0x(원두 확인) · 판매 순위 아님 · 광고 제외</span></h3>')
+    out.append(f'<h3><i class="ic ic-users" aria-hidden="true"></i>후기 많은 경량 패딩<span class="src">무신사 후기순 2026-11-26 17:04(운영자 확인 화면) · 판매 순위 아님 · 광고·비경량 제외</span></h3>')
     out.append(f'<ol class="rv">{lis}</ol>')
     out.append(f'<p class="reading">{html.escape(rv["reading"]["ko"])}</p>')
     # ranking bars
@@ -79,7 +79,7 @@ def trend_block():
         lis += (f'<li{cls}><b>{it["rank"]}위</b><span>{html.escape(it["brand"])}</span>'
                 f'<i style="width:{round(100 * it["sales_krw"] / top)}%"></i><em>{eok(it["sales_krw"])}</em></li>')
     out.append(f'<h3><i class="ic ic-list-checks" aria-hidden="true"></i>{html.escape(rk["title_ko"])}'
-               f'<span class="src">11/26 16:25(원두 확인) · 2–4위 미확인 · 빨강=경량 패딩 품절 보도</span></h3>')
+               f'<span class="src">11/26 16:25(운영자 확인 화면) · 전 상품 기준 · 2–4위 미확인 · 빨강=경량 패딩 품절 보도</span></h3>')
     out.append(f'<ol class="bars">{lis}</ol>')
     links = "".join(f'<a class="tb-go" href="{html.escape(l["url"])}" rel="noopener" target="_blank">{html.escape(l["label"])} →</a>'
                     f'<!-- aff-slot: {html.escape(l["aff_slot"])} -->' for l in blk["links"])
