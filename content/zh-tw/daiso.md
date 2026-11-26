@@ -4,6 +4,7 @@ description: 全部 500~5,000 韓元。怎麼找最近的大創、看樓層指�
 lede: 大創沒有超過 5,000 韓元的東西,旅途臨時要用的、零食和小伴手禮、平價保養品一次買齊。找店、選樓層、結帳的順序,每家店都一樣。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>找附近的大創</a><a class="tr-btn" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>結帳・退稅</a></div>
 

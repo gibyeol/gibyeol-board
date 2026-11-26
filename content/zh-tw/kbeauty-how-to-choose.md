@@ -4,6 +4,7 @@ description: 韓國化妝品盒背面要看的四個地方(機能性化妝品、
 lede: 盒子背面比排行榜更有用。翻過來看四個地方,30 秒就好;不管在哪家店、哪個產品,都用同一個方法看。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#label"><i class="ic ic-scan-line" aria-hidden="true"></i>30 秒看懂標籤</a><a class="tr-btn" href="#sun"><i class="ic ic-sun" aria-hidden="true"></i>防曬數字怎麼選</a></div>
 

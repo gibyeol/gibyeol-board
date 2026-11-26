@@ -4,6 +4,7 @@ description: すべて500〜5,000ウォン。近くのダイソーの探し方�
 lede: ダイソーは5,000ウォンを超える物がないので、旅行中の困りごと、お菓子と小さなお土産、プチプラコスメをまとめて買えます。店の探し方、階の選び方、会計の流れはどの店でも同じです。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>近くのダイソーを探す</a><a class="tr-btn" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>会計・免税</a></div>
 

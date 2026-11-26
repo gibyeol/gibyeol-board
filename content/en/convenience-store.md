@@ -4,6 +4,7 @@ description: Recognise CU, GS25, 7-Eleven and emart24, find one open 24 hours, b
 lede: The convenience store is the shop you'll walk into most on your trip: transport card, hot pack and a late-night meal are all on the corner. Learn four signs and you can use one the same way in any neighbourhood.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#tmoney"><i class="ic ic-credit-card" aria-hidden="true"></i>Buy and load T-money</a><a class="tr-btn" href="#find"><i class="ic ic-moon" aria-hidden="true"></i>Find one open 24 hours</a></div>
 

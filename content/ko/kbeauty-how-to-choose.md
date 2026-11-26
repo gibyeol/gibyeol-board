@@ -4,6 +4,7 @@ description: 한국 화장품 상자 뒷면에서 볼 곳 네 군데(기능성�
 lede: 랭킹보다 상자 뒷면이 더 많은 걸 알려 줘요. 뒤집어서 네 군데만 보면 30초 안에 끝나고, 어느 가게의 어떤 제품이든 같은 방법으로 읽을 수 있어요.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#label"><i class="ic ic-scan-line" aria-hidden="true"></i>30초 라벨 읽기</a><a class="tr-btn" href="#sun"><i class="ic ic-sun" aria-hidden="true"></i>선크림 숫자 고르기</a></div>
 

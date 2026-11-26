@@ -4,6 +4,7 @@ description: Everything costs ₩500 to ₩5,000. How to find the nearest Daiso,
 lede: Nothing at Daiso costs more than ₩5,000, so it's the easy place for travel fixes, snacks and small souvenirs, and cheap skincare in one go. Finding a store, picking a floor and paying work the same way in every branch.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>Find a Daiso near you</a><a class="tr-btn" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>Paying and tax refund</a></div>
 

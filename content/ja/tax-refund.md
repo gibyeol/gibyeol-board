@@ -4,6 +4,7 @@ description: 対象者、15,000ウォンの最低購入額、その場で免税�
 lede: 韓国旅行中なら、10%の付加価値税の一部がレジでそのまま引かれます。パスポートを見せるだけです。大きな買い物は還付書類をもらい、空港で受け取ります。
 section: tax
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn" href="#自分は対象"><i class="ic ic-circle-help" aria-hidden="true"></i>自分は対象?</a><a class="tr-btn go" href="#レジで受け取る"><i class="ic ic-receipt" aria-hidden="true"></i>受け取り方</a><a class="tr-btn" href="#airport"><i class="ic ic-plane" aria-hidden="true"></i>空港で</a></div>
 

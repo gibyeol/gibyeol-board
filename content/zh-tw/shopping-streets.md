@@ -4,6 +4,7 @@ description: 依想買的東西選首爾三個逛街區域,怎麼找對地鐵出
 lede: 美妝去明洞,新品牌和快閃店平日去聖水,年輕服飾傍晚去弘大。三區都有2號線車站,半天就能串兩區。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-map-pin" aria-hidden="true"></i>去哪一區</a><a class="tr-btn" href="#pay"><i class="ic ic-receipt" aria-hidden="true"></i>付款・退稅</a></div>
 

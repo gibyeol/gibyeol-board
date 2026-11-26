@@ -4,6 +4,7 @@ description: 사려는 물건에 맞는 서울 쇼핑 거리 세 곳, 지하철 
 lede: 뷰티는 명동, 새 브랜드와 팝업은 평일 성수, 젊은 패션은 늦은 오후 홍대. 셋 다 2호선 역이 있어서 한나절에 두 곳을 묶을 수 있어요.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-map-pin" aria-hidden="true"></i>어디로 갈까</a><a class="tr-btn" href="#pay"><i class="ic ic-receipt" aria-hidden="true"></i>계산·택스프리</a></div>
 

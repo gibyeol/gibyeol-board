@@ -4,6 +4,7 @@ description: Who qualifies, the ₩15,000 minimum, the ₩1M and ₩5M instant-r
 lede: If you are visiting Korea, part of the 10% VAT comes off at the till. Show your passport. For big purchases, take a refund slip and claim at the airport.
 section: tax
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn" href="#do-i-qualify"><i class="ic ic-circle-help" aria-hidden="true"></i>Do I qualify?</a><a class="tr-btn go" href="#at-the-till-the-usual-way"><i class="ic ic-receipt" aria-hidden="true"></i>How to get it</a><a class="tr-btn" href="#airport"><i class="ic ic-plane" aria-hidden="true"></i>At the airport</a></div>
 

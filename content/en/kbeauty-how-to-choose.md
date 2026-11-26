@@ -4,6 +4,7 @@ description: The four spots to read on any Korean cosmetics box (functional mark
 lede: The back of the box tells you more than any ranking. Turn it over, check four spots, and you're done in 30 seconds. It works the same way for any product in any shop.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#label"><i class="ic ic-scan-line" aria-hidden="true"></i>Read a label in 30 s</a><a class="tr-btn" href="#sun"><i class="ic ic-sun" aria-hidden="true"></i>Pick a sunscreen</a></div>
 

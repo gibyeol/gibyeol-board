@@ -4,6 +4,7 @@ description: オンライン・市内・空港免税店で買う順番、パス�
 lede: 免税品は飛行機に乗る日、出国審査を通ったあとの引き渡し場で受け取ります。パスポートと便の情報が合っていれば、どこで買っても同じ流れです。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pickup"><i class="ic ic-map-pin" aria-hidden="true"></i>引き渡し場への道</a><a class="tr-btn" href="#limit"><i class="ic ic-luggage" aria-hidden="true"></i>いくらまで免税?</a></div>
 

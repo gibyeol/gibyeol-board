@@ -4,6 +4,7 @@ description: CU·GS25·세븐일레븐·이마트24 간판 알아보기, 24시�
 lede: 편의점은 여행 중 가장 자주 들르는 가게예요. 교통카드, 핫팩, 야식이 다 골목에 있어요. 간판 네 개만 알아보면 어느 동네에서든 같은 방법으로 쓸 수 있어요.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#tmoney"><i class="ic ic-credit-card" aria-hidden="true"></i>티머니 사고 충전하기</a><a class="tr-btn" href="#find"><i class="ic ic-moon" aria-hidden="true"></i>24시간 매장 찾기</a></div>
 

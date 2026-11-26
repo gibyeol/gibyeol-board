@@ -4,6 +4,7 @@ description: How buying works at online, downtown and airport duty-free shops, w
 lede: Duty-free goods are handed over on the day you fly, at a pickup counter after passport control. As long as your passport and flight details match, it works the same wherever you bought.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pickup"><i class="ic ic-map-pin" aria-hidden="true"></i>Pickup counter</a><a class="tr-btn" href="#limit"><i class="ic ic-luggage" aria-hidden="true"></i>Allowance</a></div>
 

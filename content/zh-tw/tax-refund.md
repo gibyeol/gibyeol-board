@@ -4,6 +4,7 @@ description: 誰能退稅、15,000 韓元門檻、現場退稅單筆未滿 100 �
 lede: 在韓國旅行時,10% 加值稅的一部分在結帳時就直接扣掉。出示護照就好。大筆消費則拿退稅單,到機場領回。
 section: tax
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn" href="#我可以退稅嗎"><i class="ic ic-circle-help" aria-hidden="true"></i>我可以退稅嗎?</a><a class="tr-btn go" href="#在收銀台退稅"><i class="ic ic-receipt" aria-hidden="true"></i>怎麼退</a><a class="tr-btn" href="#airport"><i class="ic ic-plane" aria-hidden="true"></i>在機場</a></div>
 

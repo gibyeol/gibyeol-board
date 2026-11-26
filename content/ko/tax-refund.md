@@ -4,6 +4,7 @@ description: 대상자, 최소 ₩15,000 기준, 즉시 환급 한도 ₩100만�
 lede: 한국을 방문 중이라면 10% 부가세 일부가 계산대에서 바로 빠져요. 여권을 보여 주면 돼요. 큰 구매는 전표를 받아 공항에서 돌려받아요.
 section: tax
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn" href="#나도-대상일까"><i class="ic ic-circle-help" aria-hidden="true"></i>나도 대상일까?</a><a class="tr-btn go" href="#계산대에서-받기"><i class="ic ic-receipt" aria-hidden="true"></i>받는 방법</a><a class="tr-btn" href="#airport"><i class="ic ic-plane" aria-hidden="true"></i>공항에서</a></div>
 

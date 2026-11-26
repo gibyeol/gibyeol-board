@@ -4,6 +4,7 @@ description: 인터넷·시내·공항 면세점에서 사는 순서, 여권과 
 lede: 면세품은 비행기를 타는 날, 출국심사를 지난 뒤 인도장에서 받아요. 여권과 항공편 정보만 맞으면 어디서 샀든 같은 순서예요.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pickup"><i class="ic ic-map-pin" aria-hidden="true"></i>인도장 가는 길</a><a class="tr-btn" href="#limit"><i class="ic ic-luggage" aria-hidden="true"></i>얼마까지 면세?</a></div>
 

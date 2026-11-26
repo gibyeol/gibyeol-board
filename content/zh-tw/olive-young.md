@@ -4,6 +4,7 @@ description: 門市種類、找最近的門市、明洞和聖水大型店怎麼�
 lede: 韓國最大的美妝藥妝連鎖。帶護照正本,很多門市結帳時就直接扣稅。記住順序,哪一家都一樣好逛。
 section: oy
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>怎麼結帳</a><a class="tr-btn" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>找最近的門市</a><a class="tr-btn" href="/zh-tw/deals/"><i class="ic ic-calendar-days" aria-hidden="true"></i>下次特賣</a></div>
 

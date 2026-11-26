@@ -4,6 +4,7 @@ description: Three Seoul shopping streets matched to what you want to buy, how t
 lede: Myeongdong for beauty, Seongsu on a weekday for new brands and pop-ups, Hongdae later in the day for young fashion. All three have a Line 2 station, so two fit in one afternoon.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-map-pin" aria-hidden="true"></i>Where to go</a><a class="tr-btn" href="#pay"><i class="ic ic-receipt" aria-hidden="true"></i>Paying, tax-free</a></div>
 

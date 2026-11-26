@@ -4,6 +4,7 @@ description: The kinds of store, finding the nearest one, getting to the big Mye
 lede: Korea's biggest health and beauty chain. Bring your real passport and many stores take the tax off at the till. Learn the order once and every store works the same way.
 section: oy
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>How to pay</a><a class="tr-btn" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>Find the nearest store</a><a class="tr-btn" href="/deals/"><i class="ic ic-calendar-days" aria-hidden="true"></i>Next sale</a></div>
 
