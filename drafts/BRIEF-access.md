@@ -59,3 +59,6 @@ Before every layout choice ask: why does a visitor open this page, what must the
 - Run `python3 build.py`, serve dist/ and screenshot each edited page at 390 width; look at them yourself and fix cramped/confusing spots. Save the page screenshots to your scratch folder.
 - Do not use git except read-only; do not push; the coordinator commits.
 - Report in Korean: what changed per page, images used (with licenses), what you could not get, loss-check result, screenshot paths.
+
+## Plan wide before writing (owner 2026-11-26 15:19 [7eb4ec94#1625]: "할게 무궁무진한데 왜 자꾸 기본정보만 가지고 찾아와서 나열만 하는건지")
+Before writing a category, derive content from the strategy doc's emotion layer (화제템 판독, failure stories, quests, one-scene cards) and persuasion design (real social proof, real deadlines), not only basic facts. For shopping see /home/user/trendmin-threads/ops/shop-content-map.md. Never invent categories: use the classifications sources themselves publish, with the source [7eb4ec94#1605].
