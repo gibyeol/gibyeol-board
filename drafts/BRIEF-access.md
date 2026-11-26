@@ -16,6 +16,9 @@ Every element is judged by one question: does it make this person's trip less of
 The owner added (11:11, [7eb4ec94#1188], verbatim): "자 그리고 한가지더 본질에 대해서 얘기해보자. 외국인이 한국여행을 와서 필요한 것들을 알려주는건 좋아. 근데 본질이 뭐야. 사람이잖아? 결국 처음 이용하는 사람도 익숙하게 이용하게 만드는게 본질인거잖아. 대부분의 외국인이 물론 한국에 잠깐있다 가겠지만, 우리가 해야할 건 이 글을 처음 보는 사람도 금방 서울에서 생활하는 사람들 처럼 익숙하게 생활을 할 수 있도록 필요한 정보를 주는거야. 일회성 정보가 아니라. 그러니까 지하철 같은 내용도 서울로 들어오는 내용만 써놓고 끝내는 게 아니라. 그 사람이 원하는 곳으로 어디든지 이동할 수 있도록 근본적인 사용법을 이해시켜야한다고"
 So every guide teaches the underlying skill, not a one-off route: after reading, a first-timer can use the thing on their own anywhere (read any line map, pick any direction, change lines, find any exit, take any bus), the way people who live in Seoul do.
 
+Top-down (두괄식) — owner (11:14, [7eb4ec94#1192]): "본질때문에 또 착각하면 안되는게. 모든 사람이 자세한 정보를 원하지는 않아. 그런게 귀찮은 사람도 많다고. 그러니까 두괄식 구조처럼. 각 항목에 대응하는 가장 필수요소와 코어 정보를 제일 먼저 띄우고, 더 자세한 정보가 필요한 사람들을 위해 다른 항목도 붙이는거야."
+So: every section opens with the one essential thing (what to do, the key number), then the deeper "how it works / go anywhere" skill below or collapsed for those who want it.
+
 ## Before you start and after you finish (owner 2026-11-26 10:10: "모든 새로운 작업이 시작 될때마다 다시 원칙학습하고 검토해서 수행하고 수행 뒤에도 또 검토해")
 - Before: read /home/user/wondu-archive/docs/원칙서-current.md in full (parts 1–5), then write one paragraph in your report: the essence of this page (why a visitor opens it, what they must do next, how each part helps and where it connects them).
 - After: an independent reviewer (not you) checks your page against the 10 principles, the owner's words above and that essence. Leave your page in a state you would defend line by line.
