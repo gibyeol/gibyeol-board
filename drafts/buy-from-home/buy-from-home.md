@@ -21,7 +21,7 @@ disclosure: yes
 
 <aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>'확인 못 함'은 공식 페이지를 열지 못한 칸이에요(2026년 11월 27일).</b> 올리브영 US·글로벌 고객센터, YesStyle, Stylevana, 무신사 글로벌은 사이트가 자동 접속을 막았어요. iHerb 배송 기간 표는 페이지가 열린 뒤 따로 불러오는 부분이라 받은 원문에 없었어요. 6곳 모두, 결제할 때 관세를 같이 받는지(받을 때 따로 내는지)도 공식 페이지에서 확인하지 못했어요. 주문 전에 그 쇼핑몰의 배송 안내(Shipping)와 반품 안내(Returns)에서 내 나라를 찾아 확인하세요. 번호 ①~㉑은 맨 아래 출처예요.</span></aside>
 
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지의 쇼핑몰 링크는 지금 모두 일반 링크예요. Nadri는 YesStyle·Stylevana·iHerb(Awin), 올리브영 US·올리브영 APAC & EMEA(Rakuten)의 제휴 프로그램에 신청해 두었어요. 승인되면 그 링크로 산 주문에서 Nadri가 수수료를 받을 수 있고, 그때 링크 옆에 표시해요. 표는 공식 확인이 된 정보가 많은 곳부터 적었어요.</span></aside>
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지의 쇼핑몰 링크는 지금 모두 일반 링크예요. Nadri는 YesStyle(Awin), 올리브영 US·올리브영 APAC & EMEA(Rakuten)의 제휴 프로그램에 신청해 두었어요. 승인되면 그 링크로 산 주문에서 Nadri가 수수료를 받을 수 있고, 그때 링크 옆에 표시해요. 표는 공식 확인이 된 정보가 많은 곳부터 적었어요.</span></aside>
 
 <h2 id="shops">쇼핑몰별로 자세히</h2>
 

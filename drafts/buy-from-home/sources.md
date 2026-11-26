@@ -2,6 +2,9 @@
 
 확인한 날: 1차 2026-11-26 밤(①~⑨), 2차 2026-11-27 01:30~02:10 KST(⑩~㉑, 원두 네트워크 허용 [7eb4ec94#2712] 뒤). 방법: curl, `-A 'Mozilla/5.0'`, 주소당 한 번(연결이 중간에 끊긴 홍콩 1건만 한 번 더). 막히면 다른 도구로 다시 시도하지 않음.
 원본 응답 파일: 1차 = 세션 작업 공간(/tmp/claude-0/-home-user/7eb4ec94-764c-5989-af23-6a2e9e40b53c/scratchpad/buy-from-home/raw/), 2차 = wondu-archive `staging/overnight-2026-11-27/raw/buy-from-home/`(README.md에 주소·결과 표, 커밋 27105d0).
+→ 2026-11-27 변경(독립 검토 지적 뒤): 1차 원본(scratchpad/buy-from-home/raw/ 54개, scratchpad/bfh/)을 wondu-archive `staging/overnight-2026-11-27/raw-from-scratchpad/buy-from-home-raw/`·`bfh/`에 커밋(e266e5b). 파일 목록이 작업 공간과 같음을 diff로 확인. ①=cja_1.htm 등 CJ뉴스룸 사본, ①보조=kh_10742777.htm, ③=www.customs.go.jp_tsukan_kojinyunyu.htm.
+
+광고 표시 문장(페이지 24줄)의 근거: trendmin-threads ops/affiliate-signup-list.md — YesStyle "2026-11-26 18:0x · YesStyle.com 가입 요청(원두)"(40줄), Stylevana "가입 요청 여부는 원두 확인 대기"(41줄), iHerb는 Awin 화면 수치만 있고 신청 기록 없음(42줄), Rakuten 올리브영 US(54267)·APAC&EMEA(53765) "신청 완료(원두 [7eb4ec94#2033])"(52줄). → 2026-11-27 페이지 문장에서 Stylevana·iHerb를 뺌(기록에 신청 사실이 없음).
 
 ## 열어서 쓴 것
 
