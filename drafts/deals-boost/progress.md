@@ -7,6 +7,8 @@
 - [x] 3묶음: 올리브영 2개, wconcept, ably, zigzag
 - [x] 4묶음: topten, zara, hm, coupang 2개, samsung, amazon
 - [x] 5묶음: 여행·항공 6개, 축제·마켓 4개
-- [ ] review.md (원두 줄마다 PASS/FAIL)
+- [x] review.md (원두 줄마다 PASS/FAIL, Claude 자체 점검)
+- [ ] 독립 검토(작성자 아닌 검토) — 아직 안 함
+- [ ] 원두 검토
 
 환경 제약: 이 세션은 koreaherald.com·koreatimes.co.kr·cjnews.cj.net만 본문을 열 수 있음(나머지 언론·쇼핑몰은 네트워크 허용 목록 밖). sources.md 참고.
