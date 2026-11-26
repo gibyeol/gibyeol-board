@@ -89,3 +89,36 @@ if __name__ == '__main__':
     out = pathlib.Path(__file__).resolve().parents[2] / 'static' / 'fig' / 'ko' / 'winter-light-puffer-1.svg'
     out.write_text(build(), encoding='utf-8')
     print('wrote', out)
+
+
+# Product-card drawings for the winter-light-puffer prototype (no text, no logo, not a product photo).
+# Colours are the colours the source names (Korea Herald 2026-10-20): Musinsa Standard "Cloudy Blue",
+# New Balance Flying 77 "Butter Yellow" (also Ash Blue, Charcoal), The North Face Ventus On "Real Black/Black",
+# MLB Curve Air Shell "lavender".
+CARDS = {'musinsa-std': '#a9c6de', 'nb-flying77': '#f1dc8a', 'tnf-ventuson': '#2b2b2e', 'mlb-curve': '#c7b7e2'}
+
+
+def card_icon(fill, hood=True):
+    w, h, cx, top = 160, 120, 80, 22
+    l, r, b = cx - 38, cx + 38, top + 84
+    stroke = '#5f5b55' if fill == '#2b2b2e' else INK
+    line = '#ffffff' if fill == '#2b2b2e' else INK
+    parts = [f'<rect width="{w}" height="{h}" fill="{PAPER}"/>']
+    parts.append(f'<path d="M{l-4},{top+12} L{l-18},{b-6} L{l-6},{b-2} L{l+2},{top+34} Z" fill="{fill}" stroke="{stroke}" stroke-width="2"/>')
+    parts.append(f'<path d="M{r+4},{top+12} L{r+18},{b-6} L{r+6},{b-2} L{r-2},{top+34} Z" fill="{fill}" stroke="{stroke}" stroke-width="2"/>')
+    parts.append(f'<path d="M{l-4},{top+12} Q{cx},{top-4} {r+4},{top+12} L{r-6},{top+52} L{r},{b} L{l},{b} L{l+6},{top+52} Z" fill="{fill}" stroke="{stroke}" stroke-width="2"/>')
+    for i in range(1, 5):
+        y = top + 12 + i * 16
+        parts.append(f'<line x1="{l+3}" y1="{y}" x2="{r-3}" y2="{y}" stroke="{line}" stroke-opacity=".35" stroke-width="1.5"/>')
+    parts.append(f'<line x1="{cx}" y1="{top+4}" x2="{cx}" y2="{b}" stroke="{line}" stroke-opacity=".6" stroke-width="1.5"/>')
+    if hood:
+        parts.append(f'<path d="M{cx-20},{top+6} Q{cx},{top-18} {cx+20},{top+6}" fill="{fill}" stroke="{stroke}" stroke-width="2"/>')
+    return (f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" role="img" aria-label="패딩 그림">'
+            + ''.join(parts) + '</svg>\n')
+
+
+if __name__ == '__main__':
+    base = pathlib.Path(__file__).resolve().parents[2] / 'static' / 'fig'
+    for k, c in CARDS.items():
+        (base / f'light-puffer-{k}.svg').write_text(card_icon(c), encoding='utf-8')
+        print('wrote', k)

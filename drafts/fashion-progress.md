@@ -47,3 +47,12 @@ Scope changed 3 times today; current scope = coordinator 15:3x: ONE prototype st
 - Korea Herald 10908829 (2026-10-20) "Puffers get a style upgrade": lightweight puffers with sculptural silhouettes, oatmeal / fog gray; Musinsa lightweight padded category sales +718% in Aug YoY (company data); New Balance Flying 77 Superlight sold out initial stock within a day (Oct 9); Musinsa Standard City Leisure Hooded Light Down ~100,000원, Cloudy Blue sold out, No. 1 in sales; The North Face Ventus On Jacket (2025 sold out in ~40 min; 2026 Real Black/Black sold out); Fila Air-Flow Down, MLB Curve Air Shell named.
 - Musinsa content 1445654788125843387 (2025-12-12) 그래놀라 코어; 1452877813830509855 (2026-01-06) "2026 인기 트렌드": 그래놀라 코어, 밤비 코어, 쿼터집; 1452880391798882205 (2025-12-31) 2025 트렌드 결산: 러닝코어, 고프코어 레이어드, 스피드캣 +137%.
 - Musinsa Global main page (2026-11-26) shows a "fw26monstersale" campaign and an "Extra Off: Sale + Welcome Code" section (not opened further).
+
+## Review fixes (2026-11-26, after independent review; file now drafts/prototype/winter-light-puffer.md)
+1. Evidence wording: lede, fact tile, #why intro and note now say "코리아헤럴드 기사 2건, 숫자는 10/20 기사(무신사 자료 인용)에만"; 30.9% card-payment figure removed from the page.
+2. Archive sale: conflict (deals.json 12/03–12/17 vs Musinsa page 11/20–12/17 offline) not resolvable from an openable source → row removed, both versions in drafts/prototype/held-musinsa.md.
+3. Hero caption: photo description only; trend sentence removed from the caption.
+4. Links: musinsa.com, global.musinsa.com, Musinsa notice (plain links). New Balance official mall URL not verified → no link, stated. Counter sentences added: "이 상품에 쓸 수 있는 쿠폰이 있나요? 앱 쿠폰 적용해 주세요." / "택스프리 되나요? 여권 여기 있어요."
+5. "8월에 이미 많이 샀다" marked as Nadri 해석.
+6. All facts read from musinsa.com via headless browser removed from the page and kept verbatim in drafts/prototype/held-musinsa.md (codes, MD's Pick 11/11, 아우터 대전 40%, cart coupon 10%, archive sale, store list, ~2cm note, "입어 봐야 안다"). The page now says "무신사 공식 공지에서 확인" with a plain link. musinsa.com not accessed again.
+Scratch build (stand-in translations) OK; screenshot: /tmp/claude-0/-home-user/7eb4ec94-764c-5989-af23-6a2e9e40b53c/scratchpad/fashion/ko_winter-light-puffer-full.png
