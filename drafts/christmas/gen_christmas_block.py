@@ -62,15 +62,16 @@ def block(d):
     pk = d["picks"]
     lis = ""
     for it in pk["items"]:
-        cond = f' <small>{e(it["cond"])}</small>' if it.get("cond") else ""
+        bits = ([f"출처: '{it['src_word']}'"] if it.get("src_word") else []) + ([it["cond"]] if it.get("cond") else [])
+        cond = f' <small>{e(" · ".join(bits))}</small>' if bits else ""
         lis += (f'<li><span class="nm">{a(it["url"], e(it["name"]))}{cond}</span>'
                 f'<span class="r">{e(it["store"])}</span><span class="p">{e(it["price"])}</span></li>')
     out.append(f'<h3><i class="ic ic-store" aria-hidden="true"></i>{e(pk["title"])}<span class="src">{e(pk["src_note"])}</span></h3>')
     out.append(f'<ol class="rv norank">{lis}</ol>')
-    # search-growth bars, in the order the source gave them
+    # search-growth bars, in the order the source gave them; the short word is the search term without '크리스마스 ' (the title says so)
     bs = d["bars"]
     top = max(b["value"] for b in bs["items"])
-    lis = "".join(f'<li><b>{e(b["label"].replace("크리스마스 ", ""))}</b><span>{e(b["label"])}</span>'
+    lis = "".join(f'<li><b title="{e(b["label"])}">{e(b["label"].replace("크리스마스 ", ""))}</b><span></span>'
                   f'<i style="width:{round(100 * b["value"] / top)}%"></i><em>+{b["value"]}%</em></li>' for b in bs["items"])
     out.append(f'<h3><i class="ic ic-list-checks" aria-hidden="true"></i>{e(bs["title"])}<span class="src">{e(bs["src_note"])}</span></h3>')
     out.append(f'<ol class="bars">{lis}</ol>')
