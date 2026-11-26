@@ -4,6 +4,7 @@ description: CU・GS25・セブン-イレブン・emart24の看板の見分け�
 lede: コンビニは旅行中いちばんよく入る店です。交通カードもカイロも夜食も路地にあります。看板4つを覚えれば、どの街でも同じように使えます。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#tmoney"><i class="ic ic-credit-card" aria-hidden="true"></i>T-moneyを買ってチャージ</a><a class="tr-btn" href="#find"><i class="ic ic-moon" aria-hidden="true"></i>24時間の店を探す</a></div>
 

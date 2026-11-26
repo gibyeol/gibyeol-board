@@ -4,6 +4,7 @@ description: 認得 CU、GS25、7-ELEVEN、emart24 招牌,找 24 小時營業的
 lede: 超商是旅途中最常走進去的店:交通卡、暖暖包和宵夜都在巷口。認得四個招牌,在哪個街區都能用同樣的方法。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#tmoney"><i class="ic ic-credit-card" aria-hidden="true"></i>買 T-money 並儲值</a><a class="tr-btn" href="#find"><i class="ic ic-moon" aria-hidden="true"></i>找 24 小時的店</a></div>
 

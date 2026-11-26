@@ -4,6 +4,7 @@ description: 買いたい物に合うソウルのショッピング街3つ、地
 lede: コスメは明洞、新しいブランドとポップアップは平日の聖水、若いファッションは夕方の弘大。3つとも2号線の駅があるので、半日で2か所回れます。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-map-pin" aria-hidden="true"></i>どこへ行く?</a><a class="tr-btn" href="#pay"><i class="ic ic-receipt" aria-hidden="true"></i>支払い・免税</a></div>
 

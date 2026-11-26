@@ -4,6 +4,7 @@ description: 韓国コスメの箱の裏で見る4か所(機能性化粧品、SP
 lede: ランキングより箱の裏のほうが多くを教えてくれます。裏返して4か所を見れば30秒。どの店のどの商品でも同じ方法で読めます。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#label"><i class="ic ic-scan-line" aria-hidden="true"></i>30秒でラベルを読む</a><a class="tr-btn" href="#sun"><i class="ic ic-sun" aria-hidden="true"></i>日焼け止めの数字</a></div>
 

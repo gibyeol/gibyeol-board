@@ -4,6 +4,7 @@ description: 店舗の種類、近くの店の探し方、明洞・聖水の大�
 lede: 韓国最大のヘルス&ビューティーチェーン。パスポートの実物を持っていけば、多くの店でレジで税金分が引かれます。順番さえ覚えれば、どの店も同じように使えます。
 section: oy
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>支払い方</a><a class="tr-btn" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>近くの店を探す</a><a class="tr-btn" href="/ja/deals/"><i class="ic ic-calendar-days" aria-hidden="true"></i>次のセール</a></div>
 

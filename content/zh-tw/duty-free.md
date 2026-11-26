@@ -4,6 +4,7 @@ description: 線上、市區、機場免稅店的購買步驟,護照與航班資
 lede: 免稅品在搭機當天、過了出境審查後的提貨處領取。只要護照和航班資料正確,在哪裡買流程都一樣。
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pickup"><i class="ic ic-map-pin" aria-hidden="true"></i>走到提貨處</a><a class="tr-btn" href="#limit"><i class="ic ic-luggage" aria-hidden="true"></i>免稅額多少?</a></div>
 

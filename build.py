@@ -493,6 +493,8 @@ def page(lang, meta, body_html, path, alternates):
                        f"data-cf-beacon='{{\"token\": \"{html.escape(token)}\"}}'></script>")
     if meta.get("disclosure") == "yes":
         body_html = f'<p class="disclosure">{ui["disclosure_inline"]}</p>' + body_html
+    # Skimlinks (owner decision 2026-11-26, option 나): only on pages that already show the ad notice.
+    skim = '<script type="text/javascript" src="https://s.skimresources.com/js/313714X1802466.skimlinks.js"></script>' if meta.get("disclosure") == "yes" else ""
     byline = ""
     if not meta.get("home") and meta.get("updated") and meta.get("byline") != "no":
         # "approved by an editor" only when the owner approved this version: `approved:` date >= `updated:` date.
@@ -551,7 +553,7 @@ def page(lang, meta, body_html, path, alternates):
   <p class="foot-small">{ui['foot_note']}</p>
 </footer>
 <script src="/static/site.js" defer></script>
-</body>
+{skim}</body>
 </html>
 """
 

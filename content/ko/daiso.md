@@ -4,6 +4,7 @@ description: 모든 물건이 500~5,000원. 가까운 다이소 찾는 법, 층�
 lede: 다이소는 모든 물건이 5,000원 이하라서, 여행 중 급한 물건·과자와 작은 기념품·싼 화장품을 한 번에 사기 좋아요. 찾고, 층을 고르고, 계산하는 순서는 어느 매장이나 같아요.
 section: shopping
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>가까운 다이소 찾기</a><a class="tr-btn" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>계산·택스리펀드</a></div>
 

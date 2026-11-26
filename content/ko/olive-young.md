@@ -4,6 +4,7 @@ description: 매장 종류, 가까운 매장 찾기, 명동·성수 큰 매장 �
 lede: 한국에서 가장 큰 헬스·뷰티 체인이에요. 실물 여권을 들고 가면 계산대에서 세금이 빠지는 매장이 많아요. 순서만 알면 어느 매장이든 똑같이 쓸 수 있어요.
 section: oy
 updated: 2026-11-26
+disclosure: yes
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pay"><i class="ic ic-credit-card" aria-hidden="true"></i>계산하는 법</a><a class="tr-btn" href="#find"><i class="ic ic-map-pin" aria-hidden="true"></i>가까운 매장 찾기</a><a class="tr-btn" href="/ko/deals/"><i class="ic ic-calendar-days" aria-hidden="true"></i>다음 세일</a></div>
 
