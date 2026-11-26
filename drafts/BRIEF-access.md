@@ -22,6 +22,9 @@ So: every section opens with the one essential thing (what to do, the key number
 A to Z — owner (11:39, [7eb4ec94#1227]): "작업 사이사이에 엉성한 부분이 굉장히 많아. 예를들어, 티머니를 사라고 해 놔으면 관련정보링크가 있던가 제휴링크가 있던가 사는 것과 관련되게 연결시켜야하고, 충전하라고 했으면 충전하는 곳만 띄울게아니라 어떻게 충전하는지도 알려줘야돼. A to Z라고 했잖아. 사람들 저거 충전기인지 몰라서 못하는거 아니야. 어려우니까 못하는거지"
 Rule: every instruction to DO something is complete where it appears: (1) where exactly, (2) how, step by step with the real screen/machine (numbered), (3) a link to act on it (official info page, our deeper guide section, or — where genuinely easiest — an affiliate button). Never say "buy X" or "top up" without the how and the link. Check every verb in the page.
 
+QUALITY BAR — owner (11:41, [7eb4ec94#1233]): "지하철이나 공항철도 이런거 타는것도 처음보는 사람이면 이정도가지고는 제대로 이해못해. 내가 외국인이면 한국에 도착함과 동시에 와이파이를 연결해서 이 창을 띄웠을 때, 이거만 그대로 따라서 하면 헤매지 않고 그대로 할 수있을정도의 퀄리티어야돼"
+Follow-along test (the reviewer must run it step by step, as a first-timer standing there with only this page): at every step can they answer, from the page alone and without guessing — Where am I and what do I see (real photo of that exact spot)? Which way do I walk / which sign do I follow? What exactly do I press, tap or say, in order? What happens next and how do I know it worked? What if it goes wrong (wrong gate, card rejected, no cash)? Any "no" = the step is not done.
+
 ## Before you start and after you finish (owner 2026-11-26 10:10: "모든 새로운 작업이 시작 될때마다 다시 원칙학습하고 검토해서 수행하고 수행 뒤에도 또 검토해")
 - Before: read /home/user/wondu-archive/docs/원칙서-current.md in full (parts 1–5), then write one paragraph in your report: the essence of this page (why a visitor opens it, what they must do next, how each part helps and where it connects them).
 - After: an independent reviewer (not you) checks your page against the 10 principles, the owner's words above and that essence. Leave your page in a state you would defend line by line.
