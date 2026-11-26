@@ -40,3 +40,8 @@ Screenshots: /tmp/claude-0/-home-user/7eb4ec94-764c-5989-af23-6a2e9e40b53c/scrat
 - english.visitkorea.or.kr Comprehensive Tax Refund Guide (10/20/2025): airport customs/refund counter locations, hours, currencies; downtown limit 600만 원 이하, 여권·전표·신용카드.
 - globalblue.com Korea page; korea.net 2023-11-28; Korea Herald 10633779, 10947687.
 - Blocked today: law.go.kr, oliveyoung.co.kr, global.oliveyoung.com, help.global.oliveyoung.com (403), overpass/openstreetmap, map.naver/kakao, juso.go.kr, seoulmetro station pages (redirect), asiae, heraldcorp; Commons API rate-limited.
+
+## Review fixes (tax-refund, 4 languages)
+- T1 counter hours: body shows both (airport refund page + VISITKOREA 07:00–22:00; airport facility list 24h); sources block updated; map label now "hours: see text".
+- T1 map: gate numbers 50 and 2 removed (no official source opened today shows them); only gate 28 kept.
+- Downtown: no second official location found today (Global Blue map is script-only; operator sites blocked; Visit Seoul/VISITKOREA list none) → logged in ops/improvements.md.

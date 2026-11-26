@@ -11,7 +11,7 @@ import os, html
 L = {
  'ko': dict(t1='1터미널: 세관 확인 → 환급', a='① 3층 출국장(보안검색 전)', look='체크인 카운터 위 알파벳을 봐요',
             kiosk='내국세환급 키오스크 24시간', customs='세관(E·J 근처)', down='출국장 → 보안검색 → 출국심사',
-            b='② 3층 면세구역', g28='28번 게이트 근처', g28d='환급 창구 07:00~22:00|무인 환급기 24시간',
+            b='② 3층 면세구역', g28='28번 게이트 근처', g28d='환급 창구·무인 환급기|시간은 본문 참고',
             conc='탑승동(101~132번)이면: 3층 중앙 약국 옆 무인 환급기 24시간',
             note='개략도(축척 아님). 알파벳 순서만 맞아요. 인천공항 시설 안내·내국세환급 안내, 비짓코리아 기준',
             t2='2터미널: 세관 확인 → 환급', t2look='체크인 카운터 F·G 근처', t2customs='세관(F·G 근처)',
@@ -19,7 +19,7 @@ L = {
             t2alt='공항 안내 페이지에는 250번 맞은편·253번 근처로 적혀 있어요. 무인 환급기는 24시간'),
  'en': dict(t1='T1: customs check, then refund', a='1 · 3F departures (before security)', look='Read the letter above each check-in row',
             kiosk='Tax refund kiosk, 24h', customs='Customs (near E and J)', down='Departure hall → security → passport control',
-            b='2 · 3F duty-free area', g28='Near gate 28', g28d='Refund counter 07:00–22:00|Refund machines 24h',
+            b='2 · 3F duty-free area', g28='Near gate 28', g28d='Refund counter and machines|Hours: see the text',
             conc='Gates 101–132 (Concourse): refund machine next to the pharmacy, 3F centre, 24h',
             note='Schematic, not to scale; letters in order only. From airport.kr facility and refund pages and VISITKOREA',
             t2='T2: customs check, then refund', t2look='Near check-in rows F and G', t2customs='Customs (near F and G)',
@@ -27,7 +27,7 @@ L = {
             t2alt='The airport refund page gives opposite gate 250 and near 253 instead. Refund machines 24h'),
  'ja': dict(t1='第1ターミナル: 税関確認 → 還付', a='① 3階 出国フロア(保安検査の前)', look='チェックインカウンター上のアルファベットを見ます',
             kiosk='内国税還付キオスク 24時間', customs='税関(E・J付近)', down='出国場 → 保安検査 → 出国審査',
-            b='② 3階 免税エリア', g28='28番ゲート付近', g28d='還付窓口 07:00〜22:00|無人還付機 24時間',
+            b='② 3階 免税エリア', g28='28番ゲート付近', g28d='還付窓口・無人還付機|時間は本文参照',
             conc='搭乗棟(101〜132番)なら: 3階中央 薬局横の無人還付機 24時間',
             note='略図(縮尺なし)。アルファベットの順番のみ正確。仁川空港の施設案内・内国税還付案内、VISITKOREAより',
             t2='第2ターミナル: 税関確認 → 還付', t2look='チェックインカウンターF・G付近', t2customs='税関(F・G付近)',
@@ -35,7 +35,7 @@ L = {
             t2alt='空港の還付案内ページでは250番の向かい・253番付近。無人還付機は24時間'),
  'zh-tw': dict(t1='第1航廈: 海關確認 → 退稅', a='① 3樓 出境大廳(安檢前)', look='看報到櫃台上方的英文字母',
             kiosk='退稅自助機 24小時', customs='海關(E・J附近)', down='出境口 → 安檢 → 出境審查',
-            b='② 3樓 免稅區', g28='28號登機門附近', g28d='退稅櫃台 07:00〜22:00|無人退稅機 24小時',
+            b='② 3樓 免稅區', g28='28號登機門附近', g28d='退稅櫃台・無人退稅機|時間見內文',
             conc='在搭乘棟(101〜132號): 3樓中央 藥局旁無人退稅機 24小時',
             note='示意圖(非比例),只有字母順序正確。依仁川機場設施資料・退稅說明、VISITKOREA',
             t2='第2航廈: 海關確認 → 退稅', t2look='報到櫃台 F・G 附近', t2customs='海關(F・G附近)',
@@ -100,8 +100,7 @@ def t1(l, lang):
     y = landside(o, l, lang, 46, ['A', '…', 'B', '…', 'E', '…', 'J', '…', 'L', '…', 'N'], {'B', 'E', 'J', 'L'}, {'E', 'J'}, l['look'], l['customs'])
     y0 = y; body = []
     body.append(T(28, y0 + 26, l['b'], 17, INK, '700', 'start'))
-    body.append(f"<path d='M44,{y0+96} Q200,{y0+46} 356,{y0+96}' fill='none' stroke='#d5d9df' stroke-width='22' stroke-linecap='round'/>")
-    for gno, x in [(50, 64), (28, 200), (2, 336)]:
+    for gno, x in [(28, 200)]:
         yy = y0 + 96 - 50 * (1 - ((x - 200) / 156) ** 2) * 0.98
         col = RED if gno == 28 else NAVY
         body.append(f"<rect x='{x-16:.0f}' y='{yy-14:.0f}' width='32' height='26' rx='5' fill='{col}'/>" + T(x, yy + 6, str(gno), 16, '#fff', '700'))
