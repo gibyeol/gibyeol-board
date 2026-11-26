@@ -71,7 +71,7 @@ Fragrance may be listed as the single word 향료, but 25 fragrance allergens mu
 
 </details>
 
-<aside class="tr-note tip"><i class="ic ic-info" aria-hidden="true"></i><span>If you have a skin condition or are on prescribed treatment, ask a doctor or pharmacist before trying something new. This page is about reading labels, not about what a product will do.</span></aside>
+<aside class="tr-note tip"><i class="ic ic-info" aria-hidden="true"></i><span>If you have a skin condition or are on prescribed treatment, ask a doctor or pharmacist before trying something new. This page is about reading labels, not about what a product will do. Finding a pharmacy, including at night: <a href="/health/">If you get sick</a></span></aside>
 
 ## Claims to put back on the shelf
 
@@ -100,7 +100,7 @@ Toner, gel, mist and sunscreen all count as liquids. Decide which bag they go in
 2. **Bigger sizes:** put them in checked baggage. Non-flammable sprays: up to 500 mL per container and 2 L in total.
 3. **Liquids bought duty-free:** keep the sealed duty-free liquids bag closed until you board the flight to your final destination. Rules can differ if you transfer at an airport abroad.
 
-Check your airline's rules before you fly too.
+Check your airline's rules before you fly too. What goes in which bag on the day you leave: [Departure day](/departure-day/).
 
 ## Common mistakes
 
