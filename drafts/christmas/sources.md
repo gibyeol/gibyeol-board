@@ -50,3 +50,9 @@
 - `seoul-winter-market-2026`: 상황판은 2026-12-12~12-31 `expected`(작년 기준). 서울시 11/25 발표(S5)·VISIT SEOUL(S6)은 **12/11~2027-01-10**. → 확정으로 바꿀 근거 있음.
 - `ttukseom-xmas`: 상황판은 블로그 한 곳 근거 `expected`. 서울시 11/25 발표(S5)에 "로맨틱 한강 크리스마스마켓 (12.24.~12.27.)" → 확정 근거 있음.
 - 스토리 판(drafts/shop-storyboard.md)의 다이소 "신한 SOL페이 3만 원 이상 1,000P ~11/30"은 S2의 "5천 원 이상 500P(11/16~20)"와 다른 이벤트다(S2 하단 '다음 글: 신한 SOL페이 프로모션'). 1,000P 건은 이번에 원문을 다시 열지 않아 페이지에 안 씀.
+
+## D. 사진 (위키미디어 공용만, 라이선스 확인, 핫링크 안 함)
+
+- 쓴 것: `photos/xmas-ornaments.webp` ← [Christmas ornaments in Seoul, South Korea - DSC00723.JPG](https://commons.wikimedia.org/wiki/File:Christmas_ornaments_in_Seoul,_South_Korea_-_DSC00723.JPG), Daderot, **CC0**(공용 API 라이선스 값 'CC0', 'Own work'), 2011-12-03 촬영. 위쪽 장식 부분만 잘라 씀(지나가는 사람 얼굴 빠짐), 780×452 WebP. 기록: `photos.json`. 공개할 때 `static/photo/`로 복사해야 화면에 나옴(지금은 초안 폴더에만 있음).
+- 안 쓴 것: [Christmas impression Seoul, Korea (11266996415).jpg](https://commons.wikimedia.org/wiki/File:Christmas_impression_Seoul,_Korea_(11266996415).jpg)(CC BY-SA 2.0) — 사진 앱 필터로 뭉개져 '불편한 이미지'[7eb4ec94#1776]라서 뺌. [Myeongdong Crowd at Christmas, Seoul.jpg](https://commons.wikimedia.org/wiki/File:Myeongdong_Crowd_at_Christmas,_Seoul.jpg)(CC BY-SA 4.0, 2017) — 사람 얼굴이 주인공인 군중 사진이라 안 받음. 'Nightview of the Gwanghwamun Square 2024.jpg'는 공공누리 1유형이라 이번 지시(CC0/PD/CC BY/BY-SA만)에 맞지 않아 뺌.
+- 위키미디어가 요청 과다(429)로 자주 막혀서 후보를 넓게 보지 못했다. 어드벤트 캘린더·워터볼 같은 품목 예시 사진은 찾지 못함.

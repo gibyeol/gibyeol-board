@@ -1,0 +1,19 @@
+[
+ {
+  "file": "drafts/christmas/photos/xmas-ornaments.webp",
+  "publish_to": "static/photo/xmas-ornaments.webp",
+  "subject": "Christmas decoration shop in Seoul, ornaments hanging to the ceiling (example photo, not a product)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Christmas_ornaments_in_Seoul,_South_Korea_-_DSC00723.JPG",
+  "author": "Daderot",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "license_check": "Commons API extmetadata LicenseShortName=CC0, Credit=Own work, checked 2026-11-27 KST",
+  "original_date": "2011-12-03",
+  "modifications": ["cropped to the upper decorations (760x440 from the 960px thumbnail, faces of passers-by left out)", "resized to 780x452", "converted to WebP q80"],
+  "attribution": "사진: Daderot, CC0, 위키미디어 공용(잘라 씀)",
+  "share_alike": false,
+  "retrieved": "2026-11-27",
+  "hotlink": false
+ }
+]
