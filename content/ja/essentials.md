@@ -48,11 +48,13 @@ K-ETAは、ビザなしで韓国に入国する人向けの電子渡航認証で
 
 地図、タクシー、翻訳、QRコードのメニューまで、ほとんどがスマホ頼みです。私たちの判断はeSIM。スマホがeSIM非対応のときだけ、ほかの方法を選びましょう。
 
-**まず自分のスマホを確認(1分):** iPhoneはXS・XR以降のモデルで、**設定 → 一般 → 情報 → SIMロック**に「SIMロックなし」と出ればOK。Galaxyは**設定 → 端末情報 → ステータス情報**にEIDがあればeSIM対応です(EIDは箱にも書いてあります)。通信会社で買ったGalaxyなら、SIMロックの有無はその通信会社に確認してください。
+**まず自分のスマホを確認(1分):** iPhoneはXS・XR以降のモデルで、**設定 → 一般 → 情報 → SIMロック**に「SIMロックなし」と出ればOK。Galaxyは**設定 → 端末情報 → ステータス情報**にEIDがあればeSIM対応です(EIDは箱にも書いてあります)。通信会社で買ったGalaxyなら、SIMロックの有無はその通信会社に確認してください。例外(Apple):中国本土でeSIMに対応しているのはiPhone 18 Pro・18 Pro Max・iPhone Duo・17e・iPhone Airのみ。香港・マカオには2枚のnano-SIMを使うデュアルSIMのiPhoneモデルがあります。そこで買ったiPhoneなら、まずモデルを確認してください。
 
 {{fig:essentials-3|eSIM・SIM・ポケットWi-Fi:それぞれに必要なこと}}
 
 **選び方:** データだけなら下の2つのどちらか。韓国の番号で電話・SMSを受ける必要があるなら、その下のSKT通話・SMSプランです。
+
+**買う前に:** 返金条件を商品ページで確認してください(インストール後は返金できないところもあります)。
 
 {{aff:yesim_kr|Yesimで韓国eSIMを見る}}
 
@@ -64,18 +66,19 @@ K-ETAは、ビザなしで韓国に入国する人向けの電子渡航認証で
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買ったあと:eSIMのインストールとオン(iPhone・Galaxy)</summary>
 
-インストールは**出発前に、Wi-Fiで**済ませましょう。QRコードは販売元のメールかアプリで届きます。返金条件は買う前に商品ページで確認してください(インストール後は返金できないところもあります)。
+インストールは**出発前に、Wi-Fiで**済ませましょう。QRコードはふつう販売元のメールかアプリで届きます(受け取り方は購入確認書を見てください)。
 
 **iPhone**(Appleの公式案内)
 
 1. **インストール:** カメラアプリでQRコードをスキャン →「モバイル通信プランが検出されました」の通知をタップ → 画面下の「続ける」→「モバイル通信プランを追加」。メールやブラウザで届いたQRは長押しして「eSIMを追加」。リンクで届いたら、リンクをタップ →「許可」→「続ける」。
 2. **着いたらオン:**「旅行用のeSIMをオンにする」の通知が出たらタップ → 使う回線を選ぶ →「続ける」(iOS 26以降)。通知がなければ**設定 →「モバイル通信」→「モバイルデータ通信」**で旅行用eSIMの回線を選びます。データ通信は一度に1つの番号だけです。
-3. **自分の番号のローミング料金を防ぐ:** 2回線ともオンだと、自分の国の回線でローミング料金が発生する可能性があります。**設定 →「モバイル通信」→ 自分の番号**をタップして「データローミング」をオフに。自分の番号の通話・SMSの料金は、出発前に契約中の通信会社に確認してください。
-4. **つながらないとき:** 機内モードをオン・オフ → 設定 →「モバイル通信」でその回線をオフ・オン → 再起動。それでもだめなら販売元へ(画面のエラーメッセージとEID:設定 → 一般 → 情報)。
+3. **旅行用eSIMのデータローミングをオン:** **設定 →「モバイル通信」→ 旅行用eSIMの番号**をタップして「データローミング」をオンに。データローミングは、契約中の通信会社のネットワーク外でモバイルデータ通信を使ってインターネットにつなぐためのスイッチです。販売元の案内が違う場合はそちらに従ってください。
+4. **自分の番号のローミング料金を防ぐ:** 2回線ともオンだと、自分の国の回線でローミング料金が発生する可能性があります。**設定 →「モバイル通信」→ 自分の番号**をタップして「データローミング」をオフに。自分の番号の通話・SMSの料金は、出発前に契約中の通信会社に確認してください。
+5. **つながらないとき:** 機内モードをオン・オフ → 設定 →「モバイル通信」でその回線をオフ・オン → 再起動。それでもだめなら販売元へ(画面のエラーメッセージとEID:設定 → 一般 → 情報)。
 
 **Galaxy**(Samsungの公式案内。メニュー名は機種やソフトウェアで少し違います)
 
-1. **インストール:** **設定 → 接続 → SIMマネージャー → eSIMを追加 → QRコードをスキャン** → 届いたQRをスキャン。コードで届いたら同じ画面でアクティベーションコードを入力。
+1. **インストール:** **設定 → 接続 → SIMマネージャー → eSIMを追加 → QRコードをスキャン** → 届いたQRをスキャン。コードで届いたら同じ画面で「有効化コードを入力」。
 2. **着いたらオン:** **設定 → 接続 → SIMマネージャー**で旅行用eSIMのスイッチをオンにし、モバイルデータを旅行用eSIMにします。
 3. **データがつながらないとき:** **設定 → 接続 → モバイルネットワーク → データローミング**がオンか確認。グレーならモバイルデータを先にオンに。
 4. **それでもだめなら:** 再起動してから販売元へ。
@@ -132,4 +135,4 @@ iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯�
 
 <p class="sources">法務部「<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA一時免除期間の延長(2027年12月31日まで)</a>」(2026年11月23日掲載、11月26日確認)、<a href="https://www.k-eta.go.kr" rel="noopener" target="_blank">k-eta.go.kr</a>(手数料、11月26日確認)、<a href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">e-arrivalcard.go.kr</a>(無料、到着3日前から申告可、11月26日確認)、コリア・ヘラルド「<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のT-moneyカード</a>」(2026年11月24日)と「<a href="https://www.koreaherald.com/article/10946522" rel="noopener" target="_blank">Googleの韓国地図計画</a>」(2026年11月23日)、いずれも11月26日確認。今回は再確認できず前回の確認内容を維持:22の国・地域と3年の有効期間に関する外交部のお知らせ、仁川国際空港の電子入国申告書案内、国土交通部の地図データ持ち出し承認(2026年2月27日)、ソウル市のT-money・気候同行カード・地下鉄新券売機の案内(2026年3月16日)。</p>
 
-<p class="sources">2026年11月27日確認:Apple <a href="https://support.apple.com/ja-jp/118669" rel="noopener" target="_blank">iPhoneでeSIMを設定する</a>(QR・リンクでのインストール)、<a href="https://support.apple.com/ja-jp/118227" rel="noopener" target="_blank">海外旅行中にiPhoneでeSIMを使う</a>(SIMロックの確認、旅行用eSIMをオン、データ通信の回線、自分の国の回線のローミング料金)、<a href="https://support.apple.com/ja-jp/109317" rel="noopener" target="_blank">デュアルSIMを使う</a>(データは一度に1つの番号、番号ごとの設定)、<a href="https://support.apple.com/ja-jp/102478" rel="noopener" target="_blank">eSIMを設定できない場合</a>;Samsung Japan <a href="https://www.samsung.com/jp/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIMマネージャー → eSIMを追加 → QRコードをスキャン)、Samsung UK <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">データローミング</a>・<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">デュアルSIM</a>(英語のメニュー名を訳したもの)、Samsung Ireland <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EIDの場所);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は別チャージ);WOWPASS eSIMの予約条件(QRインストール後は返金不可 —「返金できないところ」の例)。確認できなかったもの:Yesim・KlookのeSIM商品ページ(プランの違い・返金条件)。両サイトが自動アクセスを止めていて開けませんでした。</p>
+<p class="sources">2026年11月27日確認:Apple <a href="https://support.apple.com/ja-jp/118669" rel="noopener" target="_blank">iPhoneでeSIMを設定する</a>(QR・リンクでのインストール)、<a href="https://support.apple.com/ja-jp/118227" rel="noopener" target="_blank">海外旅行中にiPhoneでeSIMを使う</a>(SIMロックの確認、中国本土・香港・マカオの例外、旅行用eSIMをオン、データ通信の回線、自分の国の回線のローミング料金)、<a href="https://support.apple.com/ja-jp/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhoneユーザガイド:モバイルデータ通信の設定</a>(データローミング)、<a href="https://support.apple.com/ja-jp/109317" rel="noopener" target="_blank">デュアルSIMを使う</a>(データは一度に1つの番号、番号ごとの設定)、<a href="https://support.apple.com/ja-jp/102478" rel="noopener" target="_blank">eSIMを設定できない場合</a>;Samsung Japan <a href="https://www.samsung.com/jp/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIMマネージャー → eSIMを追加 → QRコードをスキャン)、Samsung UK <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">データローミング</a>・<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">デュアルSIM</a>(英語のメニュー名を訳したもの)、Samsung Ireland <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EIDの場所。英語のメニュー名を訳したもの);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は別チャージ);WOWPASS eSIMの予約条件(QRインストール後は返金不可 —「返金できないところ」の例)。確認できなかったもの:Yesim・KlookのeSIM商品ページ(プランの違い・返金条件)。両サイトが自動アクセスを止めていて開けませんでした。</p>
