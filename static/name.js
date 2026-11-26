@@ -1026,7 +1026,7 @@
     var srcOf = function (bl) {
       var all = (m.src.phrase || []).slice();
       bl.forEach(function (b) { all = all.concat(b.src); });
-      var out = []; all.forEach(function (x) { x = String(x || '').split(':')[0].trim(); if (x && out.indexOf(x) < 0) out.push(x); });
+      var out = [], seenK = []; all.forEach(function (x) { x = String(x || '').split(':')[0].trim(); var k = x.replace(/\s*\([^)]*\)$/, ''); if (x && seenK.indexOf(k) < 0) { seenK.push(k); out.push(x); } });
       var t = (m.credit || '') + (out.length ? (m.credit ? ' · ' : '') + T.src + ': ' + out.join(' · ') : '');
       return t ? fitText(g, t, 'text', 0, 19, 16, CIN, 2) : null;
     };
