@@ -9,7 +9,7 @@ updated: 2026-11-26
 
 <ul class="tr-colours"><li><img src="/static/photo/cvs-cu-front.webp" alt="CU 편의점 정면, 보라색 CU 글자와 연두색 띠 간판"><b>CU</b><span class="t">보라색 글자, 연두색 띠.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:CU_Namdaemun-ro-5ga_branch_20181122_072838.jpg" rel="noopener" target="_blank">LERK</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a> (잘라 냄)</span></li><li><img src="/static/photo/cvs-gs25-front.webp" alt="GS25 편의점 정면, 검은 바탕에 흰 GS와 하늘색 25 간판"><b>GS25</b><span class="t">흰 ‘GS’와 하늘색 ‘25’.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:GS25_Okcheon_Museong_Branch_20240730.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ko" rel="noopener" target="_blank">CC0</a> (잘라 냄)</span></li><li><img src="/static/photo/cvs-7eleven-front.webp" alt="세븐일레븐 편의점, 주황·초록·빨강 줄무늬 간판"><b>세븐일레븐</b><span class="t">주황·초록·빨강 줄무늬와 7.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg" rel="noopener" target="_blank">LERK</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a> (잘라 냄)</span></li><li><img src="/static/photo/cvs-emart24-front.webp" alt="이마트24 편의점 정면, 노란 emart24 간판"><b>이마트24</b><span class="t">노란 ‘emart24’ 글자.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:E-mart_24_Okcheon_Mir_Branch_20240731.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ko" rel="noopener" target="_blank">CC0</a> (잘라 냄)</span></li></ul>
 
-<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>4대 편의점<small>2025년 말 합계 53,266곳</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>약 78%만 24시간<small>새벽엔 영업시간 확인</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>티머니 충전은 현금<small>계산대에서, 원화</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>술·담배<small>2026년: 2007년 이전 출생만</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>4대 편의점<small>2025년 말 53,266곳(보도 기준)</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>약 78%만 24시간<small>새벽엔 영업시간 확인</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>티머니 충전은 현금<small>계산대에서, 원화</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>술·담배<small>2026년: 2007년 이전 출생만</small></span></li></ul>
 
 ## 편의점에서 하는 일
 
@@ -19,13 +19,20 @@ updated: 2026-11-26
 
 <h2 id="find">1. 가까운 편의점, 24시간인지 확인하기</h2>
 
-주요 편의점은 **CU, GS25, 세븐일레븐, 이마트24** 네 곳이에요(위 사진). 2025년 말 네 곳을 합치면 53,266개 점포였어요. 장사가 안되는 점포를 정리하면서 1년 새 3% 가까이 줄었지만, 도시에서는 조금만 걸으면 하나는 나와요.
+주요 편의점은 **CU, GS25, 세븐일레븐, 이마트24** 네 곳이에요(위 사진). 2026년 4월 보도(CEO스코어데일리)에 따르면 2025년 말 네 곳을 합치면 53,266개 점포였어요(이 출처는 오늘 다시 열지 못해 2026년 11월 25일 확인 내용이에요). 장사가 안되는 점포를 정리하면서 1년 새 3% 가까이 줄었지만, 도시에서는 조금만 걸으면 하나는 나와요.
 
-다만 모두 24시간은 아니에요. 2025년 6월 기준 24시간 점포는 42,791곳, 전체의 약 78%예요. 나머지 다섯 곳 중 한 곳은 밤에 문을 닫거나 무인으로 바뀌어요. 새벽에 갈 거라면:
+다만 모두 24시간은 아니에요. 2025년 12월 보도(머니투데이)에 따르면 2025년 6월 기준 24시간 점포는 42,791곳, 전체의 약 78%였어요(오늘 다시 열지 못한 출처예요). 지금 숫자는 다를 수 있어요. 나머지 다섯 곳 중 한 곳은 밤에 문을 닫거나 무인으로 바뀌어요. 그래서 찾는 순서는 이래요.
 
-1. **출입문**에 적힌 영업시간을 봐요.
-2. 또는 지도 앱(예: 네이버 지도)에서 매장을 누르고 영업시간을 확인해요.
-3. CU라면 [CU 매장찾기](https://cu.bgfretail.com/store/list.do?category=store)(한국어)에서 지역이나 매장명으로 검색하고, ‘매장 유형 및 서비스’에서 **24시간**이나 **현금지급기**를 골라 찾을 수 있어요.
+1. **검색:** 지도 앱(예: 네이버 지도·카카오맵)에서 ‘편의점’이나 ‘CU’, ‘GS25’를 검색해요. 지도 앱 설치와 쓰는 법: [지도 앱 열기](/ko/seoul-subway/#map-app)
+2. **영업시간:** 가까운 매장을 눌러 영업시간을 확인해요. 새벽이라면 24시간인지 꼭 봐요.
+3. **길:** 그 매장까지 경로를 열고 걸어가요. 도착하면 **출입문**에 적힌 영업시간도 한 번 더 봐요.
+4. CU라면 [CU 매장찾기](https://cu.bgfretail.com/store/list.do?category=store)(한국어)에서 지역이나 매장명으로 검색하고, ‘매장 유형 및 서비스’에서 **24시간**이나 **현금지급기**를 골라 찾을 수 있어요.
+
+### 매장 안에서: 고르고, 계산대로
+
+1. 필요한 물건을 골라 **계산대**로 가져가요. 가격은 진열대 가격표에 있어요(1+1 같은 행사 표시도 여기에).
+2. 티머니 충전, CU 택스리펀드 같은 서비스도 계산대에서 직원에게 말해요. CU는 매장의 통합단말기로 교통카드를 충전해 줘요.
+3. 카드나 현금으로 결제해요. 결제 방법은 아래 [고르고 계산하기](#pay)에.
 
 <h2 id="tmoney">2. 티머니 사고, 현금으로 충전하기</h2>
 
@@ -64,7 +71,7 @@ updated: 2026-11-26
 
 <aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>떠나기 전에 남은 돈 돌려받기:</b> 티머니 잔액은 편의점에서 환불받을 수 있어요. 5만 원이 넘으면 서울역 10번 출구 근처 티머니타운으로 가야 해요.</span></aside>
 
-## 3. 고르고 계산하기
+<h2 id="pay">3. 고르고 계산하기</h2>
 
 ### 1+1, 2+1 읽기
 
@@ -82,7 +89,7 @@ updated: 2026-11-26
 
 편의점은 금액이 작아서 대상이 되기 어렵지만, CU는 운영점에서 24시간 즉시 환급을 해 줘요(결제 금액의 최대 7%).
 
-1. 매장에 붙은 **Tax-Refund 운영점 스티커**를 확인해요. 600곳 넘는 CU 매장에서 해 줘요.
+1. 매장에 붙은 **Tax-Refund 운영점 스티커**를 확인해요. 2025년 9월 보도 기준으로 600곳 넘는 CU 매장에서 해 줘요.
 2. 계산대에서 **택스리펀드 결제**를 해 달라고 말해요.
 3. **실물 여권**(또는 모바일 여권)을 보여 줘요. 한 번에 15,000원~999,999원이어야 해요.
 
@@ -153,7 +160,7 @@ updated: 2026-11-26
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>출처</summary>
 
-<p class="sources">2026년 11월 26일 직접 열어 확인: CU <a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(즉시환급) 안내</a>(운영점 스티커, 최대 7%, 15,000~999,999원, 제외 상품, 실물·모바일 여권)·<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">교통카드 안내</a>(전 매장 티머니 충전)·<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">현금지급기</a>·<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">공유보조배터리</a>·<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">매장찾기</a>(24시간·현금지급기 필터)·<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">행사 상품</a>(1+1·2+1, 조기 소진); 국가법령정보센터 <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">약사법</a> 제44조의2(2026년 11월 12일 시행: 20개 품목 이내, 24시간 연중무휴 점포)·<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">청소년보호법</a> 제2조(19세가 되는 해의 1월 1일); VISITKOREA <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026년 8월 갱신: 편의점 판매·충전, 3,000~5,000원, 발매기 최대 50만 원, 편의점 환불과 5만 원 초과 티머니타운); 티머니 <a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">외국인 전용 카드</a>(TMONEY TRAVEL CARD 4,000원, 편의점); 앱스토어 <a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">모바일티머니</a> 개발자 답변(Foreigner 버튼, 마스터카드·아멕스·유니온페이·JCB); 서울시 <a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025년 외국인 교통결제 개선</a>(현금 구입·충전, 안드로이드 코리아투어카드 앱)·<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026년 3월 16일 발표</a>(273개 역 440대, 기후동행카드·1회권, 3.7%); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">공항철도 충전식 티머니</a>(2026년 11월 24일)·<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU 홍대상상점 라면 매장</a>(2023년 12월 11일, 2024년 12월 23일 갱신: 900원, 조리기 3대, 2016년부터); 코리아넷 <a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">라면 라이브러리</a>(2024년 3월 20일: 약 230종, 용기·바코드·시작 버튼, 영·중·일 안내, 다섯 봉지 넘게 50% 할인).</p>
+<p class="sources">2026년 11월 26일 직접 열어 확인(cu.bgfretail.com은 오후에 접속이 허용된 뒤 열었어요): CU <a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(즉시환급) 안내</a>(운영점 스티커, 최대 7%, 15,000~999,999원, 제외 상품, 실물·모바일 여권)·<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">교통카드 안내</a>(전 매장 티머니 충전)·<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">현금지급기</a>·<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">공유보조배터리</a>·<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">매장찾기</a>(24시간·현금지급기 필터)·<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">행사 상품</a>(1+1·2+1, 조기 소진); 국가법령정보센터 <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">약사법</a> 제44조의2(2026년 11월 12일 시행: 20개 품목 이내, 24시간 연중무휴 점포)·<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">청소년보호법</a> 제2조(19세가 되는 해의 1월 1일); VISITKOREA <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026년 8월 갱신: 편의점 판매·충전, 3,000~5,000원, 발매기 최대 50만 원, 편의점 환불과 5만 원 초과 티머니타운); 티머니 <a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">외국인 전용 카드</a>(TMONEY TRAVEL CARD 4,000원, 편의점); 앱스토어 <a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">모바일티머니</a> 개발자 답변(Foreigner 버튼, 마스터카드·아멕스·유니온페이·JCB); 서울시 <a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025년 외국인 교통결제 개선</a>(현금 구입·충전, 안드로이드 코리아투어카드 앱)·<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026년 3월 16일 발표</a>(273개 역 440대, 기후동행카드·1회권, 3.7%); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">공항철도 충전식 티머니</a>(2026년 11월 24일)·<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU 홍대상상점 라면 매장</a>(2023년 12월 11일, 2024년 12월 23일 갱신: 900원, 조리기 3대, 2016년부터); 코리아넷 <a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">라면 라이브러리</a>(2024년 3월 20일: 약 230종, 용기·바코드·시작 버튼, 영·중·일 안내, 다섯 봉지 넘게 50% 할인).</p>
 
 <p class="sources">이번에 다시 열지 못해(확인 도구에서 접속이 막힘) 2026년 11월 25일 확인 내용을 유지한 것: CEO스코어데일리(점포 수, 2026년 4월 7일); 머니투데이(24시간 점포 수, 2025년 12월 21일); 아주경제(겨울 매출, 2026년 1월 22일); 아시아경제(CU 라면 특화 매장, 2025년 4월 22일; 월별 행사, 2025년 1월 12일); sidae.com(1+1 개당 가격, 2025년 3월 26일); SBS Biz(티머니 충전 수단, 2026년 3월 19일); 코리아타임스(티머니 원화 충전, 2025년 4월 23일); <a href="https://www.cr.mufg.jp/mycard/beginner/22103/index.html" rel="noopener" target="_blank">MUFG카드 한국 안내</a>(2025년 12월 9일 갱신); 세계일보(결제, 2026년 6월 26일; 환전기와 통역, 2026년 7월 1일); <a href="https://paypay.ne.jp/overseas/korea/" rel="noopener" target="_blank">페이페이 한국 가맹점</a>; 더팩트(CU 즉시 환급 600곳과 세븐일레븐 환전기, 2025년 9월 23일). GS25 공식 사이트는 이번에도 열리지 않았어요.</p>
 

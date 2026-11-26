@@ -75,3 +75,7 @@ Photos found (Commons): Daiso Wonju Dangu/Hoengseong CC0 (Choi Kwang-mo, Matthie
 - daiso: street map Myeongdong Station exits 1/4 → store; photos of self-checkout and a staffed till; newer Seoul-branch photos.
 - convenience-store: licensed photos of counter top-up, 1+1 shelf tag, ramyeon machine, hot-pack shelf; map to CU Hongdae Sangsang; re-open blocked news sources when hosts are allowed.
 - kbeauty (4 langs): airport.kr sub-page links replaced by the main page + path in text (follows commit a586a11 policy), after the coordinator's WIP commit ca28414.
+
+## Review fixes (independent review, 2026-11-26)
+- convenience-store (4 langs): store count and 24h share now say in visible text "as reported (source, date), could not reopen today; may differ"; "600+ CU stores" now "as of a September 2025 report"; source line states cu.bgfretail.com was opened after access was allowed; new "find a store" steps (search in map app → hours → route → door) linking /<lang>/seoul-subway/#map-app; new "inside: pick → counter → pay" steps; h2 id="pay".
+- daiso (4 langs): Myeongdong Station route = exits 1/4 + search store name in map app + link to #map-app. No sourced walking route found (store search, VisitKorea store page give address only) → route photo/map logged in improvements-shopA.md.

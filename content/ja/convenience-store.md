@@ -9,7 +9,7 @@ updated: 2026-11-26
 
 <ul class="tr-colours"><li><img src="/static/photo/cvs-cu-front.webp" alt="CUの店の正面:紫のCUの文字と黄緑の帯の看板"><b>CU</b><span class="t">紫の文字、黄緑の帯。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:CU_Namdaemun-ro-5ga_branch_20181122_072838.jpg" rel="noopener" target="_blank">LERK</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>(切り抜き)</span></li><li><img src="/static/photo/cvs-gs25-front.webp" alt="GS25の店の正面:黒地に白いGSと水色の25"><b>GS25</b><span class="t">白い「GS」と水色の「25」。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:GS25_Okcheon_Museong_Branch_20240730.jpg" rel="noopener" target="_blank">LandAndTree</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>(切り抜き)</span></li><li><img src="/static/photo/cvs-7eleven-front.webp" alt="オレンジ・緑・赤のストライプのセブン-イレブン"><b>セブン-イレブン</b><span class="t">オレンジ・緑・赤のストライプと7。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg" rel="noopener" target="_blank">LERK</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>(切り抜き)</span></li><li><img src="/static/photo/cvs-emart24-front.webp" alt="黄色いemart24の看板の店の正面"><b>emart24</b><span class="t">黄色い「emart24」の文字。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:E-mart_24_Okcheon_Mir_Branch_20240731.jpg" rel="noopener" target="_blank">LandAndTree</a>、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>(切り抜き)</span></li></ul>
 
-<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>大手4チェーン<small>2025年末で計53,266店</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>24時間は約78%<small>深夜は営業時間を確認</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>T-moneyは現金でチャージ<small>レジで、ウォンで</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>お酒・たばこ<small>2026年は2007年以前生まれ</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>大手4チェーン<small>2025年末で53,266店(報道ベース)</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>24時間は約78%<small>深夜は営業時間を確認</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>T-moneyは現金でチャージ<small>レジで、ウォンで</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>お酒・たばこ<small>2026年は2007年以前生まれ</small></span></li></ul>
 
 ## コンビニでできること
 
@@ -19,13 +19,20 @@ updated: 2026-11-26
 
 <h2 id="find">1. 近くのコンビニを探し、24時間か確かめる</h2>
 
-大手は**CU、GS25、セブン-イレブン、emart24**の4つ(上の写真)。2025年末で4社合わせて53,266店でした。不採算店の整理で1年に3%近く減りましたが、都市なら少し歩けば必ず1軒あります。
+大手は**CU、GS25、セブン-イレブン、emart24**の4つ(上の写真)。2026年4月の報道(CEOスコアデイリー)によると、2025年末で4社合わせて53,266店でした(この出典は今日再確認できず、2026年11月25日の確認内容です)。不採算店の整理で1年に3%近く減りましたが、都市なら少し歩けば必ず1軒あります。
 
-ただし全部が24時間ではありません。2025年6月時点で24時間営業は42,791店、全体の約78%。残りの5軒に1軒は夜に閉まるか無人になります。深夜に行くなら:
+ただし全部が24時間ではありません。2025年12月の報道(マネートゥデイ、今日は再確認できず)によると、2025年6月時点で24時間営業は42,791店、全体の約78%でした。今の数字は違うかもしれません。残りの5軒に1軒は夜に閉まるか無人になります。探し方はこうです。
 
-1. **入口のドア**に書かれた営業時間を見ます。
-2. または地図アプリ(例:NAVER Map)で店を押して営業時間を確認します。
-3. CUなら[CU店舗検索](https://cu.bgfretail.com/store/list.do?category=store)(韓国語)で地域か店名で検索し、「매장 유형 및 서비스」で**24시간**(24時間)や**현금지급기**(ATM)を選べます。
+1. **検索:** 地図アプリ(例:NAVER Map・カカオマップ)で「편의점」(コンビニ)や「CU」「GS25」を検索します。地図アプリの入れ方・使い方:[地図アプリを開く](/ja/seoul-subway/#map-app)
+2. **営業時間:** 近くの店を押して営業時間を確認します。深夜なら24時間か必ず見ます。
+3. **道順:** その店までの経路を開いて歩きます。着いたら**入口のドア**の営業時間ももう一度見ます。
+4. CUなら[CU店舗検索](https://cu.bgfretail.com/store/list.do?category=store)(韓国語)で地域か店名で検索し、「매장 유형 및 서비스」で**24시간**(24時間)や**현금지급기**(ATM)を選べます。
+
+### 店の中で:選んで、レジへ
+
+1. 必要な物を選んで**レジ**へ持って行きます。値段は棚の値札に(1+1などの表示もここ)。
+2. T-moneyのチャージやCUの免税などのサービスもレジでスタッフに頼みます。CUは店の統合端末で交通カードをチャージします。
+3. カードか現金で払います。支払い方法は下の[選んで支払う](#pay)へ。
 
 <h2 id="tmoney">2. T-moneyを買って、現金でチャージ</h2>
 
@@ -64,7 +71,7 @@ T-moneyは地下鉄・バスに乗るチャージ式交通カード。GS25、CU�
 
 <aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>帰る前に残高を戻す:</b> T-moneyの残高はコンビニで払い戻せます。5万ウォンを超える場合はソウル駅10番出口近くのT-money Townへ。</span></aside>
 
-## 3. 選んで支払う
+<h2 id="pay">3. 選んで支払う</h2>
 
 ### 1+1、2+1の読み方
 
@@ -82,7 +89,7 @@ T-moneyは地下鉄・バスに乗るチャージ式交通カード。GS25、CU�
 
 コンビニは金額が小さくて対象になりにくいのですが、CUは対象店で24時間、即時還付をしています(支払額の最大7%)。
 
-1. 店に貼られた**Tax-Refund運営店ステッカー**を確認します。600店以上のCUで受けられます。
+1. 店に貼られた**Tax-Refund運営店ステッカー**を確認します。2025年9月の報道時点で600店以上のCUで受けられます。
 2. レジで**택스리펀 결제**(タックスリファンドで支払い)を頼みます。
 3. **パスポート原本**(またはモバイルパスポート)を見せます。1回15,000〜999,999ウォンが対象です。
 
@@ -153,7 +160,7 @@ T-moneyは地下鉄・バスに乗るチャージ式交通カード。GS25、CU�
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典</summary>
 
-<p class="sources">2026年11月26日に開いて確認:CU<a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(即時還付)案内</a>(運営店ステッカー、最大7%、15,000〜999,999ウォン、対象外商品、パスポート原本・モバイルパスポート)・<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">交通カード案内</a>(全店でT-moneyチャージ)・<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">ATM</a>・<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">モバイルバッテリーレンタル</a>・<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">店舗検索</a>(24時間・ATMの絞り込み)・<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">イベント商品</a>(1+1・2+1、早期売り切れ);国家法令情報センター<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">薬事法</a>第44条の2(2026年11月12日施行:20品目以内、24時間年中無休の店)・<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">青少年保護法</a>第2条(19歳になる年の1月1日);VISITKOREA<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026年8月更新:コンビニで販売・チャージ、3,000〜5,000ウォン、券売機で最大50万ウォン、コンビニでの払い戻しと5万ウォン超はT-money Town);T-money<a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">外国人専用カード</a>(TMONEY TRAVEL CARD 4,000ウォン、コンビニ);App Store<a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">モバイルT-money</a>の開発者返信(Foreignerボタン、Mastercard・アメックス・銀聯・JCB);ソウル市<a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025年 外国人の交通決済改善</a>(現金での購入・チャージ、Androidのコリアツアーカードアプリ)・<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026年3月16日発表</a>(273駅440台、気候同行カード・1回券、3.7%);コリア・ヘラルド<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のチャージ済みT-money</a>(2026年11月24日)・<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU弘大サンサン店のラーメン店</a>(2023年12月11日、2024年12月23日更新:900ウォン、調理機3台、2016年から);コリアネット<a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">ラーメン図書館</a>(2024年3月20日:約230種、容器・バーコード・スタートボタン、英中日の案内、5袋超で50%引き)。</p>
+<p class="sources">2026年11月26日に開いて確認(cu.bgfretail.comは午後に接続が許可されてから開きました):CU<a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(即時還付)案内</a>(運営店ステッカー、最大7%、15,000〜999,999ウォン、対象外商品、パスポート原本・モバイルパスポート)・<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">交通カード案内</a>(全店でT-moneyチャージ)・<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">ATM</a>・<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">モバイルバッテリーレンタル</a>・<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">店舗検索</a>(24時間・ATMの絞り込み)・<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">イベント商品</a>(1+1・2+1、早期売り切れ);国家法令情報センター<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">薬事法</a>第44条の2(2026年11月12日施行:20品目以内、24時間年中無休の店)・<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">青少年保護法</a>第2条(19歳になる年の1月1日);VISITKOREA<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026年8月更新:コンビニで販売・チャージ、3,000〜5,000ウォン、券売機で最大50万ウォン、コンビニでの払い戻しと5万ウォン超はT-money Town);T-money<a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">外国人専用カード</a>(TMONEY TRAVEL CARD 4,000ウォン、コンビニ);App Store<a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">モバイルT-money</a>の開発者返信(Foreignerボタン、Mastercard・アメックス・銀聯・JCB);ソウル市<a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025年 外国人の交通決済改善</a>(現金での購入・チャージ、Androidのコリアツアーカードアプリ)・<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026年3月16日発表</a>(273駅440台、気候同行カード・1回券、3.7%);コリア・ヘラルド<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のチャージ済みT-money</a>(2026年11月24日)・<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU弘大サンサン店のラーメン店</a>(2023年12月11日、2024年12月23日更新:900ウォン、調理機3台、2016年から);コリアネット<a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">ラーメン図書館</a>(2024年3月20日:約230種、容器・バーコード・スタートボタン、英中日の案内、5袋超で50%引き)。</p>
 
 <p class="sources">今回は再確認できず(確認ツールから接続がブロック)、2026年11月25日の確認内容を維持:CEOスコアデイリー(店舗数、2026年4月7日);マネートゥデイ(24時間営業店数、2025年12月21日);亜洲経済(冬の売上、2026年1月22日);アジア経済(CUのラーメン特化店、2025年4月22日;月替わりの行事、2025年1月12日);sidae.com(1+1の単価、2025年3月26日);SBS Biz(T-moneyのチャージ方法、2026年3月19日);コリア・タイムズ(T-moneyはウォンでチャージ、2025年4月23日);<a href="https://www.cr.mufg.jp/mycard/beginner/22103/index.html" rel="noopener" target="_blank">MUFGカード韓国ガイド</a>(2025年12月9日更新);世界日報(決済、2026年6月26日;両替機と通訳、2026年7月1日);<a href="https://paypay.ne.jp/overseas/korea/" rel="noopener" target="_blank">PayPay韓国の対応店</a>;The Fact(CUの免税600店以上とセブン-イレブンの両替機、2025年9月23日)。GS25の公式サイトは今回も開けませんでした。</p>
 

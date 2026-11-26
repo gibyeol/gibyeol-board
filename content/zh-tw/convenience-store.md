@@ -9,7 +9,7 @@ updated: 2026-11-26
 
 <ul class="tr-colours"><li><img src="/static/photo/cvs-cu-front.webp" alt="CU 店門口:紫色 CU 字樣和淺綠色色帶招牌"><b>CU</b><span class="t">紫色字、淺綠色色帶。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:CU_Namdaemun-ro-5ga_branch_20181122_072838.jpg" rel="noopener" target="_blank">LERK</a>,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>(裁切)</span></li><li><img src="/static/photo/cvs-gs25-front.webp" alt="GS25 店門口:深色底白色 GS 和淺藍色 25"><b>GS25</b><span class="t">白色「GS」、淺藍色「25」。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:GS25_Okcheon_Museong_Branch_20240730.jpg" rel="noopener" target="_blank">LandAndTree</a>,<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>(裁切)</span></li><li><img src="/static/photo/cvs-7eleven-front.webp" alt="橘綠紅條紋的 7-ELEVEN"><b>7-ELEVEN</b><span class="t">橘・綠・紅條紋和 7。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:7-Eleven_Muan-international-airport_store_20190520_181056.jpg" rel="noopener" target="_blank">LERK</a>,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>(裁切)</span></li><li><img src="/static/photo/cvs-emart24-front.webp" alt="黃色 emart24 招牌的店門口"><b>emart24</b><span class="t">黃色「emart24」字樣。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:E-mart_24_Okcheon_Mir_Branch_20240731.jpg" rel="noopener" target="_blank">LandAndTree</a>,<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>(裁切)</span></li></ul>
 
-<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>四大超商<small>2025 年底合計 53,266 家</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>約 78% 才是 24 小時<small>深夜先確認營業時間</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>T-money 用現金儲值<small>在櫃台,用韓元</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>菸酒<small>2026 年:2007 年以前出生</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-store" aria-hidden="true"></i><span>四大超商<small>2025 年底 53,266 家(依報導)</small></span></li><li><i class="ic ic-moon" aria-hidden="true"></i><span>約 78% 才是 24 小時<small>深夜先確認營業時間</small></span></li><li><i class="ic ic-banknote" aria-hidden="true"></i><span>T-money 用現金儲值<small>在櫃台,用韓元</small></span></li><li><i class="ic ic-id-card" aria-hidden="true"></i><span>菸酒<small>2026 年:2007 年以前出生</small></span></li></ul>
 
 ## 在超商做什麼
 
@@ -19,13 +19,20 @@ updated: 2026-11-26
 
 <h2 id="find">1. 找附近的超商,確認是不是 24 小時</h2>
 
-四大超商是 **CU、GS25、7-ELEVEN、emart24**(上面照片)。2025 年底四家合計 53,266 家店。因為收掉經營不善的店,一年內減少近 3%,但在城市裡走一下就會遇到一家。
+四大超商是 **CU、GS25、7-ELEVEN、emart24**(上面照片)。據 2026 年 4 月報導(CEO Score Daily),2025 年底四家合計 53,266 家店(這個來源今天無法重新開啟,是 2026 年 11 月 25 日查證的內容)。因為收掉經營不善的店,一年內減少近 3%,但在城市裡走一下就會遇到一家。
 
-不過不是每家都 24 小時。2025 年 6 月,24 小時營業的店有 42,791 家,約占 78%。剩下每五家就有一家晚上關門或轉為無人店。深夜要去的話:
+不過不是每家都 24 小時。據 2025 年 12 月報導(Money Today,今天無法重新開啟),2025 年 6 月 24 小時營業的店有 42,791 家,約占 78%。現在的數字可能不同。剩下每五家就有一家晚上關門或轉為無人店。找店的順序是這樣:
 
-1. 看**店門**上寫的營業時間。
-2. 或在地圖 App(例:NAVER Map)點店家確認營業時間。
-3. CU 可以用 [CU 門市搜尋](https://cu.bgfretail.com/store/list.do?category=store)(韓文),依地區或店名搜尋,在「매장 유형 및 서비스」勾選 **24시간**(24 小時)或 **현금지급기**(ATM)。
+1. **搜尋:** 在地圖 App(例:NAVER Map、KakaoMap)搜尋「편의점」(超商)或「CU」「GS25」。地圖 App 的安裝與使用:[打開地圖 App](/zh-tw/seoul-subway/#map-app)
+2. **營業時間:** 點附近的店確認營業時間。深夜一定要看是不是 24 小時。
+3. **路線:** 打開到那家店的路線走過去。到了再看一次**店門**上的營業時間。
+4. CU 可以用 [CU 門市搜尋](https://cu.bgfretail.com/store/list.do?category=store)(韓文),依地區或店名搜尋,在「매장 유형 및 서비스」勾選 **24시간**(24 小時)或 **현금지급기**(ATM)。
+
+### 在店裡:挑好,拿到櫃台
+
+1. 把需要的東西拿到**櫃台**。價格在貨架的價格標籤上(1+1 等優惠標示也在這裡)。
+2. T-money 儲值、CU 退稅等服務也在櫃台跟店員說。CU 用店裡的整合終端機幫你儲值交通卡。
+3. 用卡片或現金付款。付款方式看下面的[挑選與結帳](#pay)。
 
 <h2 id="tmoney">2. 買 T-money,用現金儲值</h2>
 
@@ -64,7 +71,7 @@ T-money 是搭地鐵・公車的儲值交通卡。GS25、CU、7-ELEVEN 等全國
 
 <aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>回國前把餘額退回來:</b> T-money 餘額可在超商退款。超過 5 萬韓元要到首爾站 10 號出口附近的 T-money Town。</span></aside>
 
-## 3. 挑選與結帳
+<h2 id="pay">3. 挑選與結帳</h2>
 
 ### 看懂 1+1、2+1
 
@@ -82,7 +89,7 @@ T-money 是搭地鐵・公車的儲值交通卡。GS25、CU、7-ELEVEN 等全國
 
 超商金額小,通常不夠退稅門檻,但 CU 在有提供服務的門市 24 小時即時退稅(最多付款金額的 7%)。
 
-1. 確認店裡貼的 **Tax-Refund 服務店貼紙**。600 家以上 CU 門市提供。
+1. 確認店裡貼的 **Tax-Refund 服務店貼紙**。依 2025 年 9 月報導,600 家以上 CU 門市提供。
 2. 在櫃台說要**退稅結帳**(택스리펀 결제)。
 3. 出示**護照正本**(或行動護照)。一次 15,000~999,999 韓元才適用。
 
@@ -153,7 +160,7 @@ T-money 是搭地鐵・公車的儲值交通卡。GS25、CU、7-ELEVEN 等全國
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>資料來源</summary>
 
-<p class="sources">2026 年 11 月 26 日開啟確認:CU <a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(即時退稅)說明</a>(服務店貼紙、最多 7%、15,000~999,999 韓元、不適用商品、護照正本或行動護照)・<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">交通卡說明</a>(全門市 T-money 儲值)・<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">ATM</a>・<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">行動電源租借</a>・<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">門市搜尋</a>(24 小時・ATM 篩選)・<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">優惠商品</a>(1+1・2+1、提早賣完);國家法令資訊中心<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">藥事法</a>第 44 條之 2(2026 年 11 月 12 日施行:20 項以內、24 小時全年無休店)・<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">青少年保護法</a>第 2 條(滿 19 歲那年 1 月 1 日);VISITKOREA <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026 年 8 月更新:超商販售與儲值、3,000~5,000 韓元、售票機最多 50 萬韓元、超商退款與超過 5 萬韓元到 T-money Town);T-money <a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">外國人專用卡</a>(TMONEY TRAVEL CARD 4,000 韓元、超商);App Store <a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">行動 T-money</a> 開發者回覆(Foreigner 按鈕;Mastercard、Amex、銀聯、JCB);首爾市<a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025 年外國人交通付款改善</a>(現金購卡・儲值、Android 的 Korea Tour Card App)・<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026 年 3 月 16 日公告</a>(273 站 440 台、氣候同行卡・單程票、3.7%);韓國先驅報<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場快線預儲值 T-money</a>(2026 年 11 月 24 日)・<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU 弘大想像店泡麵店</a>(2023 年 12 月 11 日,2024 年 12 月 23 日更新:900 韓元、3 台煮麵機、2016 年起);Korea.net <a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">泡麵圖書館</a>(2024 年 3 月 20 日:約 230 種;容器・條碼・開始按鈕;英中日說明;超過 5 包打 5 折)。</p>
+<p class="sources">2026 年 11 月 26 日開啟確認(cu.bgfretail.com 在下午允許連線後開啟):CU <a href="https://cu.bgfretail.com/service/tax_info.do?category=service&amp;depth3=19" rel="noopener" target="_blank">Tax-Refund(即時退稅)說明</a>(服務店貼紙、最多 7%、15,000~999,999 韓元、不適用商品、護照正本或行動護照)・<a href="https://cu.bgfretail.com/service/traffic_info.do?category=service&amp;depth3=3" rel="noopener" target="_blank">交通卡說明</a>(全門市 T-money 儲值)・<a href="https://cu.bgfretail.com/service/ticket_info.do?category=service&amp;depth3=2" rel="noopener" target="_blank">ATM</a>・<a href="https://cu.bgfretail.com/service/frugal_info.do?category=service&amp;depth3=9" rel="noopener" target="_blank">行動電源租借</a>・<a href="https://cu.bgfretail.com/store/list.do?category=store" rel="noopener" target="_blank">門市搜尋</a>(24 小時・ATM 篩選)・<a href="https://cu.bgfretail.com/event/plus.do" rel="noopener" target="_blank">優惠商品</a>(1+1・2+1、提早賣完);國家法令資訊中心<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%95%BD%EC%82%AC%EB%B2%95" rel="noopener" target="_blank">藥事法</a>第 44 條之 2(2026 年 11 月 12 日施行:20 項以內、24 小時全年無休店)・<a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%B2%AD%EC%86%8C%EB%85%84%EB%B3%B4%ED%98%B8%EB%B2%95" rel="noopener" target="_blank">青少年保護法</a>第 2 條(滿 19 歲那年 1 月 1 日);VISITKOREA <a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663" rel="noopener" target="_blank">Transportation Cards</a>(2026 年 8 月更新:超商販售與儲值、3,000~5,000 韓元、售票機最多 50 萬韓元、超商退款與超過 5 萬韓元到 T-money Town);T-money <a href="https://www.tmoney.co.kr/aeb/biz/bridge/foreignTravel.dev" rel="noopener" target="_blank">外國人專用卡</a>(TMONEY TRAVEL CARD 4,000 韓元、超商);App Store <a href="https://apps.apple.com/us/app/-/id1470361790" rel="noopener" target="_blank">行動 T-money</a> 開發者回覆(Foreigner 按鈕;Mastercard、Amex、銀聯、JCB);首爾市<a href="https://news.seoul.go.kr/traffic/archives/515573" rel="noopener" target="_blank">2025 年外國人交通付款改善</a>(現金購卡・儲值、Android 的 Korea Tour Card App)・<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">2026 年 3 月 16 日公告</a>(273 站 440 台、氣候同行卡・單程票、3.7%);韓國先驅報<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場快線預儲值 T-money</a>(2026 年 11 月 24 日)・<a href="https://www.koreaherald.com/article/3279412" rel="noopener" target="_blank">CU 弘大想像店泡麵店</a>(2023 年 12 月 11 日,2024 年 12 月 23 日更新:900 韓元、3 台煮麵機、2016 年起);Korea.net <a href="https://www.korea.net/NewsFocus/FoodTravel/view?articleId=249125" rel="noopener" target="_blank">泡麵圖書館</a>(2024 年 3 月 20 日:約 230 種;容器・條碼・開始按鈕;英中日說明;超過 5 包打 5 折)。</p>
 
 <p class="sources">本次未能重新開啟(查證工具連線被擋),沿用 2026 年 11 月 25 日查證內容:CEO Score Daily(店數,2026 年 4 月 7 日);Money Today(24 小時店數,2025 年 12 月 21 日);亞洲經濟 Aju(冬季銷售,2026 年 1 月 22 日);Asia Economy(CU 泡麵主題店,2025 年 4 月 22 日;每月優惠,2025 年 1 月 12 日);sidae.com(1+1 單價,2025 年 3 月 26 日);SBS Biz(T-money 儲值方式,2026 年 3 月 19 日);Korea Times(T-money 以韓元儲值,2025 年 4 月 23 日);<a href="https://www.cr.mufg.jp/mycard/beginner/22103/index.html" rel="noopener" target="_blank">MUFG 卡韓國指南</a>(2025 年 12 月 9 日更新);世界日報(付款,2026 年 6 月 26 日;換匯機、口譯與 LINE Pay,2026 年 7 月 1 日);<a href="https://paypay.ne.jp/overseas/korea/" rel="noopener" target="_blank">PayPay 韓國特約店</a>;The Fact(CU 退稅 600 家以上與 7-ELEVEN 換匯機,2025 年 9 月 23 日)。GS25 官方網站這次也打不開。</p>
 
