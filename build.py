@@ -291,7 +291,7 @@ def guides_index(lang, only=None):
         if not items:
             continue
         lis = "".join(f'<li><a href="{pre}/{s}/">{inline(m.get("title", s))}</a><p>{inline(m.get("description", ""))}</p></li>' for s, m in items)
-        out.append(f'<section class="az"><h2>{label[lang]}</h2><ol>{lis}</ol></section>')
+        out.append(f'<section class="az"><h3>{label[lang]}</h3><ol>{lis}</ol></section>')
     return "".join(out)
 
 # ---------- home components (v7 design: numbers lead, a seal marks what we checked) ----------
@@ -476,7 +476,8 @@ def page(lang, meta, body_html, path, alternates):
         key = "byline" if meta.get("approved") and meta["approved"] >= meta["updated"] else "byline_pending"
         byline = f'<p class="byline">{ui[key].format(date=meta["updated"])}</p>'
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
-    header_block = "" if meta.get("home") else f"<header class=\"page-head\"><h1>{inline(title)}</h1>{lede}{byline}</header>"
+    crumb = (f'<p class="crumb"><a href="{L["prefix"]}/guides/">{ui["crumb_guides"]}</a> › <a href="{L["prefix"]}/guides/">{ui["crumb_country"]}</a></p>' if meta.get("section") else "")
+    header_block = "" if meta.get("home") else f"<header class=\"page-head\">{crumb}<h1>{inline(title)}</h1>{lede}{byline}</header>"
     return f"""<!doctype html>
 <html lang="{L['hreflang']}">
 <head>
@@ -496,8 +497,7 @@ def page(lang, meta, body_html, path, alternates):
   <div class="wrap">
     {dateline(lang)}
     <div class="brand-row">
-      <a class="brand" href="{L['prefix']}/" aria-label="Nadri home"><img src="/static/nadri-mark-light.svg" alt="" width="44" height="44"><{'h1' if meta.get('home') else 'span'} class="wordmark">Nadri</{'h1' if meta.get('home') else 'span'}></a>
-      {('<p class="tagline">' + html.escape(ui['tagline']) + '</p>') if meta.get('home') else ''}
+      <a class="brand" href="{L['prefix']}/" aria-label="Nadri home"><img src="/static/nadri-mark-light.svg" alt="" width="44" height="44"><{'h1' if meta.get('home') else 'span'} class="wordmark">Nadri</{'h1' if meta.get('home') else 'span'}></a><span class="catch">{html.escape(ui['catch'])}</span>
     </div>
     <div class="nav-row">
       <nav class="main-nav" aria-label="{ui['nav_label']}">{nav}</nav>
