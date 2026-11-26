@@ -27,8 +27,11 @@ def edit(lang,n):
         top=max(0,merged[0][0]-PAD); bot=min(im.height,merged[-1][1]+PAD)
         out=out.crop((0,top,im.width,bot))
     return out
-for lang in ('en','ko'):
-    os.makedirs(f'{R}/{lang}',exist_ok=True)
+import sys
+LANGS=sys.argv[1:] or ['en','ko']
+OUTN={'jp':'ja','ch':'zh-tw'}
+for lang in LANGS:
+    os.makedirs(f'{R}/{OUTN.get(lang,lang)}',exist_ok=True)
     shots={n:edit(lang,n) for n in (1,2,5,6,7,8,9,10,11,12)}
     a,b=edit(lang,'4a'),edit(lang,'4b'); gap=44
     m=Image.new('RGB',(a.width,a.height+gap+b.height),'white'); m.paste(a,(0,0)); m.paste(b,(0,a.height+gap))
@@ -37,5 +40,5 @@ for lang in ('en','ko'):
     shots[4]=m
     for n,im in shots.items():
         if im.width>780: im=im.resize((780,round(im.height*780/im.width)))
-        out=f'{R}/{lang}/e-arrival-card-shot-{n}.webp'; im.save(out,'WEBP',quality=80,method=6)
+        out=f'{R}/{OUTN.get(lang,lang)}/e-arrival-card-shot-{n}.webp'; im.save(out,'WEBP',quality=80,method=6)
         print(lang,n,im.size,os.path.getsize(out)//1024,'KB')

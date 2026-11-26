@@ -56,8 +56,8 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
     }
     if (want(2)) {
       await p.evaluate(()=>scrollTo(0,0));
-      const a = await markText(p,'(Official Website|공식 전자정부)',1,{outL:true});
-      const d = await markText(p,'(No fee required|수수료)[\\s\\S]*NOV[\\s\\S]*NOV[\\s\\S]*NOV',2);
+      const a = await markText(p,'(Official Website|공식 전자정부|官方电子政府|電子政府|公式)',1,{outL:true});
+      const d = await markText(p,'(No fee required|수수료|无手续费|手数料)[\\s\\S]*NOV[\\s\\S]*NOV[\\s\\S]*NOV',2);
       const s = await markSel(p,'#btnApplyP',3);
       await clipShot(p,'shot-2',0,s[3]+40);
       await p.evaluate(()=>{document.querySelectorAll('.__bd').forEach(x=>x.remove());document.querySelectorAll('.__bx').forEach(x=>x.remove());});
@@ -114,14 +114,14 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
   await pickSel('select.btd_year',{text:'1990'}); await pickSel('select.btd_month',{after:'00'}); await pickSel('select.btd_day',{text:'01'});
   try { await V('.info_nat').click(); await p.waitForTimeout(500); await V('.info-nat-options p[data-natenchr3poscd="USA"]').click(); } catch(e){ console.log('nat fail', e.message.slice(0,80)); }
   await V('input[name=ps_no]').fill('M00000000');
-  const sexSel = await p.locator('select').filter({visible:true}).filter({hasText:/Male|남/}).first().elementHandle();
+  const sexSel = await p.locator('select').filter({visible:true}).filter({hasText:/Male|남|男/}).first().elementHandle();
   await sexSel.evaluate(s=>{s.selectedIndex=2; s.dispatchEvent(new Event('change',{bubbles:true}));});
   const tdOf = async (sel) => (await V(sel).elementHandle()).evaluateHandle(e=>e.closest('td')||e.parentElement);
   // expiry selects: those after sex
-  await p.evaluate(()=>{ const ss=[...document.querySelectorAll('select')].filter(s=>s.getBoundingClientRect().height>0); const i=ss.findIndex(s=>/Male|남/.test(s.innerText)); const [y,m,d]=ss.slice(i+1,i+4);
+  await p.evaluate(()=>{ const ss=[...document.querySelectorAll('select')].filter(s=>s.getBoundingClientRect().height>0); const i=ss.findIndex(s=>/Male|남|男/.test(s.innerText)); const [y,m,d]=ss.slice(i+1,i+4);
      const set=(s,k)=>{s.selectedIndex=k; s.dispatchEvent(new Event('change',{bubbles:true}));}; const yi=[...y.options].findIndex(o=>o.text.trim()==='2034'); set(y,yi>0?yi:5); set(m,12); });
   await p.waitForTimeout(300);
-  await p.evaluate(()=>{ const ss=[...document.querySelectorAll('select')].filter(s=>s.getBoundingClientRect().height>0); const i=ss.findIndex(s=>/Male|남/.test(s.innerText)); const d=ss[i+3]; d.selectedIndex=d.options.length-1; d.dispatchEvent(new Event('change',{bubbles:true}));});
+  await p.evaluate(()=>{ const ss=[...document.querySelectorAll('select')].filter(s=>s.getBoundingClientRect().height>0); const i=ss.findIndex(s=>/Male|남|男/.test(s.innerText)); const d=ss[i+3]; d.selectedIndex=d.options.length-1; d.dispatchEvent(new Event('change',{bubbles:true}));});
   if (want(6)) {
     const r=[];
     r.push(await mark(p, await V('input[name=ps_fmnm]').elementHandle(),1));
@@ -152,14 +152,14 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
     await clipShot(p,'shot-7',hdr-10,r6[3]+80);
   }
   // purpose, stay, job
-  await pickSel('select:has(option:has-text("Tourism")), select:has(option:has-text("관광"))',{idx:1}).catch(e=>console.log('purpose',e.message.slice(0,80)));
+  await pickSel('select:has(option:has-text("Tourism")), select:has(option:has-text("관광")), select:has(option:has-text("観光")), select:has(option:has-text("旅游"))',{idx:1}).catch(e=>console.log('purpose',e.message.slice(0,80)));
   await p.locator('input[name=appl_addr_gbcd_applyNo01]').filter({visible:true}).first().check({force:true}); await p.waitForTimeout(600);
-  const jobSel = 'select:has(option:has-text("Office worker")), select:has(option:has-text("회사원"))';
+  const jobSel = 'select:has(option:has-text("Office worker")), select:has(option:has-text("회사원")), select:has(option:has-text("会社員")), select:has(option:has-text("上班族"))';
   await pickSel(jobSel,{idx:1}).catch(e=>console.log('job',e.message.slice(0,80)));
   if (want(8)) {
     await p.evaluate(INJ);
     const r=[];
-    const purp = await p.locator('select:has(option:has-text("Tourism")), select:has(option:has-text("관광"))').filter({visible:true}).first().elementHandle();
+    const purp = await p.locator('select:has(option:has-text("Tourism")), select:has(option:has-text("관광")), select:has(option:has-text("観光")), select:has(option:has-text("旅游"))').filter({visible:true}).first().elementHandle();
     r.push(await mark(p, purp,1));
     r.push(await mark(p, await V('#visa_no01').evaluateHandle(e=>{let c=e.parentElement; while(c.parentElement && !c.querySelector('button')) c=c.parentElement; return c;}),2));
     const radio = await p.locator('input[name=appl_addr_gbcd_applyNo01]').filter({visible:true}).first().elementHandle();
@@ -182,7 +182,7 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
   if (want(11)) {
     await p.evaluate(()=>scrollTo(0,0));
     await p.evaluate(INJ);
-    const add = await p.locator('button:has-text("Add declarant"), button:has-text("신고인 추가"), button:has-text("추가")').filter({visible:true}).first().elementHandle();
+    const add = await p.locator('button:has-text("Add declarant"), button:has-text("申告者を追加"), button:has-text("添加申报人"), button:has-text("신고인 추가"), button:has-text("추가")').filter({visible:true}).first().elementHandle();
     const r1 = await mark(p, add, 1);
     await clipShot(p,'shot-11',140,r1[3]+80);
     await p.evaluate(()=>{document.querySelectorAll('.__bd').forEach(x=>x.remove());document.querySelectorAll('.__bx').forEach(x=>x.remove());});
@@ -194,7 +194,7 @@ const box = (...r)=>{r=r.filter(Boolean); return [Math.min(...r.map(a=>a[1])), M
     const spans = await btn.evaluate(e=>[...e.querySelectorAll('span,em')].map(s=>s.innerText));
     console.log('spans',spans);
     // click the ENG half for EN page, KOR half for KO page
-    await p.setViewportSize({width:390,height:1200}); await p.waitForTimeout(300); const bb = await btn.boundingBox(); await btn.click({position:{x:(loc==='EN'? bb.width*0.75 : bb.width*0.25), y:bb.height/2}});
+    await p.setViewportSize({width:390,height:1200}); await p.waitForTimeout(300); const bb = await btn.boundingBox(); await btn.click({position:{x:(loc!=='KO'? bb.width*0.75 : bb.width*0.25), y:bb.height/2}});
     await p.waitForTimeout(1500);
     await V('#keywordAddr').fill('08013'); await V('#btnSearchAddr').click(); await p.waitForTimeout(2500); await L.ready(p).catch(()=>{});
     const k = await markSel(p,'#keywordAddr',8,{fixed:true},'div');
