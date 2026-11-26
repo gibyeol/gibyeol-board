@@ -7,6 +7,8 @@
   "buys": "주로 사는 것 — 출처가 말한 것만",
   "brands": "출처가 쓴 분류 그대로 + 브랜드 + 출처 있는 이유 한 줄",
   "certainty": "확실=회사·기관 공식 발표 또는 원두 휴대폰 화면 / 경향=언론 보도 수치",
+  "search_interest": "검색량 증가 — 구매가 아니라 관심. 주로 사는 것과 섞지 않음",
+  "context": "할인 품목·참여 브랜드 같은 참고 사실 — 구매 자료 아님",
   "unverified_leads": "검색 결과 요약에만 보이고 원문을 열지 못한 것 — 상황판에 쓰면 안 됨, 원두 확인용"
  },
  "deals": {
@@ -30,10 +32,116 @@
     }
    ],
    "brands": [],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "MD's Pick 대상 상품 목록: musinsa.com 봇 차단 → 확인 못 함",
     "오프라인 매장에서 실제 많이 팔린 품목: 자료 없음",
     "랭킹은 온라인 앱 화면. 매장 판매와 같은지 모름"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "oy-sale-2026-12": {
+   "title": "12월 올영세일 (연말결산)",
+   "end": "2026-12-07",
+   "buys": [
+    {
+     "item": "작년 12월 올영세일: 속눈썹 영양제 매출 +105%, 먹는 뮤신 상품군 매출 140배 이상",
+     "source": "cj-oy-dec2025-sale",
+     "date": "2025-12-09",
+     "certainty": "확실",
+     "kind": "지난 같은 회차 매출"
+    },
+    {
+     "item": "작년 12월 올영세일 인기 상품: 코링코·필리밀리 노글루 속눈썹, 바이탈뷰티 슈퍼레티놀, 여에스더 리포좀 글루타치온 필름(순위 미공개)",
+     "source": "cj-oy-dec2025-sale",
+     "date": "2025-12-09",
+     "certainty": "확실",
+     "kind": "지난 같은 회차 인기 목록"
+    },
+    {
+     "item": "외국인 구매 인기 순서: 기초화장품 > 색조화장품 > 헤어케어. 평균 6개, 35%가 한 번에 10만 원 이상",
+     "source": "cj-oy-foreign-1t",
+     "date": "2026-08-31",
+     "certainty": "확실",
+     "kind": "출처 분류: 올리브영 발표 외국인 구매(1~8월)"
+    }
+   ],
+   "brands": [
+    {
+     "category_from_source": "올리브영 어워즈 명예의 전당(2024)",
+     "brand": "클리오",
+     "reason": "10년간 어워즈 40개 부문 수상, 역대 최다 수상 브랜드",
+     "source": "cj-oy-awards-2024",
+     "date": "2024-12-09",
+     "certainty": "확실"
+    },
+    {
+     "category_from_source": "올리브영 어워즈 명예의 전당(2024)",
+     "brand": "메디힐",
+     "reason": "티트리 에센셜 마스크 2015~2024 10년 연속 수상. 마데카소사이드 흔적 패드 2024 패드 부문 1위",
+     "source": "cj-oy-awards-2024",
+     "date": "2024-12-09",
+     "certainty": "확실"
+    },
+    {
+     "category_from_source": "올리브영 어워즈 명예의 전당(2024)",
+     "brand": "미장센",
+     "reason": "명예의 전당 5개 브랜드 중 하나(이유 문장은 출처에 없음)",
+     "source": "cj-oy-awards-2024",
+     "date": "2024-12-09",
+     "certainty": "확실"
+    },
+    {
+     "category_from_source": "올리브영 어워즈 명예의 전당(2024)",
+     "brand": "바이오더마",
+     "reason": "명예의 전당 5개 브랜드 중 하나(이유 문장은 출처에 없음)",
+     "source": "cj-oy-awards-2024",
+     "date": "2024-12-09",
+     "certainty": "확실"
+    },
+    {
+     "category_from_source": "올리브영 어워즈 명예의 전당(2024)",
+     "brand": "아이소이",
+     "reason": "명예의 전당 5개 브랜드 중 하나(이유 문장은 출처에 없음)",
+     "source": "cj-oy-awards-2024",
+     "date": "2024-12-09",
+     "certainty": "확실"
+    },
+    {
+     "category_from_source": "2025 올리브영 어워즈 수상(부문은 출처에 없음)",
+     "brand": "닥터알떼아",
+     "reason": "345 릴리프 크림 누적 판매 2천만 개 넘음",
+     "source": "kh-althea",
+     "date": "2026-03-09",
+     "certainty": "확실(회사 자체 발표)",
+     "note": "유료 보도자료(PR Newswire). 숫자는 회사 주장"
+    }
+   ],
+   "search_interest": [
+    {
+     "item": "작년 12월 세일 온라인몰 검색: 노글루 속눈썹 +265%, 속눈썹 펌 +967%",
+     "source": "cj-oy-dec2025-sale",
+     "date": "2025-12-09",
+     "certainty": "확실",
+     "kind": "검색"
+    }
+   ],
+   "context": [
+    {
+     "item": "헤어케어: 최근 3년 올리브영에서 가장 빨리 큰 분야, 연 70% 넘게 성장(올리브영 관계자)",
+     "source": "kh-haircare",
+     "date": "2026-03-14",
+     "certainty": "경향",
+     "kind": "성장 분야"
+    }
+   ],
+   "gaps": [
+    "2025 어워즈 부문별 1위 상품: oliveyoung.co.kr 봇 차단 → 확인 못 함",
+    "2026 어워즈: 아직 발표 전(작년엔 11/28 발표, 12월 세일과 함께 특가)",
+    "어워즈 '명예의 전당'은 2024년 자료",
+    "올해 12월 세일 날짜·쿠폰: 공식 발표 전"
    ],
    "not_applicable": null,
    "unverified_leads": []
@@ -68,9 +176,55 @@
      "note": "이번 정기세일 할인 대상인지 확인 못 함"
     }
    ],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함",
     "세 백화점 공통 '전체 고객' 기준 품목 순위는 못 찾음. 있는 건 회사가 '외국인 고객'으로 나눈 자료뿐"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "oy-day-2026-12": {
+   "title": "12월 올영데이",
+   "end": "2026-12-27",
+   "buys": [
+    {
+     "item": "외국인 구매 인기 순서: 기초화장품 > 색조화장품 > 헤어케어",
+     "source": "cj-oy-foreign-1t",
+     "date": "2026-08-31",
+     "certainty": "확실",
+     "kind": "출처 분류: 올리브영 발표 외국인 구매(1~8월)"
+    }
+   ],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "올영데이 자체의 판매 자료: 못 찾음(올영데이 출처 unpa.me는 이 환경에서 확인 안 함, 올리브영 사이트 차단)",
+    "브랜드: 12월 올영세일 칸 참고(둘 다 올리브영 전체 자료라 같은 내용, 여기엔 반복하지 않음)"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "wconcept-wweek": {
+   "title": "W컨셉 더블유위크",
+   "end": "2026-11-25",
+   "buys": [
+    {
+     "item": "색 있는 상품 매출: 민트 +130%, 레몬 +92%, 올리브 +39%. 레몬·올리브·퍼플 평균 거래액 약 +40%(전년 대비, 기간은 기사에 없음)",
+     "source": "kh-black-puffer",
+     "date": "2026-10-24",
+     "certainty": "경향",
+     "kind": "플랫폼 매출(행사 자료 아님)"
+    }
+   ],
+   "brands": [],
+   "search_interest": [],
+   "context": [],
+   "gaps": [
+    "행사 11/25 종료",
+    "W컨셉 행사 판매 순위·브랜드: 출처 기사(세계일보)·W컨셉 사이트 이 환경에서 안 열림"
    ],
    "not_applicable": null,
    "unverified_leads": []
@@ -80,6 +234,8 @@
    "end": "2026-11-30",
    "buys": [],
    "brands": [],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "신라면세점 블프 판매 순위·인기 품목: 자료 못 찾음(shilladfs.com은 안내 페이지만, 관련 언론 대부분 이 환경에서 안 열림)",
     "참고: 10/30~11/15 코리아 그랜드 페스티벌 때 면세점 25곳 할인 품목은 주류·화장품(KH 10/27) — 할인 품목이지 '많이 산 것'이 아니라서 넣지 않음",
@@ -118,6 +274,8 @@
      "note": "이번 정기세일 할인 대상인지 확인 못 함"
     }
    ],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함"
    ],
@@ -154,6 +312,8 @@
      "note": "이번 정기세일 할인 대상인지 확인 못 함"
     }
    ],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함"
    ],
@@ -175,9 +335,69 @@
      "note": "이번 정기세일 할인 대상인지 확인 못 함"
     }
    ],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함",
     "현대백화점 품목별 자료: 연 기사(KT 7/13, KH 5/10)에 총액·증가율만 있고 품목 없음"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "ably-bf": {
+   "title": "에이블리 에블프",
+   "end": "2026-12-03",
+   "buys": [
+    {
+     "item": "작년 겨울: 꽃무늬 누빔 조끼('김장 조끼')가 에이블리·지그재그에서 꾸준히 베스트셀러. 5천~4만 원",
+     "source": "kt-kimjang-vest",
+     "date": "2025-11-22",
+     "certainty": "경향",
+     "kind": "베스트셀러 보도(작년 겨울)"
+    }
+   ],
+   "brands": [],
+   "search_interest": [
+    {
+     "item": "하이넥 트렌치코트 검색 +2,067%(9월, 전년 대비)",
+     "source": "kh-highneck",
+     "date": "2026-10-05",
+     "certainty": "경향",
+     "kind": "검색"
+    }
+   ],
+   "context": [],
+   "gaps": [
+    "이번 에블프 판매 순위·브랜드: 출처(위키트리)·에이블리 사이트 이 환경에서 안 열림"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "zigzag-bf": {
+   "title": "지그재그 겨울 직잭팟",
+   "end": "2026-12-02",
+   "buys": [
+    {
+     "item": "작년 겨울: 꽃무늬 누빔 조끼('김장 조끼')가 지그재그·에이블리에서 꾸준히 베스트셀러. 5천~4만 원",
+     "source": "kt-kimjang-vest",
+     "date": "2025-11-22",
+     "certainty": "경향",
+     "kind": "베스트셀러 보도(작년 겨울)"
+    }
+   ],
+   "brands": [],
+   "search_interest": [
+    {
+     "item": "7~9월 검색(전년 대비): 퍼플 +740%, 레몬 8배 이상, 민트 5배 이상",
+     "source": "kh-black-puffer",
+     "date": "2026-10-24",
+     "certainty": "경향",
+     "kind": "검색"
+    }
+   ],
+   "context": [],
+   "gaps": [
+    "이번 직잭팟 판매 순위·브랜드: 출처(코리안센터)·지그재그 사이트 이 환경에서 안 열림"
    ],
    "not_applicable": null,
    "unverified_leads": []
@@ -195,6 +415,8 @@
     }
    ],
    "brands": [],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "이번 블프에서 많이 팔린 품목: uniqlo.com 이 환경에서 차단, 관련 기사 못 찾음",
     "히트텍 인기: 2017년 기사만 검색에 보이고 원문 안 열림(옛 주소가 다른 기사로 넘어감)"
@@ -275,6 +497,8 @@
      "note": "이번 블프 할인 대상인지는 확인 못 함"
     }
    ],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "블프 품목별(아우터·신발 등) 판매 순위: musinsa.com 봇 차단 → 확인 못 함",
     "2~4위 브랜드: 받은 화면에 없음"
@@ -289,6 +513,8 @@
    "end": "2026-11-29",
    "buys": [],
    "brands": [],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "이번 블프 품목·판매 자료 없음(spao.com·관련 기사 매체 이 환경에서 차단)",
     "한국소비자원 다운 재킷 시험(2013): 스파오 남성 다운이 무거운 제품 중 가장 따뜻·저렴 — 13년 전 제품이라 넣지 않음"
@@ -301,6 +527,8 @@
    "end": "2026-12-17",
    "buys": [],
    "brands": [],
+   "search_interest": [],
+   "context": [],
    "gaps": [
     "행사 전(12/3 시작). 이 세일 품목·판매 자료 없음",
     "작년 아카이브 세일 결과 기사: 이 환경에서 열리는 매체에서 못 찾음"
@@ -405,19 +633,86 @@
    "opened": "curl-today",
    "took": "코리아 그랜드 페스티벌 면세점 할인 품목(주류·화장품) — 할인 품목이지 판매 순위 아님",
    "quote": "Twenty-five duty-free shops nationwide, including Lotte, Shilla and Shinsegae, will cut prices on liquor and cosmetics by up to 25 percent."
+  },
+  "cj-oy-dec2025-sale": {
+   "url": "https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/",
+   "publisher": "CJ 뉴스룸(올리브영 발표)",
+   "date": "2025-12-09",
+   "opened": "staged",
+   "took": "작년 12월 올영세일 인기·급상승 품목",
+   "quote": "‘노글루 속눈썹’ 검색량이 265%, ‘속눈썹 펌’ 검색량이 967% 치솟았다 / ‘속눈썹 영양제’ 매출도 105% 증가 / 관련 상품군의 매출은 지난해 동기 대비 140배 이상 / △바이탈뷰티 슈퍼레티놀 △여에스더 리포좀 글루타치온 필름 등이 이번 올영세일 이너뷰티 인기 상품 리스트에 / ‘코링코’ 톡톡하라 노글루 속눈썹 △ ‘필리밀리’ 노글루 포인트 가닥 속눈썹 등 … 큰 인기"
+  },
+  "cj-oy-foreign-1t": {
+   "url": "https://cjnews.cj.net/cj올리브영-외국인-매출-1조원-3개월-빨라져관광객/",
+   "publisher": "CJ 뉴스룸(올리브영 발표)",
+   "date": "2026-08-31",
+   "opened": "staged",
+   "took": "외국인 구매 인기 분야 순서",
+   "quote": "기초화장품, 색조화장품, 헤어케어 순으로 인기가 높았다 / 평균 6개 상품을 구입했고, 3명 중 1명(35%)은 한 번에 10만원 이상 결제"
+  },
+  "cj-oy-awards-2024": {
+   "url": "https://cjnews.cj.net/열-돌-맞은-올리브영-어워즈세계인이-즐기는/",
+   "publisher": "CJ 뉴스룸(올리브영 발표)",
+   "date": "2024-12-09",
+   "opened": "staged",
+   "took": "어워즈 명예의 전당 5개 브랜드, 메디힐·클리오 기록",
+   "quote": "명예의 전당 브랜드는 총 5개로 ▲메디힐 ▲미장센 ▲ 바이오더마 ▲아이소이 ▲ 클리오(이상 가나다순) / 메디힐은 지난 2015년부터 올해까지 10년 연속으로 수상 / 클리오의 경우 10년 간 총 어워즈 40개 부문에서 석권하며 역대 최다 수상 브랜드 / ‘마데카소사이드 흔적 패드’가 패드 부문 1위"
+  },
+  "cj-oy-awards-2025": {
+   "url": "https://cjnews.cj.net/모두가-사랑한-제품을-모두가-사랑할-혜택으로-cj/",
+   "publisher": "CJ 뉴스룸(올리브영 발표)",
+   "date": "2025-11-28",
+   "opened": "staged",
+   "took": "어워즈 선정 방식(연간 구매 데이터), 작년 12월 세일에서 수상 상품 특가",
+   "quote": "‘올리브영 어워즈’는 연간 고객 구매 빅데이터를 기반으로 부문별 인기 상품을 선정해 발표하는 연말 트렌드 결산 행사"
+  },
+  "kh-haircare": {
+   "url": "https://www.koreaherald.com/article/10692887",
+   "publisher": "The Korea Herald",
+   "date": "2026-03-14",
+   "opened": "curl-today",
+   "took": "올리브영 헤어케어 성장률, 미장센 헤어 세럼 미국 아마존 1위",
+   "quote": "\"Over the past three years, hair care has been our fastest-growing category, with annual growth exceeding 70 percent,\" said an Olive Young official. / Mise en Scene's hair serum topped Amazon's hairstyling oil category in the US last year."
+  },
+  "kh-althea": {
+   "url": "https://www.koreaherald.com/article/10690413",
+   "publisher": "The Korea Herald 게재 PR Newswire(회사 보도자료)",
+   "date": "2026-03-09",
+   "opened": "curl-today",
+   "took": "닥터알떼아 345 릴리프 크림 누적 2천만 개(회사 주장), 2025 어워즈 수상(부문 미기재)",
+   "quote": "Dr. Althea's iconic hero product, 345 Relief Cream, has now surpassed 20 million units in cumulative sales … It was recognized amongst others at the 2025 Olive Young Awards"
+  },
+  "kh-black-puffer": {
+   "url": "https://www.koreaherald.com/article/10913273",
+   "publisher": "The Korea Herald",
+   "date": "2026-10-24",
+   "opened": "staged",
+   "took": "지그재그 색 검색, W컨셉 색상별 매출",
+   "quote": "On Zigzag … searches for “purple” surged 740 percent in July-September … W Concept, another fashion platform, reported similar trends. … Sales of mint-colored products rose 130 percent, while sales of lemon- and olive-colored products increased by 92 percent and 39 percent"
+  },
+  "kh-highneck": {
+   "url": "https://www.koreaherald.com/article/10893232",
+   "publisher": "The Korea Herald",
+   "date": "2026-10-05",
+   "opened": "curl-today",
+   "took": "에이블리 하이넥 트렌치 검색 +2,067%",
+   "quote": "On fashion platform Ably, searches for high-neck trench coats rose 2,067 percent year-on-year in September."
+  },
+  "kt-kimjang-vest": {
+   "url": "https://www.koreatimes.co.kr/lifestyle/trends/20251122/how-jennie-and-karina-made-kimjang-vest-trendy-in-korea",
+   "publisher": "The Korea Times(한국일보 번역)",
+   "date": "2025-11-22",
+   "opened": "curl-today",
+   "took": "작년 겨울 지그재그·에이블리 꽃무늬 누빔 조끼 베스트셀러",
+   "quote": "On apps popular with women in their 20s, including Zigzag and Ably, the floral quilted vest consistently ranks as a bestseller. Prices range from 5,000 won ($3.85) to 40,000 won."
   }
  },
  "not_done_yet": [
-  "oy-sale-2026-12",
   "klook-bf-2026",
   "korea-grand-sale-2027",
   "seoul-winter-market-2026",
-  "oy-day-2026-12",
-  "wconcept-wweek",
   "samsung-week",
   "coupang-digital-bf",
-  "ably-bf",
-  "zigzag-bf",
   "trinity-nov",
   "topten-bf",
   "amazon-bf",
