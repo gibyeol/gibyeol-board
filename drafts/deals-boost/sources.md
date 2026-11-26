@@ -98,3 +98,17 @@ etnews.com, esquirekorea.co.kr, zdnet.co.kr, segye.com, ajunews.com, edaily.co.k
 - 이데일리 2009~2017년대 유니클로 히트텍 판매 기사(검색에만 보임, 열지 않음)
 - CJ 뉴스룸 2023-09-11 가을 올영세일 결과(받아 읽었으나 3년 전이고 같은 내용의 더 새 자료가 있어 안 씀)
 - 이데일리 2024-03-06 코리아그랜드세일 2024 결과(2025 결과가 있어 안 씀)
+
+## 독립 검토 반영 (2026-11-27) — 원문 사본 보관
+
+독립 검토 필수 4: 아래 3개 출처의 원문 사본이 wondu-archive에 없고 세션 작업 공간(scratchpad/src/)에만 있었다. → wondu-archive `staging/overnight-2026-11-27/raw-from-scratchpad/src/`에 커밋됨(e266e5b). 인용 문장이 파일에 있는지 grep으로 확인(2026-11-27).
+
+| id | 보관 파일 | 확인한 인용 토막 |
+|---|---|---|
+| korea-kr-customs-2024 | raw-from-scratchpad/src/kr-156655742.html (정책브리핑 newsId=156655742) | "해외직구 수요가 집중되는" |
+| seoul-winterfesta-2025-result | raw-from-scratchpad/src/seoul-531388.html | "135개 소상공인팀" |
+| seoul-mediahub-2016544 | raw-from-scratchpad/src/seoul-2016544.html | "핸드메이드 털장갑" |
+
+주의: `raw/deals-boost/korea-kr-customs.txt`는 다른 기사('올바르게 직구하는 방법 모음')다. korea-kr-customs-2024의 원문은 위 kr-156655742.html.
+
+같은 반영에서 고친 숫자: 탑텐키즈 경량패딩 기간 "8/19~27" → "8/19~10/27"(herald-spa-padding-1030 원문 biz.heraldcorp.com_article_10920426.txt:66 "입력 2026-10-30", :86 "지난 8월 19일부터 이달 27일까지 … 전년 동기 대비 3.1배(214.7%)"). 출처는 바뀌지 않음.
