@@ -2,13 +2,17 @@
 
 범위: 원두 [7eb4ec94#2684] — 상황판 항목마다 주로 사는 것 + 출처 분류별 대표 브랜드(이유 한 줄). 초안 파일만. data/deals.json·상황판은 안 건드림.
 
-- [x] 1묶음: musinsa-bf, musinsa-offline-codes, musinsa-archive, uniqlo-bf, spao-bf
-- [x] 2묶음: 백화점 4개(dept-winter-2026, dept-shinsegae, dept-lotte, dept-hyundai) + shilla-dfs-bf
-- [x] 3묶음: 올리브영 2개, wconcept, ably, zigzag
-- [x] 4묶음: topten, zara, hm, coupang 2개, samsung, amazon
-- [x] 5묶음: 여행·항공 6개, 축제·마켓 4개
-- [x] review.md (원두 줄마다 PASS/FAIL, Claude 자체 점검)
-- [ ] 독립 검토(작성자 아닌 검토) — 아직 안 함
-- [ ] 원두 검토
+## 1차 (출처 대부분 막힌 상태)
+- [x] 1~5묶음: 30개 항목 초안, review.md(자체 점검)
 
-환경 제약: 이 세션은 koreaherald.com·koreatimes.co.kr·cjnews.cj.net만 본문을 열 수 있음(나머지 언론·쇼핑몰은 네트워크 허용 목록 밖). sources.md 참고.
+## 2차 (원두 출처 허용 [7eb4ec94#2712] 뒤)
+- [x] 새로 열린 곳 접속 시험(curl -A 'Mozilla/5.0'), 안 열린 곳 기록 — sources.md '열지 못한 곳'
+- [x] 기사 본문 사본 저장: wondu-archive `staging/overnight-2026-11-27/raw/deals-boost/` (커밋·푸시)
+- [x] 새 출처 39개, 인용 조각 77개 기계 대조(빠짐 0)
+- [x] 30개 항목 다시 채움, 긴 줄 줄임, '외국인' 줄에 원두 결정 표시
+- [x] preview.md·sources.md 다시 만듦, review.md 다시 판정
+- [ ] 독립 검토(작성자 아닌 검토) — 아직 안 함
+- [ ] 원두 결정 5개(review.md 5절)
+- [ ] 행사 끝난 뒤 결과 발표로 다시 채우기(에이블리·지그재그·W컨셉·백화점·무신사)
+
+이어서 할 곳: review.md 5절(원두 결정) → 독립 검토.
