@@ -674,13 +674,15 @@
   }
 
   /* ---------- share card ----------
-     Owner 2026-11-26 [7eb4ec94#2276]: the card is built on the results below the stamp, compact and clean (replaces the stamp card in
-     ops/name-tool.md appendix). One 1080x1350 PNG (Instagram feed/stories, Threads), drawn on this device; nothing is sent.
-     Layout: [meaning photo band, optional] tag + small seal / name (hero) / "Your name means …" + confidence /
-     Korean·Japanese·Chinese / same meaning in other countries / where it leads / sources / Nadri + address.
+     Owner 2026-11-26 [7eb4ec94#2276]: built on the results below the stamp, compact and clean; [7eb4ec94#2341]: every result section
+     must be on it (a representative part of each, plus a "see the full result" link), and every name with its reading as the page shows it.
+     One 1080x1920 PNG (9:16; Instagram stories/feed, Threads), drawn on this device; nothing is sent.
+     Layout: [meaning photo band, optional] tag + small seal / name / "Your name means …" + confidence / sound (with readings) /
+     If you were born in… (3) / names with the same meaning (6, 3x2) / where it leads around the world (Korea first, 3) /
+     Korean surname facts / "See the full result → address" / sources / Nadri. When space is short, sections keep fewer items; none is dropped.
      Meaning photo (owner [7eb4ec94#2296]): window.NADRI_MEANING_IMG[conceptId] = { src, credit }; same-origin files only, so nothing
-     leaves the site and the canvas can still be saved. No photo: the card starts with the tag line. Only sections with data are drawn. */
-  var CW = 1080, CH = 1350, CM = 84, CIN = CW - CM * 2;
+     leaves the site and the canvas can still be saved. No photo: the card starts with the tag line. */
+  var CW = 1080, CH = 1920, CM = 84, CIN = CW - CM * 2;
   var C_PAPER = '#f4f0e6', C_INK = '#16151a', C_MUTED = '#5f5b55', C_HAIR = '#ddd6c8', C_RED = '#b8392f';
   var F_HEAD = '"Song Myung", "Noto Serif KR", serif', F_TEXT = '"IBM Plex Sans KR", system-ui, -apple-system, "Segoe UI", "Noto Sans KR", sans-serif', F_MONO = '"IBM Plex Mono", ui-monospace, monospace';
   function cfont(kind, size, weight) { return (weight ? weight + ' ' : '') + Math.round(size) + 'px ' + (kind === 'head' ? F_HEAD : kind === 'mono' ? F_MONO : F_TEXT); }
@@ -689,89 +691,101 @@
     return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · ');
   }
 
-  /* what goes on the card: only what the page shows for this name, with the page's confidence labels */
+  /* what goes on the card: every result section the page shows for this name (owner [7eb4ec94#2341]), each cut to its representative
+     items, with the readings and confidence marks exactly as the page shows them. Nothing the page does not show. */
   function cardModel(r) {
-    var k3 = L3(), typed = String(r.typed || '').trim().replace(/\s+/g, ' ');
-    var m = { hero: r.kind === 'hangul' ? r.hangul : typed, scripts: [], meaning: null, same: [], lead: null, facts: [], concept: null };
+    var k3 = L3(), ko = k3 === 'ko', typed = String(r.typed || '').trim().replace(/\s+/g, ' ');
+    var CC = window.NADRI_CONCEPTS || {}, WD = window.NADRI_WORLD || {}, CHN = window.NADRI_CHAINS || {};
+    var m = { hero: r.kind === 'hangul' ? r.hangul : typed, sounds: [], phrase: null, born: null, same: null, world: null, facts: [], concept: null, src: {} };
     var low = function (x) { return String(x || '').toLowerCase(); };
-    // 1. the name in Korean / Japanese / Chinese (Taiwan), as the page shows it (Russian stays on the page)
-    r.sounds.forEach(function (l) {
-      if (!l[1] || l[1] === m.hero || /[Ѐ-ӿ]/.test(l[1])) return;
-      // a Korean reading guessed from the spelling keeps the page's 'approximate' mark
-      m.scripts.push({ label: l[0] + (r.approx && l[0] === UI.lKo ? ' (' + UI.kanaApprox + ')' : ''), lines: String(l[1]).split(' · ') });
-    });
-    if (r.pickedName) m.scripts.push({ label: T.koHanja, lines: [r.pickedName] });
-    // 2. meaning
-    var e = r.meaning && r.meaning.e, B = r.btn, CC = window.NADRI_CONCEPTS || {};
+    var dup = function (x) { return low(x) === low(m.hero) || low(x) === low(typed); };
     var clabel = function (id) { return CC[id] ? (CC[id][k3] || CC[id].en) : ''; };
-    if (e && e.m) {
-      m.meaning = { word: (k3 !== 'en' && e.m[k3]) || e.m.en, conf: T.conf[e.c || 'h'], root: r.meaning.alias ? cap(r.meaning.key) : '', src: 'Behind the Name' };
-    } else if (r.kind === 'latin' && B && B.meaning) {
-      m.meaning = { word: B.meaning, conf: T.conf.h, long: true, src: 'Behind the Name' };
-    } else if (r.kind === 'han' && r.chars) {
-      var ids = (r.cids || []).filter(function (id) { return CC[id]; });
-      var parts = r.chars.filter(function (x) { return x.ko || x.en; }).map(function (x) { return x.c + ' ' + (k3 === 'ko' && x.ko ? x.ko + ' ' + (x.read || '') : (x.en || x.ko)); });
-      if (ids.length) m.meaning = { word: ids.map(clabel).join(' + '), detail: parts.join(' · ') };
-      else if (parts.length) m.meaning = { word: parts.join(' · '), long: true };
-    } else if (r.kind === 'hangul' && r.picked && r.picked.length) {
-      var pids = (r.pickedIds || []).filter(function (id) { return CC[id]; });
-      var pparts = r.picked.map(function (x) { return x.h + ' ' + (k3 === 'ko' ? x.hun : x.en); });
-      m.meaning = pids.length ? { word: pids.map(clabel).join(' + '), detail: pparts.join(' · ') } : { word: pparts.join(' · '), long: true };
-    } else if (r.kind === 'hangul' && r.ko) {
-      var nat = (window.KO_NATIVE || {})[r.ko.given];
-      if (nat) m.meaning = { word: k3 === 'ko' ? nat[0] : nat[1], label: T.koNative };
-    }
-    m.concept = r.concept || (r.pickedIds && r.pickedIds[0]) || r.worldId || (r.born && r.born.id) || null;
-    // 3. the same meaning as a real name elsewhere: checked world entries first (they carry sources), then the older born-in list, then concept names
-    var W = r.worldId && (window.NADRI_WORLD || {})[r.worldId];
-    if (W) {
-      var named = W.filter(function (x) { return x.n && low(x.n) !== low(m.hero) && low(x.n) !== low(typed); });
-      named = named.filter(function (x) { return x.c === 'h'; }).concat(named.filter(function (x) { return x.c !== 'h'; }));
-      named.slice(0, 4).forEach(function (x) {
-        m.same.push({ place: regionOf(x.r).name, name: x.n, sub: [x.nn, k3 === 'ko' ? x.nk : ''].filter(Boolean).join(' · '), conf: T.conf[x.c] || x.c, src: x.s && x.s[0] && x.s[0][0] });
-      });
-    }
-    var BB = !m.same.length && r.born && (window.NADRI_BORN || {})[r.born.id];
-    if (BB) BB.c.filter(function (c) { return c[2] && low(c[2]) !== low(m.hero); }).slice(0, 4).forEach(function (c) {
-      var rd = k3 === 'ko' && window.nadriKoRead && !/[가-힣]/.test(c[2]) ? window.nadriKoRead(c[2]) : '';
-      m.same.push({ place: c[1][k3] || c[1].en, name: c[2], sub: [c[3], rd].filter(Boolean).join(' · '), conf: T.sure + ' ' + c[5] + '%' });
+    var rd = function (form, lang) {   // the page's kr(): Hangul reading of a foreign name, Korean interface only
+      if (!ko || !form || /[가-힣]/.test(form) || !window.nadriKoRead) return '';
+      return window.nadriKoRead(form, lang) || '';
+    };
+    // 1. sound: every line of the page's sound section, with the page's Hangul read-back of kana and Cyrillic (Korean interface)
+    r.sounds.forEach(function (l) {
+      if (!l[1] || l[1] === m.hero) return;
+      var back = '';
+      if (ko && r.kind !== 'kana') {
+        if (/[゠-ヿ]/.test(l[1])) back = l[1].split(/[・\s]/).map(function (w) { return kanaWord(w) || ''; }).join(' ').trim();
+        else if (/[Ѐ-ӿ]/.test(l[1])) back = cyrToHangul(l[1]);
+      }
+      m.sounds.push({ label: l[0] + (r.approx && l[0] === UI.lKo ? ' (' + UI.kanaApprox + ')' : ''), lines: String(l[1]).split(' · '), read: back });
     });
-    if (!m.same.length) {
-      var cid = [r.concept].concat(r.cids || [], r.pickedIds || []).filter(function (id) { return id && CC[id]; })[0];
-      if (cid) CC[cid].names.filter(function (n) { return low(n[1]) !== low(m.hero) && low(n[1]) !== low(typed); }).slice(0, 4).forEach(function (n) {
-        m.same.push({ place: langLabel(n[0]), name: n[1], sub: n[2] || '', conf: '' });
-        m.sameLabel = T.idea;   // these are languages, not countries
-      });
+    if (r.pickedName) m.sounds.push({ label: T.koHanja, lines: [r.pickedName], read: '' });
+    // 2. the whole-name meaning ("Your name means …")
+    var e = r.meaning && r.meaning.e, B = r.btn, BB = r.born && (window.NADRI_BORN || {})[r.born.id];
+    var ids = (r.kind === 'hangul' ? r.pickedIds : r.kind === 'han' ? r.cids : (r.concept ? [r.concept] : [])) || [];
+    ids = ids.filter(function (id) { return CC[id]; });
+    var ph = null;
+    if (r.kind === 'latin' && e && e.m) ph = { word: (k3 !== 'en' && e.m[k3]) || e.m.en, conf: T.conf[e.c || 'h'], detail: B && B.meaning ? B.meaning : '' };
+    else if (r.kind === 'latin' && B && B.meaning) ph = { word: B.meaning, conf: T.conf.h, long: true };
+    else if (BB && r.born.first && BB.first) ph = { word: BB.first[k3] || BB.first.en };
+    else if (ids.length > 1) ph = { word: ids.map(clabel).join(' + ') };
+    else if (BB) ph = { word: BB.phrase[k3] || BB.phrase.en };
+    else if (r.worldId && CC[r.worldId]) ph = { word: clabel(r.worldId) };
+    else if (ids.length) ph = { word: clabel(ids[0]) };
+    var nat = r.kind === 'hangul' && r.ko && !(r.picked && r.picked.length) ? (window.KO_NATIVE || {})[r.ko.given] : null;
+    if (nat) ph = { word: ko ? nat[0] : nat[1], detail: T.koNative };
+    if (ph) {
+      if (r.kind === 'han' && r.chars) ph.detail = r.chars.filter(function (x) { return x.ko || x.en; }).map(function (x) { return x.c + ' ' + (ko && x.ko ? x.ko + ' ' + (x.read || '') : (x.en || x.ko)); }).join(' · ');
+      if (r.kind === 'hangul' && r.picked && r.picked.length) ph.detail = r.picked.map(function (x) { return x.h + ' ' + (ko ? x.hun : x.en); }).join(' · ');
+      if (r.meaning && r.meaning.alias) ph.root = cap(r.meaning.key);
+      if (r.kind === 'latin') m.src.phrase = ['Behind the Name'];
+      m.phrase = ph;
     }
-    // 4. where it leads: Korea first (owner 2026-11-26 11:14), one line; a step that leads to one of our guides if the chain has one
-    var CHN = window.NADRI_CHAINS || {};
-    var fromChain = function (id) {
+    m.concept = r.concept || ids[0] || r.worldId || (r.born && r.born.id) || null;
+    // 3. "If you were born in…": the page's list (older born-in list, or world entries that carry a name)
+    var rows = [];
+    if (BB) BB.c.filter(function (c) { return c[2] && !dup(c[2]); }).forEach(function (c) {
+      rows.push({ place: c[1][k3] || c[1].en, name: c[2], read: rd(c[2]), orig: c[3] || '', why: c[4][ko ? 'ko' : 'en'] || c[4].en, conf: T.sure + ' ' + c[5] + '%' });
+    });
+    else if (r.worldId && WD[r.worldId]) WD[r.worldId].filter(function (x) { return x.n && !dup(x.n); }).forEach(function (x) {
+      rows.push({ place: regionOf(x.r).name, name: x.n, read: ko && x.nk ? x.nk : '', orig: x.nn || '', why: x.g[k3] || x.g.en, conf: T.conf[x.c] || x.c, src: x.s && x.s[0] && x.s[0][0] });
+    });
+    if (rows.length) m.born = rows;
+    // 4. names with the same meaning in other languages (the page's concept grid; for native Korean words, its list of names abroad)
+    var cid = ids.filter(function (id) { return CC[id].names && CC[id].names.length; })[0];
+    if (cid) {
+      m.same = { label: T.koAbroad + ' · ' + clabel(cid), items: CC[cid].names.filter(function (n) { return !dup(n[1]); }).map(function (n) {
+        return { lang: langLabel(n[0]), name: n[1], read: n[2] && /[가-힣]/.test(n[2]) ? '' : rd(n[1]), orig: n[2] || '' };
+      }) };
+    } else if (nat) {
+      var MN = window.KO_MEANING_TO_NAME || {}, NN = window.NADRI_NAMES || {}, seen = {}, ab = [];
+      (MN[low(nat[1])] || []).forEach(function (k) { if (!seen[k] && NN[k] && typeof NN[k] === 'object') { seen[k] = 1; ab.push({ lang: (NN[k].m && (NN[k].m[k3] || NN[k].m.en)) || '', name: cap(k), read: '', orig: '' }); } });
+      if (ab.length) m.same = { label: T.koAbroad, items: ab };
+    }
+    if (m.same && !m.same.items.length) m.same = null;
+    // 5. where it leads around the world: Korea first, then the next regions, one line each
+    var W = r.worldId && WD[r.worldId], step = function (id) {
       var st = CHN[id]; if (!st || !st.length) return null;
       var s0 = st.filter(function (x) { return x.link; })[0] || st[0];
       return { text: s0[k3] || s0.en, conf: T.conf[s0.c] || '', src: s0.s };
     };
-    var korea = regionOf('KR').name, lead = null;
+    var lines = [];
     if (W) {
-      var KRe = W.filter(function (x) { return x.r === 'KR'; })[0];
-      if (KRe) lead = KRe.chain ? fromChain(r.krChain || KRe.chain) : { text: (KRe.g && (KRe.g[k3] || KRe.g.en)) || KRe[k3] || KRe.en, conf: T.conf[KRe.c] || '', src: KRe.s && KRe.s[0] && KRe.s[0][0] };
-      else if (r.krChain) lead = fromChain(r.krChain);
-      if (lead) lead.place = korea;
-      else {
-        var g0 = W.filter(function (x) { return x.g; })[0];
-        if (g0) lead = { place: regionOf(g0.r).name, text: g0.g[k3] || g0.g.en, conf: T.conf[g0.c] || '', src: g0.s && g0.s[0] && g0.s[0][0] };
-      }
-    } else if (r.chain) { lead = fromChain(r.chain); if (lead) lead.place = korea; }
-    if (lead && lead.text) m.lead = lead;
-    // 5. facts the page shows for Korean names (surname count, baby-name rank); for other names only when nothing else is known
+      var list = W.slice();
+      if (r.krChain && !list.some(function (x) { return x.r === 'KR'; })) list.push({ r: 'KR', chain: r.krChain });
+      list.sort(function (a, b) { return (a.r === 'KR' ? 0 : 1) - (b.r === 'KR' ? 0 : 1); });
+      list.forEach(function (x) {
+        var L = x.chain ? step(x.r === 'KR' && r.krChain ? r.krChain : x.chain)
+          : { text: (x.g && (x.g[k3] || x.g.en)) || (String(x[k3] || x.en || '').match(/^[\s\S]*?[.。](?=\s|$)/) || [String(x[k3] || x.en || '')])[0], conf: T.conf[x.c] || x.c, src: x.s && x.s[0] && x.s[0][0] };
+        if (L && L.text) { L.place = regionOf(x.r).name; lines.push(L); }
+      });
+      if (lines.length) m.world = { label: T.world + (CC[r.worldId] ? ' · ' + clabel(r.worldId) : ''), lines: lines };
+    } else if (r.chain && CHN[r.chain]) {   // Korea-only chain: the page lists its steps
+      CHN[r.chain].forEach(function (s0) { lines.push({ place: regionOf('KR').name, text: s0[k3] || s0.en, conf: T.conf[s0.c] || '', src: s0.s }); });
+      if (lines.length) m.world = { label: T.chain, lines: lines };
+    }
+    // 6. Korean names: surname count and baby-name rank, as the page shows them
     var srcKo = String(T.srcKo || '').split(/;|,(?![^(]*\))/).map(function (x) { return x.trim(); });
     if (r.kind === 'hangul' && r.ko) {
       var POP = window.KO_SURNAME_POP || {}, K = r.ko, fmt = function (n) { return Number(n).toLocaleString(); };
-      if (K.sur && POP[K.sur]) { m.facts.push({ label: T.koSurname + ' · ' + K.sur, text: T.koPop.replace('{n}', fmt(POP[K.sur])).replace('{p}', (POP[K.sur] / 510694).toFixed(1)).replace('{t}', fmt(window.KO_SURNAME_TOTAL || 5582)), src: srcKo[0] }); }
+      if (K.sur) m.facts.push({ label: T.koSurname + ' · ' + K.sur, text: POP[K.sur] ? T.koPop.replace('{n}', fmt(POP[K.sur])).replace('{p}', (POP[K.sur] / 510694).toFixed(1)).replace('{t}', fmt(window.KO_SURNAME_TOTAL || 5582)) : T.koPopOther.replace('{t}', fmt(window.KO_SURNAME_TOTAL || 5582)), src: srcKo[0] });
       var KB = window.KO_BABY_2025 || { boys: [], girls: [] }, bi = KB.boys.indexOf(K.given), gi = KB.girls.indexOf(K.given);
-      if (bi >= 0 || gi >= 0) { m.facts.push({ label: T.koBaby + ' · ' + K.given, text: [bi >= 0 ? T.koBabyRank.replace('{r}', bi + 1).replace('{g}', T.boys) : '', gi >= 0 ? T.koBabyRank.replace('{r}', gi + 1).replace('{g}', T.girls) : ''].filter(Boolean).join(' · '), src: srcKo.slice(1).join(', ') }); }
-    } else if (!m.meaning && !m.same.length && B && B.top && B.top.length) {
-      var t = B.top.slice().sort(function (a, b) { return a[2] - b[2] || b[1] - a[1]; })[0];
-      m.facts.push({ label: T.popular, text: rname(t[0]) + ' · ' + T.rank.replace('{r}', t[2]).replace('{y}', t[1]), src: 'Behind the Name' });
+      m.facts.push({ label: T.koBaby + ' · ' + K.given, text: (bi >= 0 ? T.koBabyRank.replace('{r}', bi + 1).replace('{g}', T.boys) + ' ' : '') + (gi >= 0 ? T.koBabyRank.replace('{r}', gi + 1).replace('{g}', T.girls) : '') + (bi < 0 && gi < 0 ? T.koBabyNone : ''), src: srcKo.slice(1).join(', ') });
     }
     return m;
   }
@@ -822,141 +836,194 @@
     g.font = cfont('text', f.size, 600); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(f.lines.join(' '), x, y);
     if (extra) chip(g, extra, x + g.measureText(f.lines.join(' ')).width + 14, y);
   }
-  /* body sections: each measures itself first, then draws at y; each carries the sources of what it shows */
-  function cardBlocks(g, m) {
-    var blocks = [];
-    if (m.scripts.length) {
-      var n = m.scripts.length, gap = 32, colW = (CIN - gap * (n - 1)) / n;
-      var fits = m.scripts.map(function (s) { return s.lines.map(function (l) { return fitText(g, l, 'head', 0, 46, 28, colW, 1); }); });
-      var asRows = fits.some(function (f) { return f.some(function (x) { return x.lines.length > 1; }); });
-      if (asRows) fits = m.scripts.map(function (s) { return s.lines.map(function (l) { return fitText(g, l, 'head', 0, 40, 26, CIN - 260, 2); }); });
-      var valH = function (f) { return f.reduce(function (h, x) { return h + x.lines.length * x.size * 1.2; }, 0); };
-      var h = asRows ? fits.reduce(function (h2, f) { return h2 + Math.max(36, valH(f)) + 14; }, 0) : 36 + Math.max.apply(null, fits.map(valH));
-      blocks.push({ id: 'scripts', h: h, src: [], draw: function (y) {
-        if (asRows) {
-          m.scripts.forEach(function (s, i) {
-            cardLabel(g, s.label, CM, y + 30, null, 250); var yy = y;
-            fits[i].forEach(function (f) { yy += drawLines(g, f, CM + 260, yy + f.size, f.size * 1.2, C_INK); });
-            y += Math.max(36, valH(fits[i])) + 14;
-          });
-          return;
-        }
-        m.scripts.forEach(function (s, i) {
-          var x = CM + i * (colW + gap), yy = y + 36;
-          cardLabel(g, s.label, x, y + 22, null, colW);
-          fits[i].forEach(function (f) { yy += drawLines(g, f, x, yy + f.size, f.size * 1.2, C_INK); });
+  /* body sections at one trim level p: each measures itself first, then draws at y, and carries the sources of what it shows */
+  function cardBlocks(g, m, p) {
+    var blocks = [], small = function (t, max, min, w, n) { return fitText(g, t, 'text', 0, max, min, w, n || 1); };
+    if (m.sounds.length) {   // a grid: up to 3 across (4 lines: 2 x 2); a line that will not fit goes to label-left rows
+      var n = m.sounds.length, gap = 32, across = n <= 3 ? n : 2, grid = true, colW, S;
+      var build = function () {
+        colW = grid ? (CIN - gap * (across - 1)) / across : CIN - 250;
+        S = m.sounds.map(function (s) {
+          return { vals: s.lines.map(function (l) { return fitText(g, l, 'head', 0, grid ? 44 : 40, 26, colW, grid ? 1 : 2); }), read: s.read ? small('(' + s.read + ')', 24, 18, colW) : null };
+        });
+      };
+      build();
+      if (S.some(function (s) { return s.vals.some(function (v) { return v.lines.length > 1; }); })) { grid = false; build(); }
+      var hOf = function (s) { return s.vals.reduce(function (a, v) { return a + v.lines.length * v.size * 1.2; }, 0) + (s.read ? 32 : 0); };
+      var rowHs = [];
+      if (grid) for (var r0 = 0; r0 < n; r0 += across) rowHs.push(34 + Math.max.apply(null, S.slice(r0, r0 + across).map(hOf)));
+      else S.forEach(function (x) { rowHs.push(Math.max(36, hOf(x))); });
+      blocks.push({ id: 'sounds', h: rowHs.reduce(function (a, h) { return a + h + 14; }, 0) - 14, src: [], draw: function (y) {
+        var yRow = y;
+        m.sounds.forEach(function (s, i) {
+          var row = grid ? Math.floor(i / across) : i, col = grid ? i % across : 0;
+          if (i && (!grid || col === 0)) yRow += rowHs[row - 1] + 14;
+          var x = grid ? CM + col * (colW + gap) : CM + 250, yy = grid ? yRow + 34 : yRow;
+          cardLabel(g, s.label, grid ? x : CM, grid ? yRow + 22 : yRow + 30, null, grid ? colW : 240);
+          S[i].vals.forEach(function (v) { yy += drawLines(g, v, x, yy + v.size, v.size * 1.2, C_INK); });
+          if (S[i].read) drawLines(g, S[i].read, x, yy + 26, 30, C_MUTED);
         });
       } });
     }
-    if (m.same.length) {   // one row, three columns: the same grid as the scripts above
-      var cols = 3, cw = (CIN - 32 * (cols - 1)) / cols, items = m.same.slice(0, cols);
-      var cells = items.map(function (it) {
-        g.font = cfont('text', 21, 600); var chipW = it.conf ? g.measureText(it.conf).width + 30 : 0;
-        return { place: fitText(g, it.place, 'text', 0, 23, 18, cw - chipW, 2), name: fitText(g, it.name, 'head', 0, 46, 28, cw, 2), sub: it.sub ? fitText(g, it.sub, 'text', 0, 23, 18, cw, 1) : null, conf: it.conf, chipW: chipW };
+    if (m.born) {
+      var R = m.born.slice(0, p.b).map(function (it) {
+        g.font = cfont('text', 21, 600); var chipW = g.measureText(it.conf).width + 30;
+        var name = fitText(g, it.name, 'head', 0, 42, 30, CIN * 0.6, 1);
+        g.font = cfont('head', name.size); var nameW = g.measureText(name.lines[0]).width;
+        var extra = [it.read ? '(' + it.read + ')' : '', it.orig].filter(Boolean).join(' ');
+        g.font = cfont('text', 25); var inline = extra && nameW + 14 + g.measureText(extra).width <= CIN;
+        return { it: it, chipW: chipW, place: small(it.place, 23, 18, CIN - chipW), name: name, nameW: nameW, extra: extra ? small(extra, 25, 19, inline ? CIN - nameW - 14 : CIN) : null, inline: inline,
+          why: p.why ? fitText(g, it.why, 'text', 0, 25, 20, CIN, p.why) : null };
       });
-      var cellH = function (c) { return c.place.lines.length * 30 + 8 + c.name.lines.length * c.name.size * 1.15 + (c.sub ? 32 : 0); };
-      var rowH = Math.max.apply(null, cells.map(cellH));
-      blocks.push({ id: 'same', h: 40 + rowH, src: items.map(function (x) { return x.src; }), draw: function (y) {
-        cardLabel(g, m.sameLabel || T.cardSame, CM, y + 22);
-        cells.forEach(function (c, ci) {
-          var x = CM + ci * (cw + 32), y2 = y + 40;
-          drawLines(g, c.place, x, y2 + 22, 30, C_MUTED);
-          if (c.conf) { g.font = cfont('text', c.place.size); chip(g, c.conf, x + g.measureText(c.place.lines[0]).width + 10, y2 + 24); }
-          y2 += c.place.lines.length * 30 + 8;
-          y2 += drawLines(g, c.name, x, y2 + c.name.size * 0.95, c.name.size * 1.15, C_INK);
-          if (c.sub) drawLines(g, c.sub, x, y2 + 24, 26, C_MUTED);
+      var rowH = function (x) { return 30 + x.name.size * 1.2 + (x.extra && !x.inline ? 30 : 0) + (x.why ? x.why.lines.length * x.why.size * 1.35 + 4 : 0); };
+      blocks.push({ id: 'born', h: 40 + R.reduce(function (a, x) { return a + rowH(x) + 16; }, 0) - 16, src: R.map(function (x) { return x.it.src; }), draw: function (y) {
+        cardLabel(g, T.bornIn, CM, y + 22); y += 40;
+        R.forEach(function (x) {
+          drawLines(g, x.place, CM, y + 22, 30, C_MUTED);
+          g.font = cfont('text', x.place.size); chip(g, x.it.conf, CM + g.measureText(x.place.lines[0]).width + 10, y + 24);
+          var yy = y + 30 + x.name.size * 0.95;
+          drawLines(g, x.name, CM, yy, x.name.size * 1.2, C_INK);
+          if (x.extra) { if (x.inline) drawLines(g, x.extra, CM + x.nameW + 14, yy, 30, C_MUTED); else drawLines(g, x.extra, CM, yy + 32, 30, C_MUTED); }
+          yy = y + 30 + x.name.size * 1.2 + (x.extra && !x.inline ? 30 : 0);
+          if (x.why) drawLines(g, x.why, CM, yy + x.why.size + 2, x.why.size * 1.35, C_INK);
+          y += rowH(x) + 16;
         });
       } });
     }
-    if (m.lead) {
-      var lf = fitText(g, m.lead.place + ' — ' + m.lead.text, 'text', 0, 30, 24, CIN, 3);
-      blocks.push({ id: 'lead', h: 40 + lf.lines.length * lf.size * 1.35, src: [m.lead.src], draw: function (y) {
-        cardLabel(g, T.cardLeads, CM, y + 22, m.lead.conf);
-        drawLines(g, lf, CM, y + 40 + lf.size, lf.size * 1.35, C_INK);
+    if (m.same) {
+      var cols3 = 3, cw = (CIN - 32 * 2) / cols3, items = m.same.items.slice(0, p.c);
+      var cells = items.map(function (it) {
+        var sub = [it.read ? '(' + it.read + ')' : '', it.orig].filter(Boolean).join(' ');
+        return { lang: small(it.lang, 21, 16, cw), name: fitText(g, it.name, 'head', 0, 36, 24, cw, 1), sub: sub ? small(sub, 22, 16, cw) : null };
+      });
+      var cellH = function (c) { return 28 + c.name.size * 1.2 + (c.sub ? 28 : 0); };
+      var rowsH = [];
+      for (var i = 0; i < cells.length; i += cols3) rowsH.push(Math.max.apply(null, cells.slice(i, i + cols3).map(cellH)));
+      blocks.push({ id: 'same', h: 40 + rowsH.reduce(function (a, b) { return a + b + 16; }, 0) - 16, src: [], draw: function (y) {
+        cardLabel(g, m.same.label, CM, y + 22); var yy = y + 40;
+        rowsH.forEach(function (rh, ri) {
+          cells.slice(ri * cols3, ri * cols3 + cols3).forEach(function (c, ci) {
+            var x = CM + ci * (cw + 32);
+            drawLines(g, c.lang, x, yy + 20, 26, C_MUTED);
+            drawLines(g, c.name, x, yy + 28 + c.name.size * 0.95, c.name.size * 1.2, C_INK);
+            if (c.sub) drawLines(g, c.sub, x, yy + 28 + c.name.size * 1.2 + 22, 26, C_MUTED);
+          });
+          yy += rh + 16;
+        });
       } });
     }
-    m.facts.forEach(function (fa) {
-      var ff = fitText(g, fa.text, 'text', 0, 28, 22, CIN, 3);
-      blocks.push({ id: 'fact', h: 40 + ff.lines.length * ff.size * 1.35, src: [fa.src], draw: function (y) {
-        cardLabel(g, fa.label, CM, y + 22);
-        drawLines(g, ff, CM, y + 40 + ff.size, ff.size * 1.35, C_INK);
+    if (m.world) {
+      var Ls = m.world.lines.slice(0, p.d);
+      g.font = cfont('text', 20, 600);
+      var chipCol = Math.max.apply(null, Ls.map(function (l) { return l.conf ? g.measureText(l.conf).width + 30 : 0; }));
+      var F = Ls.map(function (l) { return fitText(g, l.place + ' — ' + l.text, 'text', 0, 27, 21, CIN - chipCol, 2); });
+      var lh = function (f) { return f.lines.length * f.size * 1.35; };
+      blocks.push({ id: 'world', h: 40 + F.reduce(function (a, f) { return a + lh(f) + 10; }, 0) - 10, src: Ls.map(function (l) { return l.src; }), draw: function (y) {
+        cardLabel(g, m.world.label, CM, y + 22); y += 40;
+        F.forEach(function (f, i) {
+          if (Ls[i].conf) chip(g, Ls[i].conf, CM, y + f.size + 2);
+          drawLines(g, f, CM + chipCol, y + f.size, f.size * 1.35, C_INK);
+          y += lh(f) + 10;
+        });
       } });
-    });
+    }
+    if (m.facts.length) {
+      var FA = m.facts.slice(0, p.f).map(function (fa) { return { fa: fa, f: fitText(g, fa.text, 'text', 0, 26, 21, CIN, 2) }; });
+      blocks.push({ id: 'facts', h: FA.reduce(function (a, x) { return a + 34 + x.f.lines.length * x.f.size * 1.35 + 12; }, 0) - 12, src: FA.map(function (x) { return x.fa.src; }), draw: function (y) {
+        FA.forEach(function (x) {
+          cardLabel(g, x.fa.label, CM, y + 22);
+          drawLines(g, x.f, CM, y + 34 + x.f.size, x.f.size * 1.35, C_INK);
+          y += 34 + x.f.lines.length * x.f.size * 1.35 + 12;
+        });
+      } });
+    }
     return blocks;
   }
+  // trim levels: every section stays; only the number of items in it (and the length of the reasons) goes down
+  var CARD_LEVELS = [
+    { b: 3, c: 6, d: 3, why: 2, f: 2 }, { b: 3, c: 6, d: 3, why: 1, f: 2 }, { b: 3, c: 6, d: 2, why: 1, f: 2 }, { b: 3, c: 6, d: 2, why: 1, f: 1 },
+    { b: 3, c: 3, d: 2, why: 1, f: 1 }, { b: 2, c: 3, d: 2, why: 1, f: 1 }, { b: 2, c: 3, d: 1, why: 1, f: 1 }, { b: 1, c: 3, d: 1, why: 1, f: 1 }];
 
   function drawCard(m, img) {
     var c = document.createElement('canvas'); c.width = CW; c.height = CH;
     var g = c.getContext('2d'); g.textBaseline = 'alphabetic'; g.direction = 'ltr';
     g.fillStyle = C_PAPER; g.fillRect(0, 0, CW, CH);
-    var BAND = 330, top;
+    var BAND = 380, top;
     // optional meaning photo: a top band that fades into the paper; without one, a tag line
     if (img) {
       var sc = Math.max(CW / img.width, BAND / img.height), iw = img.width * sc, ih = img.height * sc;
       g.save(); g.beginPath(); g.rect(0, 0, CW, BAND); g.clip();
       g.drawImage(img, (CW - iw) / 2, (BAND - ih) / 2, iw, ih);
       g.restore();
-      var grd = g.createLinearGradient(0, BAND - 140, 0, BAND); grd.addColorStop(0, 'rgba(244,240,230,0)'); grd.addColorStop(1, C_PAPER);
-      g.fillStyle = grd; g.fillRect(0, BAND - 140, CW, 140);
+      var grd = g.createLinearGradient(0, BAND - 150, 0, BAND); grd.addColorStop(0, 'rgba(244,240,230,0)'); grd.addColorStop(1, C_PAPER);
+      g.fillStyle = grd; g.fillRect(0, BAND - 150, CW, 150);
       top = BAND - 4;
     } else {
       g.font = cfont('text', 24, 600); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(T.cardTag, CM, CM + 6);
       top = CM + 64;
     }
     smallSeal(g, m.seal || '', CW - CM - 92, CM - 34, 92);   // the stamp, only as a small accent
-    // footer: Nadri and the address
-    var foot = CH - 152;
+    // footer: Nadri
+    var foot = CH - 130;
     g.fillStyle = C_INK; g.fillRect(CM, foot, CIN, 2);
-    g.font = cfont('head', 56); g.textAlign = 'left'; g.fillText('Nadri', CM, CH - 70);
-    g.textAlign = 'right'; g.font = cfont('text', 23); g.fillStyle = C_MUTED; g.fillText(T.cardTry, CW - CM, CH - 106);
-    g.font = cfont('mono', 28, 600); g.fillStyle = C_RED; g.fillText('nadri-guide.pages.dev/name', CW - CM, CH - 70);
-    // measure: hero, meaning, body sections
-    var hero = fitText(g, m.hero, 'head', 0, img ? 116 : 132, 80, CIN, 1);
-    if (hero.lines.length > 1) hero = fitText(g, m.hero, 'head', 0, 88, 52, CIN, 2);
-    var heroH = hero.lines.length * hero.size * 1.08;
-    var mean = null, meanH = 0;
-    if (m.meaning) {
-      mean = { lab: (m.meaning.label || T.yourNameIs) + (m.meaning.root ? ' (→ ' + m.meaning.root + ')' : '') };
-      mean.word = m.meaning.long ? fitText(g, m.meaning.word, 'head', 0, 50, 32, CIN, 3) : fitText(g, '“' + m.meaning.word + '”', 'head', 0, 76, 40, CIN, 2);
-      mean.det = m.meaning.detail ? fitText(g, m.meaning.detail, 'text', 0, 27, 22, CIN, 2) : null;
-      meanH = 18 + 42 + mean.word.lines.length * mean.word.size * 1.18 + (mean.det ? 8 + mean.det.lines.length * mean.det.size * 1.35 : 0);
+    g.font = cfont('head', 52); g.textAlign = 'left'; g.fillText('Nadri', CM, CH - 58);
+    g.textAlign = 'right'; g.font = cfont('text', 23); g.fillStyle = C_MUTED; g.fillText(T.cardTry, CW - CM, CH - 64);
+    // measure the head: name, then the whole-name meaning
+    var hero = fitText(g, m.hero, 'head', 0, img ? 112 : 128, 76, CIN, 1);
+    if (hero.lines.length > 1) hero = fitText(g, m.hero, 'head', 0, 84, 50, CIN, 2);
+    var heroH = hero.lines.length * hero.size * 1.08, mean = null, meanH = 0;
+    if (m.phrase) {
+      mean = { lab: T.yourNameIs + (m.phrase.root ? ' (→ ' + m.phrase.root + ')' : '') };
+      mean.word = m.phrase.long ? fitText(g, m.phrase.word, 'head', 0, 48, 30, CIN, 3) : fitText(g, '“' + m.phrase.word + '”', 'head', 0, 72, 40, CIN, 2);
+      mean.det = m.phrase.detail ? fitText(g, m.phrase.detail, 'text', 0, 26, 20, CIN, 2) : null;
+      meanH = 16 + 42 + mean.word.lines.length * mean.word.size * 1.18 + (mean.det ? 6 + mean.det.lines.length * mean.det.size * 1.35 : 0);
     }
-    var blocks = cardBlocks(g, m), MINGAP = 34;
+    // the "see everything" line (owner [7eb4ec94#2341]) and sources sit just above the footer
+    g.font = cfont('text', 27, 600); var moreLab = T.cardMore + ' →', url = 'nadri-guide.pages.dev/name';
+    var moreW = g.measureText(moreLab + ' ').width; g.font = cfont('mono', 27, 600);
+    var moreOne = moreW + g.measureText(url).width <= CIN, moreH = moreOne ? 40 : 76;
     var srcOf = function (bl) {
-      var all = (m.meaning && m.meaning.src ? [m.meaning.src] : []);
+      var all = (m.src.phrase || []).slice();
       bl.forEach(function (b) { all = all.concat(b.src); });
       var out = []; all.forEach(function (x) { x = String(x || '').split(':')[0].trim(); if (x && out.indexOf(x) < 0) out.push(x); });
-      var t = (m.credit ? m.credit : '') + (out.length ? (m.credit ? ' · ' : '') + T.src + ': ' + out.join(' · ') : '');
-      return t ? fitText(g, t, 'text', 0, 20, 17, CIN, 2) : null;
+      var t = (m.credit || '') + (out.length ? (m.credit ? ' · ' : '') + T.src + ': ' + out.join(' · ') : '');
+      return t ? fitText(g, t, 'text', 0, 19, 16, CIN, 2) : null;
     };
-    var srcH = function (f) { return f ? 24 + f.lines.length * f.size * 1.35 : 0; };
-    var sum = function () { return blocks.reduce(function (a, b) { return a + b.h + MINGAP; }, 0); };
-    var room = function () { return foot - srcH(srcOf(blocks)) - 28 - top - heroH - meanH; };
-    // when it does not fit: drop extra facts, then where-it-leads, then the same-meaning row; the name in Korean/Japanese/Chinese stays
-    while (blocks.length && sum() > room()) {
-      var drop = ['fact', 'lead', 'same', 'scripts'].filter(function (id) { return blocks.some(function (b) { return b.id === id; }); })[0];
-      blocks.splice(blocks.map(function (b) { return b.id; }).lastIndexOf(drop), 1); m.dropped = (m.dropped || []).concat(drop);
+    var srcH = function (f) { return f ? 18 + f.lines.length * f.size * 1.35 : 0; };
+    var MINGAP = 22, blocks, level = 0;
+    for (; level < CARD_LEVELS.length; level++) {
+      blocks = cardBlocks(g, m, CARD_LEVELS[level]);
+      var need = blocks.reduce(function (a, b) { return a + b.h + MINGAP; }, 0) + MINGAP + moreH;
+      if (need <= foot - 24 - srcH(srcOf(blocks)) - top - heroH - meanH) break;
     }
-    var sf = srcOf(blocks), avail = foot - srcH(sf) - 28 - top - heroH - meanH;
-    var used = blocks.reduce(function (a, b) { return a + b.h; }, 0);
-    var gap = blocks.length ? Math.min(64, (avail - used) / blocks.length) : 0;
-    var spare = avail - used - gap * blocks.length;
-    var y = top + (img ? 0 : Math.max(0, spare * 0.42));   // short cards sit a little above the middle instead of leaving a hole
-    // draw
+    if (level === CARD_LEVELS.length) level--;
+    m.level = level;
+    m.shown = {}; blocks.forEach(function (b) { m.shown[b.id] = 1; });
+    var sf = srcOf(blocks), bottom = foot - 24 - srcH(sf);
+    var used = blocks.reduce(function (a, b) { return a + b.h; }, 0) + moreH;
+    var avail = bottom - top - heroH - meanH;
+    var gap = Math.max(MINGAP - 10, Math.min(60, (avail - used) / (blocks.length + 1)));
+    var spare = avail - used - gap * (blocks.length + 1);
+    var y = top + (img ? 0 : Math.max(0, spare * 0.42));   // short cards sit a little above the middle
     y += drawLines(g, hero, CM, y + hero.size * 0.9, hero.size * 1.08, C_INK);
     if (mean) {
-      y += 18;
+      y += 16;
       g.font = cfont('text', 30); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(mean.lab, CM, y + 28);
-      if (m.meaning.conf) chip(g, m.meaning.conf, CM + g.measureText(mean.lab).width + 14, y + 28);
+      if (m.phrase.conf) chip(g, m.phrase.conf, CM + g.measureText(mean.lab).width + 14, y + 28);
       y += 42;
       y += drawLines(g, mean.word, CM, y + mean.word.size * 0.95, mean.word.size * 1.18, C_RED);
-      if (mean.det) { y += 8; y += drawLines(g, mean.det, CM, y + mean.det.size, mean.det.size * 1.35, C_MUTED); }
+      if (mean.det) { y += 6; y += drawLines(g, mean.det, CM, y + mean.det.size, mean.det.size * 1.35, C_MUTED); }
     }
     blocks.forEach(function (b) {
       y += gap / 2; g.fillStyle = C_HAIR; g.fillRect(CM, y, CIN, 2);
       y += gap / 2; b.draw(y); y += b.h;
     });
-    if (sf) drawLines(g, sf, CM, foot - 24 - (sf.lines.length - 1) * sf.size * 1.35, sf.size * 1.35, C_MUTED);
+    // "See the full result → nadri-guide.pages.dev/name"
+    y += gap / 2; g.fillStyle = C_HAIR; g.fillRect(CM, y, CIN, 2); y += gap / 2;
+    g.textAlign = 'left'; g.font = cfont('text', 27, 600); g.fillStyle = C_INK; g.fillText(moreLab, CM, y + 30);
+    g.font = cfont('mono', 27, 600); g.fillStyle = C_RED;
+    if (moreOne) g.fillText(url, CM + moreW, y + 30); else g.fillText(url, CM, y + 66);
+    if (sf) drawLines(g, sf, CM, foot - 22 - (sf.lines.length - 1) * sf.size * 1.35, sf.size * 1.35, C_MUTED);
     return c;
   }
 
@@ -980,7 +1047,7 @@
     m.seal = r.hangul;
     var P = (window.NADRI_MEANING_IMG || {})[m.concept];
     var ready = document.fonts && document.fonts.load ? Promise.all([cfont('head', 60), cfont('text', 30), cfont('text', 30, 600), cfont('mono', 24, 600), cfont('mono', 24, 500)].map(function (f) {
-      return document.fonts.load(f, JSON.stringify(m) + 'Nadri' + T.cardTag + T.cardSame + T.cardLeads + T.cardTry + T.yourNameIs + T.src);
+      return document.fonts.load(f, JSON.stringify(m) + 'Nadri' + T.cardTag + T.cardMore + T.cardTry + T.yourNameIs + T.bornIn + T.world + T.koAbroad + T.chain + T.src + T.sure);
     })).catch(function () {}) : Promise.resolve();
     job.p = ready.then(function () { return cardImage(m.concept); }).then(function (img) {
       m.credit = img && P.credit ? P.credit : '';
