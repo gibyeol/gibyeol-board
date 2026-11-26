@@ -91,15 +91,19 @@ updated: 2026-11-26
 
 <aside class="tr-note tip"><i class="ic ic-info" aria-hidden="true"></i><span>막 도착했는데 카드도 현금도 없다면: 새 무인기에서 기후동행카드나 1회용 승차권을 해외 신용·체크카드로 살 수 있어요(2026년 3월 17일부터).</span></aside>
 
+**처음 카드 사기:** 시내에서는 편의점 계산대나 역 기계에서 사요([편의점에서 사는 순서](/ko/convenience-store/#tmoney)). 충전은 위 2단계처럼 발매기에서 현금으로 해요. 현금이 없으면 인천공항 1·2터미널 공항철도역 티머니 자판기에서 충전식 티머니(15,000원)를 해외 신용카드로 살 수 있어요.
+
 필수는 아니에요. 공항 상점에서도 교통카드를 팔아서 미리 예약할 필요는 없어요. 도착하자마자 받고 싶다면:
 
-<div class="tr-buy"><i class="ic ic-credit-card" aria-hidden="true"></i><p><b>티머니 카드</b>를 공항에서 받기. 충전은 역에서 현금으로 해요.</p></div>
+<div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>티머니 카드</b>를 공항에서 받기. 충전은 역에서 현금으로 해요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 위키미디어 공용</span></p></div>
 
 {{aff:klook_tmoney|티머니 카드 예약하고 공항에서 받기}}
 
-<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>와우패스</b>: 환전·카드 결제·티머니를 한 장에. 티머니 잔액은 따로예요.</p></div>
+<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>와우패스</b>: 환전·카드 결제·티머니를 한 장에. 교통에 쓰는 티머니 잔액은 따로 충전해요(역·편의점에서 현금, 또는 앱에서 와우패스 잔액을 옮겨서).</p></div>
 
 {{aff:klook_wowpass|환전·카드 결제·티머니를 한 장에, WOWPASS}}
+
+미리 산 카드를 받는 곳, 와우패스 충전·남은 돈 돌려받는 법: [공항 페이지 '도착 전에 준비'](/ko/airport-to-seoul/#prep).
 
 ## 첫날 자주 하는 실수
 
@@ -118,6 +122,8 @@ updated: 2026-11-26
 필수는 아니지만, 직통열차 표를 도착 전에 휴대폰에 받아 두고 싶다면:
 
 {{aff:klook_airport|공항철도 직통열차 미리 예매하기}}
+
+산 다음: 공항철도 공식 승차권은 QR코드를 직통열차 게이트의 QR 스캐너에 대면 문이 열려요. 클룩에서 산 표는 확인서의 사용 방법을 따르세요. 타는 곳과 바꾸기·취소: [공항 페이지 '도착 전에 준비'](/ko/airport-to-seoul/#prep).
 
 자세한 비교는 [인천공항에서 서울까지](/ko/airport-to-seoul/)에 있어요.
 
@@ -208,6 +214,8 @@ updated: 2026-11-26
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>출처와 사진</summary>
 
 <p class="sources">2026년 11월 26일(한국 시간)에 열어 확인. 서울시 교통 누리집: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 6월 28일 조정), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">일회용 교통카드</a>, <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정)와 <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>, <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">해외 신용카드 구매 보도자료</a>(2026년 3월 16일), <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">임산부배려석 안내</a>. 내 손안에 서울: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">신형 키오스크·선불카드 현금 충전</a>(2025년 9월 2일), <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">해외카드 팩트브리핑</a>(2026년 1월 7일), <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">지하철 심야 운행 재개</a>(2022년 5월 30일), <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014년 교통카드 분석</a>(2015년 4월 29일), <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9호선 급행 확대</a>(2026년 10월 14일). 서울시 영문 누리집: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">해외카드</a>(2026년 3월 17일), <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">첫차·막차 30분 조정 계획</a>(2025년 5월 27일). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">서울시메트로9호선 출근시간 열차 이용 안내</a>. 공항철도 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차</a>·<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차</a> 안내. <a href="https://wowpass.io/ko/guide" rel="noopener" target="_blank">와우패스 공식 가이드</a>. 코리아헤럴드: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">첫차·막차 30분 앞당김</a>(2025년 5월 22일), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">임산부석과 배지</a>(2023년 6월 27일). 코리아타임스: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">임산부 배려석</a>(2017년 12월 6일). 2026년 11월 26일에 함께 열어 봄: 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026년 3월 16일), <a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">대중교통 이용 팁</a>(2025년 11월 6일, 지도 앱).</p>
+
+<p class="sources">2026년 11월 27일 확인: 공항철도 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">직통열차 이용안내</a>(QR 게이트); 와우패스 <a href="https://www.wowpass.io/ko/guide" rel="noopener" target="_blank">사용 안내</a>(티머니 잔액은 역·편의점 현금 또는 앱 NFC로 따로 충전); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">공항철도 충전식 티머니</a>(15,000원, 해외 카드). 확인하지 못한 것: 클룩 상품 페이지(자동 접속 차단).</p>
 
 사진: 위키미디어 공용의 사진을 각 설명에 적은 라이선스로 썼어요. 요금 비교와 일반·직통열차 그림은 Nadri가 그렸어요.
 
