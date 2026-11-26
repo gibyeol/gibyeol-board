@@ -418,3 +418,5 @@ details.tr-more .fig{padding:8px}
 .ap-fares li{display:grid;grid-template-columns:5.6em 1fr;gap:10px;align-items:center;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:7px 10px;line-height:1.35;font-size:.94rem}
 .ap-fares b{font:600 .95rem var(--mono);color:var(--red)}
 @media (min-width:700px){.ap-vs{grid-template-columns:1fr 1fr}.ap-routes{grid-template-columns:repeat(3,1fr)}}
+.tr-buy .ap-noimg{display:flex;align-items:center;justify-content:center;width:96px;height:72px;border-radius:8px;background:var(--night);color:#efe9dd}.tr-buy .ap-noimg .ic{width:34px;height:34px}
+.ap-credits{margin:.4rem 0 0;padding-left:1.1rem;font-size:.8rem;line-height:1.5;color:var(--muted)}.ap-credits li{margin:.2rem 0}.ap-credits a{color:inherit}
