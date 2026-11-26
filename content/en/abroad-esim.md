@@ -18,12 +18,12 @@ The eSIM is easier for a simple reason: no SIM pin, no tiny card to lose, and th
 
 ## Check 1: does your phone support eSIM?
 
-**iPhone.** iPhone XS, XS Max, XR and later models support eSIM. iPhones sold in Korea have both an eSIM and a physical SIM slot.
+**iPhone.** iPhone XS, XS Max, XR and later models support eSIM. iPhones sold in Korea have both an eSIM and a physical SIM slot. Exceptions (Apple): in China mainland only iPhone 18 Pro, 18 Pro Max, iPhone Duo, 17e and iPhone Air support eSIM, and in Hong Kong and Macao some iPhone models use Dual SIM with two nano-SIM cards. If your iPhone was bought there, check the model first.
 
 **Galaxy.** In Korea, eSIM activation started on 1 September 2022, and the first Korean-market eSIM models were the Galaxy Z Fold4 and Z Flip4. Korean-market models released before that probably do not support it, so do not guess from the model name. Check directly:
 
 - Galaxy: in **Settings → About phone → Status information**, if you see an **EID** entry, the phone supports eSIM.
-- iPhone: XS, XR or later supports it, so you only need the model (**Settings → General → About → Model Name**).
+- iPhone: XS, XR or later supports it, so you only need the model (China mainland, Hong Kong and Macao models: see the exceptions above) (**Settings → General → About → Model Name**).
 
 ## Check 2: is your phone free of a carrier lock?
 
@@ -47,9 +47,10 @@ Finish the install on home Wi-Fi a day or two before you fly. The most common mi
 
 1. **Install (on home wifi):** scan the QR code with the Camera app → tap the "Cellular Plan Detected" notification → tap Continue at the bottom → Add Cellular Plan. A QR code in an email or browser: touch and hold it, then tap Add eSIM. A link instead: tap it → Allow → Continue.
 2. **Turn it on when you land:** if a "Turn On Travel eSIM" notification appears, tap it → choose Travel eSIM Only or Travel eSIM and Current eSIM → Continue (iOS 26 and later). Otherwise go to **Settings → Cellular → Cellular Data** and pick the travel eSIM. Only one number uses data at a time.
-3. **Stop roaming charges on your usual SIM:** with both lines on, your home line can still incur roaming fees. Tap **Settings → Cellular → your usual number** and turn Data Roaming off. Ask your carrier before you go what incoming calls and texts will cost.
-4. **Back home:** with iOS 26 and later, depending on the country, the travel eSIM turns off and your home SIM turns back on by itself. If you get no notice, check in **Settings → Cellular** that Turn On This Line is on for your usual number, and turn off travel eSIM lines you no longer use.
-5. **If it doesn't connect:** turn Airplane Mode on and off → in Settings → Cellular, turn that line off and on → restart. Still nothing: contact the seller (note the error message and your EID: Settings → General → About).
+3. **Turn on Data Roaming for the travel eSIM:** tap **Settings → Cellular → your travel eSIM number** and turn Data Roaming on (step 3 in the list above). Data Roaming lets you use the internet over a cellular network outside your carrier's network. If the seller's instructions say otherwise, follow them.
+4. **Stop roaming charges on your usual SIM:** with both lines on, your home line can still incur roaming fees. Tap **Settings → Cellular → your usual number** and turn Data Roaming off. Ask your carrier before you go what incoming calls and texts will cost.
+5. **Back home:** with iOS 26 and later, depending on the country, the travel eSIM turns off and your home SIM turns back on by itself. If you get no notice, check in **Settings → Cellular** that Turn On This Line is on for your usual number, and turn off travel eSIM lines you no longer use.
+6. **If it doesn't connect:** turn Airplane Mode on and off → in Settings → Cellular, turn that line off and on → restart. Still nothing: contact the seller (note the error message and your EID: Settings → General → About).
 
 **Galaxy** (menu names vary a little by model and software)
 
@@ -71,9 +72,10 @@ Finish the install on home Wi-Fi a day or two before you fly. The most common mi
 - [Samsung Electronics Service: how to find a Galaxy phone's EID](https://www.samsungsvc.co.kr/solution/1106071) (Korean)
 - [Segye Ilbo: Galaxy Z Fold4 and Flip4, Korea's first eSIM models (2022-08-18)](https://www.segye.com/newsView/20220818521133) (Korean)
 - [Apple: Set up eSIM on iPhone (QR and link installs)](https://support.apple.com/en-us/118669) (checked 2026-11-27)
-- [Apple: Use eSIM while traveling internationally (Turn On Travel eSIM, data line, returning home)](https://support.apple.com/en-us/118227) (checked 2026-11-27)
+- [Apple: Use eSIM while traveling internationally (China mainland / Hong Kong / Macao exceptions, Turn On Travel eSIM, data line, returning home)](https://support.apple.com/en-us/118227) (checked 2026-11-27)
 - [Apple: Use Dual SIM (one number for data at a time)](https://support.apple.com/en-us/109317) (checked 2026-11-27)
 - [Apple: If you can't set up eSIM on iPhone](https://support.apple.com/en-us/102478) (checked 2026-11-27)
+- [Apple: iPhone User Guide — cellular data settings (Data Roaming)](https://support.apple.com/guide/iphone/view-or-change-cellular-data-settings-iph3dd5f213/ios) (checked 2026-11-27)
 - [Samsung: SIM cards for your Galaxy (SIM manager → Add eSIM → Scan QR code)](https://www.samsung.com/us/support/answer/ANS10001619/) (checked 2026-11-27)
 - [Samsung UK: turning data roaming on or off](https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/), [switching between dual SIMs](https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/) (checked 2026-11-27)
 - Not checked: Yesim plans, install guide and refunds (the site blocks automated access); two Samsung Electronics Service (samsungsvc.co.kr) pages (under maintenance on 2026-11-27)

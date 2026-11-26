@@ -18,12 +18,12 @@ eSIM 方便的原因很簡單:不用退卡針,不怕弄丟小小的 SIM 卡,現�
 
 ## 檢查 1:手機支援 eSIM 嗎
 
-**iPhone。** iPhone XS、XS Max、XR 及之後的機型支援 eSIM。在韓國販售的 iPhone 同時有 eSIM 和實體 SIM 卡槽。
+**iPhone。** iPhone XS、XS Max、XR 及之後的機型支援 eSIM。在韓國販售的 iPhone 同時有 eSIM 和實體 SIM 卡槽。例外(Apple):在中國大陸,只有 iPhone 18 Pro、18 Pro Max、iPhone Duo、17e 和 iPhone Air 支援 eSIM;在香港和澳門,部分 iPhone 機型的雙 SIM 卡是使用兩張 nano-SIM 卡。在這些地區買的 iPhone,請先確認機型。
 
 **Galaxy。** 韓國從 2022 年 9 月 1 日開始開通 eSIM,韓國版第一批支援 eSIM 的機型是 Galaxy Z Fold4、Z Flip4。比這更早推出的韓國版機型很可能不支援,所以別從型號猜,用下面的方法直接確認最準。
 
 - Galaxy:在**設定 → 關於手機 → 狀態資訊**中看到 **EID** 項目,就是支援 eSIM 的手機。
-- iPhone:XS、XR 之後的機型都支援,只要確認型號(**設定 → 一般 → 關於本機 → 機型名稱**)。
+- iPhone:XS、XR 之後的機型都支援,只要確認型號(中國大陸、香港、澳門機型請看上面的例外)(**設定 → 一般 → 關於本機 → 機型名稱**)。
 
 ## 檢查 2:手機沒有電信鎖嗎
 
@@ -47,9 +47,10 @@ eSIM 方便的原因很簡單:不用退卡針,不怕弄丟小小的 SIM 卡,現�
 
 1. **安裝(在家用 Wi-Fi):** 用「相機」App 掃描 QR 碼 → 點一下「偵測到行動方案」通知 → 點螢幕底部的「繼續」→「加入行動方案」。在電子郵件或瀏覽器收到的 QR 碼:按住它,再點「加入 eSIM」。收到的是連結:點連結 →「允許」→「繼續」。
 2. **抵達後開啟:** 出現「開啟旅遊 eSIM」通知就點它 → 選「僅旅遊 eSIM」或「旅遊 eSIM 和目前的 eSIM」→「繼續」(iOS 26 以上)。沒有通知的話,到**設定 →「行動服務」→「行動數據」**選旅遊 eSIM。行動數據一次只走一個號碼。
-3. **避免平常門號的漫遊費:** 兩個號碼都開著時,平常的門號仍可能產生漫遊費。點**設定 →「行動服務」→ 平常的號碼**,把「數據漫遊」關掉。平常門號接電話、收簡訊在國外的費用,出發前問你的電信業者。
-4. **回國後:** iOS 26 以上會依國家或地區,自動關閉旅遊 eSIM 並重新開啟平常的 SIM 卡。沒有收到通知的話,到**設定 →「行動服務」**確認平常號碼的「開啟此號碼」已開啟,用完的旅遊 eSIM 號碼關掉。
-5. **連不上時:** 開關一次飛航模式 → 在設定 →「行動服務」把那個號碼關掉再打開 → 重新開機。還是不行就聯絡賣家(記下畫面上的錯誤訊息和 EID:設定 → 一般 → 關於本機)。
+3. **開啟旅遊 eSIM 的數據漫遊:** 點**設定 →「行動服務」→ 旅遊 eSIM 號碼**,把「數據漫遊」打開(上面清單第 3 項)。「數據漫遊」是在你電信業者網路範圍外,透過行動數據網路上網的開關。賣家的說明不同時,照賣家的說明。
+4. **避免平常門號的漫遊費:** 兩個號碼都開著時,平常的門號仍可能產生漫遊費。點**設定 →「行動服務」→ 平常的號碼**,把「數據漫遊」關掉。平常門號接電話、收簡訊在國外的費用,出發前問你的電信業者。
+5. **回國後:** iOS 26 以上會依國家或地區,自動關閉旅遊 eSIM 並重新開啟平常的 SIM 卡。沒有收到通知的話,到**設定 →「行動服務」**確認平常號碼的「開啟此號碼」已開啟,用完的旅遊 eSIM 號碼關掉。
+6. **連不上時:** 開關一次飛航模式 → 在設定 →「行動服務」把那個號碼關掉再打開 → 重新開機。還是不行就聯絡賣家(記下畫面上的錯誤訊息和 EID:設定 → 一般 → 關於本機)。
 
 **Galaxy**(選單名稱依機型、軟體版本略有不同)
 
@@ -68,12 +69,13 @@ eSIM 方便的原因很簡單:不用退卡針,不怕弄丟小小的 SIM 卡,現�
 - [Apple:在 iPhone 上使用 eSIM(支援機型、電信業者鎖定)](https://support.apple.com/en-us/118227)(2026-10-22 確認,英文)
 - [Apple:僅支援 eSIM 的 iPhone 機型與販售國家](https://support.apple.com/en-us/118569)(2026-11-05 確認,英文)
 - [三星電子服務:eSIM 開通說明(韓國自 2022 年 9 月 1 日開始)](https://www.samsungsvc.co.kr/solution/1071978)(韓文)
-- [三星電子服務:Galaxy EID 確認方法](https://www.samsungsvc.co.kr/solution/1106071)(韓文)
+- [三星電子服務:Galaxy EID 確認方法](https://www.samsungsvc.co.kr/solution/1106071)(韓文,選單名稱為我們翻譯)
 - [世界日報:韓國第一款 eSIM 機型 Galaxy Z Fold4、Flip4(2022-08-18)](https://www.segye.com/newsView/20220818521133)(韓文)
 - [Apple:在 iPhone 上設定 eSIM(QR 碼、連結安裝)](https://support.apple.com/zh-tw/118669)(2026-11-27 確認)
-- [Apple:出國旅行時在 iPhone 上使用 eSIM(開啟旅遊 eSIM、行動數據號碼、回國)](https://support.apple.com/zh-tw/118227)(2026-11-27 確認)
+- [Apple:出國旅行時在 iPhone 上使用 eSIM(中國大陸與香港澳門的例外、開啟旅遊 eSIM、行動數據號碼、回國)](https://support.apple.com/zh-tw/118227)(2026-11-27 確認)
 - [Apple:使用雙 SIM 卡(一次只有一個號碼使用行動數據)](https://support.apple.com/zh-tw/109317)(2026-11-27 確認)
 - [Apple:如果無法在 iPhone 上設定 eSIM](https://support.apple.com/zh-tw/102478)(2026-11-27 確認)
+- [Apple:iPhone 使用手冊 — 行動數據設定(數據漫遊)](https://support.apple.com/zh-tw/guide/iphone/iph3dd5f213/ios)(2026-11-27 確認)
 - [三星台灣:Galaxy eSIM(SIM 卡管理工具 → 新增 eSIM → 掃描 QR 碼)](https://www.samsung.com/tw/support/mobile-devices/galaxy-esim-and-supported-network-carriers/)(2026-11-27 確認)
 - [三星英國:開啟或關閉數據漫遊](https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/)、[切換雙 SIM 卡](https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/)(英文,選單名稱為我們翻譯,2026-11-27 確認)
 - 未能確認:Yesim 方案、安裝說明、退款(網站擋下自動連線);三星電子服務(samsungsvc.co.kr)兩個頁面(2026-11-27 維護中)
