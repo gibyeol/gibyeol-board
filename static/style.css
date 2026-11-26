@@ -328,7 +328,7 @@ article.body:has(.eac-step) .fig+ol.steps>li::before{top:8px;left:12px}
 .tr-facts .ic{width:1.6em;height:1.6em;color:var(--red)}
 .tr-facts small{display:block;font-weight:400;color:var(--muted);font-size:.82rem}
 .tr-hero{margin:1rem 0 .4rem;padding:0;border:0;background:none}
-.tr-hero img{display:block;width:100%;height:auto;border-radius:12px;aspect-ratio:3/2;object-fit:cover}
+.tr-hero img{display:block;width:100%;height:auto;border-radius:12px;aspect-ratio:16/9;object-fit:cover}
 .tr-hero figcaption,.tr-pair figcaption,.tr-photo figcaption{margin-top:6px;font-size:.84rem;color:var(--muted);line-height:1.4}
 .tr-hero figcaption b,.tr-pair figcaption b,.tr-photo figcaption b{color:var(--ink)}
 .tr-credit{display:block;font-size:.74rem;color:var(--muted);opacity:.9}
@@ -453,3 +453,16 @@ h3.eac-step .st{display:inline-flex;align-items:center;padding:4px 10px;border-r
 .eac-nextcard b .ic{width:1.35em;height:1.35em;color:var(--red)}
 .eac-nextcard small{display:block;padding:0 14px 10px;color:var(--muted);font-size:.75rem}
 .tr-buy>.ic{width:64px;height:64px;color:var(--red);margin:auto}
+/* transit guides: keep the first phone screen for the picture and the main action */
+@media (max-width:600px){
+main:has(.tr-hero) .page-head{padding:1.1rem 0 .8rem;margin-bottom:.8rem}
+main:has(.tr-hero) .page-head h1{font-size:1.7rem}
+main:has(.tr-hero) .lede{font-size:1.06rem;line-height:1.5;margin-top:.5rem}
+main:has(.tr-hero) .byline{margin-top:.5rem}
+main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 0;margin:0 0 .5rem}
+.tr-hero{margin-top:.5rem}
+}
+.tr-choose>li>:not(.ic){grid-column:2}.tr-choose>li>.ic{grid-row:1/span 3}.tr-choose .tag{justify-self:start}
+.tr-photo img[src*="priority-seat"]{max-width:420px;margin-inline:auto}
+.fig img[src*="seoul-bus-reader-"],.fig img[src*="seoul-subway-refund"]{max-width:300px;margin-inline:auto}
+.tr-colours span.t b{display:inline;margin:0;font-size:inherit}
