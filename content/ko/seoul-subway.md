@@ -14,7 +14,7 @@ updated: 2026-11-26
 
 ## 따라 하기
 
-<h3 class="tr-step"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>전날 밤: 경로 열어 보기</h3>
+<h3 class="tr-step" id="map-app"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>전날 밤: 경로 열어 보기</h3>
 
 <ul class="tr-facts"><li><i class="ic ic-smartphone" aria-hidden="true"></i><span>네이버 지도·카카오맵<small>네이버: 영어·일본어·중국어, 카카오: 영어</small></span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><span>역 이름 + 출구 번호 저장<small>"명동역 8번 출구"처럼</small></span></li></ul>
 

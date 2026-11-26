@@ -14,7 +14,7 @@ updated: 2026-11-26
 
 ## Do this
 
-<h3 class="tr-step"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>The night before: open the route</h3>
+<h3 class="tr-step" id="map-app"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>The night before: open the route</h3>
 
 <ul class="tr-facts"><li><i class="ic ic-smartphone" aria-hidden="true"></i><span>Naver Map or Kakao Map<small>Naver: English, Japanese, Chinese. Kakao: English</small></span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><span>Save station + exit<small>like "Myeongdong Station, Exit 8"</small></span></li></ul>
 

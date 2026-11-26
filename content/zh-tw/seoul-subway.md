@@ -14,7 +14,7 @@ updated: 2026-11-26
 
 ## 跟著做
 
-<h3 class="tr-step"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>前一晚:先打開路線</h3>
+<h3 class="tr-step" id="map-app"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>前一晚:先打開路線</h3>
 
 <ul class="tr-facts"><li><i class="ic ic-smartphone" aria-hidden="true"></i><span>NAVER 地圖或Kakao Map<small>NAVER可切換中文,Kakao有英文</small></span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><span>存好車站和出口號碼<small>像「明洞站8號出口」</small></span></li></ul>
 

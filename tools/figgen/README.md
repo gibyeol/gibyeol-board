@@ -12,6 +12,7 @@ Which script owns which figures — run only the owner, or you overwrite later f
 | e-arrival-card-*, money-*, tax-refund-* | core-A/ |
 | airport-to-seoul-*, getting-around-*, olive-young-*, duty-free-1..5 | core-B/ |
 | duty-free-t1map, duty-free-t2map (pickup-counter wayfinding) | dutyfree_maps.py |
+| tax-refund-t1map, tax-refund-t2map (airport customs kiosk → refund counter) | taxrefund_maps.py |
 | palaces-1..7, seoul-areas-1..2, food-1..4, departure-day-1..5 | gen-guides2.py |
 | essentials-1..5, first-trip-1..3, emergency-1..4, convenience-store-1..3 (essentials also shows airport-to-seoul-1, owned by core-B) | gen-guides1.py |
 | health-1..5, skin-clinic-1..3, concert-trip-1..3 | gen-guides4.py |

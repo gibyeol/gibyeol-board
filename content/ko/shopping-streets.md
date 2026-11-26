@@ -62,7 +62,7 @@ updated: 2026-11-26
 - **가는 법:** 2호선 성수역 4번 출구. 연무장길이 여기서 시작해요. 무신사 메가스토어는 3번 출구에서 475m.
 - **어떤 곳:** 1950년대 말부터 작은 공장이 들어섰고, 1967년 이후 수제화 업체가 모여 수제화 거리가 됐어요. 지금은 패션·뷰티·팝업·플래그십 매장이 모인 곳이에요(비짓서울).
 - **올리브영 N 성수:** 연무장7길 13 팩토리얼 성수 건물, 4번 출구에서 118m(걸어서 약 1분). 2024년 11월 말 개점. 1층은 브랜드 팝업이 바뀌는 광장이고 매일 선착순 300명에게 무료 네 컷 사진, 2층 뷰티·컬처, 3층 스킨·웰니스, 4층 VIP 라운지. 메이크업 같은 무료 서비스는 사전 예약이고, 매주 금요일 정오에 다음 주 예약이 열려요.
-- **무신사 메가스토어 성수:** 2026년 4월 24일 개점, 약 6,600㎡. 2층이 무신사의 첫 오프라인 뷰티 층. 매일 11:00~22:00.
+- **무신사 메가스토어 성수:** 2026년 4월 24일 개점, 지상 4층과 지하층, 약 6,600㎡. 2층이 무신사의 첫 오프라인 뷰티 층. 매일 11:00~22:00.
 - **가기 좋은 시간:** 평일. 코리아헤럴드의 성수 쇼핑 가이드(2026년 7월)는 무신사 메가스토어가 주말에 붐비고, 일부 매장은 주말이면 대개 기다려야 한다고 적었어요.
 - **택스프리:** 매장마다 규칙을 확인하지 못했어요. 여권을 챙겨 계산 전에 물어보세요.
 - **이런 분은 건너뛰세요:** 줄 서기 싫은 분, 온라인에서 본 팝업 하나만 보러 가는 분. 팝업은 기간이 정해져 있어요(예: 무신사 스토어 성수의 조조타운 팝업은 2026년 10월 16~31일). 아직 하는지 먼저 확인하세요.
@@ -108,17 +108,19 @@ updated: 2026-11-26
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>출구 번호를 안 보고 큰 역에서 나오기. 반대편으로 나와 한참 걸어요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>여권 사진만 챙기기. 계산대 환급은 여권 실물이에요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>세 매장에 나눠 사기. 영수증마다 1만 5천 원을 넘어야 해요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>끝난 팝업을 보러 성수에 가기. 날짜를 먼저 확인하세요.</span></li></ul>
 
-<details class="tr-more"><summary><i class="ic ic-route" aria-hidden="true"></i>2호선으로 보내는 오후(동선 예시)</summary>
+<details class="tr-more"><summary><i class="ic ic-route" aria-hidden="true"></i>2호선 한나절 동선 예시</summary>
 
 {{fig:shopping-streets-3|2호선 한나절 쇼핑 동선}}
 
-쇼핑을 가게 목록이 아니라 동선으로 그려 보세요. 성수역 4번 출구로 올라오면 연무장길이 시작돼요. 올리브영 N 성수가 걸어서 1분 거리에 있어요. 그다음 2호선을 한 번 타고 홍대입구역으로 가서 9번 출구로 나와 350m를 걸으면 R3예요. 홍대를 마지막에 둔 건 저녁까지 여는 가게가 있어서예요(비짓서울 기준 커버낫 21:00까지). 다만 저희가 정말 고른 끝 장면은 일주일 뒤예요. 줄이 있어서가 아니라 내게 맞아서 고른 물건 하나를 집에서 입거나 쓰고 있는 장면이요. 그래서 팝업은 선택으로 남겨 뒀어요. 뷰티가 먼저라면 성수 대신 명동을 넣으세요. 을지로입구역도 2호선이에요.
+1. 성수역 4번 출구 → 연무장길, 올리브영 N 성수(118m).
+2. 성수역에서 2호선 → 홍대입구역.
+3. 홍대입구역 9번 출구 → R3 패션 거리(350m). 커버낫은 21:00까지라 마지막에 둬도 돼요.
+
+뷰티가 먼저라면 성수 대신 명동(을지로입구역, 2호선)을 넣으세요. 팝업은 선택이에요.
 
 </details>
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>가기 전 짧은 목록, 선물 고르기</summary>
-
-목록 만들기는 집에서 미리 즐길 수 있는 쇼핑의 한 부분이고, 짧아야 끝까지 써요.
 
 1. **사고 싶은 것을 종류별로 적어요:** 뷰티, 옷, K-팝 굿즈. 위 '어디로 갈까'가 그걸 거리로 바꿔 줘요.
 2. **온라인에서 본 팝업은 날짜를 확인해요.** 팝업은 기간이 정해져 있어요.
@@ -141,7 +143,7 @@ updated: 2026-11-26
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>출처</summary>
 
-<p class="sources">2026년 11월 26일(한국 시간) 확인. 비짓서울(영문): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">명동 특집</a>(쇼핑 1번지, 백화점·노점, 지하쇼핑센터, 명동예술극장 사거리, 유네스코길 끝 명동성당, 2025년 11월 18일 수정), <a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">'2025 Seoul Trend Dispatch: Seongsu-dong'</a>(연무장길·4번 출구, 수제화 거리의 역사, 올리브영 N 성수 층별·예약·118m, 2026년 6월 15일 수정), <a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">무신사 메가스토어 성수</a>(6,600㎡, 3번 출구 475m, 11:00~22:00, 2026년 7월 20일 수정), <a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9번 출구 350m, 마포 관광안내소 7번 출구 3분, 2026년 8월 31일 수정), <a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">커버낫</a>(12:00~21:00, 택스 리펀드, 알리페이, 9번 출구 10분, 잔다리로 24, KT&G 상상마당 인근, 2026년 8월 8일 수정), <a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">'Fan life starts in Hongdae'</a>(K-Pop Square 1번 출구 11:00~22:00, 카카오프렌즈 8번 출구, 2026년 10월 24일 수정), <a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">두타몰</a>(10:30~24:00, 동대문역 8번 출구, 2026년 11월 20일 수정). 올리브영 <a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">명동 글로벌 타운 사이트</a>(주소·영업시간·출구·서비스, 택스리펀드 FAQ, 화장실 없음). 코리아헤럴드: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">올리브영 N 성수</a>(2024년 11월 21일), <a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">서울 버스 파업과 2호선</a>(2026년 1월 13일), <a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">무신사 메가스토어 성수 개점</a>(2026년 4월 25일), <a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">성수 쇼핑 가이드</a>(2026년 7월 4일), <a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">무신사 조조타운 팝업</a>(2026년 10월 6일); 코리아헤럴드 기사들은 이전 판(2026년 11월 26일 오전)에서 확인했고 이번에 다시 열지 않았어요.</p>
+<p class="sources">2026년 11월 26일(한국 시간) 확인. 비짓서울(영문): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">명동 특집</a>(쇼핑 1번지, 백화점·노점, 지하쇼핑센터, 명동예술극장 사거리, 유네스코길 끝 명동성당, 2025년 11월 18일 수정), <a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">'2025 Seoul Trend Dispatch: Seongsu-dong'</a>(연무장길·4번 출구, 수제화 거리의 역사, 올리브영 N 성수 층별·예약·118m, 2026년 6월 15일 수정), <a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">무신사 메가스토어 성수</a>(6,600㎡, 3번 출구 475m, 11:00~22:00, 2026년 7월 20일 수정), <a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9번 출구 350m, 마포 관광안내소 7번 출구 3분, 2026년 8월 31일 수정), <a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">커버낫</a>(12:00~21:00, 택스 리펀드, 알리페이, 9번 출구 10분, 잔다리로 24, KT&G 상상마당 인근, 2026년 8월 8일 수정), <a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">'Fan life starts in Hongdae'</a>(K-Pop Square 1번 출구 11:00~22:00, 카카오프렌즈 8번 출구, 2026년 10월 24일 수정), <a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">두타몰</a>(10:30~24:00, 동대문역 8번 출구, 2026년 11월 20일 수정). 올리브영 <a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">명동 글로벌 타운 사이트</a>(주소·영업시간·출구·서비스, 택스리펀드 FAQ, 화장실 없음). 코리아헤럴드: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">올리브영 N 성수</a>(2024년 11월 21일), <a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">서울 버스 파업과 2호선</a>(2026년 1월 13일), <a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">무신사 메가스토어 성수 개점</a>(2026년 4월 25일), <a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">성수 쇼핑 가이드</a>(2026년 7월 4일), <a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">무신사 조조타운 팝업</a>(2026년 10월 6일); 코리아헤럴드 기사들은 이전 판(2026년 11월 26일 오전)에서 확인했고 이번에 다시 열지 않았어요. 무신사 메가스토어 개점 기사(지상 4층·지하층)는 11월 26일 오후 다시 열어 확인했어요.</p>
 
 </details>
 
