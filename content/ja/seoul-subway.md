@@ -4,7 +4,6 @@ description: ソウル地下鉄の支払い方法、現金チャージ、バス�
 lede: カード1枚を、乗るときと降りるときにタッチ。1回1,550ウォン。実際の改札と標識の写真で説明します。
 section: transport
 disclosure: yes
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#手順"><i class="ic ic-train-front" aria-hidden="true"></i>7ステップを見る</a><a class="tr-btn" href="#どのカードで乗る"><i class="ic ic-credit-card" aria-hidden="true"></i>どのカード?</a></div>

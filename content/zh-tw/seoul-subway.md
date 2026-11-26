@@ -4,7 +4,6 @@ description: 首爾地鐵怎麼付款、怎麼儲值(現金)、轉乘公車的�
 lede: 一張卡,進站嗶、出站嗶。一趟1,550韓元。用真實的閘門和標示照片帶你走一遍。
 section: transport
 disclosure: yes
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#跟著做"><i class="ic ic-train-front" aria-hidden="true"></i>看7個步驟</a><a class="tr-btn" href="#用哪張卡"><i class="ic ic-credit-card" aria-hidden="true"></i>用哪張卡?</a></div>

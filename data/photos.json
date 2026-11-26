@@ -882,5 +882,303 @@
   "share_alike": true,
   "retrieved": "2026-11-26",
   "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible; captions describe the format only."
+ },
+ {
+  "file": "static/fig/seoul-subway-hero.webp",
+  "subject": "Ticket gates and Way Out sign, Myeongdong Station (Line 4)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+  "author": "LERK",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+  "original_date": "2018-11-24",
+  "modifications": [
+   "resized to 780x439",
+   "light auto-contrast",
+   "2 people blurred (manual)",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 780x439, light auto-contrast, 2 people blurred (manual), converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license. Used instead of static/photo/subway-1.webp because that version shows a flat grey block where a false face detection was blurred."
+ },
+ {
+  "file": "static/fig/seoul-subway-exit-sign.webp",
+  "subject": "Way Out sign with numbered exits and machine pointer, Myeongdong Station",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+  "author": "LERK",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+  "original_date": "2018-11-24",
+  "modifications": [
+   "cropped",
+   "resized to 780x207",
+   "3 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 780x207, 3 numbered red boxes added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/fig/seoul-subway-gate.webp",
+  "subject": "Ticket gates with card readers, Konkuk Univ. Station",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg",
+  "author": "revi",
+  "license": "CC BY 2.0 KR",
+  "license_tag_on_file_page": "{{self|Cc-by-2.0-kr|FAL|attribution=revi}}",
+  "original_date": "2013-06-07",
+  "modifications": [
+   "cropped",
+   "resized to 780x556",
+   "6 areas blurred (people, manual)",
+   "2 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: revi, CC BY 2.0 KR, via Wikimedia Commons (modified: cropped, resized to 780x556, 6 areas blurred (people, manual), 2 numbered red boxes added, converted to WebP q82)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-subway-machine.webp",
+  "subject": "Ticket vending and card reload machine (Korail-run station)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
+  "author": "LandAndTree",
+  "license": "CC BY 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+  "original_date": "2024-07-13",
+  "modifications": [
+   "cropped",
+   "resized to 716x844",
+   "4 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 716x844, 4 numbered red boxes added, converted to WebP q82)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-subway-platform-sign.webp",
+  "subject": "Line 2 platform station sign, Jamsil Station",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg",
+  "author": "阿貴",
+  "license": "CC BY-SA 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+  "original_date": "2014-08-13",
+  "modifications": [
+   "cropped",
+   "resized to 780x257",
+   "2 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: 阿貴, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 780x257, 2 numbered red boxes added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/fig/seoul-subway-refund.webp",
+  "subject": "Single-journey ticket deposit refund machine",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_subway_single_use_card_deposit_refund_machine.jpg",
+  "author": "Sgroey",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0}}",
+  "original_date": "2024-08-18",
+  "modifications": [
+   "cropped",
+   "resized to 600x951",
+   "3 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Sgroey, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 600x951, 3 numbered red boxes added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/fig/seoul-subway-pink-seat.webp",
+  "subject": "Pink seat for pregnant women and floor sign, Seoul Metro Line 1 (2018)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg",
+  "author": "Garam",
+  "license": "Attribution (free use with attribution)",
+  "license_tag_on_file_page": "{{Attribution|1=User:Garam}}",
+  "original_date": "2018-03-31",
+  "modifications": [
+   "cropped",
+   "resized to 780x585",
+   "2 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Garam, Attribution (free use with attribution), via Wikimedia Commons (modified: cropped, resized to 780x585, 2 numbered red boxes added, converted to WebP q82)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-subway-priority-seat.webp",
+  "subject": "Priority seats at the end of a Seoul Metro car",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG",
+  "author": "hyolee2",
+  "license": "CC BY-SA 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-3.0|GFDL}}",
+  "original_date": "",
+  "modifications": [
+   "cropped",
+   "resized to 560x635",
+   "advertising poster with a face blurred",
+   "2 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: hyolee2, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 560x635, advertising poster with a face blurred, 2 numbered red boxes added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/fig/seoul-bus-stop-display.webp",
+  "subject": "Seoul bus stop real-time arrival display",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Bus_Info_in_the_Bus_Stop.jpg",
+  "author": "Wikiwater2020",
+  "license": "CC BY-SA 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+  "original_date": "2021-06-20",
+  "modifications": [
+   "cropped",
+   "resized to 780x323",
+   "1 numbered red box added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: cropped, resized to 780x323, 1 numbered red box added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/fig/seoul-bus-front.webp",
+  "subject": "Seoul blue bus route 105: front route number and front door",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png",
+  "author": "Ki hoon",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "(see static/photo/bus-1.webp entry)",
+  "original_date": "",
+  "modifications": [
+   "made from static/photo/bus-1.webp (light auto-contrast, driver and plate blurred)",
+   "2 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Ki hoon, CC BY-SA 4.0, via Wikimedia Commons (modified: made from static/photo/bus-1.webp (light auto-contrast, driver and plate blurred), 2 numbered red boxes added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/fig/seoul-bus-reader-front.webp",
+  "subject": "Bus boarding card reader (2012 photo)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg",
+  "author": "Wnstlr93 (Korean Wikipedia)",
+  "license": "CC BY 3.0",
+  "license_tag_on_file_page": "{{cc-by-3.0}}",
+  "original_date": "2012-01-04",
+  "modifications": [
+   "cropped",
+   "resized to 600x686",
+   "auto-contrast and brightened",
+   "1 numbered red box added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Wnstlr93 (Korean Wikipedia), CC BY 3.0, via Wikimedia Commons (modified: cropped, resized to 600x686, auto-contrast and brightened, 1 numbered red box added, converted to WebP q82)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-bus-reader-rear.webp",
+  "subject": "Bus rear-door (transfer/tap-off) card reader (2012 photo)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg",
+  "author": "Wnstlr93 (Korean Wikipedia)",
+  "license": "CC BY 3.0",
+  "license_tag_on_file_page": "{{cc-by-3.0}}",
+  "original_date": "2012-01-04",
+  "modifications": [
+   "cropped",
+   "resized to 600x521",
+   "auto-contrast",
+   "3 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Wnstlr93 (Korean Wikipedia), CC BY 3.0, via Wikimedia Commons (modified: cropped, resized to 600x521, auto-contrast, 3 numbered red boxes added, converted to WebP q82)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/bus-yellow-1.webp",
+  "subject": "Seoul yellow (circular) bus, route 05",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG",
+  "author": "hyolee2",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-4.0|GFDL}}",
+  "original_date": "",
+  "modifications": [
+   "resized to 640x516",
+   "light auto-contrast",
+   "1 area blurred (plate, manual)",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: hyolee2, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 640x516, light auto-contrast, 1 area blurred (plate, manual), converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/photo/bus-red-1.webp",
+  "subject": "Seoul red (wide-area) bus, route 9401",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg",
+  "author": "Wikiwater2020",
+  "license": "CC BY-SA 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+  "original_date": "2019-04-29",
+  "modifications": [
+   "resized to 640x480",
+   "light auto-contrast",
+   "2 areas blurred (plates, manual)",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: resized to 640x480, light auto-contrast, 2 areas blurred (plates, manual), converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
+ },
+ {
+  "file": "static/photo/bus-airport-1.webp",
+  "subject": "Airport limousine bus, route 6000 (2009 photo)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Airport_Bus_6000.jpg",
+  "author": "Baek Seung Woon",
+  "license": "CC BY-SA 2.0 KR",
+  "license_tag_on_file_page": "{{self|cc-by-sa-2.0-kr}}",
+  "original_date": "2009-07-24",
+  "modifications": [
+   "resized to 640x480",
+   "light auto-contrast",
+   "3 areas blurred (plate, driver, pedestrian; manual)",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Baek Seung Woon, CC BY-SA 2.0 KR, via Wikimedia Commons (modified: resized to 640x480, light auto-contrast, 3 areas blurred (plate, driver, pedestrian; manual), converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
  }
 ]

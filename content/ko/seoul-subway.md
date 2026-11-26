@@ -4,7 +4,6 @@ description: 서울 지하철 결제 수단, 현금 충전, 버스 환승, 출�
 lede: 카드 한 장, 탈 때 찍고 내릴 때 찍기. 한 번에 1,550원. 실제 개찰구와 표지판 사진으로 보여 드려요.
 section: transport
 disclosure: yes
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#따라-하기"><i class="ic ic-train-front" aria-hidden="true"></i>7단계 바로 보기</a><a class="tr-btn" href="#어떤-카드로-탈까"><i class="ic ic-credit-card" aria-hidden="true"></i>어떤 카드로?</a></div>
