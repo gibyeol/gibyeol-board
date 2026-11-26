@@ -443,7 +443,7 @@
     var seal = r.hangul.replace(/ /g, '').length <= 9 ? sealSVG(esc(r.hangul)) : '';
     var card = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
       (r.approx || !r.meaning ? '<p class="namer-note' + (r.approx ? ' approx' : '') + '">' + (r.approx ? T.approx : r.note) + '</p>' : '') +
-      '<p class="namer-actions">' + (SHARE_FILES ? '<button type="button" class="namer-cardshare">' + T.cardShare + '</button> ' : '') + '<button type="button" class="namer-cardbtn">' + T.cardSave + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
+      '<p class="namer-actions"><button type="button" class="namer-open">' + T.cardShare + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
       '<p class="namer-wrong">' + mail('Nadri name: ' + name, T.wrong) + '</p></div></div>';
     // 3. your name in other countries
     var more = '';
@@ -499,10 +499,10 @@
     if (rel) more += '<p class="namer-next"><span>' + T.related + '</span> ' + rel.map(function (n) { return '<button type="button" data-n="' + n + '">' + n.charAt(0).toUpperCase() + n.slice(1) + '</button>'; }).join(' ') + '</p>';
     // the whole-name meaning appears once: in the born-in heading if there is one, else under the characters
     card = card.replace('%%WHOLE%%', r.whole && more.indexOf('namer-born-h') < 0 ? '<p class="namer-gloss">' + T.yourNameIs + ' <strong>“' + esc(r.whole) + '”</strong></p>' : '');
-    out.innerHTML = card + more;
+    // the same 'Share card' button at the very top of the result, seen without scrolling
+    out.innerHTML = '<p class="namer-actions namer-top"><button type="button" class="namer-open">' + T.cardShare + '</button></p>' + card + more;
     prepareCard(r);
-    out.querySelector('.namer-cardbtn').onclick = function () { cardClick(false); };
-    var cs = out.querySelector('.namer-cardshare'); if (cs) cs.onclick = function () { cardClick(true); };
+    Array.prototype.forEach.call(out.querySelectorAll('.namer-open'), function (b) { b.onclick = function () { openShare(b); }; });
     out.querySelector('.namer-share').onclick = function (ev) {
       var url = location.origin + location.pathname + '?n=' + encodeURIComponent(name) + (uiLang !== SITE2UI[LANG] ? '&hl=' + uiLang : '');
       (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(function () { ev.target.textContent = T.copied; }, function () { prompt('', url); });
@@ -725,7 +725,7 @@
      Korean surname facts / "See the full result → address" / sources / Nadri. When space is short, sections keep fewer items; none is dropped.
      Meaning photo (owner [7eb4ec94#2296]): window.NADRI_MEANING_IMG[conceptId] = { src, credit }; same-origin files only, so nothing
      leaves the site and the canvas can still be saved. No photo: the card starts with the tag line. */
-  var CW = 1080, CH = 1920, CM = 84, CIN = CW - CM * 2;
+  var CW = 1080, CH = 1920, CM = 84, CIN = CW - CM * 2;   // CH: 1920 for the 9:16 story, 1350 for the 4:5 card (set per drawing)
   var C_PAPER = '#f4f0e6', C_INK = '#16151a', C_MUTED = '#5f5b55', C_HAIR = '#ddd6c8', C_RED = '#b8392f';
   var F_HEAD = '"Song Myung", "Noto Serif KR", serif', F_TEXT = '"IBM Plex Sans KR", system-ui, -apple-system, "Segoe UI", "Noto Sans KR", sans-serif', F_MONO = '"IBM Plex Mono", ui-monospace, monospace';
   function cfont(kind, size, weight) { return (weight ? weight + ' ' : '') + Math.round(size) + 'px ' + (kind === 'head' ? F_HEAD : kind === 'mono' ? F_MONO : F_TEXT); }
@@ -986,11 +986,13 @@
     { b: 3, c: 6, d: 3, why: 2, f: 2 }, { b: 3, c: 6, d: 3, why: 1, f: 2 }, { b: 3, c: 6, d: 2, why: 1, f: 2 }, { b: 3, c: 6, d: 2, why: 1, f: 1 },
     { b: 3, c: 3, d: 2, why: 1, f: 1 }, { b: 2, c: 3, d: 2, why: 1, f: 1 }, { b: 2, c: 3, d: 1, why: 1, f: 1 }, { b: 1, c: 3, d: 1, why: 1, f: 1 }];
 
-  function drawCard(m, img) {
+  function drawCard(m, img, fmt) {
+    CH = fmt === '45' ? 1350 : 1920;
+    var tight = CH < 1500;   // 4:5: same sections, fewer items and a smaller head
     var c = document.createElement('canvas'); c.width = CW; c.height = CH;
     var g = c.getContext('2d'); g.textBaseline = 'alphabetic'; g.direction = 'ltr';
     g.fillStyle = C_PAPER; g.fillRect(0, 0, CW, CH);
-    var BAND = 380, top;
+    var BAND = tight ? 260 : 380, top;
     // optional meaning photo: a top band that fades into the paper; without one, a tag line
     if (img) {
       var sc = Math.max(CW / img.width, BAND / img.height), iw = img.width * sc, ih = img.height * sc;
@@ -1010,62 +1012,75 @@
     g.fillStyle = C_INK; g.fillRect(CM, foot, CIN, 2);
     g.font = cfont('head', 52); g.textAlign = 'left'; g.fillText('Nadri', CM, CH - 58);
     g.textAlign = 'right'; g.font = cfont('text', 23); g.fillStyle = C_MUTED; g.fillText(T.cardTry, CW - CM, CH - 64);
-    // measure the head: name, then the whole-name meaning
-    var hero = fitText(g, m.hero, 'head', 0, img ? 112 : 128, 76, CIN, 1);
-    if (hero.lines.length > 1) hero = fitText(g, m.hero, 'head', 0, 84, 50, CIN, 2);
-    var heroH = hero.lines.length * hero.size * 1.08, mean = null, meanH = 0;
-    if (m.phrase) {
-      mean = { lab: T.yourNameIs + (m.phrase.root ? ' (→ ' + m.phrase.root + ')' : '') };
-      mean.word = m.phrase.long ? fitText(g, m.phrase.word, 'head', 0, 48, 30, CIN, 3) : fitText(g, '“' + m.phrase.word + '”', 'head', 0, 72, 40, CIN, 2);
-      mean.det = m.phrase.detail ? fitText(g, m.phrase.detail, 'text', 0, 26, 20, CIN, 2) : null;
-      meanH = 16 + 42 + mean.word.lines.length * mean.word.size * 1.18 + (mean.det ? 6 + mean.det.lines.length * mean.det.size * 1.35 : 0);
-    }
-    // the "see everything" line (owner [7eb4ec94#2341]) and sources sit just above the footer
-    g.font = cfont('text', 27, 600); var moreLab = T.cardMore + ' →', url = 'nadri-guide.pages.dev/name';
-    var moreW = g.measureText(moreLab + ' ').width; g.font = cfont('mono', 27, 600);
-    var moreOne = moreW + g.measureText(url).width <= CIN, moreH = moreOne ? 40 : 76;
+    // sources (full width, under the content) depend on which sections are shown
     var srcOf = function (bl) {
       var all = (m.src.phrase || []).slice();
       bl.forEach(function (b) { all = all.concat(b.src); });
       var out = [], seenK = []; all.forEach(function (x) { x = String(x || '').split(':')[0].trim(); var k = x.replace(/\s*\([^)]*\)$/, ''); if (x && seenK.indexOf(k) < 0) { seenK.push(k); out.push(x); } });
       var t = (m.credit || '') + (out.length ? (m.credit ? ' · ' : '') + T.src + ': ' + out.join(' · ') : '');
-      return t ? fitText(g, t, 'text', 0, 19, 16, CIN, 2) : null;
+      var w0 = CIN; CIN = CIN0; var f = t ? fitText(g, t, 'text', 0, 19, 16, CIN0, 2) : null; CIN = w0; return f;
     };
     var srcH = function (f) { return f ? 18 + f.lines.length * f.size * 1.35 : 0; };
-    var MINGAP = 22, blocks, level = 0;
-    for (; level < CARD_LEVELS.length; level++) {
-      blocks = cardBlocks(g, m, CARD_LEVELS[level]);
-      var need = blocks.reduce(function (a, b) { return a + b.h + MINGAP; }, 0) + MINGAP + moreH;
-      if (need <= foot - 24 - srcH(srcOf(blocks)) - top - heroH - meanH) break;
-    }
-    if (level === CARD_LEVELS.length) level--;
-    m.level = level;
-    m.shown = {}; blocks.forEach(function (b) { m.shown[b.id] = 1; });
-    var sf = srcOf(blocks), bottom = foot - 24 - srcH(sf);
-    var used = blocks.reduce(function (a, b) { return a + b.h; }, 0) + moreH;
-    var avail = bottom - top - heroH - meanH;
-    var gap = Math.max(MINGAP - 10, Math.min(60, (avail - used) / (blocks.length + 1)));
-    var spare = avail - used - gap * (blocks.length + 1);
+    var MINGAP = tight ? 16 : 22, CIN0 = CIN;
+    // lay out the content at scale s: the name, the whole-name meaning, the sections at the first trim level that fits, the "see all" line.
+    // If even the last trim level does not fit, the whole content is drawn a little smaller (never below 76%) instead of overlapping.
+    var layout = function (s) {
+      CIN = CIN0 / s;
+      var L = { s: s };
+      L.hero = fitText(g, m.hero, 'head', 0, tight ? (img ? 88 : 100) : (img ? 112 : 128), tight ? 64 : 76, CIN, 1);
+      if (L.hero.lines.length > 1) L.hero = fitText(g, m.hero, 'head', 0, tight ? 64 : 84, 44, CIN, 2);
+      L.heroH = L.hero.lines.length * L.hero.size * 1.08; L.meanH = 0; L.mean = null;
+      if (m.phrase) {
+        var mean = { lab: T.yourNameIs + (m.phrase.root ? ' (→ ' + m.phrase.root + ')' : '') };
+        mean.word = m.phrase.long ? fitText(g, m.phrase.word, 'head', 0, tight ? 42 : 48, 30, CIN, 3) : fitText(g, '“' + m.phrase.word + '”', 'head', 0, tight ? 58 : 72, 36, CIN, 2);
+        mean.det = m.phrase.detail ? fitText(g, m.phrase.detail, 'text', 0, 26, 20, CIN, 2) : null;
+        L.mean = mean; L.meanH = 16 + 42 + mean.word.lines.length * mean.word.size * 1.18 + (mean.det ? 6 + mean.det.lines.length * mean.det.size * 1.35 : 0);
+      }
+      g.font = cfont('text', 27, 600); L.moreLab = T.cardMore + ' →';
+      L.moreW = g.measureText(L.moreLab + ' ').width; g.font = cfont('mono', 27, 600);
+      L.moreOne = L.moreW + g.measureText('nadri-guide.pages.dev/name').width <= CIN; L.moreH = L.moreOne ? 40 : 76;
+      for (L.level = 0; L.level < CARD_LEVELS.length; L.level++) {
+        L.blocks = cardBlocks(g, m, CARD_LEVELS[L.level]);
+        L.sf = srcOf(L.blocks);
+        L.avail = (foot - 24 - srcH(L.sf) - top) / s - L.heroH - L.meanH;
+        L.need = L.blocks.reduce(function (a, b) { return a + b.h + MINGAP; }, 0) + MINGAP + L.moreH;
+        if (L.need <= L.avail) { L.fits = true; break; }
+      }
+      if (L.level === CARD_LEVELS.length) L.level--;
+      return L;
+    };
+    var L = layout(1);
+    for (var s = 0.96; !L.fits && s >= 0.76; s -= 0.04) L = layout(s);
+    m.level = L.level; m.scale = L.s;
+    m.shown = {}; L.blocks.forEach(function (b) { m.shown[b.id] = 1; });
+    var used = L.blocks.reduce(function (a, b) { return a + b.h; }, 0) + L.moreH;
+    var gap = Math.max(MINGAP, Math.min(60, (L.avail - used) / (L.blocks.length + 1)));
+    var spare = L.avail - used - gap * (L.blocks.length + 1);
     var y = top + (img ? 0 : Math.max(0, spare * 0.42));   // short cards sit a little above the middle
-    y += drawLines(g, hero, CM, y + hero.size * 0.9, hero.size * 1.08, C_INK);
-    if (mean) {
+    g.save(); g.setTransform(L.s, 0, 0, L.s, CM * (1 - L.s), top * (1 - L.s));   // scale about the content's top-left corner
+    y += drawLines(g, L.hero, CM, y + L.hero.size * 0.9, L.hero.size * 1.08, C_INK);
+    if (L.mean) {
       y += 16;
-      g.font = cfont('text', 30); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(mean.lab, CM, y + 28);
-      if (m.phrase.conf) chip(g, m.phrase.conf, CM + g.measureText(mean.lab).width + 14, y + 28);
+      g.font = cfont('text', 30); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(L.mean.lab, CM, y + 28);
+      if (m.phrase.conf) chip(g, m.phrase.conf, CM + g.measureText(L.mean.lab).width + 14, y + 28);
       y += 42;
-      y += drawLines(g, mean.word, CM, y + mean.word.size * 0.95, mean.word.size * 1.18, C_RED);
-      if (mean.det) { y += 6; y += drawLines(g, mean.det, CM, y + mean.det.size, mean.det.size * 1.35, C_MUTED); }
+      y += drawLines(g, L.mean.word, CM, y + L.mean.word.size * 0.95, L.mean.word.size * 1.18, C_RED);
+      if (L.mean.det) { y += 6; y += drawLines(g, L.mean.det, CM, y + L.mean.det.size, L.mean.det.size * 1.35, C_MUTED); }
     }
-    blocks.forEach(function (b) {
+    L.blocks.forEach(function (b) {
       y += gap / 2; g.fillStyle = C_HAIR; g.fillRect(CM, y, CIN, 2);
       y += gap / 2; b.draw(y); y += b.h;
     });
     // "See the full result → nadri-guide.pages.dev/name"
     y += gap / 2; g.fillStyle = C_HAIR; g.fillRect(CM, y, CIN, 2); y += gap / 2;
-    g.textAlign = 'left'; g.font = cfont('text', 27, 600); g.fillStyle = C_INK; g.fillText(moreLab, CM, y + 30);
+    g.textAlign = 'left'; g.font = cfont('text', 27, 600); g.fillStyle = C_INK; g.fillText(L.moreLab, CM, y + 30);
     g.font = cfont('mono', 27, 600); g.fillStyle = C_RED;
-    if (moreOne) g.fillText(url, CM + moreW, y + 30); else g.fillText(url, CM, y + 66);
-    if (sf) drawLines(g, sf, CM, foot - 22 - (sf.lines.length - 1) * sf.size * 1.35, sf.size * 1.35, C_MUTED);
+    if (L.moreOne) g.fillText('nadri-guide.pages.dev/name', CM + L.moreW, y + 30); else g.fillText('nadri-guide.pages.dev/name', CM, y + 66);
+    g.restore();
+    CIN = CIN0;
+    m.contentBottom = top + (y + (L.moreOne ? 40 : 76) - top) * L.s;   // for tests: must stay above the sources line
+    if (L.sf) drawLines(g, L.sf, CM, foot - 22 - (L.sf.lines.length - 1) * L.sf.size * 1.35, L.sf.size * 1.35, C_MUTED);
+    m.srcTop = L.sf ? foot - 22 - (L.sf.lines.length - 1) * L.sf.size * 1.35 - L.sf.size : foot;
     return c;
   }
 
@@ -1083,45 +1098,143 @@
     try { return !!(navigator.share && navigator.canShare && navigator.canShare({ files: [new File([new Blob(['x'], { type: 'image/png' })], 'nadri.png', { type: 'image/png' })] })); } catch (err) { return false; }
   })();
   var cardJob = null;
-  // drawn as soon as the result shows, so the share sheet can open straight from the tap
+  // both formats are drawn as soon as the result shows, so the preview opens at once and the share sheet opens straight from the tap
   function prepareCard(r) {
-    var m = cardModel(r), job = { m: m };
+    var m = cardModel(r), job = { m: m, f: {}, done: {} };
     m.seal = r.hangul;
     var P = (window.NADRI_MEANING_IMG || {})[m.concept];
     var ready = document.fonts && document.fonts.load ? Promise.all([cfont('head', 60), cfont('text', 30), cfont('text', 30, 600), cfont('mono', 24, 600), cfont('mono', 24, 500)].map(function (f) {
       return document.fonts.load(f, JSON.stringify(m) + 'Nadri' + T.cardTag + T.cardMore + T.cardTry + T.yourNameIs + T.bornIn + T.world + T.koAbroad + T.chain + T.src + T.sure);
     })).catch(function () {}) : Promise.resolve();
-    job.p = ready.then(function () { return cardImage(m.concept); }).then(function (img) {
-      m.credit = img && P.credit ? P.credit : '';
-      return canvasBlob(drawCard(m, img)).catch(function () { m.credit = ''; return canvasBlob(drawCard(m, null)); });
-    }).then(function (blob) {
-      job.blob = blob;
-      job.fname = 'nadri-name-' + (m.hero.replace(/[\s\/\\:*?"<>|]+/g, '') || 'card') + '.png';
-      try { job.file = new File([blob], job.fname, { type: 'image/png' }); } catch (err) { job.file = null; }
-      return job;
+    var base = ready.then(function () { return cardImage(m.concept); });
+    var stem = 'nadri-name-' + (m.hero.replace(/[\s\/\\:*?"<>|]+/g, '') || 'card');
+    ['45', '916'].forEach(function (fmt) {
+      job.f[fmt] = base.then(function (img) {
+        var o = { fmt: fmt };
+        var draw = function (im) { m.credit = im && P && P.credit ? P.credit : ''; var cv = drawCard(m, im, fmt); o.level = m.level; o.shown = m.shown; o.scale = m.scale; o.contentBottom = m.contentBottom; o.srcTop = m.srcTop; return canvasBlob(cv); };
+        return draw(img).catch(function () { return draw(null); }).then(function (blob) {
+          o.blob = blob; o.fname = stem + (fmt === '45' ? '-4x5' : '-9x16') + '.png';
+          try { o.file = new File([blob], o.fname, { type: 'image/png' }); } catch (err) { o.file = null; }
+          job.done[fmt] = o;
+          return o;
+        });
+      });
     });
+    job.p = job.f['916'];
     cardJob = job;
     return job;
   }
-  function downloadCard(job) {
-    var u = URL.createObjectURL(job.blob), a = document.createElement('a');
-    a.download = job.fname; a.href = u; document.body.appendChild(a); a.click(); a.remove();
+  function downloadCard(o) {
+    var u = URL.createObjectURL(o.blob), a = document.createElement('a');
+    a.download = o.fname; a.href = u; document.body.appendChild(a); a.click(); a.remove();
     setTimeout(function () { URL.revokeObjectURL(u); }, 4000);
   }
-  function cardClick(wantShare) {
-    var job = cardJob; if (!job) return;
-    var page = location.origin + location.pathname;   // the link in the share text carries no name
-    var share = function (j) {
-      return navigator.share({ files: [j.file], title: 'Nadri', text: T.cardTry + ' ' + page }).catch(function (err) { if (!err || err.name !== 'AbortError') downloadCard(j); });
+
+  /* ---------- share panel (owner [7eb4ec94#2580] [7eb4ec94#2584] [7eb4ec94#2587]): the image first, large, then the ways to share it ---------- */
+  var ICON = {
+    phone: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18 16a3 3 0 0 0-2.4 1.2l-6.7-3.4a3 3 0 0 0 0-1.6l6.7-3.4A3 3 0 1 0 15 7a3 3 0 0 0 .1.8L8.4 11.2a3 3 0 1 0 0 1.6l6.7 3.4A3 3 0 1 0 18 16z"/></svg>',
+    threads: '<svg viewBox="0 0 24 24" aria-hidden="true"><text x="12" y="18" text-anchor="middle" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="currentColor">@</text></svg>',
+    x: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.9 1.2h3.7l-8 9.2L24 22.8h-7.4l-5.8-7.6-6.6 7.6H.5l8.6-9.8L0 1.2h7.6l5.2 6.9zm-1.3 19.5h2L6.5 3.2H4.3z"/></svg>',
+    facebook: '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 22v-8.2h2.8l.4-3.2h-3.2V8.5c0-.9.3-1.6 1.6-1.6h1.7V4.1c-.3 0-1.3-.1-2.5-.1-2.5 0-4.2 1.5-4.2 4.3v2.4H7.3v3.2h2.8V22z"/></svg>',
+    line: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 3C6.5 3 2 6.6 2 11c0 3.9 3.5 7.2 8.3 7.9.3.1.8.2.9.5.1.3.1.7 0 1l-.1.9c0 .3-.2 1 .9.6 1.1-.5 6-3.5 8.2-6.1C21.7 14.2 22 12.7 22 11c0-4.4-4.5-8-10-8z"/><text x="12" y="13.6" text-anchor="middle" font-size="5.6" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#fff">LINE</text></svg>',
+    link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/></svg>',
+    save: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="M7 10l5 5 5-5"/><path d="M12 15V3"/></svg>'
+  };
+  var panel = null;
+  function shareLinks() {
+    var page = location.origin + location.pathname, text = T.cardTry, e = encodeURIComponent;   // no name in any of these (privacy line)
+    return {
+      page: page,
+      threads: 'https://www.threads.net/intent/post?text=' + e(text + ' ' + page),
+      x: 'https://twitter.com/intent/tweet?text=' + e(text) + '&url=' + e(page),
+      facebook: 'https://www.facebook.com/sharer/sharer.php?u=' + e(page),
+      line: 'https://social-plugins.line.me/lineit/share?url=' + e(page)
     };
-    if (!wantShare) { if (job.blob) downloadCard(job); else job.p.then(downloadCard); return; }
-    if (job.file) { share(job); return; }
-    job.p.then(function (j) { if (j.file) share(j); else downloadCard(j); });
+  }
+  function openShare(opener) {
+    if (!cardJob) return;
+    if (panel) closeShare();
+    var job = cardJob, L = shareLinks(), fmt = '45', urls = {};
+    var item = function (cls, icon, label, href) {
+      return href ? '<a class="' + cls + '" href="' + esc(href) + '" target="_blank" rel="noopener"><span class="nshare-ic">' + ICON[icon] + '</span>' + esc(label) + '</a>'
+        : '<button type="button" class="' + cls + '"><span class="nshare-ic">' + ICON[icon] + '</span><span class="nshare-lab">' + esc(label) + '</span></button>';
+    };
+    var el = document.createElement('div');
+    el.className = 'nshare'; el.setAttribute('dir', root.getAttribute('dir') || 'ltr');
+    el.innerHTML = '<div class="nshare-box" role="dialog" aria-modal="true" aria-labelledby="nshare-t">' +
+      '<div class="nshare-head"><h2 id="nshare-t">' + esc(T.cardShare) + '</h2><button type="button" class="nshare-x" aria-label="' + esc(T.close) + '">✕</button></div>' +
+      '<div class="nshare-tabs" role="tablist"><button type="button" role="tab" data-f="45" aria-selected="true">' + esc(T.fmtCard) + '</button><button type="button" role="tab" data-f="916" aria-selected="false">' + esc(T.fmtStory) + '</button></div>' +
+      '<div class="nshare-img"><img alt="" hidden><span class="nshare-wait">…</span></div>' +
+      '<div class="nshare-row">' +
+        (SHARE_FILES ? item('nshare-phone', 'phone', T.phoneShare) : '') +
+        item('nshare-threads', 'threads', 'Threads', L.threads) + item('nshare-xx', 'x', 'X', L.x) +
+        item('nshare-fb', 'facebook', 'Facebook', L.facebook) + item('nshare-line', 'line', 'LINE', L.line) +
+        item('nshare-copy', 'link', T.share) + item('nshare-save', 'save', T.saveImg) +
+      '</div><p class="nshare-note">' + esc(SHARE_FILES ? T.shareNote : T.shareNoteSave) + '</p></div>';   // no app-share button: the note only points to saving
+    document.body.appendChild(el);
+    var img = el.querySelector('.nshare-img img'), wait = el.querySelector('.nshare-wait');
+    var show = function () {
+      job.f[fmt].then(function (o) {
+        if (!panel || panel.el !== el) return;
+        if (!urls[fmt]) urls[fmt] = URL.createObjectURL(o.blob);
+        if (o.fmt !== fmt) return;
+        img.src = urls[fmt]; img.hidden = false; wait.hidden = true;
+        img.alt = (fmt === '45' ? T.fmtCard : T.fmtStory) + ' · ' + job.m.hero;
+        img.setAttribute('data-f', fmt);
+      });
+    };
+    Array.prototype.forEach.call(el.querySelectorAll('[role=tab]'), function (t) {
+      t.onclick = function () {
+        fmt = t.getAttribute('data-f');
+        Array.prototype.forEach.call(el.querySelectorAll('[role=tab]'), function (x) { x.setAttribute('aria-selected', x === t ? 'true' : 'false'); });
+        show();
+      };
+    });
+    var now = function (f) { var o = job.done[fmt]; if (o) f(o); else job.f[fmt].then(f); };
+    var ph = el.querySelector('.nshare-phone');
+    if (ph) ph.onclick = function () {
+      now(function (o) {
+        if (!o.file) { downloadCard(o); return; }
+        navigator.share({ files: [o.file], title: 'Nadri', text: T.cardTry + ' ' + L.page }).catch(function (err) { if (!err || err.name !== 'AbortError') downloadCard(o); });
+      });
+    };
+    el.querySelector('.nshare-save').onclick = function () { now(downloadCard); };
+    el.querySelector('.nshare-copy').onclick = function (ev) {
+      var lab = el.querySelector('.nshare-copy .nshare-lab');
+      (navigator.clipboard ? navigator.clipboard.writeText(L.page) : Promise.reject()).then(function () { lab.textContent = T.copied; }, function () { prompt('', L.page); });
+    };
+    el.querySelector('.nshare-x').onclick = closeShare;
+    // outside click: close on 'click' (after the browser's own focus change), only if the press also started on the backdrop
+    var downOut = false;
+    el.addEventListener('mousedown', function (ev) { downOut = ev.target === el; });
+    el.addEventListener('click', function (ev) { if (ev.target === el && downOut) closeShare(); });
+    var keys = function (ev) {
+      if (ev.key === 'Escape') { ev.preventDefault(); closeShare(); return; }
+      if (ev.key !== 'Tab') return;
+      var f = Array.prototype.filter.call(el.querySelectorAll('button, a[href]'), function (x) { return x.offsetParent !== null; });
+      if (!f.length) return;
+      if (ev.shiftKey && document.activeElement === f[0]) { ev.preventDefault(); f[f.length - 1].focus(); }
+      else if (!ev.shiftKey && document.activeElement === f[f.length - 1]) { ev.preventDefault(); f[0].focus(); }
+    };
+    document.addEventListener('keydown', keys);
+    panel = { el: el, opener: opener, keys: keys, urls: urls, overflow: document.body.style.overflow };
+    document.body.style.overflow = 'hidden';
+    el.querySelector('[role=tab][aria-selected=true]').focus();
+    show();
+  }
+  function closeShare() {
+    if (!panel) return;
+    var p0 = panel; panel = null;
+    document.removeEventListener('keydown', p0.keys);
+    document.body.style.overflow = p0.overflow;
+    p0.el.remove();
+    Object.keys(p0.urls).forEach(function (k) { URL.revokeObjectURL(p0.urls[k]); });
+    if (p0.opener && p0.opener.focus) p0.opener.focus();
   }
 
   shell();
   var q = params.get('n');
   if (q) { input.value = q; render(q); }
 
-  window.NadriName = { convert: convert, setLang: function (l) { applyLang(l); shell(); }, card: function () { return cardJob && cardJob.p; } }; // for tests
+  window.NadriName = { convert: convert, setLang: function (l) { applyLang(l); shell(); }, card: function (fmt) { return cardJob && cardJob.f[fmt || '916'].then(function (o) { return Object.assign({ m: cardJob.m }, o); }); } }; // for tests
 })();
