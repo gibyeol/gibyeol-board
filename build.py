@@ -286,17 +286,145 @@ GUIDE_GROUPS = [
 PAGES = {}
 
 
+# ---------- guide list cards (draft/list-pages 2026-11-26, owner [7eb4ec94#1466] [7eb4ec94#2500]) ----------
+# Each guide is a card: picture, short title, key number(s), one line. Text comes word for word from the page
+# itself (data/list-cards.json, checked in check_cards()); pictures only from data/photos.json or Lucide icons.
+CARDS = json.loads((ROOT / "data/list-cards.json").read_text(encoding="utf-8"))["cards"]
+PHOTOS = {p["file"]: p for p in json.loads((ROOT / "data/photos.json").read_text(encoding="utf-8"))}
+LIST_UI = {
+    "ko": {"jump": "상황별로 바로 가기", "credits": "사진", "live": "진행 중 {n}건", "modified": "수정함", "count": "{n}편"},
+    "en": {"jump": "Jump to your situation", "credits": "Photos", "live": "{n} on now", "modified": "modified", "count": "{n} guides", "count1": "1 guide"},
+    "ja": {"jump": "場面ごとに移動", "credits": "写真", "live": "開催中{n}件", "modified": "加工あり", "count": "{n}本"},
+    "zh-tw": {"jump": "依情境快速前往", "credits": "照片", "live": "進行中 {n} 檔", "modified": "已修改", "count": "{n} 篇"},
+}
+_ICONS = {}
+
+
+def icon_svg(name):
+    if name not in _ICONS:
+        svg = (ROOT / "static/icons" / f"{name}.svg").read_text(encoding="utf-8")
+        svg = re.sub(r"<!--.*?-->\s*", "", svg, flags=re.S)
+        svg = re.sub(r'\s*class="[^"]*"', "", svg)
+        svg = re.sub(r"\s+", " ", svg).replace("<svg ", '<svg aria-hidden="true" focusable="false" ', 1).strip()
+        _ICONS[name] = svg
+    return _ICONS[name]
+
+
+def _plain(t):
+    return re.sub(r"\s+", " ", re.sub(r"\*\*|`", "", t))
+
+
+def card_text(lang, slug):
+    """Short title, line, numbers for one card. Title = page title up to the first colon (else ?, else comma)."""
+    meta = PAGES[(lang, slug)][0]
+    c = CARDS.get(slug, {}).get(lang, {})
+    title = meta.get("title", slug)
+    t = c.get("t")
+    if not t:
+        m = re.match(r"(.+?)\s*[:：]", title) or re.match(r"(.+?[?？])", title) or re.match(r"(.+?)\s*[,，、]", title)
+        t = m.group(1) if m else title
+    nums = list(c.get("n", []))
+    if CARDS.get(slug, {}).get("n_live"):
+        today = date.today()
+        live = [d for d in live_items(lang) if date.fromisoformat(d["start"]) <= today]
+        nums = [LIST_UI[lang]["live"].format(n=len(live))]
+    return t, c.get("p", ""), nums
+
+
+def check_cards():
+    """Every card line and key number must be on its page word for word (no invented numbers)."""
+    bad = []
+    for slugs, _ in GUIDE_GROUPS:
+        for s in slugs:
+            if s not in CARDS:
+                bad.append(f"{s}: no entry in data/list-cards.json"); continue
+            e = CARDS[s]
+            if e.get("photo") and e["photo"] not in PHOTOS:
+                bad.append(f"{s}: photo {e['photo']} is not in data/photos.json (license not recorded)")
+            if not e.get("photo") and not (ROOT / "static/icons" / f"{e.get('icon', '')}.svg").exists():
+                bad.append(f"{s}: icon static/icons/{e.get('icon')}.svg missing")
+            for lang in SITE["languages"]:
+                if (lang, s) not in PAGES:
+                    continue
+                meta, body = PAGES[(lang, s)]
+                hay = _plain(" ".join([meta.get("title", ""), meta.get("lede", ""), meta.get("description", ""), body]))
+                t, p, nums = card_text(lang, s)
+                if e.get("photo") and e["photo"] not in body:
+                    bad.append(f"{s} [{lang}]: photo {e['photo']} is not used on the page itself")
+                for kind, x in [("t", t), ("p", p)] + [("n", n) for n in ([] if e.get("n_live") else nums)]:
+                    if not x:
+                        if kind == "p":
+                            bad.append(f"{s} [{lang}]: no line"); continue
+                        continue
+                    x2 = x.rstrip(".。")
+                    if x2 not in hay and (x2[:1].lower() + x2[1:]) not in hay:
+                        bad.append(f"{s} [{lang}] {kind}: not on the page word for word: {x}")
+    if bad:
+        raise SystemExit("data/list-cards.json:\n  " + "\n  ".join(bad))
+
+
+def license_url(lic):
+    m = re.match(r"CC (BY(?:-SA)?) (\d\.\d)( KR)?", lic)
+    if m:
+        return f"https://creativecommons.org/licenses/{m.group(1).lower()}/{m.group(2)}/{'kr/' if m.group(3) else ''}"
+    if lic.startswith("CC0"):
+        return "https://creativecommons.org/publicdomain/zero/1.0/"
+    return ""
+
+
+def guide_card(lang, slug):
+    pre = SITE["languages"][lang]["prefix"]
+    e = CARDS[slug]
+    t, p, nums = card_text(lang, slug)
+    sep = '<span class="gc-sep" aria-hidden="true"> · </span>'
+    joined = sep.join(f"<b>{html.escape(n)}</b>" for n in nums)
+    if e.get("photo"):
+        media = f'<span class="gc-media gc-photo"><img src="/{e["photo"]}" alt="" loading="lazy" decoding="async"{f' style="object-position:{e["pos"]}"' if e.get("pos") else ""}></span>'
+    elif nums:
+        # No photo: on wide screens the key number itself becomes the picture (big type on the night band).
+        long = " long" if len(" · ".join(nums)) > 16 else ""
+        media = f'<span class="gc-media gc-icon has-n">{icon_svg(e["icon"])}<span class="gc-big{long}" aria-hidden="true">{joined}</span></span>'
+    else:
+        media = f'<span class="gc-media gc-icon">{icon_svg(e["icon"])}</span>'
+    dup = " dup" if nums and not e.get("photo") else ""
+    num = f'<span class="gc-n{dup}">{joined}</span>' if nums else ""
+    return (f'<li><a class="gc" href="{pre}/{slug}/">{media}<span class="gc-text">'
+            f'<strong class="gc-t">{inline(t)}</strong>{num}<span class="gc-p">{inline(p)}</span></span></a></li>')
+
+
+def photo_credits(lang, files):
+    """BY / BY-SA need author, license (linked), source and whether we changed the file, next to where the photo is shown."""
+    ui, out = LIST_UI[lang], []
+    for f in files:
+        ph = PHOTOS[f]
+        lic, url = ph["license"].split(" (")[0], license_url(ph["license"])
+        lic_html = f'<a href="{url}" rel="noopener license" target="_blank">{html.escape(lic)}</a>' if url else html.escape(lic)
+        who = html.escape(ph["author"])
+        if ph.get("source_url"):
+            who = f'<a href="{html.escape(ph["source_url"])}" rel="noopener" target="_blank">{who}</a>'
+        mod = f', {ui["modified"]}' if ph.get("modifications") else ""
+        out.append(f"{who} ({lic_html}{mod})")
+    if not out:
+        return ""
+    sites = sorted({PHOTOS[f].get("source_site", "") for f in files} - {""})
+    return f'<p class="gl-credits">{ui["credits"]} ({", ".join(html.escape(s) for s in sites)}): ' + " · ".join(out) + "</p>"
+
+
 def guides_index(lang, only=None):
-    pre, out = SITE["languages"][lang]["prefix"], []
-    for slugs, label in GUIDE_GROUPS:
-        if only and only not in slugs:
-            continue
-        items = [(s, PAGES[(lang, s)][0]) for s in slugs if (lang, s) in PAGES]
+    out, jump, used = [], [], []
+    groups = [(i, slugs, label) for i, (slugs, label) in enumerate(GUIDE_GROUPS) if not only or only in slugs]
+    for i, slugs, label in groups:
+        items = [s for s in slugs if (lang, s) in PAGES]
         if not items:
             continue
-        lis = "".join(f'<li><a href="{pre}/{s}/">{inline(m.get("title", s))}</a><p>{inline(m.get("description", ""))}</p></li>' for s, m in items)
-        out.append(f'<section class="az"><h3>{label[lang]}</h3><ol>{lis}</ol></section>')
-    return "".join(out)
+        gid = f"g{i + 1}"
+        jump.append(f'<a href="#{gid}">{label[lang]}</a>')
+        used += [CARDS[s]["photo"] for s in items if CARDS[s].get("photo")]
+        lis = "".join(guide_card(lang, s) for s in items)
+        out.append(f'<section class="az gl" id="{gid}"><h3>{label[lang]} <span class="gl-count">{LIST_UI[lang].get("count1") if len(items) == 1 and "count1" in LIST_UI[lang] else LIST_UI[lang]["count"].format(n=len(items))}</span></h3>'
+                   f'<ul class="gl-grid">{lis}</ul></section>')
+    nav = (f'<nav class="gl-jump" aria-label="{LIST_UI[lang]["jump"]}">{"".join(jump)}</nav>') if len(jump) > 1 else ""
+    return nav + "".join(out) + photo_credits(lang, list(dict.fromkeys(used)))
 
 # ---------- home components (v7 design: numbers lead, a seal marks what we checked) ----------
 HOME_UI = {
@@ -568,7 +696,7 @@ def page(lang, meta, body_html, path, alternates):
 </header>
 <main id="main" class="wrap{' has-toc' if side else ''}">
 {header_block}{side}
-{('<div class="home-body">' + body_html + '</div>') if meta.get('home') else ('<article class="body">' + body_html + '</article>')}
+{('<div class="home-body">' + body_html + '</div>') if meta.get('home') else ('<article class="body' + (' wide' if 'class="gl-grid"' in body_html else '') + '">' + body_html + '</article>')}
 {report_box(lang, meta, path)}
 </main>
 <footer class="site-foot wrap">
@@ -612,6 +740,7 @@ def build():
             meta, body = parse(f)
             pages[(lang, f.stem)] = (meta, body)
     PAGES.update(pages)
+    check_cards()
     # Rule: every shared page exists in every language. A page written for one audience only
     # says so with `only: <lang>` and is exempt.
     only = {s: m["only"] for (l, s), (m, _) in pages.items() if m.get("only")}

@@ -525,3 +525,57 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .nshare button:focus-visible,.nshare a:focus-visible{outline:2px solid var(--red);outline-offset:2px}
 .nshare-box>*{flex-shrink:0}
 @media (max-width:420px){.nshare{padding:8px}.nshare-box{padding:12px 12px 14px;gap:12px}.nshare-row a,.nshare-row button{width:72px}.nshare-img{min-height:0}.nshare-img img{max-height:calc(100vh - 372px);max-height:calc(100dvh - 372px)}}
+
+/* ---------- guide list cards (draft/list-pages 2026-11-26, owner [7eb4ec94#1466] [7eb4ec94#2500]) ----------
+   Phone: one column of compact rows (square picture left, text right) so 29 guides stay scannable.
+   Tablet: 2 columns, PC: 3-4 columns of picture-on-top cards. The whole card is one link (big tap target). */
+.body.wide{max-width:none}
+main:has(.body.wide) .page-head{max-width:none}
+.gl-jump{display:flex;flex-wrap:wrap;gap:8px;margin:.4rem 0 1.4rem}
+.gl-jump a{display:inline-block;padding:9px 15px;border:1px solid var(--ink);border-radius:999px;text-decoration:none;font-size:.95rem;line-height:1.2;background:var(--paper)}
+.gl-jump a:hover{background:var(--ink);color:var(--paper)}
+.gl{margin:1.4rem 0 2.2rem;scroll-margin-top:12px}
+.body .gl h3{display:flex;align-items:baseline;gap:10px;font:400 1.4rem/1.3 var(--head);margin:0 0 .9rem;padding-top:.8rem;border-top:1px solid var(--ink)}
+.gl-count{font:500 .8rem/1 var(--text);color:var(--muted)}
+.gl-grid{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:minmax(0,1fr)}
+.az .gl-grid>li,.body .gl-grid>li{margin:0;padding:0;border:0;min-width:0}
+.body .gc{display:grid;grid-template-columns:92px minmax(0,1fr);gap:12px;align-items:start;height:100%;padding:10px;background:var(--card);border:1px solid var(--rule);text-decoration:none;color:var(--ink);overflow:hidden;font:400 1rem/1.5 var(--text)}
+.gc:hover{border-color:var(--ink);color:var(--ink)}
+.gc:hover .gc-t{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.gc-media{display:block;aspect-ratio:1;overflow:hidden;background:var(--night)}
+.gc-photo img{display:block;width:100%;height:100%;object-fit:cover}
+.gc-icon{display:grid;place-items:center;color:var(--sky-text)}
+.gc-icon svg{width:42px;height:42px;stroke-width:1.6}
+.gc-big{display:none}
+.gc-text{display:flex;flex-direction:column;gap:3px;min-width:0}
+.gc-t{font:700 1.06rem/1.35 var(--text)}
+.gc-n{font:700 .98rem/1.35 var(--text);color:var(--red);font-variant-numeric:tabular-nums}
+.gc-n b{font-weight:700;white-space:nowrap}
+.lang-en .gc-n b{white-space:normal}
+.gc-sep{color:var(--muted);font-weight:400}
+.gc-p{font-size:.9rem;line-height:1.5;color:var(--muted)}
+.gl-credits{font-size:.78rem;line-height:1.6;color:var(--muted);margin:2rem 0 0;padding-top:.8rem;border-top:1px solid var(--hair)}
+@media (min-width:600px){
+  .gl-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+  .body .gc{grid-template-columns:minmax(0,1fr);grid-template-rows:auto 1fr;gap:0;padding:0}
+  .gc-media{aspect-ratio:16/10}
+  .gc-icon svg{width:56px;height:56px}
+  .gc-icon.has-n{display:flex;flex-direction:column;justify-content:space-between;align-items:flex-start;padding:16px 18px 18px}
+  .gc-icon.has-n svg{width:32px;height:32px;opacity:.85}
+  .gc-big{display:block;font:700 clamp(1.35rem,2.3vw,1.95rem)/1.15 var(--text);color:#fff;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+  .gc-big b{font-weight:700}
+  .gc-big.long{font-size:clamp(1.15rem,1.7vw,1.45rem);line-height:1.2}
+  .gc-big .gc-sep{color:var(--sky-muted)}
+  .gc-n.dup{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .gc-text{padding:12px 14px 16px;gap:5px}
+  .gc-t{font-size:1.12rem}
+}
+@media (min-width:900px){
+  .gl-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+  /* a group with one guide: one wide card instead of a lone small one and an empty row */
+  .gl-grid>li:only-child{grid-column:span 2}
+  .body .gl-grid>li:only-child .gc{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-rows:auto}
+  .gl-grid>li:only-child .gc-media{aspect-ratio:auto;height:100%;min-height:190px}
+  .gl-grid>li:only-child .gc-text{padding:18px 20px;justify-content:center}
+}
+@media (min-width:1120px){.gl-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}

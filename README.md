@@ -14,6 +14,7 @@ Cloudflare Pages settings: **Build command** `python3 build.py`, **Build output 
 | `content/<lang>/<slug>.md` | One page. Same slug in several languages = translations (hreflang is automatic) |
 | `data/deals.json` | Deals board. Set `confirmed: true` once the store announces dates. Items disappear after `end` |
 | `data/affiliates.json` | Paste approved tracking URLs. Empty `url` hides the button everywhere |
+| `data/list-cards.json` | Guide list cards (/guides/, /shopping/): picture, key number(s), one line per guide. Text must be word for word from the guide; the build checks it |
 | `data/site.json` | Languages, menus, UI text, `base_url` (change when the domain is bought) |
 | `static/` | CSS, logo, favicon |
 
