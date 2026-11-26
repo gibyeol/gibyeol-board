@@ -14,7 +14,7 @@ updated: 2026-11-26
 
 ## 手順
 
-<h3 class="tr-step"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>前の晩:経路を開いておく</h3>
+<h3 class="tr-step" id="map-app"><span class="n">1</span><i class="ic ic-map" aria-hidden="true"></i>前の晩:経路を開いておく</h3>
 
 <ul class="tr-facts"><li><i class="ic ic-smartphone" aria-hidden="true"></i><span>NAVERマップかカカオマップ<small>NAVERは日本語表示、カカオは英語</small></span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><span>駅と出口番号を保存<small>「明洞駅8番出口」のように</small></span></li></ul>
 
