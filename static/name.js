@@ -11,10 +11,10 @@
   var LANG = root.getAttribute('data-lang') || 'en';
 
   var UI_ALL = {
-    en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Our tool never sends the name you type. Like every page on this site, this page also loads an affiliate-tracking script (Travelpayouts).', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
-    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '이 도구는 입력한 이름을 어디에도 보내지 않아요. 다만 사이트의 다른 페이지처럼 이 페이지에도 제휴 추적 스크립트(Travelpayouts)가 들어 있어요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
-    ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: 'このツールは入力した名前をどこにも送りません。ただし、サイトの他のページと同じく、このページにもアフィリエイト計測スクリプト(Travelpayouts)が入っています。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
-    'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '這個工具不會把你輸入的名字傳到任何地方。不過這一頁和本站其他頁面一樣,載入了聯盟行銷追蹤程式(Travelpayouts)。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
+    en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Your name stays on this device: we never send it anywhere, and the share card is drawn right here. This page loads no affiliate or ad scripts. Cloudflare, our host, counts visits without cookies. A copied link contains the name.', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
+    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 이 기기 밖으로 보내지 않고, 공유 카드도 이 기기에서 그려요. 이 페이지에는 제휴·광고 스크립트가 없어요. 사이트를 호스팅하는 Cloudflare가 쿠키 없이 방문 수를 세요. 링크를 복사하면 그 링크에는 이름이 들어가요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
+    ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はこの端末の外に送らず、共有カードもこの端末で描きます。このページにはアフィリエイトや広告のスクリプトはありません。サイトをホストするCloudflareが、Cookieを使わずに訪問数を数えます。リンクをコピーすると、そのリンクには名前が入ります。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
+    'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會傳出這台裝置,分享卡也是在這台裝置上畫出來的。這一頁沒有聯盟行銷或廣告程式。網站主機 Cloudflare 會在不使用 Cookie 的情況下計算造訪次數。複製的連結裡會包含名字。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
   };
   var UI = UI_ALL[LANG];
 
@@ -441,7 +441,7 @@
     var seal = r.hangul.replace(/ /g, '').length <= 9 ? sealSVG(esc(r.hangul)) : '';
     var card = '<div class="namer-card"><div class="namer-seal">' + seal + '</div><div class="namer-text">' + h +
       (r.approx || !r.meaning ? '<p class="namer-note' + (r.approx ? ' approx' : '') + '">' + (r.approx ? T.approx : r.note) + '</p>' : '') +
-      '<p class="namer-actions"><button type="button" class="namer-save">' + T.save + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
+      '<p class="namer-actions"><button type="button" class="namer-cardbtn">' + (SHARE_FILES ? T.cardShare : T.cardSave) + '</button> <button type="button" class="namer-share">' + T.share + '</button></p>' +
       '<p class="namer-wrong">' + mail('Nadri name: ' + name, T.wrong) + '</p></div></div>';
     // 3. your name in other countries
     var more = '';
@@ -473,6 +473,7 @@
     cids.forEach(function (id) { if (WD[id] && wids.indexOf(id) < 0) wids.push(id); });
     if (!wids.length && r.chain && WD[r.chain]) wids.push(r.chain);
     var krChain = r.kind === 'latin' ? r.chain : null;
+    r.typed = name; r.btn = B; r.krChain = krChain; r.cids = cids; r.concept = latinConcept || cids[0] || null;
     if (cids.length) r.chain = null;
     if (wids.length) {
       r.worldId = wids[0];
@@ -490,8 +491,8 @@
     var rel = (window.NADRI_RELATED || {})[key] || (window.NADRI_RELATED || {})[r.firstKey];
     if (rel) more += '<p class="namer-next"><span>' + T.related + '</span> ' + rel.map(function (n) { return '<button type="button" data-n="' + n + '">' + n.charAt(0).toUpperCase() + n.slice(1) + '</button>'; }).join(' ') + '</p>';
     out.innerHTML = card + more;
-    var svg = out.querySelector('svg');
-    out.querySelector('.namer-save').onclick = function () { if (svg) saveCard(svg, r, name, B); };
+    prepareCard(r);
+    out.querySelector('.namer-cardbtn').onclick = cardClick;
     out.querySelector('.namer-share').onclick = function (ev) {
       var url = location.origin + location.pathname + '?n=' + encodeURIComponent(name) + (uiLang !== SITE2UI[LANG] ? '&hl=' + uiLang : '');
       (navigator.clipboard ? navigator.clipboard.writeText(url) : Promise.reject()).then(function () { ev.target.textContent = T.copied; }, function () { prompt('', url); });
@@ -551,7 +552,6 @@
   function conceptBlock(cid, opts) {
     var C = (window.NADRI_CONCEPTS || {})[cid]; if (!C) return '';
     var k3 = L3(), lab = C[k3] || C.en, pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '';
-    var langLabel = function (l) { return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · '); };
     var h = '<section class="namer-sec namer-concept"><h3 class="namer-h">' + T.koAbroad + ' · ' + esc(lab) + (k3 !== 'en' ? ' (' + esc(C.en) + ')' : '') + '</h3><ul class="namer-var">' +
       C.names.map(function (n) { return '<li><span>' + esc(langLabel(n[0])) + '</span><b>' + esc(n[1]) + (n[2] && /[\uAC00-\uD7A3]/.test(n[2]) ? '' : kr(n[1])) + (n[2] ? ' <small>' + esc(n[2]) + '</small>' : '') + '</b></li>'; }).join('') + '</ul>';
     var steps = C.chain && window.NADRI_CHAINS && window.NADRI_CHAINS[C.chain];
@@ -656,7 +656,7 @@
         var name = sh + list.map(function (x) { return x.h; }).join('');
         var o = '<p class="namer-mean">' + esc(name) + '</p><p class="namer-sub">' + list.map(function (x) { return '<b>' + x.h + '</b> ' + esc(x.hun) + ' · ' + esc(x.en); }).join(' / ') + '</p>';
         var ids = conceptsForHanja(list.map(function (x) { return x.h; })), CC = window.NADRI_CONCEPTS || {}, k3 = L3();
-        r.born = bornFromHanja(list.map(function (x) { return x.h; })); r.pickedName = name;
+        r.born = bornFromHanja(list.map(function (x) { return x.h; })); r.pickedName = name; r.picked = list; r.pickedIds = ids;
         var WD = window.NADRI_WORLD || {}, wids = ids.filter(function (id) { return WD[id]; });
         r.worldId = wids[0] || null;
         if (r.born) o += bornBlock(r.born); else if (wids.length) o += worldBornBlock(wids[0]);
@@ -665,7 +665,7 @@
         wids.slice(0, 2).forEach(function (id) { o += worldBlock(id, null, name); });
         if (!ids.length) { var ab = abroadFor(list.map(function (x) { return x.en; })); if (ab) o += '<h3 class="namer-h">' + T.koAbroad + '</h3>' + ab; }
         box.querySelector('.namer-hanja-out').innerHTML = o;
-        wireGo();
+        wireGo(); prepareCard(r);
       };
     });
   }
@@ -673,71 +673,345 @@
     Array.prototype.forEach.call(out.querySelectorAll('.namer-go, .namer-next button'), function (b) { b.onclick = function () { input.value = b.getAttribute('data-n'); render(input.value); root.scrollIntoView({ behavior: 'smooth' }); }; });
   }
 
-  /* shareable card (format: ops/name-tool.md appendix): seal, name, "Your name means …", "If you were born in…" 3-5 regions, Insadong seal line */
-  function cardRows(r) {
-    var k3 = L3(), BB = r.born && (window.NADRI_BORN || {})[r.born.id], rows = [], phrase = '';
-    if (BB) {
-      var ph = (r.born.first && BB.first ? BB.first : BB.phrase); phrase = ph[k3] || ph.en;
-      BB.c.filter(function (c) { return c[2]; }).slice(0, 5).forEach(function (c) { rows.push({ flag: c[0], place: c[1][k3] || c[1].en, name: c[2], nn: c[3] ? c[3].split(' ')[0] : '', gloss: '' }); });
-    } else if (r.worldId) {
-      var W = (window.NADRI_WORLD || {})[r.worldId] || [], C = (window.NADRI_CONCEPTS || {})[r.worldId];
-      phrase = C ? (C[k3] || C.en) : '';
-      W.filter(function (e) { return e.n; }).slice(0, 5).forEach(function (e) { var rg = regionOf(e.r); rows.push({ flag: rg.flag, place: rg.name, name: e.n + (k3 === 'ko' && e.nk ? '(' + e.nk + ')' : ''), nn: e.nn || '', gloss: e.g[k3] || e.g.en }); });
-    }
-    return { phrase: phrase, rows: rows };
+  /* ---------- share card ----------
+     Owner 2026-11-26 [7eb4ec94#2276]: the card is built on the results below the stamp, compact and clean (replaces the stamp card in
+     ops/name-tool.md appendix). One 1080x1350 PNG (Instagram feed/stories, Threads), drawn on this device; nothing is sent.
+     Layout: [meaning photo band, optional] tag + small seal / name (hero) / "Your name means …" + confidence /
+     Korean·Japanese·Chinese / same meaning in other countries / where it leads / sources / Nadri + address.
+     Meaning photo (owner [7eb4ec94#2296]): window.NADRI_MEANING_IMG[conceptId] = { src, credit }; same-origin files only, so nothing
+     leaves the site and the canvas can still be saved. No photo: the card starts with the tag line. Only sections with data are drawn. */
+  var CW = 1080, CH = 1350, CM = 84, CIN = CW - CM * 2;
+  var C_PAPER = '#f4f0e6', C_INK = '#16151a', C_MUTED = '#5f5b55', C_HAIR = '#ddd6c8', C_RED = '#b8392f';
+  var F_HEAD = '"Song Myung", "Noto Serif KR", serif', F_TEXT = '"IBM Plex Sans KR", system-ui, -apple-system, "Segoe UI", "Noto Sans KR", sans-serif', F_MONO = '"IBM Plex Mono", ui-monospace, monospace';
+  function cfont(kind, size, weight) { return (weight ? weight + ' ' : '') + Math.round(size) + 'px ' + (kind === 'head' ? F_HEAD : kind === 'mono' ? F_MONO : F_TEXT); }
+  function langLabel(l) {
+    var k3 = L3();
+    return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · ');
   }
-  function saveCard(svg, r, name, B) {
-    var ready = document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve();
-    ready.then(function () {
-      var k3 = L3(), cr = cardRows(r), e = r.meaning && r.meaning.e, line = e && e.m ? (e.m[k3] || e.m.en) : (B ? B.meaning : '');
-      var typedLine = name.trim() !== r.hangul, rowH = cr.rows.length && cr.rows[0].gloss ? 78 : 44;
-      var W = 720, H = cr.rows.length ? 56 + 216 + 64 + (typedLine ? 42 : 0) + 148 + cr.rows.length * rowH + 190 : 960;
-      var c = document.createElement('canvas'); c.width = W * 2; c.height = H * 2;
-      var g = c.getContext('2d'); g.scale(2, 2);
-      g.fillStyle = '#f4f0e6'; g.fillRect(0, 0, W, H);
-      g.strokeStyle = '#16151a'; g.lineWidth = 2; g.strokeRect(24, 24, W - 48, H - 48);
-      var sealS = cr.rows.length ? 0.9 : 1.5, sealW = 240 * sealS;
-      g.save(); g.translate((W - sealW) / 2, 56); g.scale(sealS, sealS);
-      g.fillStyle = '#b3261e'; roundRect(g, 6, 6, 228, 228, 14); g.fill();
-      g.strokeStyle = '#f4f0e6'; g.lineWidth = 3; roundRect(g, 14, 14, 212, 212, 8); g.stroke();
-      g.fillStyle = '#f4f0e6'; g.textAlign = 'center';
-      Array.prototype.forEach.call(svg.querySelectorAll('text'), function (t) { g.font = t.getAttribute('font-size') + 'px "Song Myung", serif'; g.fillText(t.textContent, +t.getAttribute('x'), +t.getAttribute('y')); });
-      g.restore();
-      var y = 56 + sealW + 64;
-      g.fillStyle = '#16151a'; g.textAlign = 'center';
-      g.font = '48px "Song Myung", serif'; g.fillText(r.hangul + (r.pickedName ? ' · ' + r.pickedName : ''), W / 2, y);
-      if (typedLine) { y += 42; g.font = '28px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(name.trim(), W / 2, y); }
-      if (cr.rows.length) {
-        y += 66; g.fillStyle = '#16151a'; g.font = '36px "Song Myung", serif';
-        wrap(g, T.yourNameIs + ' “' + cr.phrase + '”', W / 2, y, W - 120, 44);
-        y += 62; g.font = '600 22px "IBM Plex Mono", monospace'; g.fillStyle = '#5f5b55'; g.fillText(T.bornIn, W / 2, y);
-        y += 20; g.textAlign = 'left';
-        cr.rows.forEach(function (row) {
-          y += 40; g.fillStyle = '#16151a'; g.font = '600 30px "IBM Plex Sans KR", sans-serif';
-          var t = row.flag + ' ' + row.place + ' → ' + row.name + (row.nn && row.nn !== row.name ? ' ' + row.nn : '');
-          while (g.measureText(t).width > W - 120 && t.length > 4) t = t.slice(0, -2) + '…';
-          g.fillText(t, 60, y);
-          if (row.gloss) { y += 34; g.font = '24px "IBM Plex Sans KR", sans-serif'; g.fillStyle = '#5f5b55'; g.fillText(row.gloss, 104, y); }
-          y += 4;
+
+  /* what goes on the card: only what the page shows for this name, with the page's confidence labels */
+  function cardModel(r) {
+    var k3 = L3(), typed = String(r.typed || '').trim().replace(/\s+/g, ' ');
+    var m = { hero: r.kind === 'hangul' ? r.hangul : typed, scripts: [], meaning: null, same: [], lead: null, facts: [], concept: null };
+    var low = function (x) { return String(x || '').toLowerCase(); };
+    // 1. the name in Korean / Japanese / Chinese (Taiwan), as the page shows it (Russian stays on the page)
+    r.sounds.forEach(function (l) {
+      if (!l[1] || l[1] === m.hero || /[Ѐ-ӿ]/.test(l[1])) return;
+      // a Korean reading guessed from the spelling keeps the page's 'approximate' mark
+      m.scripts.push({ label: l[0] + (r.approx && l[0] === UI.lKo ? ' (' + UI.kanaApprox + ')' : ''), lines: String(l[1]).split(' · ') });
+    });
+    if (r.pickedName) m.scripts.push({ label: T.koHanja, lines: [r.pickedName] });
+    // 2. meaning
+    var e = r.meaning && r.meaning.e, B = r.btn, CC = window.NADRI_CONCEPTS || {};
+    var clabel = function (id) { return CC[id] ? (CC[id][k3] || CC[id].en) : ''; };
+    if (e && e.m) {
+      m.meaning = { word: (k3 !== 'en' && e.m[k3]) || e.m.en, conf: T.conf[e.c || 'h'], root: r.meaning.alias ? cap(r.meaning.key) : '', src: 'Behind the Name' };
+    } else if (r.kind === 'latin' && B && B.meaning) {
+      m.meaning = { word: B.meaning, conf: T.conf.h, long: true, src: 'Behind the Name' };
+    } else if (r.kind === 'han' && r.chars) {
+      var ids = (r.cids || []).filter(function (id) { return CC[id]; });
+      var parts = r.chars.filter(function (x) { return x.ko || x.en; }).map(function (x) { return x.c + ' ' + (k3 === 'ko' && x.ko ? x.ko + ' ' + (x.read || '') : (x.en || x.ko)); });
+      if (ids.length) m.meaning = { word: ids.map(clabel).join(' + '), detail: parts.join(' · ') };
+      else if (parts.length) m.meaning = { word: parts.join(' · '), long: true };
+    } else if (r.kind === 'hangul' && r.picked && r.picked.length) {
+      var pids = (r.pickedIds || []).filter(function (id) { return CC[id]; });
+      var pparts = r.picked.map(function (x) { return x.h + ' ' + (k3 === 'ko' ? x.hun : x.en); });
+      m.meaning = pids.length ? { word: pids.map(clabel).join(' + '), detail: pparts.join(' · ') } : { word: pparts.join(' · '), long: true };
+    } else if (r.kind === 'hangul' && r.ko) {
+      var nat = (window.KO_NATIVE || {})[r.ko.given];
+      if (nat) m.meaning = { word: k3 === 'ko' ? nat[0] : nat[1], label: T.koNative };
+    }
+    m.concept = r.concept || (r.pickedIds && r.pickedIds[0]) || r.worldId || (r.born && r.born.id) || null;
+    // 3. the same meaning as a real name elsewhere: checked world entries first (they carry sources), then the older born-in list, then concept names
+    var W = r.worldId && (window.NADRI_WORLD || {})[r.worldId];
+    if (W) {
+      var named = W.filter(function (x) { return x.n && low(x.n) !== low(m.hero) && low(x.n) !== low(typed); });
+      named = named.filter(function (x) { return x.c === 'h'; }).concat(named.filter(function (x) { return x.c !== 'h'; }));
+      named.slice(0, 4).forEach(function (x) {
+        m.same.push({ place: regionOf(x.r).name, name: x.n, sub: [x.nn, k3 === 'ko' ? x.nk : ''].filter(Boolean).join(' · '), conf: T.conf[x.c] || x.c, src: x.s && x.s[0] && x.s[0][0] });
+      });
+    }
+    var BB = !m.same.length && r.born && (window.NADRI_BORN || {})[r.born.id];
+    if (BB) BB.c.filter(function (c) { return c[2] && low(c[2]) !== low(m.hero); }).slice(0, 4).forEach(function (c) {
+      var rd = k3 === 'ko' && window.nadriKoRead && !/[가-힣]/.test(c[2]) ? window.nadriKoRead(c[2]) : '';
+      m.same.push({ place: c[1][k3] || c[1].en, name: c[2], sub: [c[3], rd].filter(Boolean).join(' · '), conf: T.sure + ' ' + c[5] + '%' });
+    });
+    if (!m.same.length) {
+      var cid = [r.concept].concat(r.cids || [], r.pickedIds || []).filter(function (id) { return id && CC[id]; })[0];
+      if (cid) CC[cid].names.filter(function (n) { return low(n[1]) !== low(m.hero) && low(n[1]) !== low(typed); }).slice(0, 4).forEach(function (n) {
+        m.same.push({ place: langLabel(n[0]), name: n[1], sub: n[2] || '', conf: '' });
+        m.sameLabel = T.idea;   // these are languages, not countries
+      });
+    }
+    // 4. where it leads: Korea first (owner 2026-11-26 11:14), one line; a step that leads to one of our guides if the chain has one
+    var CHN = window.NADRI_CHAINS || {};
+    var fromChain = function (id) {
+      var st = CHN[id]; if (!st || !st.length) return null;
+      var s0 = st.filter(function (x) { return x.link; })[0] || st[0];
+      return { text: s0[k3] || s0.en, conf: T.conf[s0.c] || '', src: s0.s };
+    };
+    var korea = regionOf('KR').name, lead = null;
+    if (W) {
+      var KRe = W.filter(function (x) { return x.r === 'KR'; })[0];
+      if (KRe) lead = KRe.chain ? fromChain(r.krChain || KRe.chain) : { text: (KRe.g && (KRe.g[k3] || KRe.g.en)) || KRe[k3] || KRe.en, conf: T.conf[KRe.c] || '', src: KRe.s && KRe.s[0] && KRe.s[0][0] };
+      else if (r.krChain) lead = fromChain(r.krChain);
+      if (lead) lead.place = korea;
+      else {
+        var g0 = W.filter(function (x) { return x.g; })[0];
+        if (g0) lead = { place: regionOf(g0.r).name, text: g0.g[k3] || g0.g.en, conf: T.conf[g0.c] || '', src: g0.s && g0.s[0] && g0.s[0][0] };
+      }
+    } else if (r.chain) { lead = fromChain(r.chain); if (lead) lead.place = korea; }
+    if (lead && lead.text) m.lead = lead;
+    // 5. facts the page shows for Korean names (surname count, baby-name rank); for other names only when nothing else is known
+    var srcKo = String(T.srcKo || '').split(/;|,(?![^(]*\))/).map(function (x) { return x.trim(); });
+    if (r.kind === 'hangul' && r.ko) {
+      var POP = window.KO_SURNAME_POP || {}, K = r.ko, fmt = function (n) { return Number(n).toLocaleString(); };
+      if (K.sur && POP[K.sur]) { m.facts.push({ label: T.koSurname + ' · ' + K.sur, text: T.koPop.replace('{n}', fmt(POP[K.sur])).replace('{p}', (POP[K.sur] / 510694).toFixed(1)).replace('{t}', fmt(window.KO_SURNAME_TOTAL || 5582)), src: srcKo[0] }); }
+      var KB = window.KO_BABY_2025 || { boys: [], girls: [] }, bi = KB.boys.indexOf(K.given), gi = KB.girls.indexOf(K.given);
+      if (bi >= 0 || gi >= 0) { m.facts.push({ label: T.koBaby + ' · ' + K.given, text: [bi >= 0 ? T.koBabyRank.replace('{r}', bi + 1).replace('{g}', T.boys) : '', gi >= 0 ? T.koBabyRank.replace('{r}', gi + 1).replace('{g}', T.girls) : ''].filter(Boolean).join(' · '), src: srcKo.slice(1).join(', ') }); }
+    } else if (!m.meaning && !m.same.length && B && B.top && B.top.length) {
+      var t = B.top.slice().sort(function (a, b) { return a[2] - b[2] || b[1] - a[1]; })[0];
+      m.facts.push({ label: T.popular, text: rname(t[0]) + ' · ' + T.rank.replace('{r}', t[2]).replace('{y}', t[1]), src: 'Behind the Name' });
+    }
+    return m;
+  }
+
+  /* text that fits: words (Hangul and Latin) or characters (kana, hanzi) per line */
+  function wrapLines(g, text, maxW) {
+    var toks = String(text).match(/[぀-ヿ㐀-鿿豈-﫿＀-￯][、。，．！？」』）)]*|\s+|[^\s぀-ヿ㐀-鿿豈-﫿＀-￯]+/g) || [];
+    var out = [], line = '', fits = function (x) { return g.measureText(x).width <= maxW; };
+    toks.forEach(function (t) {
+      if (/^\s+$/.test(t)) { if (line) line += ' '; return; }
+      if (fits(line + t)) { line += t; return; }
+      if (line.trim()) { out.push(line.trim()); line = ''; }
+      if (fits(t)) { line = t; return; }
+      Array.from(t).forEach(function (ch) { if (line && !fits(line + ch)) { out.push(line); line = ch; } else line += ch; });
+    });
+    if (line.trim()) out.push(line.trim());
+    return out;
+  }
+  // largest size (max..min) at which the text fits in maxLines lines; at min it returns all lines (never cut)
+  function fitText(g, text, kind, weight, max, min, maxW, maxLines) {
+    for (var s = max; s >= min; s -= 2) { g.font = cfont(kind, s, weight); var L = wrapLines(g, text, maxW); if (L.length <= maxLines) return { size: s, lines: L, kind: kind, weight: weight }; }
+    g.font = cfont(kind, min, weight); return { size: min, lines: wrapLines(g, text, maxW), kind: kind, weight: weight };
+  }
+  function drawLines(g, f, x, y, lh, color, align) {
+    g.font = cfont(f.kind, f.size, f.weight); g.fillStyle = color; g.textAlign = align || 'left';
+    f.lines.forEach(function (l, i) { g.fillText(l, x, y + i * lh); });
+    return f.lines.length * lh;
+  }
+  function chip(g, text, x, y) {   // small outlined label (confidence), baseline y
+    g.font = cfont('text', 20, 600); var w = g.measureText(text).width + 18;
+    g.strokeStyle = C_MUTED; g.lineWidth = 1.5; rrect(g, x, y - 22, w, 30, 6); g.stroke();
+    g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(text, x + 9, y - 1);
+    return w;
+  }
+  function rrect(g, x, y, w, h, r) { g.beginPath(); g.moveTo(x + r, y); g.arcTo(x + w, y, x + w, y + h, r); g.arcTo(x + w, y + h, x, y + h, r); g.arcTo(x, y + h, x, y, r); g.arcTo(x, y, x + w, y, r); g.closePath(); }
+  function smallSeal(g, name, x, y, size) {   // same layout as the page's seal, drawn small as an accent
+    var chars = name.replace(/ /g, '').split(''); if (!chars.length || chars.length > 4) return false;
+    var cols = chars.length <= 2 ? 1 : 2, rows = Math.ceil(chars.length / cols); if (chars.length < cols * rows) chars.push('인');
+    var k = size / 240, pad = 22 * k, inner = size - pad * 2, cw = inner / cols, ch = inner / rows, fs = Math.min(cw, ch) * 0.86;
+    g.fillStyle = C_RED; rrect(g, x + 6 * k, y + 6 * k, size - 12 * k, size - 12 * k, 14 * k); g.fill();
+    g.strokeStyle = C_PAPER; g.lineWidth = 3 * k; rrect(g, x + 14 * k, y + 14 * k, size - 28 * k, size - 28 * k, 8 * k); g.stroke();
+    g.fillStyle = C_PAPER; g.textAlign = 'center'; g.font = cfont('head', fs);
+    chars.forEach(function (c, i) { var col = cols - 1 - Math.floor(i / rows), row = i % rows; g.fillText(c, x + pad + cw * col + cw / 2, y + pad + ch * row + ch / 2 + fs * 0.34); });
+    return true;
+  }
+  function cardLabel(g, text, x, y, extra, maxW) {   // section label, baseline y
+    var f = fitText(g, text, 'text', 600, 23, 17, maxW || CIN, 1);
+    g.font = cfont('text', f.size, 600); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(f.lines.join(' '), x, y);
+    if (extra) chip(g, extra, x + g.measureText(f.lines.join(' ')).width + 14, y);
+  }
+  /* body sections: each measures itself first, then draws at y; each carries the sources of what it shows */
+  function cardBlocks(g, m) {
+    var blocks = [];
+    if (m.scripts.length) {
+      var n = m.scripts.length, gap = 32, colW = (CIN - gap * (n - 1)) / n;
+      var fits = m.scripts.map(function (s) { return s.lines.map(function (l) { return fitText(g, l, 'head', 0, 46, 28, colW, 1); }); });
+      var asRows = fits.some(function (f) { return f.some(function (x) { return x.lines.length > 1; }); });
+      if (asRows) fits = m.scripts.map(function (s) { return s.lines.map(function (l) { return fitText(g, l, 'head', 0, 40, 26, CIN - 260, 2); }); });
+      var valH = function (f) { return f.reduce(function (h, x) { return h + x.lines.length * x.size * 1.2; }, 0); };
+      var h = asRows ? fits.reduce(function (h2, f) { return h2 + Math.max(36, valH(f)) + 14; }, 0) : 36 + Math.max.apply(null, fits.map(valH));
+      blocks.push({ id: 'scripts', h: h, src: [], draw: function (y) {
+        if (asRows) {
+          m.scripts.forEach(function (s, i) {
+            cardLabel(g, s.label, CM, y + 30, null, 250); var yy = y;
+            fits[i].forEach(function (f) { yy += drawLines(g, f, CM + 260, yy + f.size, f.size * 1.2, C_INK); });
+            y += Math.max(36, valH(fits[i])) + 14;
+          });
+          return;
+        }
+        m.scripts.forEach(function (s, i) {
+          var x = CM + i * (colW + gap), yy = y + 36;
+          cardLabel(g, s.label, x, y + 22, null, colW);
+          fits[i].forEach(function (f) { yy += drawLines(g, f, x, yy + f.size, f.size * 1.2, C_INK); });
         });
-        g.textAlign = 'center';
-      } else if (line) { y += 80; g.fillStyle = '#16151a'; g.font = '32px "Song Myung", serif'; wrap(g, line, W / 2, y, W - 140, 44); }
-      g.fillStyle = '#b3261e'; g.font = '26px "IBM Plex Sans KR", sans-serif'; g.fillText(T.cardSeal, W / 2, H - 96);
-      g.font = '600 22px "IBM Plex Mono", monospace'; g.fillText('nadri-guide.pages.dev/name', W / 2, H - 56);
-      var a = document.createElement('a'); a.download = 'nadri-' + r.hangul.replace(/ /g, '') + '.png'; a.href = c.toDataURL('image/png'); a.click();
+      } });
+    }
+    if (m.same.length) {   // one row, three columns: the same grid as the scripts above
+      var cols = 3, cw = (CIN - 32 * (cols - 1)) / cols, items = m.same.slice(0, cols);
+      var cells = items.map(function (it) {
+        g.font = cfont('text', 21, 600); var chipW = it.conf ? g.measureText(it.conf).width + 30 : 0;
+        return { place: fitText(g, it.place, 'text', 0, 23, 18, cw - chipW, 2), name: fitText(g, it.name, 'head', 0, 46, 28, cw, 2), sub: it.sub ? fitText(g, it.sub, 'text', 0, 23, 18, cw, 1) : null, conf: it.conf, chipW: chipW };
+      });
+      var cellH = function (c) { return c.place.lines.length * 30 + 8 + c.name.lines.length * c.name.size * 1.15 + (c.sub ? 32 : 0); };
+      var rowH = Math.max.apply(null, cells.map(cellH));
+      blocks.push({ id: 'same', h: 40 + rowH, src: items.map(function (x) { return x.src; }), draw: function (y) {
+        cardLabel(g, m.sameLabel || T.cardSame, CM, y + 22);
+        cells.forEach(function (c, ci) {
+          var x = CM + ci * (cw + 32), y2 = y + 40;
+          drawLines(g, c.place, x, y2 + 22, 30, C_MUTED);
+          if (c.conf) { g.font = cfont('text', c.place.size); chip(g, c.conf, x + g.measureText(c.place.lines[0]).width + 10, y2 + 24); }
+          y2 += c.place.lines.length * 30 + 8;
+          y2 += drawLines(g, c.name, x, y2 + c.name.size * 0.95, c.name.size * 1.15, C_INK);
+          if (c.sub) drawLines(g, c.sub, x, y2 + 24, 26, C_MUTED);
+        });
+      } });
+    }
+    if (m.lead) {
+      var lf = fitText(g, m.lead.place + ' — ' + m.lead.text, 'text', 0, 30, 24, CIN, 3);
+      blocks.push({ id: 'lead', h: 40 + lf.lines.length * lf.size * 1.35, src: [m.lead.src], draw: function (y) {
+        cardLabel(g, T.cardLeads, CM, y + 22, m.lead.conf);
+        drawLines(g, lf, CM, y + 40 + lf.size, lf.size * 1.35, C_INK);
+      } });
+    }
+    m.facts.forEach(function (fa) {
+      var ff = fitText(g, fa.text, 'text', 0, 28, 22, CIN, 3);
+      blocks.push({ id: 'fact', h: 40 + ff.lines.length * ff.size * 1.35, src: [fa.src], draw: function (y) {
+        cardLabel(g, fa.label, CM, y + 22);
+        drawLines(g, ff, CM, y + 40 + ff.size, ff.size * 1.35, C_INK);
+      } });
+    });
+    return blocks;
+  }
+
+  function drawCard(m, img) {
+    var c = document.createElement('canvas'); c.width = CW; c.height = CH;
+    var g = c.getContext('2d'); g.textBaseline = 'alphabetic'; g.direction = 'ltr';
+    g.fillStyle = C_PAPER; g.fillRect(0, 0, CW, CH);
+    var BAND = 330, top;
+    // optional meaning photo: a top band that fades into the paper; without one, a tag line
+    if (img) {
+      var sc = Math.max(CW / img.width, BAND / img.height), iw = img.width * sc, ih = img.height * sc;
+      g.save(); g.beginPath(); g.rect(0, 0, CW, BAND); g.clip();
+      g.drawImage(img, (CW - iw) / 2, (BAND - ih) / 2, iw, ih);
+      g.restore();
+      var grd = g.createLinearGradient(0, BAND - 140, 0, BAND); grd.addColorStop(0, 'rgba(244,240,230,0)'); grd.addColorStop(1, C_PAPER);
+      g.fillStyle = grd; g.fillRect(0, BAND - 140, CW, 140);
+      top = BAND - 4;
+    } else {
+      g.font = cfont('text', 24, 600); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(T.cardTag, CM, CM + 6);
+      top = CM + 64;
+    }
+    smallSeal(g, m.seal || '', CW - CM - 92, CM - 34, 92);   // the stamp, only as a small accent
+    // footer: Nadri and the address
+    var foot = CH - 152;
+    g.fillStyle = C_INK; g.fillRect(CM, foot, CIN, 2);
+    g.font = cfont('head', 56); g.textAlign = 'left'; g.fillText('Nadri', CM, CH - 70);
+    g.textAlign = 'right'; g.font = cfont('text', 23); g.fillStyle = C_MUTED; g.fillText(T.cardTry, CW - CM, CH - 106);
+    g.font = cfont('mono', 28, 600); g.fillStyle = C_RED; g.fillText('nadri-guide.pages.dev/name', CW - CM, CH - 70);
+    // measure: hero, meaning, body sections
+    var hero = fitText(g, m.hero, 'head', 0, img ? 116 : 132, 80, CIN, 1);
+    if (hero.lines.length > 1) hero = fitText(g, m.hero, 'head', 0, 88, 52, CIN, 2);
+    var heroH = hero.lines.length * hero.size * 1.08;
+    var mean = null, meanH = 0;
+    if (m.meaning) {
+      mean = { lab: (m.meaning.label || T.yourNameIs) + (m.meaning.root ? ' (→ ' + m.meaning.root + ')' : '') };
+      mean.word = m.meaning.long ? fitText(g, m.meaning.word, 'head', 0, 50, 32, CIN, 3) : fitText(g, '“' + m.meaning.word + '”', 'head', 0, 76, 40, CIN, 2);
+      mean.det = m.meaning.detail ? fitText(g, m.meaning.detail, 'text', 0, 27, 22, CIN, 2) : null;
+      meanH = 18 + 42 + mean.word.lines.length * mean.word.size * 1.18 + (mean.det ? 8 + mean.det.lines.length * mean.det.size * 1.35 : 0);
+    }
+    var blocks = cardBlocks(g, m), MINGAP = 34;
+    var srcOf = function (bl) {
+      var all = (m.meaning && m.meaning.src ? [m.meaning.src] : []);
+      bl.forEach(function (b) { all = all.concat(b.src); });
+      var out = []; all.forEach(function (x) { x = String(x || '').split(':')[0].trim(); if (x && out.indexOf(x) < 0) out.push(x); });
+      var t = (m.credit ? m.credit : '') + (out.length ? (m.credit ? ' · ' : '') + T.src + ': ' + out.join(' · ') : '');
+      return t ? fitText(g, t, 'text', 0, 20, 17, CIN, 2) : null;
+    };
+    var srcH = function (f) { return f ? 24 + f.lines.length * f.size * 1.35 : 0; };
+    var sum = function () { return blocks.reduce(function (a, b) { return a + b.h + MINGAP; }, 0); };
+    var room = function () { return foot - srcH(srcOf(blocks)) - 28 - top - heroH - meanH; };
+    // when it does not fit: drop extra facts, then where-it-leads, then the same-meaning row; the name in Korean/Japanese/Chinese stays
+    while (blocks.length && sum() > room()) {
+      var drop = ['fact', 'lead', 'same', 'scripts'].filter(function (id) { return blocks.some(function (b) { return b.id === id; }); })[0];
+      blocks.splice(blocks.map(function (b) { return b.id; }).lastIndexOf(drop), 1); m.dropped = (m.dropped || []).concat(drop);
+    }
+    var sf = srcOf(blocks), avail = foot - srcH(sf) - 28 - top - heroH - meanH;
+    var used = blocks.reduce(function (a, b) { return a + b.h; }, 0);
+    var gap = blocks.length ? Math.min(64, (avail - used) / blocks.length) : 0;
+    var spare = avail - used - gap * blocks.length;
+    var y = top + (img ? 0 : Math.max(0, spare * 0.42));   // short cards sit a little above the middle instead of leaving a hole
+    // draw
+    y += drawLines(g, hero, CM, y + hero.size * 0.9, hero.size * 1.08, C_INK);
+    if (mean) {
+      y += 18;
+      g.font = cfont('text', 30); g.fillStyle = C_MUTED; g.textAlign = 'left'; g.fillText(mean.lab, CM, y + 28);
+      if (m.meaning.conf) chip(g, m.meaning.conf, CM + g.measureText(mean.lab).width + 14, y + 28);
+      y += 42;
+      y += drawLines(g, mean.word, CM, y + mean.word.size * 0.95, mean.word.size * 1.18, C_RED);
+      if (mean.det) { y += 8; y += drawLines(g, mean.det, CM, y + mean.det.size, mean.det.size * 1.35, C_MUTED); }
+    }
+    blocks.forEach(function (b) {
+      y += gap / 2; g.fillStyle = C_HAIR; g.fillRect(CM, y, CIN, 2);
+      y += gap / 2; b.draw(y); y += b.h;
+    });
+    if (sf) drawLines(g, sf, CM, foot - 24 - (sf.lines.length - 1) * sf.size * 1.35, sf.size * 1.35, C_MUTED);
+    return c;
+  }
+
+  function cardImage(id) {
+    var P = (window.NADRI_MEANING_IMG || {})[id];
+    if (!P || !P.src) return Promise.resolve(null);
+    return new Promise(function (res) {
+      var im = new Image(), done = false, fin = function (v) { if (!done) { done = true; res(v); } };
+      im.crossOrigin = 'anonymous'; im.onload = function () { fin(im); }; im.onerror = function () { fin(null); };
+      setTimeout(function () { fin(null); }, 5000); im.src = P.src;
     });
   }
-  function wrap(g, text, x, y, max, lh) {
-    var words = text.split(/(\s+)/), line = '', n = 0;
-    if (!/\s/.test(text)) words = text.split('');
-    words.forEach(function (w) { var t = line + w; if (g.measureText(t).width > max && line) { g.fillText(line.trim(), x, y + n * lh); n++; line = w; } else line = t; });
-    if (line && n < 4) g.fillText(line.trim(), x, y + n * lh);
+  function canvasBlob(c) { return new Promise(function (res, rej) { try { c.toBlob(function (b) { if (b) res(b); else rej(new Error('blob')); }, 'image/png'); } catch (err) { rej(err); } }); }
+  var SHARE_FILES = (function () {   // phones with a share sheet that takes image files; computers save the PNG instead
+    try { return !!(navigator.share && navigator.canShare && window.matchMedia && matchMedia('(pointer: coarse)').matches && navigator.canShare({ files: [new File([new Blob(['x'], { type: 'image/png' })], 'nadri.png', { type: 'image/png' })] })); } catch (err) { return false; }
+  })();
+  var cardJob = null;
+  // drawn as soon as the result shows, so the share sheet can open straight from the tap
+  function prepareCard(r) {
+    var m = cardModel(r), job = { m: m };
+    m.seal = r.hangul;
+    var P = (window.NADRI_MEANING_IMG || {})[m.concept];
+    var ready = document.fonts && document.fonts.load ? Promise.all([cfont('head', 60), cfont('text', 30), cfont('text', 30, 600), cfont('mono', 24, 600), cfont('mono', 24, 500)].map(function (f) {
+      return document.fonts.load(f, JSON.stringify(m) + 'Nadri' + T.cardTag + T.cardSame + T.cardLeads + T.cardTry + T.yourNameIs + T.src);
+    })).catch(function () {}) : Promise.resolve();
+    job.p = ready.then(function () { return cardImage(m.concept); }).then(function (img) {
+      m.credit = img && P.credit ? P.credit : '';
+      return canvasBlob(drawCard(m, img)).catch(function () { m.credit = ''; return canvasBlob(drawCard(m, null)); });
+    }).then(function (blob) {
+      job.blob = blob;
+      job.fname = 'nadri-name-' + (m.hero.replace(/[\s\/\\:*?"<>|]+/g, '') || 'card') + '.png';
+      try { job.file = new File([blob], job.fname, { type: 'image/png' }); } catch (err) { job.file = null; }
+      return job;
+    });
+    cardJob = job;
+    return job;
   }
-  function roundRect(g, x, y, w, h, r) { g.beginPath(); g.moveTo(x + r, y); g.arcTo(x + w, y, x + w, y + h, r); g.arcTo(x + w, y + h, x, y + h, r); g.arcTo(x, y + h, x, y, r); g.arcTo(x, y, x + w, y, r); g.closePath(); }
+  function downloadCard(job) {
+    var u = URL.createObjectURL(job.blob), a = document.createElement('a');
+    a.download = job.fname; a.href = u; document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(u); }, 4000);
+  }
+  function cardClick() {
+    var job = cardJob; if (!job) return;
+    var page = location.origin + location.pathname;   // the link in the share text carries no name
+    var share = function (j) {
+      return navigator.share({ files: [j.file], title: 'Nadri', text: T.cardTry + ' ' + page }).catch(function (err) { if (!err || err.name !== 'AbortError') downloadCard(j); });
+    };
+    if (SHARE_FILES && job.file) { share(job); return; }
+    job.p.then(function (j) { if (SHARE_FILES && j.file) share(j); else downloadCard(j); });
+  }
 
   shell();
   var q = params.get('n');
   if (q) { input.value = q; render(q); }
 
-  window.NadriName = { convert: convert, setLang: function (l) { applyLang(l); shell(); } }; // for tests
+  window.NadriName = { convert: convert, setLang: function (l) { applyLang(l); shell(); }, card: function () { return cardJob && cardJob.p; } }; // for tests
 })();
