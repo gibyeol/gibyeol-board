@@ -4,6 +4,7 @@ description: Korean sales worth timing a trip around, sorted by what ends first,
 lede: Sorted by what ends first. Every entry links to its source, public codes copy in one tap, and dates that are only expected are marked as such.
 section: deals
 updated: 2026-11-24
+approved: 2026-11-26
 disclosure: yes
 ---
 {{deals}}
