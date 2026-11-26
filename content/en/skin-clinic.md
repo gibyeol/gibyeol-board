@@ -22,7 +22,7 @@ Who does not need this page: if you are only buying skincare, see [Olive Young](
 
 ## Before you book: what the process looks like
 
-Built from the rules on this page. It describes a process, not a promise about results.
+This describes a process, not a promise about results.
 
 **At home, weeks before.** Paste the clinic's Korean name into the official registry and check that it is active. Price the visit without a tax refund. Keep your flight date at hand.
 

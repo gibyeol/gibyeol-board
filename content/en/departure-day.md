@@ -8,7 +8,7 @@ updated: 2026-11-26
 ---
 ## Your last morning
 
-Here is the last morning we would plan, built from the airport's own procedures. If you stay near Seoul Station, go down to B2 of the station: check in, drop your bags and clear passport control there, then ride the AREX Express nonstop to the airport. At Incheon you walk in through a dedicated departure entrance on the 3rd floor, your suitcase already in the system.
+Here is the last morning we would plan. If you stay near Seoul Station, go down to B2 of the station: check in, drop your bags and clear passport control there, then ride the AREX Express nonstop to the airport. At Incheon you walk in through a dedicated departure entrance on the 3rd floor, your suitcase already in the system.
 
 After security and passport control there is no going back, so finish the landside jobs first. Airside, pick up any duty-free order and run any leftover refund, then walk to your gate. Our pick for the ending: your last coins spent on a drink, and you at the gate 30–40 minutes before boarding, which is what the airport asks.
 

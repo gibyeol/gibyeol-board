@@ -59,7 +59,6 @@ Need a Korean number for calls and texts (some booking and delivery apps ask for
 
 {{aff:klook_esim_alt|SKT eSIM with calls and texts}}
 
-
 ## 4. Money and transport cards
 
 Credit cards are accepted almost everywhere in shops and restaurants. Cash still matters for the transport card.

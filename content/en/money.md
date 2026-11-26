@@ -19,8 +19,6 @@ Our call on cards: bring two from different networks (say, Visa plus Mastercard 
 
 ## Your first day with money in Korea
 
-Built from the checked facts below, not from a story.
-
 **Before you fly.** Two cards from different networks in your wallet, and the apps you plan to use (Naver Map, a delivery app, k.ride) installed at home on wifi.
 
 **First evening.** A little won from the airport counter gets you to the hotel. In the city you change the rest for ₩10,000 notes. Dinner and the convenience store go on your card; at the market stall, you hand over a note.

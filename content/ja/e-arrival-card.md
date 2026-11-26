@@ -196,8 +196,6 @@ updated: 2026-11-26
 
 **入国審査のカウンター。** ペンも、ひざの上で書く紙のカードもありません。パスポートを渡すと、係官の画面にはもう情報が出ています。審査を通れば、申告書は役目を終えて失効します。
 
-公式のルールから組み立てた場面です。作り話の体験談ではありません。
-
 ## 次にすること
 
 <a class="eac-nextcard" href="/ja/airport-to-seoul/"><img src="/static/photo/airport-1.webp" alt="仁川空港第2ターミナルの到着ホール" loading="lazy" decoding="async"><span><b><i class="ic ic-plane" aria-hidden="true"></i>着いたら:仁川空港からソウルへ</b>入国審査の次に決めるのは、泊まる場所のいちばん近くまで行ける交通手段です。</span><small>Photo: AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)</small></a>

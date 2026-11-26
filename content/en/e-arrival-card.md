@@ -196,8 +196,6 @@ The card does not sign you up for the automated immigration gates, and it does n
 
 **At the immigration desk.** No pen, no paper card to fill in on your knee. You hand over your passport; the officer already has your details on screen. Once you are through, the card has done its job and expires.
 
-Built from the official rules, not from a story.
-
 ## What's next
 
 <a class="eac-nextcard" href="/airport-to-seoul/"><img src="/static/photo/airport-1.webp" alt="Incheon Airport Terminal 2 arrival hall" loading="lazy" decoding="async"><span><b><i class="ic ic-plane" aria-hidden="true"></i>Landed? Incheon Airport to Seoul</b>The next decision after immigration: which ride drops you closest to your bed.</span><small>Photo: AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)</small></a>

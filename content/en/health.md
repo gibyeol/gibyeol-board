@@ -23,8 +23,6 @@ The three to remember: convenience stores for small things at night, E-Gen to fi
 
 ## If you get sick on the trip: the scene
 
-Built from the facts on this page, not from a story.
-
 **Before you fly (five minutes).** Save 119 and 1339 in your phone. Pack the medicine you already take, in its labelled box. If an ingredient is controlled in Korea, apply to the MFDS before the trip and allow up to 10 business days.
 
 **11 p.m., a headache.** At a 24-hour convenience store the medicine shelf has four kinds: fever and pain relievers, cold medicines, digestives and pain patches. One pack per product, and no pharmacist to ask.
