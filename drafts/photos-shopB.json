@@ -154,5 +154,68 @@
    "shopping-streets Hongdae (4 langs)"
   ],
   "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/myeongdong-theater.webp",
+  "subject": "Myeongdong Theater (명동예술극장) facade at dusk, the central crossroads landmark of Myeongdong",
+  "source_site": "Wikimedia Commons (from Flickr)",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg",
+  "author": "lumoplank",
+  "license": "CC0 1.0",
+  "license_tag_on_file_page": "{{FlickreviewR|status=passed|reviewlicense=cc-zero}} checked via action=raw 2026-11-26",
+  "original_date": "before 2025-01-21",
+  "modifications": [
+   "resized to 780x520",
+   "light auto-contrast",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: lumoplank, CC0, via Wikimedia Commons",
+  "share_alike": false,
+  "used_on": [
+   "shopping-streets Myeongdong landmark (4 langs)"
+  ],
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/law-foreign-patient-art8-ko.webp",
+  "subject": "Screenshot (cropped): law.go.kr, Act on Support for Overseas Expansion of Medical Services and Attraction of Foreign Patients, Art. 8 full text, annotated 1-4",
+  "source_site": "law.go.kr (Korea Ministry of Government Legislation, National Law Information Center)",
+  "source_url": "https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률",
+  "author": "Ministry of Government Legislation (statute text)",
+  "license": "Statute text is not protected by copyright (Copyright Act Art. 7); state-agency site, free use under Art. 24-2(1); cropped and annotated per owner rule 2026-11-26",
+  "original_date": "captured 2026-11-26 (Playwright 390x844 mobile, scale 2; fixed headers hidden)",
+  "modifications": [
+   "cropped to Art. 8",
+   "red outlines and numbered badges added",
+   "white margin",
+   "converted to WebP q85"
+  ],
+  "attribution": "Screen: National Law Information Center (law.go.kr), captured 2026-11-26, cropped and annotated",
+  "share_alike": false,
+  "used_on": [
+   "skin-clinic (4 langs)"
+  ],
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/law-foreign-patient-art8-items-ko.webp",
+  "subject": "Screenshot (cropped): same Art. 8, items 1-3 of para. 2 only, annotated 2-4",
+  "source_site": "law.go.kr (Korea Ministry of Government Legislation, National Law Information Center)",
+  "source_url": "https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률",
+  "author": "Ministry of Government Legislation (statute text)",
+  "license": "Statute text is not protected by copyright (Copyright Act Art. 7); state-agency site, free use under Art. 24-2(1); cropped and annotated per owner rule 2026-11-26",
+  "original_date": "captured 2026-11-26 (Playwright 390x844 mobile, scale 2; fixed headers hidden)",
+  "modifications": [
+   "cropped to Art. 8",
+   "red outlines and numbered badges added",
+   "white margin",
+   "converted to WebP q85"
+  ],
+  "attribution": "Screen: National Law Information Center (law.go.kr), captured 2026-11-26, cropped and annotated",
+  "share_alike": false,
+  "used_on": [
+   "skin-clinic (4 langs)"
+  ],
+  "retrieved": "2026-11-26"
  }
 ]

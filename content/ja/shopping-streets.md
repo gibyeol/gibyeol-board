@@ -28,10 +28,13 @@ updated: 2026-11-26
 1. **地図アプリでお店を探す。** NAVER地図やカカオマップに店名を入れると、近い駅と出口番号が出ます。このページの出口番号をそのまま使っても大丈夫。
 2. **改札でタッチして出たら、出口番号の案内板に沿って歩く。** 丸の中の数字が出口番号、矢印が方向です([ソウルの地下鉄 ステップ6](/ja/seoul-subway/)に実際の表示の写真)。
 3. **地上に出たら上の写真のように出口番号を確認。** 大きな駅は出口を間違えるとかなり歩きます。
+4. **出口からお店までは、地図アプリのルート検索で「徒歩」を選んでたどります。** 下の街ごとに、出口から見える目印(建物・通りの名前)を書いておきました。それでも迷ったら、観光案内所(弘大なら7番出口近くの麻浦観光案内所)かお店のスタッフにこのページの店名を見せましょう。
 
 地下鉄の乗り方、路線図の読み方、交通カードのチャージは[ソウルの地下鉄](/ja/seoul-subway/)に写真付きでまとめています。
 
 {{fig:shopping-streets-2|概念図: 漢江の北側のショッピングエリア(距離・縮尺は実際と違います)}}
+
+2号線はソウルをぐるりと回る環状線で(コリアヘラルド)、3つのエリアすべてに2号線の駅があります。
 
 <h2 id="myeongdong">明洞: コスメ、そして初めてのソウル</h2>
 
@@ -41,6 +44,10 @@ updated: 2026-11-26
 
 - **行き方:** 2号線乙支路入口駅5番出口か4号線明洞駅8番出口。オリーブヤング明洞グローバル店が案内している出口です。
 - **あるもの:** 大型百貨店2つ、ショッピングセンター、ブランド店、露店。大通りの両側に屋台。明洞地下ショッピングセンターにはK-POPグッズやお土産があります。ビジットソウルは、最近は特に外国人客で混むと書いています。
+- **道しるべ:** 明洞の真ん中の**明洞芸術劇場の交差点**。路地を歩くとこの交差点に出ます。明洞聖堂はユネスコ通りの突き当たりです(ビジットソウル)。
+
+<figure class="tr-photo"><img src="/static/photo/myeongdong-theater.webp" alt="夜の明洞芸術劇場。正面に「명동예술극장 MYEONGDONG THEATER」の文字" loading="lazy" width="780" height="520"><figcaption><b>明洞芸術劇場</b>。この建物が見えたら明洞の真ん中の交差点です。<span class="tr-credit">写真: lumoplank、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>、<a href="https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(縮小、明るさ自動補正)</span></figcaption></figure>
+
 - **オリーブヤング明洞グローバル店:** 明洞キル53。毎日10:00〜22:30(店の都合で変わることあり)。1〜2階、レジで即時タックスリファンド、WeChat Pay・アリペイなどの簡単決済、ギフト包装、外国語対応。店内にトイレはなく、近くの地下鉄駅のトイレを使うよう案内しています。
 - **行くのにいい時間:** 開店直後。混雑データではなく私たちの推測です。
 - **近く:** 明洞駅そばの12階建ての[ダイソー](/ja/daiso/)。免税店はロッテ免税店本店(乙支路入口駅7・8番出口)、新世界免税店(会賢駅5番出口)が近いです([免税店](/ja/duty-free/))。
@@ -54,7 +61,7 @@ updated: 2026-11-26
 
 - **行き方:** 2号線聖水駅4番出口。延武場キルはここから始まります。ムシンサ・メガストアは3番出口から475m。
 - **どんな街:** 1950年代末から小さな工場が集まり、1967年以降に手作り靴の業者が集まって手作り靴通りに。今はファッション・コスメ・ポップアップ・旗艦店が集まる街です(ビジットソウル)。
-- **オリーブヤングN聖水:** 延武場7キル13、4番出口から118m(徒歩約1分)。2024年11月末に開店。1階はブランドのポップアップが変わる広場で、毎日先着300人に無料の4カット写真。2階ビューティー&カルチャー、3階スキン&ウェルネス、4階VIPラウンジ。メイクなどの無料サービスは事前予約制で、毎週金曜の正午に翌週分の予約が開きます。
+- **オリーブヤングN聖水:** 延武場7キル13のファクトリアル聖水の建物、4番出口から118m(徒歩約1分)。2024年11月末に開店。1階はブランドのポップアップが変わる広場で、毎日先着300人に無料の4カット写真。2階ビューティー&カルチャー、3階スキン&ウェルネス、4階VIPラウンジ。メイクなどの無料サービスは事前予約制で、毎週金曜の正午に翌週分の予約が開きます。
 - **ムシンサ・メガストア聖水:** 2026年4月24日開店、約6,600㎡。2階はムシンサ初のオフラインのビューティーフロア。毎日11:00〜22:00。
 - **行くのにいい時間:** 平日。コリアヘラルドの聖水ショッピングガイド(2026年7月)は、ムシンサ・メガストアは週末に混み、一部の店は週末はたいてい待つと書いています。
 - **免税:** お店ごとのルールは確認できていません。パスポートを持って、会計の前に聞いてください。
@@ -68,7 +75,7 @@ updated: 2026-11-26
 
 - **行き方:** 弘大入口駅(2号線、空港鉄道、京義・中央線)9番出口から350mがR3ファッション通り。空港鉄道の駅なので、空港に行き来する日にも寄りやすいです。
 - **あるもの:** 弘益大学の周り。R3一帯は服とコスメのお店がぎっしり。1番出口側の旧LINE FRIENDS旗艦店はK-Pop Squareに変わりました(毎日11:00〜22:00)。カカオフレンズ旗艦店は8番出口。
-- **COVERNAT弘大旗艦店:** 9番出口から徒歩約10分。毎日12:00〜21:00、外国人観光客はレジでタックスリファンド、アリペイ可。
+- **COVERNAT弘大旗艦店:** 9番出口から徒歩約10分(チャンダリ路24)。近くに複合文化空間KT&Gサンサンマダン。毎日12:00〜21:00、外国人観光客はレジでタックスリファンド、アリペイ可。
 - **困ったら:** 麻浦観光案内所、7番出口から徒歩3分。
 - **行くのにいい時間:** 夕方〜夜。混雑データではなく営業時間からの判断です。正午に開く旗艦店もあります。
 - **向かない人:** 静かに見て回りたい人。
@@ -80,6 +87,8 @@ updated: 2026-11-26
 {{fig:shopping-streets-7|レシート1枚の即時還付の範囲}}
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-id-card" aria-hidden="true"></i>パスポート原本を持つ</h3>
+
+<figure class="tr-photo"><img src="/static/photo/oy-myeongdong-sign-closeup.webp" alt="明洞のオリーブヤングのレジ上の表示: Please prepare your physical passport (for immediate tax refund)" loading="lazy" width="780" height="192"><figcaption>レジの上にこういう表示(「Tax Free」「Tax Refund」、パスポート準備の案内)があるお店ならOK。なければ会計前に聞きましょう。<span class="tr-credit">写真: Sgroey、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(切り抜き、明るさ自動補正)</span></figcaption></figure>
 
 レジでの即時還付にはパスポート原本が必要です。写真ではだめ。韓国を訪問中の人が対象です([対象かどうか](/ja/tax-refund/))。
 
@@ -132,7 +141,7 @@ updated: 2026-11-26
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典</summary>
 
-<p class="sources">2026年11月26日(韓国時間)確認。ビジットソウル(英語): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">明洞特集</a>(ショッピングの1番地、百貨店・露店、地下ショッピングセンター、2025年11月18日更新)、<a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">「2025 Seoul Trend Dispatch: Seongsu-dong」</a>(延武場キルと4番出口、手作り靴通りの歴史、オリーブヤングN聖水の各階・予約・118m、2026年6月15日更新)、<a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">ムシンサ・メガストア聖水</a>(6,600㎡、3番出口475m、11:00〜22:00、2026年7月20日更新)、<a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9番出口350m、麻浦観光案内所は7番出口から3分、2026年8月31日更新)、<a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a>(12:00〜21:00、タックスリファンド、アリペイ、9番出口から10分、2026年8月8日更新)、<a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">「Fan life starts in Hongdae」</a>(K-Pop Square 1番出口 11:00〜22:00、カカオフレンズ8番出口、2026年10月24日更新)、<a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">DOOTA MALL</a>(10:30〜24:00、東大門駅8番出口、2026年11月20日更新)。オリーブヤング<a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">明洞グローバルタウンのサイト</a>(住所・営業時間・出口・サービス、タックスリファンドFAQ、トイレなし)。コリアヘラルド: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">オリーブヤングN聖水</a>(2024年11月21日)、<a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">ソウルのバスストと2号線</a>(2026年1月13日)、<a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">ムシンサ・メガストア聖水開店</a>(2026年4月25日)、<a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">聖水ショッピングガイド</a>(2026年7月4日)、<a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">ムシンサのジョジョタウン・ポップアップ</a>(2026年10月6日)。コリアヘラルドの記事は前の版(2026年11月26日午前)で確認し、今回は開き直していません。</p>
+<p class="sources">2026年11月26日(韓国時間)確認。ビジットソウル(英語): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">明洞特集</a>(ショッピングの1番地、百貨店・露店、地下ショッピングセンター、明洞芸術劇場の交差点、ユネスコ通りの先の明洞聖堂、2025年11月18日更新)、<a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">「2025 Seoul Trend Dispatch: Seongsu-dong」</a>(延武場キルと4番出口、手作り靴通りの歴史、オリーブヤングN聖水の各階・予約・118m、2026年6月15日更新)、<a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">ムシンサ・メガストア聖水</a>(6,600㎡、3番出口475m、11:00〜22:00、2026年7月20日更新)、<a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9番出口350m、麻浦観光案内所は7番出口から3分、2026年8月31日更新)、<a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a>(12:00〜21:00、タックスリファンド、アリペイ、9番出口から10分、チャンダリ路24、KT&Gサンサンマダンの近く、2026年8月8日更新)、<a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">「Fan life starts in Hongdae」</a>(K-Pop Square 1番出口 11:00〜22:00、カカオフレンズ8番出口、2026年10月24日更新)、<a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">DOOTA MALL</a>(10:30〜24:00、東大門駅8番出口、2026年11月20日更新)。オリーブヤング<a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">明洞グローバルタウンのサイト</a>(住所・営業時間・出口・サービス、タックスリファンドFAQ、トイレなし)。コリアヘラルド: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">オリーブヤングN聖水</a>(2024年11月21日)、<a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">ソウルのバスストと2号線</a>(2026年1月13日)、<a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">ムシンサ・メガストア聖水開店</a>(2026年4月25日)、<a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">聖水ショッピングガイド</a>(2026年7月4日)、<a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">ムシンサのジョジョタウン・ポップアップ</a>(2026年10月6日)。コリアヘラルドの記事は前の版(2026年11月26日午前)で確認し、今回は開き直していません。</p>
 
 </details>
 

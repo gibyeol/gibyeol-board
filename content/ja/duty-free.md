@@ -113,11 +113,25 @@ updated: 2026-11-26
 
 {{fig:duty-free-t1map|第1ターミナル: 出国審査後の3階免税エリアから4階の引き渡し場(43番ゲートの向かい)まで。現代・新羅免税店の引き渡し案内と仁川国際空港の施設案内(2026年11月26日確認)の位置をもとにNadriが描き直しました}}
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>第1ターミナル西側(4階)</b><span>出国審査を通ると3階の免税エリア。ゲート番号が大きくなる方(西側)へ歩きます。途中の29番ゲート付近に<strong>24時間の案内デスク</strong>と韓国伝統文化センター西館があります。43番ゲートまで来たら、<strong>向かいの上の階(4階)</strong>が引き渡し場。4階の43番ゲート付近にはマティナラウンジ(西側)があります。</span></li><li><i class="ic ic-train-front" aria-hidden="true"></i><b>第1ターミナル搭乗棟(4階)</b><span>搭乗口が101〜132番なら、シャトルトレインで搭乗棟へ。降りたら<strong>119番ゲート横のエスカレーター</strong>で4階へ上がると引き渡し場です。</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>第2ターミナル西側(2階)</b><span>225番ゲート近く、韓国伝統文化センター(西館)向かいのエスカレーターで2階へ下ります。</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>第2ターミナル東側(2階)</b><span>274番ゲート方面、韓国伝統文化センター(東館)向かいのエスカレーターで下の階(2階)へ。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>第1ターミナル西側(4階)</b><span>出国審査を通ると3階の免税エリア。ゲート番号が大きくなる方(西側)へ歩きます。途中の29番ゲート付近に<strong>24時間の案内デスク</strong>と韓国伝統文化センター西館があります。43番ゲートまで来たら、<strong>向かいの上の階(4階)</strong>が引き渡し場。4階の43番ゲート付近にはマティナラウンジ(西側)があります。04:00から最終便まで、☎ +82-32-743-2711。</span></li><li><i class="ic ic-train-front" aria-hidden="true"></i><b>第1ターミナル搭乗棟(4階)</b><span>搭乗口が101〜132番なら、シャトルトレインで搭乗棟へ。降りたら<strong>119番ゲート横のエスカレーター</strong>で4階へ上がると引き渡し場です。03:00から、☎ +82-32-743-2715。</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>第2ターミナル西側(2階)</b><span>225番ゲート近く、韓国伝統文化センター(西館)向かいのエスカレーターで2階へ下ります。05:00から、☎ +82-32-743-6503。</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>第2ターミナル東側(2階)</b><span>274番ゲート方面、韓国伝統文化センター(東館)向かいのエスカレーターで下の階(2階)へ。05:00から。</span></li></ul>
 
 <details class="tr-more"><summary><i class="ic ic-map" aria-hidden="true"></i>第2ターミナルを図で見る</summary>
 
 {{fig:duty-free-t2map|第2ターミナル: 3階免税エリアから2階の引き渡し場へ。現代・新羅免税店の引き渡し案内をもとにNadriが描き直しました}}
+
+</details>
+
+営業時間と電話番号は新羅免税店の引き渡し案内によります(どこも最終便の出発まで)。
+
+<details class="tr-more"><summary><i class="ic ic-plane" aria-hidden="true"></i>ほかの空港から出国するなら(金浦・金海・済州・清州・大邱)</summary>
+
+順番は同じで、出国審査のあとに引き渡し場があります。場所は引換券の引き渡し場名で確認を(現代・新羅の案内)。
+
+- **金浦:** 34番ゲート向かいのエスカレーター・エレベーターで4階へ。☎ +82-2-2666-2730
+- **金海:** 2階の出国審査のあと、13番ゲートの向かい。☎ +82-51-941-9356
+- **済州:** 3階の出国審査を通って左、19・20番ゲートの向かい。☎ +82-64-747-0163
+- **清州:** 出国審査台を通って正面(2階)。☎ +82-43-212-8270
+- **大邱:** 2階の出国審査台の左。☎ +82-53-981-8277
 
 </details>
 
@@ -135,7 +149,7 @@ updated: 2026-11-26
 
 - **受け取れない場合:** 注文した人と出国する人が違う、注文書のパスポート番号と見せたパスポートの番号が違う、登録した出国情報(空港・日時・便名)が実際と違う。
 - **早めに直す:** 新羅は、パスポート番号の修正は出国の少なくとも3日前にカスタマーセンターへ連絡するよう案内しています。
-- **受け取れなかったら:** 免税店に連絡を。現代は注文日から180日まで出国情報を変更でき、過ぎるとキャンセルして買い直しです。現代カスタマーセンター1811-6688(09:30〜18:30、韓国語)、英語の引き渡し場問い合わせ+82-2-2163-6215(毎日10:00〜19:00)。
+- **受け取れなかったら:** 免税店に連絡を。現代は注文日から180日まで出国情報を変更でき、過ぎるとキャンセルして買い直しです。現代カスタマーセンター1811-6688(09:30〜18:30、韓国語)、英語の引き渡し場問い合わせ+82-2-2163-6215(毎日10:00〜19:00)。ロッテ+82-1688-3000、新羅+82-1688-1110、新世界+82-2-1661-8778(ビジットソウルの店舗紹介より)。
 - 免税品は自宅住所へは配送されません。
 
 </details>
@@ -155,7 +169,7 @@ updated: 2026-11-26
 | たばこ | 別枠で紙巻き**200本**、電子たばこニコチン液20ml |
 | 香水 | 別枠で**100ml** |
 
-<ul class="tr-choose"><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>申告する物がないとき</b><span>申告書を出さず「申告なし」の通路へ。場合によっては税関検査があります。</span></li><li><i class="ic ic-pencil" aria-hidden="true"></i><b>免税範囲を超えたとき</b><span>申告書を紙かモバイルで出します。モバイルで自主申告すると告知書の発行と納付もモバイルでできます。自主申告すると関税が30%減り、申告せずに見つかると税額の40%(2年以内に2回以上なら60%)を加算税として払います。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>申告する物がないとき</b><span>申告書を出さず「申告なし」の通路へ。場合によっては税関検査があります。</span></li><li><i class="ic ic-pencil" aria-hidden="true"></i><b>免税範囲を超えたとき</b><span>荷物を受け取ったあと、税関を出る前に申告書を紙かモバイルで出します(<a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">関税庁の案内</a>、韓国語)。モバイルで自主申告すると告知書の発行と納付もモバイルでできます。自主申告すると関税が30%減り、申告せずに見つかると税額の40%(2年以内に2回以上なら60%)を加算税として払います。</span></li></ul>
 
 2026年7月からは、免税範囲内の品物を帰国後に同じモデルの色・サイズ交換に限って郵便・宅配で交換できるようになりました(世界日報の報道)。
 
@@ -216,7 +230,7 @@ updated: 2026-11-26
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典</summary>
 
-<p class="sources">2026年11月26日確認: 現代免税店<a href="https://www.hddfs.com/shop/om/consmGuide/useNotice.do" rel="noopener" target="_blank">利用案内</a>(引き渡し場別の注文締め切り、出国時の購入上限なし、90日前から注文、パスポート原本・e-ticket)、<a href="https://www.hddfs.com/shop/om/consmCont/bcaInfo.do" rel="noopener" target="_blank">引き渡し場と受け取り案内</a>(位置、持ち物、少なくとも1時間前、受け取れない場合、180日の変更期間、カスタマーセンター)、<a href="https://www.hddfs.com/shop/om/consmCont/shopProc.do" rel="noopener" target="_blank">ショッピング手順</a>(会員・非会員、支払い方法、引換券)、<a href="https://www.hddfs.com/shop/om/consmCont/cariProhInfo.do" rel="noopener" target="_blank">機内持ち込み制限</a>(封印袋、乗り継ぎ制限)、<a href="https://www.hddfs.com/store/en/dm/stShop/shoppingGuide.do" rel="noopener" target="_blank">英語ショッピングガイド</a>(貿易センター店の営業時間、外国人の韓国製品60日前からの店頭受け取り、英語の問い合わせ番号); 新羅免税店<a href="https://www.shilladfs.com/estore/kr/en/shilladfscustomercenter/deliverypointinfo" rel="noopener" target="_blank">引き渡し案内</a>(仁川の4か所、119番ゲート横のエスカレーター、パスポート番号修正は3日前まで、入国時の受け取り不可); 仁川国際空港<a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">施設案内</a>(韓国語。第1ターミナル3階免税エリア25・29番ゲート付近の24時間案内デスク、中央28番ゲート、韓国伝統文化センター西館、4階43番ゲート付近のマティナラウンジ(西側)); ビジットソウル<a href="https://english.visitseoul.net/shopping/Lotte-Duty-Free-Shop-Main-Store/ENP009641" rel="noopener" target="_blank">ロッテ免税店本店</a>(2026年11月23日更新)、<a href="https://english.visitseoul.net/area/Shinsegae-Duty-Free-en/ENP024463" rel="noopener" target="_blank">新世界免税店</a>(11月25日更新)、<a href="https://english.visitseoul.net/area/Shilla-Duty-Free-Shop/ENP000521" rel="noopener" target="_blank">新羅免税店</a>(8月6日更新); 韓国関税庁<a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">旅行者携帯品通関</a>(免税範囲、申告手順、自主申告の減免・加算税); 日本の税関<a href="https://www.customs.go.jp/kaigairyoko/menzei.htm" rel="noopener" target="_blank">海外旅行者の免税範囲</a>; コリアタイムズ・聯合ニュース<a href="https://www.koreatimes.co.kr/business/companies/20260226/lotte-hyundai-win-approval-to-operate-new-duty-free-zones-at-incheon-airport" rel="noopener" target="_blank">ロッテ・現代、仁川空港の免税区域運営を承認</a>、コリアヘラルド<a href="https://www.koreaherald.com/article/10683421" rel="noopener" target="_blank">同じ報道</a>(2026年2月26日)。今日は開けなかったもの: ロッテ・新世界免税店のサイト(接続不可)、米国CBP(確認ツールを拒否。11月25日確認分: Customs Duty Information 2024年5月14日更新、19 CFR 148.33)、台湾財政部関務署「入境旅客携帯行李物品報験税放辦法」第11条(2026年1月30日改正、接続不可。11月25日確認分)。報道(11月25日確認): ニューシス(開業日、2026年4月8日); ザ・ファクト(2026年6月10日); ビズウォッチ(2026年11月18日); 世界日報(オンライン免税品の市内店受け取り・帰国後の交換、2026年7月1日); タックスウォッチ(旅行者の免税範囲、2026年9月1日)。</p>
+<p class="sources">2026年11月26日確認: 現代免税店<a href="https://www.hddfs.com/shop/om/consmGuide/useNotice.do" rel="noopener" target="_blank">利用案内</a>(引き渡し場別の注文締め切り、出国時の購入上限なし、90日前から注文、パスポート原本・e-ticket)、<a href="https://www.hddfs.com/shop/om/consmCont/bcaInfo.do" rel="noopener" target="_blank">引き渡し場と受け取り案内</a>(位置、持ち物、少なくとも1時間前、受け取れない場合、180日の変更期間、カスタマーセンター)、<a href="https://www.hddfs.com/shop/om/consmCont/shopProc.do" rel="noopener" target="_blank">ショッピング手順</a>(会員・非会員、支払い方法、引換券)、<a href="https://www.hddfs.com/shop/om/consmCont/cariProhInfo.do" rel="noopener" target="_blank">機内持ち込み制限</a>(封印袋、乗り継ぎ制限)、<a href="https://www.hddfs.com/store/en/dm/stShop/shoppingGuide.do" rel="noopener" target="_blank">英語ショッピングガイド</a>(貿易センター店の営業時間、外国人の韓国製品60日前からの店頭受け取り、英語の問い合わせ番号); 新羅免税店<a href="https://www.shilladfs.com/estore/kr/en/shilladfscustomercenter/deliverypointinfo" rel="noopener" target="_blank">引き渡し案内</a>(引き渡し場ごとの営業時間・電話、金浦・金海・済州・清州・大邱の引き渡し場、仁川の4か所、119番ゲート横のエスカレーター、パスポート番号修正は3日前まで、入国時の受け取り不可); 仁川国際空港<a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">施設案内</a>(韓国語。第1ターミナル3階免税エリア25・29番ゲート付近の24時間案内デスク、中央28番ゲート、韓国伝統文化センター西館、4階43番ゲート付近のマティナラウンジ(西側)); ビジットソウル<a href="https://english.visitseoul.net/shopping/Lotte-Duty-Free-Shop-Main-Store/ENP009641" rel="noopener" target="_blank">ロッテ免税店本店</a>(2026年11月23日更新)、<a href="https://english.visitseoul.net/area/Shinsegae-Duty-Free-en/ENP024463" rel="noopener" target="_blank">新世界免税店</a>(11月25日更新)、<a href="https://english.visitseoul.net/area/Shilla-Duty-Free-Shop/ENP000521" rel="noopener" target="_blank">新羅免税店</a>(8月6日更新); 韓国関税庁<a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">旅行者携帯品通関</a>(免税範囲、申告手順、自主申告の減免・加算税); 日本の税関<a href="https://www.customs.go.jp/kaigairyoko/menzei.htm" rel="noopener" target="_blank">海外旅行者の免税範囲</a>; コリアタイムズ・聯合ニュース<a href="https://www.koreatimes.co.kr/business/companies/20260226/lotte-hyundai-win-approval-to-operate-new-duty-free-zones-at-incheon-airport" rel="noopener" target="_blank">ロッテ・現代、仁川空港の免税区域運営を承認</a>、コリアヘラルド<a href="https://www.koreaherald.com/article/10683421" rel="noopener" target="_blank">同じ報道</a>(2026年2月26日)。今日は開けなかったもの: ロッテ・新世界免税店のサイト(接続不可)、米国CBP(確認ツールを拒否。11月25日確認分: Customs Duty Information 2024年5月14日更新、19 CFR 148.33)、台湾財政部関務署「入境旅客携帯行李物品報験税放辦法」第11条(2026年1月30日改正、接続不可。11月25日確認分)。報道(11月25日確認): ニューシス(開業日、2026年4月8日); ザ・ファクト(2026年6月10日); ビズウォッチ(2026年11月18日); 世界日報(オンライン免税品の市内店受け取り・帰国後の交換、2026年7月1日); タックスウォッチ(旅行者の免税範囲、2026年9月1日)。</p>
 
 </details>
 

@@ -113,11 +113,25 @@ updated: 2026-11-26
 
 {{fig:duty-free-t1map|1터미널: 출국심사 뒤 3층 면세구역에서 4층 인도장(43번 게이트 맞은편)까지. 현대·신라면세점 인도장 안내와 인천국제공항 시설 안내(2026년 11월 26일 확인)의 위치를 바탕으로 Nadri가 다시 그렸어요}}
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>1터미널 서편(4층)</b><span>출국심사를 지나면 3층 면세구역이에요. 게이트 번호가 커지는 쪽(서편)으로 걸어가요. 가는 길 29번 게이트 부근에 <strong>24시간 안내데스크</strong>와 한국전통문화센터 서관이 있어요. 43번 게이트에 오면 <strong>맞은편 위층(4층)</strong>이 인도장이에요. 4층 43번 게이트 부근에는 마티나 라운지(서편)가 있어요.</span></li><li><i class="ic ic-train-front" aria-hidden="true"></i><b>1터미널 탑승동(4층)</b><span>탑승구가 101~132번이면 셔틀트레인을 타고 탑승동으로 가요. 내려서 <strong>119번 게이트 옆 에스컬레이터</strong>로 4층에 올라가면 인도장이에요.</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>2터미널 서편(2층)</b><span>225번 게이트 근처, 한국전통문화센터(서관) 맞은편 에스컬레이터로 2층에 내려가요.</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>2터미널 동편(2층)</b><span>274번 게이트 방향, 한국전통문화센터(동관) 맞은편 에스컬레이터로 아래층(2층)에 내려가요.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>1터미널 서편(4층)</b><span>출국심사를 지나면 3층 면세구역이에요. 게이트 번호가 커지는 쪽(서편)으로 걸어가요. 가는 길 29번 게이트 부근에 <strong>24시간 안내데스크</strong>와 한국전통문화센터 서관이 있어요. 43번 게이트에 오면 <strong>맞은편 위층(4층)</strong>이 인도장이에요. 4층 43번 게이트 부근에는 마티나 라운지(서편)가 있어요. 04:00부터 마지막 항공편까지, ☎ +82-32-743-2711.</span></li><li><i class="ic ic-train-front" aria-hidden="true"></i><b>1터미널 탑승동(4층)</b><span>탑승구가 101~132번이면 셔틀트레인을 타고 탑승동으로 가요. 내려서 <strong>119번 게이트 옆 에스컬레이터</strong>로 4층에 올라가면 인도장이에요. 03:00부터, ☎ +82-32-743-2715.</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>2터미널 서편(2층)</b><span>225번 게이트 근처, 한국전통문화센터(서관) 맞은편 에스컬레이터로 2층에 내려가요. 05:00부터, ☎ +82-32-743-6503.</span></li><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>2터미널 동편(2층)</b><span>274번 게이트 방향, 한국전통문화센터(동관) 맞은편 에스컬레이터로 아래층(2층)에 내려가요. 05:00부터.</span></li></ul>
 
 <details class="tr-more"><summary><i class="ic ic-map" aria-hidden="true"></i>2터미널 그림으로 보기</summary>
 
 {{fig:duty-free-t2map|2터미널: 3층 면세구역에서 2층 인도장으로. 현대·신라면세점 인도장 안내를 바탕으로 Nadri가 다시 그렸어요}}
+
+</details>
+
+운영 시간과 전화번호는 신라면세점 인도 안내 기준이에요(모두 마지막 항공편 출발 시각까지).
+
+<details class="tr-more"><summary><i class="ic ic-plane" aria-hidden="true"></i>다른 공항에서 출국한다면(김포·김해·제주·청주·대구)</summary>
+
+순서는 같아요. 출국심사를 지나면 인도장이 있어요. 위치는 교환권의 인도장 이름으로 확인하세요(현대·신라 안내).
+
+- **김포:** 34번 게이트 맞은편 에스컬레이터·엘리베이터로 4층. ☎ +82-2-2666-2730
+- **김해:** 출국심사 후 2층 13번 게이트 맞은편. ☎ +82-51-941-9356
+- **제주:** 3층 출국심사를 지나 왼쪽, 19·20번 게이트 맞은편. ☎ +82-64-747-0163
+- **청주:** 출국심사대를 지나 정면(2층). ☎ +82-43-212-8270
+- **대구:** 2층 출국심사대 왼쪽. ☎ +82-53-981-8277
 
 </details>
 
@@ -135,7 +149,7 @@ updated: 2026-11-26
 
 - **못 받는 경우:** 주문한 사람과 출국하는 사람이 다를 때, 주문서의 여권번호와 보여 준 여권번호가 다를 때, 등록한 출국 정보(공항, 일시, 편명)가 실제와 다를 때.
 - **미리 고치기:** 신라는 여권번호를 고치려면 출국 최소 3일 전에 고객센터에 연락하라고 안내해요.
-- **못 찾았다면:** 면세점 고객센터에 연락하세요. 현대는 주문일로부터 180일까지 출국 정보를 바꿀 수 있고, 넘기면 취소 후 다시 사야 해요. 현대 고객센터 1811-6688(09:30~18:30), 영어 인도장 문의 +82-2-2163-6215(매일 10:00~19:00).
+- **못 찾았다면:** 면세점 고객센터에 연락하세요. 현대는 주문일로부터 180일까지 출국 정보를 바꿀 수 있고, 넘기면 취소 후 다시 사야 해요. 현대 고객센터 1811-6688(09:30~18:30), 영어 인도장 문의 +82-2-2163-6215(매일 10:00~19:00). 롯데 +82-1688-3000, 신라 +82-1688-1110, 신세계 +82-2-1661-8778(비짓서울 매장 소개 기준).
 - 면세품은 집 주소로 배송되지 않아요.
 
 </details>
@@ -155,7 +169,7 @@ updated: 2026-11-26
 | 담배 | 별도로 필터담배(궐련) **200개비**, 전자담배 니코틴용액 20ml |
 | 향수 | 별도로 **100ml** |
 
-<ul class="tr-choose"><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>신고할 것이 없을 때</b><span>신고서를 내지 않고 '신고없음' 통로로 나가요. 경우에 따라 세관 검사를 받을 수 있어요.</span></li><li><i class="ic ic-pencil" aria-hidden="true"></i><b>면세범위를 넘었을 때</b><span>신고서를 종이나 모바일로 내요. 모바일로 자진신고하면 고지서 발급과 납부도 모바일로 돼요. 자진신고하면 관세의 30%를 줄여 주고, 신고하지 않다가 걸리면 낼 세금의 40%(2년 안에 2번 이상이면 60%)를 가산세로 더 내요.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-circle-check" aria-hidden="true"></i><b>신고할 것이 없을 때</b><span>신고서를 내지 않고 '신고없음' 통로로 나가요. 경우에 따라 세관 검사를 받을 수 있어요.</span></li><li><i class="ic ic-pencil" aria-hidden="true"></i><b>면세범위를 넘었을 때</b><span>짐을 찾은 뒤 세관 검사대로 가기 전에 신고서를 종이나 모바일로 내요(<a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">관세청 안내</a>). 모바일로 자진신고하면 고지서 발급과 납부도 모바일로 돼요. 자진신고하면 관세의 30%를 줄여 주고, 신고하지 않다가 걸리면 낼 세금의 40%(2년 안에 2번 이상이면 60%)를 가산세로 더 내요.</span></li></ul>
 
 2026년 7월부터는 면세범위 안의 물건을 귀국 후 같은 모델의 색상·사이즈 교환에 한해 우편·택배로 바꿀 수 있게 됐어요(세계일보 보도).
 
@@ -216,7 +230,7 @@ updated: 2026-11-26
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>출처</summary>
 
-<p class="sources">2026년 11월 26일 확인: 현대면세점 <a href="https://www.hddfs.com/shop/om/consmGuide/useNotice.do" rel="noopener" target="_blank">이용 안내</a>(인도장별 주문 마감, 출국 시 구매 한도 없음, 90일 전 주문, 여권 실물·e-ticket), <a href="https://www.hddfs.com/shop/om/consmCont/bcaInfo.do" rel="noopener" target="_blank">인도장 및 상품 수령 안내</a>(위치, 준비물, 최소 1시간 전, 못 받는 경우, 180일 변경, 고객센터), <a href="https://www.hddfs.com/shop/om/consmCont/shopProc.do" rel="noopener" target="_blank">쇼핑 절차</a>(회원·비회원, 결제 수단, 교환권), <a href="https://www.hddfs.com/shop/om/consmCont/cariProhInfo.do" rel="noopener" target="_blank">기내 반입 제한 안내</a>(봉인봉투, 환승 제한), <a href="https://www.hddfs.com/store/en/dm/stShop/shoppingGuide.do" rel="noopener" target="_blank">영문 쇼핑 가이드</a>(무역센터점 영업시간, 외국인 한국 상품 60일 전 현장 수령, 영어 인도장 문의 번호); 신라면세점 <a href="https://www.shilladfs.com/estore/kr/en/shilladfscustomercenter/deliverypointinfo" rel="noopener" target="_blank">인도 안내</a>(인천 인도장 네 곳, 119번 게이트 옆 에스컬레이터, 여권번호 수정은 3일 전, 입국 시 수령 불가); 인천국제공항 <a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">편의·공공시설</a>(1터미널 3층 면세지역 25·29번 게이트 부근 24시간 안내데스크, 중앙 28번 게이트, 한국전통문화센터 서관, 4층 43번 게이트 부근 마티나 라운지(서편)); 비짓서울 <a href="https://english.visitseoul.net/shopping/Lotte-Duty-Free-Shop-Main-Store/ENP009641" rel="noopener" target="_blank">롯데면세점 본점</a>(2026년 11월 23일 수정), <a href="https://english.visitseoul.net/area/Shinsegae-Duty-Free-en/ENP024463" rel="noopener" target="_blank">신세계면세점</a>(11월 25일 수정), <a href="https://english.visitseoul.net/area/Shilla-Duty-Free-Shop/ENP000521" rel="noopener" target="_blank">신라면세점</a>(8월 6일 수정); 관세청 <a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">여행자 휴대품 통관</a>(면세범위, 신고 절차, 자진신고 감면·가산세); 일본 세관 <a href="https://www.customs.go.jp/kaigairyoko/menzei.htm" rel="noopener" target="_blank">해외여행자 면세범위</a>; 코리아타임스·연합뉴스 <a href="https://www.koreatimes.co.kr/business/companies/20260226/lotte-hyundai-win-approval-to-operate-new-duty-free-zones-at-incheon-airport" rel="noopener" target="_blank">롯데·현대, 인천공항 면세 구역 운영 승인</a>, 코리아헤럴드 <a href="https://www.koreaherald.com/article/10683421" rel="noopener" target="_blank">같은 보도</a>(2026년 2월 26일). 오늘 열지 못한 것: 롯데·신세계 면세점 사이트(접속 차단), 미국 CBP(사이트가 확인 도구 거부; 2026년 11월 25일 확인분 Customs Duty Information 2024년 5월 14일 수정, 19 CFR 148.33), 대만 재정부 관무서 「입경여객 휴대 행리물품 보험세방 판법」 제11조(2026년 1월 30일 개정, 접속 차단; 11월 25일 확인분). 언론(11월 25일 확인): 뉴시스(개장일, 2026년 4월 8일); 더팩트(2026년 6월 10일); 비즈워치(2026년 11월 18일); 세계일보(인터넷면세품 시내점 인도·귀국 후 교환, 2026년 7월 1일); 택스워치(여행자 면세범위, 2026년 9월 1일).</p>
+<p class="sources">2026년 11월 26일 확인: 현대면세점 <a href="https://www.hddfs.com/shop/om/consmGuide/useNotice.do" rel="noopener" target="_blank">이용 안내</a>(인도장별 주문 마감, 출국 시 구매 한도 없음, 90일 전 주문, 여권 실물·e-ticket), <a href="https://www.hddfs.com/shop/om/consmCont/bcaInfo.do" rel="noopener" target="_blank">인도장 및 상품 수령 안내</a>(위치, 준비물, 최소 1시간 전, 못 받는 경우, 180일 변경, 고객센터), <a href="https://www.hddfs.com/shop/om/consmCont/shopProc.do" rel="noopener" target="_blank">쇼핑 절차</a>(회원·비회원, 결제 수단, 교환권), <a href="https://www.hddfs.com/shop/om/consmCont/cariProhInfo.do" rel="noopener" target="_blank">기내 반입 제한 안내</a>(봉인봉투, 환승 제한), <a href="https://www.hddfs.com/store/en/dm/stShop/shoppingGuide.do" rel="noopener" target="_blank">영문 쇼핑 가이드</a>(무역센터점 영업시간, 외국인 한국 상품 60일 전 현장 수령, 영어 인도장 문의 번호); 신라면세점 <a href="https://www.shilladfs.com/estore/kr/en/shilladfscustomercenter/deliverypointinfo" rel="noopener" target="_blank">인도 안내</a>(인도장별 운영 시간·전화, 김포·김해·제주·청주·대구 인도장, 인천 인도장 네 곳, 119번 게이트 옆 에스컬레이터, 여권번호 수정은 3일 전, 입국 시 수령 불가); 인천국제공항 <a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">편의·공공시설</a>(1터미널 3층 면세지역 25·29번 게이트 부근 24시간 안내데스크, 중앙 28번 게이트, 한국전통문화센터 서관, 4층 43번 게이트 부근 마티나 라운지(서편)); 비짓서울 <a href="https://english.visitseoul.net/shopping/Lotte-Duty-Free-Shop-Main-Store/ENP009641" rel="noopener" target="_blank">롯데면세점 본점</a>(2026년 11월 23일 수정), <a href="https://english.visitseoul.net/area/Shinsegae-Duty-Free-en/ENP024463" rel="noopener" target="_blank">신세계면세점</a>(11월 25일 수정), <a href="https://english.visitseoul.net/area/Shilla-Duty-Free-Shop/ENP000521" rel="noopener" target="_blank">신라면세점</a>(8월 6일 수정); 관세청 <a href="https://www.customs.go.kr/kcs/cm/cntnts/cntntsView.do?mi=2837&amp;cntntsId=829" rel="noopener" target="_blank">여행자 휴대품 통관</a>(면세범위, 신고 절차, 자진신고 감면·가산세); 일본 세관 <a href="https://www.customs.go.jp/kaigairyoko/menzei.htm" rel="noopener" target="_blank">해외여행자 면세범위</a>; 코리아타임스·연합뉴스 <a href="https://www.koreatimes.co.kr/business/companies/20260226/lotte-hyundai-win-approval-to-operate-new-duty-free-zones-at-incheon-airport" rel="noopener" target="_blank">롯데·현대, 인천공항 면세 구역 운영 승인</a>, 코리아헤럴드 <a href="https://www.koreaherald.com/article/10683421" rel="noopener" target="_blank">같은 보도</a>(2026년 2월 26일). 오늘 열지 못한 것: 롯데·신세계 면세점 사이트(접속 차단), 미국 CBP(사이트가 확인 도구 거부; 2026년 11월 25일 확인분 Customs Duty Information 2024년 5월 14일 수정, 19 CFR 148.33), 대만 재정부 관무서 「입경여객 휴대 행리물품 보험세방 판법」 제11조(2026년 1월 30일 개정, 접속 차단; 11월 25일 확인분). 언론(11월 25일 확인): 뉴시스(개장일, 2026년 4월 8일); 더팩트(2026년 6월 10일); 비즈워치(2026년 11월 18일); 세계일보(인터넷면세품 시내점 인도·귀국 후 교환, 2026년 7월 1일); 택스워치(여행자 면세범위, 2026년 9월 1일).</p>
 
 </details>
 

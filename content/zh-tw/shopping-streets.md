@@ -28,10 +28,13 @@ updated: 2026-11-26
 1. **在地圖App找店。** 在Naver地圖或KakaoMap輸入店名,會出現最近的車站和出口號碼。也可以直接用這頁寫的出口號碼。
 2. **刷卡出站後,跟著出口號碼指標走。** 圓圈裡的數字是出口號碼,箭頭是方向([首爾地鐵第6步](/zh-tw/seoul-subway/)有實際指標照片)。
 3. **到地面後像上面照片一樣確認出口號碼。** 大站出錯出口要走很遠。
+4. **從出口到店家,在地圖App的路線規劃選「步行」跟著走。** 下面每一區都寫了出口看得到的地標(建築、街名)。還是不確定的話,到觀光服務中心(弘大是7號出口附近的麻浦觀光服務中心)或向店員出示這頁上的店名。
 
 怎麼搭地鐵、看路線圖、儲值交通卡,在[首爾地鐵](/zh-tw/seoul-subway/)用照片整理好了。
 
 {{fig:shopping-streets-2|示意圖: 漢江北邊的逛街區域(距離、比例非實際)}}
+
+2號線是繞首爾一圈的環狀線(韓國先驅報),三區都有2號線車站。
 
 <h2 id="myeongdong">明洞: 美妝,也是第一次來首爾</h2>
 
@@ -41,6 +44,10 @@ updated: 2026-11-26
 
 - **怎麼去:** 2號線乙支路入口站5號出口或4號線明洞站8號出口,是Olive Young明洞全球旗艦店指引的出口。
 - **有什麼:** 兩家大型百貨公司、購物中心、品牌店、攤販,大街兩側有小吃攤。明洞地下購物中心有K-pop商品和紀念品。Visit Seoul寫道,最近特別多外國遊客。
+- **地標:** 明洞正中央的**明洞藝術劇場十字路口**,順著小巷走就會到。明洞聖堂在UNESCO路的盡頭(Visit Seoul)。
+
+<figure class="tr-photo"><img src="/static/photo/myeongdong-theater.webp" alt="夜晚的明洞藝術劇場,正面寫著「명동예술극장 MYEONGDONG THEATER」" loading="lazy" width="780" height="520"><figcaption><b>明洞藝術劇場。</b> 看到這棟建築就是明洞正中央的十字路口。<span class="tr-credit">照片: lumoplank,<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>,<a href="https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg" rel="noopener" target="_blank">維基共享資源</a>(縮小、自動調亮)</span></figcaption></figure>
+
 - **Olive Young明洞全球旗艦店:** 明洞街53。每天10:00〜22:30(依店家狀況可能變動)。1〜2樓,結帳即時退稅,微信支付、支付寶等行動支付,禮品包裝,外語服務。店裡沒有廁所,請你使用附近地鐵站的廁所。
 - **適合的時間:** 剛開門。這是我們的推測,不是人潮資料。
 - **附近:** 明洞站旁12層樓的[DAISO](/zh-tw/daiso/)。免稅店有樂天免稅店總店(乙支路入口站7・8號出口)、新世界免稅店(會賢站5號出口)([免稅店](/zh-tw/duty-free/))。
@@ -54,7 +61,7 @@ updated: 2026-11-26
 
 - **怎麼去:** 2號線聖水站4號出口,練武場街從這裡開始。MUSINSA Mega Store距3號出口475公尺。
 - **是什麼地方:** 1950年代末開始有小工廠,1967年後手工鞋業者聚集成為手工鞋街,現在是時尚、美妝、快閃店、旗艦店聚集的地方(Visit Seoul)。
-- **Olive Young N 聖水:** 練武場7街13,距4號出口118公尺(步行約1分鐘)。2024年11月底開幕。1樓是品牌快閃輪替的廣場,每天前300名免費四格照;2樓美妝與文化,3樓保養與健康,4樓VIP休息室。化妝等免費服務需預約,每週五中午開放下週的預約。
+- **Olive Young N 聖水:** 練武場7街13的Factoryal聖水大樓,距4號出口118公尺(步行約1分鐘)。2024年11月底開幕。1樓是品牌快閃輪替的廣場,每天前300名免費四格照;2樓美妝與文化,3樓保養與健康,4樓VIP休息室。化妝等免費服務需預約,每週五中午開放下週的預約。
 - **MUSINSA Mega Store 聖水:** 2026年4月24日開幕,約6,600平方公尺。2樓是MUSINSA第一個實體美妝樓層。每天11:00〜22:00。
 - **適合的時間:** 平日。韓國先驅報的聖水購物指南(2026年7月)寫道,MUSINSA Mega Store週末很擠,有些店週末通常要排隊。
 - **退稅:** 各店規則我們沒能確認。帶著護照,結帳前先問。
@@ -68,7 +75,7 @@ updated: 2026-11-26
 
 - **怎麼去:** 弘大入口站(2號線、機場鐵路、京義・中央線)9號出口走350公尺就是R3時尚街。因為是機場鐵路站,往返機場那天也好順路。
 - **有什麼:** 弘益大學周邊。R3一帶服飾店和美妝店很密集。1號出口那邊原本的LINE FRIENDS旗艦店改成K-Pop Square(每天11:00〜22:00)。Kakao Friends旗艦店在8號出口。
-- **COVERNAT弘大旗艦店:** 9號出口步行約10分鐘。每天12:00〜21:00,外國旅客可在櫃台退稅,可用支付寶。
+- **COVERNAT弘大旗艦店:** 9號出口步行約10分鐘(Jandari-ro 24),附近有複合文化空間KT&G想像庭院。每天12:00〜21:00,外國旅客可在櫃台退稅,可用支付寶。
 - **需要幫忙:** 麻浦觀光服務中心,7號出口步行3分鐘。
 - **適合的時間:** 傍晚到晚上。這是看營業時間做的判斷,不是人潮資料;有些旗艦店中午才開。
 - **可以跳過的人:** 想安靜逛的人。
@@ -80,6 +87,8 @@ updated: 2026-11-26
 {{fig:shopping-streets-7|單張收據的即時退稅範圍}}
 
 <h3 class="tr-step"><span class="n">1</span><i class="ic ic-id-card" aria-hidden="true"></i>帶護照正本</h3>
+
+<figure class="tr-photo"><img src="/static/photo/oy-myeongdong-sign-closeup.webp" alt="明洞 Olive Young 收銀台上方告示: Please prepare your physical passport (for immediate tax refund)" loading="lazy" width="780" height="192"><figcaption>收銀台上方有這類標示(「Tax Free」「Tax Refund」、準備護照的告示)的店就可以。沒有的話結帳前先問。<span class="tr-credit">照片: Sgroey,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW" rel="noopener" target="_blank">CC BY-SA 4.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調亮)</span></figcaption></figure>
 
 結帳即時退稅要有護照正本,照片不行。適用於訪韓旅客([誰適用](/zh-tw/tax-refund/))。
 
@@ -132,7 +141,7 @@ updated: 2026-11-26
 
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出處</summary>
 
-<p class="sources">2026年11月26日(韓國時間)確認。Visit Seoul(英文): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">明洞特輯</a>(購物第一站、百貨與攤販、地下購物中心,2025年11月18日修訂)、<a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">「2025 Seoul Trend Dispatch: Seongsu-dong」</a>(練武場街與4號出口、手工鞋街歷史、Olive Young N 聖水各樓層・預約・118公尺,2026年6月15日修訂)、<a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">MUSINSA Mega Store 聖水</a>(6,600平方公尺、3號出口475公尺、11:00〜22:00,2026年7月20日修訂)、<a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9號出口350公尺、麻浦觀光服務中心距7號出口3分鐘,2026年8月31日修訂)、<a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a>(12:00〜21:00、退稅、支付寶、9號出口10分鐘,2026年8月8日修訂)、<a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">「Fan life starts in Hongdae」</a>(K-Pop Square 1號出口 11:00〜22:00、Kakao Friends 8號出口,2026年10月24日修訂)、<a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">DOOTA MALL</a>(10:30〜24:00、東大門站8號出口,2026年11月20日修訂)。Olive Young<a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">明洞全球城網站</a>(地址、營業時間、出口、服務、退稅FAQ、沒有廁所)。韓國先驅報: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">Olive Young N 聖水</a>(2024年11月21日)、<a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">首爾公車罷工與2號線</a>(2026年1月13日)、<a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">MUSINSA Mega Store 聖水開幕</a>(2026年4月25日)、<a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">聖水購物指南</a>(2026年7月4日)、<a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">MUSINSA Jojotown快閃店</a>(2026年10月6日);韓國先驅報的文章在前一版(2026年11月26日上午)確認,這次沒有重新打開。</p>
+<p class="sources">2026年11月26日(韓國時間)確認。Visit Seoul(英文): <a href="https://english.visitseoul.net/editorspicks/myeongdong-dasi-seoul-yeohaengyi-jungsimi-doeda/ENNlwcnrh" rel="noopener" target="_blank">明洞特輯</a>(購物第一站、百貨與攤販、地下購物中心、明洞藝術劇場十字路口、UNESCO路盡頭的明洞聖堂,2025年11月18日修訂)、<a href="https://english.visitseoul.net/editorspicks/2025SeoulTrendReportSeongsu-dong/ENNvepwqx" rel="noopener" target="_blank">「2025 Seoul Trend Dispatch: Seongsu-dong」</a>(練武場街與4號出口、手工鞋街歷史、Olive Young N 聖水各樓層・預約・118公尺,2026年6月15日修訂)、<a href="https://english.visitseoul.net/shopping/MUSINSA-MEGA-STORE-SEONGSU/ENPxwxy2m" rel="noopener" target="_blank">MUSINSA Mega Store 聖水</a>(6,600平方公尺、3號出口475公尺、11:00〜22:00,2026年7月20日修訂)、<a href="https://english.visitseoul.net/attractions/HONGDAE-R3/ENPc8w958" rel="noopener" target="_blank">HONGDAE R3</a>(9號出口350公尺、麻浦觀光服務中心距7號出口3分鐘,2026年8月31日修訂)、<a href="https://english.visitseoul.net/shopping/COVERNAT/ENP77xns8" rel="noopener" target="_blank">COVERNAT</a>(12:00〜21:00、退稅、支付寶、9號出口10分鐘、Jandari-ro 24、KT&G想像庭院附近,2026年8月8日修訂)、<a href="https://english.visitseoul.net/editorspicks/Fan-life-starts-in-Hongdae/ENN033076" rel="noopener" target="_blank">「Fan life starts in Hongdae」</a>(K-Pop Square 1號出口 11:00〜22:00、Kakao Friends 8號出口,2026年10月24日修訂)、<a href="https://english.visitseoul.net/shopping/Doota-Dongdaemun/ENP000416" rel="noopener" target="_blank">DOOTA MALL</a>(10:30〜24:00、東大門站8號出口,2026年11月20日修訂)。Olive Young<a href="https://myeongdongtown.oliveyoung.com/en/" rel="noopener" target="_blank">明洞全球城網站</a>(地址、營業時間、出口、服務、退稅FAQ、沒有廁所)。韓國先驅報: <a href="https://www.koreaherald.com/article/10011387" rel="noopener" target="_blank">Olive Young N 聖水</a>(2024年11月21日)、<a href="https://www.koreaherald.com/article/10654319" rel="noopener" target="_blank">首爾公車罷工與2號線</a>(2026年1月13日)、<a href="https://www.koreaherald.com/article/10725111" rel="noopener" target="_blank">MUSINSA Mega Store 聖水開幕</a>(2026年4月25日)、<a href="https://www.koreaherald.com/article/10795872" rel="noopener" target="_blank">聖水購物指南</a>(2026年7月4日)、<a href="https://www.koreaherald.com/article/10894150" rel="noopener" target="_blank">MUSINSA Jojotown快閃店</a>(2026年10月6日);韓國先驅報的文章在前一版(2026年11月26日上午)確認,這次沒有重新打開。</p>
 
 </details>
 
