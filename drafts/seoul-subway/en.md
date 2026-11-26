@@ -47,7 +47,7 @@ Our call: a stored-value card suits almost everyone.
 
 Who does NOT need the Climate Card: anyone riding once or twice a day, or leaving Seoul (Suwon, Pangyo) that day.
 
-Station machines and convenience stores sell T-money, so buying ahead is optional. If you want a card waiting at the airport:
+The airport shops sell transport cards, so pre-ordering is optional. If you want one waiting for you:
 
 {{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
 
