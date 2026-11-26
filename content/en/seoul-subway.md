@@ -22,12 +22,16 @@ Open tomorrow's first route and look at it: line numbers, transfers, the exit. T
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-credit-card" aria-hidden="true"></i>Load your card at the machine</h3>
 
-{{fig:seoul-subway-machine|A ticket and top-up machine (this one at a Korail-run station; machines differ by station). Photo: LandAndTree, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg) (cropped, numbers added)}}
+{{fig:seoul-subway-machine-yongsan|Ticket and top-up machines at Yongsan Station, Seoul (Line 1, Korail). Machines differ by station. Photo: YKJJ, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg) (cropped, numbers added)}}
 
-1. The screen. Language buttons at the bottom. Choose top-up and the amount.
-2. Put your card here.
-3. Notes in. **T-money top-ups are cash only.**
-4. A single ticket comes out here.
+1. Look for this blue sign: 전철승차권자동발매기 / Tickets.
+2. The machine. Choose top-up and the amount on the screen.
+
+{{fig:seoul-subway-machine-closeup|Close-up of the same kind of machine at Soraepogu Station, Incheon (Korail). Seoul Metro's machines look different. Photo: LandAndTree, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg) (cropped, numbers added)}}
+
+1. "Transit card here": put your card on this tray.
+2. "Insert bills here": notes in. **T-money top-ups are cash only.**
+3. A single ticket comes out here.
 
 <aside class="tr-note"><i class="ic ic-banknote" aria-hidden="true"></i><span>Keep ₩10,000–20,000 in notes for T-money, even if you pay for everything else by card. Check the new balance before you leave.</span></aside>
 
@@ -36,7 +40,7 @@ Open tomorrow's first route and look at it: line numbers, transfers, the exit. T
 {{fig:seoul-subway-gate|Gates at Konkuk Univ. Station. Photo: revi, [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg) (cropped, people blurred, numbers added)}}
 
 1. Touch your card to the reader on top. It shows your balance.
-2. Green arrow: this gate is open. Walk through.
+2. Green arrow: enter the lane it points to. A red ✕ means you can't enter from this side (our reading of the photo).
 
 <aside class="tr-note"><i class="ic ic-users" aria-hidden="true"></i><span>One card per person. Sharing a card loses the transfer discount.</span></aside>
 
@@ -45,7 +49,7 @@ Open tomorrow's first route and look at it: line numbers, transfers, the exit. T
 {{fig:seoul-subway-platform-sign|A platform sign at Jamsil (Line 2). Photo: 阿貴, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg) (cropped, numbers added)}}
 
 1. Where you are: the station, with its number in the line colour.
-2. The next station, and the way this train goes.
+2. The next station. If it is in your direction, this is your platform. Line 2 is a loop, so its signs show the next station; on other lines the end station is shown too (our reading of the photo).
 
 Our call: read the line **number** and its end station, not just the colour. Pick the platform by the end station in your direction.
 
@@ -63,9 +67,11 @@ No extra gate. Follow the signs with the next line's number. Up to 4 transfers (
 2. Exit numbers in circles, with an arrow. Follow the one you saved.
 3. This arrow points to the ticket and top-up machine.
 
+{{fig:seoul-subway-exit-zoom|Zoomed in: exit ⑨ Myeong-dong Cathedral and exit ⑩ Jungbu Police Station, this way ←. Photo: LERK, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg) (cropped, enlarged)}}
+
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Always tap out.</b> The fare depends on distance. A missed exit tap breaks your transfer and costs extra.</span></aside>
 
-<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="A glass-roofed subway exit on the street with a number sign" loading="lazy" decoding="async"><figcaption>Up on the street, each exit is numbered. Our pick for the ending: come up that exact exit, so your first steps outside already point where you are going. <span class="tr-credit">Hyehwa Station Exit 1, 2006 photo. Photo: Jolly6656 (Korean Wikipedia), public domain, <a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">Wikimedia Commons</a></span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="A glass-roofed subway exit on the street with a number sign" loading="lazy" decoding="async"><figcaption>Up on the street: an exit entrance (Hyehwa Station Exit 1). Our pick for the ending: come up that exact exit, so your first steps outside already point where you are going. <span class="tr-credit">Hyehwa Station Exit 1, 2006 photo. Photo: Jolly6656 (Korean Wikipedia), public domain, <a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">Wikimedia Commons</a></span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">7</span><i class="ic ic-ticket" aria-hidden="true"></i>Single ticket? Get your ₩500 back</h3>
 
@@ -97,7 +103,6 @@ Not required: the airport shops sell transport cards, so pre-ordering is optiona
 
 ## Common first-day mistakes
 
-These come from the official rules above, not from traveller stories we collected.
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Skipping the exit tap.</b> You lose the transfer and pay extra.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Throwing away the single ticket.</b> That's ₩500.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Topping up T-money by credit card.</b> It's cash.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Taking the Climate Card out of Seoul.</b> You pay at the exit.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Boarding a Line 9 express that skips your stop.</b></span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Assuming a fixed last-train time.</b></span></li></ul>
 
@@ -179,7 +184,7 @@ Our call: with suitcases, avoid roughly 7–9 a.m. on weekdays.
 
 <figure class="tr-photo"><img src="/static/fig/seoul-subway-priority-seat.webp" alt="Priority seats at the end of a subway car, with a pictogram sign" loading="lazy" decoding="async"><figcaption><b>1</b> sign, <b>2</b> priority seats at the end of the car. <span class="tr-credit">Photo: hyolee2, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG" rel="noopener" target="_blank">Commons</a> (cropped, ad blurred, numbers added)</span></figcaption></figure>
 
-<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="A pink seat for pregnant women and a pink floor sticker" loading="lazy" decoding="async"><figcaption><b>1</b> pink seat, <b>2</b> pink floor sign. <span class="tr-credit">Line 1, 2018. Photo: Garam, free to use with attribution, <a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">Commons</a> (cropped, numbers added)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="A pink seat for pregnant women and a pink floor sticker" loading="lazy" decoding="async"><figcaption><b>1</b> pink seat, <b>2</b> pink floor sign. <span class="tr-credit">Seoul Metro, 2018. Photo: Garam. Attribution licence: “allows anyone to use it for any purpose, provided that the copyright holder is properly attributed”, <a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">Commons</a> (cropped, numbers added)</span></figcaption></figure>
 
 - **Priority seats** at each end of the car are for older, disabled and injured passengers and pregnant women. Our advice: don't sit there.
 - **Pink seats** (two per car) are for pregnant women; leave them empty. Early pregnancy doesn't show, so some women wear a pink badge.

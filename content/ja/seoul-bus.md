@@ -32,7 +32,7 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-log-in" aria-hidden="true"></i>前のドアから乗ってタッチ</h3>
 
-{{fig:seoul-bus-reader-front|前のドア横の読み取り機(2012年の写真)。写真:Wnstlr93、[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(トリミング、明るさ補正、番号追加)}}
+{{fig:seoul-bus-reader-front|前ドアの読み取り機:2012年のcashbee読み取り機の写真で、撮影都市は不明、ソウルではない可能性が高いです。ソウルの機械は形が違いますが、かざし方は同じです。写真:Wnstlr93、[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(トリミング、明るさ補正、番号追加)}}
 
 1. 乗りながらここにカードをかざします。
 
@@ -42,7 +42,7 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">5</span><i class="ic ic-log-out" aria-hidden="true"></i>後ろのドア横でもう一度タッチして降りる</h3>
 
-{{fig:seoul-bus-reader-rear|後ろのドア横の読み取り機(2012年の写真)。写真:Wnstlr93、[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(トリミング、番号追加)}}
+{{fig:seoul-bus-reader-rear|後ろドアの読み取り機:2012年のcashbee読み取り機の写真で、撮影都市は不明、ソウルではない可能性が高いです。ソウルの機械は形が違いますが、かざし方は同じです。写真:Wnstlr93、[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(トリミング、番号追加)}}
 
 1. ステッカー:「降りるときは必ずタッチしてください」。
 2. ここにカードをかざします。
@@ -56,7 +56,7 @@ updated: 2026-11-26
 
 ソウルのバスは色で路線の役割が分かるので、ひと目で「乗るべき種類か」が判断できます。いずれも大人が交通カードで払う運賃です。
 
-<ul class="tr-colours"><li><img src="/static/photo/bus-1.webp" alt="青いソウルのバス" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>青・1,500ウォン</b><span class="t">幹線:郊外と中心部を長く結びます。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png" rel="noopener" target="_blank">Ki hoon</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="緑のソウルのバス" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>緑・1,500ウォン</b><span class="t">支線:地域と幹線バス・地下鉄をつなぎます。緑のマウルバスは1,200ウォン。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="黄色いソウルの循環バス05番" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>黄・1,400ウォン</b><span class="t">循環:中心部を回ります。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>(ナンバーぼかし)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="赤いソウルの広域バス9401番" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>赤・3,000ウォン</b><span class="t">広域:首都圏と中心部を結びます。Climate Card(気候同行カード)短期券では<b>乗れません</b>。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>(ナンバーぼかし)</span></li></ul>
+<ul class="tr-colours"><li><img src="/static/photo/bus-blue-2.webp" alt="青いソウルのバス" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>青・1,500ウォン</b><span class="t">幹線:郊外と中心部を長く結びます。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg" rel="noopener" target="_blank">Wikiwater2020</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="緑のソウルのバス" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>緑・1,500ウォン</b><span class="t">支線:地域と幹線バス・地下鉄をつなぎます。緑のマウルバスは1,200ウォン。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="黄色いソウルの循環バス05番" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>黄・1,400ウォン</b><span class="t">循環:中心部を回ります。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>、<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>(ナンバーぼかし)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="赤いソウルの広域バス9401番" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>赤・3,000ウォン</b><span class="t">広域:首都圏と中心部を結びます。Climate Card(気候同行カード)短期券では<b>乗れません</b>。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>(ナンバーぼかし)</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-moon" aria-hidden="true"></i><span><b>番号がNで始まる</b>のは深夜バス。2,500ウォン。</span></aside>
 
@@ -72,7 +72,6 @@ updated: 2026-11-26
 
 ## よくある失敗
 
-旅行者の体験談を集めたものではなく、上のソウル市のルールから起こりやすい失敗を挙げたものです。
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>降車タッチをせずに降りる。</b>乗り換えが切れ、次の乗車で基本運賃がまたかかります。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>カードなし・残高不足で乗る。</b>現金を受け付けない路線があります。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Climate Card短期券で赤いバスに乗る。</b>対象外です。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>乗り換えまでに時間をかけすぎる。</b>30分(夜は60分)を過ぎると乗り換えになりません。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>空港のN番と市内のN番を混同する。</b>運賃が7倍近く違います。</span></li></ul>
 
@@ -82,12 +81,7 @@ updated: 2026-11-26
 
 市内バスと空港リムジンバスは、同じ「バス」でも別のサービスです。
 
-| | 市内バス | 空港リムジンバス |
-|---|---|---|
-| 運賃(大人) | 1,200〜3,000ウォン | ソウルまで16,000〜18,000ウォン |
-| 乗り方 | カードをタッチ | 空港の券売機・切符売り場で乗車券を購入。T-moneyも使えますが、乗車券を持つ人が先に乗ります |
-| Climate Card短期券 | 使える(赤いバスを除く) | 使えない |
-| 大きな荷物 | 向いていません | 係員が積み込み(1人2個、28インチ以下) |
+<ul class="tr-choose tr-compare"><li><i class="ic ic-bus" aria-hidden="true"></i><b>市内バス</b><ul class="tr-kv"><li><b>運賃(大人)</b> 1,200〜3,000ウォン</li><li><b>乗り方</b> カードをタッチ</li><li><b>Climate Card短期券</b> 使える(赤いバスを除く)</li><li><b>大きな荷物</b> 向いていません</li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>空港リムジンバス</b><ul class="tr-kv"><li><b>運賃(大人)</b> ソウルまで16,000〜18,000ウォン</li><li><b>乗り方</b> 空港の券売機・切符売り場で乗車券を購入。T-moneyも使えますが、乗車券を持つ人が先に乗ります</li><li><b>Climate Card短期券</b> 使えない</li><li><b>大きな荷物</b> 係員が積み込み(1人2個、28インチ以下)</li></ul></li></ul>
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>番号に注意: 深夜の空港バス(N6000、N6002、N6701、N6703)もNで始まりますが、運賃は17,000〜18,000ウォンで、乗車券を買って乗ります。2,500ウォンの市内深夜バスとは違います。</span></aside>
 

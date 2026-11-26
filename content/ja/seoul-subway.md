@@ -22,12 +22,16 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-credit-card" aria-hidden="true"></i>券売機でカードをチャージ</h3>
 
-{{fig:seoul-subway-machine|1回用乗車券・交通カードのチャージ機(KORAIL運営駅のもの。駅によって形が違います)。写真:LandAndTree、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg)(トリミング、番号追加)}}
+{{fig:seoul-subway-machine-yongsan|ソウル・龍山駅(1号線、KORAIL)の券売・チャージ機。駅によって機械が違います。写真:YKJJ、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg)(トリミング、番号追加)}}
 
-1. 画面。下に言語ボタン(日本語あり)。チャージと金額を選びます。
-2. カードをここに置きます。
-3. 紙幣を入れます。**T-moneyのチャージは現金のみ。**
-4. 1回用乗車券はここから出てきます。
+1. この青い案内(Tickets / 自動券売機)を探します。
+2. 機械の画面でチャージと金額を選びます。
+
+{{fig:seoul-subway-machine-closeup|同じ種類の機械のアップ:仁川・ソレポグ駅(KORAIL)。ソウル交通公社の機械は形が違います。写真:LandAndTree、[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg)(トリミング、番号追加)}}
+
+1. 「Transit card here」:カードをここに置きます。
+2. 「Insert bills here」:紙幣を入れます。**T-moneyのチャージは現金のみ。**
+3. 1回用乗車券はここから出てきます。
 
 <aside class="tr-note"><i class="ic ic-banknote" aria-hidden="true"></i><span>ほかはカード払いでも、T-money用に1万〜2万ウォンほどは紙幣で持っておくと安心です。画面で新しい残高を確かめてからカードを取ります。</span></aside>
 
@@ -36,7 +40,7 @@ updated: 2026-11-26
 {{fig:seoul-subway-gate|建大入口駅の改札。写真:revi、[CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg)(トリミング、人物ぼかし、番号追加)}}
 
 1. 上の読み取り機にカードをかざします。残高が表示されます。
-2. 緑の矢印:通れる改札です。
+2. 緑の矢印:矢印が指す通路から入ります。赤い✕はこちら側から入れないという意味です(写真から読み取った内容)。
 
 <aside class="tr-note"><i class="ic ic-users" aria-hidden="true"></i><span>カードは1人1枚。乗り換えルールが「1人1枚」なので、2人で1枚を共有すると割引がつきません。</span></aside>
 
@@ -45,7 +49,7 @@ updated: 2026-11-26
 {{fig:seoul-subway-platform-sign|蚕室駅2号線ホームの駅名標。写真:阿貴、[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg)(トリミング、番号追加)}}
 
 1. いまいる駅。路線色の丸の中に駅番号。
-2. 次の駅と、この電車が進む方向。
+2. 次の駅。行きたい方向なら、このホームです。2号線は環状線なので標識には次の駅が出て、ほかの路線では終点も表示されます(写真から読み取った内容)。
 
 私たちの判断:色だけでなく**路線番号**と行き先方向(どちらの終点に向かうか)を見るのがコツです。ホームに下りる前に、どちらの終点方向かを確かめます。
 
@@ -63,9 +67,11 @@ updated: 2026-11-26
 2. 丸の中の数字が出口番号、矢印が方向。保存した番号へ。
 3. この矢印は1回用乗車券・チャージ機の方向です。
 
+{{fig:seoul-subway-exit-zoom|拡大:⑨番出口 明洞聖堂、⑩番出口 中部警察署はこちら←。写真:LERK、[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)、[ウィキメディア・コモンズ](https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg)(トリミング、拡大)}}
+
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>出るときも必ずタッチ。</b>距離で運賃が決まり、降車タッチを忘れると乗り換えが切れて追加料金がかかります。</span></aside>
 
-<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="通りにある地下鉄の出入口、番号の標識" loading="lazy" decoding="async"><figcaption>地上に出ると、出口ごとに番号があります。私たちが選ぶ最後の場面:まさにその出口から地上に出て、最初の一歩から行き先の方向を向いていること。 <span class="tr-credit">恵化駅1番出口、2006年の写真。写真:Jolly6656(韓国語版ウィキペディア)、パブリックドメイン、<a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a></span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="通りにある地下鉄の出入口、番号の標識" loading="lazy" decoding="async"><figcaption>地上から見た出口(恵化駅1番出口)。私たちが選ぶ最後の場面:まさにその出口から地上に出て、最初の一歩から行き先の方向を向いていること。 <span class="tr-credit">恵化駅1番出口、2006年の写真。写真:Jolly6656(韓国語版ウィキペディア)、パブリックドメイン、<a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a></span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">7</span><i class="ic ic-ticket" aria-hidden="true"></i>1回用乗車券なら500ウォンを受け取る</h3>
 
@@ -97,7 +103,6 @@ updated: 2026-11-26
 
 ## 初日によくある失敗
 
-旅行者の体験談を集めたものではなく、上の公式ルールから起こりやすい失敗を挙げたものです。
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>降車タッチを忘れる。</b>乗り換えが切れ、追加料金がかかります。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>1回用乗車券を捨てる。</b>保証金500ウォンが戻りません。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>クレジットカードでT-moneyをチャージしようとする。</b>駅のチャージは現金です。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Climate Cardでソウルの外や新盆唐線へ行く。</b>降りるときに運賃を払います。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>降りたい駅を通過する9号線の急行に乗る。</b></span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>終電の時刻を決めつける。</b>その日ごとに確認を。</span></li></ul>
 
@@ -179,7 +184,7 @@ updated: 2026-11-26
 
 <figure class="tr-photo"><img src="/static/fig/seoul-subway-priority-seat.webp" alt="車両の端の優先席とピクトグラム" loading="lazy" decoding="async"><figcaption><b>1</b> 表示、<b>2</b> 車両の端の優先席。 <span class="tr-credit">写真:hyolee2、<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>、<a href="https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(トリミング、広告ぼかし、番号追加)</span></figcaption></figure>
 
-<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="ピンクの妊婦優先席と床の表示" loading="lazy" decoding="async"><figcaption><b>1</b> ピンクの座席、<b>2</b> 床のピンクの表示。 <span class="tr-credit">1号線、2018年。写真:Garam、クレジット表示で自由に利用可、<a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(トリミング、番号追加)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="ピンクの妊婦優先席と床の表示" loading="lazy" decoding="async"><figcaption><b>1</b> ピンクの座席、<b>2</b> 床のピンクの表示。 <span class="tr-credit">ソウル地下鉄、2018年。写真:Garam。Attribution licence: “allows anyone to use it for any purpose, provided that the copyright holder is properly attributed”、<a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(トリミング、番号追加)</span></figcaption></figure>
 
 - **優先席**(車両の両端)は高齢の方、体の不自由な方、けがをした方、妊婦さんのための席です。私たちのおすすめ:座らないでおきましょう。
 - **ピンクの座席**(1両に2席)は妊婦さんのための席。空けておきます。妊娠初期は外見でわからないため、ピンクのバッジをつけている方もいます。

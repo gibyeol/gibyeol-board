@@ -854,12 +854,12 @@
   "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
   "original_date": "2018-11-24",
   "modifications": [
-   "cropped",
-   "resized to 780x207",
+   "cropped from the 1920px thumbnail",
+   "resized to 780x166",
    "3 numbered red boxes added",
    "converted to WebP q82"
   ],
-  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 780x207, 3 numbered red boxes added, converted to WebP q82)",
+  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, numbers added)",
   "share_alike": true,
   "retrieved": "2026-11-26",
   "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license."
@@ -901,7 +901,8 @@
   ],
   "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 716x844, 4 numbered red boxes added, converted to WebP q82)",
   "share_alike": false,
-  "retrieved": "2026-11-26"
+  "retrieved": "2026-11-26",
+  "note": "Soraepogu Station, Incheon (Korail) per the Commons description. No longer used on seoul-subway (replaced by -machine-yongsan and -machine-closeup)."
  },
  {
   "file": "static/fig/seoul-subway-platform-sign.webp",
@@ -945,11 +946,11 @@
  },
  {
   "file": "static/fig/seoul-subway-pink-seat.webp",
-  "subject": "Pink seat for pregnant women and floor sign, Seoul Metro Line 1 (2018)",
+  "subject": "Pink seat for pregnant women and floor sign, Seoul subway car (2018; file title says Line 1, file categories say Line 3 / Seoul Metro Class 3000)",
   "source_site": "Wikimedia Commons",
   "source_url": "https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg",
   "author": "Garam",
-  "license": "Attribution (free use with attribution)",
+  "license": "Attribution",
   "license_tag_on_file_page": "{{Attribution|1=User:Garam}}",
   "original_date": "2018-03-31",
   "modifications": [
@@ -958,9 +959,10 @@
    "2 numbered red boxes added",
    "converted to WebP q82"
   ],
-  "attribution": "Photo: Garam, Attribution (free use with attribution), via Wikimedia Commons (modified: cropped, resized to 780x585, 2 numbered red boxes added, converted to WebP q82)",
+  "attribution": "Photo: Garam, Attribution licence, via Wikimedia Commons (modified: cropped, 2 numbered red boxes added)",
   "share_alike": false,
-  "retrieved": "2026-11-26"
+  "retrieved": "2026-11-26",
+  "license_text_on_file_page": "The copyright holder of this file, User:Garam, allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted."
  },
  {
   "file": "static/fig/seoul-subway-priority-seat.webp",
@@ -1236,6 +1238,81 @@
    "converted to WebP q80"
   ],
   "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-subway-machine-yongsan.webp",
+  "subject": "Ticket vending and top-up machines, Yongsan Station, Seoul (Line 1, Korail)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
+  "author": "YKJJ",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+  "original_date": "2023-01-24",
+  "modifications": [
+   "cropped",
+   "resized to 780x536",
+   "2 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: YKJJ, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, resized to 780x536, 2 numbered red boxes added, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-subway-machine-closeup.webp",
+  "subject": "Close-up of a ticket/top-up machine, Soraepogu Station, Incheon (Korail)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg",
+  "author": "LandAndTree",
+  "license": "CC BY 4.0",
+  "license_tag_on_file_page": "{{self|cc-by-4.0}}",
+  "original_date": "2024-07-13",
+  "modifications": [
+   "cropped",
+   "resized to 710x547",
+   "3 numbered red boxes added",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: LandAndTree, CC BY 4.0, via Wikimedia Commons (modified: cropped, resized to 710x547, 3 numbered red boxes added, converted to WebP q82)",
+  "share_alike": false,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/seoul-subway-exit-zoom.webp",
+  "subject": "Exit numbers 9 and 10 on the Way Out sign, Myeongdong Station",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg",
+  "author": "LERK",
+  "license": "CC BY-SA 4.0",
+  "license_tag_on_file_page": "(structured data: CC BY-SA 4.0)",
+  "original_date": "2018-11-24",
+  "modifications": [
+   "cropped",
+   "enlarged to 780x146",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, enlarged to 780x146, converted to WebP q82)",
+  "share_alike": true,
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/photo/bus-blue-2.webp",
+  "subject": "Seoul blue (trunk) bus, route 720 (2019)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg",
+  "author": "Wikiwater2020",
+  "license": "CC BY-SA 3.0",
+  "license_tag_on_file_page": "{{self|cc-by-sa-3.0}}",
+  "original_date": "2019-03-06",
+  "modifications": [
+   "resized to 640x480",
+   "light auto-contrast",
+   "2 areas blurred (plate, driver; manual)",
+   "converted to WebP q82"
+  ],
+  "attribution": "Photo: Wikiwater2020, CC BY-SA 3.0, via Wikimedia Commons (modified: light auto-contrast, plate and driver blurred)",
   "share_alike": true,
   "retrieved": "2026-11-26"
  }

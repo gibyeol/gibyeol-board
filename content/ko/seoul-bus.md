@@ -32,7 +32,7 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-log-in" aria-hidden="true"></i>앞문으로 타면서 태그</h3>
 
-{{fig:seoul-bus-reader-front|앞문 옆 승차 단말기(2012년 사진). 사진: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (자름, 밝기 보정, 번호 추가)}}
+{{fig:seoul-bus-reader-front|앞문 단말기: 2012년 캐시비 단말기 사진으로, 촬영 도시가 적혀 있지 않고 서울이 아닐 가능성이 커요. 서울 단말기는 모양이 다르지만 대는 방법은 같아요. 사진: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (자름, 밝기 보정, 번호 추가)}}
 
 1. 타면서 여기에 카드를 대요.
 
@@ -42,7 +42,7 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">5</span><i class="ic ic-log-out" aria-hidden="true"></i>뒷문 옆 단말기에 다시 태그하고 내리기</h3>
 
-{{fig:seoul-bus-reader-rear|뒷문 옆 하차 단말기(2012년 사진). 사진: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (자름, 번호 추가)}}
+{{fig:seoul-bus-reader-rear|뒷문 단말기: 2012년 캐시비 단말기 사진으로, 촬영 도시가 적혀 있지 않고 서울이 아닐 가능성이 커요. 서울 단말기는 모양이 다르지만 대는 방법은 같아요. 사진: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (자름, 번호 추가)}}
 
 1. "내리실 때 꼭 체크하세요."
 2. 여기에 카드를 대요.
@@ -56,7 +56,7 @@ updated: 2026-11-26
 
 서울 버스는 색이 곧 노선의 역할이라, 색만 봐도 맞는 종류인지 알 수 있어요. 모두 어른이 교통카드로 낼 때 요금이에요.
 
-<ul class="tr-colours"><li><img src="/static/photo/bus-1.webp" alt="파란 서울 버스" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>파랑 · 1,500원</b><span class="t">간선: 외곽과 도심·부도심을 길게 이어요.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png" rel="noopener" target="_blank">Ki hoon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="초록 서울 버스" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>초록 · 1,500원</b><span class="t">지선: 동네와 간선버스·지하철을 이어요. 초록 마을버스는 1,200원.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="노란 서울 순환버스 05번" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>노랑 · 1,400원</b><span class="t">순환: 도심 안을 돌아요.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (번호판 흐림)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="빨간 서울 광역버스 9401번" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>빨강 · 3,000원</b><span class="t">광역: 수도권과 도심을 이어요. 기후동행카드 단기권으로는 <b>못 타요.</b></span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (번호판 흐림)</span></li></ul>
+<ul class="tr-colours"><li><img src="/static/photo/bus-blue-2.webp" alt="파란 서울 버스" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>파랑 · 1,500원</b><span class="t">간선: 외곽과 도심·부도심을 길게 이어요.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="초록 서울 버스" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>초록 · 1,500원</b><span class="t">지선: 동네와 간선버스·지하철을 이어요. 초록 마을버스는 1,200원.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="노란 서울 순환버스 05번" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>노랑 · 1,400원</b><span class="t">순환: 도심 안을 돌아요.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (번호판 흐림)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="빨간 서울 광역버스 9401번" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>빨강 · 3,000원</b><span class="t">광역: 수도권과 도심을 이어요. 기후동행카드 단기권으로는 <b>못 타요.</b></span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (번호판 흐림)</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-moon" aria-hidden="true"></i><span><b>N으로 시작하는 번호</b>는 심야버스예요. 2,500원.</span></aside>
 
@@ -72,7 +72,6 @@ updated: 2026-11-26
 
 ## 자주 하는 실수
 
-여행자 경험을 모은 목록이 아니라, 위의 서울시 규정에서 생기기 쉬운 실수를 뽑은 거예요.
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>하차 태그 안 하고 내리기.</b> 환승이 끊겨 다음 차에서 기본요금을 다시 내요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>카드 없이, 또는 잔액 없이 타기.</b> 현금 안 받는 노선이 있어요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>기후동행카드 단기권으로 빨간 버스 타기.</b> 적용이 안 돼요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>환승 사이에 너무 오래 있기.</b> 30분(밤엔 1시간)이 지나면 환승이 끊겨요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>공항 N버스와 시내 N버스 헷갈리기.</b> 요금이 일곱 배 가까이 차이 나요.</span></li></ul>
 
@@ -82,12 +81,7 @@ updated: 2026-11-26
 
 시내버스와 공항 리무진 버스는 같은 '버스'지만 따로 움직이는 서비스예요.
 
-| | 시내버스 | 공항 리무진 |
-|---|---|---|
-| 요금(어른) | 1,200~3,000원 | 서울까지 16,000~18,000원 |
-| 표 | 카드 태그 | 공항 무인발권기·매표소에서 표 구입. 티머니도 되지만 표가 있는 사람이 먼저 타요 |
-| 기후동행카드 단기권 | 가능(광역버스 제외) | 안 돼요 |
-| 큰 짐 | 맞지 않아요 | 직원이 실어 줘요(1인 2개, 28인치 이하) |
+<ul class="tr-choose tr-compare"><li><i class="ic ic-bus" aria-hidden="true"></i><b>시내버스</b><ul class="tr-kv"><li><b>요금(어른)</b> 1,200~3,000원</li><li><b>표</b> 카드 태그</li><li><b>기후동행카드 단기권</b> 가능(광역버스 제외)</li><li><b>큰 짐</b> 맞지 않아요</li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>공항 리무진</b><ul class="tr-kv"><li><b>요금(어른)</b> 서울까지 16,000~18,000원</li><li><b>표</b> 공항 무인발권기·매표소에서 표 구입. 티머니도 되지만 표가 있는 사람이 먼저 타요</li><li><b>기후동행카드 단기권</b> 안 돼요</li><li><b>큰 짐</b> 직원이 실어 줘요(1인 2개, 28인치 이하)</li></ul></li></ul>
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>번호 주의: 심야 공항버스(N6000, N6002, N6701, N6703)도 N으로 시작하지만 요금이 17,000~18,000원이고 표를 사서 타요. 2,500원짜리 시내 N버스가 아니에요.</span></aside>
 

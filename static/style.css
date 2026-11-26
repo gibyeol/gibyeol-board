@@ -487,3 +487,4 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 
 /* desktop layout 2026-11-26 (unfinished: only hides the TOC for now; wide-screen rules still to add) */
 .toc{display:none}
+.tr-kv{list-style:none;padding:0;margin:4px 0 0;display:grid;gap:4px}.tr-kv li{margin:0;line-height:1.4}.tr-kv b{display:inline;font-size:.86rem;color:var(--muted);font-weight:600;margin-right:4px}

@@ -32,7 +32,7 @@ Open the route in **Naver Map** (it switches to English, Japanese or Chinese) an
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-log-in" aria-hidden="true"></i>Get on at the front and tap</h3>
 
-{{fig:seoul-bus-reader-front|A card reader by the front door (2012 photo). Photo: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (cropped, brightened, number added)}}
+{{fig:seoul-bus-reader-front|Front-door reader: a 2012 photo of a cashbee reader; the city is not stated, probably not Seoul. Seoul readers look different, but you tap the same way. Photo: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (cropped, brightened, number added)}}
 
 1. Touch your card here as you step in.
 
@@ -42,7 +42,7 @@ Take a window seat if there is one: Korea's tourism organisation counts the stre
 
 <h3 class="tr-step"><span class="n">5</span><i class="ic ic-log-out" aria-hidden="true"></i>Tap again at the rear door, then get off</h3>
 
-{{fig:seoul-bus-reader-rear|A reader by the rear door (2012 photo). Photo: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (cropped, numbers added)}}
+{{fig:seoul-bus-reader-rear|Rear-door reader: a 2012 photo of a cashbee reader; the city is not stated, probably not Seoul. Seoul readers look different, but you tap the same way. Photo: Wnstlr93, [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg) (cropped, numbers added)}}
 
 1. The sticker says: "Be sure to tap when you get off."
 2. Touch your card here.
@@ -56,7 +56,7 @@ Take a window seat if there is one: Korea's tourism organisation counts the stre
 
 The colour of a Seoul bus tells you what kind of route it is, so you can tell at a glance if it is the right kind of bus. All fares are adult fares paid with a transport card.
 
-<ul class="tr-colours"><li><img src="/static/photo/bus-1.webp" alt="Blue Seoul bus" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>Blue · ₩1,500</b><span class="t">Trunk: long routes from outer districts to the centre.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png" rel="noopener" target="_blank">Ki hoon</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="Green Seoul bus" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>Green · ₩1,500</b><span class="t">Branch: neighbourhoods to trunk buses and the subway. Green village buses: ₩1,200.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="Yellow Seoul circular bus, route 05" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>Yellow · ₩1,400</b><span class="t">Circular: loops around the centre.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (plate blurred)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="Red Seoul wide-area bus, route 9401" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>Red · ₩3,000</b><span class="t">Wide-area: the wider metro area to central Seoul. <b>Not</b> on the Climate Card pass.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (plates blurred)</span></li></ul>
+<ul class="tr-colours"><li><img src="/static/photo/bus-blue-2.webp" alt="Blue Seoul bus" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>Blue · ₩1,500</b><span class="t">Trunk: long routes from outer districts to the centre.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="Green Seoul bus" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>Green · ₩1,500</b><span class="t">Branch: neighbourhoods to trunk buses and the subway. Green village buses: ₩1,200.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="Yellow Seoul circular bus, route 05" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>Yellow · ₩1,400</b><span class="t">Circular: loops around the centre.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a> (plate blurred)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="Red Seoul wide-area bus, route 9401" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>Red · ₩3,000</b><span class="t">Wide-area: the wider metro area to central Seoul. <b>Not</b> on the Climate Card pass.</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a> (plates blurred)</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-moon" aria-hidden="true"></i><span><b>Route numbers starting with N</b> are night buses, ₩2,500.</span></aside>
 
@@ -72,7 +72,6 @@ A transfer is not a new fare as long as you tapped off and board the next ride w
 
 ## Common mistakes
 
-These come from Seoul's rules above, not from traveller stories we collected.
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Getting off without tapping.</b> The transfer breaks and the next ride charges the base fare again.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Boarding with no card or an empty one.</b> Some routes take no cash.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Taking a red bus on a Climate Card pass.</b> It isn't covered.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Waiting too long between rides.</b> After 30 minutes (60 at night) the transfer is gone.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>Mixing up airport N buses and city N buses.</b> The fares are about seven times apart.</span></li></ul>
 
@@ -82,12 +81,7 @@ These come from Seoul's rules above, not from traveller stories we collected.
 
 City buses and airport limousine buses look like they belong together, but they are separate services.
 
-| | City bus | Airport limousine bus |
-|---|---|---|
-| Fare (adult) | ₩1,200–3,000 | ₩16,000–18,000 into Seoul |
-| Ticket | Tap your card | Ticket from an airport kiosk or bus ticket counter; T-money accepted, but ticket holders board first |
-| Climate Card pass | Yes (not red buses) | No |
-| Big suitcases | Not what it is for | Staff load up to 2 bags per person (28 in or smaller) |
+<ul class="tr-choose tr-compare"><li><i class="ic ic-bus" aria-hidden="true"></i><b>City bus</b><ul class="tr-kv"><li><b>Fare (adult)</b> ₩1,200–3,000</li><li><b>Ticket</b> Tap your card</li><li><b>Climate Card pass</b> Yes (not red buses)</li><li><b>Big suitcases</b> Not what it is for</li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>Airport limousine bus</b><ul class="tr-kv"><li><b>Fare (adult)</b> ₩16,000–18,000 into Seoul</li><li><b>Ticket</b> Ticket from an airport kiosk or bus ticket counter; T-money accepted, but ticket holders board first</li><li><b>Climate Card pass</b> No</li><li><b>Big suitcases</b> Staff load up to 2 bags per person (28 in or smaller)</li></ul></li></ul>
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>Watch out for night numbers: the late-night airport buses (N6000, N6002, N6701, N6703) also start with N, but cost ₩17,000–18,000 and you buy a ticket. They are not the ₩2,500 city N buses.</span></aside>
 

@@ -22,12 +22,16 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-credit-card" aria-hidden="true"></i>在機器上儲值</h3>
 
-{{fig:seoul-subway-machine|單程票・交通卡儲值機(KORAIL營運車站的機台,各站外觀不同)。照片:LandAndTree,[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg)(裁切、加上編號)}}
+{{fig:seoul-subway-machine-yongsan|首爾龍山站(1號線,KORAIL)的售票・儲值機。各站機台不同。照片:YKJJ,[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg)(裁切、加上編號)}}
 
-1. 螢幕。下方有語言按鈕(有中文)。選儲值和金額。
-2. 卡放這裡。
-3. 投紙鈔。**T-money儲值只收現金。**
-4. 單程票從這裡出來。
+1. 找這個藍色指標(Tickets / 自动售票机)。
+2. 在機台螢幕上選儲值和金額。
+
+{{fig:seoul-subway-machine-closeup|同類機台的近照:仁川蘇萊浦口站(KORAIL)。首爾交通公社的機台外觀不同。照片:LandAndTree,[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg)(裁切、加上編號)}}
+
+1. 「Transit card here」:卡放在這裡。
+2. 「Insert bills here」:投紙鈔。**T-money儲值只收現金。**
+3. 單程票從這裡出來。
 
 <aside class="tr-note"><i class="ic ic-banknote" aria-hidden="true"></i><span>就算其他都刷卡,T-money還是要準備1萬~2萬韓元紙鈔。確認螢幕上的新餘額再拿走卡片。</span></aside>
 
@@ -36,7 +40,7 @@ updated: 2026-11-26
 {{fig:seoul-subway-gate|建大入口站的閘門。照片:revi,[CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/),[維基共享資源](https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg)(裁切、人物模糊、加上編號)}}
 
 1. 卡靠上方的感應器,會顯示餘額。
-2. 綠色箭頭:這個閘門可以通過。
+2. 綠色箭頭:從箭頭指的通道進去。紅色✕表示這一側不能進(依照片判讀)。
 
 <aside class="tr-note"><i class="ic ic-users" aria-hidden="true"></i><span>一人一卡。轉乘規定是「一人一張卡」,兩個人共用一張卡就沒有轉乘優惠。</span></aside>
 
@@ -45,7 +49,7 @@ updated: 2026-11-26
 {{fig:seoul-subway-platform-sign|蠶室站2號線月台站名牌。照片:阿貴,[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg)(裁切、加上編號)}}
 
 1. 你所在的車站。路線顏色圓圈裡是車站編號。
-2. 下一站,和這班車前進的方向。
+2. 下一站。如果是你要去的方向,就是這個月台。2號線是環狀線,所以站牌標的是下一站;其他路線也會標出終點站(依照片判讀)。
 
 我們的判斷:不只看顏色,更要看**路線號碼**和方向(往哪個終點站)。下月台前先確認往哪個終點站。
 
@@ -63,9 +67,11 @@ updated: 2026-11-26
 2. 圓圈裡的數字是出口號碼,箭頭是方向。走你存好的那個。
 3. 這個箭頭指向單程票・儲值機。
 
+{{fig:seoul-subway-exit-zoom|放大:⑨號出口明洞聖堂、⑩號出口中部警察署,往這邊←。照片:LERK,[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg)(裁切、放大)}}
+
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>出站一定要嗶卡。</b>票價按距離計算,沒嗶卡出站,轉乘會斷掉、還會被多收錢。</span></aside>
 
-<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="街上的地鐵出入口,有號碼標示" loading="lazy" decoding="async"><figcaption>上到地面,每個出口都有編號。我們選的結尾畫面:就從那個出口上到地面,第一步就朝著要去的方向。 <span class="tr-credit">惠化站1號出口,2006年照片。照片:Jolly6656(韓文維基百科),公有領域,<a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">維基共享資源</a></span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="街上的地鐵出入口,有號碼標示" loading="lazy" decoding="async"><figcaption>從地面看出口的樣子(惠化站1號出口)。我們選的結尾畫面:就從那個出口上到地面,第一步就朝著要去的方向。 <span class="tr-credit">惠化站1號出口,2006年照片。照片:Jolly6656(韓文維基百科),公有領域,<a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">維基共享資源</a></span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">7</span><i class="ic ic-ticket" aria-hidden="true"></i>用單程票?拿回500韓元</h3>
 
@@ -97,7 +103,6 @@ updated: 2026-11-26
 
 ## 第一天常見錯誤
 
-這些不是收集來的旅客經驗,而是依上面的官方規定整理出容易犯的錯。
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>出站沒嗶卡。</b>轉乘會斷掉,還會被多收錢。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>把單程票丟掉。</b>500韓元押金就沒了。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>想用信用卡幫T-money儲值。</b>車站儲值只收現金。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>拿氣候同行卡去首爾以外或搭新盆唐線。</b>下車時要另外付錢。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>搭上不停你那站的9號線急行。</b></span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>以為末班車時間是固定的。</b>每天出門前再查一次。</span></li></ul>
 
@@ -179,7 +184,7 @@ updated: 2026-11-26
 
 <figure class="tr-photo"><img src="/static/fig/seoul-subway-priority-seat.webp" alt="車廂一端的博愛座與圖示" loading="lazy" decoding="async"><figcaption><b>1</b> 圖示,<b>2</b> 車廂一端的博愛座。 <span class="tr-credit">照片:hyolee2,<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>,<a href="https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG" rel="noopener" target="_blank">維基共享資源</a>(裁切、廣告模糊、加上編號)</span></figcaption></figure>
 
-<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="粉紅色孕婦優先座與地面標示" loading="lazy" decoding="async"><figcaption><b>1</b> 粉紅色座位,<b>2</b> 地面的粉紅標示。 <span class="tr-credit">1號線,2018年。照片:Garam,註明出處即可自由使用,<a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、加上編號)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="粉紅色孕婦優先座與地面標示" loading="lazy" decoding="async"><figcaption><b>1</b> 粉紅色座位,<b>2</b> 地面的粉紅標示。 <span class="tr-credit">首爾地鐵,2018年。照片:Garam。Attribution licence: “allows anyone to use it for any purpose, provided that the copyright holder is properly attributed”,<a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、加上編號)</span></figcaption></figure>
 
 - **博愛座**(車廂兩端)留給長者、身障者、受傷的人和孕婦。我們的建議:不要坐。
 - **粉紅色座位**(每節2個)是孕婦優先座,請空著。懷孕初期看不出來,有些孕婦會別粉紅色徽章。

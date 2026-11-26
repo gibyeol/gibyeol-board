@@ -22,12 +22,16 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-credit-card" aria-hidden="true"></i>발매기에서 카드 충전</h3>
 
-{{fig:seoul-subway-machine|1회용 발매·교통카드 충전기(코레일 운영 역의 기계, 역마다 모양이 달라요). 사진: LandAndTree, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg) (자름, 번호 추가)}}
+{{fig:seoul-subway-machine-yongsan|서울 용산역(1호선, 코레일)의 발매·충전기. 역마다 기계가 달라요. 사진: YKJJ, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg) (자름, 번호 추가)}}
 
-1. 화면. 아래쪽에 언어 버튼이 있어요. 충전과 금액을 골라요.
-2. 카드를 여기에 올려요.
-3. 지폐를 넣어요. **티머니 충전은 현금만 돼요.**
-4. 1회용 승차권은 여기로 나와요.
+1. 이 파란 '전철승차권자동발매기' 표지를 찾아요.
+2. 기계 화면에서 충전과 금액을 골라요.
+
+{{fig:seoul-subway-machine-closeup|같은 종류 기계를 가까이 본 모습: 인천 소래포구역(코레일). 서울교통공사 기계는 모양이 달라요. 사진: LandAndTree, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg) (자름, 번호 추가)}}
+
+1. '교통카드 충전하는 곳': 카드를 여기에 올려요.
+2. '지폐 넣는 곳': 지폐를 넣어요. **티머니 충전은 현금만 돼요.**
+3. 1회용 승차권은 여기로 나와요.
 
 <aside class="tr-note"><i class="ic ic-banknote" aria-hidden="true"></i><span>다른 건 다 카드로 내더라도 티머니용으로 1만~2만 원은 지폐로 갖고 있으세요. 화면에 뜬 잔액을 확인하고 카드를 빼요.</span></aside>
 
@@ -36,7 +40,7 @@ updated: 2026-11-26
 {{fig:seoul-subway-gate|건대입구역 개찰구. 사진: revi, [CC BY 2.0 KR](https://creativecommons.org/licenses/by/2.0/kr/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:%EA%B1%B4%EB%8C%80%EC%9E%85%EA%B5%AC_%EA%B0%9C%EC%B0%B0%EA%B5%AC.jpeg) (자름, 사람 흐림 처리, 번호 추가)}}
 
 1. 위쪽 단말기에 카드를 대요. 잔액이 떠요.
-2. 초록 화살표: 지나갈 수 있는 개찰구예요.
+2. 초록 화살표: 화살표가 가리키는 통로로 들어가요. 빨간 ✕는 이쪽에서 못 들어간다는 뜻이에요(사진을 보고 읽은 내용).
 
 <aside class="tr-note"><i class="ic ic-users" aria-hidden="true"></i><span>카드는 한 사람에 한 장이에요. 환승 규정이 '1인 1장'이라 둘이 카드 한 장을 같이 쓰면 환승이 안 돼요.</span></aside>
 
@@ -45,7 +49,7 @@ updated: 2026-11-26
 {{fig:seoul-subway-platform-sign|잠실역 2호선 승강장 표지. 사진: 阿貴, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:Seoul_Subway_Jamsil_Station_Line_2_Platform_Direction_Info.jpg) (자름, 번호 추가)}}
 
 1. 지금 있는 역. 노선 색 동그라미 안에 역 번호.
-2. 다음 역과 이 열차가 가는 방향.
+2. 다음 역. 내가 가는 쪽이면 이 승강장이에요. 2호선은 순환선이라 표지에 다음 역이 나오고, 다른 노선은 종착역도 함께 나와요(사진을 보고 읽은 내용).
 
 우리 판단: 색보다 **노선 번호**와 방향(어느 종착역 쪽인지)을 보세요. 승강장에 내려가기 전에 어느 종착역 쪽인지 확인해요.
 
@@ -63,9 +67,11 @@ updated: 2026-11-26
 2. 동그라미 안 숫자가 출구 번호, 화살표가 방향이에요. 저장한 번호를 따라가요.
 3. 이 화살표는 1회용 발매·카드 충전기 쪽이에요.
 
+{{fig:seoul-subway-exit-zoom|확대: ⑨번 출구 명동성당, ⑩번 출구 중부경찰서, 이쪽 ←. 사진: LERK, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), [위키미디어 공용](https://commons.wikimedia.org/wiki/File:Seoul-metro-424-Myeongdong-station-gate-20181124-081950.jpg) (자름, 확대)}}
+
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>나갈 때 꼭 태그.</b> 요금이 거리로 정해지고, 하차 태그를 안 하면 환승이 끊기고 추가 요금이 붙어요.</span></aside>
 
-<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="거리의 지하철 출입구, 번호 표지가 있는 유리 지붕" loading="lazy" decoding="async"><figcaption>밖으로 나오면 출구마다 번호가 있어요. 우리가 고른 끝 장면: 딱 그 출구로 올라와서, 첫걸음부터 가려던 방향을 보고 서는 거예요. <span class="tr-credit">혜화역 1번 출구, 2006년 사진. 사진: Jolly6656(한국어 위키백과), 퍼블릭 도메인, <a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">위키미디어 공용</a></span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/photo/subway-4.webp" alt="거리의 지하철 출입구, 번호 표지가 있는 유리 지붕" loading="lazy" decoding="async"><figcaption>밖에서 본 출구 모습(혜화역 1번 출구). 우리가 고른 끝 장면: 딱 그 출구로 올라와서, 첫걸음부터 가려던 방향을 보고 서는 거예요. <span class="tr-credit">혜화역 1번 출구, 2006년 사진. 사진: Jolly6656(한국어 위키백과), 퍼블릭 도메인, <a href="https://commons.wikimedia.org/wiki/File:Seoul_subway_Hyehwa_Station_Exit_01.jpg" rel="noopener" target="_blank">위키미디어 공용</a></span></figcaption></figure>
 
 <h3 class="tr-step"><span class="n">7</span><i class="ic ic-ticket" aria-hidden="true"></i>1회용 승차권이면 500원 돌려받기</h3>
 
@@ -97,7 +103,6 @@ updated: 2026-11-26
 
 ## 첫날 자주 하는 실수
 
-여행자 경험을 모은 목록이 아니라, 위의 공식 규정에서 생기기 쉬운 실수를 뽑은 거예요.
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>하차 태그를 안 함.</b> 환승이 끊기고 추가 요금이 붙어요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>1회용 승차권을 버림.</b> 보증금 500원이 거기 들어 있어요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>신용카드로 티머니를 충전하려 함.</b> 역 충전은 현금이에요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>기후동행카드로 서울 밖이나 신분당선을 탐.</b> 내릴 때 요금을 따로 내요.</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>내릴 역을 지나치는 9호선 급행을 탐.</b></span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>막차 시각을 외워 두고 믿음.</b> 그날그날 확인해요.</span></li></ul>
 
@@ -179,7 +184,7 @@ updated: 2026-11-26
 
 <figure class="tr-photo"><img src="/static/fig/seoul-subway-priority-seat.webp" alt="객차 끝 노약자석과 그림 표지" loading="lazy" decoding="async"><figcaption><b>1</b> 표지, <b>2</b> 칸 끝 노약자석. <span class="tr-credit">사진: hyolee2, <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Priority_seats_Seoul_Metro_3000.JPG" rel="noopener" target="_blank">위키미디어 공용</a> (자름, 광고 흐림 처리, 번호 추가)</span></figcaption></figure>
 
-<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="분홍색 임산부 배려석과 바닥 표지" loading="lazy" decoding="async"><figcaption><b>1</b> 분홍색 임산부 배려석, <b>2</b> 바닥 분홍 표지. <span class="tr-credit">1호선, 2018년. 사진: Garam, 출처 표시 조건 자유 이용, <a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (자름, 번호 추가)</span></figcaption></figure>
+<figure class="tr-photo"><img src="/static/fig/seoul-subway-pink-seat.webp" alt="분홍색 임산부 배려석과 바닥 표지" loading="lazy" decoding="async"><figcaption><b>1</b> 분홍색 임산부 배려석, <b>2</b> 바닥 분홍 표지. <span class="tr-credit">서울 지하철, 2018년. 사진: Garam. Attribution licence: “allows anyone to use it for any purpose, provided that the copyright holder is properly attributed”, <a href="https://commons.wikimedia.org/wiki/File:Designated_seats_for_pregnant_women_of_Seoul_Metro_Line_1_in_2018.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (자름, 번호 추가)</span></figcaption></figure>
 
 - **노약자석**(칸 양 끝)은 어르신, 장애인, 다친 사람, 임산부를 위한 자리예요. 우리 조언: 앉지 마세요.
 - **분홍색 좌석**(한 칸에 두 자리)은 임산부 배려석이에요. 비워 둬요. 초기 임산부는 티가 안 나서 분홍색 임산부 배지를 달기도 해요.

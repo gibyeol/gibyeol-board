@@ -32,7 +32,7 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">3</span><i class="ic ic-log-in" aria-hidden="true"></i>前門上車刷卡</h3>
 
-{{fig:seoul-bus-reader-front|前門旁的刷卡機(2012年照片)。照片:Wnstlr93,[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(裁切、調亮、加上編號)}}
+{{fig:seoul-bus-reader-front|前門刷卡機:2012年cashbee刷卡機照片,未註明拍攝城市,很可能不是首爾。首爾的刷卡機外觀不同,但刷法一樣。照片:Wnstlr93,[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:%EC%8A%B9%EC%B0%A8%EC%9A%A9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(裁切、調亮、加上編號)}}
 
 1. 上車時把卡靠在這裡。
 
@@ -42,7 +42,7 @@ updated: 2026-11-26
 
 <h3 class="tr-step"><span class="n">5</span><i class="ic ic-log-out" aria-hidden="true"></i>在後門旁再刷一次,再下車</h3>
 
-{{fig:seoul-bus-reader-rear|後門旁的刷卡機(2012年照片)。照片:Wnstlr93,[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(裁切、加上編號)}}
+{{fig:seoul-bus-reader-rear|後門刷卡機:2012年cashbee刷卡機照片,未註明拍攝城市,很可能不是首爾。首爾的刷卡機外觀不同,但刷法一樣。照片:Wnstlr93,[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/),[維基共享資源](https://commons.wikimedia.org/wiki/File:%ED%99%98%EC%8A%B9_%EB%8B%A8%EB%A7%90%EA%B8%B0.jpg)(裁切、加上編號)}}
 
 1. 貼紙寫著:「下車時請務必刷卡」。
 2. 卡靠在這裡。
@@ -56,7 +56,7 @@ updated: 2026-11-26
 
 首爾公車的顏色就是路線用途,一眼就知道是不是你要的那種車。以下都是成人用交通卡付款的票價。
 
-<ul class="tr-colours"><li><img src="/static/photo/bus-1.webp" alt="藍色首爾公車" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>藍色・1,500韓元</b><span class="t">幹線:連接外圍與市中心的長程路線。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_105_Blue_City_Front_side.png" rel="noopener" target="_blank">Ki hoon</a>,<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="綠色首爾公車" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>綠色・1,500韓元</b><span class="t">支線:連接社區與幹線公車、地鐵。綠色社區公車(마을버스)1,200韓元。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>,<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="黃色首爾循環公車05號" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>黃色・1,400韓元</b><span class="t">循環:在市中心繞行。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>,<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>(車牌模糊)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="紅色首爾廣域公車9401號" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>紅色・3,000韓元</b><span class="t">廣域:連接首都圈與市區。氣候同行卡短期券<b>不能搭</b>。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>,<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>(車牌模糊)</span></li></ul>
+<ul class="tr-colours"><li><img src="/static/photo/bus-blue-2.webp" alt="藍色首爾公車" loading="lazy" decoding="async"><b><i class="sw" style="background:#1f6fd1"></i>藍色・1,500韓元</b><span class="t">幹線:連接外圍與市中心的長程路線。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Blue_Bus.jpg" rel="noopener" target="_blank">Wikiwater2020</a>,<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-2.webp" alt="綠色首爾公車" loading="lazy" decoding="async"><b><i class="sw" style="background:#3cb043"></i>綠色・1,500韓元</b><span class="t">支線:連接社區與幹線公車、地鐵。綠色社區公車(마을버스)1,200韓元。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_7211.jpg" rel="noopener" target="_blank">Wikiwater2020</a>,<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a></span></li><li><img src="/static/photo/bus-yellow-1.webp" alt="黃色首爾循環公車05號" loading="lazy" decoding="async"><b><i class="sw" style="background:#f2b21b"></i>黃色・1,400韓元</b><span class="t">循環:在市中心繞行。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_05.JPG" rel="noopener" target="_blank">hyolee2</a>,<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>(車牌模糊)</span></li><li><img src="/static/photo/bus-red-1.webp" alt="紅色首爾廣域公車9401號" loading="lazy" decoding="async"><b><i class="sw" style="background:#e2462b"></i>紅色・3,000韓元</b><span class="t">廣域:連接首都圈與市區。氣候同行卡短期券<b>不能搭</b>。</span><span class="tr-credit"><a href="https://commons.wikimedia.org/wiki/File:Seoul_Bus_9401.jpg" rel="noopener" target="_blank">Wikiwater2020</a>,<a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>(車牌模糊)</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-moon" aria-hidden="true"></i><span><b>路線號碼N開頭</b>的是深夜公車,2,500韓元。</span></aside>
 
@@ -72,7 +72,6 @@ updated: 2026-11-26
 
 ## 常見錯誤
 
-這些不是收集來的旅客經驗,而是依上面的首爾市規定整理出容易犯的錯。
 
 <ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>下車沒刷卡。</b>轉乘斷掉,下一趟要再付基本票價。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>沒卡或餘額不足就上車。</b>有些路線不收現金。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>拿氣候同行卡短期券搭紅色公車。</b>不適用。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>轉乘中間拖太久。</b>超過30分鐘(夜間60分鐘)就不算轉乘。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>把機場N字頭巴士當成市區N字頭公車。</b>票價差將近7倍。</span></li></ul>
 
@@ -82,12 +81,7 @@ updated: 2026-11-26
 
 市區公車和機場利木津巴士都叫「巴士」,但其實是不同的服務。
 
-| | 市區公車 | 機場利木津巴士 |
-|---|---|---|
-| 票價(成人) | 1,200~3,000韓元 | 到首爾16,000~18,000韓元 |
-| 怎麼付 | 刷卡 | 在機場自動售票機或售票櫃台買票;也可用 T-money,但持票者優先上車 |
-| 氣候同行卡短期券 | 可用(紅色公車除外) | 不能用 |
-| 大件行李 | 不適合 | 由工作人員裝載(每人2件,28吋以下) |
+<ul class="tr-choose tr-compare"><li><i class="ic ic-bus" aria-hidden="true"></i><b>市區公車</b><ul class="tr-kv"><li><b>票價(成人)</b> 1,200~3,000韓元</li><li><b>怎麼付</b> 刷卡</li><li><b>氣候同行卡短期券</b> 可用(紅色公車除外)</li><li><b>大件行李</b> 不適合</li></ul></li><li><i class="ic ic-plane" aria-hidden="true"></i><b>機場利木津巴士</b><ul class="tr-kv"><li><b>票價(成人)</b> 到首爾16,000~18,000韓元</li><li><b>怎麼付</b> 在機場自動售票機或售票櫃台買票;也可用 T-money,但持票者優先上車</li><li><b>氣候同行卡短期券</b> 不能用</li><li><b>大件行李</b> 由工作人員裝載(每人2件,28吋以下)</li></ul></li></ul>
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>號碼要看清楚:深夜機場巴士(N6000、N6002、N6701、N6703)也是N開頭,但票價17,000~18,000韓元,要買票搭乘,不是2,500韓元的市區深夜公車。</span></aside>
 
