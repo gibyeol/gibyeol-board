@@ -2,6 +2,7 @@
 title: プライバシー
 description: サイトを訪れたときに、Nadriと、Nadriが利用するサービスが収集するデータ。
 updated: 2026-11-26
+approved: 2026-11-26
 ---
 ## Nadriが収集するもの
 
