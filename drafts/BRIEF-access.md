@@ -8,7 +8,7 @@
 - "굉장히 많이 필요해 각각의 요소에 전부, 작은 아이콘 부터 시작해서 정보를 위한 그림까지, 그리고 우리 수익화와 직접 연결할 방법을 찾아야 하고 제휴도 늘려야하고"
 - "우리 원칙서에 있잖아. 사람의 심리를 움직여야 한다고"
 - Picture quality bar: "최소 퀄리티는 공식사이트에 나와있는 그림 퀄리티 정도야. 실사수준에 최대한 가깝게 정보를 표기해야 도움이돼." Hand-drawn SVGs are "storyboard" quality — replace them with real images wherever possible.
-- Korean edition: "한국인들을 위한 컨텐츠가 필요함" — the ko page speaks to the Korean reader directly. Do NOT frame it as "helping a foreign friend" (remove 친구 framing).
+- Every language edition (including ko) speaks to whoever is reading, about their situation — no Korean/foreigner split, no "helping a foreign friend" framing (owner 2026-11-26 10:00: "한국인/외국인 구분을 할게 아니라 모두가 필요한 정보를 잘 깔끔하게 고시하면 상황에 맞게 모두가 쓸 수 있는거지").
 
 ## Start from the essence (owner, 2026-11-26 09:56: "어떤 행동을 해야할지 고민을 할때 기준은 \"본질\"이라니까 이걸 하는 목적을 다시 생각하고 어떻게 유저들에게 도움이 되고 연결이 될까를 생각해.")
 Before every layout choice ask: why does a visitor open this page, what must they do next, and how does each element help them do it and connect them onward (to the official site, to our next page, or to a product that genuinely helps)? Delete what doesn't serve that; show what does. There is NO limit on the number of images — the owner: "사진을 한 장 넣으라는 제한은 없었어. 필요하다면 10장을 넣어도 되지". Use as many real images as understanding needs.
