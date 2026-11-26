@@ -52,13 +52,13 @@ def shortcode(line, lang):
         return codes_table(lang)
     if kind == "fig":
         # {{fig:name|caption}} → static/fig/<lang>/<name>.svg (language text) or static/fig/<name>.svg (no text)
-        for rel in (f"fig/{lang}/{key}.svg", f"fig/{key}.svg"):
+        for rel in [f"fig/{lang}/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")] + [f"fig/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")]:
             if (ROOT / "static" / rel).exists():
                 cap = inline(label) if label else ""
                 alt = html.escape(re.sub(r"\*\*|\[|\]\([^)]*\)", "", label or key))
                 return (f'<figure class="fig"><img src="/static/{rel}" alt="{alt}" loading="lazy" decoding="async">'
                         + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
-        raise SystemExit(f"missing figure: static/fig/{lang}/{key}.svg (or static/fig/{key}.svg)")
+        raise SystemExit(f"missing figure: static/fig/{lang}/{key}.(svg|webp|jpg|png) (or static/fig/{key}.*)")
     if kind == "aff":
         a = AFF.get(key, {})
         if not a.get("url"):
