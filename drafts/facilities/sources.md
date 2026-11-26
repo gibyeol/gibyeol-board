@@ -72,3 +72,28 @@
 | S26 | 구글 플레이 '충전돼지 - 보조배터리 대여(공유) 서비스' https://play.google.com/store/apps/details?id=com.panda.charge | 앱스토어(개발자 (주)백퍼센트) · "업데이트 날짜 2026. 10. 31.", 11/27 확인 | "QR 버튼 터치 후 캐비넷(단말기) QR 이미지 아래 있는 식별번호 확인 후 12자리 번호를 직접 입력해보세요." / "(곧, 설치점별 요금안내와 긴급 충전이 가능한 무료 충전선을 보유하고 있는 설치점 필터까지 업데이트될 예정이니 많은 관심 부탁드립니다.)" / "고객센터 1644-5773". **요금·해외 카드 언급 없음** | 접힌 칸 '다른 대여기' ('곳마다 다를 수 있어요'는 이 문장에서 나온 **추론**) |
 
 배터리 남은 빈칸: CU '완충이'의 30분 넘은 뒤 요금·하루 상한·분실 요금은 CU 누리집(cu.bgfretail.com, 이번 네트워크 프록시 403)과 완충이 앱 설명 어디에도 없음 → 확인 못 함. 해외 카드·해외 번호 가입 여부: 세 앱 설명(S3·S24·S26)과 충전돼지 누리집(S25)에 언급 없음 → 확인 못 함. 카카오페이·네이버페이가 해외 카드로 되는지는 이 페이지 근거로 판단하지 않음.
+
+### D-2. 가게 보관·공항 보관 업체 (페이지 본문에는 안 넣음 — Radical Storage는 원두 결정, review.md 3절 제안 블록)
+
+| # | 출처 | 등급 · 날짜 | 가져온 것 (원문 그대로) | 페이지 위치 |
+|---|---|---|---|---|
+| S27 | Radical Storage 서울 https://radicalstorage.com/luggage-storage/seoul | 업체 자체 페이지(제휴 아님) · 본문 "Posted26 November 2026", 11/27 01:4x 확인 | 제목 "Luggage Storage Seoul from ₩2,500/Day \| 69 Locations" / "Prices start from ₩2,500/day, depending on bag size. A ₩2,941 fee per bag is added at checkout to cover the ₩15,000,000 Guarantee and 24/7 support." / "You may cancel your booking free of charge at any time before the scheduled check-in time and receive a full refund." / "No size limits!" / 목록(받은 시점 화면): "Hotel Seoul Station 9:00 AM - 12:00 AM 4.58(675) ₩5,100/day", "Hotel Myeongdong Subway Station 24 hours 4.66(82) ₩5,100/day", "Shop Gangnam Subway Station 9:00 AM - 8:00 PM 4.89(87) ₩5,100/day", "Hotel Seoul Itaewon 24 hours ₩5,100/day", "Hotel Yongsan … ₩2,500/day" / "Popular areas include Seoul Station, Myeongdong, Hongdae, Gangnam, the Express Bus Terminal, Dongdaemun, Jongno and locations along routes to Incheon and Gimpo airports." | 안 씀 → review 3절 |
+| S28 | Radical Storage 인천 https://radicalstorage.com/luggage-storage/incheon · 지점 https://radicalstorage.com/luggage-storage/incheon/incheon-airport/luggage-storage-near-incheon-international-airport-area | 업체 자체 페이지 · 11/27 확인 | "Luggage Storage Incheon from ₩5,100/ Day" / "Prices start from ₩5,100/day, depending on bag size. A ₩2,941 fee per bag is added at checkout" / 목록 "Restaurant Incheon International Airport Area Closed 4.5(2) ₩5,100/day" / 지점 화면 "Online booking required Stores don't accept walk-ins or cash payments." "LocationAddress provided after booking" / 같은 페이지 아래 옛 글 "With a fixed price of ₩ 7000 per day, per bag"(**같은 페이지 안에서 숫자가 서로 다름**) | 안 씀. **공항 터미널 안 지점인지 확인 못 함**(주소가 예약 뒤 공개) |
+| S29 | 럭스테이 https://www.lugstay.com/ | — · 11/27 확인 | 응답 "HTTP/2 302 … location: https://www.hugedomains.com/domain_profile.cfm?d=lugstay.com"(도메인 판매 사이트로 넘어감). hugedomains는 프록시 403 | 안 씀. 지금 운영하는지 이 누리집으로는 확인 못 함(도메인이 판매 페이지로 넘어가는 것은 사실, 서비스 종료 여부는 **추론하지 않음**) |
+| S30 | 짐캐리 https://www.jimcarry.co.kr/ · https://jimcarry.co.kr/ | — · 11/27 3회 시도 | `curl: (35) Recv failure: Connection reset by peer` (http·https, www 유무 모두) | 1터미널 요금 '확인하지 못했어요' 그대로 |
+
+### B표 갱신 (2026-11-27 01:3x, 원두 허용 뒤 다시 시도) — 위 B표 줄은 지우지 않음
+
+| 출처 | 이번 결과 | 페이지 영향 |
+|---|---|---|
+| 서울교통공사 www.seoulmetro.co.kr 또타라커(menuIdx=897)·보도자료(board.do?menuIdx=547) | 사이트가 `302 Location: http://www.seoulmetro.co.kr/kr/page.do?menuIdx=897`로 보냄 → 이 세션은 http 주소를 못 찾음(`Could not resolve host`)·시간 초과 반복. 첫 화면 index.do만 1회 200(메뉴에 '또타라커(T-Locker)'가 있음은 확인) | 또타라커 요금·크기는 여전히 시민기자 기사(S9)만 근거 |
+| 또타라커 tlocker.co.kr | 200이지만 내용은 `window.location.href = "https://tlocker.otpin.co/"` 한 줄로 넘기는 빈 페이지. tlocker.otpin.co는 프록시 403(허용 목록 밖). 우회 안 함 | 같음 |
+| 또타러기지 tluggage.co.kr | **열림**(www.tluggage.co.kr 는 Connection reset) → S19~S21 | 공식으로 교체 |
+| 아시아경제·헤럴드경제 | **열림** → S16·S17 | 'QR → 웹' 반영 |
+| 완충이 구글 플레이 | **열림** → S24 (요금·해외 카드 없음) | 링크만 추가 |
+| 충전돼지 piggycell.com | **열림** → S25 (요금 없음). api.piggycell.com 약관은 프록시 403 | 요금 '없어요' |
+| 짐캐리 | Connection reset → S30 | 그대로 |
+| 한진 hanjin.com | **열림** → S22·S23 | 2터미널 요금·공항 배송 수령 |
+| Radical Storage | **열림** → S27·S28 | 본문 안 씀(원두 결정) |
+| CU cu.bgfretail.com · 인천공항 www.airport.kr | 이번 네트워크에서 프록시 403 (`CONNECT tunnel failed, response 403`). 1차(11/27 00:4x)에 연 내용(S1·S2·S5·S6)은 그대로 둠, 이번에 다시 대조 못 함 | 그대로 |
+| 서울시 mediahub.seoul.go.kr | 이번엔 프록시 403(1차엔 열렸음). S7·S9·S10·S12·S13 재대조 못 함 | 그대로 |
