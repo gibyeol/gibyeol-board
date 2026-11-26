@@ -1,0 +1,82 @@
+[
+ {
+  "file": "static/fig/<lang>/tax-refund-t1map.svg",
+  "subject": "Schematic wayfinding map, Incheon Terminal 1 departures: tax refund kiosks near check-in rows B, E, J, L (3F landside), customs near E and J, refund counter and machines near gate 28 (3F airside), Concourse machine",
+  "source_site": "Nadri (redrawn; facts only)",
+  "fact_sources": [
+   "https://www.airport.kr/ap_ko/1008/subview.do (facility list, opened 2026-11-26)",
+   "https://www.airport.kr/ap_ko/898/subview.do (내국세환급 절차, opened 2026-11-26)",
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=248765 (customs locations, opened 2026-11-26)"
+  ],
+  "author": "Nadri",
+  "license": "own work (no third-party artwork copied)",
+  "generator": "tools/figgen/taxrefund_maps.py",
+  "languages": [
+   "ko",
+   "en",
+   "ja",
+   "zh-tw"
+  ],
+  "verified": "tools/figgen/verify.js at 340px: OK (min font 13.6px, no overlap)",
+  "used_on": [
+   "tax-refund (ko, en, ja, zh-tw)"
+  ],
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/<lang>/tax-refund-t2map.svg",
+  "subject": "Schematic wayfinding map, Incheon Terminal 2 departures: kiosks and customs near check-in rows F and G, refund counters near gate 249 and east near gate 270 (facility list; refund page says opposite 250 / near 253)",
+  "source_site": "Nadri (redrawn; facts only)",
+  "fact_sources": [
+   "https://www.airport.kr/ap_ko/1008/subview.do",
+   "https://www.airport.kr/ap_ko/898/subview.do",
+   "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=248765"
+  ],
+  "author": "Nadri",
+  "license": "own work",
+  "generator": "tools/figgen/taxrefund_maps.py",
+  "languages": [
+   "ko",
+   "en",
+   "ja",
+   "zh-tw"
+  ],
+  "verified": "verify.js OK",
+  "used_on": [
+   "tax-refund (ko, en, ja, zh-tw)"
+  ],
+  "retrieved": "2026-11-26"
+ },
+ {
+  "file": "static/fig/ko/olive-young-4.svg",
+  "subject": "Starter basket figure (existing, core-B/fig_shop.py)",
+  "modifications": [
+   "text '뺀 것: 유행템과 랭킹' changed to '뺀 것: 유행하는 상품과 랭킹' (plain word, owner 11/26 accessibility); same change in tools/figgen/core-B/fig_shop.py"
+  ],
+  "used_on": [
+   "olive-young (ko)"
+  ],
+  "retrieved": "2026-11-26"
+ },
+ {
+  "note": "Existing catalogued photos (data/photos.json, licenses already verified) newly used on these pages",
+  "reuse": [
+   {
+    "file": "static/photo/icn-t1-departure-hall-4.webp",
+    "license": "CC BY-SA 4.0, Sgroey",
+    "new_used_on": "tax-refund (ko, en, ja, zh-tw) airport section"
+   },
+   {
+    "file": "static/photo/seongsu-yeonmujang-gil.webp",
+    "license": "CC BY-SA 4.0, Dr. Thomas Liptak",
+    "new_used_on": "olive-young (ko, en, ja, zh-tw) wayfinding to Olive Young N Seongsu"
+   }
+  ]
+ },
+ {
+  "note": "Location check of an existing photo",
+  "file": "static/photo/oy-myeongdong-entrance.webp / oy-myeongdong-passport-sign.webp / oy-myeongdong-sign-closeup.webp",
+  "finding": "Commons file Olive_Young_Myeongdong.jpg carries {{Location|37.563869|126.985214}}; Visit Seoul gives Olive Young Myeongdong Town at 37.564859,126.985283 (about 110 m away). So it is another Myeongdong branch, not Myeongdong Town; captions now say 'an Olive Young in Myeongdong, branch not named'.",
+  "checked": "2026-11-26"
+ }
+]
