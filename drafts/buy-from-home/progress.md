@@ -12,6 +12,14 @@
 - buy-from-home.md(한국어 초안), sources.md(출처·못 연 것), review.md(자체 점검, 종합 FAIL: 데이터 빈칸) 작성.
 - 스크래치 빌드 미리보기 390·1280: /tmp/claude-0/-home-user/7eb4ec94-764c-5989-af23-6a2e9e40b53c/scratchpad/buy-from-home/
 
+- 2026-11-27 01:30~02:20 KST (원두 네트워크 허용 [7eb4ec94#2712] 뒤 2차):
+  - 다시 접속 시험(curl -A 'Mozilla/5.0', 주소당 1회): iHerb 배송·반품 페이지, 올리브영 회사 사이트, 영국·캐나다·호주·싱가포르·대만·홍콩 세관, EU 뉴스 = 열림. 올리브영 US·글로벌(고객센터 포함)·iHerb 고객센터 = Cloudflare/Access restricted, CBP = Access Denied, EU 소비자 안내 = 429, YesStyle 고객센터 = 프록시 502. 우회 안 함.
+  - 원자료 저장: wondu-archive staging/overnight-2026-11-27/raw/buy-from-home/ (커밋 27105d0, aa67484).
+  - buy-from-home.md: 비교 표 9/24칸(1차 5칸), 나머지 '확인 못 함' 표시와 이유. iHerb 카드·반품 3단계, 세금 '내 나라 한 줄' 표 8개 나라 + 나라별 접기, 출처 ①~㉑ 접기. (gibyeol-board 41d0ae8 외)
+  - sources.md: ⑩~㉑ 원문 인용·주소·날짜, 2차 '열지 못한 것'. 인용 66개 원자료와 기계 대조 일치.
+  - review.md: 2차 자체 점검(부분 PASS, 공개 불가), 남은 빈칸·원두 결정 6개.
+  - 미리보기: /tmp/claude-0/-home-user/7eb4ec94-764c-5989-af23-6a2e9e40b53c/scratchpad/buy-from-home/v2_*.png, seg2/
+
 ## 남은 일 (원두 결정 뒤)
-- 빈칸 채우기: review.md '원두가 정할 것' 1.
+- 남은 빈칸: review.md 2차 '원두가 정할 것' 1·3·6.
 - 독립 검토, 분류 결정, en·ja·zh-tw판, 올리브영 내용 원두 직접 승인.
