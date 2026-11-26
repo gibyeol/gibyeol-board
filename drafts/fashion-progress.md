@@ -64,3 +64,12 @@ Scratch build (stand-in translations) OK; screenshot: /tmp/claude-0/-home-user/7
 - Step 4 drafts/prototype/winter-light-puffer.md + drafts/prototype/proto.css. The page includes the CSS with one raw line, `<link rel="stylesheet" href="/static/proto.css">`. The preview copied proto.css to static/ in a scratch build only. To publish, copy it to static/ or merge it into style.css. Old drawings are removed from the page; the drawing files are left as committed (not deleted).
 - Owner-provided Musinsa BF tally used as cited: "무신사 무진장 26 겨울 블프 집계, 2026-11-26 16:25 기준(원두 확인)". Ranks 2–4 are not filled in. The screenshot image is not used.
 - Screens: scratchpad/fashion/pc_1280x800.png (hook, sale strip, stats, table, size scale, ranking bars and colour blocks all inside 1280×800), m390_first.png, m390_full.png.
+
+## v3 (owner layout: daily trend block + evergreen core block) — 16:5x KST
+- Page: drafts/prototype/winter-light-puffer.md. The daily block sits between <!-- trend:start --> and <!-- trend:end --> and is also written to drafts/prototype/trend-block.md by drafts/prototype/gen_trend_block.py. It reads only data/shop-trends.json (keyword.trend_block config, the rankings r-musinsa-lp-reviews-20261126 and r-musinsa-bf-brand-20261126, items) and data/deals.json. A daily refresh = edit the json and rerun the script.
+- Proposed build.py hook (not applied): a shortcode {{trend:kw-light-puffer}} that calls trend_block() from the generator, so the page holds no copy of the numbers.
+- Affiliate slots are marked as HTML comments `<!-- aff-slot: … -->` next to each product link and the ranking link.
+- Owner data used: Musinsa 경량패딩 후기순 (17:0x; ads #4 and #12 excluded; labelled "판매 순위 아님") and Musinsa BF brand tally (16:25; ranks 2–4 not filled).
+- Glossary sourced from Wikipedia "Fill power" and the official Uniqlo / Arc'teryx pages. Gaps: duck vs goose down, light vs mid-weight (no source opened); exact Musinsa ranking URL (the button goes to musinsa.com home until the owner confirms).
+- Removed: Gyeongbokgung hero (static/photo/seoul-snow-gyeongbokgung.webp is now unused and untracked).
+- Screens: scratchpad/fashion/pc_1280x800.png (both blocks and the "더 보기" chips inside 1280×800), m390_first.png, m390_full.png.
