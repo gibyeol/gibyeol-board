@@ -4,6 +4,7 @@ description: 機場鐵路直達車、普通車、機場巴士、計程車的時�
 lede: 進首爾沒有唯一最好的方式,能把你送到離床最近的那個才是對的。所以先看飯店在哪,再倒推要搭什麼。
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 在韓國的第一個小時

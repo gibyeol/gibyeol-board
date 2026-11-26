@@ -2,6 +2,7 @@
 title: Updates
 description: What changed on Nadri and when. Every rule change we catch, and every reader report we act on, is logged here.
 lede: Korean entry, tax and transit rules change often. When we re-check a guide or a reader tells us something changed, it goes here with the date.
+approved: 2026-11-26
 updated: 2026-11-26
 report: no
 ---

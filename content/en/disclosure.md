@@ -1,6 +1,7 @@
 ---
 title: How Nadri makes money
 description: Nadri's affiliate partnerships and advertising, and how they do and do not affect what we recommend.
+approved: 2026-11-26
 updated: 2026-11-23
 ---
 ## Affiliate links

@@ -2,6 +2,7 @@
 title: 저작권과 인용
 description: Nadri에서 인용할 수 있는 것, 옮겨 실으면 안 되는 것, 복제를 발견했을 때 알려 주는 방법.
 lede: Nadri가 널리 공유되면 좋겠어요. 다만 읽는 사람이 결국 원본에 닿았으면 해요. 사실이 계속 최신으로 유지되는 곳이니까요.
+approved: 2026-11-26
 updated: 2026-11-25
 report: no
 byline: no

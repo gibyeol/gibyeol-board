@@ -266,3 +266,203 @@ ol.steps{list-style:none;counter-reset:st;padding:0;margin:1.4rem 0;display:grid
 ol.steps>li{margin:0;counter-increment:st;position:relative;padding:12px 14px 12px 56px;background:#fff;border:1px solid var(--hair);border-radius:10px;line-height:1.55}
 ol.steps>li::before{content:counter(st);position:absolute;left:14px;top:11px;width:28px;height:28px;border-radius:50%;background:var(--red);color:#fff;font:600 .9rem/28px var(--mono);text-align:center}
 .note{background:#fff;border:1px solid var(--hair);border-left:4px solid var(--red);border-radius:8px;padding:.7rem 1rem}
+
+/* ---------- e-Arrival Card pilot (2026-11-26): icons, CTA, yes/no, step headings, collapsible detail ---------- */
+.ic{display:inline-block;width:1.2em;height:1.2em;flex:none;vertical-align:-.22em;background:currentColor;-webkit-mask:var(--i) center/contain no-repeat;mask:var(--i) center/contain no-repeat}
+.ic-user-check{--i:url(/static/icons/user-check.svg)}.ic-user-x{--i:url(/static/icons/user-x.svg)}.ic-users{--i:url(/static/icons/users.svg)}
+.ic-clock{--i:url(/static/icons/clock.svg)}.ic-wallet{--i:url(/static/icons/wallet.svg)}.ic-calendar-days{--i:url(/static/icons/calendar-days.svg)}
+.ic-smartphone{--i:url(/static/icons/smartphone.svg)}.ic-triangle-alert{--i:url(/static/icons/triangle-alert.svg)}.ic-circle-check{--i:url(/static/icons/circle-check.svg)}
+.ic-circle-x{--i:url(/static/icons/circle-x.svg)}.ic-shield-check{--i:url(/static/icons/shield-check.svg)}.ic-file-down{--i:url(/static/icons/file-down.svg)}
+.ic-mail{--i:url(/static/icons/mail.svg)}.ic-plane{--i:url(/static/icons/plane.svg)}.ic-hotel{--i:url(/static/icons/hotel.svg)}.ic-id-card{--i:url(/static/icons/id-card.svg)}
+.ic-pencil{--i:url(/static/icons/pencil.svg)}.ic-list-checks{--i:url(/static/icons/list-checks.svg)}.ic-info{--i:url(/static/icons/info.svg)}
+.ic-arrow-right{--i:url(/static/icons/arrow-right.svg)}.ic-external-link{--i:url(/static/icons/external-link.svg)}.ic-circle-help{--i:url(/static/icons/circle-help.svg)}
+.eac-cta{display:flex;flex-wrap:wrap;gap:10px;margin:1rem 0 1.2rem}
+.eac-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:50px;padding:10px 18px;border-radius:12px;border:2px solid var(--ink);font-weight:600;font-size:1.05rem;text-decoration:none;flex:1 1 150px;background:#fff;color:var(--ink)}
+.eac-btn.go{background:var(--red);border-color:var(--red);color:#fff}.eac-btn.go:hover{color:#fff;filter:brightness(1.08)}
+.eac-facts{list-style:none;padding:0;margin:1rem 0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.eac-facts li{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;line-height:1.3;font-weight:600}
+.eac-facts .ic{width:1.6em;height:1.6em;color:var(--red)}
+.eac-who{list-style:none;padding:0;margin:1rem 0;display:grid;gap:8px}
+.eac-who li{display:flex;gap:12px;align-items:flex-start;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:12px 14px;line-height:1.45}
+.eac-who .ic{width:1.7em;height:1.7em;margin-top:1px}.eac-who .yes .ic{color:#2f6b3a}.eac-who .no .ic{color:var(--red)}.eac-who .fam .ic{color:var(--ink)}
+.eac-who b{display:block;font-size:1.05rem}
+h3.eac-step{display:flex;align-items:center;gap:10px;margin-top:2.2rem;font-size:1.25rem}
+h3.eac-step .n{display:inline-flex;align-items:center;justify-content:center;min-width:2.1em;height:2.1em;border-radius:50%;background:var(--ink);color:#fff;font:600 .95rem var(--mono)}
+h3.eac-step .ic{width:1.4em;height:1.4em;color:var(--red)}
+.eac-warn{display:flex;gap:10px;align-items:flex-start;font-weight:600}.eac-warn .ic{width:1.5em;height:1.5em;color:var(--red);margin-top:2px}
+.eac-done{display:flex;gap:10px;align-items:flex-start;background:#eef5ee;border:1px solid #cfe3cf;border-left:4px solid #2f6b3a;border-radius:8px;padding:.7rem 1rem}.eac-done .ic{width:1.5em;height:1.5em;color:#2f6b3a;margin-top:2px}
+.eac-oops{list-style:none;padding:0;margin:1rem 0;display:grid;gap:8px}
+.eac-oops li{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;line-height:1.45}.eac-oops .ic{width:1.4em;height:1.4em;color:var(--red);margin-top:2px}
+details.more{margin:1rem 0;background:#fff;border:1px solid var(--hair);border-radius:10px}
+details.more>summary{list-style:none;display:flex;align-items:center;gap:10px;min-height:48px;padding:10px 44px 10px 14px;cursor:pointer;font-weight:600;position:relative;line-height:1.35}
+details.more>summary::-webkit-details-marker{display:none}
+details.more>summary::after{content:"";position:absolute;right:18px;top:50%;width:10px;height:10px;border-right:2.5px solid var(--ink);border-bottom:2.5px solid var(--ink);transform:translateY(-70%) rotate(45deg);transition:transform .15s}
+details.more[open]>summary::after{transform:translateY(-30%) rotate(-135deg)}
+details.more>summary .ic{width:1.3em;height:1.3em;color:var(--muted)}
+details.more[open]>summary{border-bottom:1px solid var(--hair)}
+details.more>:not(summary){margin-inline:14px}details.more>:last-child{margin-bottom:14px}
+details.more h3{font-size:1.05rem;margin-top:1.2rem}
+article.body:has(.eac-step) .fig:has(img[src*="-shot-"]){padding:6px}
+article.body:has(.eac-step) .fig:has(img[src*="-shot-"]) figcaption{margin:6px 6px 2px;font-size:.8rem}
+article.body:has(.eac-step) .fig+ol.steps{gap:6px;margin-top:.7rem}
+article.body:has(.eac-step) .fig+ol.steps>li{padding:8px 12px 8px 50px}
+article.body:has(.eac-step) .fig+ol.steps>li::before{top:8px;left:12px}
+
+/* ---------- Seoul subway + bus guides (2026-11-26, accessibility redesign): icons, photo pairs, step cards, colour chips ---------- */
+.ic-train-front{--i:url(/static/icons/train-front.svg)}.ic-bus{--i:url(/static/icons/bus.svg)}.ic-credit-card{--i:url(/static/icons/credit-card.svg)}
+.ic-banknote{--i:url(/static/icons/banknote.svg)}.ic-map-pin{--i:url(/static/icons/map-pin.svg)}.ic-map{--i:url(/static/icons/map.svg)}
+.ic-arrow-right-left{--i:url(/static/icons/arrow-right-left.svg)}.ic-door-open{--i:url(/static/icons/door-open.svg)}.ic-bell{--i:url(/static/icons/bell.svg)}
+.ic-moon{--i:url(/static/icons/moon.svg)}.ic-coins{--i:url(/static/icons/coins.svg)}.ic-lightbulb{--i:url(/static/icons/lightbulb.svg)}
+.ic-luggage{--i:url(/static/icons/luggage.svg)}.ic-armchair{--i:url(/static/icons/armchair.svg)}.ic-log-in{--i:url(/static/icons/log-in.svg)}
+.ic-log-out{--i:url(/static/icons/log-out.svg)}.ic-ticket{--i:url(/static/icons/ticket.svg)}.ic-signpost{--i:url(/static/icons/signpost.svg)}
+.ic-timer{--i:url(/static/icons/timer.svg)}.ic-baby{--i:url(/static/icons/baby.svg)}.ic-route{--i:url(/static/icons/route.svg)}
+.ic-clock{--i:url(/static/icons/clock.svg)}.ic-triangle-alert{--i:url(/static/icons/triangle-alert.svg)}.ic-circle-check{--i:url(/static/icons/circle-check.svg)}
+.ic-info{--i:url(/static/icons/info.svg)}.ic-arrow-right{--i:url(/static/icons/arrow-right.svg)}.ic-plane{--i:url(/static/icons/plane.svg)}
+.ic-users{--i:url(/static/icons/users.svg)}.ic-wallet{--i:url(/static/icons/wallet.svg)}.ic-smartphone{--i:url(/static/icons/smartphone.svg)}.ic-hotel{--i:url(/static/icons/hotel.svg)}
+.tr-cta{display:flex;flex-wrap:wrap;gap:10px;margin:.9rem 0 1.1rem}
+.tr-btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:50px;padding:10px 16px;border-radius:12px;border:2px solid var(--ink);font-weight:600;font-size:1.02rem;line-height:1.25;text-decoration:none;flex:1 1 140px;background:#fff;color:var(--ink);text-align:center}
+.tr-btn.go{background:var(--red);border-color:var(--red);color:#fff}.tr-btn.go:hover{color:#fff;filter:brightness(1.08)}
+.tr-btn .ic{width:1.3em;height:1.3em}
+.tr-facts{list-style:none;padding:0;margin:.9rem 0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.tr-facts li{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:9px 11px;line-height:1.3;font-weight:600;font-size:.97rem}
+.tr-facts .ic{width:1.6em;height:1.6em;color:var(--red)}
+.tr-facts small{display:block;font-weight:400;color:var(--muted);font-size:.82rem}
+.tr-hero{margin:1rem 0 .4rem;padding:0;border:0;background:none}
+.tr-hero img{display:block;width:100%;height:auto;border-radius:12px;aspect-ratio:16/9;object-fit:cover}
+.tr-hero figcaption,.tr-pair figcaption,.tr-photo figcaption{margin-top:6px;font-size:.84rem;color:var(--muted);line-height:1.4}
+.tr-hero figcaption b,.tr-pair figcaption b,.tr-photo figcaption b{color:var(--ink)}
+.tr-credit{display:block;font-size:.74rem;color:var(--muted);opacity:.9}
+.tr-credit a{color:inherit}
+.tr-pair{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:1rem 0}
+.tr-pair figure,.tr-photo{margin:0;background:#fff;border:1px solid var(--hair);border-radius:12px;padding:6px}
+.tr-photo{margin:1rem 0}
+.tr-pair img,.tr-photo img{display:block;width:100%;height:auto;border-radius:8px}
+.tr-pair img{aspect-ratio:4/3;object-fit:cover}
+.tr-four{grid-template-columns:1fr 1fr}
+h3.tr-step{display:flex;align-items:center;gap:10px;margin-top:2.2rem;font-size:1.22rem;line-height:1.3}
+h3.tr-step .n{display:inline-flex;align-items:center;justify-content:center;min-width:2.1em;height:2.1em;border-radius:50%;background:var(--ink);color:#fff;font:600 .95rem var(--mono)}
+h3.tr-step .ic{width:1.4em;height:1.4em;color:var(--red)}
+.tr-note{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--hair);border-left:4px solid var(--red);border-radius:8px;padding:.65rem .9rem;margin:1rem 0;line-height:1.5}
+.tr-note .ic{width:1.45em;height:1.45em;color:var(--red);margin-top:2px}
+.tr-note.tip{border-left-color:#b7862b}.tr-note.tip .ic{color:#b7862b}
+.tr-note.ok{background:#eef5ee;border-color:#cfe3cf;border-left-color:#2f6b3a}.tr-note.ok .ic{color:#2f6b3a}
+.tr-choose{list-style:none;padding:0;margin:1rem 0;display:grid;gap:10px}
+.tr-choose>li{display:grid;grid-template-columns:44px 1fr;gap:4px 12px;align-items:start;background:#fff;border:1px solid var(--hair);border-radius:12px;padding:12px 14px;line-height:1.45}
+.tr-choose>li>.ic{width:44px;height:44px;color:var(--red);grid-row:span 2}
+.tr-choose b{display:block;font-size:1.06rem}
+.tr-choose .tag{display:inline-block;margin-top:2px;font:600 .74rem/1.6 var(--mono);letter-spacing:.04em;background:var(--ink);color:#fff;border-radius:6px;padding:0 7px}
+.tr-oops{list-style:none;padding:0;margin:1rem 0;display:grid;gap:8px}
+.tr-oops li{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;line-height:1.45}
+.tr-oops .ic{width:1.4em;height:1.4em;color:var(--red);margin-top:2px}
+.tr-buy{display:grid;grid-template-columns:96px 1fr;gap:12px;align-items:center;background:#fff;border:1px solid var(--hair);border-radius:12px;padding:10px;margin:1rem 0 .3rem}
+.tr-buy img{width:96px;height:72px;object-fit:cover;border-radius:8px;display:block}
+.tr-buy p{margin:0;line-height:1.45}
+.tr-buy .tr-credit{margin-top:2px}
+.tr-buy+.aff{margin-top:.4rem}
+.tr-colours{list-style:none;padding:0;margin:1rem 0;display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.tr-colours li{background:#fff;border:1px solid var(--hair);border-radius:12px;padding:6px;line-height:1.35;font-size:.92rem}
+.tr-colours img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:8px}
+.tr-colours b{display:flex;align-items:center;gap:6px;margin:6px 4px 0;font-size:1rem}
+.tr-colours span.t{display:block;margin:0 4px 4px}
+.tr-colours i.sw{display:inline-block;width:14px;height:14px;border-radius:4px;flex:none}
+.tr-colours .tr-credit{margin:0 4px 2px}
+details.tr-more{margin:1rem 0;background:#fff;border:1px solid var(--hair);border-radius:10px}
+details.tr-more>summary{list-style:none;display:flex;align-items:center;gap:10px;min-height:50px;padding:10px 44px 10px 14px;cursor:pointer;font-weight:600;position:relative;line-height:1.35}
+details.tr-more>summary::-webkit-details-marker{display:none}
+details.tr-more>summary::after{content:"";position:absolute;right:18px;top:50%;width:10px;height:10px;border-right:2.5px solid var(--ink);border-bottom:2.5px solid var(--ink);transform:translateY(-70%) rotate(45deg);transition:transform .15s}
+details.tr-more[open]>summary::after{transform:translateY(-30%) rotate(-135deg)}
+details.tr-more>summary .ic{width:1.35em;height:1.35em;color:var(--red)}
+details.tr-more[open]>summary{border-bottom:1px solid var(--hair)}
+details.tr-more>:not(summary){margin-inline:14px}details.tr-more>:last-child{margin-bottom:14px}
+details.tr-more .fig{padding:8px}
+.tr-next{list-style:none;padding:0;margin:1rem 0;display:grid;gap:8px}
+.tr-next a{display:flex;align-items:center;gap:10px;min-height:48px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:8px 12px;text-decoration:none;font-weight:600}
+.tr-next a .ic{width:1.4em;height:1.4em;color:var(--red)}.tr-next a .ic-arrow-right{margin-left:auto;color:var(--muted)}
+@media (min-width:700px){.tr-facts{grid-template-columns:repeat(4,1fr)}.tr-colours{grid-template-columns:repeat(4,1fr)}}
+.eac-next{list-style:none;padding:0;margin:1rem 0;display:grid;gap:8px}
+.eac-next a{display:flex;align-items:center;gap:10px;min-height:52px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;text-decoration:none;font-weight:600;line-height:1.35}
+.eac-next a .ic{width:1.4em;height:1.4em;color:var(--red)}.eac-next a .ic-arrow-right{margin-left:auto;color:var(--muted)}
+
+/* ---------- Incheon Airport to Seoul (2026-11-26, accessibility redesign): ride picker with photos, train compare, route chips. Uses .ic and .tr-* above ---------- */
+.ic-car-taxi-front{--i:url(/static/icons/car-taxi-front.svg)}.ic-arrow-down{--i:url(/static/icons/arrow-down.svg)}.ic-store{--i:url(/static/icons/store.svg)}.ic-wifi{--i:url(/static/icons/wifi.svg)}
+.ap-pick{list-style:none;padding:0;margin:1rem 0;display:grid;gap:10px}
+.ap-pick a{display:grid;grid-template-columns:104px 1fr;gap:12px;align-items:center;background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px;text-decoration:none;color:var(--ink);line-height:1.35}
+.ap-pick a:hover{border-color:var(--red);color:var(--ink)}
+.ap-pick img{display:block;width:104px;height:84px;object-fit:cover;border-radius:8px}
+.ap-pick .noimg{display:flex;align-items:center;justify-content:center;width:104px;height:84px;border-radius:8px;background:var(--night);color:#efe9dd}
+.ap-pick .noimg .ic{width:40px;height:40px}
+.ap-pick small{display:flex;align-items:center;gap:6px;color:var(--muted);font-size:.86rem}
+.ap-pick small .ic{width:1.15em;height:1.15em}
+.ap-pick b{display:flex;align-items:center;gap:7px;font-size:1.08rem;margin:2px 0}
+.ap-pick b .ic{width:1.25em;height:1.25em;color:var(--red)}
+.ap-pick .m{display:block;font:500 .84rem/1.4 var(--mono);color:var(--ink)}
+.ap-vs{display:grid;grid-template-columns:1fr;gap:10px;margin:1rem 0}
+.ap-vs>div{background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px 8px 10px}
+.ap-vs img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:8px}
+.ap-vs h3{display:flex;align-items:center;gap:8px;margin:.6rem 6px .3rem;font-size:1.15rem}
+.ap-vs h3 .ic{width:1.3em;height:1.3em;color:var(--red)}
+.ap-vs ul{list-style:none;padding:0;margin:0 6px;display:grid;gap:5px}
+.ap-vs li{display:flex;gap:8px;align-items:flex-start;line-height:1.4;font-size:.96rem}
+.ap-vs li .ic{width:1.25em;height:1.25em;color:var(--muted);margin-top:1px}
+.ap-vs .who{margin:.55rem 6px 0;padding:6px 8px;border-radius:8px;background:var(--paper);font-weight:600;font-size:.93rem;line-height:1.4}
+.ap-vs .tr-credit{margin:6px 6px 0}
+.ap-routes{list-style:none;padding:0;margin:.8rem 0 1rem;display:grid;grid-template-columns:1fr 1fr;gap:6px}
+.ap-routes li{display:flex;align-items:center;gap:8px;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:7px 9px;line-height:1.3;font-size:.93rem}
+.ap-routes b{flex:none;min-width:3.4em;text-align:center;font:600 .9rem/1.7 var(--mono);background:var(--ink);color:#fff;border-radius:6px;padding:0 6px}
+.ap-routes.late b{background:var(--night)}
+.ap-stations{list-style:none;padding:0;margin:.8rem 0;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.ap-stations li{background:#fff;border:1px solid var(--hair);border-radius:999px;padding:3px 11px;font-size:.92rem;line-height:1.5}
+.ap-stations li.k{border-color:var(--ink);font-weight:600}
+.ap-stations li.sep{border:0;background:none;padding:0 2px;color:var(--muted)}
+.ap-fares{list-style:none;padding:0;margin:.8rem 0;display:grid;gap:6px}
+.ap-fares li{display:grid;grid-template-columns:max-content 1fr;gap:10px;align-items:center;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:7px 10px;line-height:1.35;font-size:.94rem}
+.ap-fares b{font:600 .95rem var(--mono);color:var(--red)}
+@media (min-width:700px){.ap-vs{grid-template-columns:1fr 1fr}.ap-routes{grid-template-columns:repeat(3,1fr)}}
+.tr-buy .ap-noimg{display:flex;align-items:center;justify-content:center;width:96px;height:72px;border-radius:8px;background:var(--night);color:#efe9dd}.tr-buy .ap-noimg .ic{width:34px;height:34px}
+.ap-credits{margin:.4rem 0 0;padding-left:1.1rem;font-size:.8rem;line-height:1.5;color:var(--muted)}.ap-credits li{margin:.2rem 0}.ap-credits a{color:inherit}
+
+/* ---------- Tax refund + Olive Young (2026-11-26, accessibility redesign): extra icons, uncropped hero, three-item picks. Uses .ic and .tr-* above ---------- */
+.ic-receipt{--i:url(/static/icons/receipt.svg)}.ic-tag{--i:url(/static/icons/tag.svg)}.ic-ban{--i:url(/static/icons/ban.svg)}.ic-stamp{--i:url(/static/icons/stamp.svg)}
+.ic-hand-coins{--i:url(/static/icons/hand-coins.svg)}.ic-shopping-basket{--i:url(/static/icons/shopping-basket.svg)}.ic-calendar-check{--i:url(/static/icons/calendar-check.svg)}
+.ic-globe{--i:url(/static/icons/globe.svg)}.ic-truck{--i:url(/static/icons/truck.svg)}.ic-sun{--i:url(/static/icons/sun.svg)}.ic-droplets{--i:url(/static/icons/droplets.svg)}
+.ic-layers{--i:url(/static/icons/layers.svg)}.ic-percent{--i:url(/static/icons/percent.svg)}.ic-package{--i:url(/static/icons/package.svg)}
+.ic-scan-line{--i:url(/static/icons/scan-line.svg)}.ic-sparkles{--i:url(/static/icons/sparkles.svg)}
+.ic-id-card{--i:url(/static/icons/id-card.svg)}.ic-user-check{--i:url(/static/icons/user-check.svg)}.ic-user-x{--i:url(/static/icons/user-x.svg)}
+.ic-circle-x{--i:url(/static/icons/circle-x.svg)}.ic-circle-help{--i:url(/static/icons/circle-help.svg)}.ic-list-checks{--i:url(/static/icons/list-checks.svg)}
+.ic-external-link{--i:url(/static/icons/external-link.svg)}.ic-calendar-days{--i:url(/static/icons/calendar-days.svg)}
+.acc-hero img{aspect-ratio:auto;object-fit:fill}
+.tr-next a .ic-external-link{margin-left:auto;color:var(--muted)}
+.acc-picks{list-style:none;padding:0;margin:1rem 0;display:grid;gap:10px}
+.acc-picks>li{background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px;line-height:1.45}
+.acc-picks img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;border-radius:8px}
+.acc-picks b{display:flex;align-items:center;gap:8px;font-size:1.08rem;margin:8px 4px 2px}
+.acc-picks b .ic{width:1.35em;height:1.35em;color:var(--red)}
+.acc-picks span.t{display:block;margin:0 4px 4px}
+.acc-picks .tr-credit{margin:0 4px 2px}
+@media (min-width:700px){.acc-picks{grid-template-columns:repeat(3,1fr)}}
+.ap-routes li{min-width:0;overflow-wrap:anywhere}
+.acc-noimg{display:flex;align-items:center;justify-content:center;width:100%;aspect-ratio:4/3;border-radius:8px;background:#f1ece2;color:var(--muted)}
+.acc-noimg .ic{width:56px;height:56px}
+.acc-picks b,.acc-picks strong{display:inline}.acc-picks>li>b{display:flex}
+.acc-picks .acc-noimg{aspect-ratio:auto;height:110px}
+h3.eac-step .st{display:inline-flex;align-items:center;padding:4px 10px;border-radius:6px;background:var(--ink);color:#fff;font:700 .8rem var(--mono);letter-spacing:.06em;white-space:nowrap}
+.eac-facts.eac-wide{grid-template-columns:1fr}.eac-facts.eac-wide li{font-weight:600}
+.eac-nextcard{display:block;background:#fff;border:1px solid var(--hair);border-radius:12px;overflow:hidden;text-decoration:none;margin:1rem 0}
+.eac-nextcard img{display:block;width:100%;height:auto}
+.eac-nextcard span{display:block;padding:10px 14px 4px;line-height:1.45}.eac-nextcard b{display:flex;align-items:center;gap:8px;font-size:1.08rem}
+.eac-nextcard b .ic{width:1.35em;height:1.35em;color:var(--red)}
+.eac-nextcard small{display:block;padding:0 14px 10px;color:var(--muted);font-size:.75rem}
+.tr-buy>.ic{width:64px;height:64px;color:var(--red);margin:auto}
+/* transit guides: keep the first phone screen for the picture and the main action */
+@media (max-width:600px){
+main:has(.tr-hero) .page-head{padding:1.1rem 0 .8rem;margin-bottom:.8rem}
+main:has(.tr-hero) .page-head h1{font-size:1.7rem}
+main:has(.tr-hero) .lede{font-size:1.06rem;line-height:1.5;margin-top:.5rem}
+main:has(.tr-hero) .byline{margin-top:.5rem}
+main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 0;margin:0 0 .5rem}
+.tr-hero{margin-top:.5rem}
+}
+.tr-choose>li>:not(.ic){grid-column:2}.tr-choose>li>.ic{grid-row:1/span 3}.tr-choose .tag{justify-self:start}
+.tr-photo img[src*="priority-seat"]{max-width:420px;margin-inline:auto}
+.fig img[src*="seoul-bus-reader-"],.fig img[src*="seoul-subway-refund"]{max-width:300px;margin-inline:auto}
+.tr-colours span.t b{display:inline;margin:0;font-size:inherit}

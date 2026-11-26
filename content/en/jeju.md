@@ -3,6 +3,7 @@ title: Adding Jeju to a Korea trip: flights from Seoul, getting around without a
 description: How to get from Seoul to Jeju, whether you can skip the rental car, what you need to drive, and what the Jeju visa-free rule means for you. Checked November 2026.
 lede: Our call: fly from Gimpo, book earlier than you think, and base yourself in Jeju City or on the east coast if you are not driving. Most US visitors can ignore the "Jeju visa-free" headlines; they are about other passports.
 section: transport
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first afternoon on Jeju

@@ -3,6 +3,7 @@ title: Duty-free in Korea: downtown, online or airport, and how pickup works
 description: Which Korean duty-free channel to use, how airport pickup works at Incheon, order deadlines, and the US $800 / 1-liter allowance you bring home. Checked November 2026.
 lede: Order online by the evening before you fly and pick up at Incheon after passport control. The number that decides how much to buy is not a Korean rule but US Customs: $800 and 1 liter of alcohol per person.
 section: shopping
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Departure day, the duty-free way

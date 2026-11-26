@@ -1,6 +1,7 @@
 ---
 title: Privacy
 description: What data Nadri and the services it uses collect when you visit.
+approved: 2026-11-26
 updated: 2026-11-24
 ---
 ## What Nadri collects

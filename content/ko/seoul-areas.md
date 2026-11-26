@@ -3,6 +3,7 @@ title: 서울 숙소 어디로: 여행 목적으로 동네 고르기
 description: 명동, 홍대, 서울역, 종로, 동대문, 성수, 강남. 동네마다 어울리는 사람, 인천공항에서 가는 법, 솔직한 단점을 정리했어요.
 lede: 첫 서울이라면 명동, 홍대, 서울역 중 한 곳이 무난해요. 셋 다 공항에서 갈아타지 않고 닿으니 여기서 시작하고, 뚜렷한 이유가 있을 때만 다른 동네로 옮기세요.
 section: seoul
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 도착하는 날과 마지막 아침
@@ -90,4 +91,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">2026년 11월 26일(한국 시간)에 열어 봄: Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026년 6월 기준 소요 시간, 지역별 버스 노선); 인천공항 <a href="https://www.airport.kr/ap_ko/893/subview.do" rel="noopener" target="_blank">도심공항터미널 이용</a>(서울역 지하 2층, 이용 시간, 수속 마감, 직통열차 고객만). 홍대입구역 일반열차 요금은 공항 가이드에서 2026년 11월 26일 확인한 공항철도 <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">운임 안내</a>를 따랐어요(Visit Seoul은 "4,750원부터"로 표기). 다시 열지 않음, 2026년 11월 25일 확인: 인천공항 <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">심야버스</a>; 공항리무진 <a href="https://airportlimousine.co.kr/en/sub/sub01_01_city.php" rel="noopener" target="_blank">노선</a>; 코리아헤럴드 지역별 외국인 방문과 카드 결제(2026년 9월 13일); 코리아타임스 명동 대형 매장(2026년 6월 5일), 동대문(2025년 10월 8일), 핼러윈 인파(2026년 10월 31일), K팝 공연장(2026년 9월 15일); 아시아경제 힙지로(2025년 12월 3일); 코리아넷 성수동(2023년 8월 24일).</p>
+<p class="sources">2026년 11월 26일(한국 시간)에 열어 봄: Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026년 6월 기준 소요 시간, 지역별 버스 노선); 인천공항 <a href="https://www.airport.kr/" rel="noopener" target="_blank">도심공항터미널 이용</a> (airport.kr: ap_ko/893/subview.do)(서울역 지하 2층, 이용 시간, 수속 마감, 직통열차 고객만). 홍대입구역 일반열차 요금은 공항 가이드에서 2026년 11월 26일 확인한 공항철도 <a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">운임 안내</a>를 따랐어요(Visit Seoul은 "4,750원부터"로 표기). 다시 열지 않음, 2026년 11월 25일 확인: 인천공항 <a href="https://www.airport.kr/" rel="noopener" target="_blank">심야버스</a> (airport.kr: ap_en/1507/subview.do); 공항리무진 <a href="https://airportlimousine.co.kr/en/sub/sub01_01_city.php" rel="noopener" target="_blank">노선</a>; 코리아헤럴드 지역별 외국인 방문과 카드 결제(2026년 9월 13일); 코리아타임스 명동 대형 매장(2026년 6월 5일), 동대문(2025년 10월 8일), 핼러윈 인파(2026년 10월 31일), K팝 공연장(2026년 9월 15일); 아시아경제 힙지로(2025년 12월 3일); 코리아넷 성수동(2023년 8월 24일).</p>

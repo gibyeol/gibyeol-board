@@ -3,6 +3,7 @@ title: Seoul in winter: what to wear, snow, and the Seollal 2027 closures
 description: Seoul's real December–February temperatures, how often it snows, what to pack, and what opens and closes over Seollal, 6–9 February 2027.
 lede: Seoul in January is colder than most visitors expect, but it is a dry, bright cold you can dress for. Pack for the wind outside and the heat indoors, and if you land over Seollal, the palaces are your best bet, not the shops.
 section: seoul
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A winter day in Seoul

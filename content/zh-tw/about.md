@@ -2,6 +2,7 @@
 title: 關於 Nadri
 description: Nadri 由誰製作、指南如何查證與確認,以及如何聯絡我們。
 lede: Nadri 這個名字來自韓文 나들이(nadeuri),意思是輕鬆出門玩一天。我們從韓國開始,所有內容也都先在韓國實地確認。
+approved: 2026-11-26
 updated: 2026-11-25
 ---
 ## Nadri 想做的事

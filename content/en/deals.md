@@ -3,6 +3,7 @@ title: Korea deals board: sales on now and coming up
 description: Korean sales worth timing a trip around, sorted by what ends first, with public codes and a source for every entry.
 lede: Sorted by what ends first. Every entry links to its source, public codes copy in one tap, and dates that are only expected are marked as such.
 section: deals
+approved: 2026-11-26
 updated: 2026-11-24
 ---
 {{deals}}

@@ -23,3 +23,4 @@ updated: 2026-11-25
 
 {{codes}}
 
+<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">出国</div><div><h2 id="abroad-h">韓国から別の国へ行くなら、データはまずeSIMを確認</h2><p>スマホがeSIMに対応していてSIMロックもなければ、eSIMがいちばん楽です。どちらも設定メニューで2分あれば確認できます。<a href="/ja/abroad-esim/">確認のしかた</a></p></div></section>

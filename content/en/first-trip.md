@@ -3,6 +3,7 @@ title: Your first Seoul trip in 4 days: a plan you can actually follow
 description: A day-by-day skeleton for a first Seoul trip: arrival, palaces and old Seoul, one neighborhood, then departure. Closing days and hours checked November 2026.
 lede: Plan four days as three half-days and two full ones, and give each full day one area, not five. The most common first-trip mistake is a packed arrival day, so ours has almost nothing in it.
 section: seoul
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## The day this plan is built around

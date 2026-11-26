@@ -3,6 +3,7 @@ title: Daiso in Korea: six prices, what visitors buy, tax refunds
 description: Daiso Korea's six price points (₩500 to ₩5,000), its beauty shelf, the 12-floor Myeongdong Station store, and how the tax refund works there.
 lede: Daiso is a cheap one-stop shop for small souvenirs, travel fixes and budget skincare, because nothing costs more than ₩5,000. Go in with a list and one receipt in mind, and treat it as a supplement to Olive Young, not a replacement.
 section: shopping
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A Daiso run, start to finish

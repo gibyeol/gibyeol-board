@@ -3,6 +3,7 @@ title: Emergencies in Korea: who to call, what to do, and what to show a strange
 description: 112, 119 and 1330, plus the problems visitors actually run into: a phone left in a taxi, a lost passport, an overcharged fare, a night that goes wrong. With Korean phrases to show someone nearby. Checked November 2026.
 lede: Korea is an easy place to get help, if you know which number does what and have something to show the person next to you. Save three numbers, keep this page open, and most bad moments become a delay rather than a disaster.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## What it looks like in practice

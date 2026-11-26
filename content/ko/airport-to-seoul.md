@@ -4,6 +4,7 @@ description: 공항철도 직통·일반, 공항 리무진버스, 택시의 시�
 lede: 서울로 들어가는 '제일 좋은 방법'은 하나가 아니에요. 숙소에 제일 가깝게 내려 주는 게 정답이라, 숙소에서 거꾸로 고르는 게 맞다고 봐요.
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 한국에서의 첫 1시간

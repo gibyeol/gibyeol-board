@@ -3,6 +3,7 @@ title: Seoul to Busan: booking the KTX as a visitor, and Busan basics
 description: Where foreigners book the KTX, when tickets open, whether the Korail Pass pays off, and how to get around once you land in Busan. Checked November 2026.
 lede: For a simple Seoul–Busan round trip, buy two regular KTX tickets and skip the pass. The rail system changed a lot in 2026, so book in the app most locals use and do it early.
 section: transport
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your Busan day, from the platform

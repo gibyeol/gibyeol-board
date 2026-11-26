@@ -4,6 +4,7 @@ description: 首爾地鐵怎麼付款、怎麼儲值(現金)、轉乘公車的�
 lede: 我們的建議:第一次搭車前先準備一張T-money類的交通卡,每趟進站、出站都要嗶卡。第一天的問題幾乎都出在單程票、忘了出站嗶卡,或是錯過末班車。
 section: transport
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 第一次搭乘

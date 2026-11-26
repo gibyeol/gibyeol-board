@@ -4,6 +4,7 @@ description: AREX Express, AREX all-stop, airport bus or taxi: times, fares, whe
 lede: There is no single best way into Seoul. The right ride is the one that drops you closest to your bed, so start from the hotel and work backwards.
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first hour in Korea

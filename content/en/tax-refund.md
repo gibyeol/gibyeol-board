@@ -3,6 +3,7 @@ title: Tax refunds in Korea, explained
 description: Who qualifies, the ₩15,000 minimum, the ₩1 million and ₩5 million immediate-refund limits, and what you actually get back after fees.
 lede: Korea puts 10% VAT on almost everything. As a visitor you can get part of it back, usually right at the till, if you know three numbers and carry your actual passport.
 section: tax
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## The one-line judgment

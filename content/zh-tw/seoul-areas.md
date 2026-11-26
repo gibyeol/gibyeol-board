@@ -3,6 +3,7 @@ title: 首爾住哪一區?依旅行目的挑區域
 description: 明洞、弘大、首爾站、鍾路、東大門、聖水、江南,每一區適合誰、從仁川機場怎麼去、真正的缺點。
 lede: 第一次去首爾,住明洞、弘大或首爾站附近最省事。三區都能從機場一趟直達,先從這裡選,有明確理由再考慮別區。
 section: seoul
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 抵達那天,和最後一個早上
@@ -103,4 +104,4 @@ Korea Times 稱東大門是以東大門設計廣場為中心的「24 小時時�
 
 ## 資料來源
 
-<p class="sources">2026 年 11 月 26 日(韓國時間)開啟確認:Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026 年 6 月的時間、各區巴士路線);仁川機場 <a href="https://www.airport.kr/ap_ko/893/subview.do" rel="noopener" target="_blank">城市航站樓</a>(首爾站地下 2 樓、時間、截止、限直達車旅客)。到弘大入口的普通車票價依我們機場指南 2026 年 11 月 26 日查核的機場鐵路<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">票價頁</a>(Visit Seoul 寫「4,750 韓元起」)。未重新開啟,2026 年 11 月 25 日確認:仁川機場 <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">深夜巴士</a>;機場巴士公司 <a href="https://airportlimousine.co.kr/en/sub/sub01_01_city.php" rel="noopener" target="_blank">路線表</a>;Korea Herald 各區外國旅客與刷卡消費(2026 年 9 月 13 日);Korea Times 明洞大型店(2026 年 6 月 5 日)、東大門(2025 年 10 月 8 日)、萬聖節人潮(2026 年 10 月 31 日)、K-pop 場館(2026 年 9 月 15 日);亞洲經濟 Hip 支路(2025 年 12 月 3 日);Korea.net 聖水洞(2023 年 8 月 24 日)。</p>
+<p class="sources">2026 年 11 月 26 日(韓國時間)開啟確認:Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026 年 6 月的時間、各區巴士路線);仁川機場 <a href="https://www.airport.kr/" rel="noopener" target="_blank">城市航站樓</a> (airport.kr: ap_ko/893/subview.do)(首爾站地下 2 樓、時間、截止、限直達車旅客)。到弘大入口的普通車票價依我們機場指南 2026 年 11 月 26 日查核的機場鐵路<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">票價頁</a>(Visit Seoul 寫「4,750 韓元起」)。未重新開啟,2026 年 11 月 25 日確認:仁川機場 <a href="https://www.airport.kr/" rel="noopener" target="_blank">深夜巴士</a> (airport.kr: ap_en/1507/subview.do);機場巴士公司 <a href="https://airportlimousine.co.kr/en/sub/sub01_01_city.php" rel="noopener" target="_blank">路線表</a>;Korea Herald 各區外國旅客與刷卡消費(2026 年 9 月 13 日);Korea Times 明洞大型店(2026 年 6 月 5 日)、東大門(2025 年 10 月 8 日)、萬聖節人潮(2026 年 10 月 31 日)、K-pop 場館(2026 年 9 月 15 日);亞洲經濟 Hip 支路(2025 年 12 月 3 日);Korea.net 聖水洞(2023 年 8 月 24 日)。</p>

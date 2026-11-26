@@ -4,6 +4,7 @@ description: 電子入国申告書(e-Arrival Card)、K-ETA、eSIM、お金、交
 lede: 出発前に決めておきたい6つのことを、必要になる順に並べました。韓国の入国ルールはこの1年で何度も変わったので、すべて公式サイトにリンクしています。
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 準備が済んでいれば、到着後の最初の1時間

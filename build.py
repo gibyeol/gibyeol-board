@@ -52,13 +52,13 @@ def shortcode(line, lang):
         return codes_table(lang)
     if kind == "fig":
         # {{fig:name|caption}} → static/fig/<lang>/<name>.svg (language text) or static/fig/<name>.svg (no text)
-        for rel in (f"fig/{lang}/{key}.svg", f"fig/{key}.svg"):
+        for rel in [f"fig/{lang}/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")] + [f"fig/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")]:
             if (ROOT / "static" / rel).exists():
                 cap = inline(label) if label else ""
                 alt = html.escape(re.sub(r"\*\*|\[|\]\([^)]*\)", "", label or key))
                 return (f'<figure class="fig"><img src="/static/{rel}" alt="{alt}" loading="lazy" decoding="async">'
                         + (f"<figcaption>{cap}</figcaption>" if cap else "") + "</figure>")
-        raise SystemExit(f"missing figure: static/fig/{lang}/{key}.svg (or static/fig/{key}.svg)")
+        raise SystemExit(f"missing figure: static/fig/{lang}/{key}.(svg|webp|jpg|png) (or static/fig/{key}.*)")
     if kind == "aff":
         a = AFF.get(key, {})
         if not a.get("url"):
@@ -261,22 +261,23 @@ def autolink(body):
         parts[i] = part
     return "".join(parts)
 
-# ---------- A-Z hub: every guide, in the order of a trip ----------
+# ---------- A-Z hub: every guide, grouped by the situation you are in ----------
+# Same groups in every language: no split by who the reader is, only by what they need right now.
 GUIDE_GROUPS = [
-    (["first-trip", "seoul-areas", "winter"],
-     {"en": "Plan the trip", "ko": "여행 짜기", "ja": "旅の計画", "zh-tw": "規劃行程"}),
-    (["essentials", "e-arrival-card", "money", "everyday", "food", "health", "emergency"],
-     {"en": "Before you go", "ko": "출발 전", "ja": "出発前", "zh-tw": "出發前"}),
-    (["airport-to-seoul", "getting-around", "seoul-subway", "seoul-bus", "ktx-busan", "jeju"],
-     {"en": "Arriving and getting around", "ko": "도착하고 이동하기", "ja": "到着と移動", "zh-tw": "抵達與交通"}),
-    (["palaces", "concert-trip"],
-     {"en": "See and do", "ko": "보고 즐기기", "ja": "観光と楽しみ", "zh-tw": "景點與活動"}),
-    (["olive-young", "kbeauty-how-to-choose", "daiso", "shopping-streets", "tax-refund", "duty-free", "convenience-store", "skin-clinic", "deals"],
-     {"en": "Shopping and beauty", "ko": "쇼핑과 뷰티", "ja": "買い物と美容", "zh-tw": "購物與美容"}),
-    (["departure-day"],
-     {"en": "Going home", "ko": "돌아가는 날", "ja": "帰る日", "zh-tw": "回程"}),
-    (["abroad-esim"],
-     {"en": "Koreans going abroad", "ko": "해외로 나가는 한국인", "ja": "", "zh-tw": ""}),
+    (["essentials", "e-arrival-card", "money", "first-trip", "health"],
+     {"en": "Before you go", "ko": "출발 전 준비", "ja": "出発前の準備", "zh-tw": "出發前準備"}),
+    (["airport-to-seoul"],
+     {"en": "Arriving", "ko": "도착했을 때", "ja": "到着したら", "zh-tw": "抵達時"}),
+    (["getting-around", "seoul-subway", "seoul-bus", "ktx-busan", "jeju"],
+     {"en": "Getting around", "ko": "이동하기", "ja": "移動する", "zh-tw": "交通移動"}),
+    (["deals", "olive-young", "kbeauty-how-to-choose", "daiso", "shopping-streets", "convenience-store", "tax-refund", "duty-free", "skin-clinic"],
+     {"en": "Shopping and deals", "ko": "쇼핑과 할인", "ja": "買い物とセール", "zh-tw": "購物與特賣"}),
+    (["seoul-areas", "palaces", "food", "winter", "concert-trip", "everyday"],
+     {"en": "Travelling in Korea", "ko": "한국 안에서 여행하기", "ja": "韓国を旅する", "zh-tw": "在韓國旅行"}),
+    (["departure-day", "abroad-esim"],
+     {"en": "Flying out of Korea", "ko": "한국에서 출국할 때", "ja": "韓国から出国するとき", "zh-tw": "從韓國出境時"}),
+    (["emergency"],
+     {"en": "Emergencies", "ko": "응급 상황", "ja": "緊急時", "zh-tw": "緊急狀況"}),
 ]
 PAGES = {}
 
@@ -470,7 +471,10 @@ def page(lang, meta, body_html, path, alternates):
         body_html = f'<p class="disclosure">{ui["disclosure_inline"]}</p>' + body_html
     byline = ""
     if not meta.get("home") and meta.get("updated") and meta.get("byline") != "no":
-        byline = f'<p class="byline">{ui["byline"].format(date=meta["updated"])}</p>'
+        # "approved by an editor" only when the owner approved this version: `approved:` date >= `updated:` date.
+        # Anyone who edits a page after approval removes `approved:` (see drafts/BRIEF-access.md).
+        key = "byline" if meta.get("approved") and meta["approved"] >= meta["updated"] else "byline_pending"
+        byline = f'<p class="byline">{ui[key].format(date=meta["updated"])}</p>'
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
     header_block = "" if meta.get("home") else f"<header class=\"page-head\"><h1>{inline(title)}</h1>{lede}{byline}</header>"
     return f"""<!doctype html>
@@ -548,7 +552,7 @@ def build():
             pages[(lang, f.stem)] = (meta, body)
     PAGES.update(pages)
     # Rule: every shared page exists in every language. A page written for one audience only
-    # (e.g. Korean travellers going abroad) says so with `only: ko` and is exempt.
+    # says so with `only: <lang>` and is exempt.
     only = {s: m["only"] for (l, s), (m, _) in pages.items() if m.get("only")}
     bad = sorted(f"content/{l}/{s}.md (only: {only[s]})" for (l, s) in pages if s in only and l != only[s])
     if bad:

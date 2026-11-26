@@ -3,6 +3,7 @@ title: Korean convenience stores: what visitors actually use them for
 description: T-money, hot packs, late-night ramyeon, 1+1 deals, paying by card, tax refunds and the age rule for beer, at CU, GS25, 7-Eleven and emart24.
 lede: The convenience store is the most useful shop on your trip: your transport card, a hot pack and a midnight meal are all at the corner. It is not the best place for every purchase, and below we say which ones to make elsewhere.
 section: shopping
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Three visits on a first trip

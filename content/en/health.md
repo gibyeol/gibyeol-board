@@ -3,6 +3,7 @@ title: Getting sick in Korea: pharmacies, convenience-store medicine, clinics an
 description: Where to get cold medicine at night, how to find an open pharmacy, seeing a doctor without Korean insurance, 119 and 1339, and bringing your own meds. Checked November 2026.
 lede: Most travel illnesses in Korea are solved at a pharmacy, a 24-hour convenience store or a small neighborhood clinic, in that order. Save the big hospitals for emergencies or when you need English-speaking help with a booking.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 This page is practical help for finding care, not medical advice. If you are unsure how serious something is, call 1339 (below) or 119.

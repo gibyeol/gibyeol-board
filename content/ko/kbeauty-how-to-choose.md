@@ -1,6 +1,6 @@
 ---
 title: 한국에서 화장품 고르는 법, 유행 말고 라벨로
-description: 외국인 친구에게 알려 줄 30초 라벨 읽기, 일정에 맞는 SPF·PA, 향료 알레르기 성분, 의약품 같은 광고 거르기, 기내 반입까지.
+description: 30초 라벨 읽기, 일정에 맞는 SPF·PA, 향료 알레르기 성분, 의약품 같은 광고 거르기, 기내 반입까지.
 lede: 랭킹보다 상자 뒷면이 더 많은 걸 알려 줘요. 기능성 표시, SPF·PA, 전성분 세 가지만 보면 유행 목록보다 정확하고 30초면 끝나요.
 section: shopping
 updated: 2026-11-26
@@ -18,7 +18,7 @@ updated: 2026-11-26
 | 향료에 피부가 예민해요 | 전성분에서 '향료'와 알레르기 유발 성분 이름 확인 | 일정 함량을 넘으면 성분 이름을 따로 적어야 해요 |
 | '세포재생' '항염' '바르는 보톡스' 광고 | 내려놓기 | 식약처가 화장품에 쓰면 불법이라고 밝힌 표현이에요 |
 
-외국인 친구나 가족이 한국에서 화장품을 고를 때, 한국어 라벨을 대신 읽어 줄 수 있는 건 한국어 독자예요. 이미 살 제품이 정해져 있고 싼 시기만 궁금하다면 [올리브영 페이지](/ko/olive-young/)와 [특가 게시판](/ko/deals/)을 보세요.
+한국에서 화장품을 고를 때 한국어 라벨에서 어디를 보면 되는지 정리했어요. 이미 살 제품이 정해져 있고 싼 시기만 궁금하다면 [올리브영 페이지](/ko/olive-young/)와 [특가 게시판](/ko/deals/)을 보세요.
 
 ## 가기 전에: 사람마다 한 줄
 
@@ -26,7 +26,7 @@ updated: 2026-11-26
 
 1. **무엇을 원하나요:** 자외선 차단, 미백·주름, 아니면 향료 피하기. 어떤 라벨을 확인할지가 정해져요.
 2. **그 사람의 하루:** 도시 산책인지, 강한 햇빛 아래 긴 시간인지. 그게 찾을 SPF·PA예요.
-3. **언제, 어디서:** 올영세일 달력은 [올리브영 페이지](/ko/olive-young/)에 있어요. 저렴하게 사려면 다이소 전용 라인과 작은 용량을 파는 [다이소](/ko/daiso/), 어디서 살지는 [명동·성수·홍대 고르는 법](/ko/shopping-streets/)을 보세요. 외국인 친구라면 여권을 챙겨 [즉시 환급](/ko/tax-refund/)을 받으세요.
+3. **언제, 어디서:** 올영세일 달력은 [올리브영 페이지](/ko/olive-young/)에 있어요. 저렴하게 사려면 다이소 전용 라인과 작은 용량을 파는 [다이소](/ko/daiso/), 어디서 살지는 [명동·성수·홍대 고르는 법](/ko/shopping-streets/)을 보세요. 외국인 관광객이라면 여권을 챙겨 [즉시 환급](/ko/tax-refund/)을 받으세요.
 
 ## 30초 라벨 읽기
 
@@ -102,4 +102,4 @@ updated: 2026-11-26
 
 ## 출처
 
-<p class="sources">2026년 11월 26일(한국 시간) 직접 열어 확인: <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%99%94%EC%9E%A5%ED%92%88%EB%B2%95" rel="noopener" target="_blank">화장품법</a> 제2조·제4조·제10조제1항제8호(국가법령정보센터, 2026년 10월 20일 시행본); <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%99%94%EC%9E%A5%ED%92%88%EB%B2%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">화장품법 시행규칙</a> 제19조·별표 4(국가법령정보센터); 식약처 고시 <a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%ED%99%94%EC%9E%A5%ED%92%88%EC%82%AC%EC%9A%A9%ED%95%A0%EB%95%8C%EC%9D%98%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD%EB%B0%8F%EC%95%8C%EB%A0%88%EB%A5%B4%EA%B8%B0%EC%9C%A0%EB%B0%9C%EC%84%B1%EB%B6%84%ED%91%9C%EC%8B%9C%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">「화장품 사용할 때의 주의사항 및 알레르기 유발성분 표시에 관한 규정」</a> 별표 2(제2026-56호, 2026년 8월 5일); 식약처 고시 <a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EA%B8%B0%EB%8A%A5%EC%84%B1%ED%99%94%EC%9E%A5%ED%92%88%EC%8B%AC%EC%82%AC%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">「기능성화장품 심사에 관한 규정」</a> SPF·PA 표시 기준·별표 3(국가법령정보센터); 정책브리핑(korea.kr) 식약처 <a href="https://www.korea.kr/news/policyNewsView.do?newsId=148965990" rel="noopener" target="_blank">「자외선차단제, 제대로 발라야 효과↑…올바른 사용법은?」</a>(2026년 6월 5일)·<a href="https://www.korea.kr/multi/mediaNewsView.do?newsId=148961262" rel="noopener" target="_blank">「식약처에 보고된 기능성 화장품인지 확인 후 구매 필수!」</a>(2026년 3월 23일); 정책브리핑 게재 식약처 보도자료 <a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156678582" rel="noopener" target="_blank">2025년 3월 13일</a>(바르는 보톡스 등 144건)·<a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156644929" rel="noopener" target="_blank">2024년 8월 8일</a>(마이크로니들 82건); 인천국제공항 <a href="https://www.airport.kr/ap_en/1433/subview.do" rel="noopener" target="_blank">반입 제한 물품</a>·<a href="https://www.airport.kr/ap_en/1468/subview.do" rel="noopener" target="_blank">환승 보안검색</a>·<a href="https://www.airport.kr/ap_en/1434/subview.do" rel="noopener" target="_blank">반입 제한 물품 FAQ</a>(airport.kr).</p>
+<p class="sources">2026년 11월 26일(한국 시간) 직접 열어 확인: <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%99%94%EC%9E%A5%ED%92%88%EB%B2%95" rel="noopener" target="_blank">화장품법</a> 제2조·제4조·제10조제1항제8호(국가법령정보센터, 2026년 10월 20일 시행본); <a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%ED%99%94%EC%9E%A5%ED%92%88%EB%B2%95%EC%8B%9C%ED%96%89%EA%B7%9C%EC%B9%99" rel="noopener" target="_blank">화장품법 시행규칙</a> 제19조·별표 4(국가법령정보센터); 식약처 고시 <a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%ED%99%94%EC%9E%A5%ED%92%88%EC%82%AC%EC%9A%A9%ED%95%A0%EB%95%8C%EC%9D%98%EC%A3%BC%EC%9D%98%EC%82%AC%ED%95%AD%EB%B0%8F%EC%95%8C%EB%A0%88%EB%A5%B4%EA%B8%B0%EC%9C%A0%EB%B0%9C%EC%84%B1%EB%B6%84%ED%91%9C%EC%8B%9C%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">「화장품 사용할 때의 주의사항 및 알레르기 유발성분 표시에 관한 규정」</a> 별표 2(제2026-56호, 2026년 8월 5일); 식약처 고시 <a href="https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EA%B8%B0%EB%8A%A5%EC%84%B1%ED%99%94%EC%9E%A5%ED%92%88%EC%8B%AC%EC%82%AC%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%A0%95" rel="noopener" target="_blank">「기능성화장품 심사에 관한 규정」</a> SPF·PA 표시 기준·별표 3(국가법령정보센터); 정책브리핑(korea.kr) 식약처 <a href="https://www.korea.kr/news/policyNewsView.do?newsId=148965990" rel="noopener" target="_blank">「자외선차단제, 제대로 발라야 효과↑…올바른 사용법은?」</a>(2026년 6월 5일)·<a href="https://www.korea.kr/multi/mediaNewsView.do?newsId=148961262" rel="noopener" target="_blank">「식약처에 보고된 기능성 화장품인지 확인 후 구매 필수!」</a>(2026년 3월 23일); 정책브리핑 게재 식약처 보도자료 <a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156678582" rel="noopener" target="_blank">2025년 3월 13일</a>(바르는 보톡스 등 144건)·<a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156644929" rel="noopener" target="_blank">2024년 8월 8일</a>(마이크로니들 82건); 인천국제공항 <a href="https://www.airport.kr/" rel="noopener" target="_blank">반입 제한 물품</a> (airport.kr: ap_en/1433/subview.do)·<a href="https://www.airport.kr/" rel="noopener" target="_blank">환승 보안검색</a> (airport.kr: ap_en/1468/subview.do)·<a href="https://www.airport.kr/" rel="noopener" target="_blank">반입 제한 물품 FAQ</a> (airport.kr: ap_en/1434/subview.do)(airport.kr).</p>

@@ -2,6 +2,7 @@
 title: 著作權與引用
 description: 可以從 Nadri 引用什麼、請不要整篇轉載什麼,以及發現抄襲時怎麼告訴我們。
 lede: 我們希望 Nadri 被分享出去,只希望讀的人最後能回到原文,因為那裡的資訊會一直保持最新。
+approved: 2026-11-26
 updated: 2026-11-25
 report: no
 byline: no

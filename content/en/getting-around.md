@@ -3,6 +3,7 @@ title: Getting around Seoul: subway, bus and taxi without the confusion
 description: How to ride Seoul's subway and buses, what fares cost, how to get back after the last train, and which taxi app takes your foreign card. Checked 26 November 2026.
 lede: Our call: the subway does most of the work, buses fill the gaps once you trust the tap-off rule, and a taxi app is your late-night plan B. Load a transport card before your first ride and almost nothing here can go wrong.
 section: transport
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first ride

@@ -3,6 +3,7 @@ title: Visiting a Korean skin clinic as a tourist
 description: Booking order, three checks you can do yourself, where to get help in your language, and what changed in 2026 (the VAT refund ended).
 lede: We do not recommend clinics or procedures. We show the checks anyone can do before booking, because the official tools exist and most visitors never use them.
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 > This page is about process, not medicine. We name no clinics, quote no prices and make no promises about results or safety. Medical decisions are between you and a doctor.

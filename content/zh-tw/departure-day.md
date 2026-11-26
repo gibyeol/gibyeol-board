@@ -3,6 +3,7 @@ title: 韓國旅行最後一天:準時到仁川、退稅、行動電源、剩下
 description: 要提早幾小時到仁川、哪個航廈、首爾站預辦登機、機場退稅、免稅品提貨、2026 年行動電源規定、液體、剩下的韓元。2026 年 11 月確認。
 lede: 起飛前 3 小時到仁川;如果航空公司可以,先在首爾站把行李託運掉。最後一天的壓力多半來自三件事:跑錯航廈、忘了退稅、行動電源放錯包。
 section: essentials
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 最後一個早上
@@ -100,4 +101,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources">2026 年 11 月 26 日(韓國時間)開啟確認:仁川國際機場 <a href="https://www.airport.kr/ap_en/1413/subview.do" rel="noopener" target="_blank">出境流程</a>(步驟順序、出境審查後不能折返、各區登機門號碼、登機前 30~40 分鐘到登機門、各航廈航空公司)與 <a href="https://www.airport.kr/ap_ko/893/subview.do" rel="noopener" target="_blank">城市航站樓</a>(首爾站地下 2 樓、時間、截止、直達車旅客、當天仁川出發、3 樓專用出境通道);Korea.net <a href="https://www.korea.net/NewsFocus/policies/view?articleId=290372" rel="noopener" target="_blank">4 月 20 日起的行動電源限制</a>(2026 年 4 月 8 日)。免稅品提貨處同我們的<a href="/zh-tw/duty-free/">免稅店指南</a>(現代、新羅頁面 2026 年 11 月 26 日確認)。未重新開啟,2026 年 11 月 25 日確認:仁川機場城市航站樓 18:50 停止受理(這次開啟的頁面只寫 05:20~19:00)、抵達時間與登機 FAQ、預估擁擠度、退稅、禁止攜帶物品;首爾市 Mediahub 首爾站城市航站樓(2025 年 3 月 6 日);大韓航空、韓亞城市航站樓報到頁;世界日報(整修 2026 年 8 月 3 日、中秋建議 2026 年 9 月 22 日);Wikitree(韓亞搬到第 2 航廈 2026 年 1 月 14 日);Newsis(禁放置物櫃與絕緣膠帶 2025 年 8 月 27 日);Time Out(韓國航空公司禁止機上使用 2026 年 1 月 26 日)。</p>
+<p class="sources">2026 年 11 月 26 日(韓國時間)開啟確認:仁川國際機場 <a href="https://www.airport.kr/" rel="noopener" target="_blank">出境流程</a> (airport.kr: ap_en/1413/subview.do)(步驟順序、出境審查後不能折返、各區登機門號碼、登機前 30~40 分鐘到登機門、各航廈航空公司)與 <a href="https://www.airport.kr/" rel="noopener" target="_blank">城市航站樓</a> (airport.kr: ap_ko/893/subview.do)(首爾站地下 2 樓、時間、截止、直達車旅客、當天仁川出發、3 樓專用出境通道);Korea.net <a href="https://www.korea.net/NewsFocus/policies/view?articleId=290372" rel="noopener" target="_blank">4 月 20 日起的行動電源限制</a>(2026 年 4 月 8 日)。免稅品提貨處同我們的<a href="/zh-tw/duty-free/">免稅店指南</a>(現代、新羅頁面 2026 年 11 月 26 日確認)。未重新開啟,2026 年 11 月 25 日確認:仁川機場城市航站樓 18:50 停止受理(這次開啟的頁面只寫 05:20~19:00)、抵達時間與登機 FAQ、預估擁擠度、退稅、禁止攜帶物品;首爾市 Mediahub 首爾站城市航站樓(2025 年 3 月 6 日);大韓航空、韓亞城市航站樓報到頁;世界日報(整修 2026 年 8 月 3 日、中秋建議 2026 年 9 月 22 日);Wikitree(韓亞搬到第 2 航廈 2026 年 1 月 14 日);Newsis(禁放置物櫃與絕緣膠帶 2025 年 8 月 27 日);Time Out(韓國航空公司禁止機上使用 2026 年 1 月 26 日)。</p>

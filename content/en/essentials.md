@@ -4,6 +4,7 @@ description: e-Arrival Card, K-ETA, mobile data, money, transport cards and the 
 lede: Six things to settle before your flight, in the order you will need them. Each one links to the official source, because Korea's entry rules have changed more than once in the last year.
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first hour, if these are done

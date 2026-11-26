@@ -4,6 +4,7 @@ description: 전자입국신고서(e-Arrival Card), K-ETA, 모바일 데이터, 
 lede: 비행기 타기 전에 정해 둘 여섯 가지를 필요한 순서대로 정리했어요. 한국 입국 규정이 지난 1년 사이 여러 번 바뀌었기 때문에, 항목마다 공식 출처 링크를 달았어요.
 section: essentials
 disclosure: yes
+approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 이것만 해 두면, 도착 후 첫 한 시간
