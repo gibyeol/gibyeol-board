@@ -19,7 +19,33 @@
   "attribution": "Photo: PaulGorduiz106, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, logo blurred, auto-contrast, red box and number 1 added)",
   "share_alike": true,
   "retrieved": "2026-11-26",
-  "used_on": ["winter-light-puffer (ko)"],
-  "note": "Not a Korean store and not confirmed to be a lightweight puffer; caption says it only shows the shape. BY-SA: the modified image must stay under CC BY-SA 4.0 with attribution."
+  "used_on": [
+   "winter-light-puffer (ko)"
+  ],
+  "note": "Not a Korean store and not confirmed to be a lightweight puffer; caption says it only shows the shape. BY-SA: the modified image must stay under CC BY-SA 4.0 with attribution. 2026-11-26 16:3x: no longer used on the prototype page."
+ },
+ {
+  "file": "static/photo/seoul-snow-gyeongbokgung.webp",
+  "subject": "Gyeonghoeru, Gyeongbokgung, in heavy snow (Seoul, 2012-12-05)",
+  "source_site": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Korea_Seoul_Snow_09.jpg",
+  "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "license_checked_on": "file page metadata (extmetadata LicenseShortName) 2026-11-26",
+  "original_date": "2012-12-05 14:03:34",
+  "modifications": [
+   "960px thumbnail cropped to a wide band (Korea.net watermark cut out)",
+   "auto-contrast",
+   "resized to 780x236",
+   "converted to WebP q80"
+  ],
+  "attribution": "Photo: Korea.net / Korean Culture and Information Service (Jeon Han), CC BY-SA 2.0, via Wikimedia Commons (cropped, auto-contrast)",
+  "share_alike": true,
+  "retrieved": "2026-11-26",
+  "used_on": [
+   "drafts/prototype/winter-light-puffer (ko): background of the +718% hero tile"
+  ],
+  "note": "Mood photo (where you'd wear it), shows no puffer. Unsplash (bot wall), Pexels (403) and Photo Korea search (403) were not usable today; no licensed photo of people wearing light puffers was found."
  }
 ]

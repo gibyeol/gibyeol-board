@@ -1,0 +1,16 @@
+# Data plan: light puffer (`kw-light-puffer`) — 2026-11-26
+
+Rule: each fact has a source opened today, a date, and certainty (확실 = official company or brand page, 경향 = press report, 추론 = Nadri). Never bypass a block. musinsa.com content read through the headless browser stays HELD (drafts/prototype/held-musinsa.md), and musinsa.com is not accessed.
+
+| What the page needs | Source (allowed today) | How to collect | Refresh | Status today |
+|---|---|---|---|---|
+| Trend evidence | Korea Herald 10908829 (2026-10-20, numbers) and 10946254 (2026-11-23, no numbers) | curl + text extract (already in data/shop-trends.json: f-lightpuffer-718/core/pastel) | weekly news search; add only articles opened | 2 articles. Only 10/20 has numbers |
+| Ranking / comparison table | Official brand product pages: Uniqlo KR (3 items), Arc'teryx US (1 item); press: Korea Herald sell-outs (4 items) | open the product page in a normal browser at 1280×800; copy price, rating, review count, fill composition, fit tag, sale status; no images | weekly, and on each sale start | Collected (below). No cross-platform sales ranking: the Musinsa and 29CM rankings are bot-blocked |
+| Brand features | same product pages (official wording) + Korea Herald | quote short official phrases (fit, inner/outer use, packable) | with the table | Collected |
+| Prices, fill, weight | official product pages only | as above | weekly | Uniqlo: price, fill %, fit; **no weight or fill power on the KR pages**. Arc'teryx: price USD, 850 fill, 338 g. NB/TNF/MLB/Musinsa Standard: official sites not reachable → price only from Korea Herald (Musinsa Standard 10만 원대) |
+| Sales + D-day | data/deals.json (deals board; sources etnews, Esquire, zdnet) + sale tags on official pages ("기간한정가격", "가격인하"; Arc'teryx banner) | read json; page uses `.codes tr[data-start][data-end]` so site.js keeps D-day live and hides ended rows | daily (deals board) | uniqlo-bf to 11/27, musinsa-bf to 12/02, spao/topten/dept; Uniqlo tags seen today |
+| Codes | brand or platform official notices only | deals board → re-check on the official page | daily | Musinsa offline codes HELD. No other light-puffer code found today |
+| Colour combinations | a fashion source that states the combination | quote the combination; draw flat colour blocks only for named colours | with trend articles | Only Korea Herald 10/20 (lavender puffer + brown-toned pieces; gray puffer + track pants + loafers) and 11/23 (pastel puffer + sweatpants; ankle socks + flats/loafers). Thin: 1 combo has both colours named |
+| Size conversion | official brand size charts (Uniqlo KR body chart + garment chart); korea.kr shoe chart (shoes only); KS K 0050/0051 (standard.go.kr not reachable) | open the "사이즈 안내" modal on the product page; copy the table | per season | Uniqlo body chest chart (S 80–88 … 4XL 128–136) and ULD garment chart collected. KS standard not reachable |
+| Example photos (mood) | Wikimedia Commons (Unsplash bot wall, Pexels 403, Photo Korea search 403) | Commons API, slow (rate limited); check the licence on the file page | as found | see drafts/photos-fashion.json |
+| Where to buy | official product URLs above; platform home pages | plain links, no affiliate | with the table | Uniqlo KR product URLs, Arc'teryx URL, musinsa.com (home) |

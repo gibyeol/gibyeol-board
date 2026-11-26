@@ -355,6 +355,34 @@
    "checked": "2026-11-26",
    "title": "다이소몰, ‘신한 SOL페이 프로모션’ 진행",
    "excerpt_file": "staging/shop-trends-2026-11-26/daiso-124786.txt"
+  },
+  "uq-kr-uld-m": {
+   "url": "https://www.uniqlo.com/kr/ko/products/E470067-000/00",
+   "publisher": "UNIQLO KR (official product page)",
+   "published": null,
+   "checked": "2026-11-26",
+   "title": "남성 울트라라이트다운재킷"
+  },
+  "uq-kr-ldv": {
+   "url": "https://www.uniqlo.com/kr/ko/products/E492179-000/00",
+   "publisher": "UNIQLO KR (official product page)",
+   "published": null,
+   "checked": "2026-11-26",
+   "title": "젠더리스 라이트다운볼륨재킷"
+  },
+  "uq-kr-ptc-m": {
+   "url": "https://www.uniqlo.com/kr/ko/products/E486819-000/00",
+   "publisher": "UNIQLO KR (official product page)",
+   "published": null,
+   "checked": "2026-11-26",
+   "title": "남성 PUFFTECH컴팩트재킷"
+  },
+  "arc-cerium-us": {
+   "url": "https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521",
+   "publisher": "Arc'teryx US (official product page)",
+   "published": null,
+   "checked": "2026-11-26",
+   "title": "Cerium Hoody Men's"
   }
  },
  "keywords": [
@@ -378,7 +406,8 @@
    "fact_ids": [
     "f-lightpuffer-718",
     "f-lightpuffer-core",
-    "f-lightpuffer-pastel"
+    "f-lightpuffer-pastel",
+    "f-lightpuffer-colors-kh"
    ],
    "style_ko": "짧고 가벼운 다운·패딩. 올해는 허리선 있는 입체 실루엣, 넉넉한 어깨, 오트밀·포그 그레이·파스텔. 가을엔 단독 외투, 한겨울엔 코트 안 레이어드(kh-puffers, kh-fur-collars)",
    "ranking_ids": [
@@ -389,7 +418,11 @@
     "i-musinsa-std-cityleisure",
     "i-nb-flying77",
     "i-tnf-ventuson",
-    "i-mlb-curveairshell"
+    "i-mlb-curveairshell",
+    "i-uq-uld-m",
+    "i-uq-ldv",
+    "i-uq-ptc-m",
+    "i-arc-cerium"
    ],
    "brand_ids": [
     "b-musinsa-standard",
@@ -397,7 +430,8 @@
     "b-northface",
     "b-mlb",
     "b-musinsa",
-    "b-uniqlo"
+    "b-uniqlo",
+    "b-arcteryx"
    ],
    "deal_ids": [
     "musinsa-bf",
@@ -413,7 +447,9 @@
    "benefit_ids": [],
    "platform_ids": [
     "p-musinsa",
-    "p-newbalance-kr"
+    "p-newbalance-kr",
+    "p-uniqlo-kr",
+    "p-arcteryx-us"
    ],
    "image_note": "상품 사진은 쇼핑몰·브랜드 이미지 쓰지 않음. 스타일 설명용은 CC0/CC BY 실사 또는 Nadri 일러스트, 출처 표기",
    "status": "partial"
@@ -1786,6 +1822,13 @@
    "certainty": "tendency",
    "source": "kh-musinsa-beauty",
    "segment": "무신사 발표: 한국인/외국인 고객"
+  },
+  {
+   "id": "f-lightpuffer-colors-kh",
+   "ko": "코디 예(기사): 라벤더 경량 패딩 + 브라운 톤 아이템(로맨틱), 그레이 경량 패딩 + 트랙 팬츠 + 로퍼(10/20); 파스텔 경량 패딩 + 트레이닝 바지, 발목 양말 + 플랫·로퍼(11/23)",
+   "certainty": "tendency",
+   "source": "kh-puffers+kh-fur-collars",
+   "checked": "2026-11-26"
   }
  ],
  "rankings": [
@@ -2863,6 +2906,186 @@
    },
    "source": "cj-oy-sept-sale",
    "note": ""
+  },
+  {
+   "id": "i-uq-uld-m",
+   "name": "유니클로 남성 울트라라이트다운재킷",
+   "brand": "b-uniqlo",
+   "category": "fashion/outer",
+   "price_krw": 99900,
+   "rating": 4.4,
+   "reviews": 119,
+   "fill": "솜털 90%, 깃털 10% (몸판)",
+   "fit": "보통 핏(레귤러)",
+   "status_today": "12월 중순 판매예정 (온라인, 2026-11-26 확인)",
+   "notes": [
+    "아우터로는 물론 다른 아우터의 이너로도 착용 가능한 레귤러 핏",
+    "포켓터블(수납 파우치)",
+    "손세탁만, 드라이클리닝·건조기 불가",
+    "XXL~4XL은 온라인 전용"
+   ],
+   "size_chart_garment_cm": {
+    "XS": [
+     60,
+     42.5,
+     51,
+     82.5
+    ],
+    "S": [
+     62,
+     44,
+     54,
+     84
+    ],
+    "M": [
+     64,
+     45.5,
+     57,
+     86.5
+    ],
+    "L": [
+     66,
+     47,
+     60,
+     89
+    ],
+    "XL": [
+     69,
+     49,
+     64,
+     91.5
+    ],
+    "XXL": [
+     70,
+     51,
+     68,
+     92.5
+    ],
+    "3XL": [
+     71,
+     53,
+     72,
+     93.5
+    ],
+    "4XL": [
+     72,
+     55,
+     76,
+     94.5
+    ]
+   },
+   "size_chart_cols": [
+    "전체 길이",
+    "어깨너비",
+    "가슴너비",
+    "등 중심~소매"
+   ],
+   "where_to_buy": {
+    "online_kr": [
+     "p-uniqlo-kr"
+    ],
+    "basis": "official product page"
+   },
+   "source": "uq-kr-uld-m",
+   "checked": "2026-11-26",
+   "certainty": "certain"
+  },
+  {
+   "id": "i-uq-ldv",
+   "name": "유니클로 젠더리스 라이트다운볼륨재킷",
+   "brand": "b-uniqlo",
+   "category": "fashion/outer",
+   "price_krw": 129000,
+   "rating": 4.9,
+   "reviews": 20,
+   "fill": "솜털 85%, 깃털 15% (재사용 우모)",
+   "fit": "여유있는 핏(오버사이즈)",
+   "status_today": "장바구니 담기 가능 (2026-11-26)",
+   "size_chart_body_chest_cm": {
+    "S": [
+     80,
+     88
+    ],
+    "M": [
+     88,
+     96
+    ],
+    "L": [
+     96,
+     104
+    ],
+    "XL": [
+     104,
+     112
+    ],
+    "XXL": [
+     112,
+     120
+    ],
+    "3XL": [
+     120,
+     128
+    ],
+    "4XL": [
+     128,
+     136
+    ]
+   },
+   "where_to_buy": {
+    "online_kr": [
+     "p-uniqlo-kr"
+    ],
+    "basis": "official product page"
+   },
+   "source": "uq-kr-ldv",
+   "checked": "2026-11-26",
+   "certainty": "certain"
+  },
+  {
+   "id": "i-uq-ptc-m",
+   "name": "유니클로 남성 PUFFTECH컴팩트재킷",
+   "brand": "b-uniqlo",
+   "category": "fashion/outer",
+   "price_krw": 79900,
+   "rating": 4.9,
+   "reviews": 37,
+   "fill": "폴리에스터 80%, 재생 폴리에스터 20% (합성 충전재)",
+   "fit": "슬림 핏",
+   "status_today": "장바구니 담기 가능 (2026-11-26)",
+   "notes": [
+    "가볍고 따뜻하게 착용할 수 있는 경량 재킷 (공식 설명)"
+   ],
+   "where_to_buy": {
+    "online_kr": [
+     "p-uniqlo-kr"
+    ],
+    "basis": "official product page"
+   },
+   "source": "uq-kr-ptc-m",
+   "checked": "2026-11-26",
+   "certainty": "certain"
+  },
+  {
+   "id": "i-arc-cerium",
+   "name": "아크테릭스 세륨 후디(남성, 미국 공식몰)",
+   "brand": "b-arcteryx",
+   "category": "fashion/outer",
+   "price_usd": 400,
+   "rating": 3.86,
+   "reviews": 278,
+   "fill": "850 필 유럽산 화이트 구스다운(+습기 부위 Coreloft 합성)",
+   "weight_g": 338,
+   "fit": "Fitted (레이어링용 슬림)",
+   "status_today": "미국 공식몰 블랙프라이데이 최대 40% (12/1까지, 사이트 배너; 이 제품 할인 여부 미확인)",
+   "where_to_buy": {
+    "online_global": [
+     "p-arcteryx-us"
+    ],
+    "basis": "official product page"
+   },
+   "source": "arc-cerium-us",
+   "checked": "2026-11-26",
+   "certainty": "certain"
   }
  ],
  "brands": [
@@ -3660,6 +3883,26 @@
     "url": null,
     "note": "robots.txt는 ClaudeBot 등 차단, 본문 403 captcha. 위 품목 판매 미확인"
    }
+  },
+  {
+   "id": "p-uniqlo-kr",
+   "name": "유니클로 온라인스토어(한국)",
+   "type": "online_kr+offline",
+   "who_can_use": "누구나(배송 지역은 사이트 기준)",
+   "affiliate": {
+    "status": "unverified",
+    "url": null
+   }
+  },
+  {
+   "id": "p-arcteryx-us",
+   "name": "Arc'teryx US 공식 온라인",
+   "type": "online_global",
+   "who_can_use": "누구나(배송 지역은 사이트 기준)",
+   "affiliate": {
+    "status": "unverified",
+    "url": null
+   }
   }
  ],
  "platform_coverage": [
@@ -3815,6 +4058,7 @@
   "백화점 세일·쿠팡 가전 블프·유니클로/스파오 블프에서 실제로 많이 팔린 품목: 해당 보도 사이트가 이 환경 프록시에서 차단 → 미확인",
   "라운드랩 자작나무 수분 선크림 '2025 어워즈 선케어 1위' 및 소비자원 지적 보도: 검색 결과에만 보였고 원문(insight.co.kr, 소비자원) 열지 못해 데이터에 넣지 않음",
   "무신사 키워드 쿠폰 코드: 11/24 확인분, 오늘 재확인 못 함",
-  "상품별 해외 판매처(Amazon·YesStyle·Stylevana): 오늘 연 페이지로 확인된 것 없음 → 비움"
+  "상품별 해외 판매처(Amazon·YesStyle·Stylevana): 오늘 연 페이지로 확인된 것 없음 → 비움",
+  "경량 패딩: 유니클로 KR 상품 페이지에 필파워·무게 표기 없음(매거진 페이지는 Access Denied). NB·TNF·MLB·무신사 스탠다드 공식몰은 이 환경에서 접속 불가 → 사양·가격 미수집. COS·Zara 403. KS K 0050/0051 원문(standard.go.kr) 접속 불가."
  ]
 }

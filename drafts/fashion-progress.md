@@ -56,3 +56,11 @@ Scope changed 3 times today; current scope = coordinator 15:3x: ONE prototype st
 5. "8월에 이미 많이 샀다" marked as Nadri 해석.
 6. All facts read from musinsa.com via headless browser removed from the page and kept verbatim in drafts/prototype/held-musinsa.md (codes, MD's Pick 11/11, 아우터 대전 40%, cart coupon 10%, archive sale, store list, ~2cm note, "입어 봐야 안다"). The page now says "무신사 공식 공지에서 확인" with a plain link. musinsa.com not accessed again.
 Scratch build (stand-in translations) OK; screenshot: /tmp/claude-0/-home-user/7eb4ec94-764c-5989-af23-6a2e9e40b53c/scratchpad/fashion/ko_winter-light-puffer-full.png
+
+## Rebuild from references (owner 16:2x "다시 필요 레퍼런스를 조사하고 데이터 수집 방법을 찾아서 …") — 16:33 KST
+- Step 1 drafts/prototype/references.md (Uniqlo KR and Arc'teryx loaded; COS, Zara and the Uniqlo magazine returned 403/Access Denied and were skipped; Patagonia and Nike gave error pages). Study screenshots are in scratchpad/fashion/ref/ and are not published.
+- Step 2 drafts/prototype/data-plan.md.
+- Step 3 data/shop-trends.json: 4 items (i-uq-uld-m, i-uq-ldv, i-uq-ptc-m, i-arc-cerium), 4 sources, 2 platforms, fact f-lightpuffer-colors-kh, gap note.
+- Step 4 drafts/prototype/winter-light-puffer.md + drafts/prototype/proto.css. The page includes the CSS with one raw line, `<link rel="stylesheet" href="/static/proto.css">`. The preview copied proto.css to static/ in a scratch build only. To publish, copy it to static/ or merge it into style.css. Old drawings are removed from the page; the drawing files are left as committed (not deleted).
+- Owner-provided Musinsa BF tally used as cited: "무신사 무진장 26 겨울 블프 집계, 2026-11-26 16:25 기준(원두 확인)". Ranks 2–4 are not filled in. The screenshot image is not used.
+- Screens: scratchpad/fashion/pc_1280x800.png (hook, sale strip, stats, table, size scale, ranking bars and colour blocks all inside 1280×800), m390_first.png, m390_full.png.

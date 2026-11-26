@@ -1,0 +1,73 @@
+/* Prototype styles for drafts/prototype/winter-light-puffer.md. Everything is scoped under .story / .story-more.
+   Included on the page by one raw line: <link rel="stylesheet" href="/static/proto.css">
+   (for the preview the file is copied to static/proto.css in a scratch build; to publish, copy it to static/ or merge into style.css). */
+.story{display:grid;gap:8px 22px;margin:0 0 .6rem;font-size:.86rem;line-height:1.35}
+.story .left,.story .right{display:flex;flex-direction:column;gap:5px;min-width:0}
+.story *{box-sizing:border-box}
+.story h3{margin:2px 0 0;font:700 .8rem/1.2 var(--text);letter-spacing:.02em;color:var(--muted);display:flex;flex-wrap:wrap;gap:2px 6px;align-items:baseline}
+.story h3 .ic{width:1.1em;height:1.1em;color:var(--red)}
+.story .src{font:500 .68rem/1 var(--mono);color:var(--muted);white-space:nowrap}
+.story a{color:inherit}
+/* sale strip: live D-day via site.js (.codes tr[data-end]) */
+.story table.codes.strip{display:block;width:100%;margin:0}
+.story .strip tbody{display:flex;flex-wrap:wrap;gap:6px}
+.story .codes.strip tr{display:block;padding:0;border:0}
+.story .codes.strip td{display:block;padding:0;border:0;text-align:left}
+.story .strip a{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--ink);border-radius:999px;padding:3px 10px;background:#fff;text-decoration:none;font-size:.8rem;white-space:nowrap}
+.story .strip .dday{border:0;padding:0;font-size:.76rem}
+.story .strip .dday.hot{background:none;color:var(--red)}
+.story .strip b{font-weight:700}
+/* stat tiles */
+.story .stats{display:grid;grid-template-columns:1.25fr 1fr 1fr;gap:6px}
+.story .stats>div{background:#fff;border:1px solid var(--hair);border-radius:10px;padding:6px 9px;position:relative;overflow:hidden}
+.story .stats .hero{border:0;color:#fff;min-height:0}
+.story .stats .hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:brightness(.55)}
+.story .stats .hero strong,.story .stats .hero span,.story .stats .hero small{position:relative;color:#fff}
+.story .stats .hero small{display:block;font-size:.6rem;opacity:.85;margin-top:2px}
+.story .stats strong{display:block;font:700 1.35rem/1.05 var(--mono);color:var(--ink)}
+.story .stats .hero strong{font-size:1.9rem;color:#fff}
+.story .stats span{display:block;font-size:.74rem;color:var(--ink);line-height:1.25}
+/* ranking bars */
+.story .bars{list-style:none;margin:0;padding:0;display:grid;gap:0;border:0}
+.story .bars li{display:grid;grid-template-columns:2.2em 7.2em 1fr 4.4em;gap:6px;align-items:center;font-size:.76rem;margin:0;padding:0;line-height:1.2;min-height:0;border:0}
+.story .bars li::before{content:none}
+.story .bars i{display:block;height:9px;border-radius:2px;background:var(--hair)}
+.story .bars li.lp i{background:var(--red)}
+.story .bars em{font-style:normal;font:600 .74rem var(--mono);text-align:right}
+.story .bars .gap{color:var(--muted);font-size:.72rem}
+/* comparison table */
+.story table.cmp{width:100%;border-collapse:collapse;font-size:.74rem}
+.story .cmp th{font:600 .68rem var(--mono);color:var(--muted);text-align:left;border-bottom:1px solid var(--ink);padding:2px 4px}
+.story .cmp td{border-bottom:1px solid var(--hair);padding:2px 4px;vertical-align:top}
+.story .cmp td{white-space:nowrap}
+.story .cmp td.n{font-family:var(--mono);white-space:nowrap}
+.story .cmp a{font-weight:600;text-decoration:underline;text-underline-offset:2px}
+/* right half */
+.story .mood{margin:0;position:relative}
+.story .mood img{display:block;width:100%;height:118px;object-fit:cover;border-radius:10px}
+.story .mood figcaption{position:absolute;left:8px;bottom:6px;right:8px;color:#fff;font-size:.74rem;text-shadow:0 1px 3px rgba(0,0,0,.7)}
+.story .combos{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.story .combo{background:#fff;border:1px solid var(--hair);border-radius:10px;padding:5px;font-size:.74rem}
+.story .combo .sw{display:flex;flex-direction:column;gap:2px;margin-bottom:3px}
+.story .combo .sw span{display:flex;align-items:center;justify-content:center;height:19px;border-radius:5px;font-size:.7rem;color:var(--ink)}
+.story .combo .sw .top{height:22px}
+.story .combo .sw .none{border:1px dashed var(--muted);background:repeating-linear-gradient(45deg,#fff 0 5px,#f1ece2 5px 10px);color:var(--muted)}
+.story .scale{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;text-align:center}
+.story .scale div{background:#fff;border:1px solid var(--hair);padding:1px 0;font-size:.7rem;line-height:1.2}
+.story .scale b{display:block;font:700 .86rem var(--mono)}
+.story .tip{margin:4px 0 0;font-size:.76rem}
+.story-more{display:flex;flex-wrap:wrap;gap:6px;margin:.4rem 0 1rem}
+.story-more>details{flex:1 1 160px;margin:0}
+.story-more>details[open]{flex-basis:100%}
+@media (min-width:900px){
+  .story{grid-template-columns:1fr 1fr;width:min(1128px,calc(100vw - 152px))}
+  .story .full{grid-column:1/-1}
+  .story-more{width:min(1128px,calc(100vw - 152px))}
+}
+@media (max-width:899px){
+  .story,.story-more{max-width:100%}.story .src{white-space:normal}.story .left,.story .right{overflow:hidden}
+  .story .cmp{display:block;overflow-x:auto}
+  .story .stats{grid-template-columns:1fr 1fr}.story .stats .hero{grid-column:1/-1}
+  .story .combos{grid-template-columns:repeat(3,1fr)}
+  .story .scale{grid-template-columns:repeat(4,1fr)}
+}
