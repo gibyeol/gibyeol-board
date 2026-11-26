@@ -90,7 +90,11 @@
       "updates": "Updates",
       "catch": "Less hassle, more joy.",
       "crumb_country": "Korea travel guides",
-      "crumb_guides": "Guides"
+      "crumb_guides": "Guides",
+      "consent_text": "We use affiliate cookies (Travelpayouts, Skimlinks) to credit bookings and purchases made through our links. They load only if you accept.",
+      "consent_accept": "Accept",
+      "consent_reject": "Reject",
+      "consent_more": "Details"
     },
     "ja": {
       "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
@@ -159,7 +163,11 @@
       "updates": "更新履歴",
       "catch": "迷わず、もっと楽しく。",
       "crumb_country": "韓国旅行ガイド",
-      "crumb_guides": "ガイド"
+      "crumb_guides": "ガイド",
+      "consent_text": "リンク経由の予約・購入を記録するため、提携クッキー(Travelpayouts、Skimlinks)を使います。同意された場合のみ読み込みます。",
+      "consent_accept": "同意する",
+      "consent_reject": "拒否する",
+      "consent_more": "詳しく"
     },
     "zh-tw": {
       "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
@@ -228,7 +236,11 @@
       "updates": "更新紀錄",
       "catch": "少點麻煩，多點快樂。",
       "crumb_country": "韓國旅遊指南",
-      "crumb_guides": "指南"
+      "crumb_guides": "指南",
+      "consent_text": "我們使用聯盟 Cookie(Travelpayouts、Skimlinks)記錄經由連結的預訂與購買,只有在你同意後才會載入。",
+      "consent_accept": "同意",
+      "consent_reject": "拒絕",
+      "consent_more": "詳細"
     },
     "ko": {
       "tagline": "한국 여행을 더 쉽게. 직접 확인한 정보로 여행·쇼핑·문화를 안내해요.",
@@ -297,13 +309,23 @@
       "updates": "업데이트 기록",
       "catch": "덜 헤매고, 더 즐겁게",
       "crumb_country": "한국 여행 가이드",
-      "crumb_guides": "가이드"
+      "crumb_guides": "가이드",
+      "consent_text": "예약·구매가 우리 링크에서 왔는지 기록하려고 제휴 쿠키(Travelpayouts, Skimlinks)를 써요. 동의하실 때만 불러와요.",
+      "consent_accept": "동의",
+      "consent_reject": "거절",
+      "consent_more": "자세히"
     }
   },
   "head_meta": [
     "<meta name='impact-site-verification' value='ffe61ff4-9b52-4121-91fd-fa025aca5e29'>",
-    "<meta name='awin-verification' content='Awin'>",
-    "<script nowprocket data-noptimize=\"1\" data-cfasync=\"false\" data-wpfc-render=\"false\" seraph-accel-crit=\"1\" data-no-defer=\"1\" data-cmp-ab=\"2\">\n  (function () {\n      var script = document.createElement(\"script\");\n      script.async = 1;\n      script.setAttribute(\"data-cmp-ab\",\"2\");\n      script.src = 'https://tpembars.com/NjA1NjAy.js?t=605602';\n      document.head.appendChild(script);\n  })();\n</script>"
+    "<meta name='awin-verification' content='Awin'>"
   ],
-  "contact_email": "gibyeol.official@gmail.com"
+  "contact_email": "gibyeol.official@gmail.com",
+  "defer_scripts": {
+    "all": [],
+    "disclosure": [
+      "https://tpembars.com/NjA1NjAy.js?t=605602",
+      "https://s.skimresources.com/js/313714X1802466.skimlinks.js"
+    ]
+  }
 }
