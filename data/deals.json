@@ -111,7 +111,7 @@
     },
     "zh-tw": {
      "title": "Olive Young Sale 年末場",
-     "note": "一年四次定期特賣的年末場。2024 年是 12/1–7,最高 7 折以下(最多 70% off)。2026 年日期尚未公布。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
+     "note": "一年四次定期特賣的年末場。2024 年是 12/1–7,最低 3 折(最多 70% off)。2026 年日期尚未公布。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
     }
    }
   },
@@ -165,7 +165,7 @@
     },
     "zh-tw": {
      "title": "百貨公司冬季特賣",
-     "note": "新世界(約 370 個品牌)、樂天(約 400 個)、現代(約 200 個)冬季特賣到 11/29,最高 5–6 折。退稅規則照常適用。"
+     "note": "新世界(約 370 個品牌)、樂天(約 400 個)、現代(約 200 個)冬季特賣到 11/29,新世界、樂天最低 5 折,現代(以首賣價計)最低 4 折。退稅規則照常適用。"
     }
    },
    "hero": {
@@ -204,30 +204,30 @@
   },
   {
    "id": "seoul-winter-market-2026",
-   "start": "2026-12-12",
-   "end": "2026-12-31",
-   "status": "expected",
+   "start": "2026-12-11",
+   "end": "2027-01-10",
+   "status": "confirmed",
    "category": "event",
    "source": {
-    "url": "https://mediahub.seoul.go.kr/archives/2016289",
-    "date": "2025"
+    "url": "https://mediahub.seoul.go.kr/archives/2020167",
+    "date": "2026-11-25"
    },
    "text": {
     "ko": {
-     "title": "광화문 마켓 · 서울윈터페스타",
-     "note": "작년엔 12/12~12/31(마켓), 축제는 1/4까지. 올해는 '12월 예정'까지만 나와서 예상으로 표시."
+     "title": "광화문 마켓 · 서울윈터페스티벌",
+     "note": "서울시 11/25 발표. 올해 주제는 '시간이 멈춘 산타마을'. 일~목 17:30~22:00, 금·토는 22:30까지, 입장 무료(VISIT SEOUL). 5호선 광화문역 9번 출구."
     },
     "en": {
      "title": "Gwanghwamun Christmas Market",
-     "note": "Last year it ran Dec 12–31 as part of Seoul Winter Festa. This year is only announced as \"December\", so dates are expected."
+     "note": "Announced by Seoul on Nov 25. This year's theme: \"Santa Village where time stopped\". Sun–Thu 17:30–22:00, Fri–Sat until 22:30, free entry (VISIT SEOUL). Gwanghwamun Station (Line 5), Exit 9."
     },
     "ja": {
      "title": "光化門クリスマスマーケット",
-     "note": "昨年は12/12〜31、ソウル・ウィンターフェスタの一部。今年は「12月予定」とだけ発表。"
+     "note": "ソウル市が11/25に発表。今年のテーマは「時が止まったサンタ村」。日〜木17:30〜22:00、金・土は22:30まで、入場無料(VISIT SEOUL)。5号線光化門駅9番出口。"
     },
     "zh-tw": {
      "title": "光化門聖誕市集",
-     "note": "去年是 12/12–31,屬於首爾冬日慶典。今年只公布「12 月舉辦」,日期先標預計。"
+     "note": "首爾市 11/25 公布。今年主題是「時間靜止的聖誕老人村」。週日至週四 17:30–22:00,週五、六到 22:30,免費入場(VISIT SEOUL)。5 號線光化門站 9 號出口。"
     }
    }
   },
@@ -491,7 +491,7 @@
    },
    "text": {
     "ko": {
-     "title": "탑텐 블프 (텐텐데이)",
+     "title": "탑텐 블랙프라이데이",
      "note": "할인율은 공개 안 됨. 겨울 기본템 위주면 유니클로·스파오랑 같은 품목 가격 비교 추천."
     }
    }
@@ -543,7 +543,7 @@
    "text": {
     "ko": {
      "title": "무신사 무진장 26 겨울 블프",
-     "note": "4,781개 브랜드. 카운트다운 쿠폰 최대 30%(선착순 6번), 하루 두 번 오픈런 뽑기 쿠폰 최대 80%. 쿠폰 시간 알림 켜 두는 게 사실상 필수."
+     "note": "4,781개 브랜드(무신사 앱 화면, 11/26). 매일 두 번 '오픈런 뽑기'로 최대 80% 할인 쿠폰 등을 랜덤으로 줘요. 쿠폰 시간 알림을 켜 두면 편해요."
     }
    }
   },
@@ -732,28 +732,28 @@
    "id": "ttukseom-xmas",
    "start": "2026-12-24",
    "end": "2026-12-27",
-   "status": "expected",
+   "status": "confirmed",
    "category": "event",
    "source": {
-    "url": "https://travelmapjourney.com/seoul-christmas-market-ttukseom-gwanghwamun-2026/",
-    "date": "2026-10-27"
+    "url": "https://mediahub.seoul.go.kr/archives/2020167",
+    "date": "2026-11-25"
    },
    "text": {
     "ko": {
      "title": "뚝섬 로맨틱 한강 크리스마스마켓",
-     "note": "블로그 한 곳에서만 확인돼서 예상으로 표시. 서울시 공식 발표 나오면 확정으로 바꿈."
+     "note": "서울시 11/25 발표. 같은 뚝섬한강공원에서 12/24~31 '한강 나이트 사우나'도 열려요. 시간·출구는 아직 발표 전."
     },
     "en": {
      "title": "Ttukseom Romantic Han River Christmas Market",
-     "note": "Only one blog has the dates so far, so this is marked expected. We will confirm it when Seoul announces it."
+     "note": "Announced by Seoul on Nov 25. The \"Han River Night Sauna\" also runs in the same Ttukseom Hangang Park, Dec 24–31. Hours and exits are not announced yet."
     },
     "ja": {
      "title": "トゥクソム・ロマンチック漢江クリスマスマーケット",
-     "note": "日程はブログ1件でしか確認できていないため予定表示。ソウル市の公式発表が出たら確定に変えます。"
+     "note": "ソウル市が11/25に発表。同じトゥクソム漢江公園で12/24〜31に「漢江ナイトサウナ」も。時間・出口はまだ未発表。"
     },
     "zh-tw": {
      "title": "纛島浪漫漢江聖誕市集",
-     "note": "目前只有一篇部落格提到日期,先標為預計。首爾市正式公布後會改為確定。"
+     "note": "首爾市 11/25 公布。同一個纛島漢江公園 12/24–31 也有「漢江夜間三溫暖」。時間和出口尚未公布。"
     }
    }
   }
