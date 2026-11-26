@@ -1,5 +1,7 @@
 # Brief: accessibility redesign (2026-11-26) — read fully before editing a page
 
+## Owner's full list of 11/26 directions (verbatim with positions) — /home/user/trendmin-threads/CLAUDE.md, section "콘텐츠 제작 원칙". Read it in full before starting; the independent review judges against every item there. Also: "그냥 일반 블로그 수준의 글을 쓸거면 이거 하면 안돼" (11:42) and "이정도 퀄리티를 전 콘텐츠에 적용해야 경쟁력이 생기는거야" (11:41). Never add lines like "built from facts, not a story" (owner 11:09).
+
 ## The owner's words (verbatim, 2026-11-26)
 - "현재수준으로는 접근성이 너무 안좋아 … 글만 써있어서 매우 피곤하고, 그냥 글로만 되어 있는 사전펴서 읽는 느낌인데 누가 쓰려고 하겠어."
 - "실제 전자입국신고서 캡쳐본을 가져와서 각항목마다 표시를 해서 어디에는 뭘써야 되는지 설명을 해야 이해를 하지."
