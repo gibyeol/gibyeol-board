@@ -41,6 +41,26 @@ eSIM이 편한 이유는 단순함. 유심 핀도, 작은 유심 잃어버릴 �
 3. 도착하면 eSIM 회선을 켜고 데이터 로밍을 그 회선에서 허용한다
 4. 평소 쓰던 유심 회선은 데이터를 꺼 둔다 (로밍 데이터 요금이 붙지 않게)
 
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>폰별로 누르는 순서 (아이폰·갤럭시 공식 안내)</summary>
+
+**아이폰**
+
+1. **설치(집 와이파이):** 카메라 앱으로 QR코드를 스캔 → '셀룰러 요금제가 감지됨' 알림을 탭 → 화면 아래 '계속' → '셀룰러 요금제 추가'. 메일·브라우저에서 받은 QR은 길게 눌러 'eSIM 추가'. 링크로 받았다면 링크를 탭 → '허용' → '계속'.
+2. **도착하면 켜기:** '여행용 eSIM 켜기' 알림이 뜨면 탭 → '여행용 eSIM 전용'이나 '여행용 SIM 및 현재 eSIM' 중 선택 → '계속'(iOS 26 이후). 알림이 없으면 **설정 → 셀룰러 → 셀룰러 데이터**에서 여행 eSIM 회선을 골라요. 데이터는 한 번에 한 번호로만 나가요.
+3. **원래 유심의 로밍 요금 막기:** 두 회선을 같이 켜 두면 원래 번호에서 로밍 요금이 붙을 수 있어요. **설정 → 셀룰러 → 원래 번호**를 눌러 '데이터 로밍'을 꺼 두세요. 원래 번호로 받는 전화·문자의 요금은 출국 전에 통신사에 확인하세요.
+4. **돌아오면:** iOS 26 이후는 나라에 따라 여행 eSIM이 자동으로 꺼지고 원래 SIM이 켜져요. 알림이 없으면 **설정 → 셀룰러**에서 원래 번호의 '이 회선 켜기'가 켜져 있는지 보고, 다 쓴 여행 eSIM 회선은 꺼요.
+5. **안 되면:** 에어플레인 모드를 켰다 끄기 → 설정 → 셀룰러에서 그 회선을 껐다 켜기 → 재시동. 그래도 안 되면 판매처에 문의해요(화면의 오류 메시지와 EID: 설정 → 일반 → 정보).
+
+**갤럭시** (메뉴 이름은 기종·소프트웨어에 따라 조금 달라요)
+
+1. **설치(집 와이파이):** **설정 → 연결 → SIM 관리자 → eSIM 추가 → QR 코드 스캔** → 받은 QR을 스캔. 코드로 받았다면 같은 화면에서 '활성화 코드 입력'.
+2. **도착하면 켜기:** **설정 → 연결 → SIM 관리자**에서 여행 eSIM 스위치를 켜고 '모바일 데이터'를 여행 eSIM으로 골라요.
+3. **데이터가 안 잡히면:** **설정 → 연결 → 모바일 네트워크 → 데이터 로밍**이 켜져 있는지 봐요. 회색이면 모바일 데이터부터 켜요.
+4. **돌아오면:** SIM 관리자에서 '모바일 데이터'를 원래 유심으로 되돌리고 여행 eSIM은 꺼요.
+5. **그래도 안 되면:** 재시동한 뒤 판매처에 문의해요.
+
+</details>
+
 {{aff:yesim_all|Yesim에서 나라별 eSIM 보기}}
 
 ## 출처
@@ -50,3 +70,10 @@ eSIM이 편한 이유는 단순함. 유심 핀도, 작은 유심 잃어버릴 �
 - [삼성전자서비스: eSIM 개통 안내 (2022년 9월 1일 국내 시작)](https://www.samsungsvc.co.kr/solution/1071978)
 - [삼성전자서비스: 갤럭시 EID 확인 방법](https://www.samsungsvc.co.kr/solution/1106071)
 - [세계일보: 국내 첫 eSIM 모델 갤럭시 Z 폴드4·플립4 (2022-08-18)](https://www.segye.com/newsView/20220818521133)
+- [Apple: iPhone에서 eSIM 설정하기 (QR·링크 설치)](https://support.apple.com/ko-kr/118669) (2026-11-27 확인)
+- [Apple: 해외 여행 중에 iPhone에서 eSIM 사용하기 (여행용 eSIM 켜기, 데이터 회선 선택, 귀국)](https://support.apple.com/ko-kr/118227) (2026-11-27 확인)
+- [Apple: 듀얼 SIM 사용하기 (한 번에 한 번호만 데이터)](https://support.apple.com/ko-kr/109317) (2026-11-27 확인)
+- [Apple: iPhone에서 eSIM을 설정할 수 없는 경우](https://support.apple.com/ko-kr/102478) (2026-11-27 확인)
+- [삼성전자: 갤럭시 eSIM 추가 방법 (SIM 관리자 → eSIM 추가 → QR 코드 스캔)](https://www.samsung.com/sec/support/newsalert/3184/) (2026-11-27 확인)
+- [Samsung UK: 데이터 로밍 켜고 끄기](https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/), [듀얼 SIM 전환](https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/) (영어, 메뉴 이름은 저희가 옮김, 2026-11-27 확인)
+- 확인하지 못한 것: Yesim 요금제·설치 안내·환불(사이트가 자동 접속을 막음), 삼성전자서비스(samsungsvc.co.kr) 두 문서(2026-11-27 점검 중)

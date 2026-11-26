@@ -41,6 +41,26 @@ eSIMが楽な理由はシンプルです。SIMピンも、小さなSIMをなく�
 3. 着いたらeSIMの回線をオンにし、その回線でデータローミングを許可する
 4. 普段使っているSIMの回線はデータをオフにする(ローミングのデータ料金がかからないように)
 
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>機種別のタップ順(Apple・Samsungの公式案内)</summary>
+
+**iPhone**
+
+1. **インストール(家のWi-Fiで):** カメラアプリでQRコードをスキャン →「モバイル通信プランが検出されました」の通知をタップ → 画面下の「続ける」→「モバイル通信プランを追加」。メールやブラウザで届いたQRは長押しして「eSIMを追加」。リンクで届いたら、リンクをタップ →「許可」→「続ける」。
+2. **着いたらオン:**「旅行用のeSIMをオンにする」の通知が出たらタップ →「旅行用eSIMのみ」か「旅行用eSIMと現在のeSIM」を選ぶ →「続ける」(iOS 26以降)。通知がなければ**設定 →「モバイル通信」→「モバイルデータ通信」**で旅行用eSIMの回線を選びます。データ通信は一度に1つの番号だけです。
+3. **普段のSIMのローミング料金を防ぐ:** 2回線ともオンだと、自分の国の回線でローミング料金が発生する可能性があります。**設定 →「モバイル通信」→ 普段の番号**をタップして「データローミング」をオフに。普段の番号にかかってくる電話・SMSの料金は、出発前に通信会社に確認してください。
+4. **帰国したら:** iOS 26以降は国や地域によって、旅行用eSIMが自動でオフになり普段のSIMがオンに戻ります。通知がなければ**設定 →「モバイル通信」**で普段の番号の「この回線をオンにする」がオンか確認し、使い終わった旅行用eSIMの回線はオフに。
+5. **つながらないとき:** 機内モードをオン・オフ → 設定 →「モバイル通信」でその回線をオフ・オン → 再起動。それでもだめなら販売元へ(画面のエラーメッセージとEID:設定 → 一般 → 情報)。
+
+**Galaxy**(メニュー名は機種やソフトウェアで少し違います)
+
+1. **インストール(家のWi-Fiで):** **設定 → 接続 → SIMマネージャー → eSIMを追加 → QRコードをスキャン** → 届いたQRをスキャン。コードで届いたら同じ画面でアクティベーションコードを入力。
+2. **着いたらオン:** **設定 → 接続 → SIMマネージャー**で旅行用eSIMのスイッチをオンにし、モバイルデータを旅行用eSIMにします。
+3. **データがつながらないとき:** **設定 → 接続 → モバイルネットワーク → データローミング**がオンか確認。グレーならモバイルデータを先にオンに。
+4. **帰国したら:** SIMマネージャーでモバイルデータを普段のSIMに戻し、旅行用eSIMはオフに。
+5. **それでもだめなら:** 再起動してから販売元へ。
+
+</details>
+
 {{aff:yesim_all|Yesimで国別のeSIMを見る}}
 
 ## 出典
@@ -50,3 +70,10 @@ eSIMが楽な理由はシンプルです。SIMピンも、小さなSIMをなく�
 - [サムスン電子サービス:eSIM開通案内(韓国では2022年9月1日開始)](https://www.samsungsvc.co.kr/solution/1071978)(韓国語)
 - [サムスン電子サービス:GalaxyのEID確認方法](https://www.samsungsvc.co.kr/solution/1106071)(韓国語)
 - [世界日報:韓国初のeSIMモデル Galaxy Z Fold4・Flip4(2022-08-18)](https://www.segye.com/newsView/20220818521133)(韓国語)
+- [Apple:iPhoneでeSIMを設定する(QR・リンクでのインストール)](https://support.apple.com/ja-jp/118669)(2026-11-27確認)
+- [Apple:海外旅行中にiPhoneでeSIMを使う(旅行用eSIMをオン、データ回線、帰国時)](https://support.apple.com/ja-jp/118227)(2026-11-27確認)
+- [Apple:デュアルSIMを使う(データは一度に1つの番号)](https://support.apple.com/ja-jp/109317)(2026-11-27確認)
+- [Apple:iPhoneでeSIMを設定できない場合](https://support.apple.com/ja-jp/102478)(2026-11-27確認)
+- [Samsung Japan:Galaxy eSIM(SIMマネージャー → eSIMを追加 → QRコードをスキャン)](https://www.samsung.com/jp/support/mobile-devices/galaxy-esim-and-supported-network-carriers/)(2026-11-27確認)
+- [Samsung UK:データローミングのオン・オフ](https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/)、[デュアルSIMの切り替え](https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/)(英語、メニュー名は私たちが訳したもの、2026-11-27確認)
+- 確認できなかったもの:Yesimのプラン・インストール案内・返金(サイトが自動アクセスを遮断)、サムスン電子サービス(samsungsvc.co.kr)の2ページ(2026-11-27はメンテナンス中)
