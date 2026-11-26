@@ -476,7 +476,15 @@ def page(lang, meta, body_html, path, alternates):
         key = "byline" if meta.get("approved") and meta["approved"] >= meta["updated"] else "byline_pending"
         byline = f'<p class="byline">{ui[key].format(date=meta["updated"])}</p>'
     lede = f'<p class="lede">{inline(meta["lede"])}</p>' if meta.get("lede") else ""
-    crumb = (f'<p class="crumb"><a href="{L["prefix"]}/guides/">{ui["crumb_guides"]}</a> › <a href="{L["prefix"]}/guides/">{ui["crumb_country"]}</a></p>' if meta.get("section") else "")
+    # Shopping pages sit under the Shopping menu, not under "Guides › Korea travel guides".
+    slug = path.strip("/").split("/")[-1]
+    shop_slugs = set(next(g for g, _ in GUIDE_GROUPS if "daiso" in g)) | {"winter-light-puffer"}
+    if not meta.get("section"):
+        crumb = ""
+    elif slug in shop_slugs:
+        crumb = f'<p class="crumb"><a href="{L["prefix"]}/shopping/">{dict(ui["nav"])["/shopping/"]}</a></p>'
+    else:
+        crumb = f'<p class="crumb"><a href="{L["prefix"]}/guides/">{ui["crumb_guides"]}</a> › <a href="{L["prefix"]}/guides/">{ui["crumb_country"]}</a></p>'
     header_block = "" if meta.get("home") else f"<header class=\"page-head\">{crumb}<h1>{inline(title)}</h1>{lede}{byline}</header>"
     return f"""<!doctype html>
 <html lang="{L['hreflang']}">
