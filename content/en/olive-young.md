@@ -39,6 +39,10 @@ The shop scans it; a photo will not do. It is the one thing that changes the pri
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-counter-marked.webp" alt="Inside an Olive Young branch: the till, marked 1, and a round sale sticker, marked 2" loading="lazy" width="780" height="585"><figcaption><b>1</b> The till: hand over your passport with your card. <b>2</b> A round sale sticker: read the tag next to it to see which product it covers.<span class="tr-credit">Photo: Choi Kwang-mo (Olive Young Wonju Dangu branch, 2020), <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>, via <a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (boxes and numbers added)</span></figcaption></figure>
 
+1. Put your basket on the counter and **hand over your passport first** (if you qualify for tax refund).
+2. Staff scan it, and the price with the tax already taken off comes up before you pay.
+3. Pay that amount and take your receipt.
+
 On a receipt of ₩15,000 to under ₩1,000,000 the tax comes off on the spot, sale prices included. That is for visitors who qualify: [who qualifies](/tax-refund/#do-i-qualify).
 
 {{fig:olive-young-2|Immediate tax refund at the till, per receipt}}
@@ -49,7 +53,7 @@ You pay full price and claim the refund at a kiosk or the airport. [How tax refu
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>Receipts from different stores do not add up. Each receipt has to reach ₩15,000 on its own, so shop in one store rather than three.</span></aside>
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>Which store?</b><span>Big stores in Myeongdong and Seongsu carry the widest range and have staff used to visitors; smaller branches can be calmer in sale week.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>Which store?</b><span>Big stores in Myeongdong and Seongsu carry the widest range and have staff used to visitors; smaller branches can be calmer in sale week. **Finding the nearest store:** search "Olive Young" in Naver Map or KakaoMap and nearby stores show up on the map. How to use the map apps: [Seoul subway, step 1](/seoul-subway/).</span></li></ul>
 
 ## What to buy: three basics
 

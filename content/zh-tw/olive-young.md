@@ -39,6 +39,10 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-counter-marked.webp" alt="Olive Young 門市內:1 收銀台,2 圓形特價貼紙" loading="lazy" width="780" height="585"><figcaption><b>1</b> 收銀台:刷卡時一起遞上護照。<b>2</b> 圓形特價貼紙:看旁邊的價籤,確認是哪件商品。<span class="tr-credit">照片:Choi Kwang-mo(Olive Young 原州丹邱店,2020 年),<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hant" rel="noopener" target="_blank">CC0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">維基共享資源</a>(加上框線與編號)</span></figcaption></figure>
 
+1. 把購物籃放上收銀台,**先把護照交給店員**(符合退稅資格的人)。
+2. 店員掃描護照後,付款前就會顯示扣掉稅金的金額。
+3. 付這個金額,拿收據。
+
 單張收據 15,000 至未滿 1,000,000 韓元,特價品也一樣當場扣稅。誰符合資格:[看這裡](/zh-tw/tax-refund/#我可以退稅嗎)。
 
 {{fig:olive-young-2|收銀台現場退稅,以單張收據計}}
@@ -49,7 +53,7 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>不同門市的收據不能合併。每張都要滿 15,000 韓元,與其三家店各買一點,不如在一家店一次買齊。</span></aside>
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>去哪一家?</b><span>明洞、聖水的大型店品項最齊全,也習慣接待旅客。特賣週時,小分店反而比較好逛。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>去哪一家?</b><span>明洞、聖水的大型店品項最齊全,也習慣接待旅客。特賣週時,小分店反而比較好逛。 **找最近的門市:** 在 NAVER 地圖或 KakaoMap 搜尋「올리브영」(Olive Young),附近門市就會出現在地圖上。地圖 App 怎麼用:[首爾地鐵 第1步](/zh-tw/seoul-subway/)。</span></li></ul>
 
 ## 買什麼:三樣基本款
 

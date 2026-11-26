@@ -39,6 +39,10 @@ updated: 2026-11-26
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-counter-marked.webp" alt="オリーブヤング店内:1はレジ、2は丸いセールのシール" loading="lazy" width="780" height="585"><figcaption><b>1</b> レジ:カードと一緒にパスポートを出します。<b>2</b> 丸いセールのシール:横の値札で、どの商品が対象か確かめましょう。<span class="tr-credit">写真:Choi Kwang-mo(オリーブヤング原州丹邱店、2020年)、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>、<a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(枠と番号を追加)</span></figcaption></figure>
 
+1. かごをレジに置き、**先にパスポートを渡します**(タックスリファンド対象者)。
+2. スタッフがスキャンすると、支払いの前に税金分が引かれた金額が出ます。
+3. その金額を支払い、レシートを受け取ります。
+
 1レシート15,000ウォン以上1,000,000ウォン未満なら、セール価格でもその場で税金分が引かれます。対象になる人は[こちらで確認](/ja/tax-refund/#自分は対象)。
 
 {{fig:olive-young-2|レジでの即時還付、1レシートごと}}
@@ -49,7 +53,7 @@ updated: 2026-11-26
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>別のお店のレシートは合算できません。1枚ずつ15,000ウォン以上が必要なので、3店で少しずつより1店でまとめて買いましょう。</span></aside>
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>どの店に行く?</b><span>明洞や聖水の大型店は品ぞろえが多く、旅行者対応にも慣れています。セール週は小さな支店のほうが落ち着いて選べることも。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>どの店に行く?</b><span>明洞や聖水の大型店は品ぞろえが多く、旅行者対応にも慣れています。セール週は小さな支店のほうが落ち着いて選べることも。 **近くの店を探す:** NAVERマップかカカオマップで「올리브영」(Olive Young)を検索すると、近くの店が地図に出ます。地図アプリの使い方は[ソウル地下鉄 1](/ja/seoul-subway/)へ。</span></li></ul>
 
 ## 何を買うか:基本の3つ
 

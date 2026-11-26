@@ -39,6 +39,10 @@ updated: 2026-11-26
 
 <figure class="tr-photo"><img src="/static/photo/oy-wonju-counter-marked.webp" alt="올리브영 매장 안: 1번 계산대, 2번 둥근 세일 스티커" loading="lazy" width="780" height="585"><figcaption><b>1</b> 계산대: 대상자라면 카드와 함께 여권을 내요. <b>2</b> 둥근 세일 스티커: 옆 가격표에서 어느 상품에 해당하는지 확인하세요.<span class="tr-credit">사진: 최광모(올리브영 원주단구점, 2020), <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ko" rel="noopener" target="_blank">CC0</a>, <a href="https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (상자·번호 추가)</span></figcaption></figure>
 
+1. 바구니를 계산대에 올리고 **여권을 먼저 건네요**(택스리펀드 대상자).
+2. 직원이 여권을 스캔하면, 결제하기 전에 세금이 빠진 금액이 나와요.
+3. 그 금액을 결제하고 영수증을 받아요.
+
 영수증 한 장 15,000원 이상 1,000,000원 미만이면 세일가에서도 그 자리에서 세금이 빠져요(택스리펀드 대상자).
 
 {{fig:olive-young-2|계산대 즉시 환급, 영수증 한 장 기준}}
@@ -49,7 +53,7 @@ updated: 2026-11-26
 
 <aside class="tr-note"><i class="ic ic-triangle-alert" aria-hidden="true"></i><span>다른 매장 영수증은 합쳐지지 않아요. 영수증마다 15,000원을 넘어야 하니 세 곳에서 나눠 사지 말고 한 곳에서 사세요.</span></aside>
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>어느 매장?</b><span>명동과 성수의 대형 매장은 상품 구색이 가장 넓고 외국인 손님에 익숙한 직원이 있어요. 세일 주간엔 작은 지점이 더 한산할 수 있어요.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>어느 매장?</b><span>명동과 성수의 대형 매장은 상품 구색이 가장 넓고 외국인 손님에 익숙한 직원이 있어요. 세일 주간엔 작은 지점이 더 한산할 수 있어요. **가까운 매장 찾기:** 네이버 지도나 카카오맵에서 "올리브영"을 검색하면 가까운 매장이 지도에 나와요. 지도 앱 쓰는 법은 [서울 지하철 1단계](/ko/seoul-subway/)에 있어요.</span></li></ul>
 
 ## 무엇을 살까: 기본템 세 가지
 
