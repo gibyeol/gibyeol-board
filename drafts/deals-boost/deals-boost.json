@@ -20,6 +20,13 @@
      "date": "2026-11-26 16:2x",
      "certainty": "확실",
      "kind": "플랫폼 랭킹(온라인)"
+    },
+    {
+     "item": "퍼: 짧은 퍼 재킷·퍼 베스트·퍼 칼라 수요가 늘고 있다(업계 관계자, 수치 없음). 대부분 페이크 퍼 — 쿠폰 키워드 '퍼재킷'과 같은 품목",
+     "source": "kh-fur-collars",
+     "date": "2026-11-23",
+     "certainty": "경향(수치 없음)",
+     "kind": "업계 관계자 말"
     }
    ],
    "brands": [],
@@ -27,6 +34,150 @@
     "MD's Pick 대상 상품 목록: musinsa.com 봇 차단 → 확인 못 함",
     "오프라인 매장에서 실제 많이 팔린 품목: 자료 없음",
     "랭킹은 온라인 앱 화면. 매장 판매와 같은지 모름"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "dept-winter-2026": {
+   "title": "Department store winter sales",
+   "end": "2026-11-29",
+   "buys": [
+    {
+     "item": "외국인 고객 매출(전년 대비, 기간은 기사에 없음): 명품 2배 이상, K패션 2배, 식품관·식당 +50%",
+     "source": "kt-lotte-744",
+     "date": "2026-10-06",
+     "certainty": "경향",
+     "kind": "출처 분류: 외국인 고객 매출(세일 자료 아님)"
+    },
+    {
+     "item": "외국인 고객 1분기 매출(전 분기 대비): 남성 패션 +121%, 여성 패션 +99.6%, 뷰티 +91.2%",
+     "source": "kt-shinsegae-holiday",
+     "date": "2026-04-29",
+     "certainty": "경향",
+     "kind": "출처 분류: 외국인 고객(세일 자료 아님)"
+    }
+   ],
+   "brands": [
+    {
+     "category_from_source": "아메리칸 클래식 (출처 표현)",
+     "brand": "브룩스브라더스",
+     "reason": "1~10월 무신사·29CM 등 5개 플랫폼 합산 매출 +51%. 판매 매장: 롯데 잠실·동탄, 신세계 대구·타임스퀘어, 현대 판교",
+     "source": "cj-brooks",
+     "date": "2026-11-16",
+     "certainty": "확실",
+     "note": "이번 정기세일 할인 대상인지 확인 못 함"
+    }
+   ],
+   "gaps": [
+    "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함",
+    "세 백화점 공통 '전체 고객' 기준 품목 순위는 못 찾음. 있는 건 회사가 '외국인 고객'으로 나눈 자료뿐"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "shilla-dfs-bf": {
+   "title": "신라면세점 블랙프라이데이",
+   "end": "2026-11-30",
+   "buys": [],
+   "brands": [],
+   "gaps": [
+    "신라면세점 블프 판매 순위·인기 품목: 자료 못 찾음(shilladfs.com은 안내 페이지만, 관련 언론 대부분 이 환경에서 안 열림)",
+    "참고: 10/30~11/15 코리아 그랜드 페스티벌 때 면세점 25곳 할인 품목은 주류·화장품(KH 10/27) — 할인 품목이지 '많이 산 것'이 아니라서 넣지 않음",
+    "The Korea Herald 2013 '신라면세점 화장품 판매 1위 설화수' — 13년 전이라 넣지 않음"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "dept-shinsegae": {
+   "title": "신세계백화점 겨울 정기세일",
+   "end": "2026-11-29",
+   "buys": [
+    {
+     "item": "외국인 고객 1분기 매출(전 분기 대비): 남성 패션 +121%, 여성 패션 +99.6%, 뷰티 +91.2%",
+     "source": "kt-shinsegae-holiday",
+     "date": "2026-04-29",
+     "certainty": "경향",
+     "kind": "출처 분류: 외국인 고객(세일 자료 아님)"
+    },
+    {
+     "item": "외국인 명품 구매 +67%(2025년 하반기). 같은 기간 전체 명품 매출은 20% 미만 증가",
+     "source": "kh-tourists-dept",
+     "date": "2026-02-12",
+     "certainty": "경향",
+     "kind": "출처 분류: 외국인 고객(세일 자료 아님)"
+    }
+   ],
+   "brands": [
+    {
+     "category_from_source": "아메리칸 클래식 (출처 표현)",
+     "brand": "브룩스브라더스",
+     "reason": "1~10월 무신사·29CM 등 5개 플랫폼 합산 매출 +51%. 판매 매장: 신세계 대구점·타임스퀘어점",
+     "source": "cj-brooks",
+     "date": "2026-11-16",
+     "certainty": "확실",
+     "note": "이번 정기세일 할인 대상인지 확인 못 함"
+    }
+   ],
+   "gaps": [
+    "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "dept-lotte": {
+   "title": "롯데백화점 겨울 정기세일",
+   "end": "2026-11-29",
+   "buys": [
+    {
+     "item": "외국인 고객 매출(전년 대비, 기간은 기사에 없음): 명품 2배 이상, K패션 2배, 식품관·식당 +50%",
+     "source": "kt-lotte-744",
+     "date": "2026-10-06",
+     "certainty": "경향",
+     "kind": "출처 분류: 외국인 고객 매출(세일 자료 아님)"
+    },
+    {
+     "item": "명동 본점 K패션 전용 구역 '키네틱 그라운드': 상반기 매출 70%가 외국인",
+     "source": "kt-dept-h1",
+     "date": "2026-07-13",
+     "certainty": "경향",
+     "kind": "출처 분류: 외국인 고객(세일 자료 아님)"
+    }
+   ],
+   "brands": [
+    {
+     "category_from_source": "아메리칸 클래식 (출처 표현)",
+     "brand": "브룩스브라더스",
+     "reason": "1~10월 무신사·29CM 등 5개 플랫폼 합산 매출 +51%. 판매 매장: 롯데 잠실점·동탄점",
+     "source": "cj-brooks",
+     "date": "2026-11-16",
+     "certainty": "확실",
+     "note": "이번 정기세일 할인 대상인지 확인 못 함"
+    }
+   ],
+   "gaps": [
+    "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함"
+   ],
+   "not_applicable": null,
+   "unverified_leads": []
+  },
+  "dept-hyundai": {
+   "title": "현대백화점 더 세일",
+   "end": "2026-11-29",
+   "buys": [],
+   "brands": [
+    {
+     "category_from_source": "아메리칸 클래식 (출처 표현)",
+     "brand": "브룩스브라더스",
+     "reason": "1~10월 무신사·29CM 등 5개 플랫폼 합산 매출 +51%. 판매 매장: 현대 판교점",
+     "source": "cj-brooks",
+     "date": "2026-11-16",
+     "certainty": "확실",
+     "note": "이번 정기세일 할인 대상인지 확인 못 함"
+    }
+   ],
+   "gaps": [
+    "이번 겨울 정기세일에서 실제 많이 팔린 품목: 세일 출처(zdnet) 포함 관련 언론이 이 환경에서 안 열림 → 확인 못 함",
+    "현대백화점 품목별 자료: 연 기사(KT 7/13, KH 5/10)에 총액·증가율만 있고 품목 없음"
    ],
    "not_applicable": null,
    "unverified_leads": []
@@ -199,6 +350,14 @@
    "took": "브룩스브라더스 5개 플랫폼 합산 매출 +51%, 판매처",
    "quote": "2026년 1~10월 무신사·29CM·SSF샵·코오롱몰·LF몰 등 5개 패션 플랫폼의 합산 매출이 전년 동기 대비 51% 증가 / 롯데백화점 잠실점·동탄점, 신세계백화점 대구점·타임스퀘어점, 현대백화점 판교점 …에서 만나볼 수 있다"
   },
+  "kh-fur-collars": {
+   "url": "https://www.koreaherald.com/article/10946254",
+   "publisher": "The Korea Herald",
+   "date": "2026-11-23",
+   "opened": "staged",
+   "took": "퍼 수요 증가(업계 관계자, 수치 없음)",
+   "quote": "Demand for fur is growing as a winter fashion item … / Most of it is faux, and much of it is aimed at a younger crowd."
+  },
   "kh-collabs-fleece": {
    "url": "https://www.koreaherald.com/article/10937465",
    "publisher": "The Korea Herald",
@@ -206,20 +365,55 @@
    "opened": "curl-today",
    "took": "유니클로 × 세실리에 반센 1차 품절, 2차 가을·겨울 출시",
    "quote": "Uniqlo is set to release its second collection with Danish designer Cecilie Bahnsen on Friday. … Shirred dresses and T-shirts from that line sold out within hours of release."
+  },
+  "kt-lotte-744": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20261006/lotte-department-store-tops-744-mil-in-foreign-customer-sales",
+   "publisher": "The Korea Times (롯데백화점 발표)",
+   "date": "2026-10-06",
+   "opened": "curl-today",
+   "took": "롯데 외국인 고객 매출: 명품 2배 이상, K패션 2배, 식품관 +50%",
+   "quote": "Luxury sales to foreign customers more than doubled from last year, while Korean fashion sales doubled. Foreign spending at food halls and restaurants increased 50 percent."
+  },
+  "kt-dept-h1": {
+   "url": "https://www.koreatimes.co.kr/business/20260713/3-major-department-stores-post-record-h1-foreign-sales-amid-k-wave",
+   "publisher": "The Korea Times (연합)",
+   "date": "2026-07-13",
+   "opened": "curl-today",
+   "took": "롯데 명동 K패션 존 '키네틱 그라운드' 매출 70% 외국인",
+   "quote": "foreign shoppers accounting for 70 percent of sales at Kinetic Ground, a dedicated K-fashion zone targeting young global consumers"
+  },
+  "kt-shinsegae-holiday": {
+   "url": "https://www.koreatimes.co.kr/business/companies/20260429/shinsegae-goes-all-out-to-capitalize-on-holiday-weeks-in-china-japan",
+   "publisher": "The Korea Times",
+   "date": "2026-04-29",
+   "opened": "curl-today",
+   "took": "신세계 외국인 고객 1분기 분야별 증가율",
+   "quote": "In the first quarter, Shinsegae Department Store saw sales to foreign shoppers surge, with women's fashion jumping 99.6 percent from the previous quarter. Men's fashion rose 121 percent and the beauty segment increased 91.2 percent."
+  },
+  "kh-tourists-dept": {
+   "url": "https://www.koreaherald.com/article/10675383",
+   "publisher": "The Korea Herald",
+   "date": "2026-02-12",
+   "opened": "curl-today",
+   "took": "신세계 외국인 명품 +67%(2025 하반기)",
+   "quote": "Shinsegae saw foreign spending on luxury goods rise 67 percent in the second half of last year, while overall luxury sales grew by less than 20 percent."
+  },
+  "kh-grand-festival": {
+   "url": "https://www.koreaherald.com/article/10916132",
+   "publisher": "The Korea Herald",
+   "date": "2026-10-27",
+   "opened": "curl-today",
+   "took": "코리아 그랜드 페스티벌 면세점 할인 품목(주류·화장품) — 할인 품목이지 판매 순위 아님",
+   "quote": "Twenty-five duty-free shops nationwide, including Lotte, Shilla and Shinsegae, will cut prices on liquor and cosmetics by up to 25 percent."
   }
  },
  "not_done_yet": [
   "oy-sale-2026-12",
   "klook-bf-2026",
-  "dept-winter-2026",
   "korea-grand-sale-2027",
   "seoul-winter-market-2026",
   "oy-day-2026-12",
   "wconcept-wweek",
-  "shilla-dfs-bf",
-  "dept-shinsegae",
-  "dept-lotte",
-  "dept-hyundai",
   "samsung-week",
   "coupang-digital-bf",
   "ably-bf",
