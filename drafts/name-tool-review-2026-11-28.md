@@ -216,3 +216,55 @@
 | 화면 문장 자연스러움 | 권고 | 영어 섞임, 같은 뜻 반복, 이름 뜻으로 어색한 낱말(물건·cold·情愛) |
 
 - 판정: 전부 독립 검토. 못 한 것: 일본어·중국어 원어민 판정, Olivia·Liam 카드의 기존 자료(連恩, 근위병 문장) 원 출처 재대조(이번 변경 아님).
+
+## 재검토(dd59ac3) — 2026-11-28 KST (08:00 게시 전)
+
+- 검토자: 독립 검토(작성자 아님). 고치지 않고 판정만.
+- 범위: `git diff 6ebd727 dd59ac3 -- static/` (a876562·477f8e7·dd59ac3), 카드 6장 갱신분 + 8장 전체.
+- 방법: 세계 항목 문장마다 wondu-archive `names-2026-11-28/world/*.html`(위키백과)·`btn/name_*.html`·`btn/olive.html`·`btn/harbour.html` 본문과 대조. 빌드 → Playwright 27건(9개 입력 × 3개 화면) 페이지 오류 0건. 카드 PNG 6장 직접 열어 봄(en-liam·ja-himari는 바뀌지 않아 지난번 판정 유지).
+
+### 반드시 고칠 것
+- **없음.** 게시를 막을 만큼 틀린 사실·깨짐은 찾지 못함.
+
+### 지난 지적 반영
+| 지적 | 판정 |
+|---|---|
+| Olivia ↔ peace(출처 없는 상징 연결, confidence 80%) | 해결. peace에서 빠지고 olive 묶음(Oliva·Olive·Olivier, BtN 목록 원문과 일치). 화면에 평화·80% 없음, 카드도 "Italy · likely · Oliva — a 2nd-century saint of Brescia"로 바뀜 |
+| 恩 zh | ‘他人給的幫助’ — 教育部 1. “他人給我或我給他人的幫助”을 줄인 것(뒤쪽 “我給他人” 생략). 뜻 유지 |
+| Chloe 읽기 | 클로이로 고침 |
+
+### 세계 항목 대조 (문장 = 출처에 있는 사실인지 / c / 4개 언어)
+| 항목 | 출처 원문 | 판정 |
+|---|---|---|
+| JP Minato 港区 | Minato, Tokyo: “special ward”, 각주 “The common noun meaning ‘harbor’” | 맞음, c h 맞음. ko만 “이름에 항구를 그대로 써요”를 더함(港区 표기에서 나온 설명, 틀린 말 아님) |
+| IR Bandar Abbas | “derives from that of Abbas the Great … paired with bandar – "port", meaning "Port of Abbas"”, Persian Gulf | 맞음, c h. nn بندر는 같은 문서에 있음 |
+| KR 부산항 | “largest and busiest port in South Korea … over three-quarters of Korea's container shipping in 2022” | 맞음, 4개 언어 같음. 링크 /ktx-busan/ 있음 |
+| JP みどりの日 | “May 4 … to commune with nature and to be thankful for blessings” | 맞음 |
+| GR Chloe (legend) | BtN Chloe: “"green shoot" … new plant growth in the spring. This was an epithet of the Greek goddess Demeter”, 표기 Χλόη 있음 | 맞음. c legend 맞음. ko·ja·zh는 “그리스 신화에서”를 더함(en은 없음) — 뜻 차이 작음 |
+| KR 보성 | Boseong County: “famous for its green tea leaves, with 26.71 hectares of land dedicated to its production” | 출처와 글자 그대로 맞음. **권고**: 26.71ha는 위키 문장 그대로라 맞지만 군 단위 녹차 재배 면적으로는 작게 보여서, 공식 통계(보성군·농식품부)와 대조하기 전에는 수치를 빼거나 “위키백과 기준”으로 쓰는 것이 안전함(검토자 추론, 확인 안 함). 카드에는 수치가 안 나옴 |
+| GB Grace | BtN: “From the English word grace … Latin gratia … virtue names created in the 17th century by the Puritans” | 맞음, c h |
+| JP Megumi | BtN: “恵 (megumi) meaning "favour, benefit"” | 맞음. ja 문장은 뜻을 빼고 표기만(일본어 화면이라 무방) |
+| IL Hannah (legend) | BtN: “חַנָּה … "favour, grace" … remained barren. After a blessing from Eli … Samuel” | 맞음, c legend 맞음. 권고: 구약 인물에 지역 ‘이스라엘’(현대 국가) 국기 — 오해 소지 작으나 ‘히브리어권’ 같은 표기도 고려 |
+| GR Kallisto (legend) | BtN: “"most beautiful" … nymph loved by Zeus … changed into a she-bear by Hera … Great Bear”, Καλλιστώ 있음 | 맞음, c legend 맞음 |
+| IT Bella | BtN: “Short form of Isabella … also associated with the Italian word bella meaning "beautiful"” | 맞음, c h |
+| JP Isamu / TW Yong | BtN Isamu: “勇 (isamu) meaning "brave"”, Other Readings “Yong (Chinese) … Yong (Korean)” | 맞음 |
+| GR 올리브관 | Olive wreath: “kotinos … prize for the winner at the ancient Olympic Games … branch of the wild olive tree … that grew at Olympia” | 맞음, c h |
+| IT Oliva (c m) | BtN olive 목록: “Latin name meaning "olive". … a 2nd-century saint from Brescia” | 맞음 |
+| FR Olivier | BtN: “French and Dutch form of Oliver. This is also a French word meaning "olive tree"” | 맞음 |
+- 한글 읽기(NK): 칼리스토·그레이스·메구미·해나·벨라·이사무·융·올리바·올리비에·미나토·반다르·미도리·클로이 — 표기법상 문제 없음(Hannah 해나는 영어식, 지역 IL이면 ‘하나’도 가능 — 권고).
+- 확인일 d: 새 항목은 2026-11-28 유지, 기존 항목은 `!e.d`일 때만 기본값 — 동작 확인(화면에 “2026-11-28 확인”).
+
+### 카드 (6장 갱신분 직접 열어 봄)
+| 카드 | 깨짐 | 내용 |
+|---|---|---|
+| en-olivia | 없음 | olive 묶음, 출처 Behind the Name·Wikipedia. 문제 없음 |
+| ja-minato | 없음 | “港”, 日本 Minato 港 東京都港区(確実)·イラン Bandar بندر(確実)·韓国 釜山港. 문제 없음 |
+| ja-sui | 없음 | “緑色”(漢字ペディア ②みどり를 바꿔 말함, 뜻 맞음), Midori みどりの日·Chloe 伝承·宝城の緑茶畑. 문제 없음 |
+| tw-enshuo | 없음 | “他人給的幫助 + 大、學識淵博”, Grace·Megumi 恵=恩惠. 문제 없음(같은 Grace 문장이 ‘出生在’와 ‘帶你去哪裡’에 두 번 — 권고) |
+| tw-jiahao | 없음 | “家人 + 才德出眾”, Isamu·Yong. 문제 없음(같은 Isamu 문장 두 번 — 권고) |
+| tw-pinyan | 없음 | “人的德性 + 美好”, Kallisto 傳說·Bella. 문제 없음 |
+| en-liam, ja-himari | — | 이번에 안 바뀜, 지난 판정(이상 없음) 유지 |
+
+### 남은 권고(게시 막지 않음, 지난번부터)
+- 한국어·일본어 화면의 영어 섞임(ko 品妍 “물건 + beautiful”, ja 恩碩 “kindness, mercy + great, eminent”) — 카드 8장에는 해당 없음.
+- 太·宗 등 성씨 목록 확대로 太郎·宗翰이 성+이름으로 풀림.
