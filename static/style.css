@@ -402,8 +402,8 @@ details.tr-more .fig{padding:8px}
 /* ---------- Incheon Airport to Seoul (2026-11-26, accessibility redesign): ride picker with photos, train compare, route chips. Uses .ic and .tr-* above ---------- */
 .ic-car-taxi-front{--i:url(/static/icons/car-taxi-front.svg)}.ic-arrow-down{--i:url(/static/icons/arrow-down.svg)}.ic-store{--i:url(/static/icons/store.svg)}.ic-wifi{--i:url(/static/icons/wifi.svg)}
 .ap-pick{list-style:none;padding:0;margin:1rem 0;display:grid;gap:10px}
-.ap-pick a{display:grid;grid-template-columns:104px 1fr;gap:12px;align-items:center;background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px;text-decoration:none;color:var(--ink);line-height:1.35}
-.ap-pick a:hover{border-color:var(--red);color:var(--ink)}
+.ap-pick>li>a{display:grid;grid-template-columns:104px 1fr;gap:12px;align-items:center;background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px;text-decoration:none;color:var(--ink);line-height:1.35}
+.ap-pick>li>a:hover{border-color:var(--red);color:var(--ink)}
 .ap-pick img{display:block;width:104px;height:84px;object-fit:cover;border-radius:8px}
 .ap-pick .noimg{display:flex;align-items:center;justify-content:center;width:104px;height:84px;border-radius:8px;background:var(--night);color:#efe9dd}
 .ap-pick .noimg .ic{width:40px;height:40px}
@@ -485,8 +485,9 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .ap-pick li.x{background:#fff;border:1px solid var(--hair);border-radius:12px;padding:8px 8px 10px}
 .ap-pick li.x .hd{display:grid;grid-template-columns:104px 1fr;gap:12px;align-items:center;line-height:1.35}
 .ap-pick .pts{list-style:none;padding:0;margin:.6rem 4px 0;display:grid;gap:5px}
-.ap-pick .pts li{display:flex;gap:8px;align-items:flex-start;line-height:1.4;font-size:.95rem}
-.ap-pick .pts .ic{width:1.2em;height:1.2em;color:var(--muted);margin-top:2px;flex:none}
+.ap-pick .pts li{display:block;position:relative;padding-left:1.75em;line-height:1.4;font-size:.95rem}
+.ap-pick .pts .ic{width:1.2em;height:1.2em;color:var(--muted)}
+.ap-pick .pts li>.ic{position:absolute;left:0;top:.12em}
 .ap-pick .who{margin:.55rem 4px 0;padding:6px 8px;border-radius:8px;background:var(--paper);font-weight:600;font-size:.92rem;line-height:1.4}
 .acc-pad{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--hair);border-radius:10px;padding:10px 12px;line-height:1.45}
 .acc-pad .ic{width:1.4em;height:1.4em;color:var(--red);margin-top:2px}
