@@ -251,7 +251,7 @@ The Express timetable changed on 23 October 2026, when daily Express runs rose f
 | Terminal 2 | **3F** Counter F, Travel Mate & bookstore (Travel Mate & Book Store) | 06:30–21:30 |
 
 - **At Terminal 2 it is on 3F.** You have to go up from the arrivals hall (1F).
-- **If you land late at night, you may not be able to collect it.** Book only if you can come out of the arrivals hall before closing time (Terminal 1 21:00, Terminal 2 21:30). If you are late, buy one the way [step 3, "Buy and top up a T-money card"](#buy-tmoney) shows. We have not checked whether those places are open at night.
+- **If you land late at night, you may not be able to collect it.** Book only if you can come out of the arrivals hall before closing time (Terminal 1 21:00, Terminal 2 21:30). If you are late, buy one the way [step 3, "Get a T-money card and load it"](#buy-tmoney) shows. We have not checked whether those places are open at night.
 - **Two products:** card only, or card + ₩10,000 loaded. You can collect it only on the date you chose, and cancellation is free up to 24 hours before.
 - **Children and teens:** for ages 6–12 and 13–19, after buying the card, register the date of birth with a passport at a convenience store counter to get the discount. Ages 0–5 ride free, except on trains (Klook's information).
 - **Top-up:** ₩1,000–90,000 at a time, and the card can hold up to ₩500,000. Top up at a subway station machine (including Incheon Airport station) or a convenience store with the T-money sign.
