@@ -1,6 +1,6 @@
 ---
 title: 仁川空港からソウルへ:泊まる場所で選ぶ
-description: AREX直通列車・一般列車、空港リムジンバス、タクシーの時間と運賃、空港内の乗り場、夜遅く着いたときの選択肢まで。2026年11月26日確認。
+description: 仁川空港からソウルへ:ソウル駅の近くに泊まるならAREX直通列車(43分、13,000ウォン)、弘大・孔徳ならAREX一般列車(カードで4,650ウォン)、路線から遠いホテルは空港リムジンバス。夜遅く着くなら、第1ターミナル発の直通の最終は22:48。空港内の乗り場まで。2026年11月26日確認。
 lede: ホテルにいちばん近く降ろしてくれるものを選びましょう。列車かバスで43〜80分、4,650〜18,000ウォン。
 section: essentials
 disclosure: yes
@@ -14,7 +14,7 @@ updated: 2026-11-26
 
 <h2 id="pick">私のホテルには何で行く?</h2>
 
-<ul class="ap-pick"><li class="x" id="express"><div class="hd"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>ソウル駅の近く</small><b><i class="ic ic-train-front" aria-hidden="true"></i>AREX直通列車</b><span class="m">43分 · 13,000ウォン · 全席指定</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>ソウル駅までノンストップ、第1ターミナルから43分、第2ターミナルから51分</li><li><i class="ic ic-wallet" aria-hidden="true"></i>大人13,000ウォン</li><li><i class="ic ic-armchair" aria-hidden="true"></i>全席指定、無料Wi-Fi</li><li><i class="ic ic-ticket" aria-hidden="true"></i>切符は第1・第2ターミナル地下1階の交通センターにある直通列車の自動券売機かカウンター、または<a href="https://www.airportrailroad.com/ticket/rsv" rel="noopener" target="_blank">空港鉄道の公式予約</a>で。海外のカードも使えます。事前予約は必須ではありません。券売機の操作はすぐ下の折りたたみに。</li></ul><p class="who">私たちの判断:ホテルがソウル駅の近くなら。直通列車はソウル駅までなので、ほかの場所ならソウル駅でもう一度乗り換えます。</p></li><li class="x" id="allstop"><div class="hd"><img src="/static/photo/arex-allstop-concourse.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>弘大・孔徳</small><b><i class="ic ic-train-front" aria-hidden="true"></i>AREX一般列車</b><span class="m">交通カード4,650ウォン · 乗り換えなし</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>第1ターミナルからソウル駅まで59分(第2ターミナルからは66分)</li><li><i class="ic ic-credit-card" aria-hidden="true"></i>交通カードでソウル駅まで4,750ウォン、弘大入口・孔徳まで4,650ウォン。第2ターミナルからは600ウォン高くなります。</li><li><i class="ic ic-users" aria-hidden="true"></i>地下鉄と同じ自由席。</li></ul><p class="who">弘大・孔徳ならこちら。同じ路線で運賃は約3分の1、乗り換えもありません。</p></li><li><a href="#bus"><img src="/static/photo/limousine-6010.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>明洞・江南・蚕室など路線から離れたホテル</small><b><i class="ic ic-bus" aria-hidden="true"></i>空港リムジンバス</b><span class="m">60〜80分 · 荷物は係員が積んでくれる</span></span></a></li><li><a href="#taxi"><span class="noimg"><i class="ic ic-car-taxi-front" aria-hidden="true"></i></span><span><small><i class="ic ic-users" aria-hidden="true"></i>荷物の多い3〜4人</small><b><i class="ic ic-car-taxi-front" aria-hidden="true"></i>インターナショナルタクシー</b><span class="m">定額 · 70,000〜95,000ウォン</span></span></a></li><li><a href="#late"><span class="noimg"><i class="ic ic-moon" aria-hidden="true"></i></span><span><small><i class="ic ic-plane" aria-hidden="true"></i>どこでも、夜9時以降に着く便</small><b><i class="ic ic-triangle-alert" aria-hidden="true"></i>先に「夜遅くに着くなら」を</b><span class="m">第1ターミナル発の直通の最終 22:48</span></span></a></li></ul>
+<ul class="ap-pick"><li class="x" id="express"><div class="hd"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>ソウル駅の近く</small><b><i class="ic ic-train-front" aria-hidden="true"></i>AREX直通列車</b><span class="m">43分 · 13,000ウォン · 全席指定</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>ソウル駅までノンストップ、第1ターミナルから43分、第2ターミナルから51分</li><li><i class="ic ic-wallet" aria-hidden="true"></i>大人13,000ウォン</li><li><i class="ic ic-armchair" aria-hidden="true"></i>全席指定、無料Wi-Fi</li><li><i class="ic ic-ticket" aria-hidden="true"></i>切符は第1・第2ターミナル地下1階の交通センターにある直通列車の自動券売機かカウンター、または<a href="https://www.airportrailroad.com/ticket/rsv" rel="noopener" target="_blank">空港鉄道の公式予約</a>で。海外のカードも使えます。事前予約は必須ではありません。券売機の操作はすぐ下の折りたたみに。</li></ul><p class="who">私たちの判断:ホテルがソウル駅の近くなら。直通列車はソウル駅までなので、ほかの場所ならソウル駅でもう一度乗り換えます。</p></li><li class="x" id="allstop"><div class="hd"><img src="/static/photo/arex-allstop-concourse.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>弘大・孔徳</small><b><i class="ic ic-train-front" aria-hidden="true"></i>AREX一般列車</b><span class="m">交通カード4,650ウォン · 乗り換えなし</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>第1ターミナルからソウル駅まで59分(第2ターミナルからは66分)</li><li><i class="ic ic-credit-card" aria-hidden="true"></i>交通カードでソウル駅まで4,750ウォン、弘大入口・孔徳まで4,650ウォン。第2ターミナルからは600ウォン高くなります。</li><li><i class="ic ic-users" aria-hidden="true"></i>地下鉄と同じ自由席。</li></ul><p class="who">弘大・孔徳ならこちら。同じ路線で運賃は約3分の1、乗り換えもありません。</p></li><li><a href="#bus"><img src="/static/photo/limousine-6010.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>明洞・江南・蚕室など路線から離れたホテル</small><b><i class="ic ic-bus" aria-hidden="true"></i>空港リムジンバス</b><span class="m">60〜80分 · 荷物は係員が積んでくれる</span></span></a></li><li><a href="#taxi"><span class="noimg"><i class="ic ic-car-taxi-front" aria-hidden="true"></i></span><span><small><i class="ic ic-users" aria-hidden="true"></i>荷物の多い3〜4人</small><b><i class="ic ic-car-taxi-front" aria-hidden="true"></i>インターナショナルタクシー</b><span class="m">定額 · 70,000〜95,000ウォン</span></span></a></li><li><a href="#late"><span class="noimg"><i class="ic ic-moon" aria-hidden="true"></i></span><span><small><i class="ic ic-plane" aria-hidden="true"></i>どこでも、夜9時以降に着く便</small><b><i class="ic ic-triangle-alert" aria-hidden="true"></i>先に「夜遅く着いたら」を</b><span class="m">第1ターミナル発の直通の最終 22:48</span></span></a></li></ul>
 
 
 
@@ -43,7 +43,7 @@ updated: 2026-11-26
 | ソウル駅の近く | AREX直通列車 | 第1ターミナルからノンストップ43分、全席指定 |
 | 弘大・孔徳 | AREX一般列車 | どちらにも停車。交通カードで4,650ウォン、乗り換えなし |
 | 明洞・江南・蚕室など路線から離れたホテル | 空港リムジンバス | ホテルの多いエリアへ直行、荷物は係員が積んでくれる |
-| どこでも、夜9時以降に着く便 | 先に「夜遅くに着くなら」を | 第1ターミナル発の直通の最終は22:48 |
+| どこでも、夜9時以降に着く便 | 先に「夜遅く着いたら」を | 第1ターミナル発の直通の最終は22:48 |
 
 {{fig:airport-to-seoul-1|第1ターミナルからソウルへ、4つの方法(大人運賃)}}
 
@@ -157,7 +157,7 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 </details>
 
-<h2 id="late">夜遅くに着くなら</h2>
+<h2 id="late">仁川空港に夜遅く着いたら、ソウルへどう行く?</h2>
 
 <aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>AREX直通の最終:第1ターミナル22:48、第2ターミナル22:40。</b> Visit Seoulは入国審査と荷物の受け取りに1〜2時間みておくよう案内しているので、夜9時以降に着く便だと間に合わないことがあります。出発前に決めておきましょう。</span></aside>
 

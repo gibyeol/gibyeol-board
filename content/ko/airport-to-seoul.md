@@ -1,6 +1,6 @@
 ---
 title: 인천공항에서 서울까지: 숙소 위치로 고르기
-description: 공항철도 직통·일반, 공항 리무진버스, 택시의 시간과 요금, 공항 안에서 타는 곳, 늦게 도착했을 때 남는 선택지까지. 2026년 11월 26일 확인.
+description: 인천공항에서 서울까지: 서울역 근처 숙소면 공항철도 직통열차(43분, 13,000원), 홍대·공덕이면 일반열차(교통카드 4,650원), 노선에서 먼 숙소는 공항 리무진버스예요. 늦게 도착하면 1터미널 직통 막차는 22:48. 공항 안 타는 곳까지 정리했어요. 2026년 11월 26일 확인.
 lede: 숙소에서 제일 가까이 내려 주는 걸 고르세요. 열차나 버스로 43~80분, 4,650~18,000원.
 section: essentials
 disclosure: yes
@@ -14,7 +14,7 @@ updated: 2026-11-26
 
 <h2 id="pick">내 숙소엔 뭘 타지?</h2>
 
-<ul class="ap-pick"><li class="x" id="express"><div class="hd"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>서울역 근처</small><b><i class="ic ic-train-front" aria-hidden="true"></i>공항철도 직통열차</b><span class="m">43분 · 13,000원 · 지정 좌석</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>서울역까지 안 서고 1터미널 43분, 2터미널 51분</li><li><i class="ic ic-wallet" aria-hidden="true"></i>어른 13,000원</li><li><i class="ic ic-armchair" aria-hidden="true"></i>전 좌석 지정석, 무료 와이파이</li><li><i class="ic ic-ticket" aria-hidden="true"></i>표는 1·2터미널 지하 1층 교통센터의 직통열차 자동발매기·안내센터, 또는 <a href="https://www.airportrailroad.com/ticket/rsv" rel="noopener" target="_blank">공항철도 공식 예매</a>. 해외 카드도 돼요. 미리 예매하지 않아도 돼요. 발매기 누르는 순서는 바로 아래 접힘에 있어요.</li></ul><p class="who">우리 판단: 숙소가 서울역 근처일 때 고르세요. 직통열차는 서울역까지만 가서, 다른 곳이면 서울역에서 한 번 더 갈아타야 해요.</p></li><li class="x" id="allstop"><div class="hd"><img src="/static/photo/arex-allstop-concourse.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>홍대·공덕</small><b><i class="ic ic-train-front" aria-hidden="true"></i>공항철도 일반열차</b><span class="m">교통카드 4,650원 · 환승 없음</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>1터미널에서 서울역까지 59분(2터미널 66분)</li><li><i class="ic ic-credit-card" aria-hidden="true"></i>교통카드로 서울역 4,750원, 홍대입구·공덕 4,650원. 2터미널에서 타면 600원 더.</li><li><i class="ic ic-users" aria-hidden="true"></i>지하철처럼 자유석.</li></ul><p class="who">홍대·공덕이면 이쪽. 같은 노선에 요금은 3분의 1 정도, 갈아탈 필요도 없어요.</p></li><li><a href="#bus"><img src="/static/photo/limousine-6010.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>명동·강남·잠실 등 노선에서 먼 곳</small><b><i class="ic ic-bus" aria-hidden="true"></i>공항 리무진버스</b><span class="m">60~80분 · 짐은 직원이 실어 줘요</span></span></a></li><li><a href="#taxi"><span class="noimg"><i class="ic ic-car-taxi-front" aria-hidden="true"></i></span><span><small><i class="ic ic-users" aria-hidden="true"></i>짐 많은 3~4명</small><b><i class="ic ic-car-taxi-front" aria-hidden="true"></i>외국인관광택시(인터내셔널택시)</b><span class="m">정액 · 70,000~95,000원</span></span></a></li><li><a href="#late"><span class="noimg"><i class="ic ic-moon" aria-hidden="true"></i></span><span><small><i class="ic ic-plane" aria-hidden="true"></i>어디든, 밤 9시 이후 착륙</small><b><i class="ic ic-triangle-alert" aria-hidden="true"></i>'늦게 도착한다면' 먼저</b><span class="m">1터미널 직통 막차 22:48</span></span></a></li></ul>
+<ul class="ap-pick"><li class="x" id="express"><div class="hd"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>서울역 근처</small><b><i class="ic ic-train-front" aria-hidden="true"></i>공항철도 직통열차</b><span class="m">43분 · 13,000원 · 지정 좌석</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>서울역까지 안 서고 1터미널 43분, 2터미널 51분</li><li><i class="ic ic-wallet" aria-hidden="true"></i>어른 13,000원</li><li><i class="ic ic-armchair" aria-hidden="true"></i>전 좌석 지정석, 무료 와이파이</li><li><i class="ic ic-ticket" aria-hidden="true"></i>표는 1·2터미널 지하 1층 교통센터의 직통열차 자동발매기·안내센터, 또는 <a href="https://www.airportrailroad.com/ticket/rsv" rel="noopener" target="_blank">공항철도 공식 예매</a>. 해외 카드도 돼요. 미리 예매하지 않아도 돼요. 발매기 누르는 순서는 바로 아래 접힘에 있어요.</li></ul><p class="who">우리 판단: 숙소가 서울역 근처일 때 고르세요. 직통열차는 서울역까지만 가서, 다른 곳이면 서울역에서 한 번 더 갈아타야 해요.</p></li><li class="x" id="allstop"><div class="hd"><img src="/static/photo/arex-allstop-concourse.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>홍대·공덕</small><b><i class="ic ic-train-front" aria-hidden="true"></i>공항철도 일반열차</b><span class="m">교통카드 4,650원 · 환승 없음</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>1터미널에서 서울역까지 59분(2터미널 66분)</li><li><i class="ic ic-credit-card" aria-hidden="true"></i>교통카드로 서울역 4,750원, 홍대입구·공덕 4,650원. 2터미널에서 타면 600원 더.</li><li><i class="ic ic-users" aria-hidden="true"></i>지하철처럼 자유석.</li></ul><p class="who">홍대·공덕이면 이쪽. 같은 노선에 요금은 3분의 1 정도, 갈아탈 필요도 없어요.</p></li><li><a href="#bus"><img src="/static/photo/limousine-6010.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>명동·강남·잠실 등 노선에서 먼 곳</small><b><i class="ic ic-bus" aria-hidden="true"></i>공항 리무진버스</b><span class="m">60~80분 · 짐은 직원이 실어 줘요</span></span></a></li><li><a href="#taxi"><span class="noimg"><i class="ic ic-car-taxi-front" aria-hidden="true"></i></span><span><small><i class="ic ic-users" aria-hidden="true"></i>짐 많은 3~4명</small><b><i class="ic ic-car-taxi-front" aria-hidden="true"></i>외국인관광택시(인터내셔널택시)</b><span class="m">정액 · 70,000~95,000원</span></span></a></li><li><a href="#late"><span class="noimg"><i class="ic ic-moon" aria-hidden="true"></i></span><span><small><i class="ic ic-plane" aria-hidden="true"></i>어디든, 밤 9시 이후 착륙</small><b><i class="ic ic-triangle-alert" aria-hidden="true"></i>'밤늦게 도착하면' 먼저</b><span class="m">1터미널 직통 막차 22:48</span></span></a></li></ul>
 
 
 
@@ -43,7 +43,7 @@ updated: 2026-11-26
 | 서울역 근처 | 공항철도 직통열차 | 1터미널에서 안 서고 43분, 지정 좌석 |
 | 홍대·공덕 | 공항철도 일반열차 | 두 역 다 서요. 교통카드 4,650원, 환승 없음 |
 | 명동·강남·잠실 등 노선에서 먼 곳 | 공항 리무진버스 | 숙소 많은 지역까지 바로, 짐은 직원이 실어 줘요 |
-| 어디든, 밤 9시 이후 착륙 | 아래 '늦게 도착한다면' 먼저 | 1터미널 직통 막차가 22:48이에요 |
+| 어디든, 밤 9시 이후 착륙 | 아래 '밤늦게 도착하면' 먼저 | 1터미널 직통 막차가 22:48이에요 |
 
 {{fig:airport-to-seoul-1|1터미널에서 서울까지 네 가지 방법, 어른 요금}}
 
@@ -157,7 +157,7 @@ Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라�
 
 </details>
 
-<h2 id="late">늦게 도착한다면</h2>
+<h2 id="late">인천공항에 밤늦게 도착하면 서울까지 어떻게 가요?</h2>
 
 <aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>공항철도 직통 막차: 1터미널 22:48, 2터미널 22:40.</b> Visit Seoul은 입국심사와 짐 찾기에 1~2시간을 잡으라고 안내하니, 밤 9시 이후 착륙이면 놓칠 수 있어요. 출발 전에 정해 두세요.</span></aside>
 

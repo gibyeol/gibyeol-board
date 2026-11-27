@@ -1,6 +1,6 @@
 ---
 title: 韓國退稅:出示護照就好
-description: 誰能退稅、15,000 韓元門檻、現場退稅單筆未滿 100 萬與總額 500 萬韓元上限、收銀台・市區・機場的退稅步驟與機場自助機・退稅櫃台位置,以及扣掉手續費後實際能拿回多少。
+description: 韓國退稅:在提供即時退稅的店家結帳時出示護照正本,同一家店單張收據15,000韓元以上、未滿1,000,000韓元就當場扣稅。大筆消費拿退稅單,在仁川機場報到 → 自助機海關驗證 → 出境審查 → 在免稅區領錢。扣掉手續費約拿回5–8%。
 lede: 在韓國旅行時,10% 加值稅的一部分在結帳時就直接扣掉。出示護照就好。大筆消費則拿退稅單,到機場領回。
 section: tax
 updated: 2026-11-26
@@ -11,6 +11,10 @@ disclosure: yes
 <figure class="tr-hero acc-hero"><img src="/static/photo/oy-myeongdong-passport-sign.webp" alt="明洞 Olive Young 收銀台上方的告示:Please prepare your physical passport (for immediate tax refund)" width="780" height="403"><figcaption><b>重點就這一個。</b>明洞一家 Olive Young 收銀台的告示:「為了現場退稅,請準備好護照正本」。<span class="tr-credit">照片:Sgroey,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調整亮度)</span></figcaption></figure>
 
 <ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>護照正本<small>照片不行</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>15,000 韓元以上<small>同一家店、單張收據</small></span></li><li><i class="ic ic-percent" aria-hidden="true"></i><span>約退 5–8%<small>扣掉退稅公司手續費後</small></span></li><li><i class="ic ic-clock" aria-hidden="true"></i><span>結帳時當場退<small>未滿 1,000,000 韓元</small></span></li></ul>
+
+**結帳時已經扣稅了?那在機場什麼都不用做。** 拿的是退稅單的話,在仁川機場照這個順序走4步([附地圖的完整步驟](#airport)):
+
+<ol class="steps"><li><b>報到</b>:退稅商品和退稅單不要托運,拿在手上。</li><li><b>自助機(海關驗證)</b>:進出境口之前的3樓一般區。第1航廈在報到櫃台B・E・J・L附近,第2航廈在F・G附近。</li><li><b>安檢・出境審查。</b></li><li><b>領錢</b>:3樓免稅區。第1航廈在28號登機門附近,第2航廈在退稅櫃台(無人退稅機24小時)。</li></ol>
 
 ## 我可以退稅嗎?
 
@@ -58,7 +62,7 @@ disclosure: yes
 
 <ul class="tr-next"><li><a href="https://www.globalblue.com/en/refund-points-map?country=South-Korea" rel="noopener" target="_blank"><i class="ic ic-map-pin" aria-hidden="true"></i>Global Blue 退稅單:海關與退稅點地圖(英文)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
-<h2 id="airport">在機場:仁川機場一步一步</h2>
+<h2 id="airport">仁川機場怎麼退稅?在哪裡辦?</h2>
 
 順序只有一個:**報到 → 自助機(海關驗證) → 安檢・出境審查 → 在免稅區領錢。** 要退稅的商品在海關驗證前不要托運。
 

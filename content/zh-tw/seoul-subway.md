@@ -1,6 +1,6 @@
 ---
 title: 首爾地鐵7步驟:儲值、嗶卡、轉乘、出口
-description: 首爾地鐵怎麼付款、怎麼儲值(現金)、轉乘公車的優惠、出口怎麼找、末班車怎麼查,以及第一天最常犯的錯,用真實的閘門、售票機和標示照片說明。2026年11月確認。
+description: 首爾地鐵用T-money(或WOWPASS)進站嗶、出站嗶,基本1,550韓元(10公里內)。怎麼用現金儲值、T-money還是WOWPASS、轉乘公車、找出口、末班車,用真實的閘門、售票機和標示照片說明。2026年11月確認。
 lede: 一張卡,進站嗶、出站嗶。一趟1,550韓元。用真實的閘門和標示照片帶你走一遍。
 section: transport
 disclosure: yes
@@ -83,9 +83,20 @@ updated: 2026-11-26
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span><b>要接公車的話</b>,用同一張卡在出站後30分鐘內(晚上9點~隔天早上7點為60分鐘內)上車,才有轉乘優惠。公車怎麼搭:<a href="/zh-tw/seoul-bus/">首爾公車</a>。</span></aside>
 
-## 用哪張卡?
+<h2 id="用哪張卡">T-money還是WOWPASS?該用哪張卡?</h2>
 
-我們的判斷:幾乎所有人用儲值卡就對了,單程票只是備案。三種方式用一個問題分開:一天搭幾趟、會不會離開首爾。
+**我們的判斷:只搭車,選T-money;想用一張卡也換錢、在店裡刷卡,選WOWPASS。** 地鐵和公車車資,兩張卡都一樣從T-money餘額扣。WOWPASS的這個餘額和消費餘額是分開的。
+
+| | T-money | WOWPASS |
+|---|---|---|
+| 卡片費用 | 機場鐵路站售卡機:15,000韓元(卡片5,000韓元+車資10,000韓元)。市區:以店家標示為準 | 5,500韓元(在機台事先預約,原價6,000韓元) |
+| 在哪買 | 便利商店櫃台、車站機器([怎麼買](/zh-tw/convenience-store/#tmoney)) | 地鐵站、飯店、便利商店等處的WOWPASS機台 |
+| 儲值 | 車站售票機、便利商店,用韓元現金 | 消費餘額:WOWPASS機台(16種外幣現金或信用卡)或App |
+| 交通餘額分開嗎? | 不分開,只有一個餘額 | 分開。T-money餘額用韓元現金儲值,或在App(NFC)把WOWPASS餘額轉進去 |
+| 剩下的錢拿回來 | 依剩餘金額到不同地方退:2萬韓元以下,GS25、7-ELEVEN等便利商店;3萬韓元以下,CU、emart24等便利商店;再多就到首爾地鐵站務室;50,000韓元以上只能到T-money總公司(首爾站10號出口,平日9〜18點)。手續費500韓元 | 消費餘額:在WOWPASS機台領韓元現金(手續費1,000韓元,一次最多10萬韓元)。T-money餘額:同T-money |
+| 在機場拿 | 第1、第2航廈機場鐵路站的T-money售卡機賣15,000韓元的卡,可用海外信用卡 | 機場SK電訊漫遊中心:WOWPASS+T-money+SIM組合 |
+
+**三種付款方式總覽。** 我們的判斷:幾乎所有人用儲值卡就對了,單程票只是備案。三種方式用一個問題分開:一天搭幾趟、會不會離開首爾。
 
 <ul class="tr-choose"><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>T-money,或內建T-money的WOWPASS</b><span class="tag">一般3~7天首爾行程</span><span>T-money是韓國的標準交通卡,用法就像悠遊卡。每趟比單程票便宜100韓元,轉乘公車也有優惠。WOWPASS的T-money餘額要和WOWPASS餘額分開儲值(WOWPASS官方說明)。</span></li><li><i class="ic ic-calendar-days" aria-hidden="true"></i><b>氣候同行卡短期券</b><span class="tag">只在首爾市內、一天3趟以上、連續3天以上</span><span>3日券10,000韓元+卡片3,000韓元,約等於8趟交通卡票價。一天只搭1~2趟,或同一天要去水原、板橋的人不需要。</span></li><li><i class="ic ic-ticket" aria-hidden="true"></i><b>單程票</b><span class="tag">還沒有卡時</span><span>票價加100韓元,另付押金500韓元。只能搭首都圈鐵路,公車不能用。</span></li></ul>
 
@@ -216,6 +227,8 @@ updated: 2026-11-26
 <p class="sources">2026年11月26日(韓國時間)實際開啟確認。首爾市交通網站:<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價</a>(2025年6月28日調整)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">整合轉乘優惠</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">單程交通卡</a>、<a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">氣候同行卡短期券介紹</a>(2026年10月12日更新)與<a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>、<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">海外信用卡購買新聞稿</a>(2026年3月16日)、<a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">孕婦優先座說明</a>。首爾市 Media Hub:<a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">新型售票機與預付卡現金儲值</a>(2025年9月2日)、<a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">海外卡事實說明</a>(2026年1月7日)、<a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">深夜營運恢復</a>(2022年5月30日)、<a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014年交通卡分析</a>(2015年4月29日)、<a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9號線急行擴大</a>(2026年10月14日)。首爾市英文網站:<a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">海外卡</a>(2026年3月17日)、<a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">首末班車提前30分鐘計畫</a>(2025年5月27日)。<a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">首爾市地鐵9號線早晨列車搭乘說明</a>。機場鐵路<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">普通車</a>、<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車</a>說明。<a href="https://wowpass.io/en/guide" rel="noopener" target="_blank">WOWPASS官方說明</a>。Korea Herald:<a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">首末班車提前</a>(2025年5月22日)、<a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">孕婦座與徽章</a>(2023年6月27日)。Korea Times:<a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">孕婦優先座</a>(2017年12月6日)。 2026年11月26日另外查閱:Korea Herald <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">地鐵售票機接受海外發行卡</a>(2026年3月16日)、<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">大眾運輸使用訣竅</a>(2025年11月6日,地圖App)。</p>
 
 <p class="sources">2026年11月27日確認:機場鐵路 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直達車使用說明</a>(QR閘門);WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money餘額用車站、便利商店現金或App的NFC另外儲值);韓國先驅報 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場鐵路T-money卡</a>(內含交通費,15,000韓元、海外信用卡)。未能確認:Klook商品頁(擋下自動連線)。</p>
+
+<p class="sources">2026年11月27日22:25〜22:28(韓國時間)開啟確認(T-money和WOWPASS比較表):WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money餘額在地鐵站、便利商店用韓元現金或App的NFC儲值;WOWPASS餘額在機台提領,一次最多10萬韓元、每次手續費1,000韓元;T-money退款在便利商店、首爾地鐵站務室、T-money總公司,手續費500韓元,5萬韓元以上只能到T-money總公司,首爾站10號出口、平日9〜18點;可用16種外幣現金或信用卡儲值)與<a href="https://www.wowpass.io/zh-TW/product" rel="noopener" target="_blank">如何領取</a>(6,000韓元,地鐵站、飯店、便利商店機台預約5,500韓元;SKT行動漫遊中心的WOWPASS+Tmoney+SIM組合)。機場鐵路T-money 15,000韓元見上方韓國先驅報。未採用:T-money網站(www.tmoney.co.kr打得開,但找不到卡片價格與退款規定的頁面;eng.tmoney.co.kr連不上)。 依金額的退款地點(2萬、3萬、5萬韓元)來自同一個WOWPASS指南畫面文字(網頁程式,2026年11月27日確認)。</p>
 
 照片:來自維基共享資源,授權寫在每張照片的說明裡。票價比較與普通車・直達車的圖由Nadri繪製。
 

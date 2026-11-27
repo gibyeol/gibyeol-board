@@ -1,6 +1,6 @@
 ---
 title: 韓国の免税:パスポートを見せるだけ
-description: 対象者、15,000ウォンの最低購入額、その場で免税になる100万ウォン・500万ウォンの上限、レジ・市内・空港での受け取り方と空港のキオスク・還付窓口の場所、手数料を引いた実際の還付額。
+description: 韓国のタックスリファンドは、即時還付に対応したお店のレジでパスポートの実物を見せれば、1店舗・1レシート15,000ウォン以上100万ウォン未満ならその場で税金が引かれます。大きな買い物は還付書類をもらい、仁川空港でチェックイン → キオスクで税関確認 → 出国審査 → 免税エリアで受け取り。手数料を引くと約5〜8%が戻ります。
 lede: 韓国旅行中なら、10%の付加価値税の一部がレジでそのまま引かれます。パスポートを見せるだけです。大きな買い物は還付書類をもらい、空港で受け取ります。
 section: tax
 updated: 2026-11-26
@@ -11,6 +11,10 @@ disclosure: yes
 <figure class="tr-hero acc-hero"><img src="/static/photo/oy-myeongdong-passport-sign.webp" alt="明洞のオリーブヤングのレジ上の案内表示:Please prepare your physical passport (for immediate tax refund)" width="780" height="403"><figcaption><b>やることはこれだけ。</b>明洞のあるオリーブヤングのレジの表示:「即時免税のためパスポートの実物をご用意ください(Please prepare your physical passport for immediate tax refund)」。<span class="tr-credit">写真:Sgroey、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(切り抜き、明るさ自動補正)</span></figcaption></figure>
 
 <ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>パスポートの実物<small>写真は不可</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>15,000ウォン以上<small>1店舗・1レシート</small></span></li><li><i class="ic ic-percent" aria-hidden="true"></i><span>約5〜8%が戻る<small>還付会社の手数料を引いた後</small></span></li><li><i class="ic ic-clock" aria-hidden="true"></i><span>レジでその場で<small>100万ウォン未満</small></span></li></ul>
+
+**レジですでに税金が引かれたなら、空港ですることはありません。** 還付書類があるなら、仁川空港では4ステップ、この順番で([地図つきの詳しい手順](#airport)):
+
+<ol class="steps"><li><b>チェックイン</b>:還付する商品と書類は預けずに手に持って。</li><li><b>キオスク(税関確認)</b>:出国場に入る前、3階の一般エリア。第1ターミナルはチェックインカウンターB・E・J・L付近、第2ターミナルはF・G付近。</li><li><b>保安検査・出国審査。</b></li><li><b>お金を受け取る</b>:3階の免税エリア。第1ターミナルは28番ゲート付近、第2ターミナルは還付窓口(無人還付機は24時間)。</li></ol>
 
 ## 自分は対象?
 
@@ -58,7 +62,7 @@ disclosure: yes
 
 <ul class="tr-next"><li><a href="https://www.globalblue.com/en/refund-points-map?country=South-Korea" rel="noopener" target="_blank"><i class="ic ic-map-pin" aria-hidden="true"></i>Global Blueの書類なら:税関・還付場所の地図(英語)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
-<h2 id="airport">空港で:仁川空港の手順</h2>
+<h2 id="airport">仁川空港のタックスリファンド、どこでどうする?</h2>
 
 順番はひとつ。**チェックイン → キオスク(税関確認) → 保安検査・出国審査 → 免税エリアでお金を受け取る。** 還付する商品は、税関確認の前に預けないこと。
 
