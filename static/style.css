@@ -597,3 +597,5 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 @media (min-width:1024px){.qa-links{grid-template-columns:1fr 1fr 1fr}}
 .qa-sec .sec-h h2::before{width:calc(100% + 14px)}
 .qa-links a{word-break:auto-phrase}
+/* 2026-11-28: wayfinding maps are too small to read on phones (labels about 7px at 390px) -> show them wider and let the reader slide sideways */
+@media (max-width:640px){.fig:has(img[src$="map.svg"]),.fig:has(img[src*="airport-tmoney"]){overflow-x:auto;-webkit-overflow-scrolling:touch}.fig img[src$="map.svg"],.fig img[src*="airport-tmoney"]{min-width:620px;max-width:none}.fig:has(img[src$="map.svg"]) figcaption,.fig:has(img[src*="airport-tmoney"]) figcaption{position:sticky;left:0;width:calc(100vw - 2*var(--pad,16px) - 30px)}}
