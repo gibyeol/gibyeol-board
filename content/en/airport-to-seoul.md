@@ -169,6 +169,7 @@ Large and deluxe cars are ₩100,000–140,000. Split four ways, ₩85,000 is ab
 | After the last Express | [AREX all-stop train](#allstop). It runs later than the Express. Check its last train for your date on the [AREX train times](https://www.airportrailroad.com/train/normal/info) |
 | From 23:40 at Terminal 1 or 23:20 at Terminal 2, into the 4 a.m. hour | [Late-night buses](#late-bus), 4 routes. Take the one that stops near where you sleep |
 | Lots of bags, 3–4 people, or your stay is far from a bus stop | [Taxi](#late-taxi). From 10 p.m. to 4 a.m. a night surcharge is added to the meter fare |
+| Your flight may be late, or you have children or lots of bags | [Book a private car ahead](#late-car). The driver checks your flight and waits |
 
 {{fig:airport-to-seoul-7|What still runs from Terminal 1 late at night}}
 
@@ -195,6 +196,19 @@ From Terminal 2 the bus goes by way of Terminal 1, so the ride is about 20 minut
 - **Where to board:** Terminal 1 1F stands 5C, 6C and 6D; Terminal 2 Seoul taxi stand 7C.
 - **Deluxe and large taxis (9 seats):** base fare ₩7,000, 20% extra from 22:00 to 04:00. Terminal 1 stands 7C and 8C, Terminal 2 stand 7D.
 - **International Taxi (foreign-language help, fixed fare to Seoul, tolls included):** Terminal 1 stand 4C, Terminal 2 stand 3C, phone 1644-2255. The [fixed fares](#taxi) are exactly as in Seoul's fare table. That table shows no separate night fare, so ask for the total before you get in.
+
+<h3 id="late-car">Booking a private car ahead: when is it a good idea?</h3>
+
+**It's good when you land late and your flight may be delayed, when you have children or lots of bags, or when your stay is far from a late-night bus stop.** Enter your hotel's name (address) and your arrival time or flight number, then pick a car type and book.
+
+- **If your flight is late:** On the Klook products we looked at (screens from 28 November 2026), the driver tracks your flight and waits for free up to 90 minutes after landing, even if the flight is late. After that, there is an extra charge. This can differ by company, so check under "See details" before you book.
+- **Cancelling:** On the same products, cancelling is free up to 24 hours before pickup. After that, you get no refund.
+- **Choosing a car:** Each car type shows the most people and bags it takes. For example, a 9-seater (Carnival, Staria and similar) takes up to 5 people with 5 bags of 24 inches, or 3 of 26 inches, or 2 of 28 inches. A 5-seat sedan takes up to 3 people. Count children and babies as 1 person each. A wheelchair, stroller or golf bag counts as 1 bag of 28 inches.
+- **Watch out:** If you have more people or bags than the limit, the driver may not take you, and then you get no refund. Pick a car with room to spare.
+- **Meeting the driver:** "Meet & greet", where the driver waits in the arrivals hall holding a name sign, is an option you pay extra for. If you don't add it, the screens we saw did not say where you meet. Check under "See details" before you book.
+- **Confirmed:** A booking confirmation comes within a few minutes of paying. Save it on your phone.
+
+{{aff:klook_transfer|Find an airport pickup car (enter your hotel and arrival time)}}
 
 <details class="tr-more"><summary><i class="ic ic-calendar-days" aria-hidden="true"></i>Why the last Express time changed</summary>
 
