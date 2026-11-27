@@ -22,7 +22,7 @@
 - 이번 세션에서 열린 곳: koreaherald.com, zdnet.co.kr, airport.kr, wowpass.io, tmoney.co.kr, sedaily.com. 막힌 곳(프록시 403 또는 연결 끊김): mediahub.seoul.go.kr, news.seoul.go.kr, royal.khs.go.kr, koreatimes, yna, korea.net, visitkorea(국문), cu·oliveyoung·korail, klook(affiliate.klook.com 403). e-arrivalcard.go.kr FAQ는 한 번 시도했지만 연결이 끊겨 못 열었어요.
 - 그래서 '확실' 판정은 대부분 **쪽에 적힌 출처 목록과 확인 날짜**에 기댄 것이고, 출처 원문과 글자 대조는 하지 못했어요. 특히 각 쪽 출처 목록에 "이번에 다시 열지 못함"으로 적힌 항목들은 이전 판 확인을 그대로 믿은 것이에요.
 - '확실' 문장은 하나하나 세지 않았어요(39쪽 수백 문장). 아래 표의 숫자는 **바꾼(또는 판단으로 남긴) 항목 수**이고, 확실은 '나머지 사실 문장 전부'예요.
-- 독립 검토는 아직 없어요. 이 표는 Claude(작성자) 자체 판정이에요.
+- 독립 검토: drafts/uncertain-audit-review-2026-11-27.md(1차), drafts/uncertain-audit-rereview-2026-11-27.md(반영분 재검토). 이 표 자체는 Claude(작성자) 판정이에요.
 
 ## 쪽별 요약
 
