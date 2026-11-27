@@ -4,9 +4,9 @@ description: 韓国の外から、オリーブヤングなど韓国コスメを�
 lede: 韓国に行かなくても、韓国コスメは家で受け取れます。買う前に見るのは三つだけ。自分の国に送ってくれるか、いくらから送料無料か、受け取るときに税金がかかるか。
 updated: 2026-11-27
 ---
-<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>ひと目で比較</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>総額の出し方</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>受け取るときの税金</a></div>
-
 <aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>広告について。</b> このページのアフィリエイトリンク(Awin)は「Stylevana(アフィリエイトリンク)」のボタン1つだけです。このボタン経由の注文でNadriが紹介料を受け取ることがあり、お客様の支払う金額は変わりません。出典に載せたStylevanaのアドレスを含め、ほかのリンクはすべて通常のリンクです。オリーブヤング(Rakuten)には申請中です。詳しくは<a href="/ja/disclosure/">Nadriの収益について</a>。</span></aside>
+
+<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>ひと目で比較</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>総額の出し方</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>受け取るときの税金</a></div>
 
 <h2 id="compare">ひと目で比較</h2>
 

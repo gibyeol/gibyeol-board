@@ -4,9 +4,9 @@ description: 한국 밖에서 올리브영 등 한국 화장품을 온라인으�
 lede: 한국에 오지 않아도 한국 화장품을 집에서 받을 수 있어요. 사기 전에 세 가지만 보세요. 우리 나라로 보내 주는지, 얼마부터 배송비가 무료인지, 받을 때 세금이 붙는지.
 updated: 2026-11-27
 ---
-<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>한눈에 비교</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>총액 계산</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>받을 때 세금</a></div>
-
 <aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지에서 'Stylevana(제휴 링크)' 버튼 하나만 제휴 링크(Awin)예요. 이 버튼으로 산 주문에서 Nadri가 수수료를 받을 수 있고, 내는 금액은 같아요. 출처에 적은 Stylevana 주소를 포함해 다른 링크는 모두 일반 링크예요. 올리브영(Rakuten)에는 신청해 두었어요. 자세히: <a href="/ko/disclosure/">Nadri의 수익 구조</a>.</span></aside>
+
+<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>한눈에 비교</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>총액 계산</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>받을 때 세금</a></div>
 
 <h2 id="compare">한눈에 비교</h2>
 

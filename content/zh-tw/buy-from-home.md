@@ -4,9 +4,9 @@ description: 在韓國以外網購 Olive Young 等韓國保養品、彩妝前要
 lede: 不用飛到韓國,也能在家收到韓國保養品。下單前只要看三件事:有沒有寄到你住的地方、買多少免運、收件時要不要繳稅。
 updated: 2026-11-27
 ---
-<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>一眼比較</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>算總金額</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>收件時的稅</a></div>
-
 <aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>廣告說明。</b> 這一頁只有「Stylevana(聯盟連結)」這一個按鈕是聯盟行銷連結(Awin)。透過這個按鈕下的訂單,Nadri 可能拿到佣金,你支付的價格不變。包括出處裡的 Stylevana 網址在內,其他連結都是一般連結。Olive Young(Rakuten)已申請。詳情:<a href="/zh-tw/disclosure/">Nadri 的收入來源</a>。</span></aside>
+
+<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>一眼比較</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>算總金額</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>收件時的稅</a></div>
 
 <h2 id="compare">一眼比較</h2>
 

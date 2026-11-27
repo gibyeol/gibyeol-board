@@ -4,9 +4,9 @@ description: What to check before you buy Korean skincare and makeup online from
 lede: You don't have to fly to Korea to get Korean skincare at home. Check three things before you buy: does the store ship to your country, from how much is shipping free, and will you pay tax when the parcel arrives.
 updated: 2026-11-27
 ---
-<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>Compare at a glance</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>Work out the total</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>Tax on arrival</a></div>
-
 <aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>Advertising notice.</b> Only one link on this page is an affiliate link (Awin): the button labelled "Stylevana (affiliate link)". Nadri may earn a commission on orders made through it; you pay the same price. Every other link, including the Stylevana addresses in the sources, is an ordinary link. We have applied to Olive Young (Rakuten). More: <a href="/disclosure/">How Nadri makes money</a>.</span></aside>
+
+<div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>Compare at a glance</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>Work out the total</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>Tax on arrival</a></div>
 
 <h2 id="compare">Compare at a glance</h2>
 
