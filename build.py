@@ -746,7 +746,7 @@ def build():
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(page(lang, meta, autolink(md(body, lang)), path, alternates), encoding="utf-8")
         if meta.get("noindex") != "yes":
-            urls.append((path, meta.get("updated", "")))
+            urls.append((path, max(meta.get("updated", ""), meta.get("modified", ""))))  # modified = last content change (sitemap only); updated = official-source check date shown on the page
     sm = "".join(f"<url><loc>{BASE}{u}</loc>{f'<lastmod>{d}</lastmod>' if d else ''}</url>" for u, d in urls)
     (DIST / "sitemap.xml").write_text(
         f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{sm}</urlset>',

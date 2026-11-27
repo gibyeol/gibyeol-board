@@ -5,6 +5,7 @@ lede: ホテルにいちばん近く降ろしてくれるものを選びまし�
 section: essentials
 disclosure: yes
 updated: 2026-11-26
+modified: 2026-11-28
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-hotel" aria-hidden="true"></i>私のホテルには何で?</a><a class="tr-btn" href="#late"><i class="ic ic-moon" aria-hidden="true"></i>夜9時以降に着く?</a></div>
 
@@ -82,7 +83,7 @@ Visit Seoulは、着陸後の入国審査と荷物の受け取りに1〜2時間�
 
 直通列車カウンター、交通カードの販売機、コンビニはどれも地下1階です。
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>T-moneyを買ってチャージ</h3>
+<h3 class="tr-step" id="buy-tmoney"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>T-moneyを買ってチャージ</h3>
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-moneyカード。 列車・地下鉄・バスがこれ1枚。" width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-moneyカード。</b> 列車・地下鉄・バスがこれ1枚。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), ウィキメディア・コモンズ</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="交通カードの販売・チャージ機(仁川の蘇莱浦口駅、KORAILの駅。ソウルや空港の機械は見た目が違うことがあります)。ここでチャージ。" width="780" height="585" loading="lazy" decoding="async"><figcaption><b>交通カードの販売・チャージ機</b>(仁川の蘇莱浦口駅、KORAILの駅。ソウルや空港の機械は見た目が違うことがあります)。ここでチャージ。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, ウィキメディア・コモンズ</span></figcaption></figure></div>
 
@@ -242,13 +243,24 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 <div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>T-moneyカード、空港で受け取り。</b> 一般列車・地下鉄・バスにタッチするだけ。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), ウィキメディア・コモンズ</span></p></div>
 
-**買う前に:** 商品の案内で、自分が着くターミナル(第1・第2)と到着時刻に受け取れるかを確かめてください。受け取り場所は私たちもまだ確認できていません(Klookのサイトが自動アクセスを止めていて開けませんでした)。
+**受け取り場所・時間と下の案内(すべてKlookの商品ページ、2026年11月28日に運営者が開いた画面による):**
+
+| ターミナル | 受け取り場所 | 営業時間 |
+|---|---|---|
+| 第1ターミナル | 1階7番出口側の書店(Book Store) | 07:00〜21:00 |
+| 第2ターミナル | **3階** Fカウンター、トラベルメイト&書店(Travel Mate & Book Store) | 06:30〜21:30 |
+
+- **第2ターミナルは3階です。** 到着ロビー(1階)から上がる必要があります。
+- **夜遅く着くと受け取れないことがあります。** 閉まる時刻(第1ターミナル21:00、第2ターミナル21:30)より前に到着ロビーを出られるときだけ予約しましょう。間に合わなければ[ステップ3「T-moneyを買ってチャージ」](#buy-tmoney)の方法で買います。それらが夜も開いているかは確認できていません。
+- **商品はふたつ:** カードのみ、またはカード+1万ウォンのチャージ入り。選んだ日にしか受け取れず、24時間前まで無料キャンセルです。
+- **子ども・青少年:** 6〜12歳・13〜19歳は、カードを買ったあとコンビニのレジでパスポートを見せて生年月日を登録すると割引になります。0〜5歳は列車を除いて交通費がかかりません(Klookの案内)。
+- **チャージ:** 一度に1,000〜90,000ウォン、カード残高は最大50万ウォン。地下鉄駅のチャージ機(仁川空港駅を含む)か、T-moneyマークのあるコンビニでできます。
 
 {{aff:klook_tmoney|T-moneyカードを予約して空港で受け取る}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買ったあと:T-moneyの受け取り</summary>
 
-1. **場所と時間:** 予約確認書(バウチャー)に書かれた場所と時間に行きます。
+1. **場所と時間:** 上の表の受け取り場所へ行きます(第1ターミナル1階7番出口側の書店07:00〜21:00、第2ターミナル3階Fカウンター06:30〜21:30)。予約確認書(バウチャー)に別の場所が書かれていたら、確認書に従ってください。Klookの案内では、確認書は支払いから数分以内に届き、届かなければKlookのカスタマーサポートに連絡するようにとのことです。
 2. **見せるもの:** 何を見せるかも予約確認書に書かれています。出発前にスマホに保存しておきましょう。
 3. **残高:** 改札の読み取り機にカードをかざすと残高が出ます。足りなければ上のステップ3のように券売機で現金チャージします。
 4. **受け取れないとき:** 販売元(Klook)のサポートに予約番号で問い合わせ、その間は地下1階のコンビニか空港鉄道駅のT-money自販機ですぐ買います。

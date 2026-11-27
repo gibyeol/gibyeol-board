@@ -5,6 +5,7 @@ lede: 숙소에서 제일 가까이 내려 주는 걸 고르세요. 열차나 �
 section: essentials
 disclosure: yes
 updated: 2026-11-26
+modified: 2026-11-28
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-hotel" aria-hidden="true"></i>내 숙소엔 뭘 타지?</a><a class="tr-btn" href="#late"><i class="ic ic-moon" aria-hidden="true"></i>밤 9시 이후 착륙?</a></div>
 
@@ -82,7 +83,7 @@ Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라�
 
 직통열차 안내센터, 교통카드 발매기, 편의점이 모두 지하 1층에 있어요.
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>티머니를 사서 충전해요</h3>
+<h3 class="tr-step" id="buy-tmoney"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>티머니를 사서 충전해요</h3>
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="티머니 카드. 열차·지하철·버스를 한 장으로." width="499" height="316" loading="lazy" decoding="async"><figcaption><b>티머니 카드.</b> 열차·지하철·버스를 한 장으로. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 위키미디어 공용</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="교통카드 발매·충전기(인천 소래포구역, 코레일 역. 서울이나 공항의 기계는 모양이 다를 수 있어요). 여기서 충전해요." width="780" height="585" loading="lazy" decoding="async"><figcaption><b>교통카드 발매·충전기</b>(인천 소래포구역, 코레일 역. 서울이나 공항의 기계는 모양이 다를 수 있어요). 여기서 충전해요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, 위키미디어 공용</span></figcaption></figure></div>
 
@@ -242,13 +243,24 @@ Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라�
 
 <div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>티머니 카드, 공항에서 받기.</b> 일반열차·지하철·버스에 대면 돼요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 위키미디어 공용</span></p></div>
 
-**사기 전에:** 상품 안내에서 내가 내리는 터미널(1·2)과 도착 시각에 받을 수 있는지 확인하세요. 받는 곳은 저희가 아직 확인하지 못했어요(클룩 사이트가 자동 접속을 막아 열지 못했어요).
+**받는 곳·시간과 아래 안내 (모두 클룩 상품 페이지, 2026년 11월 28일 운영자가 연 화면 기준):**
+
+| 터미널 | 받는 곳 | 운영 시간 |
+|---|---|---|
+| 1터미널 | 1층 7번 출구 쪽 서점(Book Store) | 07:00~21:00 |
+| 2터미널 | **3층** F 카운터, 트래블메이트 & 서점(Travel Mate & Book Store) | 06:30~21:30 |
+
+- **2터미널은 3층이에요.** 입국장(1층)에서 올라가야 해요.
+- **밤늦게 도착하면 못 받을 수 있어요.** 문 닫는 시각(1터미널 21:00, 2터미널 21:30) 전에 입국장을 나올 수 있을 때만 예약하세요. 늦으면 [3단계 '티머니를 사서 충전해요'](#buy-tmoney)의 방법으로 사요. 그곳들이 밤에 문을 여는지는 저희가 확인하지 못했어요.
+- **상품은 두 가지:** 카드만, 또는 카드 + 1만 원 충전. 고른 날짜에만 받을 수 있고, 24시간 전까지 무료 취소예요.
+- **어린이·청소년:** 6~12세·13~19세는 카드를 산 뒤 편의점 계산대에서 여권으로 생년월일을 등록해야 할인돼요. 0~5세는 기차를 빼고 교통비가 들지 않아요(클룩 안내).
+- **충전:** 한 번에 1,000원~90,000원, 카드 잔액은 최대 50만 원. 지하철역 충전기(인천공항역 포함)나 티머니 표시가 있는 편의점에서 해요.
 
 {{aff:klook_tmoney|티머니 카드 예약하고 공항에서 받기}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>산 다음: 티머니 받기</summary>
 
-1. **받는 곳·시간:** 예약 확인서(바우처)에 적힌 곳과 시간에 가요.
+1. **받는 곳·시간:** 위 표의 받는 곳으로 가요(1터미널 1층 7번 출구 쪽 서점 07:00~21:00, 2터미널 3층 F 카운터 06:30~21:30). 예약 확인서(바우처)에 다른 곳이 적혀 있으면 확인서를 따르세요. 클룩 안내로는 확인서가 결제 뒤 몇 분 안에 오고, 안 오면 클룩 고객센터에 연락하래요.
 2. **보여 줄 것:** 무엇을 보여 줄지도 예약 확인서에 적혀 있어요. 휴대폰에 미리 저장해 두세요.
 3. **잔액:** 개찰구 단말기에 카드를 대면 잔액이 떠요. 모자라면 위 3단계처럼 발매기에서 현금으로 충전해요.
 4. **못 받으면:** 판매처(클룩) 고객센터에 예약 번호로 문의하고, 그동안은 지하 1층 편의점이나 공항철도역 티머니 자판기에서 바로 사요.

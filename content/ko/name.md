@@ -5,6 +5,7 @@ lede: 이름에는 뜻이 있어요. Sophia는 지혜예요. 이스탄불에서�
 updated: 2026-11-25
 report: no
 byline: no
+modified: 2026-11-28
 ---
 <div id="namer" data-lang="ko"></div>
 <script src="/static/hanja-ko.js" defer></script><script src="/static/name-data.js" defer></script><script src="/static/name-btn.js" defer></script><script src="/static/name-i18n.js" defer></script><script src="/static/name-ko.js" defer></script><script src="/static/name-concepts.js" defer></script><script src="/static/name-world.js" defer></script><script src="/static/name-koread.js" defer></script><script src="/static/name-zhko.js" defer></script><script src="/static/name.js" defer></script>
