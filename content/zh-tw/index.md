@@ -19,8 +19,8 @@ updated: 2026-11-27
 
 {{dealcards:3}}
 
-<section class="sec"><div class="sec-h"><h2>照旅行順序</h2><p>每個階段只講一兩件該知道的事</p></div><div class="cols"><div class="col"><h3>出發前</h3><h4>電子入境卡 72 小時前開放</h4><p>抵達前 72 小時內,只在官方網站填。網址很像的代辦網站會收手續費。</p><a href="/zh-tw/essentials/">出發前準備</a></div><div class="col"><h3>抵達當天</h3><h4>搭火車還是巴士,看飯店</h4><p>住首爾站附近,直達車約 43 分鐘、成人 13,000 韓元。住明洞、江南的話,機場巴士停得更近。</p><a href="/zh-tw/airport-to-seoul/">機場到首爾</a></div><div class="col"><h3>購物</h3><h4>稅在結帳時直接扣</h4><p>在退稅店,單張收據 15,000 韓元以上、100 萬韓元以內,當場退稅。</p><a href="/zh-tw/tax-refund/">退稅</a></div><div class="col"><h3>Olive Young</h3><h4>配合特賣週去</h4><p>一年四次大特賣(3、6、9、12 月),每次約 7 天。日期重疊就那週一次買齊。</p><a href="/zh-tw/olive-young/">Olive Young</a></div></div></section>
+<section class="sec"><div class="sec-h"><h2>照旅行順序</h2><p>每個階段只講一兩件該知道的事</p></div><div class="cols"><div class="col"><h3>出發前</h3><h4>電子入境卡抵達前 3 天開放</h4><p>以韓國日期計,抵達前 3 天起,只在官方網站填。網址很像的代辦網站會收手續費。</p><a href="/zh-tw/essentials/">出發前準備</a></div><div class="col"><h3>抵達當天</h3><h4>搭火車還是巴士,看飯店</h4><p>住首爾站附近,直達車約 43 分鐘、成人 13,000 韓元。住明洞、江南的話,機場巴士停得更近。</p><a href="/zh-tw/airport-to-seoul/">機場到首爾</a></div><div class="col"><h3>購物</h3><h4>稅在結帳時直接扣</h4><p>在退稅店,單張收據 15,000 韓元以上、未滿 100 萬韓元,當場退稅。</p><a href="/zh-tw/tax-refund/">退稅</a></div><div class="col"><h3>Olive Young</h3><h4>配合特賣週去</h4><p>一年四次大特賣(3、6、9、12 月),每次約 7 天。日期重疊就那週一次買齊。</p><a href="/zh-tw/olive-young/">Olive Young</a></div></div></section>
 
 {{codes}}
 
-<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">出境</div><div><h2 id="abroad-h">要從韓國飛往其他國家?上網先確認 eSIM</h2><p>手機支援 eSIM 又沒有電信鎖的話,eSIM 最方便。兩項都能在設定選單裡 2 分鐘確認完。<a href="/zh-tw/abroad-esim/">確認方法</a></p></div></section>
+<section class="abroad" aria-labelledby="abroad-h"><div class="tag" aria-hidden="true">出境</div><div><h2 id="abroad-h">要從韓國飛往其他國家?上網先確認 eSIM</h2><p>手機支援 eSIM 又沒有電信鎖的話,eSIM 最方便。兩項都能在設定選單裡確認。<a href="/zh-tw/abroad-esim/">確認方法</a></p></div></section>
