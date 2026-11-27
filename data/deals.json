@@ -42,6 +42,12 @@
    "en": "Events & markets",
    "ja": "イベント・マーケット",
    "zh-tw": "活動・市集"
+  },
+  "xmas": {
+   "ko": "크리스마스",
+   "en": "Christmas",
+   "ja": "クリスマス",
+   "zh-tw": "聖誕節"
   }
  },
  "items": [
@@ -84,34 +90,39 @@
    "hero": {
     "kind": "pct",
     "value": 15
-   }
+   },
+   "home_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ]
   },
   {
    "id": "oy-sale-2026-12",
    "start": "2026-11-29",
-   "end": "2026-12-07",
+   "end": "2026-12-05",
    "status": "expected",
    "category": "beauty",
    "source": {
-    "url": "https://cjnews.cj.net/cj올리브영-1일부터-연말결산-올영세일-최대-70-할인/",
-    "date": "2024-11"
+    "url": "https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/",
+    "date": "2025-12-09"
    },
    "text": {
     "ko": {
      "title": "12월 올영세일 (연말결산)",
-     "note": "1년에 4번 하는 정기 세일 중 연말 회차. 2024년엔 12/1~7, 최대 70%. 올해 날짜는 아직 공식 발표 전이라 예상으로 표시하고, 발표되면 바로 고침."
+     "note": "아직 공식 발표 전이라 날짜는 예상이에요. 근거: 최근 세 번(2025년 12월 11/30~12/6, 2026년 6월 5/31~6/6, 9월 8/30~9/5)이 모두 일요일에 시작해 7일 동안 열렸어요. 같은 식이면 11/29(일)~12/5(토) 무렵. 발표되면 바로 고침."
     },
     "en": {
      "title": "Olive Young Sale, December edition",
-     "note": "The year-end round of Olive Young's four seasonal sales. In 2024 it ran Dec 1–7 with up to 70% off. 2026 dates are not announced yet. Tax-free still applies on sale prices. [How to plan it](/olive-young/)"
+     "note": "Dates are our estimate, not announced yet. Why: the last three sales (Dec 2025: Nov 30–Dec 6; Jun 2026: May 31–Jun 6; Sep 2026: Aug 30–Sep 5) all started on a Sunday and ran 7 days, so this one is likely around Sun Nov 29–Sat Dec 5. Tax-free still applies on sale prices. [How to plan it](/olive-young/)"
     },
     "ja": {
      "title": "オリーブヤングセール(12月)",
-     "note": "年4回の定期セールの年末回。2024年は12/1〜7、最大70%。2026年の日程はまだ未発表。セール価格でも免税対象。[攻略ガイド](/ja/olive-young/)"
+     "note": "日程はまだ公式発表前のため予想です。根拠:直近3回(2025年12月 11/30〜12/6、2026年6月 5/31〜6/6、9月 8/30〜9/5)はどれも日曜に始まり7日間。同じなら11/29(日)〜12/5(土)ごろ。セール価格でも免税対象。[攻略ガイド](/ja/olive-young/)"
     },
     "zh-tw": {
      "title": "Olive Young Sale 年末場",
-     "note": "一年四次定期特賣的年末場。2024 年是 12/1–7,最低 3 折(最多 70% off)。2026 年日期尚未公布。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
+     "note": "日期尚未正式公布,這裡是預估。根據:最近三次(2025 年 12 月 11/30–12/6、2026 年 6 月 5/31–6/6、9 月 8/30–9/5)都是週日開始、連續 7 天,照這個模式大約是 11/29(日)–12/5(六)。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
     }
    }
   },
@@ -754,6 +765,183 @@
     "zh-tw": {
      "title": "纛島浪漫漢江聖誕市集",
      "note": "首爾市 11/25 公布。同一個纛島漢江公園 12/24–31 也有「漢江夜間三溫暖」。時間和出口尚未公布。"
+    }
+   }
+  },
+  {
+   "id": "11st-xmas-2026",
+   "start": "2026-11-25",
+   "end": "2026-11-29",
+   "status": "confirmed",
+   "category": "xmas",
+   "source": {
+    "url": "https://www.viva100.com/article/20261125500124",
+    "date": "2026-11-25"
+   },
+   "text": {
+    "ko": {
+     "title": "11번가 '미리 만나는 크리스마스' 기획전",
+     "note": "트리·인테리어 소품·파티용품·만들기 키트 최대 20%. 11번가(온라인)에서 11/29(일)까지."
+    },
+    "en": {
+     "title": "11st \"Christmas, a little early\" sale",
+     "note": "Up to 20% off trees, home decor, party supplies and craft kits on 11st (online), until Sun Nov 29."
+    },
+    "ja": {
+     "title": "11番街「ひと足早いクリスマス」企画展",
+     "note": "ツリー・インテリア小物・パーティー用品・手作りキットが最大20%オフ。11番街(オンライン)で11/29(日)まで。"
+    },
+    "zh-tw": {
+     "title": "11街「提早過聖誕」特賣",
+     "note": "聖誕樹、居家小物、派對用品、手作材料包最低 8 折(最多 20% off)。11街(線上)到 11/29(日)。"
+    }
+   },
+   "open_start": true
+  },
+  {
+   "id": "traders-xmas-2026",
+   "start": "2026-11-26",
+   "end": "2026-11-29",
+   "status": "confirmed",
+   "category": "xmas",
+   "source": {
+    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+    "date": "2026-11-26"
+   },
+   "text": {
+    "ko": {
+     "title": "트레이더스 크리스마스 장식용품 할인",
+     "note": "삼성카드로 결제할 때만 할인, 11/29(일)까지. LED 와이어전구(1000구) 세트 5만5,800원 → 4만9,800원, LED 크리스마스 리스 3만5,800원 → 3만800원."
+    },
+    "en": {
+     "title": "Traders: Christmas decorations",
+     "note": "Discounts only when you pay with a Samsung Card, until Sun Nov 29. LED wire lights set (1,000 bulbs) ₩55,800 → ₩49,800, LED Christmas wreath ₩35,800 → ₩30,800."
+    },
+    "ja": {
+     "title": "トレーダーズ クリスマス飾り割引",
+     "note": "サムスンカードで支払う場合のみ割引、11/29(日)まで。LEDワイヤー電球(1000球)セット5万5,800ウォン→4万9,800ウォン、LEDクリスマスリース3万5,800ウォン→3万800ウォン。"
+    },
+    "zh-tw": {
+     "title": "Traders 聖誕裝飾特價",
+     "note": "限用三星卡付款才有折扣,到 11/29(日)。LED 銅線燈(1000 顆)組 55,800 韓元→49,800 韓元,LED 聖誕花圈 35,800 韓元→30,800 韓元。"
+    }
+   },
+   "open_start": true
+  },
+  {
+   "id": "emart-xmas-2026",
+   "start": "2026-11-26",
+   "end": "2026-12-02",
+   "status": "confirmed",
+   "category": "xmas",
+   "source": {
+    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+    "date": "2026-11-26"
+   },
+   "text": {
+    "ko": {
+     "title": "이마트 '미리 크리스마스'",
+     "note": "트리·장식·파티용품 최대 30%(신세계포인트 적립 시). 원터치 팝업트리(150cm) 9만9,000원 → 7만9,200원, 베이직 트리 3종은 20% 내려 모두 1만 원 미만."
+    },
+    "en": {
+     "title": "E-mart \"Early Christmas\" sale",
+     "note": "Trees, decorations and party supplies up to 30% off, for shoppers who collect Shinsegae Points. One-touch pop-up tree (150 cm) ₩99,000 → ₩79,200; three basic trees are 20% off, all under ₩10,000."
+    },
+    "ja": {
+     "title": "イーマート「ひと足早いクリスマス」",
+     "note": "ツリー・飾り・パーティー用品が最大30%オフ(新世界ポイントを貯める場合)。ワンタッチポップアップツリー(150cm)9万9,000ウォン→7万9,200ウォン、ベーシックツリー3種は20%オフでどれも1万ウォン未満。"
+    },
+    "zh-tw": {
+     "title": "E-mart「提早過聖誕」",
+     "note": "聖誕樹、裝飾、派對用品最低 7 折(最多 30% off),需累積新世界點數。一鍵彈開聖誕樹(150cm)99,000 韓元→79,200 韓元,3 款基本聖誕樹打 8 折,都不到 1 萬韓元。"
+    }
+   }
+  },
+  {
+   "id": "tlj-xmas-cake-2026",
+   "start": "2026-11-11",
+   "end": "2026-12-22",
+   "status": "confirmed",
+   "category": "xmas",
+   "source": {
+    "url": "https://cjnews.cj.net/%eb%9a%9c%eb%a0%88%ec%a5%ac%eb%a5%b4-%ec%9d%b4%eb%8f%84%ed%98%84%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%98%81%ec%83%81-%ea%b3%b5/",
+    "date": "2026-11-11"
+   },
+   "text": {
+    "ko": {
+     "title": "뚜레쥬르 크리스마스 케이크 사전예약",
+     "note": "뚜레쥬르 앱에서 사전예약하면 홀리데이 제품 35종 최대 30%. 예약은 12/22까지, 매장 픽업은 12/18~25."
+    },
+    "en": {
+     "title": "Tous les Jours: Christmas cake pre-order",
+     "note": "Pre-order in the Tous les Jours app for up to 30% off 35 holiday items. Order by Dec 22, pick up in store Dec 18–25."
+    },
+    "ja": {
+     "title": "トゥレジュール クリスマスケーキ事前予約",
+     "note": "トゥレジュールのアプリで事前予約するとホリデー商品35種が最大30%オフ。予約は12/22まで、店舗受け取りは12/18〜25。"
+    },
+    "zh-tw": {
+     "title": "多樂之日 聖誕蛋糕預購",
+     "note": "用多樂之日 App 預購,35 款節慶商品最低 7 折(最多 30% off)。預購到 12/22,12/18–25 到門市取貨。"
+    }
+   },
+   "open_start": true
+  },
+  {
+   "id": "casamia-holiday-2026",
+   "start": "2026-11-23",
+   "end": "2026-12-24",
+   "status": "confirmed",
+   "category": "xmas",
+   "source": {
+    "url": "https://www.shinsegaegroupnewsroom.com/casamia-unveils-christmas-home-decor-picks/",
+    "date": "2026-11-23"
+   },
+   "text": {
+    "ko": {
+     "title": "까사미아 'HAPPY HOLIDAY' 기획전",
+     "note": "까사미아 온라인몰에서 크리스마스 홈데코 최대 50%, 12/24까지. 크리스마스 장식 소품은 매장·온라인 모두 12/31까지 30%."
+    },
+    "en": {
+     "title": "Casamia \"HAPPY HOLIDAY\" sale",
+     "note": "Up to 50% off Christmas home decor on the Casamia online store, until Dec 24. Christmas ornaments and small decor are also 30% off in stores and online until Dec 31."
+    },
+    "ja": {
+     "title": "カサミア「HAPPY HOLIDAY」企画展",
+     "note": "カサミアのオンラインモールでクリスマスのホームデコが最大50%オフ、12/24まで。クリスマスの飾り小物は店舗・オンラインとも12/31まで30%オフ。"
+    },
+    "zh-tw": {
+     "title": "Casamia「HAPPY HOLIDAY」特賣",
+     "note": "Casamia 線上商城聖誕居家佈置最低 5 折(最多 50% off),到 12/24。聖誕裝飾小物門市、線上都打 7 折,到 12/31。"
+    }
+   }
+  },
+  {
+   "id": "lotte-jamsil-xmas-2026",
+   "start": "2026-11-19",
+   "end": "2027-01-03",
+   "status": "confirmed",
+   "category": "event",
+   "source": {
+    "url": "https://biz.heraldcorp.com/article/10942206",
+    "date": "2026-11-19"
+   },
+   "text": {
+    "ko": {
+     "title": "롯데타운 잠실 크리스마스 마켓",
+     "note": "잠실 롯데월드타워 월드파크 야외 잔디광장, 매일 11:30~22:00. 19세기 영국 크리스마스 마켓 콘셉트, 상점 40여 곳. 사전 예약은 롯데백화점몰 등(외국인은 클룩 등)에서 받았고, 11월 주말 패스트패스 입장권은 매진. 예약 없이 들어갈 수 있는지는 기사에 없어 확인 못 함."
+    },
+    "en": {
+     "title": "Lotte Town Jamsil Christmas Market",
+     "note": "World Park outdoor lawn at Lotte World Tower, Jamsil, daily 11:30–22:00. A 19th-century British Christmas market with about 40 shops. Bookings opened on Lotte Department Store Mall and, for overseas visitors, on Klook and others; November weekend fast-pass tickets sold out. Reports don't say whether you can enter without booking."
+    },
+    "ja": {
+     "title": "ロッテタウン蚕室クリスマスマーケット",
+     "note": "蚕室ロッテワールドタワーのワールドパーク屋外芝生広場、毎日11:30〜22:00。19世紀イギリスのクリスマスマーケットがテーマで、店舗は約40。事前予約はロッテ百貨店モールなど(外国人はKlookなど)で受け付け、11月の週末ファストパス入場券は完売。予約なしで入れるかは記事になく未確認。"
+    },
+    "zh-tw": {
+     "title": "樂天蠶室聖誕市集",
+     "note": "蠶室樂天世界塔 World Park 戶外草坪廣場,每天 11:30–22:00。19 世紀英國聖誕市集主題,約 40 家店。預約開放在樂天百貨商城等(外國旅客透過 Klook 等),11 月週末快速通關票已售完。不預約能否入場,報導沒寫,尚未確認。"
     }
    }
   }
