@@ -168,7 +168,7 @@ Large and deluxe cars are ₩100,000–140,000. Split four ways, ₩85,000 is ab
 | Before the last Express (22:48 from Terminal 1, 22:40 from Terminal 2) | [AREX Express](#express). Transportation Center, B1 |
 | After the last Express | [AREX all-stop train](#allstop). The last train to Seoul Station leaves Terminal 1 at 23:38 and Terminal 2 at 23:32 (same on weekdays and holidays). The trains after that, 23:56 from Terminal 1 and 23:50 from Terminal 2, only go as far as Digital Media City Station and do not stop at Hongik Univ. or Seoul Station. [AREX timetable by station](https://www.airportrailroad.com/train/normal/info/100) |
 | From 23:40 at Terminal 1 or 23:20 at Terminal 2, into the 4 a.m. hour | [Late-night buses](#late-bus), 4 routes. Take the one that stops near where you sleep |
-| Lots of bags, 3–4 people, or your stay is far from a bus stop | [Taxi](#late-taxi). From 10 p.m. to 4 a.m. a night surcharge is added to the meter fare |
+| Lots of bags, 3–4 people, or your stay is far from a bus stop | [Taxi](#late-taxi). From 10 p.m. to 4 a.m. a night surcharge is added to the meter fare (Gyeonggi taxis: from 11 p.m.) |
 | Your flight may be late, you have lots of bags, or you need a child car seat | [Book a private car ahead](#late-car). The companies we saw showed 90 minutes of free waiting |
 
 {{fig:airport-to-seoul-7|What still runs from Terminal 1 late at night}}
