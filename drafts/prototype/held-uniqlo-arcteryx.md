@@ -17,3 +17,11 @@ Removed (verbatim originals: git c51c7f3, content/{ko,en,ja,zh-tw}/winter-light-
 7. "입어 보고 사기": Uniqlo '매장 재고 현황' sentence; Musinsa coupon/code notice link.
 8. Sources: Uniqlo KR product page links and Arc'teryx US product page link.
 data/shop-trends.json (branch only, not rendered by build.py) still holds the Uniqlo/Arc'teryx items and the Musinsa codes; not touched.
+
+## → 2026-11-27 변경: Arc'teryx re-checked by a normal request and restored (원두 [7eb4ec94#3028] "(나)로진행해")
+(나) = "일반 접속으로 다시 확인해서 되면 살림". The network now allows arcteryx.com.
+- One request, no headless browser, no retry: `curl -sL -A 'Mozilla/5.0' https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521` at 2026-11-27 09:02:37 UTC → HTTP/2 200, text/html, 814,702 bytes, no challenge. Saved as received: wondu-archive `staging/arcteryx-recheck-2026-11-27/` (fact-by-fact table in its README.md).
+- Restored in content/{ko,en,ja,zh-tw}/winter-light-puffer.md, only what the page text shows: $400 · 850 fill · 338 g · Fitted · rating 3.9 (279; was 278) · Coreloft (100% polyester) in areas prone to moisture · "Trim fit makes it an ideal layering piece" · stuff sack (packable). Label-words box got back 합성 충전재 and 포켓터블 (Arc'teryx basis); these and 핏 left the "no usable source" list. Source link + "2026-11-27 일반 접속으로 확인" added.
+- Changed, not restored as it was: the "지금" cell "미국 블프 ~12/1" read as if the Cerium were discounted. The page has the Black Friday banner ("Until December 1, shop up to 40% off", "On select gear"), but all 36 Cerium variants have discountPrice 400 = price → now "정가 · 미국 블프(~12/1) 할인 대상 아님".
+- The spec table now has one row (Arc'teryx only), so its title lost "비교" (공식몰 사양 더 보기). The Musinsa Standard row (Korea Herald) was not put back: not an Arc'teryx fact.
+- Uniqlo: unchanged, stays removed. Live commit on main: 1c1c2ab.

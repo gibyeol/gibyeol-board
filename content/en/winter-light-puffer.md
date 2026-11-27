@@ -18,6 +18,9 @@ updated: 2026-11-27
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>Musinsa &#x27;Mujinjang 26 Winter&#x27; Black Friday: brands by sales<span class="src">Nov 26 16:25 (screen checked by our operator) · all items · ranks 2–4 not checked · red = lightweight puffer sell-out in the news</span></h3>
 <ol class="bars"><li class="lp"><b>#1</b><span>Musinsa Standard</span><i style="width:100%"></i><em>₩10.47bn</em></li><li><b>#5</b><span>adidas</span><i style="width:38%"></i><em>₩4.01bn</em></li><li class="lp"><b>#6</b><span>The North Face</span><i style="width:36%"></i><em>₩3.80bn</em></li></ol>
 <p class="links"><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">Musinsa home: find the Black Friday ranking →</a><!-- aff-slot: p-musinsa ranking (정확한 랭킹 URL 미확인 → 홈으로 연결) --><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">Musinsa home: search 경량 패딩 →</a><!-- aff-slot: i-musinsa-std-cityleisure --></p>
+<details class="cmpd"><summary><i class="ic ic-tag" aria-hidden="true"></i>Official store specs <span class="src">price · fill · fit · rating · checked Nov 27</span></summary>
+<table class="cmp"><thead><tr><th>Product → official page</th><th>Price</th><th>Fill</th><th>Fit</th><th>Rating</th><th>Now</th></tr></thead><tbody><tr><td><a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">Arc&#x27;teryx Cerium Hoody (US) →</a><!-- aff-slot: i-arc-cerium --></td><td class="n">$400</td><td>850 fill · 338 g</td><td>Fitted</td><td class="n">3.9 (279)</td><td>Full price · not in the US Black Friday sale (to Dec 1)</td></tr></tbody></table>
+</details>
 </section>
 <!-- trend:end -->
 <section class="cb" aria-label="Basics to check before you buy">
@@ -25,7 +28,7 @@ updated: 2026-11-27
 <h3><i class="ic ic-sparkles" aria-hidden="true"></i>Color pairings from the news<span class="src">Korea Herald Oct 20 · Nov 23</span></h3>
 <div class="combos"><div class="combo"><div class="sw"><span class="top" style="background:#c7b7e2">Lavender puffer</span><span style="background:#8a6448;color:#fff">Brown tones</span></div>Romantic</div><div class="combo"><div class="sw"><span class="top" style="background:#a3a7ad">Gray puffer</span><span class="none">Track pants · loafers</span></div>Not like gym clothes</div><div class="combo"><div class="sw"><span class="top none">Pastel puffer</span><span class="none">Sweatpants</span></div>Warm and comfy</div></div>
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>Label words</h3>
-<div class="terms"><div><b>Fill power</b><span>Higher = lighter for the same warmth</span></div><div><b>Down : feather</b><span>The down ratio on the label</span></div></div>
+<div class="terms"><div><b>Fill power</b><span>Higher = lighter for the same warmth</span></div><div><b>Down : feather</b><span>The down ratio on the label</span></div><div><b>Synthetic fill</b><span>Polyester fill. Used where it gets damp</span></div><div><b>Packable</b><span>Folds into a pouch</span></div></div>
 <ul class="tips"><li><i class="ic ic-scan-line" aria-hidden="true"></i>Lay your own puffer flat, measure the chest width, compare with the product size</li></ul>
 </section>
 </div>
@@ -49,9 +52,12 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>More on label words</summary>
 
-- **Fill power:** how much the down puffs up and traps air. The higher it is, the warmer for the same weight. For sleeping bags, 600–650 is good, 700–750 very good, 800 or more the best. Warmth also depends on how much down is inside (Wikipedia 'Fill power').
+- **Fill power:** how much the down puffs up and traps air. The higher it is, the warmer for the same weight. For sleeping bags, 600–650 is good, 700–750 very good, 800 or more the best. Warmth also depends on how much down is inside (Wikipedia 'Fill power'). Example: Arc'teryx Cerium, 850 fill.
 - **Down : feather:** the down ratio on the label. The higher the fill power, the bigger the share of down (Wikipedia).
-- Words we have not found a usable source for yet: synthetic fill, fit labels, packable, water-repellent (DWR), the difference between duck down and goose down, and where 'lightweight' ends and 'midweight' starts.
+- **Synthetic fill:** Arc'teryx says it uses synthetic fill (Coreloft, 100% polyester) in spots that get damp easily.
+- **Fit:** Arc'teryx describes its trim (fitted) fit as good for layering.
+- **Packable:** folds into a storage pouch (Arc'teryx Cerium).
+- Words we have not found a usable source for yet: water-repellent (DWR), the difference between duck down and goose down, and where 'lightweight' ends and 'midweight' starts.
 
 </details>
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>Try it on, then buy</summary>
@@ -66,7 +72,7 @@ Sentences to show at the till (show the Korean):
 </details>
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>Sources</summary>
 
-<p class="sources">Checked 2026-11-26: Korea Herald <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a> · <a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a> (no numbers); Wikipedia <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>. Musinsa Mujinjang 26 Winter Black Friday tally, as of 2026-11-26 16:25 (screen checked by our operator, live tally). Sale dates and discounts: <a href="/deals/">deals board</a> (Electronic Times <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>, Esquire Korea <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>, ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>). Seongsu store: sources on the <a href="/shopping-streets/#seongsu">Myeongdong · Seongsu · Hongdae</a> page. No affiliate links (waiting for approval; only the spots are marked).</p>
+<p class="sources">Checked 2026-11-26: Korea Herald <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a> · <a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a> (no numbers); <a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">Arc'teryx US official product page</a> (checked 2026-11-27, normal page request); Wikipedia <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>. Musinsa Mujinjang 26 Winter Black Friday tally, as of 2026-11-26 16:25 (screen checked by our operator, live tally). Sale dates and discounts: <a href="/deals/">deals board</a> (Electronic Times <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>, Esquire Korea <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>, ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>). Seongsu store: sources on the <a href="/shopping-streets/#seongsu">Myeongdong · Seongsu · Hongdae</a> page. No affiliate links (waiting for approval; only the spots are marked).</p>
 
 </details>
 </div>

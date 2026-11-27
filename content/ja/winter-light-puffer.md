@@ -18,6 +18,9 @@ updated: 2026-11-27
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>ムシンサ「ムジンジャン26冬」ブラックフライデー ブランド別売上順位<span class="src">11/26 16:25(運営者が確認した画面)・全商品・2〜4位は未確認・赤=軽量ダウンの品切れ報道あり・金額はウォン</span></h3>
 <ol class="bars"><li class="lp"><b>1位</b><span>ムシンサ・スタンダード</span><i style="width:100%"></i><em>104.7億</em></li><li><b>5位</b><span>アディダス</span><i style="width:38%"></i><em>40.1億</em></li><li class="lp"><b>6位</b><span>ザ・ノース・フェイス</span><i style="width:36%"></i><em>38.0億</em></li></ol>
 <p class="links"><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">ムシンサのトップで ブラックフライデーのランキングを探す →</a><!-- aff-slot: p-musinsa ranking (정확한 랭킹 URL 미확인 → 홈으로 연결) --><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">ムシンサのトップで「경량 패딩」を検索 →</a><!-- aff-slot: i-musinsa-std-cityleisure --></p>
+<details class="cmpd"><summary><i class="ic ic-tag" aria-hidden="true"></i>公式ストアの仕様 <span class="src">価格・中わた・フィット・評価 · 11/27確認</span></summary>
+<table class="cmp"><thead><tr><th>商品 → 公式ページ</th><th>価格</th><th>中わた</th><th>フィット</th><th>評価</th><th>今</th></tr></thead><tbody><tr><td><a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">アークテリクス セリウムフーディ(米国) →</a><!-- aff-slot: i-arc-cerium --></td><td class="n">$400</td><td>850フィル・338g</td><td>フィッテッド</td><td class="n">3.9 (279)</td><td>定価・米国ブラックフライデー(〜12/1)の割引対象外</td></tr></tbody></table>
+</details>
 </section>
 <!-- trend:end -->
 <section class="cb" aria-label="買う前に見る基本情報">
@@ -25,7 +28,7 @@ updated: 2026-11-27
 <h3><i class="ic ic-sparkles" aria-hidden="true"></i>記事に出た色の組み合わせ<span class="src">コリアヘラルド 10/20・11/23</span></h3>
 <div class="combos"><div class="combo"><div class="sw"><span class="top" style="background:#c7b7e2">ラベンダーのダウン</span><span style="background:#8a6448;color:#fff">ブラウン系</span></div>ロマンチックに</div><div class="combo"><div class="sw"><span class="top" style="background:#a3a7ad">グレーのダウン</span><span class="none">トラックパンツ・ローファー</span></div>運動着っぽくなく</div><div class="combo"><div class="sw"><span class="top none">パステルのダウン</span><span class="none">ジャージのパンツ</span></div>暖かく楽に</div></div>
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>ラベルの用語</h3>
-<div class="terms"><div><b>フィルパワー</b><span>高いほど同じ暖かさでより軽い</span></div><div><b>ダウン : フェザー</b><span>ラベルにあるダウンの割合</span></div></div>
+<div class="terms"><div><b>フィルパワー</b><span>高いほど同じ暖かさでより軽い</span></div><div><b>ダウン : フェザー</b><span>ラベルにあるダウンの割合</span></div><div><b>化繊わた</b><span>ポリエステルのわた。湿りやすい所に</span></div><div><b>ポケッタブル</b><span>ポーチにたたんで入れられる</span></div></div>
 <ul class="tips"><li><i class="ic ic-scan-line" aria-hidden="true"></i>手持ちのダウンを広げて身幅を測り、商品の寸法と比べる</li></ul>
 </section>
 </div>
@@ -49,9 +52,12 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>用語をもっと見る</summary>
 
-- **フィルパワー:** ダウンがふくらんで空気をためる度合い。高いほど同じ重さでより暖かくなります。寝袋の目安で600〜650は良い、700〜750はとても良い、800以上は最高級。暖かさはダウンの量にもよります(ウィキペディア「Fill power」)。
+- **フィルパワー:** ダウンがふくらんで空気をためる度合い。高いほど同じ重さでより暖かくなります。寝袋の目安で600〜650は良い、700〜750はとても良い、800以上は最高級。暖かさはダウンの量にもよります(ウィキペディア「Fill power」)。例: アークテリクス セリウム 850フィル。
 - **ダウン : フェザー:** ラベルにあるダウンの割合。フィルパワーが高いほどダウンの割合が大きくなります(ウィキペディア)。
-- まだ使える出典が見つかっていない用語: 化繊わた、フィットの表記、ポケッタブル、撥水(DWR)、ダックダウンとグースダウンの違い、「軽量」と「ミッドウェイト」の境目。
+- **化繊わた:** アークテリクスは、湿気がこもりやすい部分に化繊わた(Coreloft、ポリエステル100%)を使うと説明しています。
+- **フィット:** アークテリクスはトリム(フィッテッド)フィットを重ね着に向くと説明しています。
+- **ポケッタブル:** 収納ポーチにたたんで入れられる仕様(アークテリクス セリウム)。
+- まだ使える出典が見つかっていない用語: 撥水(DWR)、ダックダウンとグースダウンの違い、「軽量」と「ミッドウェイト」の境目。
 
 </details>
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>試着してから買う</summary>
@@ -66,7 +72,7 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典</summary>
 
-<p class="sources">2026-11-26確認: コリアヘラルド <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>・<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(数字なし)、ウィキペディア <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>。ムシンサ「ムジンジャン26冬」ブラックフライデー集計、2026-11-26 16:25時点(運営者が確認した画面、リアルタイム集計)。セール期間・割引率: <a href="/ja/deals/">セール情報</a>(電子新聞 <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>、エスクァイア・コリア <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>、ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>)。聖水の店: <a href="/ja/shopping-streets/#seongsu">明洞・聖水・弘大</a>のページの出典。アフィリエイトリンクなし(承認待ち、場所だけ表示)。</p>
+<p class="sources">2026-11-26確認: コリアヘラルド <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>・<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(数字なし)、<a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">アークテリクス米国公式商品ページ</a>(2026-11-27、通常のアクセスで確認)、ウィキペディア <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>。ムシンサ「ムジンジャン26冬」ブラックフライデー集計、2026-11-26 16:25時点(運営者が確認した画面、リアルタイム集計)。セール期間・割引率: <a href="/ja/deals/">セール情報</a>(電子新聞 <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>、エスクァイア・コリア <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>、ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>)。聖水の店: <a href="/ja/shopping-streets/#seongsu">明洞・聖水・弘大</a>のページの出典。アフィリエイトリンクなし(承認待ち、場所だけ表示)。</p>
 
 </details>
 </div>
