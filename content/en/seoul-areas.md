@@ -45,10 +45,10 @@ The reason to stay here is the **city airport terminal** on B2. With an AREX Exp
 
 ### Hongdae: the young, late-night choice
 
-Hongdae is the area around Hongik University, the city's best-known late-night district. On Halloween 2026 the city estimated up to 125,000 people there in one night, about four times the Itaewon crowd.
+Hongdae is the area around Hongik University. On Halloween 2026 the city estimated up to 125,000 people there in one night, about four times the Itaewon crowd.
 
 - **From the airport:** the AREX all-stop train goes straight to Hongik Univ. in about an hour, ₩4,650 by transport card. Bus 6002 takes about 1 hr 10 min.
-- **Honest downside:** it draws crowds late into the night (see the Halloween estimate above). Light sleepers should pick a hotel a few blocks from the main streets.
+- **Honest downside:** on nights like Halloween, huge crowds gather (see the city's estimate above). Light sleepers should pick a hotel a few blocks from the main streets.
 
 ## The other four, and who they suit
 

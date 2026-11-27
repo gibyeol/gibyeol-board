@@ -57,7 +57,7 @@ The integrated ticket gives one visit to each site within six months; staff tear
 
 **Prices may change.** Unchanged since 2005, the fees were due to rise from 1 January 2027, but on 8 October 2026 Yonhap reported the timing as "undecided". We had seen no new fee table by 26 November 2026.
 
-**Free Wednesdays.** In May 2026 the Heritage Service announced free entry every Wednesday at Deoksugung from August and at Changdeokgung, Changgyeonggung and Jongmyo from October (not Gyeongbokgung, not the Secret Garden). If it went ahead as announced, it should be running now; that is our expectation, based on Segye Ilbo's report of 27 May 2026. We could not confirm it on the official site, so check [royal.khs.go.kr](https://royal.khs.go.kr) first. Jongmyo is also free on the last Wednesday of each month.
+**Free Wednesdays.** In May 2026 the Heritage Service announced free entry every Wednesday at Deoksugung from August and at Changdeokgung, Changgyeonggung and Jongmyo from October (not Gyeongbokgung, not the Secret Garden). If it went ahead as announced, it should be running now; that is our expectation, based on Segye Ilbo's report of 27 May 2026. We could not confirm whether free Wednesdays are part of the fee overhaul above, whose timing Yonhap reported as "undecided" on 8 October. We could not confirm it on the official site, so check [royal.khs.go.kr](https://royal.khs.go.kr) first. Jongmyo is also free on the last Wednesday of each month.
 
 ## Hanbok: is renting worth it?
 

@@ -7,7 +7,7 @@ updated: 2026-11-26
 ---
 ## Your Busan day, from the platform
 
-You booked this seat weeks ago, because tickets now open two months before departure. At Seoul Station you board the KTX; the fastest trains reach Busan in about 2 hours 17 minutes, most in 2 hours 35 to 41. Busan Station sits on subway Line 1, and Chinatown starts right by Exit 1. Our pick for the ending scene: hand your bag to the staffed storage desk on the station's first floor, which can deliver it to hotels in Haeundae and Gwangalli, and walk out with your hands free.
+You booked this seat weeks ago, because tickets now open two months before departure. At Seoul Station you board the KTX; we expect the fastest trains to reach Busan in about 2 hours 17 minutes and typical ones in roughly 2 hours 35 to 41 (based on 2024 reporting; see How long it takes below). Busan Station sits on subway Line 1, and Chinatown starts right by Exit 1. Our pick for the ending scene: hand your bag to the staffed storage desk on the station's first floor, which can deliver it to hotels in Haeundae and Gwangalli, and walk out with your hands free.
 
 ## The short answer
 

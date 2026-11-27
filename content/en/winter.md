@@ -28,7 +28,7 @@ These are the Korea Meteorological Administration's official 1991–2020 average
 | January | 2.1°C (36°F) | −5.5°C (22°F) | −1.9°C |
 | February | 5.1°C (41°F) | −3.2°C (26°F) | 0.7°C |
 
-The averages hide the cold snaps, and the cold snaps are what you dress for. On 26 December 2025 Seoul's morning low was −11.8°C with a wind chill of −18.6°C. In January 2026 the wind chill in Seoul fell below −20°C. When lows of −12°C or colder are expected to last two days or more, the weather agency issues a cold wave advisory (한파주의보).
+The averages hide the cold snaps, and the cold snaps are what you dress for. On 26 December 2025 Seoul's morning low was −11.8°C with a wind chill of −18.6°C. When lows of −12°C or colder are expected to last two days or more, the weather agency issues a cold wave advisory (한파주의보).
 
 January is the coldest month. When the wind blows, the wind chill can be far below the temperature (26 December 2025 above: −11.8°C, feeling like −18.6°C).
 
@@ -40,10 +40,10 @@ Our call: if snow is the point of your trip, Seoul is a gamble. A light dusting 
 
 ## What to wear: pick three
 
-You do not need technical mountain gear for the city. Get these three right and the rest of your normal clothes will do.
+Our call: for a city trip you do not need technical mountain gear. The three things to pack are below.
 
 1. **A long down coat or a warm parka that covers your hips.**
-2. **A thermal base layer.** A thin top and leggings under normal clothes. This is how you stay warm outside without being too hot inside.
+2. **A thermal base layer.** A thin top and leggings under your normal clothes.
 3. **Hat, gloves and a scarf or neck warmer.** Touchscreen gloves help, since you will be on maps all day.
 
 {{fig:winter-1|Three things to pack, one to buy there}}
@@ -52,7 +52,7 @@ Then add **hot packs (핫팩)**. Convenience stores such as CU, GS25 and 7-Eleve
 
 **Indoors it is warm.** Shops, cafés, restaurants, subway carriages and most hotel rooms are heated. That is why layers beat one thick jumper: open the coat, take off the scarf, and you stay comfortable on the way in and out.
 
-**Who does not need much of this:** if you are coming in late November or early March, check the weather agency forecast for those dates first. Shoes with a decent grip are enough.
+**Coming in late November or early March?** The temperature table above covers December to February only. A few days before you fly, check the Seoul forecast on the Korea Meteorological Administration's [Weather Nuri](https://www.weather.go.kr) site or in your phone's weather app, and choose how warm a coat to bring from that. Shoes with a decent grip are enough.
 
 ## Seollal 2027: what closes and what doesn't
 

@@ -11,7 +11,7 @@ Planning a trip to Korea means piecing together entry forms, apps, payment quirk
 ## How guides are made
 
 - Each guide is researched against official sources first: government sites, airport operators and the stores themselves. They are listed at the end of every guide.
-- We use AI tools to help gather information and draft text. Each page shows, at the top, the date it was last checked against official information and whether a Nadri editor has approved that version.
+- We use AI tools to help gather information and draft text. Each guide page shows, at the top, the date it was last checked against official information and whether a Nadri editor has approved that version (pages that are not guides, such as the home page, the name tool, the shopping hub and the copyright page, do not).
 - We never write as if we used a product or visited a place when we did not. Reviews on Nadri summarise what many buyers report, and say so.
 
 ## Corrections

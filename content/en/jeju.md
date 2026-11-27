@@ -58,9 +58,9 @@ Your home licence on its own does not let you drive. Korea lets holders of an in
 
 | Area | Good for | Trade-off |
 |---|---|---|
-| Jeju City | Short stays, late arrivals, bus connections | Cooler than the south (KMA winter average highs) |
+| Jeju City | Short stays, late arrivals, bus connections | Cooler than the south (KMA, winter 2025 average highs: Jeju 11.2°C, Seogwipo 13.6°C) |
 | East coast (Hamdeok to Seongsan) | Car-free trips: bus 101 from the airport, bus 201 along the coast | Bus 201 runs every 30–80 minutes |
-| Seogwipo (south) | Warmer winters, south coast sights, the airport limousine | Far from the airport; confirm limousine stops on site |
+| Seogwipo (south) | Warmer winters, south coast sights | Far from the airport. Only 2020 information says limousine 600 runs to Seogwipo, so check the route sign at the airport limousine stop before you board (see Getting around without a car above) |
 
 ## Weather, briefly
 

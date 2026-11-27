@@ -19,7 +19,7 @@ The arrival card was filed at home and its confirmation is on your phone. The eS
 | Mobile data | Before you fly | Maps, taxis and translation all need it from the airport on |
 | Transport card | At the airport or first convenience store | Subway and bus fares are tap-only |
 | Map and taxi apps | At home, on wifi | Google Maps still cannot give full directions in Korea |
-| Some cash | Before or on arrival | Topping up a regular T-money card and market food still mostly need cash ([Money in Korea](/money/)) |
+| Some cash | Before or on arrival | Topping up a regular T-money card needs cash, and some market food stalls do not take foreign cards ([Money in Korea](/money/)) |
 
 {{fig:essentials-1|Tick these off at home and at the airport}}
 
@@ -52,7 +52,7 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 
 {{fig:essentials-3|eSIM, SIM or pocket wifi: what each asks of you}}
 
-**Which one:** for data only, either of the next two buttons. If you need a Korean number, see the SKT product below them.
+**Which one:** for data only, either of the next two buttons. If you also need a Korean number for calls and texts, check on the product page whether the SKT product below them gives you one before you buy.
 
 **Before you buy:** check the refund terms on the product page (some sellers do not refund once the eSIM is installed).
 
@@ -60,7 +60,7 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 
 {{aff:klook_esim|Get an SKT 5G eSIM on Klook}}
 
-Need a Korean number? See the product below. We could not open the product page, so we have not listed its validity, call and text terms or hotspot rules. Check them on the product page before you buy.
+The button below leads to another SKT eSIM on Klook. Check its validity, whether it includes a Korean number for calls and texts, and its hotspot rules on the product page before you buy.
 
 {{aff:klook_esim_alt|More SKT eSIM plans on Klook}}
 
@@ -87,7 +87,7 @@ Install it **before you fly, on wifi**. The QR code usually comes by email or in
 
 ## 4. Money and transport cards
 
-Credit cards are accepted almost everywhere in shops and restaurants. Cash still matters for the transport card.
+In shops and restaurants, try your credit card first. Some places, such as market stalls, do not take foreign cards. Cash still matters for the transport card.
 
 {{fig:essentials-4|Four cards, and what you can pay for them with}}
 
@@ -116,7 +116,7 @@ Download these on wifi at home and set the language first. Naver Map is the one 
 | Kakao Map | Directions | To compare with Naver Map |
 | Kakao T | Taxis | If you have a Korean number and card. With a foreign card, use k.ride, the visitor app ([Getting around](/getting-around/)) |
 | Papago | Translation | Point the camera at a menu or sign |
-| Subway Korea | Subway routes and transfers | Works offline once downloaded |
+| Subway Korea | Subway routes and transfers | For checking the line map. Naver Map above also gives subway directions |
 | Korail+ (formerly KorailTalk) | KTX and intercity trains | Tickets open two months before departure ([KTX to Busan](/ktx-busan/)) |
 
 ### What about Google Maps?

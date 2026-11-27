@@ -7,7 +7,7 @@ updated: 2026-11-26
 ---
 ## A dinner on your own
 
-You walk into a noodle shop alone, which in Korea is ordinary enough to have a name, *honbap*. Water is free, often from a dispenser by the wall. When you are ready to order you press the call button on the table instead of waving; it may be louder than you expect. At the end you take the slip to the counter and pay what the menu said, tax and service already in it. Our pick for the ending scene: walking out after paying the listed price, with nothing left to work out.
+You walk into a noodle shop alone, which in Korea is ordinary enough to have a name, *honbap*. Water is free, sometimes from a dispenser by the wall. When you are ready to order you press the call button on the table instead of waving; it may be louder than you expect. At the end you take the slip to the counter and pay what the menu said, tax and service already in it. Our pick for the ending scene: walking out after paying the listed price, with nothing left to work out.
 
 ## Things that surprise first-timers
 
@@ -37,7 +37,7 @@ The exception is anything cooked at the table for sharing. Some grill-your-own B
 
 ## Restaurant basics
 
-- **Water is free** and often self-serve from a dispenser or a fridge by the wall. Refills of side dishes are free too (KTO).
+- **Water is free**, and in some places you help yourself from a dispenser or a fridge by the wall. Refills of side dishes are free too (KTO).
 - **Call bell.** Every table has a call button. KTO warns it may be louder than you expect.
 - **Paying.** Many places now take your order and payment on a table tablet or a kiosk at the door. If you ordered from staff and no one brings the bill, take the slip from your table to the counter on the way out.
 - **Cards** are accepted almost everywhere; see [Money in Korea](/money/).
