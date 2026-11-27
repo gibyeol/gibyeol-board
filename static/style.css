@@ -57,7 +57,9 @@ h1,h2,h3{text-wrap:balance}
 @keyframes tw{50%{opacity:.15}}
 
 /* ---------- shared bits ---------- */
-.kicker{display:inline-block;font:600 .76rem/1 var(--mono);letter-spacing:.14em;color:#f4f0e6;padding:12px 84px 11px 16px;background:url(/static/brush.png) left center/100% 130% no-repeat}
+/* brush sized to the label (2026-11-27): only the solid body (x 32-224 of brush.png) stretches with the text; head and dry tail keep
+   their size, so a long label (ko/ja/zh-tw) never runs onto the light tail */
+.kicker{display:inline-block;font:600 .76rem/1 var(--mono);letter-spacing:.14em;color:#f4f0e6;padding:12px 76px 11px 16px;border:0 solid transparent;border-image:url(/static/brush.png) 0 416 0 32 fill/0 73px 0 6px/5px 0 stretch}
 .sec{margin-top:48px}
 .sec-h{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 16px;border-top:1px solid var(--ink);padding-top:12px;margin-bottom:18px}
 .sec-h h2{position:relative;z-index:0;font:400 1.6rem/1.2 var(--head);margin:0}
@@ -79,7 +81,6 @@ code{font:600 .86rem var(--mono);border:1px solid var(--ink);padding:0 5px;backg
 .lead{padding:0 34px 28px 0;border-right:1px solid var(--rule)}
 .lead h2{font:400 clamp(1.8rem,4vw,2.7rem)/1.25 var(--head);margin:.8rem 0 .9rem}
 .lead p{margin:0 0 .9rem;max-width:36em}
-.lead p.first::first-letter{font:400 3.2em/.8 var(--head);float:left;margin:.08em .1em 0 0;color:var(--red)}
 .lead .src{font-size:.82rem;color:var(--muted)}
 .lead[hidden]{display:none}
 .lead h2 .dday{font-size:.95rem;vertical-align:.35em;margin-left:.2em}
