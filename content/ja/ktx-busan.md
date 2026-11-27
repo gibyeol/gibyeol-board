@@ -1,9 +1,10 @@
 ---
 title: ソウルから釜山へ:旅行者のKTX予約と釜山の基本
-description: KTXはいつどこで予約できるか、KORAIL PASSは元が取れるか、釜山に着いてからの動き方。2026年11月時点で確認しました。
+description: 外国人もKTXの乗車券は出発2か月前から、Korail+アプリかKORAILの外国人向けウェブページで、海外のクレジットカードで買えます。ソウル〜釜山1往復ならKORAIL PASSより普通乗車券2枚のほうが安いです。パスが元を取れる回数、釜山に着いてからの動き方まで、2026年11月時点で確認しました。
 lede: ソウル〜釜山の往復だけなら、パスより普通の乗車券2枚のほうが安く済みます。2026年に鉄道の予約まわりが大きく変わったので、新しいやり方で早めに押さえておくのがおすすめです。
 section: transport
-updated: 2026-11-26
+disclosure: yes
+updated: 2026-11-27
 ---
 ## ホームから始まる釜山の一日
 
@@ -13,32 +14,47 @@ updated: 2026-11-26
 
 | こんな場合 | おすすめ | 理由 |
 |---|---|---|
-| ソウル〜釜山の往復だけ | Korail+アプリかletskorail.comで普通乗車券 | 一般席は片道54,400ウォン。往復108,800ウォンで、いちばん安いKORAIL PASS(131,000ウォン)より安い |
+| ソウル〜釜山の往復だけ | Korail+アプリかKORAILの外国人向けウェブページで普通乗車券 | 一般席は片道54,400ウォン。往復108,800ウォンで、いちばん安いKORAIL PASS(131,000ウォン)より安い |
 | 数日のうちに長距離を3回以上乗る | KORAIL PASSと比べてみる | 普通運賃の合計がパスの値段を超えるときだけお得 |
 | 自国通貨で払いたい | Klook | 2026年4月からKORAILの座席をリアルタイムで販売 |
 | ソルラル(2027年2月6〜9日)に移動する | 連休用の予約が始まったらすぐに。できれば日程をずらす | 連休の列車は別枠で売り出され、混む日は早く埋まる |
 
 選び方:多くの方が実際に乗るソウル〜釜山、その区間をいちばん安く予約する方法、そしてパスの判断ひとつ。扱わないもの:観光列車や地方路線。
 
-## 2026年に変わったこと
+<h2 id="2026年に変わったこと">KTXの予約はいつから?2026年に変わったこと</h2>
 
 前に韓国の列車に乗ったことがある方ほど、ここは押さえておいてください。
 
-- **予約は出発の2か月前から。** 2026年10月1日から、KTXなどの乗車券は出発1か月前ではなく2か月前に発売されるようになりました。
+- **予約は出発の2か月前から。** 2026年10月1日から、KTXなどの乗車券は出発1か月前ではなく2か月前に発売されるようになりました。外国人も同じです。国土交通部とKORAILは、外国人旅行者が航空券を買うときに鉄道の乗車券も一緒に予約できるようにするためだと説明しています。
 - **KTXとSRTが統合。** 2026年9月1日から一つの路線網として運行し、予約もKorail+アプリ一つになりました。Korail+は以前のKorailTalk(コレイルトーク)を更新したアプリなので、入っている方はアップデートするだけです。
 - **運賃が下がりました。** ソウル〜釜山の一般席は、2026年9月1日に59,800ウォンから54,400ウォンになりました。SRTと同じ水準への10%の値下げです。
 
-## どこで予約するか
+<h2 id="どこで予約するか">外国人はKTXの乗車券をどこで、どうやって買う?</h2>
+
+出発2か月前から、Korail+アプリかKORAILの外国人向けウェブページで買い、海外のクレジットカードで払います。順番はこうです。
+
+1. **日付を確認:** 乗車券は出発2か月前から発売されます。
+2. **アプリかウェブページを開く:** Korail+アプリは日本語に対応しています(ほかに英語、中国語簡体字・繁体字、ベトナム語、タイ語)。KORAILの外国人向けウェブページ([英語画面](https://www.korail.com/global/eng/main))は2026年9月の国土交通部の発表時点で英語・中国語・日本語・タイ語・ベトナム語など7言語で、年末までにフランス語・ドイツ語・モンゴル語を加える計画です。以前のアドレスletskorail.comは、2026年11月27日に開いてみるとKORAILのホームページ(korail.com)に移りました。
+3. **支払い:** Visa・Mastercard・UnionPayなど海外のクレジットカードが使えます。カードが通らないときは下のKlookが代わりになります。
+4. **乗車券を受け取る:** Korail+アプリで買った乗車券は「マイチケット」に、乗車券一覧と乗車券画面で表示されます。アプリで乗車券を写真として保存することもできます。
+5. **乗りたい列車が満席なら:** 同じKorail+アプリで水西駅発の列車(以前のSRT)も探してみてください。2026年9月の統合後は一つのアプリで予約します。
+6. **予約なしでソウル駅に来たら:** AIのリアルタイム通訳が使える専用の窓口があり、2025年4月からApple Payも使えます(2025年5月の韓国観光公社の案内)。
+
+会員登録が必要かどうか、パスポートの英字氏名をどこに入れるかは、今回KORAIL公式の画面で確認できなかったので書いていません。
 
 {{fig:ktx-busan-1|KTXの予約:いつ発売、どこで買う、何を選ぶ}}
 
-- **Korail+アプリ:** 日本語にも対応しています(ほかに英語、中国語簡体字・繁体字、ベトナム語、タイ語)。韓国の人と同じ画面なので、すべての列車が出てきます。
-- **letskorail.com:** KORAILの外国人向けサイトで、日本語に対応しています。
+買える場所は5つです。
+
+- **Korail+アプリ:** 韓国の人と同じ画面なので、すべての列車が出てきます。
+- **KORAILの外国人向けウェブページ:** 上の2番。以前のletskorail.comに入ってもKORAILのホームページに移ります。
 - **Klook:** 2026年4月20日から、KORAILの全路線の時刻と空席をリアルタイムで見て予約できるようになりました。約20言語・40通貨に対応しています。韓国の決済画面でカードが通らないときの選択肢になります。
 - **駅の券売機:** 2025年末の報道では、148駅に海外のクレジットカードが使える新しい券売機が入っています。
 - **航空券と一緒に:** 2026年6月から、提携の航空会社・旅行会社で航空券とAREX・KTXの乗車券をまとめて買えます(Rail&Air)。Korail+アプリ、letskorail.com、駅の窓口ではこの組み合わせは買えません。
 
-席を選ぶときは向きも見てください。列車によって進行方向向きと逆向きの席があり、選べます。政府は、予約システムの対応言語を年末までに7から10に増やし、WeChat PayとAlipayの導入も準備中だとしています。確認した時点では開始日は出ていません。
+{{aff:klook_ktx|KlookでKTXの切符を予約(区間・日付を選ぶ)}}
+
+席を選ぶときは向きも見てください。列車によって進行方向向きと逆向きの席があり、選べます。政府は、WeChat PayやAlipayなどのグローバル簡易決済を使えるようにするシステムを開発中だとしています。確認した時点では開始日は出ていません。
 
 ## 所要時間
 
@@ -52,13 +68,39 @@ SRTはソウル駅ではなく、ソウル南東の**水西駅**から出ます�
 
 ただ、2026年8月時点ではKORAIL PASSでSRTには乗れませんでした。統合後に変わったかは確認できていません。パスをお持ちなら、KORAILから案内があるまではソウル駅か龍山駅から乗るのが無難です。
 
-## KORAIL PASSは元が取れる?
+<h2 id="korail-passは元が取れる">KORAIL PASSは元が取れる?何回乗れば得?</h2>
 
 外国人専用のパスで、2・3・4・5日用があり、最長10日の有効期間内で使います。2025年12月の報道では、大人は2日用131,000ウォン、3日用186,000ウォン、4日用234,000ウォン、5日用275,000ウォンでした。一般車両は乗り放題で、座席指定は1日2回まで。特室は特室料金の50%を追加で払います。地下鉄や臨時の観光列車には使えません。
 
 {{fig:ktx-busan-3|ソウル〜釜山1往復とKORAIL PASS(大人)}}
 
-私たちの考え:買う前に一度計算してみてください。ソウル〜釜山の往復1回では2日用の値段に届きません。短い期間に長距離を何度も乗る旅程でなければ、普通の乗車券のほうが気楽です。ユース・グループ用の料金はletskorail.comに載っていますが、今回は確認していません。
+私たちの考え:買う前に一度計算してみてください。ソウル〜釜山の往復1回では2日用の値段に届きません。短い期間に長距離を何度も乗る旅程でなければ、普通の乗車券のほうが気楽です。ユース・グループ用の料金はKORAILの外国人向けウェブページに載っていますが、今回は確認していません。
+
+ソウル〜釜山を片道で何回乗るか数えてみて、下の合計が買おうとしているパスの値段より大きければパスがお得です。パスの値段は、買う直前の決済画面の価格と比べてください。
+
+| ソウル〜釜山 一般席 片道 | 普通運賃の合計(私たちの計算:54,400ウォン × 回数) |
+|---|---|
+| 2回(1往復) | 108,800ウォン |
+| 3回 | 163,200ウォン |
+| 4回(2往復) | 217,600ウォン |
+| 5回 | 272,000ウォン |
+| 6回(3往復) | 326,400ウォン |
+
+パスで座席を指定できるのは1日2回までなので、N日用で指定席に乗れるのは最大2×N回です(私たちの計算:2日用なら4回)。ほかの区間の運賃は今回公式の資料で確認できなかったので、表には入れていません。
+
+**どこで買う:** KORAILのウェブサイトか駅で買えます。Korail+アプリの「旅行サービスの予約」でもKorail Passを扱っています。
+
+{{aff:klook_korailpass|KlookでKORAIL PASS(2〜5日用)}}
+
+**パスで乗る手順**(Klookの商品画面より):
+
+1. パスを買ったら、eチケットをスマホに保存するか印刷しておきます。
+2. 乗るたびに、KORAILのウェブサイトかアプリで座席券を予約します。パスを買ったときと同じパスポートの情報を入れる必要があります。
+3. 座席券を印刷するかQRコードを保存し、駅で見せます。
+
+同じ画面にある条件:韓国のパスポートを持つ人は買えません。13歳以上は大人料金です。0〜5歳の子ども1人は13歳を超える同行者のひざの上なら無料で、席が別に必要なら子ども用を買います。パスはパスポート1冊につき1枚までです。予約の確定は数分以内に届くと書かれています。
+
+Klookの画面には「KTXを含むすべての列車が乗り放題」とありますが、韓国観光公社の案内(2026年8月更新)では、SRT・地下鉄・臨時の観光列車には使えず、座席指定は1日2回までです。公式の案内に従ってください。
 
 ## 2027年のソルラル
 
@@ -91,4 +133,4 @@ SRTはソウル駅ではなく、ソウル南東の**水西駅**から出ます�
 
 ## 出典
 
-<p class="sources"><a href="https://news.mtn.co.kr/news-detail/2026092013305778903">MTN、10月1日から2か月前予約(2026年9月20日)</a>;<a href="https://www.korea.kr/news/reporterView.do?newsId=148973714">韓国政策ブリーフィング、予約の対応言語と決済(2026年11月2日)</a>;<a href="https://www.korea.kr/news/policyNewsView.do?newsId=148970171">韓国政策ブリーフィング、KTX・SRT統合とソウル〜釜山運賃(2026年8月18日)</a>;<a href="https://www.metroseoul.co.kr/article/20260901500417">メトロ新聞、運賃値下げ実施(2026年9月1日)</a>;<a href="https://www.newsis.com/view/NISX20260802_0003732803">ニューシス、Korail+公開(2026年8月2日)</a>;<a href="https://apps.apple.com/app/id1000558562">Korail+ App Store情報(2026年11月25日確認)</a>;<a href="https://view.asiae.co.kr/en/article/2026050608454233678">アジア経済、KlookのKORAIL乗車券販売(2026年5月6日)</a>;<a href="https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140871">VisitKorea、列車とKORAIL PASSの規定(2026年8月7日更新)</a>;<a href="https://www.insight.co.kr/news/535606">インサイト、KORAIL PASSの価格と券売機(2025年12月29日)</a>;<a href="https://marketin.edaily.co.kr/News/ReadE?newsId=03194726638858744">イーデイリー、ソウル〜釜山の所要時間(2024年4月22日)</a>;<a href="https://www.segye.com/newsView/20260629506183">世界日報、2027年の祝日(2026年6月29日)</a>;<a href="https://www.hankyung.com/article/202601075989h">韓国経済新聞、2026年ソルラル乗車券予約(2026年1月7日)</a>;<a href="https://biz.sbs.co.kr/amp/article/20000286487">SBS Biz、2026年ソルラルの予約率(2026年1月21日)</a>;<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593337">VisitKorea、金海空港への直行便(2026年9月)</a>;<a href="https://www.busan.go.kr/eng/bsnews01/1714674">釜山市、空港リムジンの路線と運賃(2026年1月13日)</a>;<a href="https://www.busan.go.kr/eng/bsnews01/1711637">釜山市、KTX-イウムの海雲台停車(2025年12月26日)</a>;<a href="https://m.koreaherald.com/view.php?ud=20230618000164">コリア・ヘラルド、釜山駅(2025年1月3日更新)</a>;<a href="https://mobile.busan.com/view/busan/view.php?code=2025021513410741725">釜山日報、釜山駅の荷物預かり(2025年2月15日)</a>;<a href="https://www.fnnews.com/news/202609071836460066">ファイナンシャルニュース、釜山駅の改修(2026年9月7日)</a>;<a href="https://m.go.seoul.co.kr/news/2026/09/01/20260901018007">ソウル新聞、釜山の現金なしバス試験運行(2026年9月1日)</a>。 2026年11月26日に再確認:<a href="https://www.korea.kr/news/policyNewsView.do?newsId=148970171" rel="noopener" target="_blank">政策ブリーフィング、KTX・SRT統合と54,400ウォン</a>、<a href="https://www.korea.kr/news/reporterView.do?newsId=148973714" rel="noopener" target="_blank">政策ブリーフィング、2か月前予約・Rail&Air・言語と決済</a>(2026年11月2日)、<a href="https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140871" rel="noopener" target="_blank">VISITKOREA、列車とKORAIL PASS、座席の向き</a>、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593337" rel="noopener" target="_blank">VISITKOREA、金海から入る</a>(2026年8月更新)。</p>
+<p class="sources"><a href="https://news.mtn.co.kr/news-detail/2026092013305778903">MTN、10月1日から2か月前予約(2026年9月20日)</a>;<a href="https://www.korea.kr/news/reporterView.do?newsId=148973714">韓国政策ブリーフィング、予約の対応言語と決済(2026年11月2日)</a>;<a href="https://www.korea.kr/news/policyNewsView.do?newsId=148970171">韓国政策ブリーフィング、KTX・SRT統合とソウル〜釜山運賃(2026年8月18日)</a>;<a href="https://www.metroseoul.co.kr/article/20260901500417">メトロ新聞、運賃値下げ実施(2026年9月1日)</a>;<a href="https://www.newsis.com/view/NISX20260802_0003732803">ニューシス、Korail+公開(2026年8月2日)</a>;<a href="https://apps.apple.com/app/id1000558562">Korail+ App Store情報(2026年11月25日確認)</a>;<a href="https://view.asiae.co.kr/en/article/2026050608454233678">アジア経済、KlookのKORAIL乗車券販売(2026年5月6日)</a>;<a href="https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140871">VisitKorea、列車とKORAIL PASSの規定(2026年8月7日更新)</a>;<a href="https://www.insight.co.kr/news/535606">インサイト、KORAIL PASSの価格と券売機(2025年12月29日)</a>;<a href="https://marketin.edaily.co.kr/News/ReadE?newsId=03194726638858744">イーデイリー、ソウル〜釜山の所要時間(2024年4月22日)</a>;<a href="https://www.segye.com/newsView/20260629506183">世界日報、2027年の祝日(2026年6月29日)</a>;<a href="https://www.hankyung.com/article/202601075989h">韓国経済新聞、2026年ソルラル乗車券予約(2026年1月7日)</a>;<a href="https://biz.sbs.co.kr/amp/article/20000286487">SBS Biz、2026年ソルラルの予約率(2026年1月21日)</a>;<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593337">VisitKorea、金海空港への直行便(2026年9月)</a>;<a href="https://www.busan.go.kr/eng/bsnews01/1714674">釜山市、空港リムジンの路線と運賃(2026年1月13日)</a>;<a href="https://www.busan.go.kr/eng/bsnews01/1711637">釜山市、KTX-イウムの海雲台停車(2025年12月26日)</a>;<a href="https://m.koreaherald.com/view.php?ud=20230618000164">コリア・ヘラルド、釜山駅(2025年1月3日更新)</a>;<a href="https://mobile.busan.com/view/busan/view.php?code=2025021513410741725">釜山日報、釜山駅の荷物預かり(2025年2月15日)</a>;<a href="https://www.fnnews.com/news/202609071836460066">ファイナンシャルニュース、釜山駅の改修(2026年9月7日)</a>;<a href="https://m.go.seoul.co.kr/news/2026/09/01/20260901018007">ソウル新聞、釜山の現金なしバス試験運行(2026年9月1日)</a>。 2026年11月26日に再確認:<a href="https://www.korea.kr/news/policyNewsView.do?newsId=148970171" rel="noopener" target="_blank">政策ブリーフィング、KTX・SRT統合と54,400ウォン</a>、<a href="https://www.korea.kr/news/reporterView.do?newsId=148973714" rel="noopener" target="_blank">政策ブリーフィング、2か月前予約・Rail&Air・言語と決済</a>(2026年11月2日)、<a href="https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140871" rel="noopener" target="_blank">VISITKOREA、列車とKORAIL PASS、座席の向き</a>、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593337" rel="noopener" target="_blank">VISITKOREA、金海から入る</a>(2026年8月更新)。2026年11月27日に開いて確認:<a href="https://www.korea.kr/briefing/pressReleaseView.do?newsId=156782517" rel="noopener" target="_blank">国土交通部・KORAIL報道資料、2か月前予約・外国人向けウェブページ7言語・海外クレジットカード決済・簡易決済の開発</a>(2026年9月20日、韓国語)、<a href="https://apps.apple.com/jp/app/id1000558562" rel="noopener" target="_blank">Korail+のApp Store説明(マイチケット、旅行サービスの予約、乗車券の保存、対応言語)</a>、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=227786" rel="noopener" target="_blank">韓国観光公社、ソウル駅のAI通訳窓口とApple Pay</a>(2025年5月30日、英語)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1563646" rel="noopener" target="_blank">韓国観光公社、KORAIL PASSはKORAILのウェブサイトか駅で購入</a>(2026年1月22日、英語)、<a href="https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140871" rel="noopener" target="_blank">韓国観光公社、KORAIL PASSの対象外列車と1日2回の座席指定</a>、letskorail.comの接続結果(korail.comに移動)。Klook商品ページ「KORAIL PASS - KTX Train Ticket」(運営者がブラウザで開いた画面、2026年11月27日):パスの使い方と購入条件。</p>

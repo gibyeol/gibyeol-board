@@ -84,5 +84,15 @@
     "program": "Stylevana (Awin)",
     "label": "Stylevana",
     "url": "https://www.awin1.com/cread.php?awinmid=90791&awinaffid=3168168&clickref=buy-from-home&ued=https%3A%2F%2Fwww.stylevana.com%2F"
+  },
+  "klook_korailpass": {
+    "program": "Klook (Travelpayouts)",
+    "label": "KORAIL PASS on Klook",
+    "url": "https://klook.tpx.li/kMxVKo8D"
+  },
+  "klook_ktx": {
+    "program": "Klook (Travelpayouts)",
+    "label": "Korea trains on Klook",
+    "url": "https://klook.tpx.li/ry4uqBR8"
   }
 }
