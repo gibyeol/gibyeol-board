@@ -1,13 +1,13 @@
 ---
 title: 韓國電子入境卡(e-Arrival Card):照著畫面一步步填
 description: 韓國電子入境卡免費,抵達前 3 天開放填寫。付費假網站、住多間飯店、回程未定、帶小孩、轉機怎麼填,依官方 FAQ 整理。
-lede: 免費,用手機約 10 分鐘,抵達前 3 天開放。先填好,到了入境審查櫃檯,審查官的畫面上已經有你的資料。
+lede: 免費,用手機填,抵達前 3 天開放。先填好,到了入境審查櫃檯,審查官的畫面上已經有你的資料。
 section: essentials
 updated: 2026-11-26
 ---
 <div class="eac-cta"><a class="eac-btn" href="#我要填嗎"><i class="ic ic-circle-help" aria-hidden="true"></i>我要填嗎?</a><a class="eac-btn go" href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">去官網填 <i class="ic ic-arrow-right" aria-hidden="true"></i></a></div>
 
-<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>免費</li><li><i class="ic ic-clock" aria-hidden="true"></i>約 10 分鐘</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>抵達前 3 天開放</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>手機、電腦都行,不用 App</li></ul>
+<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>免費</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>抵達前 3 天開放</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>手機、電腦都行,不用 App</li></ul>
 
 {{fig:e-arrival-card-shot-1|真的官網一打開就先警告:① 官方網站只有 www.e-arrivalcard.go.kr,請勿在其他網站輸入或支付資訊。② 按「确认」關閉。官網只有簡體中文版,所以畫面是簡體字。畫面:e-arrivalcard.go.kr(韓國法務部),2026年11月26日擷取}}
 
@@ -23,7 +23,7 @@ updated: 2026-11-26
 
 不需要看這頁的人:韓國籍(雙重國籍請用韓國護照入境)、已登錄外國人、持有效 K-ETA、持團體簽證入境、24 小時內轉機且不出轉機區的人。
 
-這頁沒寫的:代填的付費服務(官方表單免費,幾分鐘就填完)、K-ETA 申請步驟(免申請對象在 2027 年底前用不到)。
+這頁沒寫的:代填的付費服務(官方表單免費)、K-ETA 申請步驟(免申請對象在 2027 年底前用不到)。
 
 </details>
 
@@ -192,11 +192,10 @@ updated: 2026-11-26
 
 ## 順利入境是這個樣子
 
-**出發前一晚。** 護照、班機號碼、飯店英文地址放在旁邊,在官網花大約 10 分鐘,把含核發號碼的 PDF 存進手機。還沒打包,入境卡已經搞定。
+**出發前一晚。** 護照、班機號碼、飯店英文地址放在旁邊,在官網填好,把含核發號碼的 PDF 存進手機。還沒打包,入境卡已經搞定。
 
 **入境審查櫃檯前。** 不用筆,也不用在膝蓋上填紙本卡。遞出護照,審查官的畫面上已經有你的資料。通過審查後,這張卡功成身退、自動失效。
 
-依官方規定拼出的畫面,不是編出來的心得。
 
 ## 下一步
 

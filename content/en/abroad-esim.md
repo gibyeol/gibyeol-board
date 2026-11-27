@@ -1,6 +1,6 @@
 ---
 title: Flying out of Korea to another country: is an eSIM right for your phone?
-description: Roaming, a local SIM or an eSIM for your next country, and how to check in two minutes whether your phone can take an eSIM. Based on Apple and Samsung's official guidance.
+description: Roaming, a local SIM or an eSIM for your next country, and how to check whether your phone can take an eSIM. Based on Apple and Samsung's official guidance.
 lede: If you are flying out of Korea to another country, an eSIM is usually the easiest way to get data, but only if your phone passes two checks. Do those checks first, so you are not stuck at the airport the day you leave.
 section: essentials
 disclosure: yes
@@ -34,7 +34,7 @@ To use another company's eSIM, the phone must not be locked to one carrier. Even
 
 ## If your phone passes both checks
 
-Finish the install on home Wi-Fi a day or two before you fly. The most common mistake is hunting for a QR code at the airport while boarding is being called.
+Finish the install on home Wi-Fi a day or two before you fly.
 
 1. Pick a data plan for the country and the length of your trip
 2. Install the eSIM from the QR code or the app (install only, do not switch it on yet)

@@ -1,13 +1,13 @@
 ---
 title: Korea e-Arrival Card: fill it in, screen by screen
 description: Who must submit Korea's free e-Arrival Card, the 3-day window, fake paid sites, and what to enter for hotels, return date, kids and transit.
-lede: Free, about 10 minutes on your phone, in the 3 days before you land. Then the officer already has your details when you arrive.
+lede: Free, on your phone, in the 3 days before you land. Then the officer already has your details when you arrive.
 section: essentials
 updated: 2026-11-26
 ---
 <div class="eac-cta"><a class="eac-btn" href="#do-i-need-it"><i class="ic ic-circle-help" aria-hidden="true"></i>Do I need it?</a><a class="eac-btn go" href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">Fill it in <i class="ic ic-arrow-right" aria-hidden="true"></i></a></div>
 
-<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>Free</li><li><i class="ic ic-clock" aria-hidden="true"></i>About 10 minutes</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>3 days before you land</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>Phone or computer, no app</li></ul>
+<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>Free</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>3 days before you land</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>Phone or computer, no app</li></ul>
 
 {{fig:e-arrival-card-shot-1|The real site warns you first: ① the only official address is www.e-arrivalcard.go.kr, and any site asking for payment is not official. ② Confirm closes the warning. Screen: e-arrivalcard.go.kr (Ministry of Justice), captured 26 Nov 2026}}
 
@@ -23,7 +23,7 @@ updated: 2026-11-26
 
 Who does **not** need this page: Korean citizens (dual nationals enter on their Korean passport), registered residents, valid K-ETA holders, holders of group visas, and people changing planes within 24 hours who never leave the transit area.
 
-What we left out: paid services that file the card for you (the official form is free and takes minutes), and the K-ETA application itself, which exempt travellers don't need before the end of 2027.
+What we left out: paid services that file the card for you (the official form is free), and the K-ETA application itself, which exempt travellers don't need before the end of 2027.
 
 </details>
 
@@ -192,7 +192,7 @@ The card does not sign you up for the automated immigration gates, and it does n
 
 ## Your arrival, done right
 
-**The night before you fly.** Passport, flight number and your hotel's address in English in front of you. About ten minutes on the official site, and the PDF with your issue number is saved on your phone. The arrival card is done before you pack.
+**The night before you fly.** Passport, flight number and your hotel's address in English in front of you. File it on the official site, and the PDF with your issue number is saved on your phone. The arrival card is done before you pack.
 
 **At the immigration desk.** No pen, no paper card to fill in on your knee. You hand over your passport; the officer already has your details on screen. Once you are through, the card has done its job and expires.
 

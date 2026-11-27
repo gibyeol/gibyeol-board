@@ -48,11 +48,11 @@ K-ETA 是免簽入境韓國時的電子旅行許可,費用 10,000 韓元,效期�
 
 地圖、叫車、翻譯、掃 QR code 點餐,幾乎都靠手機。我們的判斷是 eSIM;手機不支援時再選其他方式。
 
-**先確認你的手機(1 分鐘):** iPhone 是 XS、XR 以後的機型,而且**設定 → 一般 → 關於本機 → 電信業者鎖定**顯示「沒有 SIM 卡限制」就可以。Galaxy 在**設定 → 關於手機 → 狀態資訊**看得到 EID,就是支援 eSIM 的手機(EID 也印在手機盒上)。如果 Galaxy 是向電信業者買的,有沒有鎖定請問那家電信業者。例外(Apple):在中國大陸,只有 iPhone 18 Pro、18 Pro Max、iPhone Duo、17e 和 iPhone Air 支援 eSIM;在香港和澳門,部分 iPhone 機型的雙 SIM 卡是使用兩張 nano-SIM 卡。在這些地區買的 iPhone,請先確認機型。
+**先確認你的手機:** iPhone 是 XS、XR 以後的機型,而且**設定 → 一般 → 關於本機 → 電信業者鎖定**顯示「沒有 SIM 卡限制」就可以。Galaxy 在**設定 → 關於手機 → 狀態資訊**看得到 EID,就是支援 eSIM 的手機(EID 也印在手機盒上)。如果 Galaxy 是向電信業者買的,有沒有鎖定請問那家電信業者。例外(Apple):在中國大陸,只有 iPhone 18 Pro、18 Pro Max、iPhone Duo、17e 和 iPhone Air 支援 eSIM;在香港和澳門,部分 iPhone 機型的雙 SIM 卡是使用兩張 nano-SIM 卡。在這些地區買的 iPhone,請先確認機型。
 
 {{fig:essentials-3|eSIM、SIM 卡、Wi-Fi 分享器:各自要注意什麼}}
 
-**怎麼選:** 只要上網,下面兩個按鈕選一個就好。需要用韓國門號接電話、收簡訊,就看再下面那款 SKT 通話簡訊方案。
+**怎麼選:** 只要上網,下面兩個按鈕選一個就好。需要韓國門號,就看再下面那款 SKT 商品。
 
 **購買前:** 先在商品頁看退款條件(有些賣家安裝後就不能退款)。
 
@@ -60,9 +60,9 @@ K-ETA 是免簽入境韓國時的電子旅行許可,費用 10,000 韓元,效期�
 
 {{aff:klook_esim|在 Klook 預訂 SKT 5G eSIM}}
 
-需要韓國門號打電話、收簡訊(有些訂位、外送 App 會要求)?下面這款使用 SK Telecom 網路,效期 2 到 90 天,通話需另外加值,不支援熱點分享。
+需要韓國門號?看下面這款商品。效期、通話簡訊條件、能不能分享熱點,我們打不開商品頁所以沒寫,購買前請在商品頁確認。
 
-{{aff:klook_esim_alt|查看含通話簡訊的 SKT eSIM}}
+{{aff:klook_esim_alt|在 Klook 看更多 SKT eSIM 方案}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買了之後:安裝並開啟 eSIM(iPhone、Galaxy)</summary>
 
@@ -113,8 +113,8 @@ iPhone 可用海外 Mastercard、Amex、銀聯為 Mobile T-money App 儲值(Visa
 | App | 用途 | 備註 |
 |---|---|---|
 | Naver Map | 步行、地鐵、公車路線 | 韓國最常用,支援中文 |
-| Kakao Map | 路線查詢 | 拿來交叉比對;操作最接近 Google Maps |
-| Kakao T | 叫計程車 | 有英文介面,可用信用卡 |
+| Kakao Map | 路線查詢 | 和 NAVER 地圖交叉比對 |
+| Kakao T | 叫計程車 | 有韓國門號和韓國信用卡時用。外國卡請用旅客版 k.ride([首爾交通](/zh-tw/getting-around/)) |
 | Papago | 翻譯 | 用相機翻譯菜單與招牌 |
 | Subway Korea | 地鐵路線與轉乘 | 下載後可離線使用 |
 | Korail+(原 KorailTalk) | KTX 與長途火車 | 出發前兩個月開放訂票([首爾到釜山](/zh-tw/ktx-busan/)) |

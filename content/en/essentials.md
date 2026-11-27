@@ -48,11 +48,11 @@ Exempt travellers can still apply voluntarily. The benefit is skipping the arriv
 
 Maps, taxis, translation and QR-code menus all run through your phone. Our call: eSIM, unless your phone can't take one.
 
-**Check your phone first (1 minute):** an iPhone XS or XR or later works if **Settings → General → About → Carrier Lock** says "No SIM Restrictions". On a Galaxy, an EID under **Settings → About phone → Status** means it has eSIM (the EID is also printed on the box). If your Galaxy came from a carrier, ask that carrier whether it is locked. Exceptions (Apple): in China mainland only iPhone 18 Pro, 18 Pro Max, iPhone Duo, 17e and iPhone Air support eSIM, and in Hong Kong and Macao some iPhone models use Dual SIM with two nano-SIM cards. If your iPhone was bought there, check the model first.
+**Check your phone first:** an iPhone XS or XR or later works if **Settings → General → About → Carrier Lock** says "No SIM Restrictions". On a Galaxy, an EID under **Settings → About phone → Status** means it has eSIM (the EID is also printed on the box). If your Galaxy came from a carrier, ask that carrier whether it is locked. Exceptions (Apple): in China mainland only iPhone 18 Pro, 18 Pro Max, iPhone Duo, 17e and iPhone Air support eSIM, and in Hong Kong and Macao some iPhone models use Dual SIM with two nano-SIM cards. If your iPhone was bought there, check the model first.
 
 {{fig:essentials-3|eSIM, SIM or pocket wifi: what each asks of you}}
 
-**Which one:** for data only, either of the next two buttons. If you need a Korean number for calls and texts, the SKT plan below them.
+**Which one:** for data only, either of the next two buttons. If you need a Korean number, see the SKT product below them.
 
 **Before you buy:** check the refund terms on the product page (some sellers do not refund once the eSIM is installed).
 
@@ -60,9 +60,9 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 
 {{aff:klook_esim|Get an SKT 5G eSIM on Klook}}
 
-Need a Korean number for calls and texts (some booking and delivery apps ask for one)? The plan below runs on SK Telecom, lasts 2 to 90 days and adds calls as a top-up, but does not allow hotspot sharing.
+Need a Korean number? See the product below. We could not open the product page, so we have not listed its validity, call and text terms or hotspot rules. Check them on the product page before you buy.
 
-{{aff:klook_esim_alt|SKT eSIM with calls and texts}}
+{{aff:klook_esim_alt|More SKT eSIM plans on Klook}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>After you buy: install and turn on the eSIM (iPhone and Galaxy)</summary>
 
@@ -113,8 +113,8 @@ Download these on wifi at home and set the language first. Naver Map is the one 
 | App | Use it for | Notes |
 |---|---|---|
 | Naver Map | Walking, subway and bus directions | The standard in Korea. Supports Korean, English, Chinese and Japanese |
-| Kakao Map | Directions | A good second opinion; feels closest to Google Maps |
-| Kakao T | Taxis | English interface. Pay by card or in the car |
+| Kakao Map | Directions | To compare with Naver Map |
+| Kakao T | Taxis | If you have a Korean number and card. With a foreign card, use k.ride, the visitor app ([Getting around](/getting-around/)) |
 | Papago | Translation | Point the camera at a menu or sign |
 | Subway Korea | Subway routes and transfers | Works offline once downloaded |
 | Korail+ (formerly KorailTalk) | KTX and intercity trains | Tickets open two months before departure ([KTX to Busan](/ktx-busan/)) |

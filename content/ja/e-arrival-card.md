@@ -1,13 +1,13 @@
 ---
 title: 韓国の電子入国申告書(e-Arrival Card):画面どおりに入力する
 description: 韓国の電子入国申告書は無料。提出期限、有料の偽サイト、ホテルが複数・帰国日未定・子ども連れ・乗り継ぎの書き方を公式FAQで確認しました。
-lede: 無料、スマホで10分ほど、到着の3日前から。出しておけば、入国審査ではもう係官の画面にあなたの情報が出ています。
+lede: 無料、スマホで、到着の3日前から。出しておけば、入国審査ではもう係官の画面にあなたの情報が出ています。
 section: essentials
 updated: 2026-11-26
 ---
 <div class="eac-cta"><a class="eac-btn" href="#必要ですか"><i class="ic ic-circle-help" aria-hidden="true"></i>必要ですか?</a><a class="eac-btn go" href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">入力しに行く <i class="ic ic-arrow-right" aria-hidden="true"></i></a></div>
 
-<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>無料</li><li><i class="ic ic-clock" aria-hidden="true"></i>10分ほど</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>到着の3日前から</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>スマホ・パソコン、アプリ不要</li></ul>
+<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>無料</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>到着の3日前から</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>スマホ・パソコン、アプリ不要</li></ul>
 
 {{fig:e-arrival-card-shot-1|本物のサイトは最初にこう警告します。① 公式サイトは www.e-arrivalcard.go.kr だけ、支払い情報を求めるサイトには絶対にアクセスしないで、という案内。② 「確認」で閉じます。画面:e-arrivalcard.go.kr(韓国法務部)、2026年11月26日撮影}}
 
@@ -23,7 +23,7 @@ updated: 2026-11-26
 
 このページが不要な人:韓国籍の方(二重国籍の方は韓国のパスポートで入国)、外国人登録者、有効なK-ETA保持者、団体ビザで入国する方、24時間以内の乗り継ぎで空港の外に出ない方。
 
-このページで扱わないもの:代わりに申請する有料代行(公式の申告書は無料で、数分で終わります)、K-ETAの申請手順(免除対象の方は2027年末まで不要です)。
+このページで扱わないもの:代わりに申請する有料代行(公式の申告書は無料です)、K-ETAの申請手順(免除対象の方は2027年末まで不要です)。
 
 </details>
 
@@ -192,7 +192,7 @@ updated: 2026-11-26
 
 ## うまくいった入国はこんな流れ
 
-**出発前の夜。** パスポート、便名、ホテルの英語住所を手元に置いて、公式サイトで10分ほど。発行番号入りのPDFをスマホに保存します。荷造りの前に入国申告は終わりです。
+**出発前の夜。** パスポート、便名、ホテルの英語住所を手元に置いて、公式サイトで提出。発行番号入りのPDFをスマホに保存します。荷造りの前に入国申告は終わりです。
 
 **入国審査のカウンター。** ペンも、ひざの上で書く紙のカードもありません。パスポートを渡すと、係官の画面にはもう情報が出ています。審査を通れば、申告書は役目を終えて失効します。
 
