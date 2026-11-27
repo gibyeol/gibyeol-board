@@ -278,7 +278,7 @@
     // a short form with its own spellings (jim: {of: 'james', ko: '짐', ...}): sound from the short form, meaning from the full name
     if (e && typeof e === 'object' && e.of) {
       var root = entryFor(e.of);
-      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ja: e.ja, zh: e.zh }), nick: key };
+      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ka: e.ka, ja: e.ja, zh: e.zh }), nick: key };
     }
     while (typeof e === 'string' && hops++ < 3) { key = e; e = D[e]; }
     return e ? { key: key, e: e } : null;
@@ -457,7 +457,7 @@
     if (r.meaning || B) {
       var e = r.meaning ? r.meaning.e : {}, conf = e.c || 'h';
       var local = e.m && e.m[k3] && k3 !== 'en' ? e.m[k3] : null;
-      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(name.trim().split(' ')[0]) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : '';
+      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(r.firstKey ? r.firstKey.charAt(0).toUpperCase() + r.firstKey.slice(1) : name.trim().split(' ')[0]) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : '';
       h += '<h3 class="namer-h">' + T.meaning + root2 + ' <span class="namer-conf c-' + conf + '">' + T.conf[conf] + '</span></h3>';
       if (local) h += '<p class="namer-mean">' + esc(local) + '</p>';
       // Korean interface: our Korean translation first, Behind the Name's English sentence under it (owner: "영어를 없애라는 말이 아니야")
