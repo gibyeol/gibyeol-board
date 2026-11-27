@@ -55,7 +55,7 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 
 <span id="esim-pick"></span>
 
-**Which one:** for data only, any of the buttons below will do (the last one is for foreign passport holders only). If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts. The last one is for foreign passport holders only (Korean passports cannot be verified).
+**Which one:** for data only, any of the buttons below will do (the last one is for foreign passport holders only; Korean passports cannot be verified). If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts.
 
 **Before you buy:** check the refund terms on the product page (some sellers do not refund once the eSIM is installed).
 
