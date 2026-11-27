@@ -329,10 +329,10 @@
       var K = window.NADRI_KANJI || {}, KCH = window.NADRI_KANJI_CHAIN || {};
       r.chars = s.replace(/ /g, '').split('').map(function (c) {
         var n = c.charCodeAt(0), rd = n >= 0x4E00 && n <= 0x9FFF && window.HANJA_KO ? window.HANJA_KO[n - 0x4E00] : '';
-        return { c: c, read: rd === '·' ? '' : rd, ko: K[c] && K[c].ko, en: K[c] && K[c].en };
+        var k3c = L3(); return { c: c, read: rd === '·' ? '' : rd, ko: K[c] && K[c].ko, en: K[c] && ((k3c === 'ja' && K[c].ja) || (k3c === 'zh' && K[c].zh) || K[c].en) };
       });
       r.chars.forEach(function (x) { if (!r.chain && KCH[x.c]) r.chain = KCH[x.c]; });
-      var w0 = words[0], gv = words.length > 1 ? words.slice(1).join('') : (w0.length >= 2 && w0.length <= 4 ? w0.slice(w0.length === 4 ? 2 : 1) : w0);
+      var w0 = words[0], SN = '陳林黃張李王吳劉蔡楊許鄭謝郭洪曾邱廖賴周徐葉蘇莊呂江何蕭羅高潘簡朱鍾彭游詹胡施沈余趙盧梁顏柯孫魏翁戴范宋方鄧杜傅侯曹薛丁卓阮馬董温唐藍石蔣古紀姚連馮歐程湯黄田康姜白汪鄒尤巫鐘黎涂龔嚴韓袁金童陸夏柳凃邵錢伍倪溫于譚駱熊任甘秦顧毛章史官萬俞雷粘饒', two = w0.length === 2 && (window.KO_SURNAME_HANJA ? Object.keys(window.KO_SURNAME_HANJA).map(function (k) { return window.KO_SURNAME_HANJA[k]; }).join('') : '').indexOf(w0[0]) < 0 && SN.indexOf(w0[0]) < 0, gv = words.length > 1 ? words.slice(1).join('') : (two ? w0 : (w0.length >= 2 && w0.length <= 4 ? w0.slice(w0.length === 4 ? 2 : 1) : w0));
       r.givenChars = gv.split('');
     }
     return r;
@@ -463,7 +463,7 @@
     if (bornL) { r.born = { id: bornL }; more = bornBlock(r.born) + more; }
     if (r.chars) {
       r.born = bornFromHanja(r.chars.map(function (x) { return x.c; }));
-      var KJ = window.NADRI_KANJI || {}, gl = function (c) { return KJ[c] ? (k3 === 'ko' ? KJ[c].ko : KJ[c].en) : ''; };
+      var KJ = window.NADRI_KANJI || {}, gl = function (c) { return KJ[c] ? (k3 === 'ko' ? KJ[c].ko : (k3 === 'ja' && KJ[c].ja) || (k3 === 'zh' && KJ[c].zh) || KJ[c].en) : ''; };
       r.whole = (r.givenChars || []).some(gl) ? wholeMeaning(r.givenChars, gl, r.born) : '';
       if (r.born) more = bornBlock(r.born, r.whole) + more;
     }
