@@ -147,6 +147,8 @@ disclosure: yes
 
 <ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>オリーブヤンググローバル<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>米国在住なら:Olive Young US<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
+送料・返品・受け取るときの税金(国別)まで比べるなら:[韓国コスメを自宅で受け取る](/ja/buy-from-home/)
+
 {{fig:olive-young-5|家から買い足すなら、どこで}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>先に結論:表で見る</summary>

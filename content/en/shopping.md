@@ -9,3 +9,5 @@ byline: no
 {{trending}}
 
 {{guides:olive-young}}
+
+Buying from outside Korea: [K-beauty delivered to your door](/buy-from-home/)

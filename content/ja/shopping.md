@@ -9,3 +9,5 @@ byline: no
 {{trending}}
 
 {{guides:olive-young}}
+
+韓国の外から自宅で受け取るなら:[韓国コスメを自宅で受け取る](/ja/buy-from-home/)

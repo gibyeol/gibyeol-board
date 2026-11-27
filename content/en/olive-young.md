@@ -147,6 +147,8 @@ What we left out: trending products and rankings. A ranking tells you what sells
 
 <ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>Olive Young Global<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>Olive Young US (United States)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
+To compare shipping, returns and the tax in your country: [K-beauty delivered to your door](/buy-from-home/)
+
 {{fig:olive-young-5|Where to reorder from home}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>The one-line judgment, as a table</summary>
