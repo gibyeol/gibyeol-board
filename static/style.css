@@ -587,3 +587,12 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
   .acc-hero img{aspect-ratio:auto;width:auto;max-width:100%;max-height:460px;margin-inline:auto}
   .body>.fig img,.body>.tr-photo img,details.tr-more .fig img{max-height:540px;object-fit:contain}
 }
+/* home: quick answers (money questions), 2026-11-28 */
+.qa-links{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:1fr;gap:8px}
+.qa-links li{margin:0}
+.qa-links a{display:block;padding:12px 14px;background:#fff;border:1px solid var(--hair);border-radius:10px;text-decoration:none;color:var(--ink);font-weight:600;line-height:1.35}
+.qa-links a::after{content:" →";color:var(--red)}
+.qa-links a:hover{border-color:var(--ink)}
+@media (min-width:700px){.qa-links{grid-template-columns:1fr 1fr}}
+@media (min-width:1024px){.qa-links{grid-template-columns:1fr 1fr 1fr}}
+.qa-sec .sec-h h2::before{width:calc(100% + 14px)}
