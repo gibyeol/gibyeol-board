@@ -161,12 +161,40 @@ Large and deluxe cars are ₩100,000–140,000. Split four ways, ₩85,000 is ab
 
 <aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>Last AREX Express: 22:48 from Terminal 1, 22:40 from Terminal 2.</b> Visit Seoul advises allowing one to two hours for immigration and bags, so a flight landing after about 9 p.m. can miss it. Decide before you fly.</span></aside>
 
+**Choose by the time you come out of the arrivals hall.** Incheon Airport advises allowing one to two hours after landing for immigration and bags.
+
+| When you come out | How to go |
+|---|---|
+| Before the last Express (22:48 from Terminal 1, 22:40 from Terminal 2) | [AREX Express](#express). Transportation Center, B1 |
+| After the last Express | [AREX all-stop train](#allstop). It runs later than the Express. Check its last train for your date on the [AREX train times](https://www.airportrailroad.com/train/normal/info) |
+| From 23:40 at Terminal 1 or 23:20 at Terminal 2, into the 4 a.m. hour | [Late-night buses](#late-bus), 4 routes. Take the one that stops near where you sleep |
+| Lots of bags, 3–4 people, or your stay is far from a bus stop | [Taxi](#late-taxi). From 10 p.m. to 4 a.m. a night surcharge is added to the meter fare |
+
 {{fig:airport-to-seoul-7|What still runs from Terminal 1 late at night}}
 
-- **All-stop train:** runs later. Check its last train for your date on the [AREX train times](https://www.airportrailroad.com/train/normal/info).
-- **After the trains:** late-night buses, ₩17,000–18,000. First departures from Terminal 1 between 23:40 and 00:10. Buy the ticket at the bus counter or a machine.
+<h3 id="late-bus">Late-night bus: where do I get on, and when does it come?</h3>
+
+- **Ticket:** At Terminal 1, buy it at a bus ticket counter on 1F (inside or outside) or a ticket machine. At Terminal 2, buy it at a ticket counter in the B1 Transportation Center (east or west side) or a ticket machine. For N6701 and N6703 you can also buy it in the Tmoney GO app.
+- **Fare (adult):** N6000 and N6002 ₩17,000; N6701 and N6703 ₩18,000. Child ₩10,000 and ₩12,000, in the same order.
+- **Where to board:** At Terminal 1, the Seoul bus stops outside Exits 3–7 on 1F: **6A (N6000, N6002)** and **3B (N6701, N6703)**. At Terminal 2, the bus terminal in the B1 Transportation Center: **stop 28 (N6000), stop 30 (N6002), stop 19 (N6703)**. For N6701, the airport website's route search says **stop 18**, but its stop map says **stop 20**. Both are in the same area (stops 17–22), so wait there and check the number on the front of the bus.
 
 <ul class="ap-routes late"><li><b>N6000</b>Gangnam</li><li><b>N6002</b>Hongdae, Cheongnyangni</li><li><b>N6701</b>Seoul Station, Dongdaemun</li><li><b>N6703</b>Jamsil, Gwangnaru</li></ul>
+
+| Route | Stops (time from Terminal 1) | From Terminal 1 | From Terminal 2 |
+|---|---|---|---|
+| N6000 | Songjeong Station 40 min → Yeomchang Station 50 min → Gangnam Express Bus Terminal 70 min | 00:10 00:50 01:30 02:10 03:40 04:20 | 23:50 00:30 01:10 01:50 03:20 04:00 |
+| N6002 | Hongdae 45 min → Four Seasons Hotel (Gwanghwamun) 60 min → Heunginjimun (Dongdaemun) 75 min → Cheongnyangni 90 min | 00:00 00:30 01:00 01:40 04:00 04:40 | 23:40 00:10 00:40 01:20 03:40 04:20 |
+| N6701 | Mapo Station 50 min → Seoul Station 60 min → Euljiro 1-ga 65 min → Dongdaemun Design Plaza 70 min | 23:50 00:40 01:40 03:45 04:40 | 23:30 00:20 01:20 03:25 04:20 |
+| N6703 | Seorae Village 50 min → COEX 65 min → Jamsil Lotte World 70 min → Gangbyeon Station (Techno Mart) 80 min → Gwangnaru Station 85 min | 23:40 00:20 01:05 01:45 03:50 04:50 | 23:20 00:00 00:45 01:25 03:30 04:30 |
+
+From Terminal 2 the bus goes by way of Terminal 1, so the ride is about 20 minutes longer. There are no buses between 02:10 and 03:40 at Terminal 1, or between 01:50 and 03:20 at Terminal 2. Times follow Incheon Airport's "Seoul late-night bus" page; in a few places the route search screen is 1–2 minutes different.
+
+<h3 id="late-taxi">Taxi: how much more at night?</h3>
+
+- **Regular taxi (meter fare):** base fare ₩4,800. Seoul and Incheon taxis add **20% from 22:00 to 23:00, 40% from 23:00 to 02:00, and 20% from 02:00 to 04:00**. Gyeonggi taxis add 30% from 23:00 to 04:00. From the airport to Seoul, Incheon, Goyang, Gwangmyeong, Gimpo or Bucheon, there is no extra charge for crossing a city line.
+- **Where to board:** Terminal 1 1F stands 5C, 6C and 6D; Terminal 2 Seoul taxi stand 7C.
+- **Deluxe and large taxis (9 seats):** base fare ₩7,000, 20% extra from 22:00 to 04:00. Terminal 1 stands 7C and 8C, Terminal 2 stand 7D.
+- **International Taxi (foreign-language help, fixed fare to Seoul, tolls included):** Terminal 1 stand 4C, Terminal 2 stand 3C, phone 1644-2255. The [fixed fares](#taxi) are exactly as in Seoul's fare table. That table shows no separate night fare, so ask for the total before you get in.
 
 <details class="tr-more"><summary><i class="ic ic-calendar-days" aria-hidden="true"></i>Why the last Express time changed</summary>
 
