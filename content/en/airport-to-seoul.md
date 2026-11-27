@@ -169,7 +169,7 @@ Large and deluxe cars are ₩100,000–140,000. Split four ways, ₩85,000 is ab
 | After the last Express | [AREX all-stop train](#allstop). The last train to Seoul Station leaves Terminal 1 at 23:38 and Terminal 2 at 23:32 (same on weekdays and holidays). The trains after that, 23:56 from Terminal 1 and 23:50 from Terminal 2, only go as far as Digital Media City Station and do not stop at Hongik Univ. or Seoul Station. [AREX timetable by station](https://www.airportrailroad.com/train/normal/info/100) |
 | From 23:40 at Terminal 1 or 23:20 at Terminal 2, into the 4 a.m. hour | [Late-night buses](#late-bus), 4 routes. Take the one that stops near where you sleep |
 | Lots of bags, 3–4 people, or your stay is far from a bus stop | [Taxi](#late-taxi). From 10 p.m. to 4 a.m. a night surcharge is added to the meter fare |
-| Your flight may be late, you have lots of bags, or you need a child car seat | [Book a private car ahead](#late-car). The companies we saw wait for free up to 90 minutes after landing |
+| Your flight may be late, you have lots of bags, or you need a child car seat | [Book a private car ahead](#late-car). The companies we saw showed 90 minutes of free waiting |
 
 {{fig:airport-to-seoul-7|What still runs from Terminal 1 late at night}}
 
@@ -200,7 +200,7 @@ From Terminal 2 the bus goes by way of Terminal 1, so the ride is about 20 minut
 
 <h3 id="late-car">Booking a private car ahead: when is it a good idea?</h3>
 
-**It's good when you land late and your flight may be delayed, when you have lots of bags, when you need a child car seat, or when your stay is far from a late-night bus stop.** You book ahead a car that takes you from the airport to the door of your stay. See the price on the payment screen and compare it with the [taxi fixed fares](#taxi).
+**It's good when you land late and your flight may be delayed, when you have lots of bags, when you need a child car seat, or when your stay is far from a late-night bus stop.** You book ahead a car that takes you from the airport to the door of your stay. See the price on each company's line in the search results and compare it with the [taxi fixed fares](#taxi).
 
 1. On Klook's airport transfer screen (Airport transfers), choose **Airport pick-up**. Enter your arrival time or flight number, your hotel's name (address) and the number of people, then search.
 2. Each car type shows the most people and bags it takes. Pick a car type with plenty of room for your people and bags.
@@ -209,7 +209,7 @@ From Terminal 2 the bus goes by way of Terminal 1, so the ride is about 20 minut
 
 What we checked: one search on 28 November 2026 (Incheon Airport → Lotte Hotel Seoul, arriving 11:30 p.m., 2 people), the list of 3 companies for the 9-seater (Comfort 9 seater), and 1 detail screen among them.
 
-**All 3 companies** listed free cancellation up to 24 hours before pickup, 90 minutes of free waiting, and a meeting service (Meet & greet) and car seat you can choose.
+**All 3 companies** listed free cancellation up to 24 hours before pickup, 90 minutes of free waiting, and tags for a meeting service (Meet & greet) and car seats.
 
 **What we saw on that 1 detail screen:**
 
@@ -217,7 +217,7 @@ What we checked: one search on 28 November 2026 (Incheon Airport → Lotte Hotel
 - If you cancel later than 24 hours before, you get no refund.
 - The 9-seater takes up to 5 people with 5 bags of 24 inches, or 3 of 26 inches, or 2 of 28 inches. Count children and babies as 1 person each. A wheelchair, stroller or golf bag counts as 1 bag of 28 inches. The screen says to ask the company for details.
 - **If you have more people or bags than the limit, the driver may not take you, and then you get no refund.**
-- Meet & greet is an option you pay extra for: the driver waits in the arrivals hall holding a name sign. A car seat is also an option you pay extra for (ages 1–4, 9–18 kg).
+- Meet & greet is an option you pay extra for: the driver waits in the arrivals hall holding a name sign. A car seat is also an option you pay extra for (ages 1–4 or 9–18 kg).
 - A booking confirmation comes within a few minutes of paying.
 
 **Not checked:** where you meet the driver and how you contact them if you don't add Meet & greet. Follow your booking confirmation or the company's instructions.
