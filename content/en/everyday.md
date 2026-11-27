@@ -40,7 +40,7 @@ The exception is anything cooked at the table for sharing. Some grill-your-own B
 - **Water is free**, and in some places you help yourself from a dispenser or a fridge by the wall. Refills of side dishes are free too (KTO).
 - **Call bell.** Every table has a call button. KTO warns it may be louder than you expect.
 - **Paying.** Many places now take your order and payment on a table tablet or a kiosk at the door. If you ordered from staff and no one brings the bill, take the slip from your table to the counter on the way out.
-- **Cards** are accepted almost everywhere; see [Money in Korea](/money/).
+- Try a **card** first; some places don't take foreign cards. See [Money in Korea](/money/).
 
 {{fig:everyday-1|What to look for at a Korean restaurant table}}
 

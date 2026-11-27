@@ -35,14 +35,14 @@ Three things, and older guides miss all of them:
 - **Korail+ app.** The official app lists English, Japanese, Simplified and Traditional Chinese, Vietnamese and Thai. This is where Koreans book, so it shows everything.
 - **letskorail.com.** Korail's site for visitors, in English, Japanese and Chinese.
 - **Klook.** Since 20 April 2026 it has sold real-time Korail tickets with live seat availability, in about 20 languages and 40 currencies. Handy if your card struggles with Korean checkouts.
-- **At the station.** Korail has new ticket machines at 148 stations that take overseas credit cards.
+- **At the station.** As of late 2025, Korail had new ticket machines at 148 stations that take overseas credit cards.
 - **With your flight.** Since June 2026 some partner airlines and travel agencies sell AREX and KTX tickets together with a flight ("Rail&Air"). You cannot buy that combination in Korail+, on letskorail.com or at a station counter.
 
 When you pick a seat, look at its direction: depending on the train, seats face forward or backward, and you can choose. The government says Korail's booking system will grow from 7 to 10 languages by the end of 2026 and that WeChat Pay and Alipay are being developed. Neither had a launch date when we checked.
 
 ## How long it takes
 
-The fastest KTX trains run Seoul to Busan in about 2 hours 17 minutes; most take roughly 2 hours 35 to 41 minutes. Those times come from 2024 reporting and Korail says big time savings won't come before 2028, so we expect about the same today. Check the exact time when you book.
+The fastest KTX trains run Seoul to Busan in about 2 hours 17 minutes; typical ones take roughly 2 hours 35 to 41 minutes. Those times come from 2024 reporting and Korail says big time savings won't come before 2028, so we expect about the same today. Check the exact time when you book.
 
 ## Which Seoul station: Seoul, Suseo or Cheongnyangni
 
