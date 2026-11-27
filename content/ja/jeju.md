@@ -3,7 +3,6 @@ title: 韓国旅行に済州島を足すなら:ソウルからの行き方、車
 description: ソウルから済州への飛行機、レンタカーなしで回れるか、運転に必要なもの、「済州ノービザ」の本当の意味。2026年11月に確認。
 lede: 金浦から飛んで、思ったより早めに予約、運転しないなら済州市か東海岸に泊まるのがおすすめです。日本のパスポートなら「済州ノービザ」のニュースは気にしなくて大丈夫。
 section: transport
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 済州で過ごす最初の午後
@@ -19,7 +18,7 @@ updated: 2026-11-26
 | 車なし | 済州市か東海岸に泊まり、バス+タクシー | 101番と201番が空港と東海岸をつなぎます。車内で現金は使えません |
 | 運転したい | 出発前に日本で国際運転免許証を取る | 入国日から1年、免許証に書かれた車種だけ運転できます |
 
-選び方:泊まる場所をひとつ、空港と東海岸をつなぐバス2路線、そして車を使うかどうか。外したもの:西海岸と内陸部(バス路線を確認できていません)、レンタカー会社の比較。このページが要らない人:韓国が初めてで3日しかないなら、済州は次回に。両側の空港で一日の大半がなくなります。2回目以降の韓国で、ソウルに少し飽きてきた方にこそ向いています。
+選び方:泊まる場所をひとつ、空港と東海岸をつなぐバス2路線、そして車を使うかどうか。外したもの:西海岸と内陸部(バス路線を確認できていません)、レンタカー会社の比較。このページが要らない人:韓国が初めてで3日しかないなら、済州は次回に。2回目以降の韓国で、ソウルに少し飽きてきた方にこそ向いています。
 
 ## 行き方:仁川ではなく金浦から
 
@@ -28,8 +27,6 @@ updated: 2026-11-26
 {{fig:jeju-1|仁川から済州へ:金浦経由か、週3便の直行か}}
 
 金浦へは仁川からAREXで行けます。[仁川空港からソウルへ](/ja/airport-to-seoul/)をどうぞ。チェジュ航空は2026年11月2日から仁川–済州を月・水・金の週3便で運航し、2027年3月27日まで延長しています。
-
-**日本から直行便:** 大韓航空が2026年夏ダイヤ(3月29日〜10月24日)に成田–済州を週4便(月・水・金・日)運航していました。冬ダイヤ以降の運航は今回確認できなかったので、予約前に大韓航空のサイトでご確認ください。
 
 > 国内線でもパスポートを忘れずに。大韓航空は外国人の大人の身分証としてパスポート(原本)を認め、チェックインは出発30分前、搭乗は10分前に締め切ります。LCCはもっと厳しいこともあります。
 
@@ -61,9 +58,9 @@ updated: 2026-11-26
 
 | エリア | 向いている人 | そのかわり |
 |---|---|---|
-| 済州市 | 短い滞在、遅い到着、バスの乗り継ぎ | 景色はいちばん地味で、南より寒め |
-| 東海岸(咸徳〜城山) | 車なし旅:空港から101番、海岸沿いに201番 | 夜の選択肢が少なく、バスは30〜80分間隔 |
-| 西帰浦(南) | 暖かい冬、南海岸の見どころ、空港リムジン | 空港からいちばん遠い |
+| 済州市 | 短い滞在、遅い到着、バスの乗り継ぎ | 南より寒め(気象庁の冬の平均最高気温) |
+| 東海岸(咸徳〜城山) | 車なし旅:空港から101番、海岸沿いに201番 | 201番バスは30〜80分間隔 |
+| 西帰浦(南) | 暖かい冬、南海岸の見どころ、空港リムジン | 空港から遠い。リムジンの乗り場は現地で確認 |
 
 ## 天気をひとこと
 
@@ -86,4 +83,4 @@ updated: 2026-11-26
 
 ## 出典
 
-<p class="sources"><a href="https://www.oag.com/pressroom/south-koreas-jeju-cju-seoul-gimpo-gmp-worlds-busiest-airline-route-in-2025" rel="noopener" target="_blank">OAG、2025年の最混雑路線</a>(2025年12月22日)、<a href="https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000030.html" rel="noopener" target="_blank">NewDaily、金浦–済州の利用者と2026年6月の減便</a>(2026年7月20日)、<a href="https://view.asiae.co.kr/en/article/2026091410163134123" rel="noopener" target="_blank">アジア経済、チェジュ航空の仁川–済州線</a>(2026年9月14日)、<a href="https://www.aviationwire.jp/archives/337821" rel="noopener" target="_blank">Aviation Wire、大韓航空の済州–成田線</a>(2026年2月10日)、<a href="https://www.koreanair.com/contents/plan-your-travel/at-the-airport/boarding-procedure/domestic-flights-boarding" rel="noopener" target="_blank">大韓航空 国内線の搭乗案内</a>(2026年11月25日確認)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA、市内バスで済州東海岸</a>(2025年1月更新)、<a href="https://m.seoul.co.kr/news/2026/04/30/20260430500235" rel="noopener" target="_blank">ソウル新聞、済州のバスとK-Pass</a>(2026年5月1日)、<a href="https://www.molit.go.kr/jroa/USR/WPGE0201/m_36332/DTL.jsp" rel="noopener" target="_blank">済州地方航空庁 アクセス案内</a>(2026年11月25日確認)、<a href="https://www.airportal.go.kr/file/htmlOpen/upload/airport/%EC%A0%9C%EC%A3%BC%EA%B3%B5%ED%95%AD.pdf" rel="noopener" target="_blank">Airportal 済州空港案内</a>(2020年7月時点)、<a href="https://www.incheon.go.kr/ml_kr/MLKR050207" rel="noopener" target="_blank">仁川市、国際運転免許証での運転</a>(2026年11月25日確認)、<a href="https://www.kma.go.kr/kma/flexer/html/press/2026/03/04/ATC202603041015172_58308820-55dd-40ca-ad55-4afd11a081eb.hwp.files/Sections1.html" rel="noopener" target="_blank">韓国気象庁、2025年冬の気候</a>(2026年3月4日)、<a href="https://www.fnnews.com/news/202611181107351061" rel="noopener" target="_blank">Financial News、済州ノービザと廃止法案</a>(2026年11月18日)。 2026年11月26日に再確認:<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">法務部、K-ETA一時免除を2027年12月31日まで延長</a>(2026年11月23日)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA、市内バスで済州東海岸</a>(2025年1月更新のまま)。</p>
+<p class="sources"><a href="https://www.oag.com/pressroom/south-koreas-jeju-cju-seoul-gimpo-gmp-worlds-busiest-airline-route-in-2025" rel="noopener" target="_blank">OAG、2025年の最混雑路線</a>(2025年12月22日)、<a href="https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000030.html" rel="noopener" target="_blank">NewDaily、金浦–済州の利用者と2026年6月の減便</a>(2026年7月20日)、<a href="https://view.asiae.co.kr/en/article/2026091410163134123" rel="noopener" target="_blank">アジア経済、チェジュ航空の仁川–済州線</a>(2026年9月14日)、<a href="https://www.koreanair.com/contents/plan-your-travel/at-the-airport/boarding-procedure/domestic-flights-boarding" rel="noopener" target="_blank">大韓航空 国内線の搭乗案内</a>(2026年11月25日確認)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA、市内バスで済州東海岸</a>(2025年1月更新)、<a href="https://m.seoul.co.kr/news/2026/04/30/20260430500235" rel="noopener" target="_blank">ソウル新聞、済州のバスとK-Pass</a>(2026年5月1日)、<a href="https://www.molit.go.kr/jroa/USR/WPGE0201/m_36332/DTL.jsp" rel="noopener" target="_blank">済州地方航空庁 アクセス案内</a>(2026年11月25日確認)、<a href="https://www.airportal.go.kr/file/htmlOpen/upload/airport/%EC%A0%9C%EC%A3%BC%EA%B3%B5%ED%95%AD.pdf" rel="noopener" target="_blank">Airportal 済州空港案内</a>(2020年7月時点)、<a href="https://www.incheon.go.kr/ml_kr/MLKR050207" rel="noopener" target="_blank">仁川市、国際運転免許証での運転</a>(2026年11月25日確認)、<a href="https://www.kma.go.kr/kma/flexer/html/press/2026/03/04/ATC202603041015172_58308820-55dd-40ca-ad55-4afd11a081eb.hwp.files/Sections1.html" rel="noopener" target="_blank">韓国気象庁、2025年冬の気候</a>(2026年3月4日)、<a href="https://www.fnnews.com/news/202611181107351061" rel="noopener" target="_blank">Financial News、済州ノービザと廃止法案</a>(2026年11月18日)。 2026年11月26日に再確認:<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">法務部、K-ETA一時免除を2027年12月31日まで延長</a>(2026年11月23日)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA、市内バスで済州東海岸</a>(2025年1月更新のまま)。</p>

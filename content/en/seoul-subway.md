@@ -148,7 +148,7 @@ Made a mistake that isn't here? Tell us through the update box at the end of thi
 | A normal 3–7 day trip | T-money, or WOWPASS (T-money inside) | ₩100 cheaper per ride than a single ticket, plus bus transfers |
 | 3+ rides a day for 3+ days, all in Seoul | Climate Card short-term pass | 3 days: ₩10,000 + ₩3,000 card, about eight fares |
 | No card, no cash | Climate Card or single ticket at a new machine | Overseas credit and debit cards accepted since 17 March 2026 |
-| It's late evening | Check your last train now | Weekends stop earlier, and times may have moved |
+| It's late evening | Check your last train now | The 2022 extension was weekdays only, so weekends stop earlier |
 
 Subway only here. City buses: [Seoul buses](/seoul-bus/). Taxis: [Getting around Seoul](/getting-around/). Airport: [Incheon Airport to Seoul](/airport-to-seoul/).
 
@@ -204,7 +204,6 @@ Our call: with suitcases, avoid roughly 7–9 a.m. on weekdays.
 Our call: decide how you get home before dinner.
 
 - In 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m.; weekends and holidays were excluded.
-- In May 2025 Seoul announced moving Lines 1–8 first and last trains 30 minutes earlier from as early as August 2025. We couldn't confirm whether it happened.
 - So check your station's last train in Naver Map or Kakao Map. Korail sections of Lines 1, 3 and 4 differ.
 
 Missed it? [Getting around](/getting-around/).

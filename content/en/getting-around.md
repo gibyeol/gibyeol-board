@@ -3,7 +3,6 @@ title: Getting around Seoul: subway, bus and taxi without the confusion
 description: How to ride Seoul's subway and buses, what fares cost, how to get back after the last train, and which taxi app takes your foreign card. Checked 26 November 2026.
 lede: Our call: the subway does most of the work, buses fill the gaps once you trust the tap-off rule, and a taxi app is your late-night plan B. Load a transport card before your first ride and almost nothing here can go wrong.
 section: transport
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first ride
@@ -25,7 +24,7 @@ We picked three ways to move: subway, bus, taxi. What we left out on purpose: Ub
 
 ## First: get a card
 
-Get a card before your first ride: it is the one problem you cannot fix once you are on a bus.
+Get a card before your first ride: it is hard to sort out once you are on a bus.
 
 Subway gates and buses are tap-only. Use T-money, WOWPASS (T-money inside), or a Climate Card short-term pass. Which one and where to top up: [Essentials](/essentials/) and [Money](/money/). What changed in 2026:
 
@@ -78,7 +77,7 @@ Decide how you get back before dinner, not at the platform.
 
 {{fig:getting-around-5|After dinner: how to get back}}
 
-- **Last trains:** in 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m. In May 2025 it announced moving Lines 1–8 first and last trains 30 minutes earlier; we could not confirm that this has happened. Times also differ by station, so check yours in Naver Map.
+- **Last trains:** in 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m. Today's times differ by station and day, so check yours in Naver Map on the day.
 - **Night buses:** Seoul runs **14 routes** whose numbers start with N, between 11 p.m. and 6 a.m., for ₩2,500 by card. The Climate Card covers them. Around holidays Seoul sometimes extends last trains; it did for Lunar New Year 2026.
 
 ## Taxis

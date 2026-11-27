@@ -3,7 +3,6 @@ title: Adding Jeju to a Korea trip: flights from Seoul, getting around without a
 description: How to get from Seoul to Jeju, whether you can skip the rental car, what you need to drive, and what the Jeju visa-free rule means for you. Checked November 2026.
 lede: Our call: fly from Gimpo, book earlier than you think, and base yourself in Jeju City or on the east coast if you are not driving. Most US visitors can ignore the "Jeju visa-free" headlines; they are about other passports.
 section: transport
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your first afternoon on Jeju
@@ -19,7 +18,7 @@ You walk out to the first floor of Jeju International Airport and find Platform 
 | No car | Sleep in Jeju City or on the east coast, ride buses, add taxis | Bus 101 and bus 201 connect the airport and the east coast; cash is not accepted on board |
 | Want to drive | Get an international driving permit at home before you fly | Korea lets you drive on it for one year from entry, only for the vehicle classes on it |
 
-How we chose: one base, the two bus lines that link the airport to the east coast, and one decision about the car. What we left out: the west coast and the inland roads, which we have not checked by bus, and rental-car companies. Who doesn't need this page: if you have three days in Korea, skip Jeju. The flight is short, but airport time on both ends eats most of a day.
+How we chose: one base, the two bus lines that link the airport to the east coast, and one decision about the car. What we left out: the west coast and the inland roads, which we have not checked by bus, and rental-car companies. Who doesn't need this page: if you have three days in Korea, skip Jeju.
 
 ## Getting there: Gimpo, not Incheon
 
@@ -59,9 +58,9 @@ Your home licence on its own does not let you drive. Korea lets holders of an in
 
 | Area | Good for | Trade-off |
 |---|---|---|
-| Jeju City | Short stays, late arrivals, bus connections | The least scenic, and cooler than the south |
-| East coast (Hamdeok to Seongsan) | Car-free trips: bus 101 from the airport, bus 201 along the coast | Fewer evening options; buses can be 30–80 minutes apart |
-| Seogwipo (south) | Warmer winters, south coast sights, the airport limousine | Furthest from the airport |
+| Jeju City | Short stays, late arrivals, bus connections | Cooler than the south (KMA winter average highs) |
+| East coast (Hamdeok to Seongsan) | Car-free trips: bus 101 from the airport, bus 201 along the coast | Bus 201 runs every 30–80 minutes |
+| Seogwipo (south) | Warmer winters, south coast sights, the airport limousine | Far from the airport; confirm limousine stops on site |
 
 ## Weather, briefly
 

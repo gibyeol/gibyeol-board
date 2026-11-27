@@ -3,7 +3,6 @@ title: Seoul to Busan: booking the KTX as a visitor, and Busan basics
 description: Where foreigners book the KTX, when tickets open, whether the Korail Pass pays off, and how to get around once you land in Busan. Checked November 2026.
 lede: For a simple Seoul–Busan round trip, buy two regular KTX tickets and skip the pass. The rail system changed a lot in 2026, so book in the app most locals use and do it early.
 section: transport
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## Your Busan day, from the platform
@@ -43,7 +42,7 @@ When you pick a seat, look at its direction: depending on the train, seats face 
 
 ## How long it takes
 
-The fastest KTX trains run Seoul to Busan in about 2 hours 17 minutes; most take roughly 2 hours 35 to 41 minutes. Those times come from 2024 reporting and Korail says big time savings won't come before 2028, so expect about the same today. Check the exact time when you book.
+The fastest KTX trains run Seoul to Busan in about 2 hours 17 minutes; most take roughly 2 hours 35 to 41 minutes. Those times come from 2024 reporting and Korail says big time savings won't come before 2028, so we expect about the same today. Check the exact time when you book.
 
 ## Which Seoul station: Seoul, Suseo or Cheongnyangni
 
@@ -80,7 +79,7 @@ Gimhae Airport is Busan's international airport, so you don't have to start in S
 
 - **Busan Station** is on subway Line 1. Chinatown starts right by Exit 1.
 - **Staying in Haeundae?** KTX-Eum trains from Cheongnyangni in eastern Seoul now stop at Sinhaeundae and Centum. They take longer (about 3 hours 38 minutes to Bujeon), but they drop you on the right side of the city.
-- **Luggage.** Busan Station has a staffed storage desk on the 1st floor that can also deliver bags to hotels in Haeundae and Gwangalli. We couldn't confirm prices. The city says it is adding self-service storage at the station's Eurasia Platform but gave no date. The Korail+ app also sells luggage delivery as an add-on.
+- **Luggage.** Busan Station has a staffed storage desk on the 1st floor that can also deliver bags to hotels in Haeundae and Gwangalli. We couldn't confirm prices. The Korail+ app also sells luggage delivery as an add-on.
 - **Buses.** Since 1 October 2026, Busan has been testing cashless city buses on 35 routes for three months. Carry a transport card (see [essentials](/essentials/)) and you won't notice.
 - **Cash and cards:** the same rules apply as in Seoul. See [money](/money/).
 
