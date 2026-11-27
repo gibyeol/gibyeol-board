@@ -18,7 +18,17 @@ window.NADRI_CONCEPTS = {
   flower: { ko: '꽃', en: 'flower', ja: '花', zh: '花', hanja: '花華英芳菊蘭梅蕙薇', latin: ['lily', 'rose'],
     names: [['Latin', 'Flora'], ['Greek', 'Anthea', 'Ἄνθεια'], ['Hawaiian', 'Pua'], ['Turkish', 'Çiçek'], ['Arabic', 'Zahra', 'زهراء'], ['English', 'Blossom'], ['Japanese', 'Hana', '花'], ['Chinese', 'Hua', '華']] },
   lotus: { ko: '연꽃', en: 'lotus', ja: '蓮', zh: '蓮', hanja: '蓮荷', latin: [],
-    names: [['Sanskrit / Hindi', 'Padma', 'पद्म'], ['Sanskrit / Hindi', 'Kamala', 'कमला'], ['Persian', 'Nilufar', 'نیلوفر'], ['Japanese', 'Ren', '蓮'], ['Chinese', 'Lian', '蓮']] },
+    names: [['Sanskrit / Hindi', 'Padma', 'पद्म'], ['Sanskrit / Hindi', 'Kamala', 'कमला'], ['Persian', 'Nilufar', 'نیلوفر'], ['Japanese', 'Ren', '蓮'], ['Chinese', 'Lian', '蓮'], ['Hindi', 'Nalini', 'नलिनी'], ['Vietnamese', 'Liên', '蓮'], ['Thai', 'Ubon']] },
+  /* 2026-11-28: concepts for common Japanese given names (明治安田 2025). Names and meanings read on Behind the Name 'meaning' searches
+     (behindthename.com/names/meaning/harbour, green, jasmine, silk), saved in wondu-archive raw-from-scratchpad/names-2026-11-28/btn/. */
+  harbour: { ko: '항구', en: 'harbour', ja: '港(みなと)', zh: '港口', hanja: '湊港', latin: [],
+    names: [['Japanese', 'Minato', '湊・港'], ['Arabic', 'Bandar']] },
+  green: { ko: '초록', en: 'green', ja: '緑', zh: '綠', hanja: '翠緑綠碧', latin: [],
+    names: [['Greek', 'Chloe', 'Χλόη'], ['Greek', 'Chloris'], ['Arabic', 'Khadra'], ['Albanian', 'Blerta'], ['Japanese', 'Midori', '緑'], ['Japanese', 'Sui', '翠'], ['Chinese', 'Qing', '青'], ['Vietnamese', 'Bích', '碧']] },
+  jasmine: { ko: '재스민', en: 'jasmine', ja: '茉莉(ジャスミン)', zh: '茉莉', hanja: '茉莉', latin: [],
+    names: [['Arabic', 'Yasmin'], ['English', 'Jasmine'], ['Turkish', 'Yasemin'], ['Spanish', 'Jazmín'], ['Italian', 'Gelsomina'], ['Armenian', 'Hasmik'], ['Sanskrit', 'Mallika'], ['Indonesian', 'Melati']] },
+  silk: { ko: '비단', en: 'silk', ja: '絹・紬', zh: '絲綢', hanja: '紬紗', latin: [],
+    names: [['Turkish', 'İpek'], ['Hindi', 'Reshma'], ['Japanese', 'Tsumugi', '紬']] },
   spring: { ko: '봄', en: 'spring', ja: '春', zh: '春', hanja: '春', latin: [],
     names: [['Persian / Turkish', 'Bahar'], ['Slavic', 'Vesna', 'Весна'], ['Japanese', 'Haru', '春'], ['Chinese', 'Chun', '春'], ['Korean', 'Bom', '봄']] },
   summer: { ko: '여름', en: 'summer', ja: '夏', zh: '夏', hanja: '夏昰', latin: [], names: [['English', 'Summer'], ['Japanese', 'Natsu', '夏'], ['Chinese', 'Xia', '夏']] },

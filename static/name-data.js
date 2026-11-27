@@ -90,6 +90,9 @@ window.NADRI_KANJI = ('花:꽃:flower,子:아들(아이):child,美:아름다울:
    Raw pages: wondu-archive raw-from-scratchpad/names-2026-11-28/ (kp/, moe/, unihan/, wikt/). */
 window.NADRI_KANJI_L = {
   '湊': { ja: 'みなと' }, '翠': { ja: 'みどり' }, '陽': { ja: '日の光' }, '葵': { ja: 'あおい(アオイ科の植物)' }, '蓮': { ja: 'はす(スイレン科の多年草)' },
+  '結': { ja: 'むすぶ' }, '翔': { ja: 'かける・とぶ' }, '生': { ja: 'いきる・うまれる' }, '白': { ja: 'しろ' },
+  '琉': { ko: '', en: 'sparkling stone (lapis)', ja: '宝石「琉璃(ルリ)」の字' }, '紬': { ko: '', en: 'thin silk (pongee)', ja: 'つむぎ(絹織物)' },
+  '茉': { ko: '', en: 'white jasmine', ja: '「茉莉(マツリ)」の字' }, '凛': { ko: '', en: 'cold; stern', ja: 'りりしい' },
   '家': { zh: '家庭' }, '豪': { zh: '才德出眾' }, '淑': { zh: '善良美好' }, '芬': { zh: '香氣' },
   '品': { ko: '물건', en: 'article; rank', zh: '人品(人的德性)' }, '妍': { en: 'beautiful', zh: '美好' },
   '恩': { ko: '은혜', en: 'kindness, mercy', zh: '恩惠' }, '碩': { ko: '클', en: 'great, eminent', zh: '大、學識淵博' }
