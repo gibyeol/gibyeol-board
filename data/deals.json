@@ -95,7 +95,13 @@
     "en",
     "ja",
     "zh-tw"
-   ]
+   ],
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "무신사 앱 쿠폰함 쿠폰: 외국 방문객이 이 앱 회원으로 가입·쿠폰을 받을 수 있는지 출처로 확인 못 함(무신사 페이지 프록시 차단). 원두 [7eb4ec94#2954] 3 '실제로 쓸 수 있는 사용자'."
   },
   {
    "id": "oy-sale-2026-12",
@@ -153,7 +159,14 @@
      "title": "Klook 黑色星期五",
      "note": "只有第三方報導說部分行程與活動免代碼折扣,尚未找到 Klook 官方公告,先標示為預計。"
     }
-   }
+   },
+   "board_hide": [
+    "ko",
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "Klook 공식 발표 없음, 출처는 제3자 사이트 1곳(지금 열리지 않음, 사본 없음). 예상 근거도 아님 → 불확실한 정보는 올리지 않음 [7eb4ec94#2931] 6, [7eb4ec94#2954] 1."
   },
   {
    "id": "dept-winter-2026",
@@ -249,13 +262,13 @@
    "status": "expected",
    "category": "beauty",
    "source": {
-    "url": "https://unpa.me/en-US/community/beautytip/138350486",
-    "date": "2026-11-18"
+    "url": "https://cjnews.cj.net/cj올리브영-25일부터-3일간-멤버십-회원-위한-올리브/",
+    "date": "2025-03-24"
    },
    "text": {
     "ko": {
      "title": "12월 올영데이",
-     "note": "매달 25~27일 정기 행사. 등급별 추가 쿠폰은 앱 회원 대상. 올영세일에서 못 산 것 마무리용."
+     "note": "올리브영 회원(올리브 멤버스) 대상 행사로 매달 25~27일에 열려요(CJ뉴스룸 2025-03-24). 12월 날짜는 이 기준으로 본 예상. 등급별 추가 할인 쿠폰이 회원 계정으로 나와요."
     },
     "en": {
      "title": "Olive Young Day",
@@ -269,7 +282,13 @@
      "title": "Olive Young Day",
      "note": "每月 25–27 日的小型活動,額外折價券主要給韓國會員。"
     }
-   }
+   },
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "올리브 데이는 올리브 멤버스(회원) 대상 행사(CJ뉴스룸 2025-03-24). 회원 가입은 한국 거주·본인 명의 한국 연락처가 필요(올리브영 가이드 페이지 출처) → 방문객은 쓸 수 없음."
   },
   {
    "id": "wconcept-wweek",
@@ -299,25 +318,25 @@
    "status": "confirmed",
    "category": "overseas",
    "source": {
-    "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1436530",
-    "date": "2026-11-09"
+    "url": "https://www.news2day.co.kr/article/20261115500055",
+    "date": "2026-11-15"
    },
    "text": {
     "ko": {
      "title": "신라면세점 블랙프라이데이",
-     "note": "최대 90%. 200달러 이상 딜존 뷰티 최대 78%, 신규 회원 최대 20% 페이백. 연말에 출국 예정이면 면세 쇼핑 타이밍."
+     "note": "온·오프라인 매장에서 최대 90%, 11/30까지. 인터넷면세점은 키엘·랑콤 등 뷰티 특가, 신규 가입 고객은 구매 금액의 최대 20% 페이백."
     },
     "en": {
      "title": "Shilla Duty Free Black Friday",
-     "note": "Up to 90% off. Beauty deal zone up to 78% on purchases over $200, and new members get up to 20% back. Flying home before 30 November? This is the duty-free window."
+     "note": "Up to 90% off in Shilla's duty-free stores and online, until 30 November."
     },
     "ja": {
      "title": "新羅免税店ブラックフライデー",
-     "note": "最大90%オフ。200ドル以上のビューティーは最大78%、新規会員は最大20%ペイバック。11月30日までに帰国するなら、免税で買うタイミング。"
+     "note": "新羅免税店の店舗とオンラインで最大90%オフ、11月30日まで。"
     },
     "zh-tw": {
      "title": "新羅免稅店黑色星期五",
-     "note": "最高 1 折。美妝滿 200 美元最高 78% 折扣,新會員最高回饋 20%。11 月 30 日前回國的話,正是免稅購物的時機。"
+     "note": "新羅免稅店門市與線上最高 1 折(最多 90% off),到 11/30。"
     }
    },
    "hero": {
@@ -418,7 +437,7 @@
    "text": {
     "ko": {
      "title": "쿠팡 가전·디지털 블랙프라이데이",
-     "note": "삼성·LG·HP 등. 카드 할인 + 쿠팡캐시 적립형이 많아서 실결제가로 비교 필요."
+     "note": "삼성·LG·HP 등. 갤럭시 탭 S12는 카드 할인 + 최대 5만 원 쿠팡캐시 적립처럼 적립형 혜택도 있어서 실결제가로 비교 필요."
     }
    }
   },
@@ -537,7 +556,7 @@
    "text": {
     "ko": {
      "title": "유니클로 블랙프라이데이",
-     "note": "할인율 미공개. 예년 감사제는 11월 말~12월 초였는데 올해 감사제는 아직 발표 전."
+     "note": "할인율 미공개."
     }
    }
   },
@@ -605,7 +624,7 @@
    "text": {
     "ko": {
      "title": "자라 블랙프라이데이",
-     "note": "할인율 미공개. 보통 시작 당일 인기 사이즈부터 빠짐."
+     "note": "할인율 미공개."
     }
    }
   },
@@ -694,7 +713,13 @@
    "hero": {
     "kind": "pct",
     "value": 20
-   }
+   },
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "외국 방문객이 이 FLEX 20% 운임을 예매할 수 있는지(해외 사이트·외국 카드) 출처로 확인 못 함. 출처 기사 프록시 차단, 사본 없음."
   },
   {
    "id": "eastar-promo",
@@ -737,7 +762,11 @@
    "hero": {
     "kind": "pct",
     "value": 70
-   }
+   },
+   "board_hide": [
+    "ko"
+   ],
+   "board_hide_why": "날짜가 출처와 어긋남: 상황판 12/3~12/17 vs 무신사 페이지(11/26 읽은 기록) 오프라인 5개 매장 11/20~12/17. 지금 열 수 있는 출처로 확인 불가 → 불확실해서 내림(drafts/prototype/held-musinsa.md:62~65)."
   },
   {
    "id": "ttukseom-xmas",
@@ -796,7 +825,13 @@
      "note": "聖誕樹、居家小物、派對用品、手作材料包最低 8 折(最多 20% off)。11街(線上)到 11/29(日)。"
     }
    },
-   "open_start": true
+   "open_start": true,
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "11번가 온라인 기획전: 외국 방문객의 가입·결제·국내 배송 가능 여부 출처로 확인 못 함."
   },
   {
    "id": "traders-xmas-2026",
@@ -826,7 +861,13 @@
      "note": "限用三星卡付款才有折扣,到 11/29(日)。LED 銅線燈(1000 顆)組 55,800 韓元→49,800 韓元,LED 聖誕花圈 35,800 韓元→30,800 韓元。"
     }
    },
-   "open_start": true
+   "open_start": true,
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "삼성카드(한국 카드사) 결제 고객만 할인(신세계그룹 뉴스룸 원문) → 방문객은 사실상 못 씀."
   },
   {
    "id": "emart-xmas-2026",
@@ -855,7 +896,13 @@
      "title": "E-mart「提早過聖誕」",
      "note": "聖誕樹、裝飾、派對用品最低 7 折(最多 30% off),需累積新世界點數。一鍵彈開聖誕樹(150cm)99,000 韓元→79,200 韓元,3 款基本聖誕樹打 8 折,都不到 1 萬韓元。"
     }
-   }
+   },
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "대표 트리 할인은 신세계포인트 적립 시(원문). 방문객의 신세계포인트 가입 가능 여부, 포인트 없이 되는 품목 범위를 출처로 확인 못 함."
   },
   {
    "id": "tlj-xmas-cake-2026",
@@ -885,7 +932,13 @@
      "note": "用多樂之日 App 預購,35 款節慶商品最低 7 折(最多 30% off)。預購到 12/22,12/18–25 到門市取貨。"
     }
    },
-   "open_start": true
+   "open_start": true,
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "뚜레쥬르 앱 사전예약 할인: 방문객의 앱 회원 가입 가능 여부 출처로 확인 못 함."
   },
   {
    "id": "casamia-holiday-2026",
@@ -914,7 +967,13 @@
      "title": "Casamia「HAPPY HOLIDAY」特賣",
      "note": "Casamia 線上商城聖誕居家佈置最低 5 折(最多 50% off),到 12/24。聖誕裝飾小物門市、線上都打 7 折,到 12/31。"
     }
-   }
+   },
+   "board_hide": [
+    "en",
+    "ja",
+    "zh-tw"
+   ],
+   "board_hide_why": "기획전(최대 50%)은 까사미아 온라인몰 전용(원문) → 방문객 가입·결제·배송 확인 못 함. 매장 30%(장식 소품, 12/31까지)는 방문객도 쓸 수 있을 수 있으나 별도 항목 후보로 남김(원두 결정)."
   },
   {
    "id": "lotte-jamsil-xmas-2026",
