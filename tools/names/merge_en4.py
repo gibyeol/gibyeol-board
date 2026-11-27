@@ -66,7 +66,10 @@ def main(paths):
           "    var a = A[k], d = D[k];\n"
           "    if (typeof d === 'string') { if (!a.of && !a.m) a.of = d; D[k] = a; return; }   // alias string: keep the link unless the record has its own meaning\n"
           "    if (!d || typeof d !== 'object') { D[k] = a; return; }\n"
-          "    ['ko', 'ks', 'ja', 'zh', 'of'].forEach(function (f) { if (a[f]) d[f] = a[f]; });\n"
+          "    ['ko', 'ks', 'of'].forEach(function (f) { if (a[f]) d[f] = a[f]; });\n"
+          "    // keep the checked Japanese/Chinese spelling; a different collected spelling is kept for look-up only (jv/zv)\n"
+          "    if (a.ja) { if (!d.ja) d.ja = a.ja; else if (d.ja !== a.ja) d.jv = (d.jv || []).concat(a.ja); }\n"
+          "    if (a.zh) { if (!d.zh) d.zh = a.zh; else if (d.zh !== a.zh) d.zv = (d.zv || []).concat(a.zh); }\n"
           "    ['m', 'c', 'o'].forEach(function (f) { if (a[f] && !d[f]) d[f] = a[f]; });\n"
           "  });\n})();\n")
     OUT.write_text(js, encoding="utf-8")
