@@ -867,7 +867,7 @@
   },
   {
    "id": "jejuair-flex",
-   "start": "2026-11-19",
+   "start": "2026-11-16",
    "end": "2026-12-16",
    "status": "confirmed",
    "category": "travel",
@@ -906,8 +906,10 @@
    "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3.",
    "go": [
     {
-     "url": "https://www.jejuair.net/",
-     "kind": "site"
+     "url": "https://www.jejuair.net/ko/event/event.do",
+     "kind": "list",
+     "checked": "2026-11-28",
+     "note": "원두 화면 2026-11-28: 이벤트 목록 \"27학년도 수험생 혜택 · 수험생도 동반자도 모두 20% 할인! · 2026.11.16 ~ 2026.12.16\""
     }
    ]
   },
