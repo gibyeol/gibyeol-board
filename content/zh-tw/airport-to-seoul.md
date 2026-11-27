@@ -83,7 +83,7 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 
 直達車櫃台、交通卡販賣機和便利商店都在地下1樓。
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>買T-money並儲值</h3>
+<h3 class="tr-step" id="buy-tmoney"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>買T-money並儲值</h3>
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-money卡。 列車、地鐵、公車一張搞定。" width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-money卡。</b> 列車、地鐵、公車一張搞定。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 維基共享資源</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="交通卡售票儲值機(仁川蘇萊浦口站,韓國鐵道公社的車站;首爾或機場的機器外觀可能不同)。在這裡儲值。" width="780" height="585" loading="lazy" decoding="async"><figcaption><b>交通卡售票儲值機</b>(仁川蘇萊浦口站,韓國鐵道公社的車站;首爾或機場的機器外觀可能不同)。在這裡儲值。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, 維基共享資源</span></figcaption></figure></div>
 

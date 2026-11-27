@@ -83,7 +83,7 @@ Visit Seoulは、着陸後の入国審査と荷物の受け取りに1〜2時間�
 
 直通列車カウンター、交通カードの販売機、コンビニはどれも地下1階です。
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>T-moneyを買ってチャージ</h3>
+<h3 class="tr-step" id="buy-tmoney"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>T-moneyを買ってチャージ</h3>
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-moneyカード。 列車・地下鉄・バスがこれ1枚。" width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-moneyカード。</b> 列車・地下鉄・バスがこれ1枚。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), ウィキメディア・コモンズ</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="交通カードの販売・チャージ機(仁川の蘇莱浦口駅、KORAILの駅。ソウルや空港の機械は見た目が違うことがあります)。ここでチャージ。" width="780" height="585" loading="lazy" decoding="async"><figcaption><b>交通カードの販売・チャージ機</b>(仁川の蘇莱浦口駅、KORAILの駅。ソウルや空港の機械は見た目が違うことがあります)。ここでチャージ。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, ウィキメディア・コモンズ</span></figcaption></figure></div>
 

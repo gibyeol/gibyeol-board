@@ -83,7 +83,7 @@ At Terminal 2, go down from the arrival hall (1F) to the B1 Transportation Cente
 
 The Express counter, card machines and a convenience store are all on B1.
 
-<h3 class="tr-step"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>Get a T-money card and load it</h3>
+<h3 class="tr-step" id="buy-tmoney"><span class="n">3</span><i class="ic ic-credit-card" aria-hidden="true"></i>Get a T-money card and load it</h3>
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-money card. One card for the train, subway and buses." width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-money card.</b> One card for the train, subway and buses. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), Wikimedia Commons</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="Card machine (Soraepogu Station, Incheon, a Korail station; machines in Seoul and at the airport can look different). Load money here." width="780" height="585" loading="lazy" decoding="async"><figcaption><b>Card machine</b> (Soraepogu Station, Incheon, a Korail station; machines in Seoul and at the airport can look different). Load money here. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, Wikimedia Commons</span></figcaption></figure></div>
 
