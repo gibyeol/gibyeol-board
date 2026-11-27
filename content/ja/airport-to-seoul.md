@@ -161,12 +161,68 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 <aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>AREX直通の最終:第1ターミナル22:48、第2ターミナル22:40。</b> Visit Seoulは入国審査と荷物の受け取りに1〜2時間みておくよう案内しているので、夜9時以降に着く便だと間に合わないことがあります。出発前に決めておきましょう。</span></aside>
 
+**到着ロビーを出た時刻で選びましょう。** 下の時刻は列車・バスが出る時刻なので、切符を買って乗り場まで行く時間を余分にみておきましょう。
+
+| 出た時刻 | こう行きます |
+|---|---|
+| 直通の最終より前(第1ターミナル22:48、第2ターミナル22:40) | [AREX直通列車](#express)。地下1階の交通センター |
+| 直通が終わった後 | [AREX一般列車](#allstop)。ソウル駅まで行く最終は第1ターミナル23:38、第2ターミナル23:32(平日・休日とも同じ)。その後の第1ターミナル23:56、第2ターミナル23:50の列車はデジタルメディアシティ駅までしか行かず、弘大入口・ソウル駅には止まりません。[AREXの駅別時刻表](https://www.airportrailroad.com/train/normal/info/100) |
+| 第1ターミナルは23:40から、第2ターミナルは23:20から、明け方4時台まで | [深夜バス](#late-bus)4路線。宿の近くに停まる路線を選びます |
+| 荷物が多い、3〜4人、宿がバス停から遠い | [タクシー](#late-taxi)。夜10時〜朝4時はメーター運賃に割増が付きます(京畿道のタクシーは夜11時から) |
+| 飛行機が遅れるかもしれない、荷物が多い、子どものチャイルドシートが必要 | [専用車を事前予約](#late-car)。私たちが見た会社には、無料待機90分がありました |
+
 {{fig:airport-to-seoul-7|夜遅く、第1ターミナルから乗れるもの}}
 
-- **一般列車:** もう少し遅くまで走ります。最終は日付ごとに[AREXの列車時刻](https://www.airportrailroad.com/train/normal/info)で確認を。
-- **列車が終わったら:** 深夜の空港バス、17,000〜18,000ウォン。第1ターミナルの始発は23:40〜00:10の間。切符は売り場か券売機で。
+<h3 id="late-bus">深夜バス:どこで乗る?何時にある?</h3>
+
+- **切符:** 第1ターミナルは1階のバス切符売り場(屋内・屋外)か券売機、第2ターミナルは地下1階交通センターのバスターミナルにある切符売り場(バス待合室の中央)か券売機(交通センターの東側・西側)で買います。N6701・N6703はT-money GOアプリでも買えます。
+- **運賃(大人):** N6000・N6002は17,000ウォン、N6701・N6703は18,000ウォン。子どもは同じ順に10,000ウォン・12,000ウォン。
+- **第1ターミナルの乗り場:** 到着ロビー(1階)から3〜7番出口を出ると、ソウル方面のバス乗り場があります。その中で **6A(N6000・N6002)**、**3B(N6701・N6703)** を探してください。[仁川空港の乗り場の図](https://www.airport.kr/ap_en/1507/subview.do)
+- **第2ターミナルの乗り場:** 到着ロビー(1階)から地下1階の交通センターに下り、バスターミナルへ行きます。ソウル方面は中央の11〜35番です。**28番(N6000)、19番(N6703)**。N6002は30番、N6701は18番ですが、空港公式サイトの中には別の番号(N6002は24番、N6701は20番)で書かれたところもあります。そのあたりでバスの前に出ている番号を確かめてください。[仁川空港の乗り場の図](https://www.airport.kr/ap_en/1510/subview.do)
 
 <ul class="ap-routes late"><li><b>N6000</b>江南</li><li><b>N6002</b>弘大・清凉里</li><li><b>N6701</b>ソウル駅・東大門</li><li><b>N6703</b>蚕室・広渡口</li></ul>
+
+| 路線 | 停まる所(第1ターミナルからの所要時間) | 第1ターミナル発 | 第2ターミナル発 |
+|---|---|---|---|
+| N6000 | 松亭駅 40分 → 塩倉駅 50分 → 江南高速バスターミナル 70分 | 00:10 00:50 01:30 02:10 03:40 04:20 | 23:50 00:30 01:10 01:50 03:20 04:00 |
+| N6002 | 弘大 45分 → フォーシーズンズホテル(光化門) 60分 → 興仁之門(東大門) 75分 → 清凉里 90分 | 00:00 00:30 01:00 01:40 04:00 04:40 | 23:40 00:10 00:40 01:20 03:40 04:20 |
+| N6701 | 麻浦駅 50分 → ソウル駅 60分 → 乙支路入口 65分 → 東大門デザインプラザ 70分 | 23:50 00:40 01:40 03:45 04:40 | 23:30 00:20 01:20 03:25 04:20 |
+| N6703 | 西来村(ソレマウル) 50分 → COEX 65分 → 蚕室ロッテワールド 70分 → 江辺駅(テクノマート) 80分 → 広渡口駅 85分 | 23:40 00:20 01:05 01:45 03:50 04:50 | 23:20 00:00 00:45 01:25 03:30 04:30 |
+
+第2ターミナルから乗ると第1ターミナルを経由するので、20分ほど長くかかります。第1ターミナルは02:10〜03:40、第2ターミナルは01:50〜03:20の間はバスがありません。時刻は仁川空港の「ソウル深夜バス」案内によるもので、路線検索の画面と1〜2分違うところがあります。
+
+<h3 id="late-taxi">タクシー:夜はどれくらい高くなる?</h3>
+
+- **一般タクシー(メーター運賃):** 基本料金4,800ウォン。ソウル・仁川のタクシーは **22:00〜23:00は20%、23:00〜02:00は40%、02:00〜04:00は20%** 高くなります。京畿道のタクシーは23:00〜04:00に30%です。空港からソウル・仁川・高陽・光明・金浦・富川へ行くなら、市の境を越える割増はありません。
+- **乗り場:** 第1ターミナル1階の5C・6C・6D、第2ターミナルはソウルタクシーの7C。
+- **模範・大型タクシー(9人乗り):** 基本料金7,000ウォン、22:00〜04:00は20%割増(京畿道のタクシーは23:00〜04:00)。第1ターミナルは7C・8C、第2ターミナルは7D。
+- **インターナショナルタクシー(外国語対応、ソウルまで定額、高速道路料金込み):** 第1ターミナル4C、第2ターミナル3C、電話1644-2255。[定額運賃](#taxi)はソウル市の料金表そのままです。この表には夜の料金が別に書かれていないので、乗る前に総額を聞いてください。
+
+<h3 id="late-car">専用車の事前予約:どんなときに向いている?</h3>
+
+**夜遅く着いて飛行機が遅れるかもしれないとき、荷物が多いとき、子どものチャイルドシートが必要なとき、宿が深夜バスの乗り場から遠いときに向いています。** 空港から宿の前まで行く車を事前に予約します。値段は検索結果の会社ごとの行で見て、[タクシーの定額運賃](#taxi)と比べてください。
+
+1. Klookの空港送迎(Airport transfers)の画面で **Airport pick-up** を選び、到着時刻か便名、宿の名前(住所)、人数を入れて検索します。
+2. 車種ごとに最大人数と荷物の数が書いてあります。人と荷物が余裕をもって入る車種を選びます。
+3. その車種を開き、会社を選ぶ前に「See details」で待ち時間・キャンセル・荷物の決まりを確認します。会社によって違うことがあります。
+4. **Book now** で支払い、予約確認書をスマホに保存します。
+
+私たちが確認したのは、2026年11月28日の検索1回(仁川空港→ロッテホテルソウル、夜11時30分着、2人)で出た9人乗り(Comfort 9 seater)の会社3社の一覧と、そのうちの詳細画面1つです。
+
+**3社とも**、ピックアップの24時間前まで無料キャンセル、無料待機90分、出迎え(Meet & greet)・チャイルドシートの表示が付いていました。
+
+**詳細画面1つで見たこと:**
+
+- 運転手が便を追跡していて、飛行機が遅れても着陸後90分まで無料で待ちます。それを過ぎると追加料金です。
+- 24時間前を過ぎてからキャンセルすると、返金されません。
+- 9人乗りは最大5人で、24インチのかばん5個、または26インチ3個、または28インチ2個。子どもや赤ちゃんも1人と数えます。車いす・ベビーカー・ゴルフバッグは28インチのかばん1個と数えます。詳しくは会社に問い合わせるよう書かれています。
+- **人数や荷物が上限を超えると、運転手が乗せないことがあり、その場合は返金されません。**
+- 出迎え(Meet & greet)は追加料金のオプションで、運転手が名前のボードを持って到着ロビーで待ちます。チャイルドシートも追加料金のオプションです(1〜4歳または9〜18kg)。
+- 支払いから数分以内に予約確認書が届きます。
+
+**確認できなかったこと:** 出迎えを付けない場合に、運転手とどこで会い、どう連絡するか。予約確認書か会社の案内に従ってください。
+
+{{aff:klook_transfer|空港送迎の車を探す(宿と到着時刻を入れる)}}
 
 <details class="tr-more"><summary><i class="ic ic-calendar-days" aria-hidden="true"></i>直通の最終時刻が変わった理由</summary>
 
@@ -297,6 +353,8 @@ Klookの商品ページにあわせて書かれていること(空港鉄道の�
 <p class="sources">2026年11月26日確認:AREX <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車の紹介</a>(所要時間・運賃・座席)、<a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">直通列車の時刻表</a>、<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">一般列車の紹介</a>、<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">一般列車の運賃</a>;Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月時点の運賃・時間、バス路線、荷物、切符);仁川国際空港 <a href="https://www.airport.kr/" rel="noopener" target="_blank">空港鉄道の案内</a> (airport.kr: ap_en/1512/subview.do)、<a href="https://www.airport.kr/" rel="noopener" target="_blank">深夜バス</a> (airport.kr: ap_en/1507/subview.do)、<a href="https://www.airport.kr/" rel="noopener" target="_blank">リムジンバスの予約案内</a> (airport.kr: bbs/ap_en/937/138233/artclView.do);ソウル市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">タクシー運賃(外国人観光タクシーの区間定額を含む)</a>(2026年10月14日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">気候同行カード短期券</a>(2026年10月12日更新)。今回は開き直せなかったもの:Wikitree <a href="https://www.wikitree.co.kr/articles/1168084" rel="noopener" target="_blank">AREX直通列車が2026年10月23日から1日52本→56本に</a>。 仁川国際空港公社(韓国語ページ、2026年11月26日12時確認):<a href="https://www.airport.kr/ap_ko/986/subview.do" rel="noopener" target="_blank">タクシー利用案内</a>(乗り場番号・コールバン注意)、<a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">便宜・公共施設</a>(空港バス案内デスクの位置)、<a href="https://www.airport.kr/ap_ko/974/subview.do" rel="noopener" target="_blank">バス</a>(乗車券)。<a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">空港鉄道案内の案内図</a>(第1・第2交通センターの位置、バス乗り場番号)</p>
 
 <p class="sources">2026年11月27日確認:空港鉄道 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直通列車のご利用案内</a>(自動券売機は第1・第2の地下1階交通センターとソウル駅地下2階、券売機の手順01〜06、海外カード、QR改札、地下4階の乗り場、発車3分前、変更と手数料、保護者1人が連れる幼児が1人を超えるか席が必要なら子どもの切符、車いす席は現地購入のみ)、<a href="https://www.airportrailroad.com/train/express/partners" rel="noopener" target="_blank">提携会社</a>(旅行会社にKLOOK)、<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車のご紹介</a>(第1・第2の地下1階交通センターに直通列車カスタマーセンター。施設名と券売機の手順名は韓国語ページからの訳);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(チャージ・引き出し・T-moneyチャージと払い戻し・「カード発行」→「引き換えコード発行」の手順・カード紛失時のT-money残高);仁川国際空港公社 <a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">便宜・公共施設</a>(共用ATM:地下1階の空港鉄道一般列車券売機のそば、1階4・6・9・11番出入口付近、24時間);コリア・ヘラルド <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のT-moneyカード</a>(交通費入り15,000ウォン、海外カード、再チャージ方法は未発表)。確認できなかったもの:第2ターミナル地下1階での直通列車側の方向(空港鉄道・仁川空港の案内文に方向の記載なし)、共用ATMで海外カードが使えるかと第2ターミナルのATMの場所(開いた空港の施設一覧は第1ターミナルのみ);Klookの商品ページ(T-moneyの空港受け取り・WOWPASSの受け取り場所と使い方)。Klookのサイトが自動アクセスを止めているため開けませんでした。そのため受け取り場所は予約確認書に従うよう書いています。券売機で買った直通列車の切符の変更・払い戻し方法と、券売機でKlookのバウチャー番号を入れるメニュー名も確認できていません。Klook商品ページ「AREX Incheon Airport Express」(運営者がブラウザで開いた画面、2026年11月27日):バウチャーを乗車券に引き換える3つの方法(Klookアプリ・空港鉄道公式サイト・駅の直通列車券売機)と各画面の文字、有効化していないバウチャーでは乗れない、アプリで有効化すると時間帯を選んだ後に列車・座席を自動で割り当て・その日だけ使用、列車を選んだ後は払い戻し不可・変更は窓口、6〜12歳の子ども料金は現地購入・Klookでは大人と同じ値段、0〜5歳、荷物・飲食の案内。画面の値段と日付は例の画面なので使っていません。</p>
+
+<p class="sources">2026年11月28日確認(夜遅く着く場合):仁川国際空港公社 ソウル深夜バス <a href="https://www.airport.kr/ap_en/1507/subview.do" rel="noopener" target="_blank">第1ターミナル</a>・<a href="https://www.airport.kr/ap_en/1510/subview.do" rel="noopener" target="_blank">第2ターミナル</a>(運賃・停まる所・出発時刻・乗り場の図)、<a href="https://www.airport.kr/ap_en/1504/subview.do" rel="noopener" target="_blank">バス検索</a>(路線ごとの乗り場)、<a href="https://www.airport.kr/ap_en/1502/subview.do" rel="noopener" target="_blank">第1ターミナルのバス乗り場</a>・<a href="https://www.airport.kr/ap_en/1503/subview.do" rel="noopener" target="_blank">第2ターミナルのバス乗り場</a>(切符売り場・券売機の場所、入国にかかる時間1〜2時間)、<a href="https://www.airport.kr/ap_ko/986/subview.do" rel="noopener" target="_blank">タクシー利用案内</a>(乗り場番号・深夜割増・市境の割増。韓国語ページ);空港鉄道 駅別時刻表 <a href="https://www.airportrailroad.com/train/normal/info/100" rel="noopener" target="_blank">仁川空港第1ターミナル</a>・<a href="https://www.airportrailroad.com/train/normal/info/110" rel="noopener" target="_blank">仁川空港第2ターミナル</a>(平日・休日、ソウル駅方面);ソウル市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">ソウルのタクシー料金</a>(インターナショナルタクシーの区間料金)。専用車:Klookの空港ピックアップ検索画面(運営者がブラウザで開いた画面、2026年11月28日、仁川空港→ロッテホテルソウル、夜11時30分着、2人)— 9人乗りの会社3社の一覧(無料キャンセル・無料待機・オプション)と詳細1つ(待機・キャンセル・人数・荷物・出迎え・チャイルドシート・確認書)。画面の中の価格と日付は使っていません。</p>
 
 <p class="sources"><b>このページの写真</b></p><ul class="ap-credits"><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Platform 1,2 of Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: cropped, resized to 780x492, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">File:Nearly empty Incheon Airport Railroad Express during the coronavirus outbreak 20200306 104401.jpg</a>: Bonnielou2013, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: cropped, resized to 780x971, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Train Concourse at Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: resized to 780x585, light auto-contrast, 1 detected face(s) blurred.</li><li><a href="https://commons.wikimedia.org/wiki/File:Incheon_Airport_Limousine_6010.JPG" rel="noopener" target="_blank">File:Incheon Airport Limousine 6010.JPG</a>: hyolee2, <a href="https://creativecommons.org/licenses/by-sa/3.0" rel="noopener" target="_blank">CC BY-SA 3.0</a>. 加工: resized to 780x585, light auto-contrast, 1 detected face(s) blurred, 1 area(s) blurred (faces/plates, manual).</li><li><a href="https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_3.jpg" rel="noopener" target="_blank">File:Incheon International Airport Terminal 1 Arrival 3.jpg</a>: ノボホショコロトソ, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>. 加工: resized to 780x585, light auto-contrast, 1 detected face(s) blurred.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Express Train Concourse at Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: resized, light auto-contrast, numbered red boxes added.</li><li><a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">File:T-money card.jpg</a>: zisk, Public domain (PD-self: released by the author). 加工: kept at 499x316, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">File:Ticket Vending and Card Reload Machine - Seoul Metropolitan Subway 20240713.jpg</a>: LandAndTree, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>. 加工: resized to 780x585, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Train Concourse at Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: cropped, resized to 780x344, light auto-contrast, 1 area blurred (face, manual), numbered red boxes added.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Platform 1,2 of Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: cropped to the platform sign (from the full-size original), resized to 780x269, light auto-contrast, numbered red box added.</li><li><a href="https://commons.wikimedia.org/wiki/File:Seoul_taxis_01.jpg" rel="noopener" target="_blank">File:Seoul taxis 01.jpg</a>: Ilya Plekhanov, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 加工: resized to 780x520, light auto-contrast, 1 area(s) blurred (faces/plates, manual).</li></ul>
 

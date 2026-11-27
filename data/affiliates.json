@@ -30,6 +30,11 @@
     "label": "AREX airport train ticket on Klook",
     "url": "https://klook.tpx.li/u3y9PkpB"
   },
+  "klook_transfer": {
+    "program": "Klook",
+    "label": "Airport pick-up car on Klook",
+    "url": "https://klook.tpx.li/b7OYWPRy"
+  },
   "klook_tmoney": {
     "program": "Klook",
     "label": "T-money card, airport pick-up",
