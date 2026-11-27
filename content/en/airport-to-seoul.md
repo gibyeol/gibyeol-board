@@ -225,12 +225,12 @@ Source: [WOWPASS guide](https://www.wowpass.io/en/guide) (checked 27 November 20
 | Price | Shown at Klook checkout. Compare it with the official fare (adult ₩13,000) before you buy | Adult ₩13,000 |
 | Before boarding | Turn the voucher into a train ticket (activate it). You cannot board with an unactivated voucher | Nothing. Use the ticket's QR code at the gate |
 | Seat | Activate in the Klook app: you pick a departure time slot, the train and seat are assigned for you. Activate on the AREX website or at a machine: you choose | You choose the train (departure time). Car and seat are printed on the ticket |
-| Change or refund | After you pick a train, no refund, and changes are made at the counter (Klook app screen). For cancelling before that, see the rules on your Klook booking | We did not find how in the official guide for machine tickets. Ask at the Express customer service center next to the machines |
+| Change or refund | If you activate in the Klook app: no refund after you pick a train, and changes are made at the counter (Klook app screen). For a voucher exchanged on the AREX website or at a machine, we have not confirmed the rules. For cancelling before that, see the rules on your Klook booking | We did not find how in the official guide for machine tickets. Ask at the Express customer service center next to the machines |
 | Child aged 6–12 | Same price as an adult on Klook. Klook says to buy child tickets on-site | Choose 'Child' when you pick the number of people |
 | Wheelchair seat | Official guide: on-site purchase only | On-site only. Ask at the Express customer service center |
 | What you need | The Klook app, or the voucher's 13-digit number | A card (foreign cards work) or cash |
 
-Children aged 0–5 ride free if they do not take their own seat. One per adult; for more, or if they need a seat, buy a child ticket (the AREX official guide and Klook say the same).
+Children aged 0–5: Klook says they ride free if they do not take their own seat, one per paying adult, and each extra child needs a child ticket. The AREX official guide says: if one guardian brings more than one infant, or an infant needs a seat, buy a child ticket.
 
 <div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>Buy an AREX Express voucher on Klook.</b> Only worth it if your hotel is near Seoul Station. Before boarding, turn it into a train ticket in one of the three ways below. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, Wikimedia Commons</span></p></div>
 
@@ -249,7 +249,7 @@ You cannot board with an unactivated voucher. Easiest first for someone who has 
 
 **② At the airport's Express ticket machine (paper ticket)**
 
-1. In your Klook booking, tap **See voucher** and find the 13-digit **Voucher no.** Write it down before you land and you will not need internet on your phone.
+1. In your Klook booking, tap **See voucher** and find the 13-digit **Voucher no.** Our call: write it down before you land and you will not need internet on your phone.
 2. Go to the **Express Train Ticket Vending Machine** (Korean sign: 직통열차 승차권발매기) in the B1 Transportation Center. How to get there: [step 1 of 'Buying an Express ticket at the machine' above](#express-buy).
 3. Enter the 13-digit number, choose the departure date, time and seat, and a paper ticket comes out. We have not confirmed the name of the menu where you enter the number. If you cannot find it, show the voucher number at the Express customer service center next to the machines.
 4. Hold the paper ticket's QR code to the gate.
@@ -276,7 +276,7 @@ Source: Klook product page 'AREX Incheon Airport Express' (screens opened in a b
 2. **Where:** on B1, go to the Express side of the Transportation Center. At Terminal 1, facing the Transportation Center, it is on the **right (west)**. At Terminal 2 we have not confirmed the direction yet (ask at the Express customer service center). Through the gates, take the lift or escalator down to the **B4** platform.
 3. **Gate:** hold the ticket's QR code to the gate's QR scanner and the gate opens.
 4. **Time:** be on the platform at least 3 minutes before departure. Your car and seat are on the ticket.
-5. **Change or cancel:** official tickets under 'Change/refund ticket' (Korean screen: 승차권 변경/반환, our translation) on the AREX website or app (up to 3 changes; a fee if you change twice or more on the day of travel). A ticket activated from a Klook voucher: no refund after you pick the train, and changes are made at the counter (Klook app screen).
+5. **Change or cancel:** official tickets under 'Change/refund ticket' (Korean screen: 승차권 변경/반환, our translation) on the AREX website or app (up to 3 changes; a fee if you change twice or more on the day of travel). A ticket activated in the Klook app: no refund after you pick the train, and changes are made at the counter (Klook app screen). For a voucher exchanged on the AREX website or at a machine we have not confirmed the rules; ask at the Express customer service center.
 
 Source: AREX [Express train guide](https://www.airportrailroad.com/train/express/guide) and [partners](https://www.airportrailroad.com/train/express/partners) (Korean page; language menu at the top), checked 27 November 2026; Klook product page (screens opened in a browser by the site operator, 27 November 2026).
 

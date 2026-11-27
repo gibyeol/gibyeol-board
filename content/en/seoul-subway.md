@@ -134,7 +134,7 @@ Optional, if you want to book the Express ticket before you land:
 
 {{aff:klook_airport|Buy an AREX Express voucher on Klook (exchange it for a ticket before boarding)}}
 
-After you buy: an official AREX ticket's QR code goes on the QR scanner at the Express gate. A Klook ticket follows the instructions on your confirmation. Where to board, changes and refunds: [airport guide, 'Want it ready'](/airport-to-seoul/#prep).
+After you buy: an official AREX ticket's QR code goes on the QR scanner at the Express gate. A Klook voucher must be exchanged for a ticket before you board: [three ways to exchange it](/airport-to-seoul/#express-klook-how). Where to board, changes and refunds: [airport guide, 'Want it ready'](/airport-to-seoul/#prep).
 
 More: [Incheon Airport to Seoul](/airport-to-seoul/).
 

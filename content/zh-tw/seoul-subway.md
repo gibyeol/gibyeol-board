@@ -134,7 +134,7 @@ updated: 2026-11-26
 
 {{aff:klook_airport|在 Klook 先買機場鐵路直達車憑證(搭車前要換成車票)}}
 
-買了之後:機場鐵路官方車票,把QR碼對準直達車閘門的QR掃描器,門就會開。在Klook買的票請照確認單的使用方式。搭車處和變更、退票:[機場頁面「落地前先準備」](/zh-tw/airport-to-seoul/#prep)。
+買了之後:機場鐵路官方車票,把QR碼對準直達車閘門的QR掃描器,門就會開。在Klook買的憑證,搭車前要先換成車票:[3種換法](/zh-tw/airport-to-seoul/#express-klook-how)。搭車處和變更、退票:[機場頁面「落地前先準備」](/zh-tw/airport-to-seoul/#prep)。
 
 完整比較在[仁川機場到首爾](/zh-tw/airport-to-seoul/)。
 
