@@ -5,6 +5,7 @@ lede: ホテルにいちばん近く降ろしてくれるものを選びまし�
 section: essentials
 disclosure: yes
 updated: 2026-11-26
+modified: 2026-11-28
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-hotel" aria-hidden="true"></i>私のホテルには何で?</a><a class="tr-btn" href="#late"><i class="ic ic-moon" aria-hidden="true"></i>夜9時以降に着く?</a></div>
 

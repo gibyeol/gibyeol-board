@@ -5,6 +5,7 @@ lede: 숙소에서 제일 가까이 내려 주는 걸 고르세요. 열차나 �
 section: essentials
 disclosure: yes
 updated: 2026-11-26
+modified: 2026-11-28
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#pick"><i class="ic ic-hotel" aria-hidden="true"></i>내 숙소엔 뭘 타지?</a><a class="tr-btn" href="#late"><i class="ic ic-moon" aria-hidden="true"></i>밤 9시 이후 착륙?</a></div>
 

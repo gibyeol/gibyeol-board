@@ -6,6 +6,7 @@ section: deals
 updated: 2026-11-24
 approved: 2026-11-26
 disclosure: yes
+modified: 2026-11-28
 ---
 {{deals}}
 
