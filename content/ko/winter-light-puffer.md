@@ -18,6 +18,9 @@ updated: 2026-11-27
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>무신사 무진장 26 겨울 블프 브랜드 판매 금액 순위<span class="src">11/26 16:25(운영자 확인 화면) · 전 상품 기준 · 2–4위 미확인 · 빨강=경량 패딩 품절 보도</span></h3>
 <ol class="bars"><li class="lp"><b>1위</b><span>무신사 스탠다드</span><i style="width:100%"></i><em>104.7억</em></li><li><b>5위</b><span>아디다스</span><i style="width:38%"></i><em>40.1억</em></li><li class="lp"><b>6위</b><span>노스페이스</span><i style="width:36%"></i><em>38.0억</em></li></ol>
 <p class="links"><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">무신사 홈에서 블프 랭킹 찾기 →</a><!-- aff-slot: p-musinsa ranking (정확한 랭킹 URL 미확인 → 홈으로 연결) --><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">무신사 홈에서 &#x27;경량 패딩&#x27; 검색 →</a><!-- aff-slot: i-musinsa-std-cityleisure --></p>
+<details class="cmpd"><summary><i class="ic ic-tag" aria-hidden="true"></i>공식몰 사양 더 보기 <span class="src">가격·충전재·핏·평점 · 11/27 확인</span></summary>
+<table class="cmp"><thead><tr><th>제품 → 공식 페이지</th><th>가격</th><th>충전재</th><th>핏</th><th>평점</th><th>지금</th></tr></thead><tbody><tr><td><a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">아크테릭스 세륨 후디(미국) →</a><!-- aff-slot: i-arc-cerium --></td><td class="n">$400</td><td>850필 · 338g</td><td>피티드</td><td class="n">3.9 (279)</td><td>정가 · 미국 블프(~12/1) 할인 대상 아님</td></tr></tbody></table>
+</details>
 </section>
 <!-- trend:end -->
 <section class="cb" aria-label="사기 전에 볼 기본 정보">
@@ -25,7 +28,7 @@ updated: 2026-11-27
 <h3><i class="ic ic-sparkles" aria-hidden="true"></i>기사에 나온 색 조합<span class="src">코리아헤럴드 10/20·11/23</span></h3>
 <div class="combos"><div class="combo"><div class="sw"><span class="top" style="background:#c7b7e2">라벤더 패딩</span><span style="background:#8a6448;color:#fff">브라운 톤</span></div>로맨틱</div><div class="combo"><div class="sw"><span class="top" style="background:#a3a7ad">그레이 패딩</span><span class="none">트랙 팬츠 · 로퍼</span></div>운동복 같지 않게</div><div class="combo"><div class="sw"><span class="top none">파스텔 패딩</span><span class="none">트레이닝 바지</span></div>따뜻하고 편하게</div></div>
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>라벨 용어</h3>
-<div class="terms"><div><b>필파워</b><span>높을수록 같은 따뜻함에 더 가볍게</span></div><div><b>솜털 : 깃털</b><span>라벨의 다운 비율</span></div></div>
+<div class="terms"><div><b>필파워</b><span>높을수록 같은 따뜻함에 더 가볍게</span></div><div><b>솜털 : 깃털</b><span>라벨의 다운 비율</span></div><div><b>합성 충전재</b><span>폴리에스터 솜. 습기 차기 쉬운 부위에</span></div><div><b>포켓터블</b><span>파우치에 접어 넣는 사양</span></div></div>
 <ul class="tips"><li><i class="ic ic-scan-line" aria-hidden="true"></i>가진 패딩을 펴서 가슴너비를 재고, 제품 치수와 비교</li></ul>
 </section>
 </div>
@@ -49,9 +52,12 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>용어 더 보기</summary>
 
-- **필파워:** 다운이 부풀어 공기를 가두는 정도. 높을수록 같은 무게로 더 따뜻해요. 침낭 기준 600~650 좋음, 700~750 아주 좋음, 800 이상 최상급. 따뜻함은 충전량에도 달려 있어요(위키백과 'Fill power').
+- **필파워:** 다운이 부풀어 공기를 가두는 정도. 높을수록 같은 무게로 더 따뜻해요. 침낭 기준 600~650 좋음, 700~750 아주 좋음, 800 이상 최상급. 따뜻함은 충전량에도 달려 있어요(위키백과 'Fill power'). 예: 아크테릭스 세륨 850필.
 - **솜털 : 깃털:** 라벨의 다운 비율. 필파워가 높을수록 솜털 비율이 커요(위키백과).
-- 아직 쓸 수 있는 출처를 못 찾은 용어: 합성 충전재, 핏 표기, 포켓터블, 발수(DWR), 덕다운과 구스다운의 차이, '경량'과 '미드웨이트'의 기준.
+- **합성 충전재:** 아크테릭스는 습기 차기 쉬운 부위에 합성 충전재(Coreloft, 폴리에스터 100%)를 쓴다고 설명해요.
+- **핏:** 아크테릭스는 트림(피티드) 핏을 "레이어링하기 좋은 핏"이라고 해요.
+- **포켓터블:** 수납 파우치에 접어 넣는 사양(아크테릭스 세륨).
+- 아직 쓸 수 있는 출처를 못 찾은 용어: 발수(DWR), 덕다운과 구스다운의 차이, '경량'과 '미드웨이트'의 기준.
 
 </details>
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>입어 보고 사기</summary>
@@ -63,7 +69,7 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>출처</summary>
 
-<p class="sources">2026-11-26 확인: 코리아헤럴드 <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>·<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(수치 없음); 위키백과 <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>. 무신사 무진장 26 겨울 블프 집계, 2026-11-26 16:25 기준(운영자 확인 화면, 실시간 집계). 세일 기간·할인율: <a href="/ko/deals/">할인 상황판</a>(전자신문 11-20, 에스콰이어 코리아 11-18, 지디넷코리아 11-10). 성수 매장: <a href="/ko/shopping-streets/#seongsu">명동·성수·홍대</a> 페이지 출처. 제휴 링크 없음(승인 대기, 자리만 표시).</p>
+<p class="sources">2026-11-26 확인: 코리아헤럴드 <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>·<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(수치 없음); <a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">아크테릭스 미국 공식 상품 페이지</a>(2026-11-27 일반 접속으로 확인); 위키백과 <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>. 무신사 무진장 26 겨울 블프 집계, 2026-11-26 16:25 기준(운영자 확인 화면, 실시간 집계). 세일 기간·할인율: <a href="/ko/deals/">할인 상황판</a>(전자신문 11-20, 에스콰이어 코리아 11-18, 지디넷코리아 11-10). 성수 매장: <a href="/ko/shopping-streets/#seongsu">명동·성수·홍대</a> 페이지 출처. 제휴 링크 없음(승인 대기, 자리만 표시).</p>
 
 </details>
 </div>

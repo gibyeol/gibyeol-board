@@ -22,6 +22,7 @@ TREND = json.loads((ROOT / "data/trending.json").read_text(encoding="utf-8"))
 LINKS = {k: v for k, v in json.loads((ROOT / "data/links.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
 BASE = SITE["base_url"].rstrip("/")
 OG = json.loads((ROOT / "data/og.json").read_text(encoding="utf-8"))["pages"]  # link-preview pictures (tools/og_cards.py)
+OG_DEFAULT = json.loads((ROOT / "data/og.json").read_text(encoding="utf-8"))["default"]  # card for pages not in "pages"
 CURRENT = ' aria-current="true"'
 
 
@@ -532,10 +533,16 @@ SKY = """<svg class="sky" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMax s
 # ---------- layout ----------
 def og_image(lang, slug, body_html):
     """og:image for pages listed in data/og.json: a 1200x630 crop of a photo the page already shows (with its credit).
-    Alt text = that photo's alt on the page, so it is in the page language. Unlisted pages get no picture."""
+    Alt text = that photo's alt on the page, so it is in the page language.
+    Unlisted pages get the site default card static/og/default.jpg (data/og.json "default", owner picked B [7eb4ec94#3028])."""
     c = OG.get(slug)
     if not c:
-        return ""
+        d = OG_DEFAULT
+        if not (ROOT / d["card"]).exists():
+            raise SystemExit(f'data/og.json default: {d["card"]} missing')
+        return (f'\n<meta property="og:image" content="{BASE}/{d["card"]}"><meta property="og:image:type" content="image/jpeg">'
+                f'<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+                f'<meta property="og:image:alt" content="{html.escape(d["alt"][lang])}"><meta name="twitter:card" content="summary_large_image">')
     card = ROOT / "static/og" / f"{slug}.jpg"
     if not card.exists():
         raise SystemExit(f"data/og.json: static/og/{slug}.jpg missing (run python3 tools/og_cards.py)")

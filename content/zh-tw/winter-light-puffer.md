@@ -18,6 +18,9 @@ updated: 2026-11-27
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>MUSINSA「MUJINJANG 26 冬季」黑五 品牌銷售額排名<span class="src">11/26 16:25(營運者確認的畫面)・全商品・第2〜4名未確認・紅色=有輕羽絨售罄報導・金額為韓元</span></h3>
 <ol class="bars"><li class="lp"><b>#1</b><span>MUSINSA STANDARD</span><i style="width:100%"></i><em>104.7億</em></li><li><b>#5</b><span>adidas</span><i style="width:38%"></i><em>40.1億</em></li><li class="lp"><b>#6</b><span>The North Face</span><i style="width:36%"></i><em>38.0億</em></li></ol>
 <p class="links"><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">到 MUSINSA 首頁找黑五排名 →</a><!-- aff-slot: p-musinsa ranking (정확한 랭킹 URL 미확인 → 홈으로 연결) --><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">到 MUSINSA 首頁搜尋「경량 패딩」 →</a><!-- aff-slot: i-musinsa-std-cityleisure --></p>
+<details class="cmpd"><summary><i class="ic ic-tag" aria-hidden="true"></i>官網規格 <span class="src">價格・填充物・版型・評分 · 11/27 確認</span></summary>
+<table class="cmp"><thead><tr><th>商品 → 官方頁面</th><th>價格</th><th>填充物</th><th>版型</th><th>評分</th><th>現在</th></tr></thead><tbody><tr><td><a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">始祖鳥 Cerium Hoody(美國) →</a><!-- aff-slot: i-arc-cerium --></td><td class="n">$400</td><td>850 FP・338g</td><td>合身版</td><td class="n">3.9 (279)</td><td>原價・不在美國黑五特賣(至 12/1)的折扣內</td></tr></tbody></table>
+</details>
 </section>
 <!-- trend:end -->
 <section class="cb" aria-label="買之前要看的基本資訊">
@@ -25,7 +28,7 @@ updated: 2026-11-27
 <h3><i class="ic ic-sparkles" aria-hidden="true"></i>報導中的配色<span class="src">韓國先驅報 10/20・11/23</span></h3>
 <div class="combos"><div class="combo"><div class="sw"><span class="top" style="background:#c7b7e2">薰衣草色外套</span><span style="background:#8a6448;color:#fff">棕色系</span></div>浪漫</div><div class="combo"><div class="sw"><span class="top" style="background:#a3a7ad">灰色外套</span><span class="none">運動長褲・樂福鞋</span></div>不像運動服</div><div class="combo"><div class="sw"><span class="top none">粉彩色外套</span><span class="none">休閒運動褲</span></div>保暖又舒服</div></div>
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>標籤用語</h3>
-<div class="terms"><div><b>蓬鬆度(FP)</b><span>越高,同樣保暖但更輕</span></div><div><b>羽絨 : 羽毛</b><span>標籤上的羽絨比例</span></div></div>
+<div class="terms"><div><b>蓬鬆度(FP)</b><span>越高,同樣保暖但更輕</span></div><div><b>羽絨 : 羽毛</b><span>標籤上的羽絨比例</span></div><div><b>人造纖維填充</b><span>聚酯纖維棉。用在易潮濕的部位</span></div><div><b>可收納</b><span>能折進收納袋</span></div></div>
 <ul class="tips"><li><i class="ic ic-scan-line" aria-hidden="true"></i>把自己的外套攤平量胸寬,和商品尺寸比較</li></ul>
 </section>
 </div>
@@ -49,9 +52,12 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>用語看更多</summary>
 
-- **蓬鬆度(FP):** 羽絨膨起來留住空氣的程度。越高,同樣重量越保暖。以睡袋來說 600〜650 好、700〜750 很好、800 以上最高級。保暖也要看填充量(維基百科「Fill power」)。
+- **蓬鬆度(FP):** 羽絨膨起來留住空氣的程度。越高,同樣重量越保暖。以睡袋來說 600〜650 好、700〜750 很好、800 以上最高級。保暖也要看填充量(維基百科「Fill power」)。例:始祖鳥 Cerium 850 FP。
 - **羽絨 : 羽毛:** 標籤上的羽絨比例。蓬鬆度越高,羽絨比例越大(維基百科)。
-- 還沒找到可用出處的用語:人造纖維填充、版型標示、可收納、潑水(DWR)、鴨絨和鵝絨的差別、「輕量」和「中量(midweight)」的分界。
+- **人造纖維填充:** 始祖鳥說明他們在容易潮濕的部位用人造纖維填充(Coreloft,100% 聚酯纖維)。
+- **版型:** 始祖鳥說明修身(合身)版型適合多層穿搭。
+- **可收納:** 能折進收納袋的設計(始祖鳥 Cerium)。
+- 還沒找到可用出處的用語:潑水(DWR)、鴨絨和鵝絨的差別、「輕量」和「中量(midweight)」的分界。
 
 </details>
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>試穿再買</summary>
@@ -66,7 +72,7 @@ updated: 2026-11-27
 </details>
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出處</summary>
 
-<p class="sources">2026-11-26 確認:韓國先驅報 <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>・<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(沒有數字);維基百科 <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>。MUSINSA「MUJINJANG 26 冬季」黑五統計,以 2026-11-26 16:25 為準(營運者確認的畫面,即時統計)。特賣期間・折扣:<a href="/zh-tw/deals/">特賣看板</a>(電子新聞 <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>、Esquire Korea <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>、ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>)。聖水門市:<a href="/zh-tw/shopping-streets/#seongsu">明洞・聖水・弘大</a>頁面的出處。沒有聯盟連結(等待核准,只標出位置)。</p>
+<p class="sources">2026-11-26 確認:韓國先驅報 <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>・<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(沒有數字);<a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">始祖鳥美國官方商品頁</a>(2026-11-27 以一般連線確認);維基百科 <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>。MUSINSA「MUJINJANG 26 冬季」黑五統計,以 2026-11-26 16:25 為準(營運者確認的畫面,即時統計)。特賣期間・折扣:<a href="/zh-tw/deals/">特賣看板</a>(電子新聞 <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>、Esquire Korea <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>、ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>)。聖水門市:<a href="/zh-tw/shopping-streets/#seongsu">明洞・聖水・弘大</a>頁面的出處。沒有聯盟連結(等待核准,只標出位置)。</p>
 
 </details>
 </div>
