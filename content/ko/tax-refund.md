@@ -1,6 +1,6 @@
 ---
 title: 한국 택스리펀드: 여권만 보여 주세요
-description: 대상자, 최소 ₩15,000 기준, 즉시 환급 한도 ₩100만·₩500만, 계산대·시내·공항에서 받는 순서와 공항 키오스크·환급 창구 위치, 수수료를 떼고 실제로 돌려받는 금액까지 정리했어요.
+description: 한국 택스리펀드는 계산대에서 여권 실물을 보여 주면 한 매장 영수증 ₩15,000 이상 ₩1,000,000 미만은 그 자리에서 세금이 빠져요. 큰 구매는 전표를 받아 인천공항에서 체크인 → 키오스크 세관 확인 → 출국심사 → 면세구역에서 돈 받기. 수수료를 떼면 약 5~8%가 돌아와요.
 lede: 한국을 방문 중이라면 10% 부가세 일부가 계산대에서 바로 빠져요. 여권을 보여 주면 돼요. 큰 구매는 전표를 받아 공항에서 돌려받아요.
 section: tax
 updated: 2026-11-26
@@ -11,6 +11,10 @@ disclosure: yes
 <figure class="tr-hero acc-hero"><img src="/static/photo/oy-myeongdong-passport-sign.webp" alt="명동 올리브영 계산대 위 안내판: Please prepare your physical passport (for immediate tax refund)" width="780" height="403"><figcaption><b>핵심은 이게 전부예요.</b> 명동의 한 올리브영 계산대 안내판: “즉시 환급을 위해 여권 실물을 준비해 주세요(Please prepare your physical passport for immediate tax refund)”.<span class="tr-credit">사진: Sgroey, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (잘라 냄, 밝기 자동 보정)</span></figcaption></figure>
 
 <ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>여권 실물<small>사진은 안 돼요</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>₩15,000 이상<small>한 매장, 영수증 한 장</small></span></li><li><i class="ic ic-percent" aria-hidden="true"></i><span>약 5~8% 환급<small>사업자 수수료를 뗀 뒤</small></span></li><li><i class="ic ic-clock" aria-hidden="true"></i><span>계산대에서 즉시<small>₩1,000,000 미만</small></span></li></ul>
+
+**계산대에서 이미 세금이 빠졌다면 공항에서 할 일은 없어요.** 전표를 받았다면 인천공항에서 4단계, 이 순서대로 해요([지도와 자세한 순서](#airport)):
+
+<ol class="steps"><li><b>체크인</b>: 환급 물건과 전표는 부치지 말고 손에 들고.</li><li><b>키오스크(세관 확인)</b>: 출국장 들어가기 전 3층 일반지역. 1터미널은 체크인 카운터 B·E·J·L 근처, 2터미널은 F·G 근처.</li><li><b>보안검색·출국심사.</b></li><li><b>돈 받기</b>: 3층 면세지역. 1터미널은 28번 게이트 근처, 2터미널은 환급 창구(무인 환급기 24시간).</li></ol>
 
 ## 나도 대상일까?
 
@@ -58,7 +62,7 @@ disclosure: yes
 
 <ul class="tr-next"><li><a href="https://www.globalblue.com/en/refund-points-map?country=South-Korea" rel="noopener" target="_blank"><i class="ic ic-map-pin" aria-hidden="true"></i>글로벌블루 전표라면: 세관·환급 장소 지도(영어)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
-<h2 id="airport">공항에서: 인천공항 따라 하기</h2>
+<h2 id="airport">인천공항 택스리펀드, 어디서 어떻게 받아요?</h2>
 
 순서는 하나예요. **체크인 → 키오스크(세관 확인) → 보안검색·출국심사 → 면세구역에서 돈 받기.** 환급 물건은 세관 확인 전에 부치지 마세요.
 

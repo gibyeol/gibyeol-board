@@ -1,6 +1,6 @@
 ---
 title: Incheon Airport to Seoul: pick by where you sleep
-description: AREX Express, AREX all-stop, airport bus or taxi: times, fares, where to find each at Incheon, and what still runs late. Checked 26 November 2026.
+description: Incheon Airport to Seoul: staying near Seoul Station, take the AREX Express (43 min, ₩13,000); Hongdae or Gongdeok, the AREX all-stop (₩4,650 by card); most other hotels, the limousine bus. Landing late? The last Express leaves Terminal 1 at 22:48. Where to find each at the airport. Checked 26 November 2026.
 lede: Pick the ride that stops closest to your bed. Train or bus, 43 to 80 minutes, ₩4,650 to ₩18,000.
 section: essentials
 disclosure: yes
@@ -157,7 +157,7 @@ Large and deluxe cars are ₩100,000–140,000. Split four ways, ₩85,000 is ab
 
 </details>
 
-<h2 id="late">Landing late</h2>
+<h2 id="late">Landing late at night: how do I get to Seoul?</h2>
 
 <aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>Last AREX Express: 22:48 from Terminal 1, 22:40 from Terminal 2.</b> Visit Seoul advises allowing one to two hours for immigration and bags, so a flight landing after about 9 p.m. can miss it. Decide before you fly.</span></aside>
 

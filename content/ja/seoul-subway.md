@@ -1,6 +1,6 @@
 ---
 title: ソウル地下鉄 7ステップ:チャージ、タッチ、乗り換え、出口
-description: ソウル地下鉄の支払い方法、現金チャージ、バスへの乗り換え割引、出口の探し方、終電と初日のよくある失敗を、実際の改札・券売機・標識の写真で。2026年11月時点で確認。
+description: ソウル地下鉄は、T-money(またはWOWPASS)を乗るとき・降りるときにタッチ、1回1,550ウォン。現金チャージ、T-moneyとWOWPASSの違い、バスへの乗り換え、出口の探し方、終電を、実際の改札・券売機・標識の写真で。2026年11月時点で確認。
 lede: カード1枚を、乗るときと降りるときにタッチ。1回1,550ウォン。実際の改札と標識の写真で説明します。
 section: transport
 disclosure: yes
@@ -83,9 +83,20 @@ updated: 2026-11-26
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span><b>バスに乗り継ぐなら</b>、同じカードで降車後30分以内(夜9時〜翌朝7時は60分以内)に乗ると乗り換え割引になります。バスの乗り方:<a href="/ja/seoul-bus/">ソウルのバス</a>。</span></aside>
 
-## どのカードで乗る?
+<h2 id="どのカードで乗る">T-moneyとWOWPASS、どっち?</h2>
 
-私たちの判断:ほとんどの方はチャージ式カードで十分。1回用乗車券は「予備」と考えてください。3つは「1日に何回乗るか、ソウルの外へ出るか」というひとつの問いで分けます。
+**私たちの判断:交通だけならT-money。両替やお店での支払いまでカード1枚で済ませたいならWOWPASS。** 地下鉄・バスの運賃は、どちらも同じようにT-money残高から引かれます。WOWPASSはその残高が決済残高とは別です。
+
+| | T-money | WOWPASS |
+|---|---|---|
+| カード代 | 空港鉄道駅の自販機:15,000ウォン(カード5,000ウォン+交通費10,000ウォン)。市内:販売店の表示価格 | 6,000ウォン、事前予約で5,500ウォン |
+| 買える場所 | コンビニのレジ、駅の機械([買い方](/ja/convenience-store/#tmoney)) | 地下鉄駅・ホテル・コンビニなどにあるWOWPASS機械 |
+| チャージ | 駅の券売機・コンビニでウォン現金 | 決済残高:WOWPASS機械(16種の通貨の現金かクレジットカード)またはアプリ |
+| 交通の残高は別? | いいえ。カード全体が交通費 | はい。T-money残高はウォン現金でチャージするか、アプリ(NFC)でWOWPASS残高から移します |
+| 残ったお金を戻す | コンビニ、首都圏の地下鉄駅の顧客案内所、Tmoneyタウン。手数料500ウォン。50,000ウォン以上はTmoneyタウンのみ(ソウル駅10番出口、平日9〜18時) | 決済残高:WOWPASS機械でウォン現金に(手数料1,000ウォン、1回10万ウォンまで)。T-money残高:T-moneyと同じ |
+| 空港で受け取る | 第1・第2ターミナルの空港鉄道駅にあるT-money自販機で15,000ウォンのカード。海外のクレジットカード可 | 空港のSKテレコム ローミングセンター:WOWPASS+T-money+SIMのセット |
+
+**3つの支払い方法の全体。** 私たちの判断:ほとんどの方はチャージ式カードで十分。1回用乗車券は「予備」と考えてください。3つは「1日に何回乗るか、ソウルの外へ出るか」というひとつの問いで分けます。
 
 <ul class="tr-choose"><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>T-money、またはT-money機能付きのWOWPASS</b><span class="tag">3〜7日のふつうのソウル旅行</span><span>T-moneyは日本のSuicaのような交通カード。1回用より1回100ウォン安く、バスとの乗り換え割引も使えます。WOWPASSのT-money残高は、WOWPASS残高とは別にチャージします(WOWPASS公式ガイド)。</span></li><li><i class="ic ic-calendar-days" aria-hidden="true"></i><b>Climate Card(気候同行カード)短期券</b><span class="tag">ソウル市内だけ、1日3回以上、3日以上</span><span>3日券10,000ウォン+カード3,000ウォン、交通カード運賃約8回分。1日1〜2回しか乗らない方、同じ日に水原や板橋へ出る方には不要です。</span></li><li><i class="ic ic-ticket" aria-hidden="true"></i><b>1回用乗車券</b><span class="tag">まだカードがないとき</span><span>運賃に100ウォン上乗せ、さらに保証金500ウォン。首都圏の鉄道専用なので、バスには使えません。</span></li></ul>
 
@@ -216,6 +227,8 @@ updated: 2026-11-26
 <p class="sources">2026年11月26日(韓国時間)に開いて確認。ソウル市交通サイト:<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通運賃案内</a>(2025年6月28日改定)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">統合乗り換え割引</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">1回用交通カード</a>、<a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">Climate Card短期券の紹介</a>(2026年10月12日更新)と<a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>、<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">海外クレジットカード対応の報道資料</a>(2026年3月16日)、<a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">妊婦配慮席の案内</a>。ソウル市メディアハブ:<a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">新型キオスクとプリペイドカードの現金チャージ</a>(2025年9月2日)、<a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">海外カードに関するファクトブリーフィング</a>(2026年1月7日)、<a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">深夜運行の再開</a>(2022年5月30日)、<a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014年交通カード分析</a>(2015年4月29日)、<a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9号線急行の拡大</a>(2026年10月14日)。ソウル市英語サイト:<a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">海外カード対応</a>(2026年3月17日)、<a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">始発・終電30分繰り上げ計画</a>(2025年5月27日)。<a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">ソウル市メトロ9号線 朝の列車利用案内</a>。空港鉄道 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">一般列車</a>・<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車</a>の案内。<a href="https://wowpass.io/ja/guide" rel="noopener" target="_blank">WOWPASS公式ガイド</a>。コリアヘラルド:<a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">始発・終電の繰り上げ</a>(2025年5月22日)、<a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">妊婦席とバッジ</a>(2023年6月27日)。コリアタイムズ:<a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">妊婦配慮席</a>(2017年12月6日)。 2026年11月26日にあわせて確認:Korea Herald <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">地下鉄券売機が海外発行カードに対応</a>(2026年3月16日)、<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">公共交通の使い方</a>(2025年11月6日、地図アプリ)。</p>
 
 <p class="sources">2026年11月27日確認:空港鉄道 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直通列車のご利用案内</a>(QR改札);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は駅・コンビニの現金かアプリのNFCで別にチャージ);コリア・ヘラルド <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のT-moneyカード</a>(交通費入り15,000ウォン、海外カード)。確認できなかったもの:Klookの商品ページ(自動アクセスを遮断)。</p>
+
+<p class="sources">2026年11月27日22:25〜22:28(韓国時間)に開いて確認(T-moneyとWOWPASSの表):WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は地下鉄・コンビニでウォン現金かアプリのNFCでチャージ、WOWPASS決済残高は機械で1回10万ウォンまで出金・手数料1,000ウォン、Tmoney払い戻しはコンビニ・首都圏の地下鉄駅の顧客案内所・Tmoneyタウン、手数料500ウォン、50,000ウォン以上はTmoney本社のみ、ソウル駅10番出口・平日9〜18時、16種類の通貨かクレジットカードでチャージ)と<a href="https://www.wowpass.io/ja/product" rel="noopener" target="_blank">カードの受け取り方</a>(6,000ウォン、地下鉄・ホテル・コンビニの機械で予約5,500ウォン、SKTローミングセンターのWOWPASS+Tmoney+SIMセット)。空港鉄道のT-money 15,000ウォンは上のコリア・ヘラルド。使わなかったもの:T-moneyのサイト(www.tmoney.co.krは開けたが、カード代・払い戻しのページが見つからず、eng.tmoney.co.krは接続できず)。</p>
 
 写真:ウィキメディア・コモンズの写真を、各キャプションに記したライセンスで使っています。運賃比較と一般・直通列車の図はNadriが作成しました。
 

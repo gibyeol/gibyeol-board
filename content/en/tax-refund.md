@@ -1,6 +1,6 @@
 ---
 title: Korea tax refund: just show your passport
-description: Who qualifies, the ₩15,000 minimum, the ₩1M and ₩5M instant-refund limits, the steps at the till, downtown and at the airport with where the airport kiosks and refund counters are, and what you really get back after fees.
+description: Korea tax refund: show your real passport at the till and the tax comes off any one-shop receipt of ₩15,000 to under ₩1,000,000. Bigger buys: take a refund slip, then at Incheon Airport check in, use the customs kiosk, pass passport control and collect the money in the duty-free area. About 5–8% comes back after fees.
 lede: If you are visiting Korea, part of the 10% VAT comes off at the till. Show your passport. For big purchases, take a refund slip and claim at the airport.
 section: tax
 updated: 2026-11-26
@@ -11,6 +11,10 @@ disclosure: yes
 <figure class="tr-hero acc-hero"><img src="/static/photo/oy-myeongdong-passport-sign.webp" alt="Olive Young checkout counters in Myeongdong with a lit sign: Please prepare your physical passport (for immediate tax refund)" width="780" height="403"><figcaption><b>This is the whole trick:</b> the sign at an Olive Young till in Myeongdong says “Please prepare your physical passport (for immediate tax refund)”.<span class="tr-credit">Photo: Sgroey, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Olive_Young_Myeongdong.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (cropped, light auto-contrast)</span></figcaption></figure>
 
 <ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>Real passport<small>not a photo of it</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>₩15,000+<small>per receipt, one shop</small></span></li><li><i class="ic ic-percent" aria-hidden="true"></i><span>About 5–8% back<small>after the operator's fee</small></span></li><li><i class="ic ic-clock" aria-hidden="true"></i><span>Instant at the till<small>under ₩1,000,000</small></span></li></ul>
+
+**Tax already taken off at the till? Nothing to do at the airport.** Holding a refund slip? At Incheon Airport it is 4 steps, in this order ([full steps with maps](#airport)):
+
+<ol class="steps"><li><b>Check in</b>, keeping the refund goods and slips in your hands.</li><li><b>Kiosk (customs check)</b> in the 3F public area, before the departure hall: Terminal 1 near check-in rows B, E, J and L; Terminal 2 near rows F and G.</li><li><b>Security and passport control.</b></li><li><b>Collect the money</b> in the 3F duty-free area: Terminal 1 near gate 28; Terminal 2 at the refund counters (refund machines 24 hours).</li></ol>
 
 ## Do I qualify?
 
@@ -58,7 +62,7 @@ The airport steps, with maps, are just below in [At the airport](#airport). No c
 
 <ul class="tr-next"><li><a href="https://www.globalblue.com/en/refund-points-map?country=South-Korea" rel="noopener" target="_blank"><i class="ic ic-map-pin" aria-hidden="true"></i>Global Blue slip? Map of customs and refund points<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
-<h2 id="airport">At the airport: Incheon, step by step</h2>
+<h2 id="airport">Tax refund at Incheon Airport: where and how?</h2>
 
 There is one order: **check in → kiosk (customs check) → security and passport control → collect the money in the duty-free area.** Don't check in the refund goods before customs has seen them.
 

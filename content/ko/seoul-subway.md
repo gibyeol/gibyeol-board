@@ -1,6 +1,6 @@
 ---
 title: 서울 지하철 7단계: 충전, 태그, 환승, 출구
-description: 서울 지하철 결제 수단, 현금 충전, 버스 환승, 출구 찾기, 막차와 자주 하는 실수를 실제 개찰구·발매기·표지판 사진으로 정리했어요. 2026년 11월 기준.
+description: 서울 지하철은 티머니(또는 와우패스) 카드를 탈 때·내릴 때 찍고 한 번에 1,550원이에요. 현금 충전, 티머니 vs 와우패스, 버스 환승, 출구 찾기, 막차를 실제 개찰구·발매기·표지판 사진으로 정리했어요. 2026년 11월 기준.
 lede: 카드 한 장, 탈 때 찍고 내릴 때 찍기. 한 번에 1,550원. 실제 개찰구와 표지판 사진으로 보여 드려요.
 section: transport
 disclosure: yes
@@ -83,9 +83,20 @@ updated: 2026-11-26
 
 <aside class="tr-note ok"><i class="ic ic-circle-check" aria-hidden="true"></i><span><b>버스로 갈아탈 거면</b> 같은 카드로 하차 후 30분 안에(밤 9시~다음 날 아침 7시는 60분) 타야 환승 할인이 돼요. 버스 타는 법: <a href="/ko/seoul-bus/">서울 버스 타기</a>.</span></aside>
 
-## 어떤 카드로 탈까
+<h2 id="어떤-카드로-탈까">티머니 vs 와우패스, 어떤 카드로 탈까?</h2>
 
-우리 판단: 거의 모든 경우 충전식 카드가 정답이고, 1회용 승차권은 비상용이에요. "하루에 몇 번 타는지, 서울 밖으로 나가는지" 하나로 갈라요.
+**우리 판단: 교통만 쓰면 티머니, 환전과 가게 결제까지 카드 한 장으로 하고 싶으면 와우패스.** 지하철·버스 요금은 둘 다 똑같이 티머니 잔액에서 나가요. 와우패스는 그 잔액이 결제 잔액과 따로 있어요.
+
+| | 티머니 | 와우패스 |
+|---|---|---|
+| 카드값 | 공항철도역 자판기: 15,000원(카드 5,000원 + 교통비 10,000원). 시내: 판매처에 적힌 값 | 6,000원, 미리 예약하면 5,500원 |
+| 사는 곳 | 편의점 계산대, 역 기계([사는 순서](/ko/convenience-store/#tmoney)) | 지하철역·호텔·편의점 등에 있는 와우패스 기기 |
+| 충전 | 역 발매기·편의점에서 원화 현금 | 결제 잔액: 와우패스 기기(16개 통화 현금 또는 신용카드)나 앱 |
+| 교통 잔액이 따로? | 아니요. 카드 전체가 교통비 | 네. 티머니 잔액을 원화 현금으로 충전하거나 앱(NFC)에서 와우패스 잔액을 옮겨요 |
+| 남은 돈 돌려받기 | 편의점, 수도권 지하철역 고객안내소, 티머니타운. 수수료 500원. 5만 원 이상은 티머니타운만(서울역 10번 출구, 평일 9~18시) | 결제 잔액: 와우패스 기기에서 원화 현금(수수료 1,000원, 한 번에 10만 원까지). 티머니 잔액: 티머니와 같음 |
+| 공항에서 받기 | 1·2터미널 공항철도역 티머니 자판기에서 15,000원 카드. 해외 신용카드 돼요 | 공항 SK텔레콤 로밍센터: 와우패스 + 티머니 + SIM 패키지 |
+
+**세 가지 결제 방법 전체.** 우리 판단: 거의 모든 경우 충전식 카드가 정답이고, 1회용 승차권은 비상용이에요. "하루에 몇 번 타는지, 서울 밖으로 나가는지" 하나로 갈라요.
 
 <ul class="tr-choose"><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>티머니, 또는 티머니가 들어 있는 와우패스</b><span class="tag">3~7일 일반적인 서울 여행</span><span>1회용보다 한 번에 100원 싸고, 버스 환승 할인도 돼요. 와우패스의 티머니 잔액은 와우패스 잔액과 따로 충전해야 해요(와우패스 공식 안내).</span></li><li><i class="ic ic-calendar-days" aria-hidden="true"></i><b>기후동행카드 단기권</b><span class="tag">서울 안에서만, 하루 3번 이상, 3일 이상</span><span>3일권 10,000원 + 카드 3,000원, 교통카드 요금 약 8번 값. 하루 한두 번만 타거나 같은 날 수원·판교로 나가면 필요 없어요.</span></li><li><i class="ic ic-ticket" aria-hidden="true"></i><b>1회용 승차권</b><span class="tag">카드가 아직 없을 때</span><span>요금에 100원이 더 붙고 보증금 500원을 따로 내요. 수도권 도시철도에서만 써서 버스에는 못 써요.</span></li></ul>
 
@@ -216,6 +227,8 @@ updated: 2026-11-26
 <p class="sources">2026년 11월 26일(한국 시간)에 열어 확인. 서울시 교통 누리집: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">교통 요금 안내</a>(2025년 6월 28일 조정), <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">통합환승 할인제도</a>(2026년 2월 2일 수정), <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">일회용 교통카드</a>, <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">기후동행카드(단기권) 소개</a>(2026년 10월 12일 수정)와 <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>, <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">해외 신용카드 구매 보도자료</a>(2026년 3월 16일), <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">임산부배려석 안내</a>. 내 손안에 서울: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">신형 키오스크·선불카드 현금 충전</a>(2025년 9월 2일), <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">해외카드 팩트브리핑</a>(2026년 1월 7일), <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">지하철 심야 운행 재개</a>(2022년 5월 30일), <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014년 교통카드 분석</a>(2015년 4월 29일), <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9호선 급행 확대</a>(2026년 10월 14일). 서울시 영문 누리집: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">해외카드</a>(2026년 3월 17일), <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">첫차·막차 30분 조정 계획</a>(2025년 5월 27일). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">서울시메트로9호선 출근시간 열차 이용 안내</a>. 공항철도 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">일반열차</a>·<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">직통열차</a> 안내. <a href="https://wowpass.io/ko/guide" rel="noopener" target="_blank">와우패스 공식 가이드</a>. 코리아헤럴드: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">첫차·막차 30분 앞당김</a>(2025년 5월 22일), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">임산부석과 배지</a>(2023년 6월 27일). 코리아타임스: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">임산부 배려석</a>(2017년 12월 6일). 2026년 11월 26일에 함께 열어 봄: 코리아헤럴드 <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">지하철 무인기 해외 카드 결제</a>(2026년 3월 16일), <a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">대중교통 이용 팁</a>(2025년 11월 6일, 지도 앱).</p>
 
 <p class="sources">2026년 11월 27일 확인: 공항철도 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">직통열차 이용안내</a>(QR 게이트); 와우패스 <a href="https://www.wowpass.io/ko/guide" rel="noopener" target="_blank">사용 안내</a>(티머니 잔액은 역·편의점 현금 또는 앱 NFC로 따로 충전); 코리아헤럴드 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">공항철도 티머니 카드</a>(교통비가 들어 있는 카드 15,000원, 해외 카드). 확인하지 못한 것: 클룩 상품 페이지(자동 접속 차단).</p>
+
+<p class="sources">2026년 11월 27일 22:25~22:28(한국 시간)에 열어 확인(티머니 vs 와우패스 표): 와우패스 <a href="https://www.wowpass.io/ko/guide" rel="noopener" target="_blank">사용 안내</a>(티머니 잔액은 지하철역·편의점에서 원화 현금 또는 앱 NFC로 충전, 와우패스 결제 잔액은 기기에서 한 번에 10만 원까지 출금·수수료 1,000원, 티머니 환불은 편의점·수도권 지하철역 고객안내소·티머니타운, 수수료 500원, 5만 원 이상은 티머니 본사만, 서울역 10번 출구 평일 9~18시, 16종 통화 현금 또는 신용카드로 충전)와 <a href="https://www.wowpass.io/ko/product" rel="noopener" target="_blank">카드 받는 법</a>(6,000원, 지하철·호텔·편의점 기기 예약 5,500원, 공항 SK텔레콤 로밍 센터의 와우패스 + 티머니 + SIM 패키지). 공항철도 티머니 15,000원은 위 코리아헤럴드. 쓰지 않은 것: 티머니 누리집(www.tmoney.co.kr은 열렸으나 카드값·환불 규정 페이지를 찾지 못함, eng.tmoney.co.kr은 연결 안 됨).</p>
 
 사진: 위키미디어 공용의 사진을 각 설명에 적은 라이선스로 썼어요. 요금 비교와 일반·직통열차 그림은 Nadri가 그렸어요.
 
