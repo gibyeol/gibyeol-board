@@ -52,7 +52,7 @@ K-ETA는 무비자 방문객을 위한 한국의 전자여행허가예요. 수�
 
 {{fig:essentials-3|eSIM, 유심, 포켓 와이파이: 각각 무엇이 필요한가}}
 
-**고르는 법:** 데이터만 필요하면 아래 두 버튼 중 하나를 고르세요. 전화·문자를 받을 한국 번호도 필요하다면, 그 아래 SKT 상품이 한국 번호를 주는지 사기 전에 상품 페이지에서 확인하세요.
+**고르는 법:** 데이터만 필요하면 아래 버튼 어느 것이든 괜찮아요(맨 아래 상품은 외국 여권 소지자만). 한국에서 전화·문자도 써야 하면 맨 아래 클룩 'SKT 무제한 데이터 eSIM'을 고르세요. 아래 상품 중 전화·문자가 된다고 저희가 상품 화면으로 확인한 것은 이것뿐이에요. 맨 아래 상품은 외국 여권 소지자만 쓸 수 있어요(한국 여권 불가).
 
 **사기 전에:** 환불 조건을 상품 페이지에서 확인하세요(설치한 뒤에는 환불이 안 되는 곳이 있어요).
 
@@ -60,9 +60,35 @@ K-ETA는 무비자 방문객을 위한 한국의 전자여행허가예요. 수�
 
 {{aff:klook_esim|클룩에서 SKT 5G eSIM 받기}}
 
-아래 버튼은 클룩의 다른 SKT eSIM 상품으로 이어져요. 이용 기간, 한국 번호와 통화·문자 제공 여부, 핫스팟 공유 여부는 사기 전에 상품 페이지에서 확인하세요.
+**맨 아래 버튼: 클룩 'SKT 무제한 데이터 eSIM(무료 티머니 카드 포함)'.** 상품 화면에서 확인한 내용이에요.
 
-{{aff:klook_esim_alt|클룩에서 SKT eSIM 요금제 더 보기}}
+- **누가:** 외국 여권 소지자만. 외국인 전용 상품이고, 한국 여권으로는 여권 인증이 안 돼요.
+- **데이터:** 기본 무제한, 4G LTE. 핫스팟(다른 기기와 나눠 쓰기)은 안 돼요. 짧은 시간에 데이터를 아주 많이 쓰면 속도·사용량이 예고 없이 제한될 수 있어요. 페이스타임·카카오톡 보이스톡 같은 인터넷 통화는 돼요.
+- **전화·문자:** 한국에 입국한 뒤 오전 8시~오후 10시에 여권 인증을 하면 데이터에 더해 전화·문자를 쓸 수 있어요. 인증 뒤 음성 충전(top-up)을 따로 결제해야 해요. 인증을 안 하면 데이터만 돼요.
+- **기간:** 2~10일, 15·20·30·60·90일 중 골라요. 산 뒤 연장은 안 돼요.
+- **무료 티머니(교통카드):** 3일 이상 요금제를 사면 받아요. 인천공항 SKT 로밍센터에 직접 가서 받아야 해요.
+- **못 쓰는 폰:** 국가 잠금 폰(한 나라 통신망에서만 쓰게 잠긴 폰), 실물 SIM 두 개를 쓰는 듀얼 SIM 모델(예: 홍콩·중국판 iPhone Max 모델). 아이폰은 iOS 15.0 이상이어야 해요. 폰이 맞지 않아 못 써도 환불·취소가 안 되니, 위 '먼저 내 폰 확인'부터 하세요.
+
+{{aff:klook_esim_alt|클룩에서 SKT 무제한 데이터 eSIM 보기}}
+
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>SKT 무제한 데이터 eSIM을 샀다면: 설치 → 여권 인증 → 음성 충전 → 무료 티머니</summary>
+
+**출국 전, 집에서 (와이파이 필요)**
+
+1. **메일 받기:** 결제하고 30분 안에 kbooks-global@usimkorea.kr 에서 eSIM이 메일로 와요. 클룩 확인 메일이 안 보이면 클룩 고객센터에 문의해요.
+2. **쓸 폰으로 스캔:** 한 번 스캔한 QR은 다른 기기에서 못 써요. QR은 산 날부터 60일 안에 써야 해요. 등록에는 와이파이가 필요해요. 출국 전에 설치해 둬도 사용일은 한국에 도착한 때부터 세요.
+3. **아이폰:** Settings(설정) → Cellular(셀룰러) → Add Cellular Plan(셀룰러 요금제 추가) → QR 스캔. 이어서 기본 회선·iMessage·FaceTime에는 'Main'(주 회선)을 골라요. 마지막으로 Cellular Data(셀룰러 데이터)를 눌러 'Allow Cellular Data Switching'(셀룰러 데이터 전환 허용)을 끄고 'Continue'(계속).
+4. **안드로이드(갤럭시):** Settings(설정) → Connections(연결) → SIM card manager(SIM 관리자) → Add mobile plan(한국어 화면은 'eSIM 추가') → Scan the carrier QR code(한국어 화면은 'QR 코드 스캔'). SIM 관리자 화면 위쪽에 쓸 수 있는 SIM·eSIM 회선과 켜기(Active) 스위치가 보여요. 같은 SIM 메뉴에서 mobile data(모바일 데이터) 회선을 eSIM으로 정해요.
+5. **확인:** 설정이 끝나면 폰을 1~2번 다시 켜고, 통신사가 'SKT'로 잡혔는지 봐요.
+
+**한국 도착 뒤**
+
+1. **데이터:** 등록이 끝났으면 바로 쓸 수 있어요. 안 잡히면 아래 '산 다음: eSIM 설치하고 켜기'의 '안 되면'을 따라 해요.
+2. **전화·문자가 필요하면 여권 인증:** 입국 뒤 오전 8시~오후 10시에, 상품 페이지의 'Passport information verification URL'(여권 정보 인증 링크)을 열어 인증해요. 인증 방법 안내는 같은 페이지에 한국어·영어·일본어·중국어(번체·간체)로 있어요.
+3. **음성 충전:** 인증 뒤 상품 페이지의 'top-up payment'(충전 결제) 링크에서 음성 충전을 결제해요. 그래야 전화·문자가 돼요.
+4. **무료 티머니(3일 이상 요금제):** 인천공항 SKT 로밍센터에서 클룩 eSIM 바우처를 보여 주고 받아요. 제1터미널은 1층 13번 출구, 제2터미널은 1층 6~7번 출구(24시간). 티머니 충전과 쓰는 법은 아래 '4. 돈과 교통카드'에 있어요.
+
+</details>
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>산 다음: eSIM 설치하고 켜기 (아이폰·갤럭시)</summary>
 
@@ -129,10 +155,10 @@ K-ETA는 무비자 방문객을 위한 한국의 전자여행허가예요. 수�
 
 {{fig:airport-to-seoul-1|공항 가이드에서: 1터미널에서 서울로 가는 네 가지 방법}}
 
-{{aff:klook_airport|공항철도(AREX) 승차권 예약하기}}
+{{aff:klook_airport|클룩에서 공항철도 직통열차 바우처 사기(타기 전 열차표로 바꿔요)}}
 
 ## 출처
 
 <p class="sources">법무부, <a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA 한시 면제 기간 2027년 12월 31일까지 연장</a>(2026년 11월 23일 게시, 11월 26일 확인); <a href="https://www.k-eta.go.kr" rel="noopener" target="_blank">k-eta.go.kr</a>(수수료, 11월 26일 확인); <a href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">e-arrivalcard.go.kr</a>(무료, 도착 3일 전부터 신고, 11월 26일 확인); 코리아헤럴드, <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">공항철도 티머니 카드</a>(2026년 11월 24일)와 <a href="https://www.koreaherald.com/article/10946522" rel="noopener" target="_blank">구글의 한국 지도 계획</a>(2026년 11월 23일), 모두 11월 26일 확인. 이번에 다시 열어 보지 못해 이전 확인 내용을 유지한 것: 면제 대상 22개 국가·지역과 3년 유효기간에 관한 외교부 공지; 전자입국신고서에 관한 인천국제공항 안내; 지도 데이터 국외 반출에 관한 국토교통부 결정(2026년 2월 27일); 티머니, 기후동행카드, 지하철 새 발매기에 관한 서울시 안내(2026년 3월 16일).</p>
 
-<p class="sources">2026년 11월 27일 확인: Apple <a href="https://support.apple.com/ko-kr/118669" rel="noopener" target="_blank">iPhone에서 eSIM 설정하기</a>(QR·링크 설치), <a href="https://support.apple.com/ko-kr/118227" rel="noopener" target="_blank">해외 여행 중에 iPhone에서 eSIM 사용하기</a>(이동통신사 잠금 확인, 중국 본토·홍콩·마카오 예외, 여행용 eSIM 켜기, 셀룰러 데이터 회선 선택, 원래 회선 로밍 요금), <a href="https://support.apple.com/ko-kr/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhone 사용 설명서: 셀룰러 데이터 설정</a>(데이터 로밍), <a href="https://support.apple.com/ko-kr/109317" rel="noopener" target="_blank">듀얼 SIM 사용하기</a>(한 번에 한 번호만 데이터, 번호별 셀룰러 설정), <a href="https://support.apple.com/ko-kr/102478" rel="noopener" target="_blank">eSIM을 설정할 수 없는 경우</a>; 삼성전자 <a href="https://www.samsung.com/sec/support/newsalert/3184/" rel="noopener" target="_blank">갤럭시 eSIM 안내</a>(SIM 관리자 → eSIM 추가 → QR 코드 스캔), 삼성 영국 <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">데이터 로밍</a>·<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">듀얼 SIM</a>(영어 메뉴 이름을 우리말로 옮김), 삼성 아일랜드 <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM 사용하기</a>(EID 위치); 와우패스 <a href="https://www.wowpass.io/ko/guide" rel="noopener" target="_blank">사용 안내</a>(티머니 잔액 따로 충전); 와우패스 eSIM 예약 안내(QR 설치 뒤 환불 불가 — '설치 뒤 환불 안 되는 곳' 예). 확인하지 못한 것: Yesim·클룩 eSIM 상품 페이지(요금제 차이·환불 조건) — 두 사이트가 자동 접속을 막아 열지 못했어요. 삼성전자서비스(samsungsvc.co.kr)는 점검 중이었어요.</p>
+<p class="sources">2026년 11월 27일 확인: Apple <a href="https://support.apple.com/ko-kr/118669" rel="noopener" target="_blank">iPhone에서 eSIM 설정하기</a>(QR·링크 설치), <a href="https://support.apple.com/ko-kr/118227" rel="noopener" target="_blank">해외 여행 중에 iPhone에서 eSIM 사용하기</a>(이동통신사 잠금 확인, 중국 본토·홍콩·마카오 예외, 여행용 eSIM 켜기, 셀룰러 데이터 회선 선택, 원래 회선 로밍 요금), <a href="https://support.apple.com/ko-kr/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhone 사용 설명서: 셀룰러 데이터 설정</a>(데이터 로밍), <a href="https://support.apple.com/ko-kr/109317" rel="noopener" target="_blank">듀얼 SIM 사용하기</a>(한 번에 한 번호만 데이터, 번호별 셀룰러 설정), <a href="https://support.apple.com/ko-kr/102478" rel="noopener" target="_blank">eSIM을 설정할 수 없는 경우</a>; 삼성전자 <a href="https://www.samsung.com/sec/support/newsalert/3184/" rel="noopener" target="_blank">갤럭시 eSIM 안내</a>(SIM 관리자 → eSIM 추가 → QR 코드 스캔), 삼성 영국 <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">데이터 로밍</a>·<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">듀얼 SIM</a>(영어 메뉴 이름을 우리말로 옮김), 삼성 아일랜드 <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM 사용하기</a>(EID 위치); 와우패스 <a href="https://www.wowpass.io/ko/guide" rel="noopener" target="_blank">사용 안내</a>(티머니 잔액 따로 충전); 와우패스 eSIM 예약 안내(QR 설치 뒤 환불 불가 — '설치 뒤 환불 안 되는 곳' 예). 클룩 'South Korea SKT Unlimited Data eSIM with Free T-Money Card'(한국 SKT 무제한 데이터 eSIM, 무료 티머니 카드 포함) 상품 페이지(운영자가 브라우저로 연 화면, 2026년 11월 27일)(외국인 전용·한국 여권 인증 불가, 여권 인증 시간과 음성 충전, 데이터·핫스팟·속도 제한, 기간, 무료 티머니와 로밍센터 위치, 못 쓰는 폰, 아이폰·안드로이드 설치 경로, 메일 발송 주소). 확인하지 못한 것: Yesim 상품 페이지와 클룩 SKT 5G eSIM 상품 페이지(요금제 차이·환불 조건) — 두 사이트가 자동 접속을 막아 열지 못했어요. 삼성전자서비스(samsungsvc.co.kr)는 점검 중이었어요.</p>
