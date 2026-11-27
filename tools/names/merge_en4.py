@@ -19,7 +19,9 @@ OUT = ROOT / "static" / "name-en4.js"
 
 
 # reviewed corrections (2026-11-28, Claude while merging): spellings taken from one person's title that are not the name itself
-POP_FIRST = {"matthew", "matthews"}   # owner [7eb4ec94#4642]
+POP_FIRST = {"matthew", "matthews",   # owner [7eb4ec94#4642]
+             # owner [7eb4ec94#4748]: "많이쓰는걸 앞에 둬" - which one is used more: Claude judgement (no official source), both always shown
+             "emma", "liam", "jacob", "david", "daniel", "benjamin", "lucas", "leo", "andrew", "thomas", "joseph", "samuel", "nicholas", "richard", "jonathan", "timothy", "julian", "sebastian", "owen", "brandon", "isabella", "amelia", "sarah", "samantha", "angela", "stephanie", "rebecca", "melissa", "amanda", "camila", "violet", "eleanor", "evelyn", "elias", "matt", "josh", "bobby", "drew", "greg", "adams", "evans", "daniels", "andrews", "simmons", "jenkins", "thompson", "hughes", "lopez", "gomez", "diaz", "cruz"}
 FIX = {"lee": {"meaning": None, "origin": None, "note": "Lee is also the Korean/Chinese surname 이/李: no English-surname meaning (review 2026-11-28)"},
        "sam": {"of": "samuel", "note": "BtN: short form of Samuel, Samson, Samantha (Samuel first)"},
        "charlie": {"of": "charles", "note": "BtN: diminutive or feminine form of Charles"},
