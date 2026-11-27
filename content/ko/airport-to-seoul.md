@@ -215,7 +215,7 @@ Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라�
 
 </details>
 
-<div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>직통열차 표를 휴대폰에.</b> 숙소가 서울역 근처일 때만 의미가 있어요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 위키미디어 공용</span></p></div>
+<div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>직통열차 표 미리 예매.</b> 숙소가 서울역 근처일 때만 의미가 있어요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 위키미디어 공용</span></p></div>
 
 {{aff:klook_airport|공항철도 직통열차 미리 예매하기}}
 

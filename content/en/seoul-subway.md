@@ -119,7 +119,7 @@ Our call: the **all-stop** AREX is just another subway line; the **Express** is 
 - **All-stop:** every station (Hongik Univ., Gongdeok…), tap your card, transfers apply.
 - **Express:** non-stop Seoul Station–Incheon Airport, reserved seats, ₩13,000 adult.
 
-Optional, if you want the Express ticket on your phone before you land:
+Optional, if you want to book the Express ticket before you land:
 
 {{aff:klook_airport|Book an AREX Express ticket in advance}}
 

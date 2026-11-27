@@ -18,7 +18,7 @@ The eSIM is easier for a simple reason: no SIM pin, no tiny card to lose, and th
 
 ## Check 1: does your phone support eSIM?
 
-**iPhone.** iPhone XS, XS Max, XR and later models support eSIM. iPhones sold in Korea have both an eSIM and a physical SIM slot. Exceptions (Apple): in China mainland only iPhone 18 Pro, 18 Pro Max, iPhone Duo, 17e and iPhone Air support eSIM, and in Hong Kong and Macao some iPhone models use Dual SIM with two nano-SIM cards. If your iPhone was bought there, check the model first.
+**iPhone.** iPhone XS, XS Max, XR and later models support eSIM. Exceptions (Apple): in China mainland only iPhone 18 Pro, 18 Pro Max, iPhone Duo, 17e and iPhone Air support eSIM, and in Hong Kong and Macao some iPhone models use Dual SIM with two nano-SIM cards. If your iPhone was bought there, check the model first.
 
 **Galaxy.** In Korea, eSIM activation started on 1 September 2022, and the first Korean-market eSIM models were the Galaxy Z Fold4 and Z Flip4. Korean-market models released before that probably do not support it, so do not guess from the model name. Check directly:
 

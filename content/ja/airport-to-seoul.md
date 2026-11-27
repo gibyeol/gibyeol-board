@@ -215,7 +215,7 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 </details>
 
-<div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>直通列車の切符をスマホに。</b> ホテルがソウル駅の近くのときだけ意味があります。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, ウィキメディア・コモンズ</span></p></div>
+<div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>直通列車の切符を事前予約。</b> ホテルがソウル駅の近くのときだけ意味があります。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, ウィキメディア・コモンズ</span></p></div>
 
 {{aff:klook_airport|AREX直通列車のチケットを事前予約}}
 

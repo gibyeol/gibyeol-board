@@ -18,7 +18,7 @@ eSIM 方便的原因很簡單:不用退卡針,不怕弄丟小小的 SIM 卡,現�
 
 ## 檢查 1:手機支援 eSIM 嗎
 
-**iPhone。** iPhone XS、XS Max、XR 及之後的機型支援 eSIM。在韓國販售的 iPhone 同時有 eSIM 和實體 SIM 卡槽。例外(Apple):在中國大陸,只有 iPhone 18 Pro、18 Pro Max、iPhone Duo、17e 和 iPhone Air 支援 eSIM;在香港和澳門,部分 iPhone 機型的雙 SIM 卡是使用兩張 nano-SIM 卡。在這些地區買的 iPhone,請先確認機型。
+**iPhone。** iPhone XS、XS Max、XR 及之後的機型支援 eSIM。例外(Apple):在中國大陸,只有 iPhone 18 Pro、18 Pro Max、iPhone Duo、17e 和 iPhone Air 支援 eSIM;在香港和澳門,部分 iPhone 機型的雙 SIM 卡是使用兩張 nano-SIM 卡。在這些地區買的 iPhone,請先確認機型。
 
 **Galaxy。** 韓國從 2022 年 9 月 1 日開始開通 eSIM,韓國版第一批支援 eSIM 的機型是 Galaxy Z Fold4、Z Flip4。比這更早推出的韓國版機型很可能不支援,所以別從型號猜,用下面的方法直接確認最準。
 

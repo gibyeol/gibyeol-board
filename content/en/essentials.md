@@ -66,7 +66,7 @@ The button below leads to another SKT eSIM on Klook. Check its validity, whether
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>After you buy: install and turn on the eSIM (iPhone and Galaxy)</summary>
 
-Install it **before you fly, on wifi**. The QR code usually comes by email or in the seller's app (your order confirmation says how).
+Install it **before you fly, on wifi**. Your order confirmation says how you receive the QR code.
 
 **iPhone** (Apple's own instructions)
 
@@ -93,7 +93,7 @@ In shops and restaurants, try your credit card first. Some places, such as marke
 
 - **T-money** is the standard tap card for subway, bus and taxis across Korea. You buy and top it up at convenience stores and station machines, and topping up a regular card usually means won cash. How to buy one: [convenience stores](/convenience-store/#tmoney); how to top up: [Seoul subway, step 2](/seoul-subway/).
 - **AREX T-money card (new, 23 November 2026):** a preloaded T-money card sold at the T-money machines in the airport railroad stations at Terminals 1 and 2. It costs ₩15,000 (₩5,000 card plus ₩10,000 credit) and the machines take foreign credit cards. AREX has not said whether you can reload it by card later ([Korea Herald](https://www.koreaherald.com/article/10947683)). Where it fits on arrival: [Incheon Airport to Seoul, step 3](/airport-to-seoul/).
-- **WOWPASS** combines currency exchange, card payments and T-money. You load it at machines in major stations with your home currency. The **T-money balance for subway and bus is separate**: top it up with cash at stations and convenience stores, or move WOWPASS balance into it in the app. Collecting, loading and getting leftover money back: [airport guide](/airport-to-seoul/#prep); who it suits: [Money in Korea](/money/).
+- **WOWPASS** combines currency exchange, card payments and T-money. You load it at machines in major stations with cash in 16 currencies or a credit card. The **T-money balance for subway and bus is separate**: top it up with cash at stations and convenience stores, or move WOWPASS balance into it in the app. Collecting, loading and getting leftover money back: [airport guide](/airport-to-seoul/#prep); who it suits: [Money in Korea](/money/).
 - **Climate Card** is Seoul's unlimited pass, with short-term versions for visitors. Since 17 March 2026, new machines at 273 stations on Seoul subway Lines 1–8 sell these passes and single tickets to foreign Visa and Mastercard (about 3.7% fee). Seoul only, so skip it if you are mostly elsewhere. Does it pay off for you: [Seoul subway](/seoul-subway/).
 
 On iPhone, the MobileTmoney app can be topped up with a foreign Mastercard, Amex or UnionPay card (not Visa). Tapping your own bank card at the gate does not work yet; Seoul plans it for the subway from 2027. Topping up in the app, step by step: [convenience store guide](/convenience-store/#tmoney).
@@ -125,7 +125,7 @@ In February 2026 the government conditionally approved Google's request to expor
 
 ## 6. Getting from Incheon Airport
 
-The airport railroad (AREX) and limousine buses run to central Seoul, and both take a T-money card. If your hotel is near Seoul Station, the Express train is fastest (43 minutes from Terminal 1). Buy the ticket at the machines on the airport's B1 (foreign cards work), or get it on your phone in advance with the button below. Three or four people with lots of luggage: see the flat-fare [international taxi](/airport-to-seoul/#taxi). The full comparison by hotel area is in [Incheon Airport to Seoul](/airport-to-seoul/).
+The airport railroad (AREX) and limousine buses run to central Seoul, and both take a T-money card. If your hotel is near Seoul Station, the Express train is fastest (43 minutes from Terminal 1). Buy the ticket at the machines on the airport's B1 (foreign cards work), or book ahead with the button below (follow your booking confirmation for how to collect and use it). Three or four people with lots of luggage: see the flat-fare [international taxi](/airport-to-seoul/#taxi). The full comparison by hotel area is in [Incheon Airport to Seoul](/airport-to-seoul/).
 
 {{fig:airport-to-seoul-1|From our airport guide: four ways into Seoul from Terminal 1}}
 

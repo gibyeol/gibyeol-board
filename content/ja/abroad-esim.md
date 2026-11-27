@@ -18,7 +18,7 @@ eSIMが楽な理由はシンプルです。SIMピンも、小さなSIMをなく�
 
 ## 条件1:スマホがeSIMに対応しているか
 
-**iPhone。** iPhone XS、XS Max、XR以降のモデルはeSIMに対応しています。韓国で販売されたiPhoneには、eSIMと通常のSIMスロットの両方があります。例外(Apple):中国本土でeSIMに対応しているのはiPhone 18 Pro・18 Pro Max・iPhone Duo・17e・iPhone Airのみ。香港・マカオには2枚のnano-SIMを使うデュアルSIMのiPhoneモデルがあります。そこで買ったiPhoneなら、まずモデルを確認してください。
+**iPhone。** iPhone XS、XS Max、XR以降のモデルはeSIMに対応しています。例外(Apple):中国本土でeSIMに対応しているのはiPhone 18 Pro・18 Pro Max・iPhone Duo・17e・iPhone Airのみ。香港・マカオには2枚のnano-SIMを使うデュアルSIMのiPhoneモデルがあります。そこで買ったiPhoneなら、まずモデルを確認してください。
 
 **Galaxy。** 韓国でeSIMの開通が始まったのは2022年9月1日で、韓国向けで最初のeSIM対応モデルはGalaxy Z Fold4・Z Flip4でした。それより前に出た韓国向けモデルは対応していない可能性が高いので、モデル名で推測せず、次の方法で直接確かめるのが確実です。
 
