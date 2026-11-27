@@ -1,9 +1,9 @@
 ---
 title: この冬の軽量ダウン
-description: 今日の軽量ダウンのトレンド(ムシンサ8月の売上+718%、ブラックフライデーのブランド売上順位、セールのD-day、公式ストアの比較)と、買う前に見る基本情報(胸囲のサイズ表、記事に出た色の組み合わせ、フィルパワー・ダウンの割合・フィットの用語)。
+description: 今日の軽量ダウンのトレンド(ムシンサ8月の売上+718%、ブラックフライデーのブランド売上順位、セールのD-day)と、買う前に見る基本情報(サイズの測り方、記事に出た色の組み合わせ、フィルパワー・ダウンの割合の用語)。
 lede: ダウンが軽くなりました。数字で見て、サイズ・色・用語までまとめてどうぞ。
 section: shopping
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 <link rel="stylesheet" href="/static/proto.css">
 
@@ -18,20 +18,15 @@ updated: 2026-11-26
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>ムシンサ「ムジンジャン26冬」ブラックフライデー ブランド別売上順位<span class="src">11/26 16:25(運営者が確認した画面)・全商品・2〜4位は未確認・赤=軽量ダウンの品切れ報道あり・金額はウォン</span></h3>
 <ol class="bars"><li class="lp"><b>1位</b><span>ムシンサ・スタンダード</span><i style="width:100%"></i><em>104.7億</em></li><li><b>5位</b><span>アディダス</span><i style="width:38%"></i><em>40.1億</em></li><li class="lp"><b>6位</b><span>ザ・ノース・フェイス</span><i style="width:36%"></i><em>38.0億</em></li></ol>
 <p class="links"><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">ムシンサのトップで ブラックフライデーのランキングを探す →</a><!-- aff-slot: p-musinsa ranking (정확한 랭킹 URL 미확인 → 홈으로 연결) --><a class="tb-go" href="https://www.musinsa.com/" rel="noopener" target="_blank">ムシンサのトップで「경량 패딩」を検索 →</a><!-- aff-slot: i-musinsa-std-cityleisure --></p>
-<details class="cmpd"><summary><i class="ic ic-tag" aria-hidden="true"></i>公式ストアの仕様を比べる <span class="src">価格・中わた・フィット・評価 · 11/26確認</span></summary>
-<table class="cmp"><thead><tr><th>商品 → 公式ページ</th><th>価格</th><th>中わた</th><th>フィット</th><th>評価</th><th>今</th></tr></thead><tbody><tr><td><a href="https://www.uniqlo.com/kr/ko/products/E492179-000/00" rel="noopener" target="_blank">ユニクロ ライトダウンボリューム →</a><!-- aff-slot: i-uq-ldv --></td><td class="n">129,000ウォン</td><td>ダウン85%</td><td>オーバーサイズ</td><td class="n">4.9 (20)</td><td>販売中</td></tr><tr><td><a href="https://www.uniqlo.com/kr/ko/products/E486819-000/00" rel="noopener" target="_blank">ユニクロ PUFFTECHコンパクト(メンズ) →</a><!-- aff-slot: i-uq-ptc-m --></td><td class="n">79,900ウォン</td><td>化繊わた</td><td>スリム</td><td class="n">4.9 (37)</td><td>販売中</td></tr><tr><td><a href="https://www.uniqlo.com/kr/ko/products/E470067-000/00" rel="noopener" target="_blank">ユニクロ ウルトラライトダウン(メンズ) →</a><!-- aff-slot: i-uq-uld-m --></td><td class="n">99,900ウォン</td><td>ダウン90%</td><td>レギュラー</td><td class="n">4.4 (119)</td><td>12月中旬から</td></tr><tr><td><a href="https://www.musinsa.com/" rel="noopener" target="_blank">ムシンサ・スタンダード ライトダウン(ムシンサのトップ) →</a><!-- aff-slot: i-musinsa-std-cityleisure --></td><td class="n">10万ウォン台</td><td>–</td><td>–</td><td class="n">–</td><td>品切れ報道(10/20)</td></tr><tr><td><a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">アークテリクス セリウムフーディ(米国) →</a><!-- aff-slot: i-arc-cerium --></td><td class="n">$400</td><td>850フィル・338g</td><td>フィッテッド</td><td class="n">3.9 (278)</td><td>米国ブラックフライデー〜12/1</td></tr></tbody></table>
-</details>
 </section>
 <!-- trend:end -->
 <section class="cb" aria-label="買う前に見る基本情報">
 <p class="tag tag-c"><i class="ic ic-info" aria-hidden="true"></i>買う前に · 基本情報</p>
-<h3><i class="ic ic-scan-line" aria-hidden="true"></i>胸囲(cm) → サイズ<span class="src">ユニクロ 体のサイズ表</span></h3>
-<div class="scale"><div><b>S</b>80–88</div><div><b>M</b>88–96</div><div><b>L</b>96–104</div><div><b>XL</b>104–112</div><div><b>XXL</b>112–120</div><div><b>3XL</b>120–128</div><div><b>4XL</b>128–136</div></div>
 <h3><i class="ic ic-sparkles" aria-hidden="true"></i>記事に出た色の組み合わせ<span class="src">コリアヘラルド 10/20・11/23</span></h3>
 <div class="combos"><div class="combo"><div class="sw"><span class="top" style="background:#c7b7e2">ラベンダーのダウン</span><span style="background:#8a6448;color:#fff">ブラウン系</span></div>ロマンチックに</div><div class="combo"><div class="sw"><span class="top" style="background:#a3a7ad">グレーのダウン</span><span class="none">トラックパンツ・ローファー</span></div>運動着っぽくなく</div><div class="combo"><div class="sw"><span class="top none">パステルのダウン</span><span class="none">ジャージのパンツ</span></div>暖かく楽に</div></div>
 <h3><i class="ic ic-list-checks" aria-hidden="true"></i>ラベルの用語</h3>
-<div class="terms"><div><b>フィルパワー</b><span>高いほど同じ暖かさでより軽い</span></div><div><b>ダウン : フェザー</b><span>ダウンの割合。例: 90 : 10</span></div><div><b>化繊わた</b><span>ポリエステルのわた。湿気に強く、湿りやすい所に</span></div><div><b>フィット</b><span>インナーにも着られると説明されているのはレギュラー(ユニクロ)</span></div><div><b>ポケッタブル</b><span>ポーチにたたんで入れられる</span></div><div><b>撥水(DWR)</b><span>水滴をはじく。洗うと弱くなる</span></div></div>
-<ul class="tips"><li><i class="ic ic-scan-line" aria-hidden="true"></i>手持ちのダウンを広げて身幅を測り、商品の寸法と比べる</li><li><i class="ic ic-droplets" aria-hidden="true"></i>ウルトラライトダウンは手洗いのみ、乾燥機NG</li></ul>
+<div class="terms"><div><b>フィルパワー</b><span>高いほど同じ暖かさでより軽い</span></div><div><b>ダウン : フェザー</b><span>ラベルにあるダウンの割合</span></div></div>
+<ul class="tips"><li><i class="ic ic-scan-line" aria-hidden="true"></i>手持ちのダウンを広げて身幅を測り、商品の寸法と比べる</li></ul>
 </section>
 </div>
 
@@ -48,52 +43,30 @@ updated: 2026-11-26
 </details>
 <details class="tr-more"><summary><i class="ic ic-scan-line" aria-hidden="true"></i>サイズをもっと見る</summary>
 
-1. メジャーで、わきの下すぐの一番広い所を測ります → 上の表のマス(ユニクロの体のサイズ、ジェンダーレス ライトダウンボリュームジャケット)。
-2. ぴったり合うダウンを広げて身幅・着丈を測り、下の商品寸法と比べます。
-3. コートの下に着るなら、コートも測ってダウンの方が大きくないか見ます。ユニクロ韓国の商品ページは、ウルトラライトダウンを、アウターとしてもほかのアウターのインナーとしても着られるレギュラーフィットだと説明しています(韓国語から訳しました)。寸法はブランドごとに違います。
-
-ユニクロ メンズ ウルトラライトダウンジャケットの商品寸法(広げて測ったcm):
-
-| サイズ | 着丈 | 肩幅 | 身幅 | 背中心〜袖口 |
-|---|---|---|---|---|
-| XS | 60 | 42.5 | 51 | 82.5 |
-| S | 62 | 44 | 54 | 84 |
-| M | 64 | 45.5 | 57 | 86.5 |
-| L | 66 | 47 | 60 | 89 |
-| XL | 69 | 49 | 64 | 91.5 |
-| XXL | 70 | 51 | 68 | 92.5 |
-| 3XL | 71 | 53 | 72 | 93.5 |
-| 4XL | 72 | 55 | 76 | 94.5 |
-
-XXL〜4XLはオンライン限定。洗濯: 手洗いのみ、ドライクリーニング・乾燥機は不可(ユニクロ)。
+1. ぴったり合うダウンを広げて身幅・着丈を測り、買いたい商品の寸法表と比べます。
+2. コートの下に着るなら、コートも測ってダウンの方が大きくないか見ます。寸法はブランドごとに違います。
 
 </details>
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>用語をもっと見る</summary>
 
-- **フィルパワー:** ダウンがふくらんで空気をためる度合い。高いほど同じ重さでより暖かくなります。寝袋の目安で600〜650は良い、700〜750はとても良い、800以上は最高級。暖かさはダウンの量にもよります(ウィキペディア「Fill power」)。例: アークテリクス セリウム 850フィル。
-- **ダウン : フェザー:** ラベルにあるダウンの割合。フィルパワーが高いほどダウンの割合が大きくなります(ウィキペディア)。ユニクロ ウルトラライトダウン 90:10、ライトダウンボリューム 85:15(リサイクルダウン)。
-- **化繊わた:** ユニクロのPUFFTECHはポリエステルのわた。アークテリクスは、湿気がこもりやすい部分に化繊わた(Coreloft)を使うと説明しています。
-- **フィット:** ユニクロの表記はスリム・レギュラー(ふつう)・オーバーサイズ(ゆったり)。このうち、ほかのアウターのインナーにもなると説明されているのはレギュラーフィット(ウルトラライトダウン)です。アークテリクスはトリム(フィッテッド)フィットを重ね着に向くと説明しています。
-- **ポケッタブル:** 収納ポーチにたたんで入れられる仕様(ユニクロ ウルトラライトダウン、アークテリクス セリウム)。
-- **撥水(DWR):** 軽い水滴をはじく加工。ずっとは続かず、洗うと弱くなります(ユニクロ)。
-- まだ出典が見つかっていない用語: ダックダウンとグースダウンの違い、「軽量」と「ミッドウェイト」の境目。
+- **フィルパワー:** ダウンがふくらんで空気をためる度合い。高いほど同じ重さでより暖かくなります。寝袋の目安で600〜650は良い、700〜750はとても良い、800以上は最高級。暖かさはダウンの量にもよります(ウィキペディア「Fill power」)。
+- **ダウン : フェザー:** ラベルにあるダウンの割合。フィルパワーが高いほどダウンの割合が大きくなります(ウィキペディア)。
+- まだ使える出典が見つかっていない用語: 化繊わた、フィットの表記、ポケッタブル、撥水(DWR)、ダックダウンとグースダウンの違い、「軽量」と「ミッドウェイト」の境目。
 
 </details>
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>試着してから買う</summary>
 
-**ムシンサ・メガストア聖水:** 2号線聖水駅3番出口から475m、毎日11:00〜22:00、週末は混むと報道されています。地図アプリで「徒歩」のルートを検索([聖水への行き方](/ja/shopping-streets/#seongsu))。**ユニクロ:** 商品ページの「매장 재고 현황」(店舗の在庫)で、店ごとの在庫を確認。
+**ムシンサ・メガストア聖水:** 2号線聖水駅3番出口から475m、毎日11:00〜22:00、週末は混むと報道されています。地図アプリで「徒歩」のルートを検索([聖水への行き方](/ja/shopping-streets/#seongsu))。
 
 レジで見せる文(韓国語の方を見せます):
 
 - **“이 상품에 쓸 수 있는 쿠폰이 있나요? 앱 쿠폰 적용해 주세요.”** = この商品に使えるクーポンはありますか? アプリのクーポンを使ってください。
 - 免税の対象なら: **“택스프리 되나요? 여권 여기 있어요.”** = 免税できますか? パスポートはこちらです。(1枚のレシートで1万5千〜100万ウォン、[対象か確認](/ja/tax-refund/))
 
-店舗のクーポン・コード: [ムシンサ公式のお知らせ](https://www.musinsa.com/content/1566699932019111639)。
-
 </details>
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典</summary>
 
-<p class="sources">2026-11-26確認: コリアヘラルド <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>・<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(数字なし)、ユニクロKR公式商品ページ <a href="https://www.uniqlo.com/kr/ko/products/E470067-000/00" rel="noopener" target="_blank">ウルトラライトダウン(メンズ)</a>・<a href="https://www.uniqlo.com/kr/ko/products/E492179-000/00" rel="noopener" target="_blank">ライトダウンボリューム</a>・<a href="https://www.uniqlo.com/kr/ko/products/E486819-000/00" rel="noopener" target="_blank">PUFFTECHコンパクト(メンズ)</a>、<a href="https://arcteryx.com/us/en/shop/mens/cerium-hoody-0521" rel="noopener" target="_blank">アークテリクス米国公式商品ページ</a>、ウィキペディア <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>。ムシンサ「ムジンジャン26冬」ブラックフライデー集計、2026-11-26 16:25時点(運営者が確認した画面、リアルタイム集計)。セール期間・割引率: <a href="/ja/deals/">セール情報</a>(電子新聞 <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>、エスクァイア・コリア <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>、ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>)。聖水の店: <a href="/ja/shopping-streets/#seongsu">明洞・聖水・弘大</a>のページの出典。アフィリエイトリンクなし(承認待ち、場所だけ表示)。</p>
+<p class="sources">2026-11-26確認: コリアヘラルド <a href="https://www.koreaherald.com/article/10908829" rel="noopener" target="_blank">2026-10-20</a>・<a href="https://www.koreaherald.com/article/10946254" rel="noopener" target="_blank">2026-11-23</a>(数字なし)、ウィキペディア <a href="https://en.wikipedia.org/wiki/Fill_power" rel="noopener" target="_blank">Fill power</a>。ムシンサ「ムジンジャン26冬」ブラックフライデー集計、2026-11-26 16:25時点(運営者が確認した画面、リアルタイム集計)。セール期間・割引率: <a href="/ja/deals/">セール情報</a>(電子新聞 <a href="https://www.etnews.com/20261120000177" rel="noopener" target="_blank">11-20</a>、エスクァイア・コリア <a href="https://www.esquirekorea.co.kr/article/1913174" rel="noopener" target="_blank">11-18</a>、ZDNet Korea <a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">11-10</a>)。聖水の店: <a href="/ja/shopping-streets/#seongsu">明洞・聖水・弘大</a>のページの出典。アフィリエイトリンクなし(承認待ち、場所だけ表示)。</p>
 
 </details>
 </div>

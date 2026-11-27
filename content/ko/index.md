@@ -5,13 +5,7 @@ home: yes
 updated: 2026-11-27
 ---
 <section class="front">
-<article class="lead">
-<span class="kicker">오늘의 판단</span>
-<h2>블프 쿠폰보다 먼저 볼 건, 이번 일요일에 끝나는 백화점 세일</h2>
-<p class="first">온라인 블랙프라이데이는 12월 초까지 이어지지만, 신세계·롯데·현대 백화점의 겨울 정기세일은 11월 29일 일요일에 함께 끝나요. 겨울 외투처럼 매장에서 입어 봐야 하는 물건이라면 순서는 백화점이 먼저예요.</p>
-<p>신세계·롯데는 최대 50%, 현대는 첫 판매가 대비 최대 60%. 할인율보다 같은 상품의 지난 가격을 먼저 확인하세요.</p>
-<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">출처: 지디넷코리아, 2026-11-10</a> · <a href="/ko/deals/">세일 전체 보기</a></p>
-</article>
+{{headline}}
 
 <div class="front-side">
 

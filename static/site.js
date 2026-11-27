@@ -43,6 +43,37 @@
     var cell = tag.closest('td'); if (cell) cell.classList.toggle('hot', n <= 2);
   });
 
+  // Home headline: the soonest-ending sale that is on today in Seoul; none left → the plain fallback (no dates)
+  var leads = document.querySelectorAll('.lead[data-end]'), fb = document.querySelector('.lead-fallback'), pick = null;
+  leads.forEach(function (el) {
+    if (!pick && day(el.dataset.start) <= seoulToday && day(el.dataset.end) >= seoulToday) pick = el;
+    el.hidden = true;
+  });
+  if (pick) {
+    pick.hidden = false;
+    var lt = pick.querySelector('.dday'), ln = Math.round((day(pick.dataset.end) - seoulToday) / 864e5);
+    if (lt) lt.textContent = ln > 0 ? 'D-' + ln : (lt.dataset.today || lt.textContent);
+  }
+  if (fb) fb.hidden = !!pick;
+
+  // Header date and "N sales checked" count follow the Seoul date, not the day of the last build
+  var dl = document.querySelector('.dl-date');
+  if (dl) {
+    var wd = dl.dataset.wd.split('|'), mon = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    dl.textContent = dl.dataset.fmt.replace('{Y}', seoulToday.getFullYear()).replace('{M}', seoulToday.getMonth() + 1)
+      .replace('{D}', seoulToday.getDate()).replace('{Mon}', mon[seoulToday.getMonth()]).replace('{W}', wd[(seoulToday.getDay() + 6) % 7]);
+  }
+  var cnt = document.querySelector('.dl-count');
+  if (cnt && cnt.dataset.ends !== undefined) {
+    var nd = 0, nc = 0;
+    cnt.dataset.ends.split(',').forEach(function (x) {
+      if (!x) return;
+      var p = x.split(':');
+      if (day(p[0]) >= seoulToday) { nd++; nc += +p[1]; }
+    });
+    cnt.textContent = cnt.dataset.tpl.replace('{d}', nd).replace('{c}', nc).replace('{g}', cnt.dataset.g);
+  }
+
   // official links: send phones to the right app store
   var ua = navigator.userAgent, os = /iPhone|iPad|iPod/.test(ua) || (/Macintosh/.test(ua) && 'ontouchend' in document) ? 'ios' : /Android/.test(ua) ? 'android' : '';
   if (os) document.querySelectorAll('a.go[data-' + os + ']').forEach(function (a) { a.href = a.dataset[os]; });

@@ -9,8 +9,8 @@ data/trending.json         'Trending now' slot (home + /shopping/): which trend 
 data/og.json               link-preview picture per page (static/og/<slug>.jpg, made by tools/og_cards.py)
 static/                    copied as-is
 """
-import html, json, re, shutil
-from datetime import date
+import html, json, os, re, shutil
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).parent
@@ -23,6 +23,14 @@ LINKS = {k: v for k, v in json.loads((ROOT / "data/links.json").read_text(encodi
 BASE = SITE["base_url"].rstrip("/")
 OG = json.loads((ROOT / "data/og.json").read_text(encoding="utf-8"))["pages"]  # link-preview pictures (tools/og_cards.py)
 CURRENT = ' aria-current="true"'
+
+
+def seoul_today():
+    """Today's date in Seoul (UTC+9, no daylight saving). The build server runs in UTC, so date.today() would lag
+    up to 9 hours. NADRI_TODAY=YYYY-MM-DD overrides it for test builds."""
+    if os.environ.get("NADRI_TODAY"):
+        return date.fromisoformat(os.environ["NADRI_TODAY"])
+    return (datetime.now(timezone.utc) + timedelta(hours=9)).date()
 
 
 # ---------- markdown subset ----------
@@ -56,6 +64,8 @@ def shortcode(line, lang):
         return codes_table(lang)
     if kind == "trending":
         return trending(lang)
+    if kind == "headline":
+        return headline(lang)
     if kind == "fig":
         # {{fig:name|caption}} → static/fig/<lang>/<name>.svg (language text) or static/fig/<name>.svg (no text)
         for rel in [f"fig/{lang}/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")] + [f"fig/{key}.{ext}" for ext in ("svg", "webp", "jpg", "png")]:
@@ -176,7 +186,7 @@ def deal_dates(d, lang):
 
 def deals_board(lang, limit=None):
     ui, du = SITE["ui"][lang], DEAL_UI[lang]
-    today = date.today()
+    today = seoul_today()
     items = [d for d in DEALS["items"] if lang in d.get("text", {}) and lang not in d.get("board_hide", [])
              and date.fromisoformat(d["end"]) >= today]
     live = sorted([d for d in items if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])
@@ -333,7 +343,7 @@ def seal(text="확인"):
 
 def live_items(lang):
     """Entries shown in this language: not ended, and not held off it ("board_hide": [langs], e.g. a visitor can't use it)."""
-    today = date.today()
+    today = seoul_today()
     return [d for d in DEALS["items"] if d.get("text", {}).get(lang, {}).get("title")
             and lang not in d.get("board_hide", []) and date.fromisoformat(d["end"]) >= today]
 
@@ -344,7 +354,7 @@ def home_items(lang):
 
 
 def dday_html(d, lang):
-    hu, today = HOME_UI[lang], date.today()
+    hu, today = HOME_UI[lang], seoul_today()
     s, e = date.fromisoformat(d["start"]), date.fromisoformat(d["end"])
     if s > today:
         return hu["starts"].format(n=(s - today).days), False
@@ -387,7 +397,7 @@ def first_sentence(t):
 
 
 def deal_cards(lang, n=3):
-    today = date.today()
+    today = seoul_today()
     pool = sorted([d for d in home_items(lang) if d.get("hero") and d.get("status") == "confirmed"
                    and date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])
     picked, cats = [], set()
@@ -409,7 +419,7 @@ def deal_cards(lang, n=3):
 
 
 def countdown(lang, n=5):
-    today, hu, L = date.today(), HOME_UI[lang], SITE["languages"][lang]
+    today, hu, L = seoul_today(), HOME_UI[lang], SITE["languages"][lang]
     items = sorted([d for d in home_items(lang) if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])[:n]
     rows = ""
     for d in items:
@@ -418,6 +428,45 @@ def countdown(lang, n=5):
                  f'<td>{inline(d["text"][lang]["title"])}<small>{deal_dates(d, lang)}</small></td></tr>')
     return (f'<aside class="board"><h2><span>{hu["board"]}</span><a href="{L["prefix"]}/deals/">{hu["all"]}</a></h2>'
             f'<table><thead><tr><th>{hu["left"]}</th><th>{hu["sale"]}</th></tr></thead><tbody>{rows}</tbody></table></aside>')
+
+
+# Home headline (2026-11-27): written from deals.json, never by hand, so it cannot outlive its sale.
+# Candidates = confirmed home entries, soonest end first. The build shows the first one on today (Seoul);
+# site.js re-picks by the Seoul date in the browser, so an ended sale is never the headline even between builds.
+LEAD_UI = {
+    "ko": {"k": "가장 먼저 끝나는 할인·행사", "all": "세일 전체 보기", "fb_k": "할인 상황판",
+           "fb_h": "지금 진행 중인 세일은 할인 상황판에서 마감 순으로 보세요", "fb_p": "모든 항목에 기간과 출처를 붙였어요."},
+    "en": {"k": "ENDING FIRST", "all": "See every sale", "fb_k": "DEALS BOARD",
+           "fb_h": "Every sale on now, sorted by end date, is on the deals board", "fb_p": "Every entry has its dates and a source."},
+    "ja": {"k": "いちばん早く終わるセール・イベント", "all": "セールをすべて見る", "fb_k": "セール情報",
+           "fb_h": "開催中のセールは、セール情報で締切が近い順に", "fb_p": "どの項目にも期間と出典をつけています。"},
+    "zh-tw": {"k": "最快結束的特賣・活動", "all": "看全部特賣", "fb_k": "優惠看板",
+              "fb_h": "進行中的特賣,在優惠看板依截止日排好了", "fb_p": "每一項都附上期間和來源。"},
+}
+
+
+def headline(lang, n=12):
+    today, lu, du, L = seoul_today(), LEAD_UI[lang], DEAL_UI[lang], SITE["languages"][lang]
+    pool = sorted([d for d in home_items(lang) if d.get("status") == "confirmed"],
+                  key=lambda d: (d["end"], d["start"]))[:n]
+    shown = next((d for d in pool if date.fromisoformat(d["start"]) <= today), None)
+    deals_url = f'{L["prefix"]}/deals/'
+    out = []
+    for d in pool:
+        t, src = d["text"][lang], d.get("source", {})
+        left = (date.fromisoformat(d["end"]) - today).days
+        dd = du["today"] if left <= 0 else f"D-{left}"
+        src_html = (f' · <a href="{html.escape(src["url"])}" rel="noopener" target="_blank">{du["source"]}'
+                    f'{" " + html.escape(src["date"]) if src.get("date") else ""}</a>') if src.get("url") else ""
+        out.append(f'<article class="lead" data-start="{d["start"]}" data-end="{d["end"]}"{"" if d is shown else " hidden"}>'
+                   f'<span class="kicker">{lu["k"]}</span>'
+                   f'<h2>{inline(t["title"])} <span class="dday" data-today="{du["today"]}">{dd}</span></h2>'
+                   f'<p class="first">{inline(t["note"])}</p>'
+                   f'<p class="src">{deal_dates(d, lang)}{src_html} · <a href="{deals_url}">{lu["all"]}</a></p></article>')
+    out.append(f'<article class="lead lead-fallback"{" hidden" if shown else ""}><span class="kicker">{lu["fb_k"]}</span>'
+               f'<h2>{lu["fb_h"]}</h2><p class="first">{lu["fb_p"]}</p>'
+               f'<p class="src"><a href="{deals_url}">{lu["all"]}</a></p></article>')
+    return "".join(out)
 
 
 def trending(lang):
@@ -453,14 +502,20 @@ def codes_table(lang):
 
 
 def dateline(lang):
-    hu, t = HOME_UI[lang], date.today()
+    hu, t = HOME_UI[lang], seoul_today()
     wd = hu["wd"][t.weekday()]
     ds = {"ko": f"{t.year}. {t.month}. {t.day}. {wd}", "en": f"{wd} {t.day} {t.strftime('%b')} {t.year}",
           "ja": f"{t.year}年{t.month}月{t.day}日({wd})", "zh-tw": f"{t.year}年{t.month}月{t.day}日 週{wd}"}[lang]
     c = COUNTS.get(lang, {})
     count = hu["count"].format(d=c.get("deals", 0), c=c.get("codes", 0), g=c.get("guides", 0))
+    # site.js recounts by the Seoul date, so a sale that ended after the last build drops out of the count
+    ends = ",".join(f'{d["end"]}:{len(d.get("code", []))}' for d in live_items(lang))
+    wd_all = "|".join(hu["wd"])
+    fmt = {"ko": "{Y}. {M}. {D}. {W}", "en": "{W} {D} {Mon} {Y}", "ja": "{Y}年{M}月{D}日({W})", "zh-tw": "{Y}年{M}月{D}日 週{W}"}[lang]
+    ds = f'<span class="dl-date" data-fmt="{fmt}" data-wd="{wd_all}">{ds}</span>'
     return (f'<div class="dateline"><span>{ds} · <span id="seoul-now" data-label="{hu["seoul"]}" '
-            f'data-phases="{"|".join(hu["phases"])}">{hu["seoul"]}</span></span><span>{count}</span></div>')
+            f'data-phases="{"|".join(hu["phases"])}">{hu["seoul"]}</span></span>'
+            f'<span class="dl-count" data-tpl="{html.escape(hu["count"])}" data-g="{c.get("guides", 0)}" data-ends="{ends}">{count}</span></div>')
 
 
 SKY = """<svg class="sky" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMax slice" aria-hidden="true">

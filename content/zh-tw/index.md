@@ -5,13 +5,7 @@ home: yes
 updated: 2026-11-27
 ---
 <section class="front">
-<article class="lead">
-<span class="kicker">今天的判斷</span>
-<h2>這週人在首爾?先看百貨公司冬季特賣,週日就結束</h2>
-<p class="first">網購黑五會延續到 12 月初,但新世界、樂天、現代百貨的冬季定期特賣 11 月 29 日(週日)同時結束。冬季外套這種要試穿的東西,先去百貨公司。</p>
-<p>新世界、樂天最高 5 折,現代是首賣價最高 4 折。記得帶護照,有退稅服務的櫃位還能再退稅。</p>
-<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">來源:ZDNet Korea,2026-11-10</a> · <a href="/zh-tw/deals/">看全部特賣</a></p>
-</article>
+{{headline}}
 
 <div class="front-side">
 

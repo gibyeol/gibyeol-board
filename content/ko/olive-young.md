@@ -10,7 +10,7 @@ disclosure: yes
 
 <figure class="tr-hero acc-hero"><img src="/static/photo/olive-young-1.webp" alt="밤에 찍은 올리브영 매장 입구, Olive Young Health and Beauty Store 간판" width="780" height="500"><figcaption><b>올리브영</b>, 한국에서 가장 큰 헬스·뷰티 체인이에요. 이 간판이 보이면 이 페이지 순서대로 하면 돼요.<span class="tr-credit">사진: Pkccccj, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">위키미디어 공용</a> (밝기 자동 보정). 어느 지점인지는 사진 설명에 없어요.</span></figcaption></figure>
 
-<ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>실물 여권<small>세금 환급 대상이면 계산대에서 세금 빠짐</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>₩15,000 이상<small>영수증 한 장, 한 매장</small></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><span>봉투는 유료<small>종이봉투 100원(명동 타운 기준)</small></span></li><li><i class="ic ic-calendar-check" aria-hidden="true"></i><span>다음 세일: 12월 첫 주<small>날짜 발표 전, 나오면 할인 상황판에</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>실물 여권<small>세금 환급 대상이면 계산대에서 세금 빠짐</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>₩15,000 이상<small>영수증 한 장, 한 매장</small></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><span>봉투는 유료<small>종이봉투 100원(명동 타운 기준)</small></span></li><li><i class="ic ic-calendar-check" aria-hidden="true"></i><span>다음 세일: 11/29(일)~12/5(토) 무렵 예상<small>공식 발표 전, 최근 세 번의 날짜로 본 예상</small></span></li></ul>
 
 <aside class="tr-note"><i class="ic ic-user-check" aria-hidden="true"></i><span><b>세금 환급(택스리펀드) 대상</b>은 한국에 6개월 미만 머무는 외국인 방문객, 그리고 해외에 2년 넘게 살면서 3개월 이하로 방문한 한국 국민이에요(비짓서울·비짓코리아). 이 페이지에서 "대상"은 이 사람들을 말해요. 자세히: <a href="/ko/tax-refund/#나도-대상일까">나도 대상일까?</a></span></aside>
 
@@ -110,7 +110,7 @@ disclosure: yes
 
 {{fig:olive-young-1|올리브영의 1년: 큰 세일 네 번, 매달 작은 행사 한 번}}
 
-<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>올영세일: 여기에 맞추세요</b><span>1년에 네 번, 3·6·9·12월에 약 7일간. 1년 중 할인 폭이 가장 넓어요. 매장과 온라인 모두. 2026년: 3월 1~7일, 5월 31일~6월 6일, 8월 30일~9월 5일. 12월 세일은 12월 첫째 주이고, 올리브영이 발표하는 대로 <a href="/ko/deals/">할인 상황판</a>에 확정 날짜를 올릴게요.</span></li><li><i class="ic ic-tag" aria-hidden="true"></i><b>올영데이(올리브 데이): 겹치면 좋은 정도</b><span>매달 25~27일. 추가 할인 쿠폰은 올리브영 회원(올리브 멤버스) 계정으로 나와요. 회원 가입은 한국에 살고 본인 이름의 한국 연락처가 있어야 해요.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>올영세일: 여기에 맞추세요</b><span>1년에 네 번, 3·6·9·12월에 약 7일간. 1년 중 할인 폭이 가장 넓어요. 매장과 온라인 모두. 2026년: 3월 1~7일, 5월 31일~6월 6일, 8월 30일~9월 5일. 12월 세일은 아직 공식 발표 전이라 날짜는 예상이에요: 11/29(일)~12/5(토) 무렵. 근거: 최근 세 번(<a href="https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/" rel="noopener" target="_blank">2025년 12월 11/30~12/6</a>, 2026년 6월 5/31~6/6, 9월 8/30~9/5, 모두 CJ뉴스룸)이 일요일에 시작해 7일 동안 열렸어요. 발표되면 <a href="/ko/deals/">할인 상황판</a>에 확정 날짜를 올릴게요.</span></li><li><i class="ic ic-tag" aria-hidden="true"></i><b>올영데이(올리브 데이): 겹치면 좋은 정도</b><span>매달 25~27일. 추가 할인 쿠폰은 올리브영 회원(올리브 멤버스) 계정으로 나와요. 회원 가입은 한국에 살고 본인 이름의 한국 연락처가 있어야 해요.</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>기다림도 즐거움이에요. 세일 주간을 달력에 적고, 가기 전에 살 것 세 개만 적어 두세요.</span></aside>
 
@@ -129,7 +129,7 @@ disclosure: yes
 <li><img src="/static/photo/oy-pick-sheet-mask.webp" alt="납작한 파우치에 든 시트 마스크 한 장" loading="lazy" width="780" height="585"><b><i class="ic ic-package" aria-hidden="true"></i>시트 마스크</b><span class="t">싸고, 납작하고, 한 번에 한 장. 이렇게 납작한 파우치 하나에 한 장씩 들어 있어요. 예시이고 추천이 아니에요.</span><span class="tr-credit">사진: 김인겸, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:PX%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (밝기 자동 보정)</span></li>
 </ul>
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>12월에 간다면</b><span>12월 세일은 그해 많이 팔린 상품을 뽑는 '올리브영 어워즈'와 함께 열려요. 수상 상품이 대용량, 1+1, 사은품을 붙인 한정 상품으로 나와서 같은 돈에 더 많이 들어 있는 경우가 많아요.</span></li><li><i class="ic ic-user-x" aria-hidden="true"></i><b>이 목록이 필요 없는 사람</b><span>이미 쓰는 루틴이 있다면 세일 때 리필만 사세요.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>12월에 간다면</b><span>작년(2025년) 12월 세일은 그해 많이 팔린 상품을 뽑는 '올리브영 어워즈'와 함께 열렸고, 수상 상품이 대용량, 1+1, 사은품을 붙인 한정 상품으로 나와 같은 돈에 더 많이 들어 있는 경우가 많았어요(<a href="https://cjnews.cj.net/모두가-사랑한-제품을-모두가-사랑할-혜택으로-cj/" rel="noopener" target="_blank">CJ뉴스룸 2025-11-28</a>). 올해도 같을 거라고 예상하지만 공식 발표 전이에요.</span></li><li><i class="ic ic-user-x" aria-hidden="true"></i><b>이 목록이 필요 없는 사람</b><span>이미 쓰는 루틴이 있다면 세일 때 리필만 사세요.</span></li></ul>
 
 뺀 것: 유행하는 상품과 랭킹. 랭킹은 잘 팔리는 걸 알려 줄 뿐, 내게 맞는 걸 알려 주진 않아요.
 
@@ -153,7 +153,7 @@ disclosure: yes
 
 | 상황 | 이렇게 | 이유 |
 |---|---|---|
-| 일정이 3·6·9·12월 첫 주와 겹칠 때 | 올영세일 기간에 사요 | 1년 중 할인 폭이 가장 넓어요. 매장과 온라인 모두 |
+| 일정이 올영세일 기간(3·6·9·12월, 약 7일)과 겹칠 때 | 올영세일 기간에 사요 | 1년 중 할인 폭이 가장 넓어요. 매장과 온라인 모두 |
 | 그 밖의 주 | 대상이라면 여권 들고 그냥 사요 | 영수증 한 장 15,000원 이상 1,000,000원 미만이면 계산대에서 세금이 빠져요 |
 | K-뷰티가 처음 | 처음 살 것 세 가지부터 | 선크림, 토너 패드, 시트 마스크: 싸고, 챙기기 쉽고, 다 쓰기 쉬워요 |
 | 이미 집에 돌아왔을 때 | 올리브영 글로벌, 미국이면 올리브영 US | 2026년 5월 29일부터 글로벌몰은 미국 고객을 받지 않아요 |

@@ -10,7 +10,7 @@ disclosure: yes
 
 <figure class="tr-hero acc-hero"><img src="/static/photo/olive-young-1.webp" alt="夜のオリーブヤング店舗の入口、Olive Young Health and Beauty Storeの看板" width="780" height="500"><figcaption><b>オリーブヤング</b>、韓国最大のヘルス&ビューティーチェーンです。この看板が見えたら、このページの順番どおりに。<span class="tr-credit">写真:Pkccccj、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(明るさ自動補正)。どの支店かは写真の説明にありません。</span></figcaption></figure>
 
-<ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>パスポートの実物<small>対象者ならレジで税金分が引かれる</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>15,000ウォン以上<small>レシート1枚、1店舗</small></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><span>袋は有料<small>紙袋100ウォン(明洞タウン)</small></span></li><li><i class="ic ic-calendar-check" aria-hidden="true"></i><span>次のセール:12月第1週<small>日程は未発表。出たらセール情報に</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>パスポートの実物<small>対象者ならレジで税金分が引かれる</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>15,000ウォン以上<small>レシート1枚、1店舗</small></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><span>袋は有料<small>紙袋100ウォン(明洞タウン)</small></span></li><li><i class="ic ic-calendar-check" aria-hidden="true"></i><span>次のセール:11/29(日)〜12/5(土)ごろの予想<small>公式発表前。直近3回の日程からの予想</small></span></li></ul>
 
 <aside class="tr-note"><i class="ic ic-user-check" aria-hidden="true"></i><span><b>税金の還付(タックスリファンド)の対象</b>は、韓国滞在6か月未満の外国人旅行者と、海外に2年を超えて住み、3か月以下の滞在で訪れた韓国籍の人です(Visit Seoul・VISITKOREA)。このページの「対象者」はこの人たちのこと。詳しく:<a href="/ja/tax-refund/#自分は対象">自分は対象?</a></span></aside>
 
@@ -110,7 +110,7 @@ disclosure: yes
 
 {{fig:olive-young-1|オリーブヤングの1年:大きなセールが4回、毎月の小さなイベントが1回}}
 
-<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>オリーブヤングセール:これに合わせる</b><span>年4回、3・6・9・12月に約7日間。1年で最も割引の幅が広く、店舗とオンラインの両方。2026年は3月1〜7日、5月31日〜6月6日、8月30日〜9月5日に開催。12月は第1週で、公式発表が出たら<a href="/ja/deals/">セール情報</a>に確定日を載せます。</span></li><li><i class="ic ic-tag" aria-hidden="true"></i><b>オリーブヤングデー(オリーブデー):重なればうれしい程度</b><span>毎月25〜27日。追加クーポンはオリーブヤング会員(オリーブメンバーズ)のアカウントに出ます。会員登録には韓国に住んでいて、本人名義の韓国の連絡先が必要です。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>オリーブヤングセール:これに合わせる</b><span>年4回、3・6・9・12月に約7日間。1年で最も割引の幅が広く、店舗とオンラインの両方。2026年は3月1〜7日、5月31日〜6月6日、8月30日〜9月5日に開催。12月はまだ公式発表前なので日程は予想です:11/29(日)〜12/5(土)ごろ。根拠:直近3回(<a href="https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/" rel="noopener" target="_blank">2025年12月 11/30〜12/6</a>、2026年6月 5/31〜6/6、9月 8/30〜9/5、いずれもCJニュースルーム)はどれも日曜に始まり7日間。発表されたら<a href="/ja/deals/">セール情報</a>に確定日を載せます。</span></li><li><i class="ic ic-tag" aria-hidden="true"></i><b>オリーブヤングデー(オリーブデー):重なればうれしい程度</b><span>毎月25〜27日。追加クーポンはオリーブヤング会員(オリーブメンバーズ)のアカウントに出ます。会員登録には韓国に住んでいて、本人名義の韓国の連絡先が必要です。</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>待つ時間も楽しみのうち。セール週をカレンダーに書き込み、出発前に買うものを3つだけメモしておきましょう。</span></aside>
 
@@ -129,7 +129,7 @@ disclosure: yes
 <li><img src="/static/photo/oy-pick-sheet-mask.webp" alt="薄い袋に入ったシートマスク1枚" loading="lazy" width="780" height="585"><b><i class="ic ic-package" aria-hidden="true"></i>シートマスク</b><span class="t">手頃で薄く、1回1枚。このような薄い袋に1枚ずつ入っています。例であり、おすすめではありません。</span><span class="tr-credit">写真:김인겸(Kim In-gyeom)、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:PX%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(明るさ自動補正)</span></li>
 </ul>
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>12月に行くなら</b><span>12月のセールは、その年によく売れた商品を選ぶ「オリーブヤングアワード」と一緒に開かれます。受賞品が大容量・1+1・おまけ付きの限定品で出るので、同じ金額で多く入っていることが多いです。</span></li><li><i class="ic ic-user-x" aria-hidden="true"></i><b>このリストが要らない人</b><span>使い慣れたものがあるなら、セールで詰め替え・買い足しを。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>12月に行くなら</b><span>昨年(2025年)の12月のセールは、その年によく売れた商品を選ぶ「オリーブヤングアワード」と一緒に開かれ、受賞品が大容量・1+1・おまけ付きの限定品で出たので、同じ金額で多く入っていることが多くありました(<a href="https://cjnews.cj.net/모두가-사랑한-제품을-모두가-사랑할-혜택으로-cj/" rel="noopener" target="_blank">CJニュースルーム 2025-11-28</a>)。今年も同じと予想しますが、公式発表前です。</span></li><li><i class="ic ic-user-x" aria-hidden="true"></i><b>このリストが要らない人</b><span>使い慣れたものがあるなら、セールで詰め替え・買い足しを。</span></li></ul>
 
 省いたもの:話題の商品とランキング。ランキングは売れているものを教えてくれても、自分に合うものは教えてくれません。
 
@@ -153,7 +153,7 @@ disclosure: yes
 
 | こんなとき | こうする | 理由 |
 |---|---|---|
-| 旅行が3・6・9・12月の第1週と重なる | オリーブヤングセール中に買う | 1年で最も割引の幅が広い。店舗とオンラインの両方 |
+| 旅行がオリーブヤングセール期間(3・6・9・12月、約7日間)と重なる | オリーブヤングセール中に買う | 1年で最も割引の幅が広い。店舗とオンラインの両方 |
 | それ以外の週 | 対象者ならパスポートを持ってそのまま買う | 1レシート15,000ウォン以上1,000,000ウォン未満ならレジで税金分が引かれる |
 | 韓国コスメが初めて | 最初の3つから | 日焼け止め、トナーパッド、シートマスク:手頃で、持ち帰りやすく、使い切りやすい |
 | もう帰国した | オリーブヤンググローバル、米国ならOlive Young US | 2026年5月29日からグローバルは米国の顧客に対応しない |
