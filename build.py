@@ -755,6 +755,9 @@ def build():
     train = ["GPTBot", "CCBot", "Google-Extended", "anthropic-ai", "ClaudeBot", "Bytespider", "Applebot-Extended", "meta-externalagent", "cohere-training-data-crawler", "Diffbot", "omgili"]
     blocked = "".join(f"User-agent: {b}\nDisallow: /\n\n" for b in train)
     (DIST / "robots.txt").write_text(f"{blocked}User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n", encoding="utf-8")
+    if SITE.get("indexnow_key"):  # IndexNow ownership file at the site root (indexnow.org/documentation, Option 1; tools/indexnow.py)
+        k = SITE["indexnow_key"]
+        (DIST / f"{k}.txt").write_text(k, encoding="utf-8")
     (DIST / "404.html").write_text(page("en", {"title": "Page not found", "noindex": "yes"},
         '<p>This page does not exist. Start from the <a href="/">Nadri home page</a>.</p>', "/404", {}),
         encoding="utf-8")
