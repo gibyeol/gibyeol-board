@@ -260,10 +260,20 @@ The Express timetable changed on 23 October 2026, when daily Express runs rose f
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>After you buy: collecting the T-money card</summary>
 
-1. **Where and when:** go to the pickup point in the table above (Terminal 1: bookstore by Exit 7 on 1F, 07:00–21:00; Terminal 2: Counter F on 3F, 06:30–21:30). If your booking confirmation (voucher) names a different place, follow the confirmation. Klook says the confirmation arrives within a few minutes of paying, and to contact Klook customer support if it does not.
+1. **Where and when:** go to the pickup point in the table above (Terminal 1: bookstore by Exit 7 on 1F, 07:00–21:00; Terminal 2: Counter F on 3F, 06:30–21:30). If your booking confirmation (voucher) names a different place, follow the confirmation. Klook says the confirmation arrives within a few minutes of paying, and to contact Klook customer support if it does not. Directions are in the maps below.
 2. **What to show:** the confirmation also says what to show. Save it on your phone before you fly.
 3. **Balance:** tap the card on a gate reader and the balance appears. If it is short, top up with cash at the machine, as in step 3 above.
 4. **If you can't collect it:** contact the seller (Klook) with your booking number, and meanwhile buy a card at the B1 convenience store or the T-money machine in the airport railroad station.
+
+**Getting to the pickup point**
+
+{{fig:airport-tmoney-t1|Terminal 1, 1F: from arrival exits A–F to the K BOOKS bookstore by Millennium Hall in the middle. Redrawn by Nadri from the positions in Incheon Airport's shop and facility listings (checked 28 November 2026)}}
+
+- **Terminal 1:** when you come out of an arrival exit (one of A–F) after baggage claim, you are on 1F. Look for the door numbers (1–14) and walk towards door 7, which is the middle. If you came out of arrival exit A or B, the numbers go up as you walk there; from E or F, they go down. The bookstore is K BOOKS near Millennium Hall in the middle (Incheon Airport shop listing: "1F general area, centre, near Millennium Hall", 07:00–21:00). Nearby: the Medical Korea information centre by door 7 (09:00–21:00) and the FLOPORT florist by door 8. Klook only says "Book Store, 1st Floor, Exit 7, 07:00–21:00" (no shop name). Incheon Airport's shop listing has only one bookstore on T1 1F, with the same hours, so it appears to be the same shop.
+
+{{fig:airport-tmoney-t2|Terminal 2, 3F: Travel Mate & Book Store, opposite check-in counter F. Redrawn by Nadri from Incheon Airport's 3F plan and shop and facility listings (checked 28 November 2026)}}
+
+- **Terminal 2:** arrivals are on 1F; the pickup point is on 3F (departures, the check-in floor). We could not confirm from official sources where the nearest lift or escalator from 1F to 3F is. If you are unsure, ask at a 1F information desk (by door 4 or door 9, open 24 hours) for "3F, counter F". On 3F the check-in counters A–N are in a long row with a gap in the middle: A–F on one side, G–N on the other. F is the counter on the A–F side closest to the middle. Travel Mate & Book Store is opposite counter F (Incheon Airport shop listing). Nearby: a tax refund kiosk by counter F and an information desk (24 hours) by counter D.
 
 </details>
 
