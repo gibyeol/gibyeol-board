@@ -605,7 +605,7 @@ def page(lang, meta, body_html, path, alternates):
     return f"""<!doctype html>
 <html lang="{L['hreflang']}">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-site-verification" content="Fcgkwj8PVnjHdH-Db1owHvGOBt33_rLyHxFxVR01VsE">
 <title>{html.escape(full_title)}</title>
 <meta name="description" content="{html.escape(desc)}">
 <link rel="canonical" href="{canonical}">{hreflang}
