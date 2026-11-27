@@ -18,7 +18,20 @@ window.NADRI_CONCEPTS = {
   flower: { ko: '꽃', en: 'flower', ja: '花', zh: '花', hanja: '花華英芳菊蘭梅蕙薇', latin: ['lily', 'rose'],
     names: [['Latin', 'Flora'], ['Greek', 'Anthea', 'Ἄνθεια'], ['Hawaiian', 'Pua'], ['Turkish', 'Çiçek'], ['Arabic', 'Zahra', 'زهراء'], ['English', 'Blossom'], ['Japanese', 'Hana', '花'], ['Chinese', 'Hua', '華']] },
   lotus: { ko: '연꽃', en: 'lotus', ja: '蓮', zh: '蓮', hanja: '蓮荷', latin: [],
-    names: [['Sanskrit / Hindi', 'Padma', 'पद्म'], ['Sanskrit / Hindi', 'Kamala', 'कमला'], ['Persian', 'Nilufar', 'نیلوفر'], ['Japanese', 'Ren', '蓮'], ['Chinese', 'Lian', '蓮']] },
+    names: [['Sanskrit / Hindi', 'Padma', 'पद्म'], ['Sanskrit / Hindi', 'Kamala', 'कमला'], ['Persian', 'Nilufar', 'نیلوفر'], ['Japanese', 'Ren', '蓮'], ['Chinese', 'Lian', '蓮'], ['Hindi', 'Nalini', 'नलिनी'], ['Vietnamese', 'Liên', '蓮'], ['Thai', 'Ubon']] },
+  /* 2026-11-28: concepts for common Japanese given names (明治安田 2025). Names and meanings read on Behind the Name 'meaning' searches
+     (behindthename.com/names/meaning/harbour, green, jasmine, silk), saved in wondu-archive raw-from-scratchpad/names-2026-11-28/btn/. */
+  /* Olivia: Behind the Name gives 'olive' (Latin oliva); the link to 'peace' was a symbol, not the name's meaning (review 2026-11-28). */
+  olive: { ko: '올리브', en: 'olive', ja: 'オリーブ', zh: '橄欖', hanja: '', latin: ['olivia'],
+    names: [['Latin / Spanish / Italian', 'Oliva'], ['English / French', 'Olive'], ['French', 'Olivier']] },
+  harbour: { ko: '항구', en: 'harbour', ja: '港(みなと)', zh: '港口', hanja: '湊港', latin: [],
+    names: [['Japanese', 'Minato', '湊・港'], ['Arabic', 'Bandar']] },
+  green: { ko: '초록', en: 'green', ja: '緑', zh: '綠', hanja: '翠緑碧青', latin: [],
+    names: [['Greek', 'Chloe'], ['Greek', 'Chloris'], ['Arabic', 'Khadra'], ['Albanian', 'Blerta'], ['Japanese', 'Midori', '緑'], ['Japanese', 'Sui', '翠'], ['Chinese', 'Qing', '青'], ['Vietnamese', 'Bích', '碧']] },
+  jasmine: { ko: '재스민', en: 'jasmine', ja: '茉莉(ジャスミン)', zh: '茉莉', hanja: '茉莉', latin: [],
+    names: [['Arabic', 'Yasmin'], ['English', 'Jasmine'], ['Turkish', 'Yasemin'], ['Spanish', 'Jazmín'], ['Italian', 'Gelsomina'], ['Armenian', 'Hasmik'], ['Tamil', 'Mallika'], ['Indonesian', 'Melati']] },
+  silk: { ko: '비단', en: 'silk', ja: '絹・紬', zh: '絲綢', hanja: '紬紗', latin: [],
+    names: [['Turkish', 'İpek'], ['Hindi', 'Reshma'], ['Japanese', 'Tsumugi', '紬']] },
   spring: { ko: '봄', en: 'spring', ja: '春', zh: '春', hanja: '春', latin: [],
     names: [['Persian / Turkish', 'Bahar'], ['Slavic', 'Vesna', 'Весна'], ['Japanese', 'Haru', '春'], ['Chinese', 'Chun', '春'], ['Korean', 'Bom', '봄']] },
   summer: { ko: '여름', en: 'summer', ja: '夏', zh: '夏', hanja: '夏昰', latin: [], names: [['English', 'Summer'], ['Japanese', 'Natsu', '夏'], ['Chinese', 'Xia', '夏']] },
@@ -31,7 +44,7 @@ window.NADRI_CONCEPTS = {
     names: [['Spanish', 'Sol'], ['Greek', 'Helios', 'Ἥλιος'], ['Sanskrit / Hindi', 'Surya', 'सूर्य'], ['Arabic', 'Shams', 'شمس'], ['Turkish', 'Güneş'], ['Japanese', 'Hinata', '陽向'], ['Chinese', 'Yang', '陽']] },
   dawn: { ko: '새벽', en: 'dawn', ja: '暁', zh: '曉', hanja: '曉晨', latin: [],
     names: [['Latin', 'Aurora'], ['English', 'Dawn'], ['Greek', 'Eos', 'Ἠώς'], ['Sanskrit / Hindi', 'Usha', 'उषा'], ['Arabic', 'Fajr', 'فجر'], ['Turkish', 'Şafak'], ['Chinese', 'Xiao', '曉']] },
-  peace: { ko: '평화', en: 'peace', ja: '平和', zh: '和平', hanja: '平和安康靜', latin: ['irene', 'olivia'], chain: 'peace',
+  peace: { ko: '평화', en: 'peace', ja: '平和', zh: '和平', hanja: '平和安康靜', latin: ['irene'], chain: 'peace',
     names: [['Greek', 'Irene', 'Ειρήνη'], ['Spanish', 'Paz'], ['Germanic', 'Frida'], ['Hebrew', 'Shalom', 'שָׁלוֹם'], ['Sanskrit / Hindi', 'Shanti', 'शान्ति'], ['Turkish', 'Barış'], ['Japanese', 'Kazu', '和'], ['Chinese', 'Ping', '平']] },
   joy: { ko: '기쁨', en: 'joy', ja: '喜び', zh: '喜悅', hanja: '喜怡欣樂楽熙', latin: ['joy', 'felix'],
     names: [['English', 'Joy'], ['Latin', 'Felicity'], ['Italian', 'Gioia'], ['Sanskrit / Hindi', 'Ananda', 'आनन्द'], ['Arabic', 'Farah', 'فرح'], ['Turkish', 'Sevinç'], ['Chinese', 'Xin', '欣']] },
@@ -143,4 +156,4 @@ window.NADRI_BORN = {
       ['🇷🇺', { ko: '러시아', en: 'Russia' }, 'Svetlana', 'Светлана', { ko: '\'빛\'에서 온 슬라브 이름.', en: 'A Slavic name from the word for light.' }, 85]
     ] }
 };
-window.NADRI_BORN_OF = { hanja: { '斗': 'dipper', '北': 'dipper', '辰': 'dipper', '星': 'star', '奎': 'star', '智': 'wisdom', '慧': 'wisdom', '叡': 'wisdom', '哲': 'wisdom', '賢': 'wisdom', '知': 'wisdom', '平': 'peace', '和': 'peace', '光': 'light', '明': 'light', '昭': 'light', '炫': 'light', '輝': 'light', '晟': 'light', '炯': 'light' }, latin: { sophia: 'wisdom', stella: 'star', irene: 'peace', olivia: 'peace' }, native: { '별': 'star', '한별': 'star', '슬기': 'wisdom', '빛나': 'light' } };
+window.NADRI_BORN_OF = { hanja: { '斗': 'dipper', '北': 'dipper', '辰': 'dipper', '星': 'star', '奎': 'star', '智': 'wisdom', '慧': 'wisdom', '叡': 'wisdom', '哲': 'wisdom', '賢': 'wisdom', '知': 'wisdom', '平': 'peace', '和': 'peace', '光': 'light', '明': 'light', '昭': 'light', '炫': 'light', '輝': 'light', '晟': 'light', '炯': 'light' }, latin: { sophia: 'wisdom', stella: 'star', irene: 'peace' }, native: { '별': 'star', '한별': 'star', '슬기': 'wisdom', '빛나': 'light' } };

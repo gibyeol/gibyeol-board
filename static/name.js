@@ -329,10 +329,10 @@
       var K = window.NADRI_KANJI || {}, KCH = window.NADRI_KANJI_CHAIN || {};
       r.chars = s.replace(/ /g, '').split('').map(function (c) {
         var n = c.charCodeAt(0), rd = n >= 0x4E00 && n <= 0x9FFF && window.HANJA_KO ? window.HANJA_KO[n - 0x4E00] : '';
-        return { c: c, read: rd === '·' ? '' : rd, ko: K[c] && K[c].ko, en: K[c] && K[c].en };
+        var k3c = L3(); return { c: c, read: rd === '·' ? '' : rd, ko: K[c] && K[c].ko, en: K[c] && ((k3c === 'ja' && K[c].ja) || (k3c === 'zh' && K[c].zh) || K[c].en) };
       });
       r.chars.forEach(function (x) { if (!r.chain && KCH[x.c]) r.chain = KCH[x.c]; });
-      var w0 = words[0], gv = words.length > 1 ? words.slice(1).join('') : (w0.length >= 2 && w0.length <= 4 ? w0.slice(w0.length === 4 ? 2 : 1) : w0);
+      var w0 = words[0], SN = '陳林黃張李王吳劉蔡楊許鄭謝郭洪曾邱廖賴周徐葉蘇莊呂江何蕭羅高潘簡朱鍾彭游詹胡施沈余趙盧梁顏柯孫魏翁戴范宋方鄧杜傅侯曹薛丁卓阮馬董温唐藍石蔣古紀姚連馮歐程湯黄田康姜白汪鄒尤巫鐘黎涂龔嚴韓袁金童陸夏柳凃邵錢伍倪溫于譚駱熊任甘秦顧毛章史官萬俞雷粘饒裴裵宣曺曹兪愼慎邊卞秋魯陶玉奉夫太景甄葛晉晋皮宗龐慶柴睦殷芮表片奇明琴具閔池嚴蔡元千孔玄咸廉呂都石薛馬吉延魏表王鞠魚龍南權申黃安宋柳全文孫白許河郭成車朱禹羅张刘陈杨黄赵吴周徐孙马朱胡郭何林罗郑梁谢宋唐许韩冯邓曹彭曾萧田董潘袁蔡蒋余于杜叶程魏苏吕丁任卢姚沈钟姜崔谭陆范汪廖石金贾韦夏付方邹熊白孟秦邱侯江尹薛闫段雷龙黎史陶贺毛郝顾龚邵万覃武钱戴严欧莫孔向常汤康易乔赖文', two = w0.length === 2 && (window.KO_SURNAME_HANJA ? Object.keys(window.KO_SURNAME_HANJA).map(function (k) { return window.KO_SURNAME_HANJA[k]; }).join('') : '').indexOf(w0[0]) < 0 && SN.indexOf(w0[0]) < 0, gv = words.length > 1 ? words.slice(1).join('') : (two ? w0 : (w0.length >= 2 && w0.length <= 4 ? w0.slice(w0.length === 4 ? 2 : 1) : w0));
       r.givenChars = gv.split('');
     }
     return r;
@@ -463,7 +463,7 @@
     if (bornL) { r.born = { id: bornL }; more = bornBlock(r.born) + more; }
     if (r.chars) {
       r.born = bornFromHanja(r.chars.map(function (x) { return x.c; }));
-      var KJ = window.NADRI_KANJI || {}, gl = function (c) { return KJ[c] ? (k3 === 'ko' ? KJ[c].ko : KJ[c].en) : ''; };
+      var KJ = window.NADRI_KANJI || {}, gl = function (c) { return KJ[c] ? (k3 === 'ko' ? (KJ[c].ko || KJ[c].en) : (k3 === 'ja' && KJ[c].ja) || (k3 === 'zh' && KJ[c].zh) || KJ[c].en) : ''; };
       r.whole = (r.givenChars || []).some(gl) ? wholeMeaning(r.givenChars, gl, r.born) : '';
       if (r.born) more = bornBlock(r.born, r.whole) + more;
     }
@@ -731,7 +731,7 @@
   function cfont(kind, size, weight) { return (weight ? weight + ' ' : '') + Math.round(size) + 'px ' + (kind === 'head' ? F_HEAD : kind === 'mono' ? F_MONO : F_TEXT); }
   function langLabel(l) {
     var k3 = L3();
-    return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · ');
+    return l.split(' / ').map(function (x) { var m = window.NADRI_LNAMES && window.NADRI_LNAMES[x]; var extra = { Latin: { ko: '라틴어', ja: 'ラテン語', zh: '拉丁文' }, Sanskrit: { ko: '산스크리트어', ja: 'サンスクリット語', zh: '梵文' }, Hindi: { ko: '힌디어', ja: 'ヒンディー語', zh: '印地文' }, Welsh: { ko: '웨일스어', ja: 'ウェールズ語', zh: '威爾斯文' }, Japanese: { ko: '일본어', ja: '日本語', zh: '日文' }, Chinese: { ko: '중국어', ja: '中国語', zh: '中文' }, Korean: { ko: '한국어', ja: '韓国語', zh: '韓文' }, Slavic: { ko: '슬라브어', ja: 'スラブ語', zh: '斯拉夫語' }, English: { ko: '영어', ja: '英語', zh: '英文' }, Germanic: { ko: '게르만어', ja: 'ゲルマン語', zh: '日耳曼語' }, Vietnamese: { ko: '베트남어', ja: 'ベトナム語', zh: '越南文' }, Thai: { ko: '태국어', ja: 'タイ語', zh: '泰文' }, Tamil: { ko: '타밀어', ja: 'タミル語', zh: '泰米爾文' } }[x]; return (m && m[k3]) || (extra && extra[k3]) || x; }).join(' · ');
   }
 
   /* what goes on the card: every result section the page shows for this name (owner [7eb4ec94#2341]), each cut to its representative

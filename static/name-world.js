@@ -18,6 +18,8 @@ window.NADRI_REGIONS = {
   IT: ['🇮🇹', { ko: '이탈리아', en: 'Italy', ja: 'イタリア', zh: '義大利' }],
   VA: ['🇻🇦', { ko: '바티칸', en: 'Vatican City', ja: 'バチカン', zh: '梵蒂岡' }],
   GR: ['🇬🇷', { ko: '그리스', en: 'Greece', ja: 'ギリシャ', zh: '希臘' }],
+  IR: ['🇮🇷', { ko: '이란', en: 'Iran', ja: 'イラン', zh: '伊朗' }],
+  IL: ['🇮🇱', { ko: '이스라엘', en: 'Israel', ja: 'イスラエル', zh: '以色列' }],
   TR: ['🇹🇷', { ko: '튀르키예', en: 'Türkiye', ja: 'トルコ', zh: '土耳其' }],
   UA: ['🇺🇦', { ko: '우크라이나', en: 'Ukraine', ja: 'ウクライナ', zh: '烏克蘭' }],
   RU: ['🇷🇺', { ko: '러시아', en: 'Russia', ja: 'ロシア', zh: '俄羅斯' }],
@@ -457,10 +459,121 @@ window.NADRI_REGIONS = {
         ja: 'チリの首都サンティアゴは1541年2月12日、「サンティアゴ・デル・ヌエボ・エストレモ」として創設され、聖ヤコブにちなんで名付けられました。',
         zh: '智利首都聖地牙哥在 1541 年 2 月 12 日以「新極地聖地牙哥」之名建立,名字來自聖雅各。' },
       { r: 'KR', chain: 'santiago' }
+    ],
+    /* 2026-11-28: concepts for common Japanese names (湊 harbour, 翠 green). Pages read 2026-11-28, saved in wondu-archive raw-from-scratchpad/names-2026-11-28/world/. */
+    harbour: [
+      { r: 'JP', n: 'Minato', nn: '港', g: { ko: '도쿄 미나토구(港区)', en: 'Minato City, Tokyo', ja: '東京都港区', zh: '東京都港區' }, c: 'h', d: '2026-11-28',
+        s: [['Wikipedia: Minato, Tokyo', 'https://en.wikipedia.org/wiki/Minato,_Tokyo']],
+        ko: '도쿄의 특별구 미나토구(港区)는 이름에 항구(港, 미나토)를 그대로 써요. 일본어에서 보통명사 미나토는 항구라는 뜻이에요.',
+        en: 'Minato (港区) is a special ward of Tokyo. As a common noun, minato means harbor.',
+        ja: '東京の特別区・港区。普通名詞の「みなと」は港という意味です。',
+        zh: '東京的特別區「港區」(Minato)。日文普通名詞「みなと」就是港口的意思。' },
+      { r: 'IR', n: 'Bandar', nn: 'بندر', g: { ko: '이란 반다르아바스', en: 'Bandar Abbas, Iran', ja: 'イランのバンダレ・アッバース', zh: '伊朗阿巴斯港' }, c: 'h', d: '2026-11-28',
+        s: [['Wikipedia: Bandar Abbas', 'https://en.wikipedia.org/wiki/Bandar_Abbas'], ['Behind the Name: Bandar (meaning search)', 'https://www.behindthename.com/names/meaning/harbour']],
+        ko: '이란 남쪽 페르시아만의 항구 도시 반다르아바스는 아바스 대제의 이름에 반다르(항구)를 붙인 이름으로, \'아바스의 항구\'라는 뜻이에요.',
+        en: 'Bandar Abbas, a port city on Iran\'s Persian Gulf coast, takes its name from Abbas the Great paired with bandar, "port": "Port of Abbas".',
+        ja: 'イラン南部、ペルシャ湾の港町バンダレ・アッバースは、アッバース大帝の名に「バンダル(港)」を付けた名前で、「アッバースの港」という意味です。',
+        zh: '伊朗南部波斯灣的港口城市阿巴斯港,名字是阿拔斯大帝加上 bandar(港口),意思是「阿拔斯的港口」。' },
+      { r: 'KR', g: { ko: '부산항', en: 'Port of Busan', ja: '釜山港', zh: '釜山港' }, c: 'h', d: '2026-11-28', link: '/ktx-busan/',
+        s: [['Wikipedia: Port of Busan', 'https://en.wikipedia.org/wiki/Port_of_Busan']],
+        ko: '부산항은 한국에서 가장 크고 바쁜 항구예요. 2022년 한국 컨테이너 물동량의 4분의 3 넘게를 처리했어요.',
+        en: 'The port of Busan is the largest and busiest port in South Korea, and handled over three-quarters of Korea\'s container shipping in 2022.',
+        ja: '釜山港は韓国で最も大きく、最も忙しい港。2022年には韓国のコンテナ輸送の4分の3以上を扱いました。',
+        zh: '釜山港是韓國最大、最繁忙的港口,2022 年處理了韓國四分之三以上的貨櫃運輸。' }
+    ],
+    green: [
+      { r: 'JP', n: 'Midori', nn: '緑', g: { ko: '일본 미도리노히(5월 4일)', en: 'Greenery Day, May 4', ja: 'みどりの日(5月4日)', zh: '日本綠之日(5月4日)' }, c: 'h', d: '2026-11-28',
+        s: [['Wikipedia: Greenery Day', 'https://en.wikipedia.org/wiki/Greenery_Day']],
+        ko: '일본은 5월 4일을 \'미도리노히(みどりの日, 초록의 날)\'라는 공휴일로 정해, 자연과 가까이하고 그 은혜에 감사하는 날로 삼아요.',
+        en: 'Japan keeps May 4 as Greenery Day (みどりの日, Midori no Hi), a public holiday to commune with nature and be thankful for its blessings.',
+        ja: '日本では5月4日が祝日「みどりの日」。自然に親しみ、その恵みに感謝する日です。',
+        zh: '日本把 5 月 4 日定為國定假日「綠之日」(みどりの日),是親近自然、感謝自然恩惠的日子。' },
+      { r: 'GR', n: 'Chloe', nn: 'Χλόη', g: { ko: '여신 데메테르의 별칭', en: 'an epithet of Demeter', ja: '女神デメテルの別名', zh: '女神狄蜜特的稱號' }, c: 'legend', d: '2026-11-28',
+        s: [['Behind the Name: Chloe', 'https://www.behindthename.com/name/chloe']],
+        ko: 'Chloe는 그리스어로 \'초록 새싹\', 봄에 돋는 새 풀을 뜻해요. 그리스 신화에서 여신 데메테르의 별칭이기도 했어요.',
+        en: 'Chloe means "green shoot" in Greek, the new plant growth of spring. It was an epithet of the Greek goddess Demeter.',
+        ja: 'Chloeはギリシャ語で「緑の新芽」、春に出る新しい草のこと。ギリシャ神話では女神デメテルの別名でもありました。',
+        zh: 'Chloe 在希臘文是「綠芽」,指春天新長的植物。在希臘神話裡也是女神狄蜜特的稱號。' },
+      { r: 'KR', g: { ko: '보성 녹차밭', en: 'Boseong green tea fields', ja: '宝城の緑茶畑', zh: '寶城綠茶園' }, c: 'h', d: '2026-11-28',
+        s: [['Wikipedia: Boseong County', 'https://en.wikipedia.org/wiki/Boseong_County']],
+        ko: '한국 보성군은 녹차 잎으로 유명해요.',
+        en: 'Boseong County in South Korea is famous for its green tea leaves.',
+        ja: '韓国の宝城(ポソン)郡は緑茶の葉で有名です。',
+        zh: '韓國寶城郡以綠茶葉聞名。' }
+    ],
+    /* 2026-11-28: grace (恩), beauty (妍), brave (豪), olive (Olivia) for the Taiwan and US name cards. Behind the Name name pages and Wikipedia read 2026-11-28. */
+    grace: [
+      { r: 'GB', n: 'Grace', g: { ko: '청교도가 만든 미덕 이름', en: 'a Puritan virtue name', ja: 'ピューリタンが作った美徳の名前', zh: '清教徒創造的美德名字' }, c: 'h', d: '2026-11-28',
+        s: [['Behind the Name: Grace', 'https://www.behindthename.com/name/grace']],
+        ko: 'Grace는 영어 단어 grace(라틴어 gratia)에서 온 이름으로, 17세기 청교도가 만든 \'미덕 이름\' 가운데 하나예요.',
+        en: 'Grace comes from the English word grace (Latin gratia). It was one of the virtue names created in the 17th century by the Puritans.',
+        ja: 'Graceは英語のgrace(ラテン語gratia)から。17世紀にピューリタンが作った「美徳の名前」のひとつです。',
+        zh: 'Grace 來自英文 grace(拉丁文 gratia),是 17 世紀清教徒創造的「美德名字」之一。' },
+      { r: 'JP', n: 'Megumi', nn: '恵', g: { ko: '恵(메구미) = 은혜·혜택', en: '恵, favour, benefit', ja: '恵(めぐみ)', zh: '恵=恩惠' }, c: 'h', d: '2026-11-28',
+        s: [['Behind the Name: Megumi', 'https://www.behindthename.com/name/megumi']],
+        ko: 'Megumi는 일본어 恵(메구미, \'은혜·혜택\')로 쓰는 이름이에요.',
+        en: 'Megumi is written with Japanese 恵 (megumi), meaning "favour, benefit".',
+        ja: 'Megumiは「恵(めぐみ)」と書く名前。',
+        zh: 'Megumi 寫作日文的「恵」(めぐみ),意思是恩惠、好處。' },
+      { r: 'IL', n: 'Hannah', nn: 'חַנָּה', g: { ko: '구약의 사무엘 어머니', en: 'mother of Samuel, Old Testament', ja: '旧約聖書・サムエルの母', zh: '舊約聖經・撒母耳的母親' }, c: 'legend', d: '2026-11-28',
+        s: [['Behind the Name: Hannah', 'https://www.behindthename.com/name/hannah']],
+        ko: 'Hannah는 히브리어로 \'은총·은혜\'라는 뜻이에요. 구약에서 오래 아이가 없다가 축복을 받고 사무엘을 낳은 여인의 이름이에요.',
+        en: 'Hannah is from Hebrew, meaning "favour, grace". In the Old Testament, she remained childless until a blessing, then bore Samuel.',
+        ja: 'Hannahはヘブライ語で「恵み・好意」。旧約聖書では、長く子どもがいなかったあと祝福を受けてサムエルを産んだ女性の名前です。',
+        zh: 'Hannah 在希伯來文是「恩寵、恩惠」。舊約裡,她長久沒有孩子,蒙祝福後生下撒母耳。' }
+    ],
+    beauty: [
+      { r: 'GR', n: 'Kallisto', nn: 'Καλλιστώ', g: { ko: '큰곰자리가 된 님프', en: 'the nymph who became the Great Bear', ja: '大熊座になったニンフ', zh: '變成大熊座的寧芙' }, c: 'legend', d: '2026-11-28',
+        s: [['Behind the Name: Kallisto', 'https://www.behindthename.com/name/kallisto'], ['Wikipedia: Callisto (mythology)', 'https://en.wikipedia.org/wiki/Callisto_(mythology)']],
+        ko: 'Kallisto는 그리스어로 \'가장 아름다운\'이라는 뜻이에요. 그리스 신화에서 제우스의 사랑을 받은 님프로, 헤라가 곰으로 바꾼 뒤 큰곰자리가 됐다고 해요.',
+        en: 'Kallisto means "most beautiful" in Greek. In Greek myth she was a nymph loved by Zeus, changed into a she-bear by Hera, who became the Great Bear constellation.',
+        ja: 'Kallistoはギリシャ語で「最も美しい」。ギリシャ神話ではゼウスに愛されたニンフで、ヘラに熊に変えられ、大熊座になったと伝わります。',
+        zh: 'Kallisto 在希臘文是「最美麗的」。希臘神話裡她是被宙斯所愛的寧芙,被赫拉變成母熊,後來成了大熊座。' },
+      { r: 'IT', n: 'Bella', g: { ko: '이탈리아어 bella = 아름다운', en: 'Italian bella, beautiful', ja: 'イタリア語 bella=美しい', zh: '義大利文 bella=美麗' }, c: 'h', d: '2026-11-28',
+        s: [['Behind the Name: Bella', 'https://www.behindthename.com/name/bella']],
+        ko: 'Bella는 Isabella 같은 이름의 줄임말이면서, 이탈리아어 bella(\'아름다운\')와도 이어진 이름이에요.',
+        en: 'Bella is a short form of Isabella and similar names, and is also associated with the Italian word bella, "beautiful".',
+        ja: 'BellaはIsabellaなどの短縮形で、イタリア語のbella(美しい)とも結びついた名前です。',
+        zh: 'Bella 是 Isabella 等名字的簡稱,也和義大利文 bella(美麗)連在一起。' }
+    ],
+    brave: [
+      { r: 'JP', n: 'Isamu', nn: '勇', g: { ko: '勇(이사무) = 용감한', en: '勇, brave', ja: '勇(いさむ)', zh: '勇=勇敢' }, c: 'h', d: '2026-11-28',
+        s: [['Behind the Name: Isamu', 'https://www.behindthename.com/name/isamu']],
+        ko: 'Isamu는 일본어 勇(이사무, \'용감한\')로 쓰는 이름이에요.',
+        en: 'Isamu is written with Japanese 勇 (isamu), meaning "brave".',
+        ja: 'Isamuは「勇(いさむ)」と書く名前。',
+        zh: 'Isamu 寫作日文的「勇」(いさむ),意思是勇敢。' },
+      { r: 'TW', n: 'Yong', nn: '勇', g: { ko: '중국어로 읽은 勇', en: '勇 read in Chinese', ja: '中国語読みの「勇」', zh: '勇的華語讀音' }, c: 'h', d: '2026-11-28',
+        s: [['Behind the Name: Isamu (other readings)', 'https://www.behindthename.com/name/isamu']],
+        ko: '같은 글자 勇을 중국어로 읽으면 Yong(융), 한국어로 읽어도 Yong(용)이에요.',
+        en: 'The same character 勇 is read Yong in Chinese, and Yong in Korean too.',
+        ja: '同じ「勇」は中国語でYong、韓国語でもYong(ヨン)と読みます。',
+        zh: '同一個「勇」字,華語讀 Yong,韓語也讀 Yong(용)。' }
+    ],
+    olive: [
+      { r: 'GR', g: { ko: '고대 올림픽 우승자의 올리브관', en: 'olive wreath of the ancient Olympics', ja: '古代オリンピックのオリーブ冠', zh: '古代奧運的橄欖冠' }, c: 'h', d: '2026-11-28',
+        s: [['Wikipedia: Olive wreath', 'https://en.wikipedia.org/wiki/Olive_wreath']],
+        ko: '고대 올림픽의 우승 상은 올림피아에서 자란 야생 올리브나무 가지로 엮은 올리브관(코티노스)이었어요.',
+        en: 'The prize for winners at the ancient Olympic Games was the olive wreath (kotinos), woven from a wild olive tree that grew at Olympia.',
+        ja: '古代オリンピックの優勝者に贈られたのは、オリンピアの野生オリーブの枝で編んだオリーブ冠(コティノス)でした。',
+        zh: '古代奧運冠軍的獎品是橄欖冠(kotinos),用奧林匹亞的野生橄欖樹枝編成。' },
+      { r: 'IT', n: 'Oliva', g: { ko: '브레시아의 2세기 성인', en: 'a 2nd-century saint of Brescia', ja: 'ブレシアの2世紀の聖人', zh: '布雷西亞的 2 世紀聖人' }, c: 'm', d: '2026-11-28',
+        s: [['Behind the Name: names meaning olive', 'https://www.behindthename.com/names/meaning/olive']],
+        ko: 'Oliva는 라틴어로 \'올리브\'라는 뜻의 이름이고, 이탈리아 브레시아 출신 2세기 성인의 이름이었어요.',
+        en: 'Oliva is a Latin name meaning "olive". It was the name of a 2nd-century saint from Brescia.',
+        ja: 'Olivaはラテン語で「オリーブ」という名前。イタリア・ブレシアの2世紀の聖人の名前でした。',
+        zh: 'Oliva 是拉丁文「橄欖」的名字,也是義大利布雷西亞 2 世紀聖人的名字。' },
+      { r: 'FR', n: 'Olivier', g: { ko: '프랑스어로 올리브나무', en: 'French for olive tree', ja: 'フランス語でオリーブの木', zh: '法文的橄欖樹' }, c: 'h', d: '2026-11-28',
+        s: [['Behind the Name: names meaning olive', 'https://www.behindthename.com/names/meaning/olive']],
+        ko: 'Olivier는 Oliver의 프랑스어형이면서, 프랑스어 단어로 \'올리브나무\'예요.',
+        en: 'Olivier is the French form of Oliver, and also the French word for "olive tree".',
+        ja: 'OlivierはOliverのフランス語形で、フランス語で「オリーブの木」という単語でもあります。',
+        zh: 'Olivier 是 Oliver 的法文形式,也是法文的「橄欖樹」。' }
+
     ]
   };
   /* Korean readings of the names (shown in the Korean interface, loanword rules) */
-  var NK = { Estrella: '에스트레야', Stella: '스텔라', Hoshiko: '호시코', Xing: '싱', 'Hōkūleʻa': '호쿠레아', Najma: '나지마', Bilge: '빌게', Sophia: '소피아', Hui: '후이', Chie: '지에', Kazu: '가즈', Paz: '파스', Ping: '핑', Irene: '이레네', Lucia: '루시아', Jyoti: '조티', Svetlana: '스베틀라나', Nur: '누르', Guang: '광', Hikari: '히카리', Yu: '위', Lulu: '룰루', Tama: '다마', Margarita: '마르가리타', Moana: '모아나', Hai: '하이', Flora: '플로라', Hana: '하나', Pua: '푸아', William: '윌리엄', Alexander: '알렉산드로스', Mamoru: '마모루', Raja: '라자', Basil: '바실', Wang: '왕', Neve: '네베', Yuki: '유키', Xue: '쉐', Yue: '웨', Qamar: '카마르', Luna: '루나', Surya: '수리아', Hinata: '히나타', Helios: '헬리오스', Santiago: '산티아고', Jacques: '자크' };
-  Object.keys(W).forEach(function (k) { W[k].forEach(function (e) { if (!e.chain) e.d = D; if (e.n && NK[e.n]) e.nk = NK[e.n]; }); });
+  var NK = { Kallisto: '칼리스토', Grace: '그레이스', Megumi: '메구미', Hannah: '한나', Bella: '벨라', Isamu: '이사무', Yong: '융', Oliva: '올리바', Olivier: '올리비에', Minato: '미나토', Bandar: '반다르', Midori: '미도리', Chloe: '클로이', Estrella: '에스트레야', Stella: '스텔라', Hoshiko: '호시코', Xing: '싱', 'Hōkūleʻa': '호쿠레아', Najma: '나지마', Bilge: '빌게', Sophia: '소피아', Hui: '후이', Chie: '지에', Kazu: '가즈', Paz: '파스', Ping: '핑', Irene: '이레네', Lucia: '루시아', Jyoti: '조티', Svetlana: '스베틀라나', Nur: '누르', Guang: '광', Hikari: '히카리', Yu: '위', Lulu: '룰루', Tama: '다마', Margarita: '마르가리타', Moana: '모아나', Hai: '하이', Flora: '플로라', Hana: '하나', Pua: '푸아', William: '윌리엄', Alexander: '알렉산드로스', Mamoru: '마모루', Raja: '라자', Basil: '바실', Wang: '왕', Neve: '네베', Yuki: '유키', Xue: '쉐', Yue: '웨', Qamar: '카마르', Luna: '루나', Surya: '수리아', Hinata: '히나타', Helios: '헬리오스', Santiago: '산티아고', Jacques: '자크' };
+  Object.keys(W).forEach(function (k) { W[k].forEach(function (e) { if (!e.chain && !e.d) e.d = D; if (e.n && NK[e.n]) e.nk = NK[e.n]; }); });
   window.NADRI_WORLD = W;
 })();
