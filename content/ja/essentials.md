@@ -155,7 +155,7 @@ iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯�
 
 {{fig:airport-to-seoul-1|空港ガイドより:第1ターミナルからソウルへの4つの方法}}
 
-{{aff:klook_airport|空港鉄道AREXのチケットを予約する}}
+{{aff:klook_airport|KlookでAREX直通列車のバウチャーを購入(乗る前に乗車券に交換)}}
 
 ## 出典
 

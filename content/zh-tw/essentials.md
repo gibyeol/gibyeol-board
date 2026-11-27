@@ -155,7 +155,7 @@ iPhone 可用海外 Mastercard、Amex、銀聯為 Mobile T-money App 儲值(Visa
 
 {{fig:airport-to-seoul-1|出自機場指南:從第 1 航廈進首爾的四種方式}}
 
-{{aff:klook_airport|預訂機場鐵路(AREX)車票}}
+{{aff:klook_airport|在 Klook 買機場鐵路直達車憑證(搭車前要換成車票)}}
 
 ## 資料來源
 

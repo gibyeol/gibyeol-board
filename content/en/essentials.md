@@ -155,7 +155,7 @@ The airport railroad (AREX) and limousine buses run to central Seoul, and both t
 
 {{fig:airport-to-seoul-1|From our airport guide: four ways into Seoul from Terminal 1}}
 
-{{aff:klook_airport|Book an AREX airport train ticket}}
+{{aff:klook_airport|Buy an AREX Express voucher on Klook (exchange it for a ticket before boarding)}}
 
 ## Sources
 
