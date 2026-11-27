@@ -4,7 +4,7 @@ description: 值得配合行程的韓國特賣,依截止日期排序,附公開�
 lede: 依截止日期排序,每一項都附來源,公開折扣碼一鍵複製。只有預計日期的會標示「預計」。
 section: deals
 updated: 2026-11-24
-approved: 2026-11-26
+approved: 2026-11-28
 disclosure: yes
 modified: 2026-11-28
 ---

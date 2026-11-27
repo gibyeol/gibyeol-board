@@ -4,7 +4,7 @@ description: 블프부터 연말까지 한국 세일 일정, 공개 할인 코�
 lede: 세일 날짜 나열은 어디에나 있음. 여기는 마감 임박 순으로 정렬하고, 공개된 코드는 바로 복사하게, 모든 항목에 출처를 달았어요. 예상 날짜는 '예정'으로 따로 표시해요.
 section: deals
 updated: 2026-11-24
-approved: 2026-11-26
+approved: 2026-11-28
 disclosure: yes
 modified: 2026-11-28
 ---

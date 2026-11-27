@@ -4,7 +4,7 @@ description: 旅行の日程を合わせたい韓国のセールを、終了が�
 lede: 終了が近い順に並べ、すべての項目に出典をつけました。公開コードはワンタップでコピー。日程が予想のものは「予定」と表示しています。
 section: deals
 updated: 2026-11-24
-approved: 2026-11-26
+approved: 2026-11-28
 disclosure: yes
 modified: 2026-11-28
 ---
