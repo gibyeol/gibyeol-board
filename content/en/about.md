@@ -24,7 +24,7 @@ A good day out, for everyone in it. The traveller should spend less time decodin
 
 So we hold ourselves to a few things: say what we think, not just what exists; show where every fact came from and when we checked it; and leave out what doesn't help you, even when it would earn us money.
 
-Korea comes first: shopping, travel essentials, food and culture. Other destinations will follow, each with its own editors.
+Korea comes first: shopping, travel essentials, food and culture. We will announce other destinations when they are decided.
 
 ## Build it with us
 
