@@ -7,7 +7,7 @@ updated: 2026-11-27
 
 Nadriのリンクの一部はアフィリエイトリンクです。リンク経由で購入・予約されると、ショップや予約サイトがNadriに紹介料を支払います。お支払いいただく価格は変わりません。アフィリエイトリンクを含むページにはページ上部でその旨を表示し、アフィリエイトのボタンにはラベルを付けています。
 
-いまサイトにあるアフィリエイトのボタンは、すべて旅行アフィリエイトネットワークTravelpayouts経由のKlookとYesimのリンクです。アフィリエイトの表示があるページでは、クッキーの案内で「同意する」を選んだ場合に限り、TravelpayoutsとSkimlinksのスクリプトが一部の旅行・ショップのリンクをアフィリエイトリンクに変えることがあります([プライバシー](/ja/privacy/))。申請して審査待ちのもの:Travelpayouts経由のAgoda・Trip.com、Awin経由のYesStyle、Rakuten Advertising経由のOlive Young。承認されたらここに追加します。
+いまサイトにあるアフィリエイトのボタンは、すべて旅行アフィリエイトネットワークTravelpayouts経由のKlookとYesimのリンクです。アフィリエイトの表示があるページでは、クッキーの案内で「同意する」を選んだ場合に限り、TravelpayoutsとSkimlinksのスクリプトが一部の旅行・ショップのリンクをアフィリエイトリンクに変えることがあります([プライバシー](/ja/privacy/))。申請して審査待ちのもの:Travelpayouts経由のAgoda・Trip.com、Awin経由のYesStyle、Rakuten Advertising経由のOlive Young。承認されたらここに追加します。承認済みでまだリンクしていないもの:Awin経由のStylevana(2026年11月27日時点)。
 
 ## 紹介料によって変わらないこと
 

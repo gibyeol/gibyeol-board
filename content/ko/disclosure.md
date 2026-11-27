@@ -7,7 +7,7 @@ updated: 2026-11-27
 
 Nadri의 일부 링크는 제휴 링크예요. 제휴 링크를 통해 구매하거나 예약하면 해당 쇼핑몰이나 예약 사이트가 Nadri에 수수료를 지급해요. 여러분이 내는 가격은 같아요. 제휴 링크가 있는 페이지는 맨 위에 그 사실을 밝히고, 제휴 버튼에는 표시를 붙여요.
 
-지금 페이지에 있는 제휴 버튼은 모두 여행 제휴 네트워크 Travelpayouts를 통한 클룩(Klook)과 Yesim 링크예요. 제휴 안내가 있는 페이지에서는 쿠키 안내에서 '동의'를 누른 경우에만 Travelpayouts와 Skimlinks의 스크립트가 일부 여행·상점 링크를 제휴 링크로 바꿀 수 있어요([개인정보 처리방침](/ko/privacy/)). 신청하고 심사를 기다리는 곳: Travelpayouts를 통한 아고다(Agoda)·트립닷컴(Trip.com), Awin을 통한 예스스타일(YesStyle), Rakuten Advertising을 통한 올리브영(Olive Young). 승인되면 이 목록에 더해요.
+지금 페이지에 있는 제휴 버튼은 모두 여행 제휴 네트워크 Travelpayouts를 통한 클룩(Klook)과 Yesim 링크예요. 제휴 안내가 있는 페이지에서는 쿠키 안내에서 '동의'를 누른 경우에만 Travelpayouts와 Skimlinks의 스크립트가 일부 여행·상점 링크를 제휴 링크로 바꿀 수 있어요([개인정보 처리방침](/ko/privacy/)). 신청하고 심사를 기다리는 곳: Travelpayouts를 통한 아고다(Agoda)·트립닷컴(Trip.com), Awin을 통한 예스스타일(YesStyle), Rakuten Advertising을 통한 올리브영(Olive Young). 승인되면 이 목록에 더해요. 승인됐지만 아직 링크를 걸지 않은 곳: Awin을 통한 스타일바나(Stylevana, 2026년 11월 27일 기준).
 
 ## 수수료가 바꾸지 않는 것
 

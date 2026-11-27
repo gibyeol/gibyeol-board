@@ -160,3 +160,4 @@
 4. `disclosure: yes` 유지/변경 — 위 5번 사실 참고
 5. 분류 — 가이드 아래 어디에 둘지
 6. Stylevana·iHerb 신청 여부 — 신청했다면 affiliate-signup-list.md에 기록(원두 화면) 후 24줄에 다시 넣음
+   → 2026-11-27 변경: Stylevana는 Awin 승인(원두 메일 화면) → 24줄 반영. iHerb 신청 여부는 아직 기록 없음.

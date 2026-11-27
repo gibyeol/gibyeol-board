@@ -89,7 +89,7 @@ abroad-esim, airport-to-seoul, essentials, seoul-subway(버튼 있음) + conveni
 | Airalo (Impact) | 거절 "Low reach (traffic, followers)" | signup-list 62행 |
 | Impact 마켓플레이스 | 브랜드 검색 안 됨, 보류 | signup-list 63행 |
 | FlexOffers | 계정·트래픽 소스 거절 | signup-list 67~68행 |
-| Awin 계정 | 열림(퍼블리셔 3168168). YesStyle 가입 요청, Stylevana 요청 여부 미확인, iHerb 신청 기록 없음. 정산 정보 페이지 오류 | signup-list 39~43행 |
+| Awin 계정 | 열림(퍼블리셔 3168168). YesStyle 가입 요청, Stylevana **승인**(2026-11-27 원두 메일 화면, 링크 아직 없음), iHerb 신청 기록 없음. 정산 정보 페이지 오류 | signup-list 39~43행 |
 | Rakuten → Olive Young US·APAC&EMEA | 신청 완료, 승인 대기 | signup-list 52행 |
 | Skimlinks | 신청, 코드 12쪽에 설치. 승인 여부 기록 없음 | signup-list 45행 |
 | Sovrn | 계정만 두고 링크 안 닮(원두 [7eb4ec94#2069]) | signup-list 57행 |
