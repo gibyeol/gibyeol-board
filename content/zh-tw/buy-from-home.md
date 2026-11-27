@@ -6,22 +6,22 @@ updated: 2026-11-27
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>一眼比較</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>算總金額</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>收件時的稅</a></div>
 
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>廣告說明。</b> 這一頁只有「Stylevana(聯盟連結)」這一個按鈕是聯盟行銷連結(Awin)。透過這個按鈕下的訂單,Nadri 可能拿到佣金,你支付的價格不變。包括出處裡的 Stylevana 網址在內,其他連結都是一般連結。Olive Young(Rakuten)已申請。詳情:<a href="/zh-tw/disclosure/">Nadri 的收入來源</a>。</span></aside>
+
 <h2 id="compare">一眼比較</h2>
 
 | 商店 | 寄送地區 | 免運 | 配送時間 | 退貨 |
 |---|---|---|---|---|
-| [Olive Young Global](https://global.oliveyoung.com) | 150 個國家 ⑩ | US$60 以上(2026 年 5 月公司公告) ① | 主要國家最快 5 天,依地區不同 ⑩ | 請看 Olive Young Global 的說明 |
+| [Olive Young Global](https://global.oliveyoung.com) | 150 個國家 ⑩ | US$60 以上(2026 年 5 月公司公告) ①。你那裡的門檻請在結帳畫面確認 | 主要國家最快 5 天,依地區不同 ⑩ | 請看 Olive Young Global 的說明 |
 | [Olive Young US](https://us.oliveyoung.com) | 美國(美國專屬商店) ① | US$35 以上 ① | 公告會縮短到原本 5~7 個工作天的一半左右 ① | 請看 Olive Young US 的說明 |
 | [iHerb](https://www.iherb.com/c/k-beauty) | 180 多個國家 ⑪ | 寄美國滿 US$25 以上(限時) ⑪ | 請看 iHerb 配送說明 | 收貨日起 30 天(iHerb 自有品牌 90 天) ⑫ |
-| Stylevana | 美國商店(en_US)寄到美國、新加坡、菲律賓、汶萊、南非、以色列。其他國家請從網站上方的國旗選你那裡的商店 ㉓ | 美國 US$35 以上(Premium Express)、新加坡 US$35、菲律賓 US$29、汶萊 US$58、南非 US$79、以色列 US$120 以上 ㉓ | 從香港倉庫寄出(備貨時間另計)。美國一般 8~15 個工作天、快遞 4~9 個工作天,新加坡 3~7、菲律賓 3~6、汶萊 7~12、南非 12~20、以色列 6~10 個工作天 ㉓ | 收貨後 14 天內申請,未使用、保持原包裝,寄回香港倉庫 ㉔。改變心意要自付退貨運費,退款是優惠碼 ㉔。樣品、贈品、出清品,以及皮膚過敏不良反應都不能退 ㉔。破損、少寄要在顯示「已送達」後 48 小時內,附訂單編號和箱子、商品照片申報。運送保險可選(訂單金額的 4%) ㉓ |
+| Stylevana | 美國商店(en_US)寄到美國、新加坡、菲律賓、汶萊、南非、以色列。其他國家請從網站上方的國旗選你那裡的商店 ㉓ | 美國 US$35 以上(Premium Express)、新加坡 US$35、菲律賓 US$29、汶萊 US$58、南非 US$79、以色列 US$120 以上 ㉓ | 從香港倉庫寄出(備貨時間另計)。美國一般 8~15 個工作天、快遞 4~9 個工作天,新加坡 3~7、菲律賓 3~6、汶萊 7~12、南非 12~20、以色列 6~10 個工作天 ㉓。寄美國的部分,網站說明可能延誤。特賣期間、假日會更久 ㉓ | 收貨後 14 天內申請,未使用、保持原包裝,寄回香港倉庫 ㉔。改變心意要自付退貨運費,退款是優惠碼 ㉔。核准後 7 個工作天內要寄出。當初付的運費不退。瑕疵、寄錯會換新品(缺貨就給優惠碼) ㉔。樣品、贈品、出清品,以及皮膚過敏不良反應都不能退 ㉔。破損、少寄要在顯示「已送達」後 48 小時內,附訂單編號和箱子、商品照片申報。運送保險可選(訂單金額的 4%) ㉓ |
 
-<aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>表格裡沒有數字的欄位,請到該商店的說明確認。</b> 下單前,在商店的配送說明(Shipping)和退貨說明(Returns)找到你住的地方。結帳時會不會一起收關稅,也在那裡確認。編號 ①~㉒ 是頁面最下方的出處(2026 年 11 月 26~27 日確認)。</span></aside>
-
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>廣告說明。</b> 這一頁的 Stylevana 連結是聯盟行銷連結(Awin)。透過這個連結下的訂單,Nadri 可能拿到佣金,你支付的價格不變。其他商店連結都是一般連結。Olive Young(Rakuten)已申請。詳情:<a href="/zh-tw/disclosure/">Nadri 的收入來源</a>。</span></aside>
+<aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>表格裡沒有數字的欄位,請到該商店的說明確認。</b> 下單前,在商店的配送說明(Shipping)和退貨說明(Returns)找到你住的地方。結帳時會不會一起收關稅,也在那裡確認。編號 ①~㉔ 是頁面最下方的出處(2026 年 11 月 26~27 日確認)。</span></aside>
 
 <h2 id="shops">各家商店詳細</h2>
 
-<ul class="tr-choose"><li><i class="ic ic-globe" aria-hidden="true"></i><b>Olive Young Global:住在美國以外</b><ul class="tr-kv"><li><b>寄送地區</b> 150 個國家的顧客可以在 Global 商城購買 ⑩</li><li><b>免運</b> 2026 年 5 月公司公告時是 US$60 以上 ①。你那裡的門檻請在結帳畫面確認</li><li><b>配送時間</b> 主要國家最快 5 天,依地區不同 ⑩</li><li><b>定期特賣</b> 季節特賣一年 4 次(3、6、9、12 月) ②。今年 3 月有依連線地區發放的購物車優惠券(30% 以上)和 App 專屬 20% 限量優惠券 ②。特賣日期會放在<a href="/zh-tw/deals/">折扣看板</a></li></ul></li><li><i class="ic ic-truck" aria-hidden="true"></i><b>Olive Young US:住在美國</b><ul class="tr-kv"><li><b>上線日</b> 2026 年 5 月 29 日,美國專屬網路商店 ①</li><li><b>免運</b> US$35 以上 ①</li><li><b>出貨地</b> 美國加州布魯明頓(Bloomington)物流中心 ①</li><li><b>配送時間</b> 公司公告會縮短到透過 Global 商城時(5~7 個工作天)的一半左右 ①</li></ul></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>iHerb:有獨立的韓國美妝區</b><ul class="tr-kv"><li><b>賣什麼</b> 選單裡有 K-Beauty(韓國美妝)分類:洗面乳、面膜、化妝水、保濕、精華、防曬、護髮 ㉒</li><li><b>寄送地區</b> 180 多個國家。從美國、韓國、香港、沙烏地阿拉伯的物流中心出貨 ⑪</li><li><b>免運</b> 寄美國滿 US$25 以上(頁面寫著「Limited Time Only」,限時) ⑪。其他地方請在配送說明頁的「My Destination」(我的收件地)選你住的地方確認 ⑪</li><li><b>退貨期限</b> 收貨日起 30 天,iHerb 自有品牌 90 天 ⑫</li><li><b>從海外退貨</b> 不提供退貨標籤,運費自付 ⑫</li><li><b>退款時間</b> 美國 7~10 個工作天,美國以外最長 35 天 ⑫</li></ul></li><li><i class="ic ic-store" aria-hidden="true"></i><b>在其他商店(例如 Stylevana)買</b><span>到那家商店的配送說明(Shipping)和退貨說明(Returns)找你住的地方,自己填上表格的四欄(寄送地區、免運、配送時間、退貨)。收件時的稅,下面的表格一樣適用。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-globe" aria-hidden="true"></i><b>Olive Young Global:住在美國以外</b><ul class="tr-kv"><li><b>寄送地區</b> 150 個國家的顧客可以在 Global 商城購買 ⑩</li><li><b>免運</b> 2026 年 5 月公司公告時是 US$60 以上 ①。你那裡的門檻請在結帳畫面確認</li><li><b>配送時間</b> 主要國家最快 5 天,依地區不同 ⑩</li><li><b>定期特賣</b> 季節特賣一年 4 次(3、6、9、12 月) ②。今年 3 月有依連線地區發放的購物車優惠券(30% 以上)和 App 專屬 20% 限量優惠券 ②。特賣日期會放在<a href="/zh-tw/deals/">折扣看板</a></li></ul></li><li><i class="ic ic-truck" aria-hidden="true"></i><b>Olive Young US:住在美國</b><ul class="tr-kv"><li><b>上線日</b> 公告美國專屬網路商店於 2026 年 5 月 29 日上線(2026 年 5 月 21 日公告) ①</li><li><b>免運</b> US$35 以上 ①</li><li><b>出貨地</b> 美國加州布魯明頓(Bloomington)物流中心 ①</li><li><b>配送時間</b> 公司公告會縮短到透過 Global 商城時(5~7 個工作天)的一半左右 ①</li></ul></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>iHerb:有獨立的韓國美妝區</b><ul class="tr-kv"><li><b>賣什麼</b> 選單裡有 K-Beauty(韓國美妝)分類:洗面乳、面膜、化妝水、保濕、精華、防曬、護髮 ㉒</li><li><b>寄送地區</b> 180 多個國家。從美國、韓國、香港、沙烏地阿拉伯的物流中心出貨 ⑪</li><li><b>免運</b> 寄美國滿 US$25 以上(頁面寫著「Limited Time Only」,限時) ⑪。其他地方請在配送說明頁的「My Destination」(我的收件地)選你住的地方確認 ⑪</li><li><b>退貨期限</b> 收貨日起 30 天,iHerb 自有品牌 90 天 ⑫</li><li><b>從海外退貨</b> 不提供退貨標籤,運費自付 ⑫</li><li><b>退款時間</b> 美國 7~10 個工作天,美國以外最長 35 天 ⑫</li></ul></li><li><i class="ic ic-store" aria-hidden="true"></i><b>在表格以外的商店買</b><span>到那家商店的配送說明(Shipping)和退貨說明(Returns)找你住的地方,自己填上表格的四欄(寄送地區、免運、配送時間、退貨)。收件時的稅,下面的表格一樣適用。</span></li></ul>
 
 <details class="tr-more"><summary><i class="ic ic-receipt" aria-hidden="true"></i>iHerb 退貨怎麼申請(3 步驟)</summary>
 
@@ -50,7 +50,7 @@ updated: 2026-11-27
 |---|---|---|
 | 台灣(快遞) | 同一批快遞完稅價格 NT$2,000 以下,免關稅、營業稅、貨物稅 ⑳ | 半年內用這個免稅超過 6 次就不適用 ⑳ |
 | 香港 | 海關課稅的物品只有酒類、菸草、部分碳氫油、甲醇四類 ⑲ | 化妝品、衣服不在這四類清單裡 ⑲ |
-| 新加坡 | 每件 S$400 以下:賣家有 GST(商品及服務稅)登記,結帳時已含 GST,到貨不用再繳 ⑰ | 向未登記賣家買的包裹超過 S$400,到貨時繳 GST ⑰ |
+| 新加坡 | 每件 S$400 以下:賣家有 GST(商品及服務稅)登記,結帳時已含 GST,到貨不用再繳 ⑰ | 向未登記賣家買的包裹,商品+運費+保險(CIF)超過 S$400,到貨時繳 GST ⑰ |
 | 日本 | 課稅價格 1 萬日圓以下免關稅、消費稅。個人自用以付款金額 × 0.6 計算 ⑤⑥ | 針織衣物、皮革包、皮鞋即使 1 萬日圓以下也要關稅 ⑤。同一化妝品最多 24 個 ⑨ |
 | 歐盟 | 免稅取消了。2026 年 7 月 1 日起 €150 以下的包裹也按商品種類每種收關稅 €3 ㉑ | 這 €3 是關稅。加值稅(VAT)請看你所在國家的海關說明 |
 | 英國 | £135 以下免關稅。增值稅由賣家加在結帳金額裡 ⑬ | 超過 £135,收件時繳增值稅 + 關稅 ⑬ |
@@ -77,7 +77,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>新加坡詳細</summary>
 
-<ul class="tr-choose"><li><i class="ic ic-tag" aria-hidden="true"></i><b>「S$400」只算商品價格</b><span>不算運費、保險費、稅。商品 S$395 + 運費 S$25 = 算 S$395 ⑰。</span></li><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>有 GST 登記的賣家:結帳時收一次</b><span>每件 S$400 以下、走空運或郵寄,結帳金額已含 GST,到貨不會再收。買好幾件也是每件分開看,合計超過 S$400 也一樣 ⑰。</span></li><li><i class="ic ic-package" aria-hidden="true"></i><b>未登記的賣家:整個包裹超過 S$400 時到貨繳</b><span>以商品 + 保險 + 運費(CIF)的合計來看 ⑰。</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>怎麼繳</b><span>郵寄:S$400 以下直接投遞。超過的話新加坡郵政(SingPost)App 會通知,14 天內在 App、SAM 機台或郵局繳 ⑱。快遞:繳法請問負責的快遞公司,可能另收通關服務費 ⑱。</span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><b>GST 被收了兩次</b><span>賣家的資料太晚傳到時可能再被收一次。請看新加坡海關網站的「Refund of Taxes」(稅款退還) ⑰。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-tag" aria-hidden="true"></i><b>向有 GST 登記的賣家買:「S$400」只算商品價格</b><span>不算運費、保險費、稅,每件分開看。商品 S$395 + 運費 S$25 = 算 S$395 ⑰。未登記的賣家要加上運費和保險(見下方)。</span></li><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>有 GST 登記的賣家:結帳時收一次</b><span>每件 S$400 以下、走空運或郵寄,結帳金額已含 GST,到貨不會再收。買好幾件也是每件分開看,合計超過 S$400 也一樣 ⑰。</span></li><li><i class="ic ic-package" aria-hidden="true"></i><b>未登記的賣家:整個包裹超過 S$400 時到貨繳</b><span>以商品 + 保險 + 運費(CIF)的合計來看 ⑰。</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>怎麼繳</b><span>郵寄:S$400 以下直接投遞。超過的話新加坡郵政(SingPost)App 會通知,14 天內在 App、SAM 機台或郵局繳 ⑱。快遞:繳法請問負責的快遞公司,可能另收通關服務費 ⑱。</span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><b>GST 被收了兩次</b><span>賣家的資料太晚傳到時可能再被收一次。請看新加坡海關網站的「Refund of Taxes」(稅款退還) ⑰。</span></li></ul>
 
 [新加坡海關:向海外購物(英文)](https://www.customs.gov.sg/personal-shipment/buying-from-overseas/)
 
@@ -93,7 +93,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>歐盟詳細</summary>
 
-<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>2026 年 7 月 1 日起:€150 以下也收關稅 €3</b><span>從歐盟以外買的 €150 以下包裹,關稅免除到 2026 年 6 月 30 日為止。改成每種商品(稅則分類)收 €3。這個方式到 2028 年 7 月 1 日,之後改回依商品種類的一般關稅 ㉑。</span></li><li><i class="ic ic-list-checks" aria-hidden="true"></i><b>算種類,不算數量</b><span>歐盟舉的例子:T 恤 5 件 = €3(1 種),T 恤 1 件 + 手錶 1 支 = €6(2 種) ㉑。</span></li><li><i class="ic ic-hand-coins" aria-hidden="true"></i><b>誰付</b><span>申報的一方,也就是賣家或進口代理付。消費者自己付只限「非常少數的情況」 ㉑。</span></li><li><i class="ic ic-info" aria-hidden="true"></i><b>處理費</b><span>歐盟說會另外收處理費。2026 年 6 月公告時,金額和開始日期是「2026 年秋天決定」 ㉑。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>2026 年 7 月 1 日起:€150 以下也收關稅 €3</b><span>從歐盟以外買的 €150 以下包裹,關稅免除到 2026 年 6 月 30 日為止。改成每種商品(稅則分類)收 €3。這個方式到 2028 年 7 月 1 日,之後改回依商品種類的一般關稅 ㉑。</span></li><li><i class="ic ic-list-checks" aria-hidden="true"></i><b>算種類,不算數量</b><span>歐盟舉的例子:T 恤 5 件 = €3(1 種),T 恤 1 件 + 手錶 1 支 = €6(2 種) ㉑。</span></li><li><i class="ic ic-hand-coins" aria-hidden="true"></i><b>誰負責繳</b><span>繳關稅的責任在申報的一方,也就是賣家或進口代理。消費者自己申報、繳納只限「非常少數的情況」 ㉑。</span></li><li><i class="ic ic-info" aria-hidden="true"></i><b>處理費</b><span>歐盟說會另外收處理費。2026 年 6 月公告時,金額和開始日期是「2026 年秋天決定」 ㉑。</span></li></ul>
 
 [歐盟執委會:€3 關稅說明(英文)](https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en)
 

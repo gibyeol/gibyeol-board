@@ -6,22 +6,22 @@ updated: 2026-11-27
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>한눈에 비교</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>총액 계산</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>받을 때 세금</a></div>
 
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지에서 'Stylevana(제휴 링크)' 버튼 하나만 제휴 링크(Awin)예요. 이 버튼으로 산 주문에서 Nadri가 수수료를 받을 수 있고, 내는 금액은 같아요. 출처에 적은 Stylevana 주소를 포함해 다른 링크는 모두 일반 링크예요. 올리브영(Rakuten)에는 신청해 두었어요. 자세히: <a href="/ko/disclosure/">Nadri의 수익 구조</a>.</span></aside>
+
 <h2 id="compare">한눈에 비교</h2>
 
 | 쇼핑몰 | 보내는 곳 | 무료배송 | 배송 기간 | 반품 |
 |---|---|---|---|---|
-| [올리브영 글로벌](https://global.oliveyoung.com) | 150개 나라 ⑩ | US$60 이상(2026년 5월 회사 발표) ① | 주요 나라 빠르면 5일, 지역마다 달라요 ⑩ | 올리브영 글로벌 안내에서 확인 |
+| [올리브영 글로벌](https://global.oliveyoung.com) | 150개 나라 ⑩ | US$60 이상(2026년 5월 회사 발표) ①. 내 나라 기준은 결제 화면에서 확인 | 주요 나라 빠르면 5일, 지역마다 달라요 ⑩ | 올리브영 글로벌 안내에서 확인 |
 | [올리브영 US](https://us.oliveyoung.com) | 미국(미국 전용 몰) ① | US$35 이상 ① | 예전 5~7영업일의 절반쯤으로 줄인다고 발표 ① | 올리브영 US 안내에서 확인 |
 | [iHerb](https://www.iherb.com/c/k-beauty) | 180개 넘는 나라 ⑪ | 미국행 US$25 넘으면(기간 한정) ⑪ | iHerb 배송 안내에서 확인 | 받은 날부터 30일(iHerb 브랜드 90일) ⑫ |
-| Stylevana | 미국 스토어(en_US)는 미국·싱가포르·필리핀·브루나이·남아공·이스라엘. 다른 나라는 사이트 위쪽 국기에서 내 나라 스토어를 골라요 ㉓ | 미국 US$35 이상(프리미엄 익스프레스), 싱가포르 US$35, 필리핀 US$29, 브루나이 US$58, 남아공 US$79, 이스라엘 US$120 이상 ㉓ | 홍콩 창고에서 보내요(물건 준비 시간은 따로). 미국 일반 8~15영업일·익스프레스 4~9영업일, 싱가포르 3~7, 필리핀 3~6, 브루나이 7~12, 남아공 12~20, 이스라엘 6~10영업일 ㉓ | 받은 날부터 14일 안에 신청, 안 쓴 새 제품·원래 포장 그대로 홍콩 창고로 보내요 ㉔. 단순 변심은 반품 배송비를 내가 내고 환불은 쿠폰 코드로 받아요 ㉔. 샘플·사은품·클리어런스, 피부 트러블은 반품이 안 돼요 ㉔. 파손·누락은 '배송 완료' 표시 뒤 48시간 안에 주문번호와 상자·물건 사진으로 신고해요. 배송 보험은 선택(주문 금액의 4%) ㉓ |
+| Stylevana | 미국 스토어(en_US)는 미국·싱가포르·필리핀·브루나이·남아공·이스라엘. 다른 나라는 사이트 위쪽 국기에서 내 나라 스토어를 골라요 ㉓ | 미국 US$35 이상(프리미엄 익스프레스), 싱가포르 US$35, 필리핀 US$29, 브루나이 US$58, 남아공 US$79, 이스라엘 US$120 이상 ㉓ | 홍콩 창고에서 보내요(물건 준비 시간은 따로). 미국 일반 8~15영업일·익스프레스 4~9영업일, 싱가포르 3~7, 필리핀 3~6, 브루나이 7~12, 남아공 12~20, 이스라엘 6~10영업일 ㉓. 미국행은 '늦어질 수 있다'고 안내해요. 세일 기간·휴일엔 더 걸려요 ㉓ | 받은 날부터 14일 안에 신청, 안 쓴 새 제품·원래 포장 그대로 홍콩 창고로 보내요 ㉔. 단순 변심은 반품 배송비를 내가 내고 환불은 쿠폰 코드로 받아요 ㉔. 승인 뒤 7영업일 안에 보내야 해요. 처음 낸 배송비는 안 돌려줘요. 불량·오배송은 교환품(품절이면 쿠폰)이에요 ㉔. 샘플·사은품·클리어런스, 피부 트러블은 반품이 안 돼요 ㉔. 파손·누락은 '배송 완료' 표시 뒤 48시간 안에 주문번호와 상자·물건 사진으로 신고해요. 배송 보험은 선택(주문 금액의 4%) ㉓ |
 
-<aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>표에 숫자가 없는 칸은 그 쇼핑몰 안내에서 확인해요.</b> 주문 전에 쇼핑몰의 배송 안내(Shipping)와 반품 안내(Returns)에서 내 나라를 찾아요. 결제할 때 관세까지 같이 받는지도 거기서 봐요. 번호 ①~㉒는 맨 아래 출처예요(2026년 11월 26~27일 확인).</span></aside>
-
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지의 Stylevana 링크는 제휴 링크(Awin)예요. 이 링크로 산 주문에서 Nadri가 수수료를 받을 수 있고, 내는 금액은 같아요. 다른 쇼핑몰 링크는 일반 링크예요. 올리브영(Rakuten)에는 신청해 두었어요. 자세히: <a href="/ko/disclosure/">Nadri의 수익 구조</a>.</span></aside>
+<aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>표에 숫자가 없는 칸은 그 쇼핑몰 안내에서 확인해요.</b> 주문 전에 쇼핑몰의 배송 안내(Shipping)와 반품 안내(Returns)에서 내 나라를 찾아요. 결제할 때 관세까지 같이 받는지도 거기서 봐요. 번호 ①~㉔는 맨 아래 출처예요(2026년 11월 26~27일 확인).</span></aside>
 
 <h2 id="shops">쇼핑몰별로 자세히</h2>
 
-<ul class="tr-choose"><li><i class="ic ic-globe" aria-hidden="true"></i><b>올리브영 글로벌: 미국 밖에 산다면</b><ul class="tr-kv"><li><b>보내는 곳</b> 150개 나라 고객이 글로벌몰에서 살 수 있어요 ⑩</li><li><b>무료배송</b> 2026년 5월 회사 발표 때 US$60 이상 ①. 내 나라 기준은 결제 화면에서 확인해요</li><li><b>배송 기간</b> 주요 나라는 빠르면 5일, 지역마다 달라요 ⑩</li><li><b>정기 세일</b> 시즌세일, 1년 4번(3·6·9·12월) ②. 지난 3월엔 접속한 나라별 장바구니 쿠폰(30% 이상)과 앱 전용 20% 선착순 쿠폰이 있었어요 ②. 세일 날짜는 <a href="/ko/deals/">할인 상황판</a>에 올려요</li></ul></li><li><i class="ic ic-truck" aria-hidden="true"></i><b>올리브영 US: 미국에 산다면</b><ul class="tr-kv"><li><b>연 날</b> 2026년 5월 29일, 미국 전용 온라인몰 ①</li><li><b>무료배송</b> US$35 이상 ①</li><li><b>보내는 곳</b> 미국 캘리포니아주 블루밍턴 물류센터 ①</li><li><b>배송 기간</b> 글로벌몰로 받던 때(5~7영업일)의 절반쯤으로 줄인다고 발표했어요 ①</li></ul></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>iHerb: K-뷰티 코너가 따로 있는 곳</b><ul class="tr-kv"><li><b>파는 것</b> 메뉴에 K-뷰티 분류가 따로 있어요. 클렌저·마스크·토너·보습·세럼·선크림·헤어 ㉒</li><li><b>보내는 곳</b> 180개 넘는 나라. 미국·한국·홍콩·사우디아라비아 물류센터에서 보내요 ⑪</li><li><b>무료배송</b> 미국으로 보낼 때 US$25 넘으면(페이지에 '기간 한정'이라고 적혀 있어요) ⑪. 다른 나라는 배송 안내 페이지의 'My Destination'(내 배송지)에서 내 나라를 골라 확인해요 ⑪</li><li><b>반품 기한</b> 받은 날부터 30일, iHerb 자체 브랜드는 90일 ⑫</li><li><b>해외 반품</b> 반송 라벨을 주지 않아요. 보내는 비용은 내가 내요 ⑫</li><li><b>환불 받는 날</b> 미국은 7~10영업일, 미국 밖은 최대 35일 ⑫</li></ul></li><li><i class="ic ic-store" aria-hidden="true"></i><b>다른 쇼핑몰(예: Stylevana)에서 산다면</b><span>그 쇼핑몰의 배송 안내(Shipping)와 반품 안내(Returns)에서 내 나라를 찾아 위 표의 네 칸(보내는 곳·무료배송·배송 기간·반품)을 직접 채워 보세요. 받을 때 세금은 아래 표를 똑같이 쓰면 돼요.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-globe" aria-hidden="true"></i><b>올리브영 글로벌: 미국 밖에 산다면</b><ul class="tr-kv"><li><b>보내는 곳</b> 150개 나라 고객이 글로벌몰에서 살 수 있어요 ⑩</li><li><b>무료배송</b> 2026년 5월 회사 발표 때 US$60 이상 ①. 내 나라 기준은 결제 화면에서 확인해요</li><li><b>배송 기간</b> 주요 나라는 빠르면 5일, 지역마다 달라요 ⑩</li><li><b>정기 세일</b> 시즌세일, 1년 4번(3·6·9·12월) ②. 지난 3월엔 접속한 나라별 장바구니 쿠폰(30% 이상)과 앱 전용 20% 선착순 쿠폰이 있었어요 ②. 세일 날짜는 <a href="/ko/deals/">할인 상황판</a>에 올려요</li></ul></li><li><i class="ic ic-truck" aria-hidden="true"></i><b>올리브영 US: 미국에 산다면</b><ul class="tr-kv"><li><b>여는 날</b> 미국 전용 온라인몰을 2026년 5월 29일에 열기로 발표(2026년 5월 21일 발표) ①</li><li><b>무료배송</b> US$35 이상 ①</li><li><b>보내는 곳</b> 미국 캘리포니아주 블루밍턴 물류센터 ①</li><li><b>배송 기간</b> 글로벌몰로 받던 때(5~7영업일)의 절반쯤으로 줄인다고 발표했어요 ①</li></ul></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>iHerb: K-뷰티 코너가 따로 있는 곳</b><ul class="tr-kv"><li><b>파는 것</b> 메뉴에 K-뷰티 분류가 따로 있어요. 클렌저·마스크·토너·보습·세럼·선크림·헤어 ㉒</li><li><b>보내는 곳</b> 180개 넘는 나라. 미국·한국·홍콩·사우디아라비아 물류센터에서 보내요 ⑪</li><li><b>무료배송</b> 미국으로 보낼 때 US$25 넘으면(페이지에 '기간 한정'이라고 적혀 있어요) ⑪. 다른 나라는 배송 안내 페이지의 'My Destination'(내 배송지)에서 내 나라를 골라 확인해요 ⑪</li><li><b>반품 기한</b> 받은 날부터 30일, iHerb 자체 브랜드는 90일 ⑫</li><li><b>해외 반품</b> 반송 라벨을 주지 않아요. 보내는 비용은 내가 내요 ⑫</li><li><b>환불 받는 날</b> 미국은 7~10영업일, 미국 밖은 최대 35일 ⑫</li></ul></li><li><i class="ic ic-store" aria-hidden="true"></i><b>표에 없는 쇼핑몰에서 산다면</b><span>그 쇼핑몰의 배송 안내(Shipping)와 반품 안내(Returns)에서 내 나라를 찾아 위 표의 네 칸(보내는 곳·무료배송·배송 기간·반품)을 직접 채워 보세요. 받을 때 세금은 아래 표를 똑같이 쓰면 돼요.</span></li></ul>
 
 <details class="tr-more"><summary><i class="ic ic-receipt" aria-hidden="true"></i>iHerb 반품 신청하는 법(3단계)</summary>
 
@@ -53,7 +53,7 @@ updated: 2026-11-27
 | 영국 | £135 이하면 관세 없음. 부가세는 판매자가 결제 금액에 넣어요 ⑬ | £135 넘으면 받을 때 부가세 + 관세 ⑬ |
 | 캐나다 | 우편으로 받은 물건 CAN$20 이하면 관세·세금 없음 ⑭⑮ | 넘으면 전체 금액에 관세 + GST/HST(연방·통합 판매세) + PST(주 판매세) ⑮ |
 | 호주 | AUD1,000 이하면 국경에서 내는 돈은 보통 없음. 대신 판매자가 결제 때 GST(상품·서비스세)를 받을 수 있어요 ⑯ | 넘으면 수입 신고서 + 처리 수수료 + 관세·세금 ⑯ |
-| 싱가포르 | 한 물건 S$400 이하: 판매자가 GST 등록이면 결제 때 GST 포함, 도착 때 다시 안 내요 ⑰ | 미등록 판매자에게 산 소포가 S$400 넘으면 도착 때 GST ⑰ |
+| 싱가포르 | 한 물건 S$400 이하: 판매자가 GST 등록이면 결제 때 GST 포함, 도착 때 다시 안 내요 ⑰ | 미등록 판매자에게 산 소포가 물건+배송비+보험 합계(CIF) S$400 넘으면 도착 때 GST ⑰ |
 | 대만(택배) | 한 번에 들어온 택배 과세가격 NT$2,000 이하면 관세·영업세·화물세 면제 ⑳ | 반년에 이 면세를 6번 넘게 받으면 면세 안 돼요 ⑳ |
 | 홍콩 | 세관이 세금을 걷는 물건은 술·담배·일부 연료유·메틸알코올 네 가지 ⑲ | 화장품·옷은 이 네 가지 목록에 없어요 ⑲ |
 
@@ -69,7 +69,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>EU(유럽연합) 자세히</summary>
 
-<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>2026년 7월 1일부터: €150 이하도 관세 €3</b><span>EU 밖에서 산 €150 이하 소포에 붙던 관세 면제가 2026년 6월 30일로 끝났어요. 대신 물건 한 종류(품목 분류)마다 €3을 매겨요. 2028년 7월 1일까지 이렇게 하고, 그 뒤엔 물건 종류별 보통 관세로 바뀌어요 ㉑.</span></li><li><i class="ic ic-list-checks" aria-hidden="true"></i><b>개수가 아니라 종류로 세요</b><span>EU가 든 예: 티셔츠 5장 = €3(1종류), 티셔츠 1장 + 시계 1개 = €6(2종류) ㉑.</span></li><li><i class="ic ic-hand-coins" aria-hidden="true"></i><b>누가 내나</b><span>신고하는 쪽, 곧 판매자나 수입 대행자가 내요. 소비자가 직접 내는 건 아주 드문 경우라고 해요 ㉑.</span></li><li><i class="ic ic-info" aria-hidden="true"></i><b>처리 수수료</b><span>EU는 처리 수수료를 따로 두겠다고 했어요. 2026년 6월 발표 때 금액과 시작일은 '2026년 가을에 정함'이었어요 ㉑.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>2026년 7월 1일부터: €150 이하도 관세 €3</b><span>EU 밖에서 산 €150 이하 소포에 붙던 관세 면제가 2026년 6월 30일로 끝났어요. 대신 물건 한 종류(품목 분류)마다 €3을 매겨요. 2028년 7월 1일까지 이렇게 하고, 그 뒤엔 물건 종류별 보통 관세로 바뀌어요 ㉑.</span></li><li><i class="ic ic-list-checks" aria-hidden="true"></i><b>개수가 아니라 종류로 세요</b><span>EU가 든 예: 티셔츠 5장 = €3(1종류), 티셔츠 1장 + 시계 1개 = €6(2종류) ㉑.</span></li><li><i class="ic ic-hand-coins" aria-hidden="true"></i><b>낼 책임은 누구에게</b><span>세관에 낼 책임은 신고하는 쪽, 곧 판매자나 수입 대행자에게 있어요. 소비자가 직접 신고·납부하는 건 아주 드문 경우라고 해요 ㉑.</span></li><li><i class="ic ic-info" aria-hidden="true"></i><b>처리 수수료</b><span>EU는 처리 수수료를 따로 두겠다고 했어요. 2026년 6월 발표 때 금액과 시작일은 '2026년 가을에 정함'이었어요 ㉑.</span></li></ul>
 
 [EU 집행위원회: €3 관세 안내(영어)](https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en)
 
@@ -101,7 +101,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>싱가포르 자세히</summary>
 
-<ul class="tr-choose"><li><i class="ic ic-tag" aria-hidden="true"></i><b>'S$400'은 물건 값만</b><span>배송비·보험료·세금은 빼고 봐요. 물건 S$395 + 배송비 S$25 = S$395로 봐요 ⑰.</span></li><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>GST 등록 판매자: 결제 때 한 번</b><span>한 물건이 S$400 이하이고 항공·우편으로 오면, 결제 금액에 GST(상품·서비스세)가 들어 있고 도착 때 다시 안 내요. 여러 개를 사면 물건마다 따로 보고, 합계가 S$400을 넘어도 같아요 ⑰.</span></li><li><i class="ic ic-package" aria-hidden="true"></i><b>미등록 판매자: 소포 전체가 S$400 넘으면 도착 때</b><span>물건 값 + 보험 + 배송비(CIF) 합계로 봐요 ⑰.</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>내는 법</b><span>우편: S$400 이하면 그냥 배달돼요. 넘으면 싱가포르포스트(SingPost) 앱 알림이 오고, 14일 안에 앱·SAM 기계·우체국에서 내요 ⑱. 택배: 그 택배 회사에 내는 방법을 물어보세요. 통관 수수료가 붙을 수 있어요 ⑱.</span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><b>GST를 두 번 냈다면</b><span>판매자 정보가 늦게 넘어가면 다시 청구될 수 있어요. 싱가포르 세관 사이트의 'Refund of Taxes'(세금 환급) 안내를 보세요 ⑰.</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-tag" aria-hidden="true"></i><b>등록 판매자 기준 'S$400'은 물건 값만</b><span>GST 등록 판매자에게 살 때는 배송비·보험료·세금을 빼고 물건 한 개 값으로 봐요. 물건 S$395 + 배송비 S$25 = S$395로 봐요 ⑰. 미등록 판매자는 아래처럼 배송비·보험까지 더해요.</span></li><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>GST 등록 판매자: 결제 때 한 번</b><span>한 물건이 S$400 이하이고 항공·우편으로 오면, 결제 금액에 GST(상품·서비스세)가 들어 있고 도착 때 다시 안 내요. 여러 개를 사면 물건마다 따로 보고, 합계가 S$400을 넘어도 같아요 ⑰.</span></li><li><i class="ic ic-package" aria-hidden="true"></i><b>미등록 판매자: 소포 전체가 S$400 넘으면 도착 때</b><span>물건 값 + 보험 + 배송비(CIF) 합계로 봐요 ⑰.</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>내는 법</b><span>우편: S$400 이하면 그냥 배달돼요. 넘으면 싱가포르포스트(SingPost) 앱 알림이 오고, 14일 안에 앱·SAM 기계·우체국에서 내요 ⑱. 택배: 그 택배 회사에 내는 방법을 물어보세요. 통관 수수료가 붙을 수 있어요 ⑱.</span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><b>GST를 두 번 냈다면</b><span>판매자 정보가 늦게 넘어가면 다시 청구될 수 있어요. 싱가포르 세관 사이트의 'Refund of Taxes'(세금 환급) 안내를 보세요 ⑰.</span></li></ul>
 
 [싱가포르 세관: 해외에서 살 때(영어)](https://www.customs.gov.sg/personal-shipment/buying-from-overseas/)
 

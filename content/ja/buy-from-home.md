@@ -6,22 +6,22 @@ updated: 2026-11-27
 ---
 <div class="tr-cta"><a class="tr-btn go" href="#compare"><i class="ic ic-list-checks" aria-hidden="true"></i>ひと目で比較</a><a class="tr-btn" href="#total"><i class="ic ic-coins" aria-hidden="true"></i>総額の出し方</a><a class="tr-btn" href="#customs"><i class="ic ic-package" aria-hidden="true"></i>受け取るときの税金</a></div>
 
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>広告について。</b> このページのアフィリエイトリンク(Awin)は「Stylevana(アフィリエイトリンク)」のボタン1つだけです。このボタン経由の注文でNadriが紹介料を受け取ることがあり、お客様の支払う金額は変わりません。出典に載せたStylevanaのアドレスを含め、ほかのリンクはすべて通常のリンクです。オリーブヤング(Rakuten)には申請中です。詳しくは<a href="/ja/disclosure/">Nadriの収益について</a>。</span></aside>
+
 <h2 id="compare">ひと目で比較</h2>
 
 | ショップ | 送り先 | 送料無料 | 配送日数 | 返品 |
 |---|---|---|---|---|
-| [オリーブヤング グローバル](https://global.oliveyoung.com) | 150か国 ⑩ | US$60以上(2026年5月の会社発表) ① | 主要国は最短5日、地域によって異なる ⑩ | オリーブヤング グローバルの案内で確認 |
+| [オリーブヤング グローバル](https://global.oliveyoung.com) | 150か国 ⑩ | US$60以上(2026年5月の会社発表) ①。自分の国の条件は決済画面で確認 | 主要国は最短5日、地域によって異なる ⑩ | オリーブヤング グローバルの案内で確認 |
 | [Olive Young US](https://us.oliveyoung.com) | 米国(米国専用ストア) ① | US$35以上 ① | これまでの5〜7営業日の半分ほどに縮めると発表 ① | Olive Young USの案内で確認 |
 | [iHerb](https://www.iherb.com/c/k-beauty) | 180か国以上 ⑪ | 米国あてUS$25超(期間限定) ⑪ | iHerbの配送案内で確認 | 受け取った日から30日(iHerbブランドは90日) ⑫ |
-| Stylevana | 米国ストア(en_US)の送り先は米国・シンガポール・フィリピン・ブルネイ・南アフリカ・イスラエル。ほかの国はサイト上部の国旗から自分の国のストアを選びます ㉓ | 米国US$35以上(プレミアムエクスプレス)、シンガポールUS$35、フィリピンUS$29、ブルネイUS$58、南アフリカUS$79、イスラエルUS$120以上 ㉓ | 香港の倉庫から発送(商品の準備時間は別)。米国は通常8〜15営業日・エクスプレス4〜9営業日、シンガポール3〜7、フィリピン3〜6、ブルネイ7〜12、南アフリカ12〜20、イスラエル6〜10営業日 ㉓ | 受け取りから14日以内に申請、未使用・元の包装のまま香港の倉庫へ ㉔。気が変わった場合は返送料が自己負担で、返金はクーポンコード ㉔。サンプル・おまけ・クリアランス品、肌トラブルは返品不可 ㉔。破損・不足は「配達済み」表示から48時間以内に、注文番号と箱・商品の写真を添えて申告。配送保険は任意(注文金額の4%) ㉓ |
+| Stylevana | 米国ストア(en_US)の送り先は米国・シンガポール・フィリピン・ブルネイ・南アフリカ・イスラエル。ほかの国はサイト上部の国旗から自分の国のストアを選びます ㉓ | 米国US$35以上(プレミアムエクスプレス)、シンガポールUS$35、フィリピンUS$29、ブルネイUS$58、南アフリカUS$79、イスラエルUS$120以上 ㉓ | 香港の倉庫から発送(商品の準備時間は別)。米国は通常8〜15営業日・エクスプレス4〜9営業日、シンガポール3〜7、フィリピン3〜6、ブルネイ7〜12、南アフリカ12〜20、イスラエル6〜10営業日 ㉓。米国あては「遅れる可能性がある」と案内しています。セール期間・休日はさらにかかります ㉓ | 受け取りから14日以内に申請、未使用・元の包装のまま香港の倉庫へ ㉔。気が変わった場合は返送料が自己負担で、返金はクーポンコード ㉔。承認から7営業日以内に発送が必要。最初に払った送料は返金されません。不良・誤配送は交換品(品切れならクーポン) ㉔。サンプル・おまけ・クリアランス品、肌トラブルは返品不可 ㉔。破損・不足は「配達済み」表示から48時間以内に、注文番号と箱・商品の写真を添えて申告。配送保険は任意(注文金額の4%) ㉓ |
 
-<aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>数字のない欄は、そのショップの案内で確認します。</b> 注文前に、ショップの配送案内(Shipping)と返品案内(Returns)で自分の国を探してください。関税を決済時に一緒に払うかどうかも、そこで確認します。番号①〜㉒はページ下の出典です(2026年11月26〜27日に確認)。</span></aside>
-
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>広告について。</b> このページのStylevanaへのリンクはアフィリエイトリンク(Awin)です。このリンク経由の注文でNadriが紹介料を受け取ることがあり、お客様の支払う金額は変わりません。ほかのショップへのリンクは通常のリンクです。オリーブヤング(Rakuten)には申請中です。詳しくは<a href="/ja/disclosure/">Nadriの収益について</a>。</span></aside>
+<aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>数字のない欄は、そのショップの案内で確認します。</b> 注文前に、ショップの配送案内(Shipping)と返品案内(Returns)で自分の国を探してください。関税を決済時に一緒に払うかどうかも、そこで確認します。番号①〜㉔はページ下の出典です(2026年11月26〜27日に確認)。</span></aside>
 
 <h2 id="shops">ショップ別にくわしく</h2>
 
-<ul class="tr-choose"><li><i class="ic ic-globe" aria-hidden="true"></i><b>オリーブヤング グローバル:米国以外に住んでいるなら</b><ul class="tr-kv"><li><b>送り先</b> 150か国の人がグローバルモールで買えます ⑩</li><li><b>送料無料</b> 2026年5月の会社発表の時点でUS$60以上 ①。自分の国の条件は決済画面で確認してください</li><li><b>配送日数</b> 主要国は最短5日、地域によって異なります ⑩</li><li><b>定期セール</b> シーズンセールは年4回(3・6・9・12月) ②。この3月には、アクセスした国ごとのカートクーポン(30%以上)とアプリ限定の先着20%クーポンがありました ②。セールの日程は<a href="/ja/deals/">セール速報</a>に載せます</li></ul></li><li><i class="ic ic-truck" aria-hidden="true"></i><b>Olive Young US:米国に住んでいるなら</b><ul class="tr-kv"><li><b>開始日</b> 2026年5月29日、米国専用のオンラインストア ①</li><li><b>送料無料</b> US$35以上 ①</li><li><b>発送元</b> 米国カリフォルニア州ブルーミントンの物流センター ①</li><li><b>配送日数</b> グローバルモール経由だったとき(5〜7営業日)の半分ほどに縮めると発表しています ①</li></ul></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>iHerb:Kビューティーの売り場がある</b><ul class="tr-kv"><li><b>扱うもの</b> メニューにK-Beauty(韓国コスメ)の分類があります。クレンジング・フェイスマスク・化粧水・保湿・美容液・日焼け止め・ヘアケア ㉒</li><li><b>送り先</b> 180か国以上。米国・韓国・香港・サウジアラビアの物流センターから送ります ⑪</li><li><b>送料無料</b> 米国あてはUS$25超(ページに「Limited Time Only」=期間限定と書かれています) ⑪。ほかの国は配送案内ページの「My Destination」(お届け先)で自分の国を選んで確認します ⑪</li><li><b>返品期限</b> 受け取った日から30日、iHerb自社ブランドは90日 ⑫</li><li><b>海外からの返品</b> 返送ラベルはもらえません。送料は自分で払います ⑫</li><li><b>返金まで</b> 米国は7〜10営業日、米国以外は最長35日 ⑫</li></ul></li><li><i class="ic ic-store" aria-hidden="true"></i><b>ほかのショップ(例:Stylevana)で買うなら</b><span>そのショップの配送案内(Shipping)と返品案内(Returns)で自分の国を探し、上の表の四つの欄(送り先・送料無料・配送日数・返品)を自分で埋めてみてください。受け取るときの税金は、下の表がそのまま使えます。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-globe" aria-hidden="true"></i><b>オリーブヤング グローバル:米国以外に住んでいるなら</b><ul class="tr-kv"><li><b>送り先</b> 150か国の人がグローバルモールで買えます ⑩</li><li><b>送料無料</b> 2026年5月の会社発表の時点でUS$60以上 ①。自分の国の条件は決済画面で確認してください</li><li><b>配送日数</b> 主要国は最短5日、地域によって異なります ⑩</li><li><b>定期セール</b> シーズンセールは年4回(3・6・9・12月) ②。この3月には、アクセスした国ごとのカートクーポン(30%以上)とアプリ限定の先着20%クーポンがありました ②。セールの日程は<a href="/ja/deals/">セール速報</a>に載せます</li></ul></li><li><i class="ic ic-truck" aria-hidden="true"></i><b>Olive Young US:米国に住んでいるなら</b><ul class="tr-kv"><li><b>開始日</b> 米国専用のオンラインストアを2026年5月29日に開くと発表(2026年5月21日の発表) ①</li><li><b>送料無料</b> US$35以上 ①</li><li><b>発送元</b> 米国カリフォルニア州ブルーミントンの物流センター ①</li><li><b>配送日数</b> グローバルモール経由だったとき(5〜7営業日)の半分ほどに縮めると発表しています ①</li></ul></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>iHerb:Kビューティーの売り場がある</b><ul class="tr-kv"><li><b>扱うもの</b> メニューにK-Beauty(韓国コスメ)の分類があります。クレンジング・フェイスマスク・化粧水・保湿・美容液・日焼け止め・ヘアケア ㉒</li><li><b>送り先</b> 180か国以上。米国・韓国・香港・サウジアラビアの物流センターから送ります ⑪</li><li><b>送料無料</b> 米国あてはUS$25超(ページに「Limited Time Only」=期間限定と書かれています) ⑪。ほかの国は配送案内ページの「My Destination」(お届け先)で自分の国を選んで確認します ⑪</li><li><b>返品期限</b> 受け取った日から30日、iHerb自社ブランドは90日 ⑫</li><li><b>海外からの返品</b> 返送ラベルはもらえません。送料は自分で払います ⑫</li><li><b>返金まで</b> 米国は7〜10営業日、米国以外は最長35日 ⑫</li></ul></li><li><i class="ic ic-store" aria-hidden="true"></i><b>表にないショップで買うなら</b><span>そのショップの配送案内(Shipping)と返品案内(Returns)で自分の国を探し、上の表の四つの欄(送り先・送料無料・配送日数・返品)を自分で埋めてみてください。受け取るときの税金は、下の表がそのまま使えます。</span></li></ul>
 
 <details class="tr-more"><summary><i class="ic ic-receipt" aria-hidden="true"></i>iHerbの返品のしかた(3ステップ)</summary>
 
@@ -53,7 +53,7 @@ updated: 2026-11-27
 | 英国 | £135以下なら関税なし。VATは販売者が支払額に含めます ⑬ | £135を超えると受け取るときにVAT+関税 ⑬ |
 | カナダ | 郵便で届いた品物がCAN$20以下なら関税・税金なし ⑭⑮ | 超えると全額に関税+GST/HST(連邦・統合売上税)+PST(州売上税) ⑮ |
 | オーストラリア | AUD1,000以下なら国境で払うものは通常なし。かわりに販売者が決済時にGST(物品サービス税)を取ることがあります ⑯ | 超えると輸入申告+手数料+関税・税金 ⑯ |
-| シンガポール | 1品S$400以下:販売者がGST登録済みなら決済時にGST込み、到着時は払いません ⑰ | 未登録の販売者から買った小包がS$400を超えると到着時にGST ⑰ |
+| シンガポール | 1品S$400以下:販売者がGST登録済みなら決済時にGST込み、到着時は払いません ⑰ | 未登録の販売者から買った小包が商品+送料+保険(CIF)でS$400を超えると到着時にGST ⑰ |
 | 台湾(宅配便) | 一度に届いた宅配便の課税価格がNT$2,000以下なら関税・営業税・貨物税が免除 ⑳ | 半年にこの免税を6回を超えて受けると免税になりません ⑳ |
 | 香港 | 税関が税を取る品物は酒・たばこ・一部の燃料油・メチルアルコールの4種類 ⑲ | 化粧品・服はこの4種類のリストにありません ⑲ |
 
@@ -69,7 +69,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>EU(欧州連合) くわしく</summary>
 
-<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>2026年7月1日から:€150以下でも関税€3</b><span>EUの外で買った€150以下の小包の関税免除は、2026年6月30日で終わりました。かわりに品目の種類(関税分類)ごとに€3がかかります。2028年7月1日までこの方式で、その後は品目ごとの通常の関税になります ㉑。</span></li><li><i class="ic ic-list-checks" aria-hidden="true"></i><b>数ではなく種類で数える</b><span>EUの例:Tシャツ5枚=€3(1種類)、Tシャツ1枚+時計1個=€6(2種類) ㉑。</span></li><li><i class="ic ic-hand-coins" aria-hidden="true"></i><b>誰が払うか</b><span>申告する側、つまり販売者や輸入代行者です。消費者が直接払うのは「ごく例外的な場合」だけとしています ㉑。</span></li><li><i class="ic ic-info" aria-hidden="true"></i><b>処理手数料</b><span>EUは処理手数料を別に設けるとしています。2026年6月の発表では、金額と開始日は「2026年秋に決定」でした ㉑。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>2026年7月1日から:€150以下でも関税€3</b><span>EUの外で買った€150以下の小包の関税免除は、2026年6月30日で終わりました。かわりに品目の種類(関税分類)ごとに€3がかかります。2028年7月1日までこの方式で、その後は品目ごとの通常の関税になります ㉑。</span></li><li><i class="ic ic-list-checks" aria-hidden="true"></i><b>数ではなく種類で数える</b><span>EUの例:Tシャツ5枚=€3(1種類)、Tシャツ1枚+時計1個=€6(2種類) ㉑。</span></li><li><i class="ic ic-hand-coins" aria-hidden="true"></i><b>納める責任は誰に</b><span>関税を納める責任は申告する側、つまり販売者や輸入代行者にあります。消費者が自分で申告・納付するのは「ごく例外的な場合」だけとしています ㉑。</span></li><li><i class="ic ic-info" aria-hidden="true"></i><b>処理手数料</b><span>EUは処理手数料を別に設けるとしています。2026年6月の発表では、金額と開始日は「2026年秋に決定」でした ㉑。</span></li></ul>
 
 [欧州委員会:€3関税の案内(英語)](https://taxation-customs.ec.europa.eu/news/guidance-and-legal-text-temporary-flat-fee-low-value-imports-which-will-apply-until-1-july-2028-2026-06-08_en)
 
@@ -101,7 +101,7 @@ updated: 2026-11-27
 
 <details class="tr-more"><summary><i class="ic ic-map-pin" aria-hidden="true"></i>シンガポール くわしく</summary>
 
-<ul class="tr-choose"><li><i class="ic ic-tag" aria-hidden="true"></i><b>「S$400」は商品代だけ</b><span>送料・保険料・税金は除きます。商品S$395+送料S$25=S$395とみなします ⑰。</span></li><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>GST登録済みの販売者:決済時に1回</b><span>1品がS$400以下で航空便・郵便で届くなら、支払額にGST(物品サービス税)が含まれ、到着時にもう一度払うことはありません。複数買っても1品ずつ見るので、合計がS$400を超えても同じです ⑰。</span></li><li><i class="ic ic-package" aria-hidden="true"></i><b>未登録の販売者:小包全体がS$400を超えると到着時</b><span>商品代+保険+送料(CIF)の合計で見ます ⑰。</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>払い方</b><span>郵便:S$400以下ならそのまま配達されます。超えるとシンガポールポスト(SingPost)アプリに通知が来て、14日以内にアプリ・SAM端末・郵便局で払います ⑱。宅配便:払い方はその宅配会社に聞いてください。通関の手数料がかかることがあります ⑱。</span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><b>GSTを二重に払ったら</b><span>販売者の情報が遅れて届くと、もう一度請求されることがあります。シンガポール税関サイトの「Refund of Taxes」(税の還付)を見てください ⑰。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-tag" aria-hidden="true"></i><b>登録済みの販売者なら「S$400」は商品代だけ</b><span>GST登録済みの販売者から買うときは、送料・保険料・税金を除いた1品の値段で見ます。商品S$395+送料S$25=S$395とみなします ⑰。未登録の販売者は、下のとおり送料・保険も足します。</span></li><li><i class="ic ic-credit-card" aria-hidden="true"></i><b>GST登録済みの販売者:決済時に1回</b><span>1品がS$400以下で航空便・郵便で届くなら、支払額にGST(物品サービス税)が含まれ、到着時にもう一度払うことはありません。複数買っても1品ずつ見るので、合計がS$400を超えても同じです ⑰。</span></li><li><i class="ic ic-package" aria-hidden="true"></i><b>未登録の販売者:小包全体がS$400を超えると到着時</b><span>商品代+保険+送料(CIF)の合計で見ます ⑰。</span></li><li><i class="ic ic-smartphone" aria-hidden="true"></i><b>払い方</b><span>郵便:S$400以下ならそのまま配達されます。超えるとシンガポールポスト(SingPost)アプリに通知が来て、14日以内にアプリ・SAM端末・郵便局で払います ⑱。宅配便:払い方はその宅配会社に聞いてください。通関の手数料がかかることがあります ⑱。</span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><b>GSTを二重に払ったら</b><span>販売者の情報が遅れて届くと、もう一度請求されることがあります。シンガポール税関サイトの「Refund of Taxes」(税の還付)を見てください ⑰。</span></li></ul>
 
 [シンガポール税関:海外から買うとき(英語)](https://www.customs.gov.sg/personal-shipment/buying-from-overseas/)
 
