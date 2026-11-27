@@ -12,3 +12,17 @@
 
 </details>
 
+| 2026-11-28 04:29 KST | https://www.bing.com/indexnow | 8 | HTTP 200 OK, URL submitted | /deals/ /ko/deals/ /ja/deals/ /zh-tw/deals/ / /ko/ /ja/ /zh-tw/ |
+<details><summary>보낸 주소</summary>
+
+- https://nadri-guide.pages.dev/deals/
+- https://nadri-guide.pages.dev/ko/deals/
+- https://nadri-guide.pages.dev/ja/deals/
+- https://nadri-guide.pages.dev/zh-tw/deals/
+- https://nadri-guide.pages.dev/
+- https://nadri-guide.pages.dev/ko/
+- https://nadri-guide.pages.dev/ja/
+- https://nadri-guide.pages.dev/zh-tw/
+
+</details>
+
