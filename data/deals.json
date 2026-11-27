@@ -102,7 +102,13 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "차단 우회로 얻은 정보 — 원칙 위반 4번, 출처로 다시 확인 전까지 숨김 (2026-11-27, 원두 [7eb4ec94#2990]: 코드의 마지막 확인(11/26)이 헤드리스 브라우저 = curl 403 차단을 넘은 방식, drafts/fashion-progress.md:35). 이전 사유(en/ja/zh-tw): 무신사 앱 쿠폰함 쿠폰: 외국 방문객이 이 앱 회원으로 가입·쿠폰을 받을 수 있는지 출처로 확인 못 함(무신사 페이지 프록시 차단). 원두 [7eb4ec94#2954] 3 '실제로 쓸 수 있는 사용자'."
+   "board_hide_why": "차단 우회로 얻은 정보 — 원칙 위반 4번, 출처로 다시 확인 전까지 숨김 (2026-11-27, 원두 [7eb4ec94#2990]: 코드의 마지막 확인(11/26)이 헤드리스 브라우저 = curl 403 차단을 넘은 방식, drafts/fashion-progress.md:35). 이전 사유(en/ja/zh-tw): 무신사 앱 쿠폰함 쿠폰: 외국 방문객이 이 앱 회원으로 가입·쿠폰을 받을 수 있는지 출처로 확인 못 함(무신사 페이지 프록시 차단). 원두 [7eb4ec94#2954] 3 '실제로 쓸 수 있는 사용자'.",
+   "go": [
+    {
+     "url": "https://www.musinsa.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "oy-sale-2026-12",
@@ -131,7 +137,13 @@
      "title": "Olive Young Sale 年末場",
      "note": "日期尚未正式公布,這裡是預估。根據:最近三次(2025 年 12 月 11/30–12/6、2026 年 6 月 5/31–6/6、9 月 8/30–9/5)都是週日開始、連續 7 天,照這個模式大約是 11/29(日)–12/5(六)。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.oliveyoung.co.kr/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "klook-bf-2026",
@@ -167,7 +179,13 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "Klook 공식 발표 없음, 출처는 제3자 사이트 1곳(지금 열리지 않음, 사본 없음). 예상 근거도 아님 → 불확실한 정보는 올리지 않음 [7eb4ec94#2931] 6, [7eb4ec94#2954] 1."
+   "board_hide_why": "Klook 공식 발표 없음, 출처는 제3자 사이트 1곳(지금 열리지 않음, 사본 없음). 예상 근거도 아님 → 불확실한 정보는 올리지 않음 [7eb4ec94#2931] 6, [7eb4ec94#2954] 1.",
+   "go": [
+    {
+     "url": "https://www.klook.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "dept-winter-2026",
@@ -196,7 +214,42 @@
    "hero": {
     "kind": "pct",
     "value": 60
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.shinsegae.com/",
+     "kind": "site",
+     "checked": "2026-11-28",
+     "name": {
+      "ko": "신세계",
+      "en": "Shinsegae",
+      "ja": "新世界",
+      "zh-tw": "新世界"
+     }
+    },
+    {
+     "url": "https://www.lotteshopping.com/main",
+     "kind": "site",
+     "checked": "2026-11-28",
+     "name": {
+      "ko": "롯데",
+      "en": "Lotte",
+      "ja": "ロッテ",
+      "zh-tw": "樂天"
+     }
+    },
+    {
+     "url": "https://www.ehyundai.com/",
+     "kind": "site",
+     "checked": "2026-11-28",
+     "name": {
+      "ko": "현대",
+      "en": "Hyundai",
+      "ja": "現代",
+      "zh-tw": "現代"
+     }
+    }
+   ]
   },
   {
    "id": "korea-grand-sale-2027",
@@ -225,7 +278,13 @@
      "title": "2027 Korea Grand Sale",
      "note": "專為外國旅客舉辦、為期 53 天的特賣,首爾、釜山、江原等地設有迎賓中心。折扣內容在來源報導(10/3)時尚未公布。"
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://en.koreagrandsale.co.kr/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "seoul-winter-market-2026",
@@ -254,7 +313,14 @@
      "title": "光化門聖誕市集",
      "note": "首爾市 11/25 公布。今年主題是「時間靜止的聖誕老人村」。週日至週四 17:30–22:00,週五、六到 22:30,免費入場(VISIT SEOUL)。5 號線光化門站 9 號出口。"
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://english.visitseoul.net/events/2026GwanghwamunMarket/ENP0rc1ic",
+     "kind": "event",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "oy-day-2026-12",
@@ -289,7 +355,13 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "올리브 데이는 올리브 멤버스(회원) 대상 행사(CJ뉴스룸 2025-03-24). 회원 가입은 한국 거주·본인 명의 한국 연락처가 필요(올리브영 가이드 페이지 출처) → 방문객은 쓸 수 없음."
+   "board_hide_why": "올리브 데이는 올리브 멤버스(회원) 대상 행사(CJ뉴스룸 2025-03-24). 회원 가입은 한국 거주·본인 명의 한국 연락처가 필요(올리브영 가이드 페이지 출처) → 방문객은 쓸 수 없음.",
+   "go": [
+    {
+     "url": "https://www.oliveyoung.co.kr/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "wconcept-wweek",
@@ -343,7 +415,14 @@
    "hero": {
     "kind": "pct",
     "value": 90
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.shilladfs.com/estore/kr/ko/event",
+     "kind": "list",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "dept-shinsegae",
@@ -364,7 +443,14 @@
    "hero": {
     "kind": "pct",
     "value": 50
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.shinsegae.com/",
+     "kind": "site",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "dept-lotte",
@@ -385,7 +471,14 @@
    "hero": {
     "kind": "pct",
     "value": 50
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.lotteshopping.com/main",
+     "kind": "site",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "dept-hyundai",
@@ -406,7 +499,14 @@
    "hero": {
     "kind": "pct",
     "value": 60
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.ehyundai.com/",
+     "kind": "site",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "samsung-week",
@@ -423,7 +523,14 @@
      "title": "삼성위크 (삼성닷컴)",
      "note": "카드 할인·무이자 할부·다품목 추가 할인 중심. 할인율 숫자보다 카드 혜택 합친 최종가로 비교하는 게 맞음."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.samsung.com/sec/event/samsung-week/",
+     "kind": "event",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "coupang-digital-bf",
@@ -440,7 +547,13 @@
      "title": "쿠팡 가전·디지털 블랙프라이데이",
      "note": "삼성·LG·HP 등. 갤럭시 탭 S12는 카드 할인 + 최대 5만 원 쿠팡캐시 적립처럼 적립형 혜택도 있어서 실결제가로 비교 필요."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.coupang.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "ably-bf",
@@ -461,7 +574,13 @@
    "hero": {
     "kind": "pct",
     "value": 93
-   }
+   },
+   "go": [
+    {
+     "url": "https://m.a-bly.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "zigzag-bf",
@@ -482,7 +601,14 @@
    "hero": {
     "kind": "pct",
     "value": 99
-   }
+   },
+   "go": [
+    {
+     "url": "https://zigzag.kr/",
+     "kind": "site",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "trinity-nov",
@@ -508,7 +634,13 @@
    "hero": {
     "kind": "krw",
     "value": 40000
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.trinityairways.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "topten-bf",
@@ -525,7 +657,13 @@
      "title": "탑텐 블랙프라이데이",
      "note": "할인율은 공개 안 됨. 겨울 기본템 위주면 유니클로·스파오랑 같은 품목 가격 비교 추천."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.topten10mall.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "amazon-bf",
@@ -542,7 +680,13 @@
      "title": "아마존 블랙프라이데이 · 사이버먼데이 (미국)",
      "note": "블랙프라이데이 위크·사이버먼데이 행사 11/19~11/30 (미국 태평양시 기준, 한국 시각은 17시간 빠름). 직구는 관세 면세 한도부터 확인."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.amazon.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "uniqlo-bf",
@@ -576,7 +720,13 @@
      "title": "무신사 무진장 26 겨울 블프",
      "note": "4,781개 브랜드(무신사 앱 화면, 11/26). 매일 두 번 '오픈런 뽑기'로 최대 80% 할인 쿠폰 등을 랜덤으로 줘요. 쿠폰 시간 알림을 켜 두면 편해요."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.musinsa.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "spao-bf",
@@ -593,7 +743,13 @@
      "title": "스파오 블랙프라이데이",
      "note": "할인율 미공개."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://spao.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "coupang-direct-bf",
@@ -610,7 +766,13 @@
      "title": "쿠팡 로켓직구 블프",
      "note": "미국·일본·유럽·중국·홍콩 등 해외 상품 약 3만 개. 행사 상품 2개 이상 사면 10% 쿠폰, 로켓직구 일본 상품 전용 7천 원 쿠폰."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.coupang.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "zara-bf",
@@ -627,7 +789,13 @@
      "title": "자라 블랙프라이데이",
      "note": "할인율 미공개."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.zara.com/kr/ko/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "hm-bf",
@@ -644,7 +812,13 @@
      "title": "H&M 블랙프라이데이",
      "note": "할인율 미공개."
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www2.hm.com/ko_kr/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "cathay-bf",
@@ -680,7 +854,14 @@
    "hero": {
     "kind": "pct",
     "value": 10
-   }
+   },
+   "go": [
+    {
+     "url": "https://flights.cathaypacific.com/ko_KR/offers/black-friday-2026.html",
+     "kind": "event",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "jejuair-flex",
@@ -720,7 +901,13 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3."
+   "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3.",
+   "go": [
+    {
+     "url": "https://www.jejuair.net/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "eastar-promo",
@@ -742,7 +929,13 @@
    "hero": {
     "kind": "pct",
     "value": 25
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.eastarjet.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "musinsa-archive",
@@ -767,7 +960,13 @@
    "board_hide": [
     "ko"
    ],
-   "board_hide_why": "날짜가 출처와 어긋남: 상황판 12/3~12/17 vs 무신사 페이지(11/26 읽은 기록) 오프라인 5개 매장 11/20~12/17. 지금 열 수 있는 출처로 확인 불가 → 불확실해서 내림(drafts/prototype/held-musinsa.md:62~65)."
+   "board_hide_why": "날짜가 출처와 어긋남: 상황판 12/3~12/17 vs 무신사 페이지(11/26 읽은 기록) 오프라인 5개 매장 11/20~12/17. 지금 열 수 있는 출처로 확인 불가 → 불확실해서 내림(drafts/prototype/held-musinsa.md:62~65).",
+   "go": [
+    {
+     "url": "https://www.musinsa.com/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "ttukseom-xmas",
@@ -796,7 +995,14 @@
      "title": "纛島浪漫漢江聖誕市集",
      "note": "首爾市 11/25 公布。同一個纛島漢江公園 12/24–31 也有「漢江夜間三溫暖」。時間和出口尚未公布。"
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=415",
+     "kind": "event",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "11st-xmas-2026",
@@ -832,7 +1038,13 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "11번가 온라인 기획전: 외국 방문객의 가입·결제·국내 배송 가능 여부 출처로 확인 못 함."
+   "board_hide_why": "11번가 온라인 기획전: 외국 방문객의 가입·결제·국내 배송 가능 여부 출처로 확인 못 함.",
+   "go": [
+    {
+     "url": "https://www.11st.co.kr/",
+     "kind": "site"
+    }
+   ]
   },
   {
    "id": "traders-xmas-2026",
@@ -868,7 +1080,14 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "삼성카드(한국 카드사) 결제 고객만 할인(신세계그룹 뉴스룸 원문) → 방문객은 사실상 못 씀."
+   "board_hide_why": "삼성카드(한국 카드사) 결제 고객만 할인(신세계그룹 뉴스룸 원문) → 방문객은 사실상 못 씀.",
+   "go": [
+    {
+     "url": "https://eapp.emart.com/tradersclub/flyerImgView.do",
+     "kind": "event",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "emart-xmas-2026",
@@ -903,7 +1122,14 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "대표 트리 할인은 신세계포인트 적립 시(원문). 방문객의 신세계포인트 가입 가능 여부, 포인트 없이 되는 품목 범위를 출처로 확인 못 함."
+   "board_hide_why": "대표 트리 할인은 신세계포인트 적립 시(원문). 방문객의 신세계포인트 가입 가능 여부, 포인트 없이 되는 품목 범위를 출처로 확인 못 함.",
+   "go": [
+    {
+     "url": "https://eapp.emart.com/leaflet/leafletView_EL.do",
+     "kind": "event",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "tlj-xmas-cake-2026",
@@ -939,7 +1165,14 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "뚜레쥬르 앱 사전예약 할인: 방문객의 앱 회원 가입 가능 여부 출처로 확인 못 함."
+   "board_hide_why": "뚜레쥬르 앱 사전예약 할인: 방문객의 앱 회원 가입 가능 여부 출처로 확인 못 함.",
+   "go": [
+    {
+     "url": "https://www.tlj.co.kr/",
+     "kind": "site",
+     "checked": "2026-11-28"
+    }
+   ]
   },
   {
    "id": "casamia-holiday-2026",
@@ -974,7 +1207,19 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "기획전(최대 50%)은 까사미아 온라인몰 전용(원문) → 방문객 가입·결제·배송 확인 못 함. 매장 30%(장식 소품, 12/31까지)는 방문객도 쓸 수 있을 수 있으나 별도 항목 후보로 남김(원두 결정)."
+   "board_hide_why": "기획전(최대 50%)은 까사미아 온라인몰 전용(원문) → 방문객 가입·결제·배송 확인 못 함. 매장 30%(장식 소품, 12/31까지)는 방문객도 쓸 수 있을 수 있으나 별도 항목 후보로 남김(원두 결정).",
+   "go": [
+    {
+     "url": "https://www.guud.com/",
+     "kind": "site",
+     "name": {
+      "ko": "신세계까사",
+      "en": "Shinsegae Casa",
+      "ja": "新世界カーサ",
+      "zh-tw": "新世界Casa"
+     }
+    }
+   ]
   },
   {
    "id": "lotte-jamsil-xmas-2026",
@@ -1003,7 +1248,14 @@
      "title": "樂天蠶室聖誕市集",
      "note": "蠶室樂天世界塔 World Park 戶外草坪廣場,每天 11:30–22:00。19 世紀英國聖誕市集主題,約 40 家店。預約開放在樂天百貨商城等(外國旅客透過 Klook 等),11 月週末快速通關票已售完。不預約能否入場,報導沒寫,尚未確認。"
     }
-   }
+   },
+   "go": [
+    {
+     "url": "https://www.lotteshopping.com/main",
+     "kind": "site",
+     "checked": "2026-11-28"
+    }
+   ]
   }
  ]
 }

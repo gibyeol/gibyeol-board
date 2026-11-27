@@ -218,6 +218,14 @@ def deals_board(lang, limit=None):
         link = ""
         if d.get("aff") and AFF.get(d["aff"], {}).get("url"):
             link = f'<a class="deal-go" href="{AFF[d["aff"]]["url"]}" rel="sponsored noopener" target="_blank">{ui["deal_go"]}</a>'
+        # official event page / official site (owner [7eb4ec94#4073]); 'checked' = we opened it on that date
+        GO_L = {"event": {"ko": "행사 페이지", "en": "Event page", "ja": "イベントページ", "zh-tw": "活動頁面"},
+                "site": {"ko": "공식 사이트", "en": "Official site", "ja": "公式サイト", "zh-tw": "官方網站"},
+                "list": {"ko": "이벤트 목록", "en": "Events list", "ja": "イベント一覧", "zh-tw": "活動列表"}}
+        for g in d.get("go", []):
+            lab = GO_L.get(g.get("kind"), GO_L["site"]).get(lang, "")
+            if g.get("name"): lab = g["name"].get(lang, g["name"].get("en", "")) + " " + lab
+            link += f'<a class="deal-go deal-official" href="{html.escape(g["url"])}" rel="noopener" target="_blank">{html.escape(lab)}</a>'
         src = d.get("source", {})
         src_html = (f'<a class="deal-src" href="{html.escape(src["url"])}" rel="noopener" target="_blank">{du["source"]}'
                     f'{" (" + src["date"] + ")" if src.get("date") else ""}</a>') if src.get("url") else ""
