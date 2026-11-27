@@ -16,7 +16,7 @@ updated: 2026-11-27
 
 <aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>表格裡沒有數字的欄位,請到該商店的說明確認。</b> 下單前,在商店的配送說明(Shipping)和退貨說明(Returns)找到你住的地方。結帳時會不會一起收關稅,也在那裡確認。編號 ①~㉒ 是頁面最下方的出處(2026 年 11 月 26~27 日確認)。</span></aside>
 
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>廣告說明。</b> 這一頁的商店連結目前都是一般連結。Nadri 已通過 Stylevana(Awin)聯盟行銷計畫(2026 年 11 月 27 日為止,還沒有放上連結),Olive Young(Rakuten)則已申請。改成聯盟連結後,透過那個連結下的訂單 Nadri 可能拿到佣金,到時會在連結旁標示。詳情:<a href="/zh-tw/disclosure/">Nadri 的收入來源</a>。</span></aside>
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>廣告說明。</b> 這一頁的 Stylevana 連結是聯盟行銷連結(Awin)。透過這個連結下的訂單,Nadri 可能拿到佣金,你支付的價格不變。其他商店連結都是一般連結。Olive Young(Rakuten)已申請。詳情:<a href="/zh-tw/disclosure/">Nadri 的收入來源</a>。</span></aside>
 
 <h2 id="shops">各家商店詳細</h2>
 
@@ -32,7 +32,7 @@ updated: 2026-11-27
 
 </details>
 
-<ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>Olive Young Global<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>住在美國:Olive Young US<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/c/k-beauty" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>iHerb K-Beauty<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/shipping" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>iHerb 配送說明<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.stylevana.com" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>Stylevana<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
+<ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>Olive Young Global<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>住在美國:Olive Young US<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/c/k-beauty" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>iHerb K-Beauty<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/shipping" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>iHerb 配送說明<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.awin1.com/cread.php?awinmid=90791&amp;awinaffid=3168168&amp;clickref=buy-from-home&amp;ued=https%3A%2F%2Fwww.stylevana.com%2F" rel="sponsored noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>Stylevana(聯盟連結)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
 <h2 id="total">算總金額:加三項</h2>
 

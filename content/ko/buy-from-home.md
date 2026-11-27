@@ -16,7 +16,7 @@ updated: 2026-11-27
 
 <aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>표에 숫자가 없는 칸은 그 쇼핑몰 안내에서 확인해요.</b> 주문 전에 쇼핑몰의 배송 안내(Shipping)와 반품 안내(Returns)에서 내 나라를 찾아요. 결제할 때 관세까지 같이 받는지도 거기서 봐요. 번호 ①~㉒는 맨 아래 출처예요(2026년 11월 26~27일 확인).</span></aside>
 
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지의 쇼핑몰 링크는 지금 모두 일반 링크예요. Nadri는 Stylevana(Awin) 제휴 프로그램에 승인됐고(2026년 11월 27일 기준, 아직 링크는 걸지 않았어요), 올리브영(Rakuten)에는 신청해 두었어요. 제휴 링크로 바꾸면 그 링크로 산 주문에서 Nadri가 수수료를 받을 수 있고, 그때 링크 옆에 표시해요. 자세히: <a href="/ko/disclosure/">Nadri의 수익 구조</a>.</span></aside>
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>광고 표시.</b> 이 페이지의 Stylevana 링크는 제휴 링크(Awin)예요. 이 링크로 산 주문에서 Nadri가 수수료를 받을 수 있고, 내는 금액은 같아요. 다른 쇼핑몰 링크는 일반 링크예요. 올리브영(Rakuten)에는 신청해 두었어요. 자세히: <a href="/ko/disclosure/">Nadri의 수익 구조</a>.</span></aside>
 
 <h2 id="shops">쇼핑몰별로 자세히</h2>
 
@@ -32,7 +32,7 @@ updated: 2026-11-27
 
 </details>
 
-<ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>올리브영 글로벌<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>올리브영 US(미국)<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/c/k-beauty" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>iHerb K-뷰티<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/shipping" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>iHerb 배송 안내<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.stylevana.com" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>Stylevana<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
+<ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>올리브영 글로벌<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>올리브영 US(미국)<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/c/k-beauty" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>iHerb K-뷰티<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/shipping" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>iHerb 배송 안내<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.awin1.com/cread.php?awinmid=90791&amp;awinaffid=3168168&amp;clickref=buy-from-home&amp;ued=https%3A%2F%2Fwww.stylevana.com%2F" rel="sponsored noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>Stylevana(제휴 링크)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
 <h2 id="total">총액 계산: 세 칸을 더해요</h2>
 

@@ -16,7 +16,7 @@ updated: 2026-11-27
 
 <aside class="tr-note tip"><i class="ic ic-circle-help" aria-hidden="true"></i><span><b>数字のない欄は、そのショップの案内で確認します。</b> 注文前に、ショップの配送案内(Shipping)と返品案内(Returns)で自分の国を探してください。関税を決済時に一緒に払うかどうかも、そこで確認します。番号①〜㉒はページ下の出典です(2026年11月26〜27日に確認)。</span></aside>
 
-<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>広告について。</b> このページのショップへのリンクは、今はすべて通常のリンクです。NadriはStylevana(Awin)のアフィリエイトに承認されています(2026年11月27日時点、まだリンクは付けていません)。オリーブヤング(Rakuten)には申請中です。アフィリエイトリンクに替えた場合、そのリンク経由の注文でNadriが紹介料を受け取ることがあり、そのときはリンクの横に表示します。詳しくは<a href="/ja/disclosure/">Nadriの収益について</a>。</span></aside>
+<aside class="tr-note"><i class="ic ic-info" aria-hidden="true"></i><span><b>広告について。</b> このページのStylevanaへのリンクはアフィリエイトリンク(Awin)です。このリンク経由の注文でNadriが紹介料を受け取ることがあり、お客様の支払う金額は変わりません。ほかのショップへのリンクは通常のリンクです。オリーブヤング(Rakuten)には申請中です。詳しくは<a href="/ja/disclosure/">Nadriの収益について</a>。</span></aside>
 
 <h2 id="shops">ショップ別にくわしく</h2>
 
@@ -32,7 +32,7 @@ updated: 2026-11-27
 
 </details>
 
-<ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>オリーブヤング グローバル<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>米国在住なら:Olive Young US<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/c/k-beauty" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>iHerb K-Beauty<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/shipping" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>iHerbの配送案内<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.stylevana.com" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>Stylevana<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
+<ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>オリーブヤング グローバル<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>米国在住なら:Olive Young US<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/c/k-beauty" rel="noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>iHerb K-Beauty<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.iherb.com/shipping" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>iHerbの配送案内<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://www.awin1.com/cread.php?awinmid=90791&amp;awinaffid=3168168&amp;clickref=buy-from-home&amp;ued=https%3A%2F%2Fwww.stylevana.com%2F" rel="sponsored noopener" target="_blank"><i class="ic ic-store" aria-hidden="true"></i>Stylevana(アフィリエイトリンク)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
 <h2 id="total">総額の出し方:三つを足す</h2>
 
