@@ -89,5 +89,10 @@
     "program": "Klook (Travelpayouts)",
     "label": "KORAIL PASS on Klook",
     "url": "https://klook.tpx.li/kMxVKo8D"
+  },
+  "klook_ktx": {
+    "program": "Klook (Travelpayouts)",
+    "label": "Korea trains on Klook",
+    "url": "https://klook.tpx.li/ry4uqBR8"
   }
 }

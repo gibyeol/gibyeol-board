@@ -52,7 +52,7 @@ Five places sell tickets:
 - **At the station.** As of late 2025, Korail had new ticket machines at 148 stations that take overseas credit cards.
 - **With your flight.** Since June 2026 some partner airlines and travel agencies sell AREX and KTX tickets together with a flight ("Rail&Air"). You cannot buy that combination in Korail+, on letskorail.com or at a station counter.
 
-<!-- aff: klook_ktx 자리 -->
+{{aff:klook_ktx|Book a KTX ticket on Klook (pick route and date)}}
 
 When you pick a seat, look at its direction: depending on the train, seats face forward or backward, and you can choose. The government says it is developing a system to take global mobile payments such as WeChat Pay and Alipay. There was no launch date when we checked.
 
