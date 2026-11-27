@@ -496,10 +496,10 @@ window.NADRI_REGIONS = {
         zh: 'Chloe 在希臘文是「綠芽」,指春天新長的植物。在希臘神話裡也是女神狄蜜特的稱號。' },
       { r: 'KR', g: { ko: '보성 녹차밭', en: 'Boseong green tea fields', ja: '宝城の緑茶畑', zh: '寶城綠茶園' }, c: 'h', d: '2026-11-28',
         s: [['Wikipedia: Boseong County', 'https://en.wikipedia.org/wiki/Boseong_County']],
-        ko: '한국 보성군은 녹차 잎으로 유명해요. 26.71헥타르의 땅에서 녹차를 길러요.',
-        en: 'Boseong County in South Korea is famous for its green tea leaves, with 26.71 hectares of land dedicated to growing them.',
-        ja: '韓国の宝城(ポソン)郡は緑茶の葉で有名。26.71ヘクタールの土地で緑茶を育てています。',
-        zh: '韓國寶城郡以綠茶葉聞名,有 26.71 公頃的土地種植綠茶。' }
+        ko: '한국 보성군은 녹차 잎으로 유명해요.',
+        en: 'Boseong County in South Korea is famous for its green tea leaves.',
+        ja: '韓国の宝城(ポソン)郡は緑茶の葉で有名です。',
+        zh: '韓國寶城郡以綠茶葉聞名。' }
     ],
     /* 2026-11-28: grace (恩), beauty (妍), brave (豪), olive (Olivia) for the Taiwan and US name cards. Behind the Name name pages and Wikipedia read 2026-11-28. */
     grace: [
@@ -573,7 +573,7 @@ window.NADRI_REGIONS = {
     ]
   };
   /* Korean readings of the names (shown in the Korean interface, loanword rules) */
-  var NK = { Kallisto: '칼리스토', Grace: '그레이스', Megumi: '메구미', Hannah: '해나', Bella: '벨라', Isamu: '이사무', Yong: '융', Oliva: '올리바', Olivier: '올리비에', Minato: '미나토', Bandar: '반다르', Midori: '미도리', Chloe: '클로이', Estrella: '에스트레야', Stella: '스텔라', Hoshiko: '호시코', Xing: '싱', 'Hōkūleʻa': '호쿠레아', Najma: '나지마', Bilge: '빌게', Sophia: '소피아', Hui: '후이', Chie: '지에', Kazu: '가즈', Paz: '파스', Ping: '핑', Irene: '이레네', Lucia: '루시아', Jyoti: '조티', Svetlana: '스베틀라나', Nur: '누르', Guang: '광', Hikari: '히카리', Yu: '위', Lulu: '룰루', Tama: '다마', Margarita: '마르가리타', Moana: '모아나', Hai: '하이', Flora: '플로라', Hana: '하나', Pua: '푸아', William: '윌리엄', Alexander: '알렉산드로스', Mamoru: '마모루', Raja: '라자', Basil: '바실', Wang: '왕', Neve: '네베', Yuki: '유키', Xue: '쉐', Yue: '웨', Qamar: '카마르', Luna: '루나', Surya: '수리아', Hinata: '히나타', Helios: '헬리오스', Santiago: '산티아고', Jacques: '자크' };
+  var NK = { Kallisto: '칼리스토', Grace: '그레이스', Megumi: '메구미', Hannah: '한나', Bella: '벨라', Isamu: '이사무', Yong: '융', Oliva: '올리바', Olivier: '올리비에', Minato: '미나토', Bandar: '반다르', Midori: '미도리', Chloe: '클로이', Estrella: '에스트레야', Stella: '스텔라', Hoshiko: '호시코', Xing: '싱', 'Hōkūleʻa': '호쿠레아', Najma: '나지마', Bilge: '빌게', Sophia: '소피아', Hui: '후이', Chie: '지에', Kazu: '가즈', Paz: '파스', Ping: '핑', Irene: '이레네', Lucia: '루시아', Jyoti: '조티', Svetlana: '스베틀라나', Nur: '누르', Guang: '광', Hikari: '히카리', Yu: '위', Lulu: '룰루', Tama: '다마', Margarita: '마르가리타', Moana: '모아나', Hai: '하이', Flora: '플로라', Hana: '하나', Pua: '푸아', William: '윌리엄', Alexander: '알렉산드로스', Mamoru: '마모루', Raja: '라자', Basil: '바실', Wang: '왕', Neve: '네베', Yuki: '유키', Xue: '쉐', Yue: '웨', Qamar: '카마르', Luna: '루나', Surya: '수리아', Hinata: '히나타', Helios: '헬리오스', Santiago: '산티아고', Jacques: '자크' };
   Object.keys(W).forEach(function (k) { W[k].forEach(function (e) { if (!e.chain && !e.d) e.d = D; if (e.n && NK[e.n]) e.nk = NK[e.n]; }); });
   window.NADRI_WORLD = W;
 })();
