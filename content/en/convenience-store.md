@@ -22,7 +22,7 @@ disclosure: yes
 
 The big four are **CU, GS25, 7-Eleven and emart24** (photos above), with 53,266 stores between them at the end of 2025, according to an April 2026 report (CEO Score Daily; we could not reopen it today, so this is from our 25 November 2026 check). That fell by about 3% in a year as chains closed weaker stores, but in a city you're rarely more than a short walk from one.
 
-Not all of them are open 24 hours. According to a December 2025 report (Money Today; we could not reopen it today), 42,791 stores ran around the clock in June 2025, about 78% of the total. Today's figure may differ. The other one in five closes at night, and some become unstaffed after hours. So find one like this:
+Not all of them are open 24 hours. According to a December 2025 report (Money Today; we could not reopen it today), 42,791 stores ran around the clock in June 2025, about 78% of the total. Today's figure may differ. The other one in five is not a 24-hour store. So find one like this:
 
 1. **Search:** in a map app (e.g. Naver Map or KakaoMap) search for 편의점 (convenience store), CU or GS25. Installing and using a map app: [Open the map app](/seoul-subway/#map-app)
 2. **Hours:** tap a nearby store and check its opening hours. Late at night, make sure it's 24 hours.

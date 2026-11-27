@@ -3,7 +3,6 @@ title: Flying to Seoul for a K-pop concert: tickets, venues, bags and the night 
 description: How foreigners buy K-pop tickets in Korea, what the 2026 anti-scalping law changed, and how to reach KSPO Dome, Gocheok Sky Dome and Inspire Arena.
 lede: Buy only on the global site the agency names, in your passport name, and never from a reseller. Then book your hotel by venue, not by neighborhood vibe, because getting home after the encore is the hard part.
 section: seoul
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## The one-line judgment
@@ -68,7 +67,7 @@ The law targets sellers. For you, the practical risk is simpler: a ticket booked
 
 **Inspire Arena (Yeongjong Island, Incheon).** About 15,000 seats, roughly 15 minutes by car from the airport. Free resort shuttles run from Terminal 1 (stops 2C or 14C) and Terminal 2 (8C). They hold about 40 people, first come, first served, and fill up on event days. Some promoters run paid shuttles from Seoul, so check your concert's notice. A taxi to central Seoul takes about 1 to 1.5 hours.
 
-**Seoul World Cup Stadium (Sangam).** More than 66,000 seats, but ground-level tickets are usually not sold, to protect the pitch. It is on Line 6 (World Cup Stadium Station).
+**Seoul World Cup Stadium (Sangam).** It is on Line 6 (World Cup Stadium Station).
 
 **Jamsil Olympic Main Stadium.** Its three-year renovation ends at the end of 2026, then it hosts the LG Twins and Doosan Bears through 2031. No concerts have been announced there yet (Korea Times, 15 September 2026). If an old guide sends you to Jamsil for a stadium show, double-check.
 

@@ -3,7 +3,6 @@ title: Eating in Korea: what to order, how ordering works, and eating with dieta
 description: Which dishes fit which moment, tablet and kiosk ordering, booking through Naver Map, Baemin delivery with a foreign card, plus vegetarian, halal and allergy help. Checked November 2026.
 lede: Eat by situation, not by bucket list: kimbap or a stew for a quick lunch, BBQ with company, cash at the market, and Baemin to your hotel late at night. If you have a dietary limit, the one thing that matters is a clear Korean sentence, so we wrote them for you below.
 section: essentials
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A BBQ evening
@@ -19,7 +18,7 @@ Some places grill the meat for you; when it's ready, wrap a piece in a leaf (ssa
 | Situation | What to do | Why |
 |---|---|---|
 | Quick lunch, maybe alone | Kimbap shop, a stew with rice, a noodle or rice-soup place | Fast, single servings, no one minds a solo diner |
-| BBQ night | Go with at least one other person, or ask "1인분 돼요?" at the door | Meat grilled at the table is often sold two servings minimum |
+| BBQ night | Go with at least one other person, or ask "1인분 돼요?" at the door | Some places sell table-grilled meat two servings minimum |
 | Late night at the hotel | Order on Baemin | Foreign cards work and no Korean phone number is needed |
 | Vegetarian, halal or allergic | Show a Korean sentence before you order | Broths, fish sauce and salted shrimp hide in dishes that look safe |
 
@@ -59,7 +58,7 @@ Not confirmed: whether Naver's waiting list is included, and whether CatchTable 
 
 ## Delivery for visitors: Baemin
 
-Baemin (Baedal Minjok) is the delivery app that changed most for visitors in 2026:
+Baemin (Baedal Minjok) made three changes in 2026 that help visitors:
 
 - **Language:** English, Chinese and Japanese since February, following your phone's language.
 - **Cards:** Apple Pay with foreign Visa, Mastercard, JCB and Amex since 2 June; foreign credit cards, WeChat Pay and Alipay+ too.

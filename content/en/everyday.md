@@ -3,12 +3,11 @@ title: Everyday Korea: eating alone, tipping, English, safety and the small rule
 description: No tipping, solo dining, call bells, how much English to expect, emergency numbers, plugs, drinking age, smoking and subway manners. Checked November 2026.
 lede: Korea is easy on first-timers: no tipping, eating alone is normal, and crime against visitors is rare. What trips people up is the small stuff, like the two-serving rule, missing trash bins and pink subway seats, so here is all of it on one page.
 section: essentials
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A dinner on your own
 
-You walk into a noodle shop alone, which in Korea is ordinary enough to have a name, *honbap*. Water is free, often from a dispenser by the wall. When you are ready to order you press the call button on the table instead of waving; it may be louder than you expect. At the end you take the slip to the counter and pay what the menu said, tax and service already in it. Our pick for the ending scene: walking out after paying the listed price, with nothing left to work out.
+You walk into a noodle shop alone, which in Korea is ordinary enough to have a name, *honbap*. Water is free, sometimes from a dispenser by the wall. When you are ready to order you press the call button on the table instead of waving; it may be louder than you expect. At the end you take the slip to the counter and pay what the menu said, tax and service already in it. Our pick for the ending scene: walking out after paying the listed price, with nothing left to work out.
 
 ## Things that surprise first-timers
 
@@ -31,23 +30,23 @@ A few cafés have put out tip jars or added tip buttons to tablets in recent yea
 
 Eating alone has a name in Korean, *honbap*, and it is ordinary. More than a third of Korean households are one person (36.1% in 2024, National Data Office), and Statistics Korea's 2024 time-use survey found roughly a quarter of lunches and dinners were eaten alone. Noodle shops, gukbap (rice soup) places, kimbap shops, food courts and convenience stores are all easy solo options.
 
-The exception is anything cooked at the table for sharing. Some restaurants ask solo diners to order two servings, and travellers commonly run into this at grill-your-own BBQ and hot-pot places. In November 2025 a restaurant sign refusing solo diners went viral in Korea, and most of the online reaction was against the owner. It is the restaurant's call, though, so:
+The exception is anything cooked at the table for sharing. Some grill-your-own BBQ and hot-pot places ask solo diners to order two servings. In November 2025 a restaurant sign refusing solo diners went viral in Korea, and most of the online reaction was against the owner. It is the restaurant's call, though, so:
 
 - If the menu says "2인분 이상" (two servings or more), that is the rule.
 - Ask at the door before sitting. Showing "1인분 돼요?" ("Can I order one serving?") in Papago works.
 
 ## Restaurant basics
 
-- **Water is free** and often self-serve from a dispenser or a fridge by the wall. Refills of side dishes are free too (KTO).
+- **Water is free**, and in some places you help yourself from a dispenser or a fridge by the wall. Refills of side dishes are free too (KTO).
 - **Call bell.** Every table has a call button. KTO warns it may be louder than you expect.
 - **Paying.** Many places now take your order and payment on a table tablet or a kiosk at the door. If you ordered from staff and no one brings the bill, take the slip from your table to the counter on the way out.
-- **Cards** are accepted almost everywhere; see [Money in Korea](/money/).
+- Try a **card** first; some places don't take foreign cards. See [Money in Korea](/money/).
 
 {{fig:everyday-1|What to look for at a Korean restaurant table}}
 
 ## How much English to expect
 
-Korea ranked 48th in the 2025 EF English Proficiency Index, with Seoul scoring higher than the national average. In practice: hotel and airport staff usually manage, while taxi drivers and small restaurant owners often do not. The UK government notes that taxi drivers "tend to speak little or no English", so keep your destination written in Korean.
+Korea ranked 48th in the 2025 EF English Proficiency Index, with Seoul scoring higher than the national average. The UK government notes that taxi drivers "tend to speak little or no English", so keep your destination written in Korean.
 
 What helps most:
 
@@ -66,7 +65,6 @@ The same governments flag the same risks, so take them as our short list:
 - **Taxis.** Use licensed taxis or a taxi app such as Kakao T.
 - **Pickpockets** in crowded markets and tourist areas.
 
-Feeling safe is not the same as being safe late at night, and the low crime rate can make people drop their guard. That is the only real warning.
 
 ### Numbers to save
 

@@ -1,9 +1,8 @@
 ---
 title: Money in Korea: card, cash and exchange, sorted
 description: Where foreign cards work, how much cash to carry, where to exchange, what to do when an app rejects your card, and leftover won. Checked for late 2026.
-lede: Short version: pay by card almost everywhere, carry a little cash for market food, and change money in the city, not at the airport. Get those three right and money stops being a thing you think about.
+lede: Short version: pay by card first, carry a little cash for market food, and change money in the city, not at the airport.
 section: essentials
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## The short answer
@@ -11,11 +10,11 @@ updated: 2026-11-26
 | Where | Use | Why |
 |---|---|---|
 | Department stores, restaurants, convenience stores, taxis | Your foreign card | Visa, Mastercard, Amex, JCB and UnionPay are widely accepted |
-| Gwangjang or Namdaemun market food, street stalls | Cash | Many small stalls have no terminal for foreign cards |
+| Gwangjang or Namdaemun market food, street stalls | Cash | Some small stalls cannot take foreign cards |
 | Subway and bus | A transport card | You can't tap a foreign bank card at the gate yet |
 | Delivery and booking apps | Depends on the app | See "When your card is rejected" below |
 
-Our call on cards: bring two from different networks (say, Visa plus Mastercard or JCB). When one is turned down, the other often goes through.
+Our call on cards: bring two from different networks (say, Visa plus Mastercard or JCB). If one is turned down, you can try the other brand.
 
 ## Your first day with money in Korea
 

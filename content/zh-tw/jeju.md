@@ -3,7 +3,6 @@ title: 韓國行加上濟州島:從首爾怎麼去、不開車怎麼玩、免簽
 description: 首爾飛濟州怎麼訂、不租車能不能玩、台灣人開車要帶什麼、「濟州免簽」到底跟你有沒有關係。2026年11月確認。
 lede: 我們的建議:從金浦飛、比你想的更早訂位,不開車就住濟州市或東海岸。拿台灣護照的話,「濟州免簽」的新聞跟你沒什麼關係。
 section: transport
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## 在濟州的第一個下午
@@ -19,7 +18,7 @@ updated: 2026-11-26
 | 不開車 | 住濟州市或東海岸,公車加計程車 | 101路和201路串起機場和東海岸;車上不收現金 |
 | 想開車 | 出發前在台灣辦好國際駕照 | 入境起1年內有效,只能開駕照上載明的車種 |
 
-怎麼選的:一個住宿據點、串起機場和東海岸的兩條公車,加上要不要開車這一個決定。沒放的:西海岸和中間山區(公車路線沒確認)、租車公司比較。不需要這頁的人:第一次去韓國、只有3天的話,濟州下次再說。飛行時間雖短,兩邊機場加起來就去掉大半天。
+怎麼選的:一個住宿據點、串起機場和東海岸的兩條公車,加上要不要開車這一個決定。沒放的:西海岸和中間山區(公車路線沒確認)、租車公司比較。不需要這頁的人:第一次去韓國、只有3天的話,濟州下次再說。
 
 ## 怎麼去:從金浦,不是仁川
 
@@ -28,8 +27,6 @@ updated: 2026-11-26
 {{fig:jeju-1|仁川到濟州:經金浦,或一週3班直飛}}
 
 金浦可以從仁川搭機場鐵路過去,請看[仁川機場到首爾](/zh-tw/airport-to-seoul/)。濟州航空2026年11月2日起仁川–濟州每週一、三、五共3班,並延長到2027年3月27日。
-
-**台灣直飛濟州:** 台灣虎航2026年4月促銷時有桃園–濟州航線。班次和冬季是否續飛,我們這次沒能確認,訂票前請看虎航官網。
 
 > 搭國內線也要帶護照。大韓航空國內線接受外國成人出示護照正本,報到在起飛前30分鐘截止,登機在10分鐘前截止。廉航可能更嚴格。
 
@@ -61,9 +58,9 @@ updated: 2026-11-26
 
 | 區域 | 適合 | 缺點 |
 |---|---|---|
-| 濟州市 | 短天數、晚到、轉公車 | 風景最普通,比南邊冷 |
-| 東海岸(咸德〜城山) | 不開車:機場搭101路,沿海搭201路 | 晚上選擇少,公車30〜80分鐘一班 |
-| 西歸浦(南部) | 冬天較暖、南岸景點、機場巴士 | 離機場最遠 |
+| 濟州市 | 短天數、晚到、轉公車 | 比南邊冷(氣象廳,2025年冬季平均最高氣溫 濟州11.2°C、西歸浦13.6°C) |
+| 東海岸(咸德〜城山) | 不開車:機場搭101路,沿海搭201路 | 201路公車30〜80分鐘一班 |
+| 西歸浦(南部) | 冬天較暖、南岸景點 | 離機場遠。機場巴士600路開到西歸浦的資訊只有2020年的資料,上車前請在機場巴士站牌看路線說明確認(見上方「不開車怎麼玩」) |
 
 ## 天氣簡單說
 
@@ -86,4 +83,4 @@ updated: 2026-11-26
 
 ## 資料來源
 
-<p class="sources"><a href="https://www.oag.com/pressroom/south-koreas-jeju-cju-seoul-gimpo-gmp-worlds-busiest-airline-route-in-2025" rel="noopener" target="_blank">OAG,2025全球最繁忙航線</a>(2025年12月22日);<a href="https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000030.html" rel="noopener" target="_blank">NewDaily,金浦–濟州旅客與2026年6月減班</a>(2026年7月20日);<a href="https://view.asiae.co.kr/en/article/2026091410163134123" rel="noopener" target="_blank">亞洲經濟,濟州航空仁川–濟州航線</a>(2026年9月14日);<a href="https://www.ctee.com.tw/news/20260410701162-430201" rel="noopener" target="_blank">工商時報,台灣虎航促銷含桃園–濟州</a>(2026年4月10日);<a href="https://www.koreanair.com/contents/plan-your-travel/at-the-airport/boarding-procedure/domestic-flights-boarding" rel="noopener" target="_blank">大韓航空國內線登機說明</a>(2026年11月25日確認);<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA,搭公車玩濟州東海岸</a>(2025年1月更新);<a href="https://m.seoul.co.kr/news/2026/04/30/20260430500235" rel="noopener" target="_blank">首爾新聞,濟州公車與K-Pass</a>(2026年5月1日);<a href="https://www.molit.go.kr/jroa/USR/WPGE0201/m_36332/DTL.jsp" rel="noopener" target="_blank">濟州地方航空廳交通指引</a>(2026年11月25日確認);<a href="https://www.airportal.go.kr/file/htmlOpen/upload/airport/%EC%A0%9C%EC%A3%BC%EA%B3%B5%ED%95%AD.pdf" rel="noopener" target="_blank">Airportal濟州機場簡介</a>(2020年7月資料);<a href="https://www.incheon.go.kr/ml_kr/MLKR050207" rel="noopener" target="_blank">仁川市,國際駕照開車說明</a>(2026年11月25日確認);<a href="https://cars.tvbs.com.tw/life/39439" rel="noopener" target="_blank">TVBS,台灣人持國際駕照在韓開車</a>(2022年2月18日);<a href="https://www.kma.go.kr/kma/flexer/html/press/2026/03/04/ATC202603041015172_58308820-55dd-40ca-ad55-4afd11a081eb.hwp.files/Sections1.html" rel="noopener" target="_blank">韓國氣象廳,2025年冬季氣候</a>(2026年3月4日);<a href="https://www.fnnews.com/news/202611181107351061" rel="noopener" target="_blank">Financial News,濟州免簽與廢止法案</a>(2026年11月18日)。 2026年11月26日重新確認:<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">法務部,K-ETA暫時免申請延長到2027年12月31日</a>(2026年11月23日)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA,搭公車玩濟州東海岸</a>(仍為2025年1月更新)。</p>
+<p class="sources"><a href="https://www.oag.com/pressroom/south-koreas-jeju-cju-seoul-gimpo-gmp-worlds-busiest-airline-route-in-2025" rel="noopener" target="_blank">OAG,2025全球最繁忙航線</a>(2025年12月22日);<a href="https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000030.html" rel="noopener" target="_blank">NewDaily,金浦–濟州旅客與2026年6月減班</a>(2026年7月20日);<a href="https://view.asiae.co.kr/en/article/2026091410163134123" rel="noopener" target="_blank">亞洲經濟,濟州航空仁川–濟州航線</a>(2026年9月14日);<a href="https://www.koreanair.com/contents/plan-your-travel/at-the-airport/boarding-procedure/domestic-flights-boarding" rel="noopener" target="_blank">大韓航空國內線登機說明</a>(2026年11月25日確認);<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA,搭公車玩濟州東海岸</a>(2025年1月更新);<a href="https://m.seoul.co.kr/news/2026/04/30/20260430500235" rel="noopener" target="_blank">首爾新聞,濟州公車與K-Pass</a>(2026年5月1日);<a href="https://www.molit.go.kr/jroa/USR/WPGE0201/m_36332/DTL.jsp" rel="noopener" target="_blank">濟州地方航空廳交通指引</a>(2026年11月25日確認);<a href="https://www.airportal.go.kr/file/htmlOpen/upload/airport/%EC%A0%9C%EC%A3%BC%EA%B3%B5%ED%95%AD.pdf" rel="noopener" target="_blank">Airportal濟州機場簡介</a>(2020年7月資料);<a href="https://www.incheon.go.kr/ml_kr/MLKR050207" rel="noopener" target="_blank">仁川市,國際駕照開車說明</a>(2026年11月25日確認);<a href="https://cars.tvbs.com.tw/life/39439" rel="noopener" target="_blank">TVBS,台灣人持國際駕照在韓開車</a>(2022年2月18日);<a href="https://www.kma.go.kr/kma/flexer/html/press/2026/03/04/ATC202603041015172_58308820-55dd-40ca-ad55-4afd11a081eb.hwp.files/Sections1.html" rel="noopener" target="_blank">韓國氣象廳,2025年冬季氣候</a>(2026年3月4日);<a href="https://www.fnnews.com/news/202611181107351061" rel="noopener" target="_blank">Financial News,濟州免簽與廢止法案</a>(2026年11月18日)。 2026年11月26日重新確認:<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">法務部,K-ETA暫時免申請延長到2027年12月31日</a>(2026年11月23日)、<a href="https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220897" rel="noopener" target="_blank">VISITKOREA,搭公車玩濟州東海岸</a>(仍為2025年1月更新)。</p>

@@ -16,7 +16,7 @@ disclosure: yes
 
 このページは**買う**場所の話です。**泊まる**場所は[ソウルの宿エリアの選び方](/ja/seoul-areas/)へ。
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>Kビューティー、初めてのソウル: 明洞</b><span>2号線乙支路入口駅5番か4号線明洞駅8番出口。ビジットソウルが「ショッピングの1番地」と紹介する街。開店直後がいいと私たちは考えます。<a href="#myeongdong">明洞へ</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>韓国の新ブランド、ポップアップ: 聖水</b><span>2号線聖水駅4番出口。延武場キルにオリーブヤングN聖水、ムシンサ・メガストア。週末は混むので平日がいいと考えます。<a href="#seongsu">聖水へ</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>若いファッション、K-POPグッズ: 弘大</b><span>2号線弘大入口駅9番出口から350mのR3ファッション通り。夕方〜夜がいいと考えます。<a href="#hongdae">弘大へ</a></span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>Kビューティー、初めてのソウル: 明洞</b><span>2号線乙支路入口駅5番か4号線明洞駅8番出口。ビジットソウルが「ショッピングの1番地」と紹介する街。<a href="#myeongdong">明洞へ</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>韓国の新ブランド、ポップアップ: 聖水</b><span>2号線聖水駅4番出口。延武場キルにオリーブヤングN聖水、ムシンサ・メガストア。週末は混むので平日がいいと考えます。<a href="#seongsu">聖水へ</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>若いファッション、K-POPグッズ: 弘大</b><span>2号線弘大入口駅9番出口から350mのR3ファッション通り。夕方〜夜がいいと考えます。<a href="#hongdae">弘大へ</a></span></li></ul>
 
 {{fig:shopping-streets-1|私たちの判断: 街ごとに合う物と行くのにいい時間}}
 
@@ -50,7 +50,6 @@ disclosure: yes
 <figure class="tr-photo"><img src="/static/photo/myeongdong-theater.webp" alt="夜の明洞芸術劇場。正面に「명동예술극장 MYEONGDONG THEATER」の文字" loading="lazy" width="780" height="520"><figcaption><b>明洞芸術劇場</b>。この建物が見えたら明洞の真ん中の交差点です。<span class="tr-credit">写真: lumoplank、<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ja" rel="noopener" target="_blank">CC0</a>、<a href="https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(縮小、明るさ自動補正)</span></figcaption></figure>
 
 - **オリーブヤング明洞グローバル店:** 明洞キル53。毎日10:00〜22:30(店の都合で変わることあり)。1〜2階、レジで即時タックスリファンド、WeChat Pay・アリペイなどの簡単決済、ギフト包装、外国語対応。店内にトイレはなく、近くの地下鉄駅のトイレを使うよう案内しています。
-- **行くのにいい時間:** 開店直後。混雑データではなく私たちの推測です。
 - **近く:** 明洞駅そばの12階建ての[ダイソー](/ja/daiso/)。免税店はロッテ免税店本店(乙支路入口駅7・8番出口)、新世界免税店(会賢駅5番出口)が近いです([免税店](/ja/duty-free/))。
 - **向かない人:** 地元の人が歩く街を見たい人。
 

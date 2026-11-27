@@ -1,7 +1,6 @@
 ---
 title: Privacy
 description: What data Nadri and the services it uses collect when you visit.
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## What Nadri collects
@@ -16,7 +15,7 @@ Nadri has no accounts, forms or newsletter, and sets no cookies of its own.
 - **Affiliate link script.** Only pages that show the affiliate notice (12 pages, such as the airport, eSIM and shopping pages), and only after you choose "Accept" in the cookie notice, load a script from Travelpayouts (our travel affiliate network) that turns some travel links into affiliate links and measures clicks on them. It may store a small identifier in your browser to credit bookings.
 - **Shopping affiliate script.** The same 12 pages also load a script from Skimlinks, which turns some store links into affiliate links and measures clicks on them. It may store a small identifier in your browser to credit purchases. Pages about health and emergencies do not load it.
 - **Your choice.** These affiliate scripts load only after you tap "Accept" in the cookie notice. If you reject, or your browser sends a Global Privacy Control signal, they stay off. [Change your cookie choice](#consent-reset).
-- **Affiliate partners.** When you click an affiliate link, the partner site (for example Klook, Agoda or Airalo) may set cookies to credit the referral. Their own privacy policies apply once you are on their site.
+- **Affiliate partners.** When you click an affiliate link, the partner site (for example Klook or Yesim) may set cookies to credit the referral. Their own privacy policies apply once you are on their site.
 
 ## Contact
 

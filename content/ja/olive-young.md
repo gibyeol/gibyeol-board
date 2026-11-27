@@ -40,7 +40,7 @@ disclosure: yes
 
 <figure class="tr-photo"><img src="/static/photo/seongsu-yeonmujang-gil.webp" alt="聖水洞の練武場キルの通りと店の看板" loading="lazy" width="780" height="585"><figcaption><b>練武場キル</b>。聖水駅4番出口から始まります。オリーブヤングN聖水はこの道の方へ118m。<span class="tr-credit">写真:Dr. Thomas Liptak、<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja" rel="noopener" target="_blank">CC BY-SA 4.0</a>、<a href="https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg" rel="noopener" target="_blank">ウィキメディア・コモンズ</a>(切り抜き、明るさ自動補正)</span></figcaption></figure>
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>セール週は小さな支店のほうが空いていることも。大型店は品ぞろえが一番多く、外国語で対応するスタッフがいます。</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>大型店は品ぞろえが一番多く、外国語で対応するスタッフがいます。</span></aside>
 
 <h2 id="inside">店内で:入口 → 売り場 → 試す → レジ</h2>
 

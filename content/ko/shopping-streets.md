@@ -16,7 +16,7 @@ disclosure: yes
 
 이 글은 어디서 **살지**를 다뤄요. 어디서 **잘지**는 [서울 숙소 지역 고르기](/ko/seoul-areas/)를 보세요.
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-뷰티, 첫 서울: 명동</b><span>2호선 을지로입구역 5번 또는 4호선 명동역 8번 출구. 비짓서울이 '쇼핑 1번지'로 소개하는 곳. 문 연 직후가 좋다고 봐요. <a href="#myeongdong">명동 보기</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>새 한국 브랜드, 팝업: 성수</b><span>2호선 성수역 4번 출구. 연무장길에 올리브영 N 성수, 무신사 메가스토어. 주말은 붐벼서 평일이 좋다고 봐요. <a href="#seongsu">성수 보기</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>젊은 패션, K-팝 굿즈: 홍대</b><span>2호선 홍대입구역 9번 출구에서 350m, R3 패션 거리. 늦은 오후~저녁이 좋다고 봐요. <a href="#hongdae">홍대 보기</a></span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-뷰티, 첫 서울: 명동</b><span>2호선 을지로입구역 5번 또는 4호선 명동역 8번 출구. 비짓서울이 '쇼핑 1번지'로 소개하는 곳. <a href="#myeongdong">명동 보기</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>새 한국 브랜드, 팝업: 성수</b><span>2호선 성수역 4번 출구. 연무장길에 올리브영 N 성수, 무신사 메가스토어. 주말은 붐벼서 평일이 좋다고 봐요. <a href="#seongsu">성수 보기</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>젊은 패션, K-팝 굿즈: 홍대</b><span>2호선 홍대입구역 9번 출구에서 350m, R3 패션 거리. 늦은 오후~저녁이 좋다고 봐요. <a href="#hongdae">홍대 보기</a></span></li></ul>
 
 {{fig:shopping-streets-1|저희 판단: 거리마다 잘 맞는 물건과 가기 좋은 시간}}
 
@@ -50,7 +50,6 @@ disclosure: yes
 <figure class="tr-photo"><img src="/static/photo/myeongdong-theater.webp" alt="밤의 명동예술극장 건물, 정면에 '명동예술극장 MYEONGDONG THEATER' 글자" loading="lazy" width="780" height="520"><figcaption><b>명동예술극장</b>. 이 건물이 보이면 명동 한가운데 사거리예요.<span class="tr-credit">사진: lumoplank, <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.ko" rel="noopener" target="_blank">CC0</a>, <a href="https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg" rel="noopener" target="_blank">위키미디어 공용</a> (줄임, 밝기 자동 보정)</span></figcaption></figure>
 
 - **올리브영 명동 글로벌 매장:** 명동길 53. 매일 10:00~22:30(매장 사정에 따라 바뀔 수 있음). 1~2층, 계산대 즉시 택스리펀드, 위챗페이·알리페이 같은 간편결제, 선물 포장, 외국어 응대. 매장에 화장실이 없어서 가까운 지하철역 화장실을 쓰라고 안내해요.
-- **가기 좋은 시간:** 문 연 직후. 혼잡 자료가 아니라 저희 추측이에요.
 - **근처:** 명동역 옆 12층짜리 [다이소](/ko/daiso/). 면세점은 롯데면세점 본점(을지로입구역 7·8번 출구), 신세계면세점(회현역 5번 출구)이 가까워요([면세점](/ko/duty-free/)).
 - **이런 분은 건너뛰세요:** 현지인이 다니는 거리를 원하는 분.
 

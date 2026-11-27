@@ -1,9 +1,8 @@
 ---
 title: Getting sick in Korea: pharmacies, convenience-store medicine, clinics and emergencies
 description: Where to get cold medicine at night, how to find an open pharmacy, seeing a doctor without Korean insurance, 119 and 1339, and bringing your own meds. Checked November 2026.
-lede: Most travel illnesses in Korea are solved at a pharmacy, a 24-hour convenience store or a small neighborhood clinic, in that order. Save the big hospitals for emergencies or when you need English-speaking help with a booking.
+lede: For minor illness on the road, go to a pharmacy, a 24-hour convenience store or a small neighborhood clinic, in that order. Save the big hospitals for emergencies or when you need English-speaking help with a booking.
 section: essentials
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 This page is practical help for finding care, not medical advice. If you are unsure how serious something is, call 1339 (below) or 119.
@@ -60,7 +59,7 @@ Look for the character **약** ("medicine") on the sign. Pharmacies sell over-th
 
 {{fig:health-3|The pharmacy sign, and three ways to find one open}}
 
-Most close in the evening. To find one that is open:
+To find one open at night or on a holiday:
 
 - **E-Gen** ([e-gen.or.kr](https://www.e-gen.or.kr)), the National Emergency Medical Center's portal. Choose your area, pick pharmacy or hospital, then a date or holiday to see what is open. The Korean government recommends it for holidays.
 - **Late-night pharmacies** designated by local governments typically open from 10 p.m. to midnight or into the early morning (Korea Times, March 2026).

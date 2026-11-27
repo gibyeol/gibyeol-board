@@ -3,7 +3,6 @@ title: Seoul's palaces and old town: tickets, hanbok, closing days and what's wo
 description: Which Seoul palace to pick, ticket prices, the Monday/Tuesday closing days, winter hours, free entry in hanbok, the Secret Garden and Bukchon's visiting hours.
 lede: If you only have half a day, do Gyeongbokgung in the morning, walk through Bukchon before 5 pm, and stop there. Tickets cost 1,000–3,000 won, so plan around closing days and winter hours, not money.
 section: seoul
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A morning at Gyeongbokgung
@@ -58,7 +57,7 @@ The integrated ticket gives one visit to each site within six months; staff tear
 
 **Prices may change.** Unchanged since 2005, the fees were due to rise from 1 January 2027, but on 8 October 2026 Yonhap reported the timing as "undecided". We had seen no new fee table by 26 November 2026.
 
-**Free Wednesdays.** In May 2026 the Heritage Service announced free entry every Wednesday at Deoksugung from August and at Changdeokgung, Changgyeonggung and Jongmyo from October (not Gyeongbokgung, not the Secret Garden). We could not confirm on the official site that it is running; check [royal.khs.go.kr](https://royal.khs.go.kr) first. Jongmyo is also free on the last Wednesday of each month.
+**Free Wednesdays.** In May 2026 the Heritage Service announced free entry every Wednesday at Deoksugung from August and at Changdeokgung, Changgyeonggung and Jongmyo from October (not Gyeongbokgung, not the Secret Garden). If it went ahead as announced, it should be running now; that is our expectation, based on Segye Ilbo's report of 27 May 2026. We could not confirm whether free Wednesdays are part of the fee overhaul above, whose timing Yonhap reported as "undecided" on 8 October. We could not confirm it on the official site, so check [royal.khs.go.kr](https://royal.khs.go.kr) first. Jongmyo is also free on the last Wednesday of each month.
 
 ## Hanbok: is renting worth it?
 
@@ -66,7 +65,7 @@ Wearing hanbok gets you in free. It has to be a top (jeogori) plus a skirt or tr
 
 {{fig:palaces-5|What counts as hanbok for free entry}}
 
-**Our call:** rent for two or three hours around one palace if the photos matter. The saving is only 1,000–3,000 won, fitting and returning take time, long skirts on gravel tire you, and in winter you will be cold. Skip it for a several-site day. The free-entry rule is also under the fee review.
+**Our call:** rent for two or three hours around one palace if the photos matter. The saving is only 1,000–3,000 won, and fitting and returning take time. Skip it for a several-site day. The free-entry rule is also under the fee review.
 
 ## The Secret Garden (Changdeokgung)
 

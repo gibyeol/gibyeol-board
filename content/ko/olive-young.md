@@ -40,7 +40,7 @@ disclosure: yes
 
 <figure class="tr-photo"><img src="/static/photo/seongsu-yeonmujang-gil.webp" alt="성수동 연무장길의 거리와 가게 간판" loading="lazy" width="780" height="585"><figcaption><b>연무장길</b>. 성수역 4번 출구에서 시작해요. 올리브영N 성수는 이 길 쪽으로 118m.<span class="tr-credit">사진: Dr. Thomas Liptak, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ko" rel="noopener" target="_blank">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg" rel="noopener" target="_blank">위키미디어 공용</a> (잘라 냄, 밝기 자동 보정)</span></figcaption></figure>
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>세일 주간엔 작은 지점이 더 한산할 수 있어요. 큰 매장은 상품 종류가 가장 넓고 외국어 응대 직원이 있어요.</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>큰 매장은 상품 종류가 가장 넓고 외국어 응대 직원이 있어요.</span></aside>
 
 <h2 id="inside">매장 안에서: 입구 → 구역 → 써 보기 → 계산대</h2>
 

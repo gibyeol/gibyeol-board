@@ -40,7 +40,7 @@ In every store you pick and pay in the same order. What changes is the size and 
 
 <figure class="tr-photo"><img src="/static/photo/seongsu-yeonmujang-gil.webp" alt="Yeonmujang-gil street in Seongsu-dong with shop signs" loading="lazy" width="780" height="585"><figcaption><b>Yeonmujang-gil</b> starts at Seongsu Station exit 4. Olive Young N Seongsu is 118 m along this way.<span class="tr-credit">Photo: Dr. Thomas Liptak, <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener" target="_blank">CC BY-SA 4.0</a>, via <a href="https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (cropped, light auto-contrast)</span></figcaption></figure>
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>In sale week, smaller branches can be calmer. The big stores have the widest range and staff who speak other languages.</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>The big stores have the widest range and staff who speak other languages.</span></aside>
 
 <h2 id="inside">Inside: entrance → sections → try → till</h2>
 

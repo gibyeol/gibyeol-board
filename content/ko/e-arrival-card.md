@@ -1,13 +1,13 @@
 ---
 title: 전자입국신고서(e-Arrival Card), 화면 따라 작성하기
 description: 한국에 올 때 내는 무료 전자입국신고서. 제출 시기, 유료 가짜 사이트, 숙소 여러 곳·귀국일 미정·아이 동반·환승 작성법.
-lede: 무료, 휴대폰으로 10분쯤, 도착 3일 전부터. 미리 내 두면 입국심사대에서 심사관이 이미 내 정보를 보고 있어요.
+lede: 무료, 휴대폰으로, 도착 3일 전부터. 미리 내 두면 입국심사대에서 심사관이 이미 내 정보를 보고 있어요.
 section: essentials
 updated: 2026-11-26
 ---
 <div class="eac-cta"><a class="eac-btn" href="#누가-내야-하나요"><i class="ic ic-circle-help" aria-hidden="true"></i>내야 하나요?</a><a class="eac-btn go" href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">작성하러 가기 <i class="ic ic-arrow-right" aria-hidden="true"></i></a></div>
 
-<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>무료</li><li><i class="ic ic-clock" aria-hidden="true"></i>10분쯤</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>도착 3일 전부터</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>휴대폰·컴퓨터, 앱 없음</li></ul>
+<ul class="eac-facts"><li><i class="ic ic-wallet" aria-hidden="true"></i>무료</li><li><i class="ic ic-calendar-days" aria-hidden="true"></i>도착 3일 전부터</li><li><i class="ic ic-smartphone" aria-hidden="true"></i>휴대폰·컴퓨터, 앱 없음</li></ul>
 
 {{fig:e-arrival-card-shot-1|진짜 사이트는 먼저 이렇게 경고해요. ① 공식 사이트는 www.e-arrivalcard.go.kr 하나뿐이고, 결제정보를 묻는 곳은 공식이 아니에요. ② 확인을 누르면 닫혀요. 화면: e-arrivalcard.go.kr(법무부), 2026년 11월 26일 캡처}}
 
@@ -23,7 +23,7 @@ updated: 2026-11-26
 
 이 페이지가 필요 없는 사람: 대한민국 국민(복수국적자는 한국 여권으로 입국), 등록외국인, 유효한 K-ETA 소지자, 단체사증 소지자, 24시간 안에 환승하며 환승 구역을 벗어나지 않는 사람.
 
-뺀 것: 대신 신고해 주는 유료 대행(공식 신고서는 무료이고 몇 분이면 끝나요), K-ETA 신청 방법(면제 대상은 2027년 말까지 필요 없어요).
+뺀 것: 대신 신고해 주는 유료 대행(공식 신고서는 무료예요), K-ETA 신청 방법(면제 대상은 2027년 말까지 필요 없어요).
 
 </details>
 
@@ -192,7 +192,7 @@ updated: 2026-11-26
 
 ## 제대로 끝낸 입국은 이런 모습이에요
 
-**출발 전날 밤.** 여권, 항공편명, 숙소 영문 주소를 옆에 두고 공식 사이트에서 10분쯤. 발급번호가 담긴 PDF를 휴대폰에 저장해요. 짐을 싸기 전에 입국신고서는 끝나요.
+**출발 전날 밤.** 여권, 항공편명, 숙소 영문 주소를 옆에 두고 공식 사이트에서 내요. 발급번호가 담긴 PDF를 휴대폰에 저장해요. 짐을 싸기 전에 입국신고서는 끝나요.
 
 **입국심사대 앞.** 펜도, 무릎 위에서 쓰는 종이 카드도 없어요. 여권을 내밀면 심사관 화면에 정보가 이미 떠 있어요. 심사를 마치면 신고서는 할 일을 다 하고 효력이 끝나요.
 
