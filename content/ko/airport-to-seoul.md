@@ -234,7 +234,7 @@ Visit Seoul은 착륙 뒤 입국심사와 짐 찾기에 1~2시간을 잡으라�
 
 <div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>클룩에서 직통열차 바우처 미리 사기.</b> 숙소가 서울역 근처일 때만 의미가 있어요. 사면 타기 전에 아래 세 방법 중 하나로 열차표로 바꿔야 해요. <span class="tr-credit">사진: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 위키미디어 공용</span></p></div>
 
-{{aff:klook_airport|공항철도 직통열차 미리 예매하기}}
+{{aff:klook_airport|클룩에서 직통열차 바우처 미리 사기(타기 전 열차표로 바꿔요)}}
 
 <details class="tr-more" id="express-klook-how"><summary><i class="ic ic-ticket" aria-hidden="true"></i>클룩으로 샀다면: 바우처를 열차표로 바꾸는 3가지</summary>
 

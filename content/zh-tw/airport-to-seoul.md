@@ -234,7 +234,7 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 
 <div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>在Klook先買直達車憑證。</b> 只有飯店在首爾站附近才值得。買了之後,上車前要用下面三種方法之一換成車票。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 維基共享資源</span></p></div>
 
-{{aff:klook_airport|事先預訂機場鐵路直達車}}
+{{aff:klook_airport|在 Klook 先買機場鐵路直達車憑證(搭車前要換成車票)}}
 
 <details class="tr-more" id="express-klook-how"><summary><i class="ic ic-ticket" aria-hidden="true"></i>在Klook買的話:把憑證換成車票的3種方法</summary>
 

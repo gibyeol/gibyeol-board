@@ -234,7 +234,7 @@ AREXの路線から離れたホテルなら、荷物を持って乗り換える�
 
 <div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>Klookで直通列車のバウチャーを事前購入。</b> ホテルがソウル駅の近くのときだけ意味があります。買ったら、乗る前に下の3つの方法のどれかで乗車券に引き換えます。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, ウィキメディア・コモンズ</span></p></div>
 
-{{aff:klook_airport|AREX直通列車のチケットを事前予約}}
+{{aff:klook_airport|KlookでAREX直通列車のバウチャーを事前購入(乗る前に乗車券に交換)}}
 
 <details class="tr-more" id="express-klook-how"><summary><i class="ic ic-ticket" aria-hidden="true"></i>Klookで買ったら:バウチャーを乗車券に引き換える3つの方法</summary>
 

@@ -234,7 +234,7 @@ Children aged 0–5 ride free if they do not take their own seat. One per adult;
 
 <div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>Buy an AREX Express voucher on Klook.</b> Only worth it if your hotel is near Seoul Station. Before boarding, turn it into a train ticket in one of the three ways below. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, Wikimedia Commons</span></p></div>
 
-{{aff:klook_airport|Book an AREX Express ticket in advance}}
+{{aff:klook_airport|Buy an AREX Express voucher on Klook (exchange it for a ticket before boarding)}}
 
 <details class="tr-more" id="express-klook-how"><summary><i class="ic ic-ticket" aria-hidden="true"></i>Bought on Klook: 3 ways to turn the voucher into a train ticket</summary>
 
