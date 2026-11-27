@@ -90,7 +90,7 @@ window.NADRI_KANJI = ('花:꽃:flower,子:아들(아이):child,美:아름다울:
    zh: 教育部《重編國語辭典修訂本》 釋義, shortened. en/ko for new characters: Unihan kDefinition, ko.wiktionary 훈.
    Raw pages: wondu-archive raw-from-scratchpad/names-2026-11-28/ (kp/, moe/, unihan/, wikt/). */
 window.NADRI_KANJI_L = {
-  '湊': { ja: 'みなと' }, '翠': { ja: 'みどり' }, '陽': { ja: '日の光' }, '葵': { ja: 'あおい' }, '蓮': { ja: 'はす' }, '莉': { ko: '', en: 'white jasmine' },
+  '湊': { ja: '港' }, '翠': { ja: '緑色' }, '陽': { ja: '日の光' }, '葵': { ja: 'あおい' }, '蓮': { ja: 'はす' }, '莉': { ko: '', en: 'white jasmine' },
   '結': { ja: 'むすぶ' }, '翔': { ja: 'かける・とぶ' }, '生': { ja: 'いきる・うまれる' }, '白': { ja: 'しろ' },
   '琉': { ko: '', en: 'sparkling stone', ja: '琉璃(ルリ)の字' }, '紬': { ko: '', en: 'kind of thin silk', ja: 'つむぎ' },
   '茉': { ko: '', en: 'white jasmine', ja: '茉莉(マツリ)の字' }, '凛': { ko: '', en: 'cold', ja: 'りりしい' },
