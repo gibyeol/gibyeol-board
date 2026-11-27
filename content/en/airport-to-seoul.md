@@ -176,7 +176,7 @@ Large and deluxe cars are ₩100,000–140,000. Split four ways, ₩85,000 is ab
 
 - **Ticket:** At Terminal 1, buy it at a bus ticket counter on 1F (inside or outside) or a ticket machine. At Terminal 2, buy it at a ticket counter in the B1 Transportation Center (east or west side) or a ticket machine. For N6701 and N6703 you can also buy it in the Tmoney GO app.
 - **Fare (adult):** N6000 and N6002 ₩17,000; N6701 and N6703 ₩18,000. Child ₩10,000 and ₩12,000, in the same order.
-- **Where to board:** At Terminal 1, the Seoul bus stops outside Exits 3–7 on 1F: **6A (N6000, N6002)** and **3B (N6701, N6703)**. At Terminal 2, the bus terminal in the B1 Transportation Center: **stop 28 (N6000), stop 30 (N6002), stop 19 (N6703)**. For N6701, the airport website's route search says **stop 18**, but its stop map says **stop 20**. Both are in the same area (stops 17–22), so wait there and check the number on the front of the bus.
+- **Where to board:** At Terminal 1, the stops for buses to Seoul outside Exits 3–7 on 1F: **6A (N6000, N6002)** and **3B (N6701, N6703)**. At Terminal 2, the bus terminal in the B1 Transportation Center: **stop 28 (N6000), stop 30 (N6002), stop 19 (N6703)**. For N6701, the airport website's route search says **stop 18**, but its stop map says **stop 20**. Both are in the same area (stops 17–22), so wait there and check the number on the front of the bus.
 
 <ul class="ap-routes late"><li><b>N6000</b>Gangnam</li><li><b>N6002</b>Hongdae, Cheongnyangni</li><li><b>N6701</b>Seoul Station, Dongdaemun</li><li><b>N6703</b>Jamsil, Gwangnaru</li></ul>
 
