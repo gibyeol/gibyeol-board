@@ -210,19 +210,19 @@
    "text": {
     "ko": {
      "title": "2027 코리아그랜드세일 (외국인 관광객 대상)",
-     "note": "53일 동안 열리는 외국인 관광객 대상 세일. 서울·부산·강원 웰컴센터 운영. 할인 내용은 아직 미발표."
+     "note": "53일 동안 열리는 외국인 관광객 대상 세일. 서울·부산·강원 등에 웰컴센터 운영. 할인 내용은 출처 기사(10/3) 시점에 미발표."
     },
     "en": {
      "title": "Korea Grand Sale 2027",
-     "note": "Korea's 53-day sale for foreign visitors, with welcome centers in Seoul, Busan and Gangwon. Discount details are not out yet; last edition included airfares and 1,750 companies."
+     "note": "A 53-day sale for foreign visitors, with welcome centers in Seoul, Busan, Gangwon and other spots. Discount details had not been announced as of the source article (3 October). The last edition had 1,750 companies, from airlines and hotels to shops."
     },
     "ja": {
      "title": "コリアグランドセール 2027",
-     "note": "外国人旅行者向けの53日間のセール。ソウル・釜山・江原にウェルカムセンター。割引内容はまだ未発表。"
+     "note": "外国人旅行者向けの53日間のセール。ソウル・釜山・江原などにウェルカムセンター。割引内容は出典記事(10月3日)の時点で未発表。"
     },
     "zh-tw": {
      "title": "2027 Korea Grand Sale",
-     "note": "專為外國旅客舉辦、為期 53 天的特賣,首爾、釜山、江原設有迎賓中心。折扣內容尚未公布。"
+     "note": "專為外國旅客舉辦、為期 53 天的特賣,首爾、釜山、江原等地設有迎賓中心。折扣內容在來源報導(10/3)時尚未公布。"
     }
    }
   },
@@ -448,13 +448,13 @@
    "status": "confirmed",
    "category": "fashion",
    "source": {
-    "url": "https://www.wikitree.co.kr/articles/1174916",
-    "date": "2026-11"
+    "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439858",
+    "date": "2026-11-16"
    },
    "text": {
     "ko": {
      "title": "에이블리 에블프",
-     "note": "최대 93%. 전 상품 최대 20% 쿠폰 4종 + 중복 최대 12%. 쿠폰 겹치기가 핵심."
+     "note": "최대 93%. 전 상품에 쓰는 최대 20% 쿠폰 4종, 인기 마켓 대상 최대 12% 중복 쿠폰."
     }
    },
    "hero": {
@@ -475,7 +475,7 @@
    "text": {
     "ko": {
      "title": "지그재그 겨울 직잭팟",
-     "note": "6천 브랜드 최대 99%. 20% 쿠폰팩, 최대 4만 원 쿠폰, 중복 쿠폰."
+     "note": "6천 개 브랜드 최대 99%. 최대 20% 쿠폰팩, 최대 4만 원 쿠폰, 중복 쿠폰."
     }
    },
    "hero": {
@@ -495,8 +495,8 @@
    },
    "text": {
     "ko": {
-     "title": "트리니티항공 11월 프로모션",
-     "note": "탑승 2027.2.1~10.30 노선 선착순 특가. 결제 금액별 최대 4만 원 할인 코드 (공식 홈페이지·앱)."
+     "title": "트리니티항공 국제선 블랙프라이데이",
+     "note": "예매 11/30까지(공식 홈페이지·앱), 탑승 2027.2.1~10.30. 예매 때 코드 NOV26 입력하면 국제선 할인, 결제 금액에 따라 최대 4만 원 할인 쿠폰. 동남아·호주·미주·유럽 주요 노선은 선착순 특가."
     }
    },
    "code": [
@@ -539,7 +539,7 @@
    "text": {
     "ko": {
      "title": "아마존 블랙프라이데이 · 사이버먼데이 (미국)",
-     "note": "블프 11/27, 사이버먼데이 11/30(미국 태평양시, 한국은 +17시간). 직구는 면세 한도(미국발 목록통관 200달러)부터 확인."
+     "note": "블랙프라이데이 위크·사이버먼데이 행사 11/19~11/30 (미국 태평양시 기준, 한국 시각은 17시간 빠름). 직구는 관세 면세 한도부터 확인."
     }
    }
   },
@@ -607,7 +607,7 @@
    "text": {
     "ko": {
      "title": "쿠팡 로켓직구 블프",
-     "note": "미국·일본·유럽·중국 상품 약 3만 개. 2개 이상 10% 쿠폰, 일본 상품 7천 원 쿠폰."
+     "note": "미국·일본·유럽·중국·홍콩 등 해외 상품 약 3만 개. 행사 상품 2개 이상 사면 10% 쿠폰, 로켓직구 일본 상품 전용 7천 원 쿠폰."
     }
    }
   },
@@ -658,20 +658,20 @@
    "text": {
     "ko": {
      "title": "캐세이퍼시픽 블랙프라이데이",
-     "note": "예매 11/30까지, 출발 12/1~2027.7.15. 아시아 노선 이코노미 최대 10%, 회원은 코드로 최대 7% 추가."
+     "note": "예매 11/30까지. 홍콩·동남아·남아시아·중앙아시아 일반석 최대 10%(2027.1.7~7.15 출발). 캐세이 회원은 로그인하고 코드를 넣으면 전 노선 최대 7% 추가(12/1~2027.7.15 출발). 노선별 블랙아웃 기간 제외."
     }
    },
    "code": [
     {
      "value": "KRBFEY",
      "note": {
-      "ko": "이코노미"
+      "ko": "일반석"
      }
     },
     {
      "value": "KRBFFE",
      "note": {
-      "ko": "프리미엄 이코노미·비즈니스"
+      "ko": "프리미엄 일반석·비즈니스석"
      }
     }
    ],
@@ -693,20 +693,20 @@
    },
    "text": {
     "ko": {
-     "title": "제주항공 국내선 FLEX 운임 20%",
-     "note": "예매 12/16까지, 탑승 2027.2.25까지(성수기 제외). 대상 조건은 예매 전에 확인."
+     "title": "제주항공 수능 수험생 국내선 FLEX 운임 20%",
+     "note": "2027학년도 수능 수험생 본인과 동반인 1명. 예매 12/16까지, 탑승 2027.2.25까지(성수기 제외), 국내선 전 노선. 탑승 당일 공항 카운터에서 수험표 등 서류 확인."
     },
     "en": {
-     "title": "Jeju Air domestic FLEX fares 20% off",
-     "note": "Book by 16 December for flights until 25 February 2027 (peak days excluded). Handy if you are adding Jeju to a Seoul trip; check the conditions on the booking screen."
+     "title": "Jeju Air: 20% off domestic FLEX fares for Korean exam students",
+     "note": "Only for 2027 Korean college entrance exam (Suneung) takers and one companion; the exam ticket is checked at the airport counter. Book by 16 December, fly by 25 February 2027 (peak days excluded)."
     },
     "ja": {
-     "title": "チェジュ航空 国内線FLEX運賃20%オフ",
-     "note": "12月16日までの予約で2027年2月25日までの搭乗(繁忙期除く)。ソウル旅行に済州を足すなら。条件は予約画面で確認を。"
+     "title": "チェジュ航空 修能受験生向け 国内線FLEX運賃20%オフ",
+     "note": "2027年度韓国大学修学能力試験(修能)の受験生本人と同伴者1名のみ。搭乗当日に空港カウンターで受験票などを確認。12月16日までの予約で2027年2月25日までの搭乗(繁忙期除く)。"
     },
     "zh-tw": {
-     "title": "濟州航空國內線 FLEX 票價 8 折",
-     "note": "12 月 16 日前訂票,搭乘至 2027 年 2 月 25 日(旺季除外)。首爾行想加濟州的話可以看看,條件以訂票畫面為準。"
+     "title": "濟州航空 韓國修能考生國內線 FLEX 票價 8 折",
+     "note": "只限 2027 學年度韓國大學修學能力考試(修能)考生本人與同行 1 人,搭乘當天在機場櫃台查驗准考證等文件。12 月 16 日前訂票,搭乘至 2027 年 2 月 25 日(旺季除外)。"
     }
    },
    "open_start": true,
@@ -719,7 +719,7 @@
     "ja",
     "zh-tw"
    ],
-   "board_hide_why": "외국 방문객이 이 FLEX 20% 운임을 예매할 수 있는지(해외 사이트·외국 카드) 출처로 확인 못 함. 출처 기사 프록시 차단, 사본 없음."
+   "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3."
   },
   {
    "id": "eastar-promo",
@@ -733,8 +733,8 @@
    },
    "text": {
     "ko": {
-     "title": "이스타항공 국내선 25% · 국제선 최대 10%",
-     "note": "예매 12/31까지, 탑승 2027.3.27까지. 조건은 예매 화면에서 확인."
+     "title": "이스타항공 수능 수험생 국내선 25% · 국제선 최대 10%",
+     "note": "2027학년도 수능 수험생 본인과 동반인 1명. 국내선은 일반 운임의 25%, 국제선은 할인 운임의 최대 10%. 예매 12/31까지, 탑승 2027.3.27까지. 탑승 당일 공항 카운터에서 수험표 등 서류 확인."
     }
    },
    "open_start": true,
