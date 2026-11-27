@@ -618,10 +618,12 @@
     // inside the world list (flex rows), keep each step a plain list item
     return '<ol class="namer-steps">' + steps.map(function (st) { return '<li style="display:list-item;border:0;padding:4px 0">' + esc(st[k3] || st.en) + (st.link ? ' <a href="' + pre + st.link + '">→</a>' : '') + '<span class="namer-step"><span class="namer-conf c-' + st.c + '">' + T.conf[st.c] + '</span> ' + T.src + ': ' + esc(st.s) + '</span></li>'; }).join('') + '</ol>';
   }
+  /* the Korea 'blossom' line is about cherry blossom: show it only for cherry names (2026-11-28, not for every flower name) */
+  function keepWorld(e, typed, k) { return e.chain !== 'blossom' || k === 'blossom' || /[櫻桜]|벚|sakura|cherry/i.test(typed || ''); }
   function worldBlock(wid, krChain, typed) {
     var W = (window.NADRI_WORLD || {})[wid]; if (!W) return '';
     var k3 = L3(), pre = { ko: '/ko', ja: '/ja', zh: '/zh-tw' }[k3] || '', C = (window.NADRI_CONCEPTS || {})[wid];
-    var list = W.slice();
+    var list = W.filter(function (e) { return keepWorld(e, typed, krChain); });
     if (krChain && !list.some(function (e) { return e.r === 'KR'; })) list.push({ r: 'KR', chain: krChain });
     // Korea first (owner 2026-11-26 11:14: "한국부분이 가장 먼저 눈에 보이게 위로 올려")
     list.sort(function (a, b) { return (a.r === 'KR' ? 0 : 1) - (b.r === 'KR' ? 0 : 1); });
@@ -808,13 +810,13 @@
     };
     var lines = [];
     if (W) {
-      var list = W.slice();
+      var list = W.filter(function (x) { return keepWorld(x, m.hero + ' ' + (typed || ''), r.krChain || r.chain); });
       if (r.krChain && !list.some(function (x) { return x.r === 'KR'; })) list.push({ r: 'KR', chain: r.krChain });
       list.sort(function (a, b) { return (a.r === 'KR' ? 0 : 1) - (b.r === 'KR' ? 0 : 1); });
       list.forEach(function (x) {
         var L = x.chain ? step(x.r === 'KR' && r.krChain ? r.krChain : x.chain)
           : { text: (x.g && (x.g[k3] || x.g.en)) || (String(x[k3] || x.en || '').match(/^[\s\S]*?[.。](?=\s|$)/) || [String(x[k3] || x.en || '')])[0], conf: T.conf[x.c] || x.c, src: x.s && x.s[0] && x.s[0][0] };
-        if (L && L.text) { L.place = regionOf(x.r).name; lines.push(L); }
+        if (L && L.text) { L.place = regionOf(x.r).name; if (!(m.born || []).some(function (b) { return b.place === L.place && b.why === L.text; })) lines.push(L); }
       });
       if (lines.length) m.world = { label: T.world + (CC[r.worldId] ? ' · ' + clabel(r.worldId) : ''), lines: lines };
     } else if (r.chain && CHN[r.chain]) {   // Korea-only chain: the page lists its steps

@@ -386,7 +386,7 @@
   },
   {
    "id": "shilla-dfs-bf",
-   "start": "2026-11-09",
+   "start": "2026-11-15",
    "end": "2026-11-30",
    "status": "confirmed",
    "category": "overseas",
@@ -422,7 +422,9 @@
      "kind": "list",
      "checked": "2026-11-28"
     }
-   ]
+   ],
+   "open_start": true,
+   "start_note": "시작일 출처 없음: 출처 기사(2026-11-15) 날짜를 넣음, 화면은 open_start로 끝나는 날만"
   },
   {
    "id": "dept-shinsegae",
@@ -800,7 +802,7 @@
   {
    "id": "hm-bf",
    "start": "2026-11-27",
-   "end": "2026-11-30",
+   "end": "2026-11-29",
    "status": "confirmed",
    "category": "fashion",
    "source": {
@@ -810,13 +812,15 @@
    "text": {
     "ko": {
      "title": "H&M 블랙프라이데이",
-     "note": "할인율 미공개."
+     "note": "온라인 전 품목 25%, 11/29(일) 23:59까지. 온라인 단독이고, 세일·스페셜 컬렉션 상품은 빠지며 다른 혜택과 함께 쓸 수 없어요. 온라인과 매장 혜택은 다를 수 있어요."
     }
    },
    "go": [
     {
      "url": "https://www2.hm.com/ko_kr/",
-     "kind": "site"
+     "kind": "site",
+     "checked": "2026-11-28",
+     "note": "원두 화면 2026-11-28: 첫 화면 띠 \"BLACK FRIDAY 온라인 전품목 25% OFF 진행 중\", 이용 약관 \"11.27(금) - 11.29(일) 23:59까지 | 온라인 단독 | 세일 및 스페셜 컬렉션 상품 제외 | 타 혜택과 중복 적용 불가 | 온라인과 매장 혜택이 상이할 수 있음\""
     }
    ]
   },
@@ -865,7 +869,7 @@
   },
   {
    "id": "jejuair-flex",
-   "start": "2026-11-19",
+   "start": "2026-11-16",
    "end": "2026-12-16",
    "status": "confirmed",
    "category": "travel",
@@ -904,8 +908,10 @@
    "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3.",
    "go": [
     {
-     "url": "https://www.jejuair.net/",
-     "kind": "site"
+     "url": "https://www.jejuair.net/ko/event/event.do",
+     "kind": "list",
+     "checked": "2026-11-28",
+     "note": "원두 화면 2026-11-28: 이벤트 목록 \"27학년도 수험생 혜택 · 수험생도 동반자도 모두 20% 할인! · 2026.11.16 ~ 2026.12.16\""
     }
    ]
   },

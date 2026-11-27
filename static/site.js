@@ -88,3 +88,19 @@
     });
   });
 })();
+/* 2026-11-28: wide wayfinding maps on phones start centred (the route and the target sit in the middle) */
+(function () {
+  function centre() {
+    document.querySelectorAll('.fig').forEach(function (f) {
+      if (f.scrollWidth > f.clientWidth + 4) {
+        var cap = f.querySelector('figcaption'), cs = getComputedStyle(f);
+        if (cap) cap.style.width = (f.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight)) + 'px';
+        if (!f.dataset.centred && f.clientWidth > 0) { f.scrollLeft = (f.scrollWidth - f.clientWidth) / 2; f.dataset.centred = '1'; }
+      }
+    });
+  }
+  window.addEventListener('load', centre);
+  window.addEventListener('resize', centre);
+  document.addEventListener('toggle', function () { setTimeout(centre, 50); }, true);
+  document.addEventListener('load', function (e) { if (e.target && e.target.tagName === 'IMG') centre(); }, true);
+})();
