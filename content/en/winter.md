@@ -1,9 +1,8 @@
 ---
 title: Seoul in winter: what to wear, snow, and the Seollal 2027 closures
 description: Seoul's real December–February temperatures, how often it snows, what to pack, and what opens and closes over Seollal, 6–9 February 2027.
-lede: Seoul in January is colder than most visitors expect, but it is a dry, bright cold you can dress for. Pack for the wind outside and the heat indoors, and if you land over Seollal, the palaces are your best bet, not the shops.
+lede: A January morning in Seoul averages −5.5°C. Dress for it properly and you can get around. Pack for the wind outside and the heat indoors, and if you land over Seollal, the palaces are your best bet, not the shops.
 section: seoul
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## A winter day in Seoul
@@ -15,8 +14,8 @@ A January morning in Seoul averages −5.5°C. You leave the hotel in a long coa
 | Situation | What to do | Why |
 |---|---|---|
 | Visiting in January | Bring a proper down coat, a thermal base layer, a hat and gloves | The average January low in Seoul is −5.5°C (22°F), and cold snaps go well below that |
-| A cold snap hits | Buy hot packs (핫팩) at any convenience store | Cheap, everywhere, and they work in a coat pocket all day |
-| Going in and out of shops, cafés, the subway | Wear layers you can open or take off | Indoors is heated, and you will overheat in a ski-weight outfit |
+| A cold snap hits | Buy hot packs (핫팩) at any convenience store | Convenience stores stock them all winter |
+| Going in and out of shops, cafés, the subway | Wear layers you can open or take off | Indoors is heated, so layers are easier to take off |
 | In Seoul 6–9 Feb 2027 (Seollal) | Do palaces, skip the big shopping day | Palaces normally stay open on holidays; department stores and the National Museum close on some days |
 
 ## How cold is Seoul in winter?
@@ -31,11 +30,11 @@ These are the Korea Meteorological Administration's official 1991–2020 average
 
 The averages hide the cold snaps, and the cold snaps are what you dress for. On 26 December 2025 Seoul's morning low was −11.8°C with a wind chill of −18.6°C. In January 2026 the wind chill in Seoul fell below −20°C. When lows of −12°C or colder are expected to last two days or more, the weather agency issues a cold wave advisory (한파주의보).
 
-January is the coldest month. December and February are a little milder, but the wind along the Han River and between tall buildings makes any of the three feel colder than the number.
+January is the coldest month. When the wind blows, the wind chill can be far below the temperature (26 December 2025 above: −11.8°C, feeling like −18.6°C).
 
 ## Does it snow in Seoul?
 
-Yes, but less than many people picture. The weather agency counts about 16 days with snow per winter on average across its main observation stations, Seoul included. Many of those are light flurries. Over winter 2025–26 Seoul got 21.6 cm of snow in total, close to normal, and the city's first snow came on 4 December, 14 days later than usual.
+Yes, but less than many people picture. The weather agency counts about 16 days with snow per winter on average across its main observation stations, Seoul included. Over winter 2025–26 Seoul got 21.6 cm of snow in total, close to normal, and the city's first snow came on 4 December, 14 days later than usual.
 
 Our call: if snow is the point of your trip, Seoul is a gamble. A light dusting on palace roofs is realistic. A week of deep snow is not.
 
@@ -43,9 +42,9 @@ Our call: if snow is the point of your trip, Seoul is a gamble. A light dusting 
 
 You do not need technical mountain gear for the city. Get these three right and the rest of your normal clothes will do.
 
-1. **A long down coat or a warm parka that covers your hips.** This does most of the work.
+1. **A long down coat or a warm parka that covers your hips.**
 2. **A thermal base layer.** A thin top and leggings under normal clothes. This is how you stay warm outside without being too hot inside.
-3. **Hat, gloves and a scarf or neck warmer.** Wind on your ears and hands is what makes −5°C miserable. Touchscreen gloves help, since you will be on maps all day.
+3. **Hat, gloves and a scarf or neck warmer.** Touchscreen gloves help, since you will be on maps all day.
 
 {{fig:winter-1|Three things to pack, one to buy there}}
 
@@ -53,11 +52,11 @@ Then add **hot packs (핫팩)**. Convenience stores such as CU, GS25 and 7-Eleve
 
 **Indoors it is warm.** Shops, cafés, restaurants, subway carriages and most hotel rooms are heated. That is why layers beat one thick jumper: open the coat, take off the scarf, and you stay comfortable on the way in and out.
 
-**Who does not need much of this:** if you are coming in late November or early March, a lighter coat plus layers is usually enough. Snow boots are not needed for the city in a normal winter. Shoes with a decent grip are.
+**Who does not need much of this:** if you are coming in late November or early March, check the weather agency forecast for those dates first. Shoes with a decent grip are enough.
 
 ## Seollal 2027: what closes and what doesn't
 
-Seollal (Lunar New Year) is Sunday 7 February 2027. The official holiday runs **Saturday 6 to Tuesday 9 February**. Because Seollal falls on a Sunday, Tuesday 9 February is a substitute holiday. Many Koreans travel to see family, so Seoul's own streets go quiet while trains and highways fill up.
+Seollal (Lunar New Year) is Sunday 7 February 2027. The official holiday runs **Saturday 6 to Tuesday 9 February**. Because Seollal falls on a Sunday, Tuesday 9 February is a substitute holiday. Many Koreans travel to see family, so trains fill up (see the 2026 booking figures below).
 
 {{fig:winter-2|Seollal 2027: what is open, day by day}}
 
@@ -87,7 +86,7 @@ Our call: if you want a day trip by KTX, do it before 5 February or after 10 Feb
 
 ## New Year's Eve in Seoul
 
-Seoul's New Year's Eve bell ringing at Bosingak, Jongno, goes ahead on 31 December 2026. The event has run since 1953. The city took nominations for the citizens who will ring it from 6 to 30 November and plans to announce them around mid-December. The programme, road closures and late-night transport for this year have not been announced yet. Last year the city ran later trains and buses for the event. 1 January is a public holiday, and the National Museum of Korea is closed that day.
+Seoul's New Year's Eve bell ringing at Bosingak, Jongno, goes ahead on 31 December 2026. The event has run since 1953. The city took nominations for the citizens who will ring it from 6 to 30 November and plans to announce them around mid-December. The programme, road closures and late-night transport for this year have not been announced yet. 1 January is a public holiday, and the National Museum of Korea is closed that day.
 
 ## Before you go
 
