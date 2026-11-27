@@ -1,9 +1,8 @@
 ---
 title: Emergencies in Korea: who to call, what to do, and what to show a stranger
 description: 112, 119 and 1330, plus the problems visitors actually run into: a phone left in a taxi, a lost passport, an overcharged fare, a night that goes wrong. With Korean phrases to show someone nearby. Checked November 2026.
-lede: Korea is an easy place to get help, if you know which number does what and have something to show the person next to you. Save three numbers, keep this page open, and most bad moments become a delay rather than a disaster.
+lede: Korea is an easy place to get help, if you know which number does what and have something to show the person next to you. Before you go, save three numbers and keep this page open.
 section: essentials
-approved: 2026-11-26
 updated: 2026-11-26
 ---
 ## What it looks like in practice
@@ -21,7 +20,7 @@ Say your friend slips on a station stair and can't put weight on one ankle. You 
 | Lost your passport | Police station first, then your embassy | Embassies ask for the police loss report |
 | Feeling ill, not an emergency | Pharmacy, or call **1339** | See [Getting sick in Korea](/health/) |
 
-**Before you go (five minutes):**
+**Before you go:**
 
 1. Save 112, 119 and 1330 in your phone. From abroad, 1330 is +82-2-1330.
 2. Take a photo of your passport's photo page and pack one spare passport photo.
@@ -49,7 +48,7 @@ Korea's dedicated **tourist police** were disbanded in 2023, so don't look for t
 
 ### A phone, wallet or bag left in a taxi
 
-Usually the most fixable one. Start from how you paid:
+Start from how you paid:
 
 {{fig:emergency-2|Three routes back to a taxi, by how you paid}}
 
@@ -85,7 +84,7 @@ Then report through 1330, which handles tourist complaints. An app taxi or a car
 
 ### A night that goes wrong
 
-Harassment around bars in Itaewon, Hongdae and Gangnam is the risk foreign governments warn about most. Don't leave drinks unattended, use app taxis late at night, and call 112 if anyone threatens you. More on this in [Everyday Korea](/everyday/).
+Harassment around bars in Itaewon, Hongdae and Gangnam is a risk the US and Canadian travel advisories warn about. Don't leave drinks unattended, use app taxis late at night, and call 112 if anyone threatens you. More on this in [Everyday Korea](/everyday/).
 
 ### Earthquakes, storms and emergency alerts
 
@@ -93,7 +92,7 @@ Korea sends disaster alerts to phones as text messages. The Ministry of Justice 
 
 ### Your card stops working
 
-That is usually a block from your bank abroad, not a problem in Korea. Call your bank's international number (on the back of the card), and keep a second card and a little cash for exactly this. Our [Money in Korea](/money/) page has the rest.
+Your card issuer at home may have blocked the payment. Call your bank's international number (on the back of the card), and keep a second card and a little cash for exactly this. Our [Money in Korea](/money/) page has the rest.
 
 ## Phrases to show someone nearby
 
@@ -112,7 +111,7 @@ Show the screen rather than trying to explain in English. Each card says what yo
 <div class="say"><p class="say-ko">근처에 문 연 약국이나 병원이 있나요?</p><p class="say-tr">Is there a pharmacy or clinic open nearby?</p></div>
 <div class="say"><p class="say-ko">저는 ___ 알레르기가 있어요.</p><p class="say-tr">I'm allergic to ___. (Write the food or medicine in Korean if you can.)</p></div>
 
-Most people never use this page. The five minutes above are so you don't have to think if you do.
+The prep above is so you don't have to think if you ever need this page.
 
 ## Sources
 
