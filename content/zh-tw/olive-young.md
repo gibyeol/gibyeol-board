@@ -40,7 +40,7 @@ disclosure: yes
 
 <figure class="tr-photo"><img src="/static/photo/seongsu-yeonmujang-gil.webp" alt="聖水洞練武場街的街道和店家招牌" loading="lazy" width="780" height="585"><figcaption><b>練武場街</b>,從聖水站 4 號出口開始。Olive Young N 聖水往這個方向 118 公尺。<span class="tr-credit">照片:Dr. Thomas Liptak,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg" rel="noopener" target="_blank">維基共享資源</a>(裁切、自動調整亮度)</span></figcaption></figure>
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>特賣週時,小分店可能比較好逛。大型店品項最齊全,也有會外語的店員。</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>大型店品項最齊全,也有會外語的店員。</span></aside>
 
 <h2 id="inside">店內:入口 → 區域 → 試用 → 收銀台</h2>
 

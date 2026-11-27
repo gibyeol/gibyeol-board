@@ -6,7 +6,7 @@
 <rect x="16" y="61" width="368" height="108" rx="12" fill="#ffffff" stroke="#c9c1b2" stroke-width="1.5"/>
 <text x="30" y="89" font-size="19" fill="#16151a" font-weight="bold" text-anchor="start">명동</text>
 <circle cx="287" cy="83" r="8" fill="none" stroke="#5f5b55" stroke-width="2"/><path d="M287,78 L287,83 L291,85" fill="none" stroke="#5f5b55" stroke-width="2" stroke-linecap="round"/>
-<text x="370" y="89" font-size="16" fill="#16151a" text-anchor="end">이른 시간</text>
+<text x="370" y="89" font-size="16" fill="#16151a" text-anchor="end">—</text>
 <circle cx="40" cy="113" r="8" fill="#b8392f"/>
 <text x="56" y="119" font-size="16" fill="#16151a" font-weight="bold" text-anchor="start">뷰티</text>
 <circle cx="216" cy="113" r="7" fill="none" stroke="#16151a" stroke-width="2.5"/>

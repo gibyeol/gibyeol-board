@@ -54,7 +54,7 @@ The highest number is not automatically the right one. MFDS advises matching it 
 
 {{fig:kbeauty-how-to-choose-3|SPF is for UVB, PA is for UVA. Match them to your day}}
 
-- SPF is printed as a whole number, and everything from 50 up is **SPF50+**. Above 50 the real difference is small, which is why it is grouped.
+- SPF is printed as a whole number, and everything from 50 up is **SPF50+**. Numbers above 50 are not printed separately (MFDS notice).
 - PA runs PA+, PA++, PA+++, PA++++; more plus signs means more UVA protection.
 - How to apply: generously, 15 minutes before you go out, and again if you sweat a lot.
 

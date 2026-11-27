@@ -16,7 +16,7 @@ disclosure: yes
 
 This page is about where to **shop**. For where to **stay**, see [Seoul neighborhoods](/seoul-areas/).
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-beauty, first time in Seoul: Myeongdong</b><span>Euljiro 1-ga Station (Line 2) exit 5 or Myeongdong Station (Line 4) exit 8. Visit Seoul calls it the no. 1 place for shopping. Our call: go right after opening. <a href="#myeongdong">Myeongdong</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>New Korean brands, pop-ups: Seongsu</b><span>Seongsu Station (Line 2) exit 4. Olive Young N Seongsu and Musinsa Mega Store around Yeonmujang-gil. Weekends are busy, so our call is a weekday. <a href="#seongsu">Seongsu</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>Young fashion, K-pop goods: Hongdae</b><span>R3 fashion street, 350 m from Hongik Univ. Station (Line 2) exit 9. Our call: late afternoon into evening. <a href="#hongdae">Hongdae</a></span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-beauty, first time in Seoul: Myeongdong</b><span>Euljiro 1-ga Station (Line 2) exit 5 or Myeongdong Station (Line 4) exit 8. Visit Seoul calls it the no. 1 place for shopping. <a href="#myeongdong">Myeongdong</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>New Korean brands, pop-ups: Seongsu</b><span>Seongsu Station (Line 2) exit 4. Olive Young N Seongsu and Musinsa Mega Store around Yeonmujang-gil. Weekends are busy, so our call is a weekday. <a href="#seongsu">Seongsu</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>Young fashion, K-pop goods: Hongdae</b><span>R3 fashion street, 350 m from Hongik Univ. Station (Line 2) exit 9. Our call: late afternoon into evening. <a href="#hongdae">Hongdae</a></span></li></ul>
 
 {{fig:shopping-streets-1|Our call: what each street suits and when to go}}
 
@@ -50,7 +50,6 @@ Line 2 is Seoul's circle line (The Korea Herald), and all three areas have a Lin
 <figure class="tr-photo"><img src="/static/photo/myeongdong-theater.webp" alt="Myeongdong Theater at night, with 'MYEONGDONG THEATER' on the front" loading="lazy" width="780" height="520"><figcaption><b>Myeongdong Theater.</b> When you see this building you are at the central crossroads.<span class="tr-credit">Photo: lumoplank, <a href="https://creativecommons.org/publicdomain/zero/1.0/" rel="noopener" target="_blank">CC0</a>, <a href="https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg" rel="noopener" target="_blank">Wikimedia Commons</a> (resized, auto-contrast)</span></figcaption></figure>
 
 - **Olive Young Myeongdong Global:** 53 Myeongdong-gil. Daily 10:00–22:30 (may change). Two floors, instant tax refund at the till, simple payment such as WeChat Pay and Alipay, gift wrapping, foreign-language help. The store has no restroom and points you to the nearest subway station.
-- **Best time:** right after opening. That is our guess, not crowd data.
 - **Nearby:** the 12-floor [Daiso](/daiso/) next to Myeongdong Station. Duty-free: Lotte main store (Euljiro 1-ga exits 7 and 8) and Shinsegae (Hoehyeon exit 5) are close ([duty-free](/duty-free/)).
 - **Skip it if:** you want streets where locals shop.
 

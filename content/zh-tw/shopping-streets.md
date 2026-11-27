@@ -16,7 +16,7 @@ disclosure: yes
 
 這頁講的是在哪裡**買**。在哪裡**住**請看[首爾住宿區域怎麼選](/zh-tw/seoul-areas/)。
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-beauty、第一次來首爾: 明洞</b><span>2號線乙支路入口站5號或4號線明洞站8號出口。Visit Seoul稱它是「購物第一站」。我們認為剛開門時最好。<a href="#myeongdong">看明洞</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>韓國新品牌、快閃店: 聖水</b><span>2號線聖水站4號出口。練武場街有Olive Young N 聖水、MUSINSA Mega Store。週末很擠,我們建議平日。<a href="#seongsu">看聖水</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>年輕服飾、K-pop周邊: 弘大</b><span>2號線弘大入口站9號出口走350公尺的R3時尚街。我們建議傍晚到晚上。<a href="#hongdae">看弘大</a></span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>K-beauty、第一次來首爾: 明洞</b><span>2號線乙支路入口站5號或4號線明洞站8號出口。Visit Seoul稱它是「購物第一站」。<a href="#myeongdong">看明洞</a></span></li><li><i class="ic ic-store" aria-hidden="true"></i><b>韓國新品牌、快閃店: 聖水</b><span>2號線聖水站4號出口。練武場街有Olive Young N 聖水、MUSINSA Mega Store。週末很擠,我們建議平日。<a href="#seongsu">看聖水</a></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><b>年輕服飾、K-pop周邊: 弘大</b><span>2號線弘大入口站9號出口走350公尺的R3時尚街。我們建議傍晚到晚上。<a href="#hongdae">看弘大</a></span></li></ul>
 
 {{fig:shopping-streets-1|我們的判斷: 各區適合買什麼、什麼時候去}}
 
@@ -50,7 +50,6 @@ disclosure: yes
 <figure class="tr-photo"><img src="/static/photo/myeongdong-theater.webp" alt="夜晚的明洞藝術劇場,正面寫著「명동예술극장 MYEONGDONG THEATER」" loading="lazy" width="780" height="520"><figcaption><b>明洞藝術劇場。</b> 看到這棟建築就是明洞正中央的十字路口。<span class="tr-credit">照片: lumoplank,<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh_TW" rel="noopener" target="_blank">CC0</a>,<a href="https://commons.wikimedia.org/wiki/File:Myeongdong,_Seoul_-_Myeongdong3165.jpg" rel="noopener" target="_blank">維基共享資源</a>(縮小、自動調亮)</span></figcaption></figure>
 
 - **Olive Young明洞全球旗艦店:** 明洞街53。每天10:00〜22:30(依店家狀況可能變動)。1〜2樓,結帳即時退稅,微信支付、支付寶等行動支付,禮品包裝,外語服務。店裡沒有廁所,請你使用附近地鐵站的廁所。
-- **適合的時間:** 剛開門。這是我們的推測,不是人潮資料。
 - **附近:** 明洞站旁12層樓的[DAISO](/zh-tw/daiso/)。免稅店有樂天免稅店總店(乙支路入口站7・8號出口)、新世界免稅店(會賢站5號出口)([免稅店](/zh-tw/duty-free/))。
 - **可以跳過的人:** 想走當地人逛的街的人。
 

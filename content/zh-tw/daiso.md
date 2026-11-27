@@ -33,7 +33,7 @@ disclosure: yes
 
 <h3 class="tr-step"><span class="n">2</span><i class="ic ic-signpost" aria-hidden="true"></i>想在首爾市中心逛大店</h3>
 
-<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>明洞站店:地下 1 樓~12 樓</b><span>在明洞站 1 號和 4 號出口之間的路旁。出站後在地圖 App 搜尋「다이소 명동역점」(大創明洞站店)並打開路線(<a href="/zh-tw/seoul-subway/#map-app">地圖 App 怎麼用</a>)。地址 서울 중구 퇴계로 134-1(首爾中區退溪路 134-1)。10:00~22:00,退稅店。有英・日・中文樓層指南和自助結帳機。大創說是僅次於江南高速巴士客運站店、首爾第二大的店(2023 年 3 月 1 日重新開幕時為 1~12 樓,約 500 坪・1,650㎡)。</span></li><li><i class="ic ic-bus" aria-hidden="true"></i><b>江南高速巴士客運站店:最大的店</b><span>在客運站大樓內,서울 서초구 신반포로 194。08:30~22:00。多語自助結帳、可退稅。等車時可以逛,但走道像迷宮,注意時間。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-map-pin" aria-hidden="true"></i><b>明洞站店:地下 1 樓~12 樓</b><span>在明洞站 1 號和 4 號出口之間的路旁。出站後在地圖 App 搜尋「다이소 명동역점」(大創明洞站店)並打開路線(<a href="/zh-tw/seoul-subway/#map-app">地圖 App 怎麼用</a>)。地址 서울 중구 퇴계로 134-1(首爾中區退溪路 134-1)。10:00~22:00,退稅店。有英・日・中文樓層指南和自助結帳機。大創說是僅次於江南高速巴士客運站店、首爾第二大的店(2023 年 3 月 1 日重新開幕時為 1~12 樓,約 500 坪・1,650㎡)。</span></li><li><i class="ic ic-bus" aria-hidden="true"></i><b>江南高速巴士客運站店:最大的店</b><span>在客運站大樓內,서울 서초구 신반포로 194。08:30~22:00。多語自助結帳、可退稅。等車時可以逛,注意發車時間。</span></li></ul>
 
 附近的購物街看[首爾購物去哪裡](/zh-tw/shopping-streets/)。
 
