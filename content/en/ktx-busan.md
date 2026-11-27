@@ -34,7 +34,7 @@ Three things, and older guides miss all of them:
 From two months before departure, in the Korail+ app or on Korail's website for visitors, paying with an overseas credit card. Step by step:
 
 1. **Check the date.** Tickets go on sale two months before departure.
-2. **Open the app or the website.** The Korail+ app lists English, Japanese, Simplified and Traditional Chinese, Vietnamese and Thai. Korail's website for visitors ([English](https://www.korail.com/global/eng/main)) runs in seven languages, including English, Chinese, Japanese, Thai and Vietnamese, with French, German and Mongolian planned by the end of 2026. The old address, letskorail.com, now forwards to korail.com (we checked on 27 November 2026).
+2. **Open the app or the website.** The Korail+ app lists English, Japanese, Simplified and Traditional Chinese, Vietnamese and Thai. Korail's website for visitors ([English](https://www.korail.com/global/eng/main)) ran in seven languages, including English, Chinese, Japanese, Thai and Vietnamese, as of the transport ministry's September 2026 announcement, with French, German and Mongolian planned by the end of 2026. The old address, letskorail.com, now forwards to korail.com (we checked on 27 November 2026).
 3. **Pay.** Overseas credit cards such as Visa, Mastercard and UnionPay are accepted. If your card fails, Klook (below) is the fallback.
 4. **Get your ticket.** Tickets bought in Korail+ appear under "My Ticket", as a ticket list and a ticket screen. The app can also save a ticket to your photos.
 5. **Your train is sold out?** Search the same Korail+ app for trains from Suseo Station (the former SRT). Since the September 2026 merger, both are booked in one app.
@@ -100,7 +100,7 @@ The pass lets you reserve seats up to twice a day, so an N-day pass covers at mo
 
 Conditions on the same page: not available to Korean passport holders; ages 13 and up pay the adult rate; one infant aged 0–5 rides free on the lap of a traveller over 13, but a separate seat needs a child ticket; one pass per passport. Klook says confirmation comes within minutes.
 
-Klook's page says "unlimited access to all trains, including the high-speed KTX". The Korea Tourism Organization's guide says SRT, the subway and temporary tourist trains are excluded and seat reservations are limited to two a day. Go by the official rules.
+Klook's page says "unlimited access to all trains, including the high-speed KTX". The Korea Tourism Organization's guide (updated August 2026) says SRT, the subway and temporary tourist trains are excluded and seat reservations are limited to two a day. Go by the official rules.
 
 ## Seollal 2027
 
