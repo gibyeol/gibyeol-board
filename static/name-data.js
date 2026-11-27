@@ -8,7 +8,7 @@
 window.NADRI_NAMES = {
   sophia: { ko: '소피아', ja: 'ソフィア', zh: '蘇菲亞', o: 'Greek', c: 'h', m: { en: 'wisdom', ko: '지혜', ja: '知恵', zh: '智慧' }, w: { ko: '지혜', ja: '知恵(ちえ)', zh: '智慧' }, i: { ko: '지혜 · 슬기', ja: '智恵(ちえ)', zh: '慧' }, ch: 'wisdom' },
   sofia: 'sophia', sophie: 'sophia',
-  olivia: { ko: '올리비아', ja: 'オリビア', zh: '奧莉維亞', o: 'English, from Latin oliva', c: 'm', m: { en: 'olive tree (made popular by Shakespeare)', ko: '올리브나무 (셰익스피어 작품으로 널리 쓰임)', ja: 'オリーブの木(シェイクスピア作品で広まった)', zh: '橄欖樹(因莎士比亞作品而流行)' }, w: { ko: '올리브', ja: 'オリーブ', zh: '橄欖' }, ch: 'peace' },
+  olivia: { ko: '올리비아', ja: 'オリビア', zh: '奧莉維亞', o: 'English, from Latin oliva', c: 'm', m: { en: 'olive tree (made popular by Shakespeare)', ko: '올리브나무 (셰익스피어 작품으로 널리 쓰임)', ja: 'オリーブの木(シェイクスピア作品で広まった)', zh: '橄欖樹(因莎士比亞作品而流行)' }, w: { ko: '올리브', ja: 'オリーブ', zh: '橄欖' } },
   emma: { ko: '에마', ja: 'エマ', zh: '艾瑪', o: 'Germanic', c: 'h', m: { en: 'whole, great', ko: '온전한, 위대한', ja: '完全な、偉大な', zh: '完整的、偉大的' }, w: { ko: '온전함', ja: '完全', zh: '完整' }, i: { ko: '온', ja: '円(まどか)', zh: '全' } },
   liam: { ko: '리엄', ja: 'リアム', zh: '連恩', o: 'Irish, from William', c: 'h', m: { en: 'will + helmet: a resolute protector', ko: '의지 + 투구: 굳센 수호자', ja: '意志+兜:揺るがない守り手', zh: '意志+頭盔:堅定的守護者' }, w: { ko: '수호', ja: '守護', zh: '守護' }, i: { ko: '수호', ja: '守(まもる)', zh: '守' }, ch: 'guard' },
   william: { ko: '윌리엄', ja: 'ウィリアム', zh: '威廉', o: 'Germanic', c: 'h', m: { en: 'will + helmet: a resolute protector', ko: '의지 + 투구: 굳센 수호자', ja: '意志+兜:揺るがない守り手', zh: '意志+頭盔:堅定的守護者' }, w: { ko: '수호', ja: '守護', zh: '守護' }, i: { ko: '수호', ja: '守(まもる)', zh: '守' }, ch: 'guard' },
@@ -96,7 +96,7 @@ window.NADRI_KANJI_L = {
   '茉': { ko: '', en: 'white jasmine', ja: '茉莉(マツリ)の字' }, '凛': { ko: '', en: 'cold', ja: 'りりしい' },
   '家': { zh: '家人' }, '豪': { zh: '才德出眾' }, '淑': { zh: '善良美好' }, '芬': { zh: '香氣' },
   '品': { ko: '물건', en: 'article, product', zh: '人的德性' }, '妍': { en: 'beautiful', zh: '美好' },
-  '恩': { ko: '은혜', en: 'kindness, mercy', zh: '幫助、情愛' }, '碩': { ko: '클', en: 'great, eminent', zh: '大、學識淵博' }
+  '恩': { ko: '은혜', en: 'kindness, mercy', zh: '他人給的幫助' }, '碩': { ko: '클', en: 'great, eminent', zh: '大、學識淵博' }
 };
 (function () { var K = window.NADRI_KANJI, L = window.NADRI_KANJI_L; Object.keys(L).forEach(function (c) { var e = K[c] || (K[c] = { ko: L[c].ko || '', en: L[c].en || '' }); if (L[c].ja) e.ja = L[c].ja; if (L[c].zh) e.zh = L[c].zh; }); })();
 window.NADRI_KANJI_CHAIN = { '斗': 'star', '辰': 'star', '奎': 'star', '智': 'wisdom', '慧': 'wisdom', '賢': 'wisdom', '哲': 'wisdom', '雪': 'snow', '冬': 'snow', '桜': 'blossom', '櫻': 'blossom', '平': 'peace', '和': 'peace', '星': 'star', '王': 'king', '君': 'king', '宮': 'king', '安': 'rest', '守': 'guard' };
