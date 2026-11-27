@@ -597,5 +597,11 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 @media (min-width:1024px){.qa-links{grid-template-columns:1fr 1fr 1fr}}
 .qa-sec .sec-h h2::before{width:calc(100% + 14px)}
 .qa-links a{word-break:auto-phrase}
-/* 2026-11-28: wayfinding maps are too small to read on phones (labels about 7px at 390px) -> show them wider and let the reader slide sideways */
-@media (max-width:640px){.fig:has(img[src$="map.svg"]),.fig:has(img[src*="airport-tmoney"]){overflow-x:auto;-webkit-overflow-scrolling:touch}.fig img[src$="map.svg"],.fig img[src*="airport-tmoney"]{min-width:620px;max-width:none}.fig:has(img[src$="map.svg"]) figcaption,.fig:has(img[src*="airport-tmoney"]) figcaption{position:sticky;left:0;width:calc(100vw - 2*var(--pad,16px) - 30px)}}
+/* 2026-11-28: wayfinding maps are too small to read on phones (labels about 7px at 390px) -> show them wider and let the reader slide sideways.
+   Only where :has() works (otherwise the wide map could not be slid); caption width is set by site.js to the box width */
+@supports selector(:has(a)){@media (max-width:640px){
+.fig:has(img[src$="map.svg"]),.fig:has(img[src*="airport-tmoney"]){overflow-x:auto;-webkit-overflow-scrolling:touch}
+.fig:has(img[src$="map.svg"]) img,.fig:has(img[src*="airport-tmoney"]) img{min-width:620px;max-width:none}
+.fig:has(img[src$="map.svg"]) figcaption,.fig:has(img[src*="airport-tmoney"]) figcaption{position:sticky;left:0}
+.fig:has(img[src$="map.svg"]) figcaption::before,.fig:has(img[src*="airport-tmoney"]) figcaption::before{content:"↔ ";font-weight:700;color:var(--red)}
+}}

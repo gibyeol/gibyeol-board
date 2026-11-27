@@ -386,7 +386,7 @@
   },
   {
    "id": "shilla-dfs-bf",
-   "start": "2026-11-09",
+   "start": "2026-11-15",
    "end": "2026-11-30",
    "status": "confirmed",
    "category": "overseas",
@@ -423,7 +423,8 @@
      "checked": "2026-11-28"
     }
    ],
-   "open_start": true
+   "open_start": true,
+   "start_note": "시작일 출처 없음: 출처 기사(2026-11-15) 날짜를 넣음, 화면은 open_start로 끝나는 날만"
   },
   {
    "id": "dept-shinsegae",
