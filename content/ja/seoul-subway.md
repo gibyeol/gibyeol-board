@@ -91,15 +91,19 @@ updated: 2026-11-26
 
 <aside class="tr-note tip"><i class="ic ic-info" aria-hidden="true"></i><span>着いたばかりでカードも現金もないときは、新しい券売機でClimate Cardか1回用乗車券を。2026年3月17日から海外発行のクレジット・デビットカードが使えます。</span></aside>
 
+**最初のカードを買う:** 市内ではコンビニのレジか駅の機械で買えます([コンビニでの買い方](/ja/convenience-store/#tmoney))。チャージは上のステップ2のように券売機で現金で。現金がなければ、仁川空港第1・第2ターミナルの空港鉄道駅のT-money自販機で、交通費が入ったT-money(15,000ウォン)を海外のクレジットカードで買えます。
+
 必須ではありません。交通カードは空港でも買えるので、事前予約はしなくても大丈夫です。着いてすぐ受け取りたい方は:
 
-<div class="tr-buy"><i class="ic ic-credit-card" aria-hidden="true"></i><p><b>T-moneyカード</b>を空港で受け取り。チャージは駅で現金です。</p></div>
+<div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>T-moneyカード</b>を空港で受け取り。チャージは駅で現金です。 <span class="tr-credit">写真: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), ウィキメディア・コモンズ</span></p></div>
 
 {{aff:klook_tmoney|T-moneyカードを予約して空港で受け取る}}
 
-<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>WOWPASS</b>:両替・カード払い・T-moneyが1枚に。T-money残高は別です。</p></div>
+<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>WOWPASS</b>:両替・カード払い・T-moneyが1枚に。交通に使うT-money残高は別にチャージします(駅・コンビニで現金、またはアプリでWOWPASS残高を移して)。</p></div>
 
 {{aff:klook_wowpass|両替・カード払い・T-moneyが1枚になったWOWPASS}}
+
+予約したカードの受け取り場所、WOWPASSのチャージと残ったお金の戻し方:[空港のページ「着く前に用意」](/ja/airport-to-seoul/#prep)。
 
 ## 初日によくある失敗
 
@@ -115,9 +119,11 @@ updated: 2026-11-26
 - **一般列車:** 全駅(弘大入口・孔徳を含む)に停車。交通カードをタッチして乗り、首都圏の乗り換え割引の対象です。
 - **直通列車:** ソウル駅〜仁川空港をノンストップ、座席指定、乗車前に乗車券を購入。大人13,000ウォン。
 
-必須ではありませんが、直通列車のチケットを着く前にスマホに入れておきたい方は:
+必須ではありませんが、直通列車のチケットを着く前に予約しておきたい方は:
 
 {{aff:klook_airport|AREX直通列車のチケットを事前予約}}
+
+買ったあと:空港鉄道の公式の乗車券は、QRコードを直通列車の改札のQRスキャナーにかざすと開きます。Klookで買った切符は確認書の使い方に従ってください。乗り場と変更・払い戻し:[空港のページ「着く前に用意」](/ja/airport-to-seoul/#prep)。
 
 詳しい比較は[仁川空港からソウルへ](/ja/airport-to-seoul/)にあります。
 
@@ -142,7 +148,7 @@ updated: 2026-11-26
 | 3〜7日のふつうのソウル旅行 | T-money、またはT-money機能付きのWOWPASS | 1回用より1回100ウォン安く、バスとの乗り換え割引も使えます |
 | ソウル市内だけで、1日3回以上別々に乗る日が3日以上 | Climate Card(気候同行カード)短期券 | 3日券10,000ウォン+カード3,000ウォン、交通カード運賃約8回分 |
 | 着いたばかりでカードも現金もない | 新しい券売機でClimate Cardか1回用乗車券 | 2026年3月17日から海外発行のクレジット・デビットカードが使えます |
-| 夜遅くに移動する | その駅の終電をすぐ確認 | 週末は早く終わり、終電時刻が変わった可能性もあります |
+| 夜遅くに移動する | その駅の終電をすぐ確認 | 2022年時点で週末は平日より早く終わります。2025年の発表(実施未確認)どおりなら、終電はさらに30分ほど早いと予想しています |
 
 このページは地下鉄だけを扱います。市内バスは[ソウルのバス](/ja/seoul-bus/)、タクシーは[ソウルの交通](/ja/getting-around/)、空港からの移動は[仁川空港からソウルへ](/ja/airport-to-seoul/)へ。
 
@@ -197,8 +203,8 @@ updated: 2026-11-26
 
 私たちの判断:帰り方は夕食の前に決めておきましょう。
 
-- ソウル市は2022年、平日の終電が**終点に深夜1時ごろ**着くよう運行を延長しました。土・日・祝日は対象外でした。
-- 2025年5月、ソウル市は1〜8号線の始発と終電をそれぞれ30分早める計画(早ければ2025年8月から)を発表しました。実際に実施されたかは確認できていません。
+- ソウル市は2022年、平日の終電が**終点に深夜1時ごろ**着くよう運行を延長しました。土・日・祝日は対象外でした(2025年の発表前の基準)。
+- 2025年5月、ソウル市は1〜8号線の始発と終電をそれぞれ30分早める計画(早ければ2025年8月から)を発表しました(ソウル市 2025年5月27日、コリア・ヘラルド 2025年5月22日、下の出典)。実施されたかは確認できていません。発表どおり実施されていれば、終電は深夜1時ごろより30分ほど早いと予想しています。
 - 時刻を覚えるより、その駅の終電をNAVERマップやカカオマップで確認してください。KORAILが運行する区間(1・3・4号線の一部)は異なることがあります。
 
 乗り遅れたときは[ソウルの交通](/ja/getting-around/)へ。
@@ -208,6 +214,8 @@ updated: 2026-11-26
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>出典と写真</summary>
 
 <p class="sources">2026年11月26日(韓国時間)に開いて確認。ソウル市交通サイト:<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通運賃案内</a>(2025年6月28日改定)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">統合乗り換え割引</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">1回用交通カード</a>、<a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">Climate Card短期券の紹介</a>(2026年10月12日更新)と<a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>、<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">海外クレジットカード対応の報道資料</a>(2026年3月16日)、<a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">妊婦配慮席の案内</a>。ソウル市メディアハブ:<a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">新型キオスクとプリペイドカードの現金チャージ</a>(2025年9月2日)、<a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">海外カードに関するファクトブリーフィング</a>(2026年1月7日)、<a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">深夜運行の再開</a>(2022年5月30日)、<a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014年交通カード分析</a>(2015年4月29日)、<a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9号線急行の拡大</a>(2026年10月14日)。ソウル市英語サイト:<a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">海外カード対応</a>(2026年3月17日)、<a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">始発・終電30分繰り上げ計画</a>(2025年5月27日)。<a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">ソウル市メトロ9号線 朝の列車利用案内</a>。空港鉄道 <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">一般列車</a>・<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直通列車</a>の案内。<a href="https://wowpass.io/ja/guide" rel="noopener" target="_blank">WOWPASS公式ガイド</a>。コリアヘラルド:<a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">始発・終電の繰り上げ</a>(2025年5月22日)、<a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">妊婦席とバッジ</a>(2023年6月27日)。コリアタイムズ:<a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">妊婦配慮席</a>(2017年12月6日)。 2026年11月26日にあわせて確認:Korea Herald <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">地下鉄券売機が海外発行カードに対応</a>(2026年3月16日)、<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">公共交通の使い方</a>(2025年11月6日、地図アプリ)。</p>
+
+<p class="sources">2026年11月27日確認:空港鉄道 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直通列車のご利用案内</a>(QR改札);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は駅・コンビニの現金かアプリのNFCで別にチャージ);コリア・ヘラルド <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のT-moneyカード</a>(交通費入り15,000ウォン、海外カード)。確認できなかったもの:Klookの商品ページ(自動アクセスを遮断)。</p>
 
 写真:ウィキメディア・コモンズの写真を、各キャプションに記したライセンスで使っています。運賃比較と一般・直通列車の図はNadriが作成しました。
 

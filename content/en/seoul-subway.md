@@ -91,15 +91,19 @@ Our call: a stored-value card suits almost everyone. One question sorts the thre
 
 <aside class="tr-note tip"><i class="ic ic-info" aria-hidden="true"></i><span>No card and no cash? The new machines take overseas credit and debit cards for the Climate Card and single tickets (since 17 March 2026).</span></aside>
 
+**Getting your first card:** in town, buy one at a convenience store counter or a station machine ([how to buy at a convenience store](/convenience-store/#tmoney)). Top it up with cash at a machine, as in step 2 above. No cash? The T-money machines in the airport railroad stations at Incheon Terminals 1 and 2 sell a preloaded T-money card (₩15,000) for a foreign credit card.
+
 Not required: the airport shops sell transport cards, so pre-ordering is optional. If you want one waiting for you when you land:
 
-<div class="tr-buy"><i class="ic ic-credit-card" aria-hidden="true"></i><p><b>A T-money card</b>, ready to pick up at the airport. You still top it up with cash at a station.</p></div>
+<div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>A T-money card</b>, ready to pick up at the airport. You still top it up with cash at a station. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), Wikimedia Commons</span></p></div>
 
 {{aff:klook_tmoney|Pre-order a T-money card to pick up at the airport}}
 
-<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>A WOWPASS</b>: money exchange, card payments and T-money in one card. Its T-money balance is separate.</p></div>
+<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>A WOWPASS</b>: money exchange, card payments and T-money in one card. The T-money balance for transport is topped up separately (cash at stations and convenience stores, or move WOWPASS balance into it in the app).</p></div>
 
 {{aff:klook_wowpass|Or a WOWPASS: money exchange, card payments and T-money in one}}
+
+Where to collect a pre-ordered card, how to load WOWPASS and get leftover money back: [airport guide, 'Want it ready'](/airport-to-seoul/#prep).
 
 ## Common first-day mistakes
 
@@ -115,9 +119,11 @@ Our call: the **all-stop** AREX is just another subway line; the **Express** is 
 - **All-stop:** every station (Hongik Univ., Gongdeok…), tap your card, transfers apply.
 - **Express:** non-stop Seoul Station–Incheon Airport, reserved seats, ₩13,000 adult.
 
-Optional, if you want the Express ticket on your phone before you land:
+Optional, if you want to book the Express ticket before you land:
 
 {{aff:klook_airport|Book an AREX Express ticket in advance}}
+
+After you buy: an official AREX ticket's QR code goes on the QR scanner at the Express gate. A Klook ticket follows the instructions on your confirmation. Where to board, changes and refunds: [airport guide, 'Want it ready'](/airport-to-seoul/#prep).
 
 More: [Incheon Airport to Seoul](/airport-to-seoul/).
 
@@ -142,7 +148,7 @@ Made a mistake that isn't here? Tell us through the update box at the end of thi
 | A normal 3–7 day trip | T-money, or WOWPASS (T-money inside) | ₩100 cheaper per ride than a single ticket, plus bus transfers |
 | 3+ rides a day for 3+ days, all in Seoul | Climate Card short-term pass | 3 days: ₩10,000 + ₩3,000 card, about eight fares |
 | No card, no cash | Climate Card or single ticket at a new machine | Overseas credit and debit cards accepted since 17 March 2026 |
-| It's late evening | Check your last train now | Weekends stop earlier, and times may have moved |
+| It's late evening | Check your last train now | As of 2022, weekends stop earlier than weekdays. If the 2025 plan (not confirmed) took effect, we expect last trains about 30 minutes earlier |
 
 Subway only here. City buses: [Seoul buses](/seoul-bus/). Taxis: [Getting around Seoul](/getting-around/). Airport: [Incheon Airport to Seoul](/airport-to-seoul/).
 
@@ -197,8 +203,8 @@ Our call: with suitcases, avoid roughly 7–9 a.m. on weekdays.
 
 Our call: decide how you get home before dinner.
 
-- In 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m.; weekends and holidays were excluded.
-- In May 2025 Seoul announced moving Lines 1–8 first and last trains 30 minutes earlier from as early as August 2025. We couldn't confirm whether it happened.
+- In 2022 Seoul set weekday last trains to reach the end of the line around 1 a.m.; weekends and holidays were excluded (as of before the 2025 announcement).
+- In May 2025 Seoul announced moving Lines 1–8 first and last trains 30 minutes earlier, from as early as August 2025 (Seoul Metropolitan Government, 27 May 2025; The Korea Herald, 22 May 2025; see sources). We could not confirm whether this has taken effect. If it has, we expect last trains about 30 minutes earlier than the 1 a.m. figure.
 - So check your station's last train in Naver Map or Kakao Map. Korail sections of Lines 1, 3 and 4 differ.
 
 Missed it? [Getting around](/getting-around/).
@@ -208,6 +214,8 @@ Missed it? [Getting around](/getting-around/).
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>Sources and pictures</summary>
 
 <p class="sources">Opened 26 November 2026 (KST). Seoul transport site: <a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">fare table</a> (fares from 28 Jun 2025); <a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">transfer discount</a> (updated 2 Feb 2026); <a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">one-time card</a>; <a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">Climate Card short-term pass</a> (updated 12 Oct 2026) and its <a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>; <a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">foreign cards at machines</a> (16 Mar 2026); <a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">pregnant women’s seats</a>. Seoul Media Hub: <a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">new kiosks, prepaid cash only</a> (2 Sep 2025); <a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">foreign-card fact check</a> (7 Jan 2026); <a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">late-night subway</a> (30 May 2022); <a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014 transit-card data</a> (29 Apr 2015); <a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">Line 9 express</a> (14 Oct 2026). Seoul English site: <a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">foreign cards</a> (17 Mar 2026); <a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">earlier train hours plan</a> (27 May 2025). <a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">Metro9 morning train guide</a>. AREX <a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">all-stop</a> and <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">Express</a> train pages. <a href="https://wowpass.io/en/guide" rel="noopener" target="_blank">WOWPASS guide</a>. Korea Herald: <a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">earlier first and last trains</a> (22 May 2025), <a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">pink seats and badge</a> (27 Jun 2023). Korea Times: <a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">priority seats for pregnant women</a> (6 Dec 2017). Also opened 26 November 2026: Korea Herald, <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">subway machines accept overseas-issued cards</a> (16 Mar 2026) and <a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">tips on using public transportation</a> (6 Nov 2025; map apps).</p>
+
+<p class="sources">Checked 27 November 2026: AREX <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">Express train guide</a> (QR gates); WOWPASS <a href="https://www.wowpass.io/en/guide" rel="noopener" target="_blank">guide</a> (T-money balance topped up separately with cash or in the app by NFC); Korea Herald <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">AREX preloaded T-money card</a> (₩15,000, foreign cards). Not checked: the Klook product pages (automated access blocked).</p>
 
 Pictures: photos from Wikimedia Commons under the licences named in each caption; the fare and all-stop vs Express drawings are ours.
 

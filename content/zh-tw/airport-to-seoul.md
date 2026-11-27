@@ -14,9 +14,19 @@ updated: 2026-11-26
 
 <h2 id="pick">我的飯店該搭什麼?</h2>
 
-<ul class="ap-pick"><li class="x" id="express"><div class="hd"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>首爾站附近</small><b><i class="ic ic-train-front" aria-hidden="true"></i>機場鐵路直達車</b><span class="m">43分鐘 · 13,000韓元 · 對號座</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>不停站直達首爾站:第1航廈43分鐘、第2航廈51分鐘</li><li><i class="ic ic-wallet" aria-hidden="true"></i>成人13,000韓元</li><li><i class="ic ic-armchair" aria-hidden="true"></i>全車對號座,有免費Wi-Fi</li><li><i class="ic ic-ticket" aria-hidden="true"></i>車票在第1航廈地下1樓交通中心的直達車櫃台或線上購買,不一定要事先訂。</li></ul><p class="who">只有飯店在首爾站附近才選它,不然省下的時間會花在首爾站轉車上。</p></li><li class="x" id="allstop"><div class="hd"><img src="/static/photo/arex-allstop-concourse.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>弘大、孔德</small><b><i class="ic ic-train-front" aria-hidden="true"></i>機場鐵路普通車</b><span class="m">刷卡4,650韓元 · 不用轉車</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>第1航廈到首爾站59分鐘(第2航廈66分鐘)</li><li><i class="ic ic-credit-card" aria-hidden="true"></i>刷交通卡到首爾站4,750韓元,到弘大入口、孔德4,650韓元;從第2航廈上車多600韓元。</li><li><i class="ic ic-users" aria-hidden="true"></i>座位跟地鐵一樣不對號,上下班尖峰很擠,大行李箱會比較辛苦。</li></ul><p class="who">住弘大、孔德選這個:同一條線,票價約三分之一,也不用換車。</p></li><li><a href="#bus"><img src="/static/photo/limousine-6010.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>明洞、江南、蠶室等離路線較遠的飯店</small><b><i class="ic ic-bus" aria-hidden="true"></i>機場巴士</b><span class="m">60〜80分鐘 · 行李由站務人員放車底</span></span></a></li><li><a href="#taxi"><span class="noimg"><i class="ic ic-car-taxi-front" aria-hidden="true"></i></span><span><small><i class="ic ic-users" aria-hidden="true"></i>3〜4人、行李多</small><b><i class="ic ic-car-taxi-front" aria-hidden="true"></i>外國人觀光計程車</b><span class="m">定額 · 70,000〜95,000韓元</span></span></a></li><li><a href="#late"><span class="noimg"><i class="ic ic-moon" aria-hidden="true"></i></span><span><small><i class="ic ic-plane" aria-hidden="true"></i>任何地方,晚上9點後落地</small><b><i class="ic ic-triangle-alert" aria-hidden="true"></i>先看「晚上才抵達」</b><span class="m">第1航廈直達車末班 22:48</span></span></a></li></ul>
+<ul class="ap-pick"><li class="x" id="express"><div class="hd"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>首爾站附近</small><b><i class="ic ic-train-front" aria-hidden="true"></i>機場鐵路直達車</b><span class="m">43分鐘 · 13,000韓元 · 對號座</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>不停站直達首爾站:第1航廈43分鐘、第2航廈51分鐘</li><li><i class="ic ic-wallet" aria-hidden="true"></i>成人13,000韓元</li><li><i class="ic ic-armchair" aria-hidden="true"></i>全車對號座,有免費Wi-Fi</li><li><i class="ic ic-ticket" aria-hidden="true"></i>車票在第1、第2航廈地下1樓交通中心的直達車自動售票機或櫃台,或在<a href="https://www.airportrailroad.com/ticket/rsv" rel="noopener" target="_blank">機場鐵路官方訂票</a>購買,海外信用卡也能用。不一定要事先訂。售票機怎麼按:看下方的收合區塊。</li></ul><p class="who">我們的判斷:飯店在首爾站附近再選它。直達車只到首爾站,住別區還要在首爾站再轉一次車。</p></li><li class="x" id="allstop"><div class="hd"><img src="/static/photo/arex-allstop-concourse.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>弘大、孔德</small><b><i class="ic ic-train-front" aria-hidden="true"></i>機場鐵路普通車</b><span class="m">刷卡4,650韓元 · 不用轉車</span></span></div><ul class="pts"><li><i class="ic ic-clock" aria-hidden="true"></i>第1航廈到首爾站59分鐘(第2航廈66分鐘)</li><li><i class="ic ic-credit-card" aria-hidden="true"></i>刷交通卡到首爾站4,750韓元,到弘大入口、孔德4,650韓元;從第2航廈上車多600韓元。</li><li><i class="ic ic-users" aria-hidden="true"></i>座位跟地鐵一樣不對號。</li></ul><p class="who">住弘大、孔德選這個:同一條線,票價約三分之一,也不用換車。</p></li><li><a href="#bus"><img src="/static/photo/limousine-6010.webp" alt="" width="780" height="585" loading="lazy" decoding="async"><span><small><i class="ic ic-hotel" aria-hidden="true"></i>明洞、江南、蠶室等離路線較遠的飯店</small><b><i class="ic ic-bus" aria-hidden="true"></i>機場巴士</b><span class="m">60〜80分鐘 · 行李由站務人員放車底</span></span></a></li><li><a href="#taxi"><span class="noimg"><i class="ic ic-car-taxi-front" aria-hidden="true"></i></span><span><small><i class="ic ic-users" aria-hidden="true"></i>3〜4人、行李多</small><b><i class="ic ic-car-taxi-front" aria-hidden="true"></i>外國人觀光計程車</b><span class="m">定額 · 70,000〜95,000韓元</span></span></a></li><li><a href="#late"><span class="noimg"><i class="ic ic-moon" aria-hidden="true"></i></span><span><small><i class="ic ic-plane" aria-hidden="true"></i>任何地方,晚上9點後落地</small><b><i class="ic ic-triangle-alert" aria-hidden="true"></i>先看「晚上才抵達」</b><span class="m">第1航廈直達車末班 22:48</span></span></a></li></ul>
 
-直達車不用跟通勤族擠,長途飛行後這點比省下的時間更重要。
+
+
+<details class="tr-more" id="express-buy"><summary><i class="ic ic-ticket" aria-hidden="true"></i>直達車車票,在售票機怎麼買</summary>
+
+1. **怎麼走:** 從1樓入境大廳搭電梯或手扶梯下到地下1樓交通中心。第1航廈面向交通中心,**右邊(西)**是直達車那側。第2航廈的方向我們還沒能確認,請到地下1樓交通中心的**直達車旅客服務中心**詢問。
+2. **售票機步驟:** ① 選語言(韓文、英文、中文、日文) ② 選到達站(首爾站) ③ 選列車(出發時間) ④ 選人數(大人滿13歲以上,兒童滿6〜12歲)→確認 ⑤ 用現金或信用卡付款 ⑥ 取車票和收據。車票一定要帶走。
+3. **接下來:** 把車票的QR碼對準閘門進站,到**地下4樓**月台。詳細請看[下方「買了之後:搭直達車」](#prep)。
+
+機場鐵路說明裡的售票機畫面範例是首爾站的機器,機場的機器畫面可能有點不同。
+
+</details>
 
 <details class="tr-more"><summary><i class="ic ic-route" aria-hidden="true"></i>兩種列車在同一條線上</summary>
 
@@ -76,18 +86,17 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 
 <div class="tr-pair"><figure><img src="/static/photo/tmoney-card.webp" alt="T-money卡。 列車、地鐵、公車一張搞定。" width="499" height="316" loading="lazy" decoding="async"><figcaption><b>T-money卡。</b> 列車、地鐵、公車一張搞定。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 維基共享資源</span></figcaption></figure><figure><img src="/static/photo/subway-3.webp" alt="交通卡售票儲值機(仁川蘇萊浦口站,韓國鐵道公社的車站;首爾或機場的機器外觀可能不同)。在這裡儲值。" width="780" height="585" loading="lazy" decoding="async"><figcaption><b>交通卡售票儲值機</b>(仁川蘇萊浦口站,韓國鐵道公社的車站;首爾或機場的機器外觀可能不同)。在這裡儲值。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">LandAndTree</a>, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>, 維基共享資源</span></figcaption></figure></div>
 
-1. **買卡:** 在地下1樓交通中心的便利商店或交通卡販賣機。不一定要先訂,但也可以預訂後在機場取卡。
-2. **儲值(只收現金):** 在機器上 ① 在螢幕選儲值和金額 ② 卡片放在「交通卡放置處」不要拿走 ③ 把紙鈔放進「紙鈔投入口」 ④ 確認螢幕上的新餘額再拿卡。用機器照片看步驟:[首爾地鐵 第2步](/zh-tw/seoul-subway/)
-3. 沒有卡就買單程票:貴100韓元,押金500韓元會退還。
-
-{{aff:klook_tmoney|預訂T-money卡,機場取卡}}
+1. **買卡:** 在地下1樓交通中心的便利商店或交通卡販賣機。在便利商店怎麼買:[便利商店頁面](/zh-tw/convenience-store/#tmoney)。預訂的卡怎麼取,寫在[下方「落地前先準備」](#prep)。
+2. **沒有現金時:** 第1、第2航廈機場鐵路站的T-money自動販賣機,可以用海外信用卡買已內含交通費的T-money。15,000韓元(卡費5,000韓元+交通費10,000韓元),2026年11月23日開賣。用完後能不能再用信用卡儲值,機場鐵路沒有說明。要領現金的話,第1航廈**地下1樓機場鐵路普通列車售票機旁**有共用ATM(24小時;1樓在4、6、9、11號出入口附近)。這台ATM能不能用海外卡領錢、第2航廈的ATM在哪裡,我們還沒能確認。
+3. **儲值(只收現金):** 在機器上 ① 在螢幕選儲值和金額 ② 卡片放在「交通卡放置處」不要拿走 ③ 把紙鈔放進「紙鈔投入口」 ④ 確認螢幕上的新餘額再拿卡。用機器照片看步驟:[首爾地鐵 第2步](/zh-tw/seoul-subway/)
+4. 沒有卡就買單程票:貴100韓元,押金500韓元會退還。
 
 <h3 class="tr-step"><span class="n">4</span><i class="ic ic-log-in" aria-hidden="true"></i>在機場鐵路閘門刷卡</h3>
 
 <figure class="tr-photo"><img src="/static/fig/airport-to-seoul-gates.webp" alt="第1航廈站普通車搭乘處(地下1樓)。" width="780" height="344" loading="lazy" decoding="async"><figcaption><b>第1航廈站普通車搭乘處(地下1樓)。</b> <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">MNXANL</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 維基共享資源; 編號由Nadri標示</span></figcaption></figure>
 
 1. 寫著**BUY HERE**的機器:車票、交通卡。
-2. 閘門。卡片一碰,螢幕跳出餘額,閘門就開。閘門不開多半是餘額不足:像上面第3步那樣在售票機儲值,再刷一次。
+2. 閘門。卡片一碰,螢幕跳出餘額,閘門就開。閘門不開時先看感應器上的餘額,不夠就像上面第3步那樣在售票機儲值,再刷一次。
 3. 「Opposite side for Express train」(直達車在對面)的標示。直達車有自己的櫃台。
 
 <h3 class="tr-step"><span class="n">5</span><i class="ic ic-train-front" aria-hidden="true"></i>上車後看站名變化</h3>
@@ -150,7 +159,7 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 
 <h2 id="late">晚上才抵達的話</h2>
 
-<aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>機場鐵路直達車末班:第1航廈22:48,第2航廈22:40。</b> 入境審查和領行李要1〜2小時,晚上9點後落地的班機可能趕不上。出發前就決定好。</span></aside>
+<aside class="tr-note"><i class="ic ic-moon" aria-hidden="true"></i><span><b>機場鐵路直達車末班:第1航廈22:48,第2航廈22:40。</b> Visit Seoul 建議入境審查和領行李預留1〜2小時,晚上9點後落地的班機可能趕不上。出發前就決定好。</span></aside>
 
 {{fig:airport-to-seoul-7|深夜從第1航廈還能搭什麼}}
 
@@ -167,29 +176,64 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 
 ## 常見錯誤
 
-<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>在機場用氣候同行卡(Climate Card)上車。</b> 2026年10月1日起,短期券可以搭到機場、在第1或第2航廈站下車,但不能從機場的車站上車。進首爾請用T-money付款。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>飯店不在首爾站附近卻搭直達車。</b> 省下的時間會花在首爾站轉車上。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>晚班機還指望直達車。</b> 第1航廈末班22:48。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>只拿T-money排巴士。</b> 有買票的人先上車。</span></li></ul>
+<ul class="tr-oops"><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>在機場用氣候同行卡(Climate Card)上車。</b> 2026年10月1日起,短期券可以搭到機場、在第1或第2航廈站下車,但不能從機場的車站上車。進首爾請用T-money付款。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>飯店不在首爾站附近卻搭直達車。</b> 直達車只到首爾站,還要在首爾站再轉一次車。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>晚班機還指望直達車。</b> 第1航廈末班22:48。</span></li><li><i class="ic ic-triangle-alert" aria-hidden="true"></i><span><b>只拿T-money排巴士。</b> 有買票的人先上車。</span></li></ul>
 
-## 想在落地前先準備好?
+<h2 id="prep">想在落地前先準備好?</h2>
 
-<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>不是必要的。</b> 機場就買得到交通卡(販賣機、便利商店)和直達車票(櫃台)。先訂只是把購買時間提前。</span></aside>
+<aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span><b>不是必要的。</b> 機場就買得到交通卡(販賣機、便利商店)和直達車票(地下1樓售票機、櫃台)。先訂只是把購買時間提前。</span></aside>
 
 {{fig:airport-to-seoul-4|T-money 和 WOWPASS,各自能做什麼}}
 
 <div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>T-money卡,機場取卡。</b> 普通車、地鐵、公車刷一下就好。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 維基共享資源</span></p></div>
 
+**購買前:** 先在商品說明確認你抵達的航廈(第1或第2)和抵達時間能不能領。領取地點我們還沒能確認(Klook網站擋下自動連線,我們打不開)。
+
 {{aff:klook_tmoney|預訂T-money卡,機場取卡}}
 
-<div class="tr-buy"><span class="ap-noimg"><i class="ic ic-wallet" aria-hidden="true"></i></span><p><b>WOWPASS。</b> 交通用的T-money,加上換錢和刷卡付款,一張卡。</p></div>
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買了之後:領取T-money卡</summary>
+
+1. **地點和時間:** 依預訂確認單(憑證)上寫的地點和時間去領。
+2. **要出示什麼:** 要出示的東西也寫在確認單上。出發前先存在手機裡。
+3. **餘額:** 把卡靠在閘門感應器上就會顯示餘額。不夠的話,像上面第3步一樣在售票機用現金儲值。
+4. **領不到時:** 用訂單編號聯絡賣方(Klook)客服;在那之前,先在地下1樓便利商店或機場鐵路站的T-money自動販賣機直接買。
+
+</details>
+
+<div class="tr-buy"><span class="ap-noimg"><i class="ic ic-wallet" aria-hidden="true"></i></span><p><b>WOWPASS。</b> 交通用的T-money,加上換錢和刷卡付款,一張卡。不過搭地鐵、公車用的T-money餘額要另外儲值。</p></div>
 
 {{aff:klook_wowpass|或是換錢、刷卡、T-money三合一的WOWPASS}}
 
-<div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>直達車票存在手機裡。</b> 只有飯店在首爾站附近才值得。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 維基共享資源</span></p></div>
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買了之後:領取和使用WOWPASS</summary>
+
+1. **領卡:** 照預訂確認單上的方式領取。如果是在WOWPASS機器領:在機台選單選**「發行新卡」**,再點**「使用預約碼領取」**→掃描護照→輸入收到的代碼→卡片出來後,再插進機器一次完成啟用。
+2. **在App登錄:** 把卡登錄到WOWPASS App,可以看餘額和T-money餘額,遺失時可在App停卡,保護WOWPASS餘額。不過卡裡的**T-money餘額,卡片遺失後即使補發也找不回來。**
+3. **儲值付款餘額:** 在WOWPASS機器用16種貨幣的現金或信用卡,或在App用海外信用卡儲值。機器位置:[找WOWPASS機器](https://www.wowpass.io/zh-TW/map/kiosk)。
+4. **交通費另外算:** 地鐵、公車是從卡裡的**T-money餘額**扣款。在車站、便利商店用韓元現金儲值,或在App(NFC)把WOWPASS餘額轉進去。沒做這一步,閘門會顯示餘額不足。
+5. **剩下的錢:** WOWPASS餘額可在機器提領韓元現金(每次最多10萬韓元,手續費1,000韓元,1,000韓元以下的硬幣領不出來)。T-money餘額要另外到便利商店等T-money退款處退(手續費500韓元,5萬韓元以上只能在T-money總公司)。
+
+出處:[WOWPASS 使用說明](https://www.wowpass.io/zh-TW/guide)(2026年11月27日確認)。
+
+</details>
+
+<div class="tr-buy"><img src="/static/photo/express-cabin.webp" alt="" width="780" height="971" loading="lazy" decoding="async"><p><b>直達車票先預訂。</b> 只有飯店在首爾站附近才值得。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">Bonnielou2013</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>, 維基共享資源</span></p></div>
 
 {{aff:klook_airport|事先預訂機場鐵路直達車}}
 
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買了之後:搭直達車</summary>
+
+1. **確認車票:** 機場鐵路官方車票付款後會產生QR碼。在Klook買的話,請照確認單上的使用方式(機場鐵路把Klook列為合作旅行社)。
+2. **搭車處:** 到地下1樓交通中心的直達車那側。第1航廈面向交通中心是**右邊(西)**;第2航廈的方向我們還沒能確認(請問直達車旅客服務中心)。過閘門後搭電梯或手扶梯到**地下4樓**月台。
+3. **閘門:** 把車票的QR碼對準閘門的QR掃描器,門就會開。
+4. **時間:** 發車前3分鐘要到月台。車廂和座位寫在車票上。
+5. **變更、取消:** 官方訂的票在機場鐵路網站或App的「車票變更/退票」(韓文畫面:승차권 변경/반환,我們的翻譯)辦理(最多變更3次,出發當天變更2次以上要手續費)。在Klook買的票依Klook的規定。
+
+出處:機場鐵路 [直達車使用說明](https://www.airportrailroad.com/train/express/guide)、[合作夥伴](https://www.airportrailroad.com/train/express/partners)(韓文頁面,可用上方語言選單切換),2026年11月27日確認。
+
+</details>
+
 ## 出發前一晚
 
-花10分鐘準備,第一個小時就輕鬆了。
+先決定三件事。
 
 1. **確認飯店在哪一區**,從[本頁最上面](#pick)挑交通方式。
 2. **搭巴士**就記下路線號碼,**搭計程車**就記下那一區的定額。
@@ -200,6 +244,8 @@ Visit Seoul建議落地後預留1〜2小時給入境審查和領行李。之後�
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>來源與照片資訊</summary>
 
 <p class="sources">2026年11月26日查閱:機場鐵路 <a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車介紹</a>(時間、票價、座位)、<a href="https://www.airportrailroad.com/train/express/info" rel="noopener" target="_blank">直達車時刻表</a>、<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">普通車介紹</a>、<a href="https://www.airportrailroad.com/train/normal/fare" rel="noopener" target="_blank">普通車票價</a>;Visit Seoul <a href="https://english.visitseoul.net/airport-to-seoul" rel="noopener" target="_blank">Airport to Seoul</a>(2026年6月的票價與時間、巴士路線、行李、購票);仁川國際機場 <a href="https://www.airport.kr/" rel="noopener" target="_blank">機場鐵路介紹</a> (airport.kr: ap_en/1512/subview.do)、<a href="https://www.airport.kr/" rel="noopener" target="_blank">深夜巴士</a> (airport.kr: ap_en/1507/subview.do)、<a href="https://www.airport.kr/" rel="noopener" target="_blank">機場巴士訂票說明</a> (airport.kr: bbs/ap_en/937/138233/artclView.do);首爾市 <a href="https://news.seoul.go.kr/traffic/archives/1659" rel="noopener" target="_blank">計程車費率(含外國人觀光計程車定額)</a>(2026年10月14日更新)、<a href="https://news.seoul.go.kr/traffic/archives/category/public-news_c1/climate-accompany-card_c1/card-climate_accompany_card" rel="noopener" target="_blank">氣候同行卡短期券</a>(2026年10月12日更新)。這次未能重新開啟的:Wikitree <a href="https://www.wikitree.co.kr/articles/1168084" rel="noopener" target="_blank">機場鐵路直達車自2026年10月23日起每日52班增為56班</a>。 仁川國際機場公社(韓文頁面,2026年11月26日12點查閱):<a href="https://www.airport.kr/ap_ko/986/subview.do" rel="noopener" target="_blank">計程車搭乘指南</a>(乘車處編號、call-van提醒)、<a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">便利·公共設施</a>(機場巴士服務台位置)、<a href="https://www.airport.kr/ap_ko/974/subview.do" rel="noopener" target="_blank">巴士</a>(購票)。<a href="https://www.airport.kr/ap_en/1512/subview.do" rel="noopener" target="_blank">機場鐵路指南平面圖</a>(第1、第2航廈交通中心位置、巴士乘車處編號)</p>
+
+<p class="sources">2026年11月27日確認:機場鐵路 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直達車使用說明</a>(自動售票機在第1、第2航廈地下1樓交通中心和首爾站地下2樓、售票機步驟01〜06、海外信用卡、QR閘門、地下4樓月台、發車前3分鐘、變更與手續費)、<a href="https://www.airportrailroad.com/train/express/partners" rel="noopener" target="_blank">合作夥伴</a>(旅行社列有KLOOK)、<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車介紹</a>(第1、第2航廈地下1樓交通中心設有直達車旅客服務中心;設施名稱與售票機步驟名稱由韓文頁面翻譯);WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(儲值、提領、T-money儲值與退款、「發行新卡」→「使用預約碼領取」步驟、卡片遺失時T-money餘額);仁川國際機場公社 <a href="https://www.airport.kr/ap_ko/1008/subview.do" rel="noopener" target="_blank">便利與公共設施</a>(共用ATM:地下1樓機場鐵路普通列車售票機旁、1樓4、6、9、11號出入口附近,24小時);韓國先驅報 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場鐵路T-money卡</a>(內含交通費,15,000韓元、海外信用卡、再儲值方式未公布)。未能確認:第2航廈地下1樓往直達車那側的方向(機場鐵路與仁川機場的說明文字沒有寫方向)、共用ATM能否使用海外卡與第2航廈ATM位置(我們打開的機場設施列表只有第1航廈);Klook商品頁(T-money機場領取、WOWPASS、直達車的領取地點與使用方式)——Klook網站擋下自動連線,我們打不開。所以領取地點請依預訂確認單。</p>
 
 <p class="sources"><b>本頁使用的照片</b></p><ul class="ap-credits"><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Platform 1,2 of Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: cropped, resized to 780x492, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:Nearly_empty_Incheon_Airport_Railroad_Express_during_the_coronavirus_outbreak_20200306_104401.jpg" rel="noopener" target="_blank">File:Nearly empty Incheon Airport Railroad Express during the coronavirus outbreak 20200306 104401.jpg</a>: Bonnielou2013, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: cropped, resized to 780x971, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Train Concourse at Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: resized to 780x585, light auto-contrast, 1 detected face(s) blurred.</li><li><a href="https://commons.wikimedia.org/wiki/File:Incheon_Airport_Limousine_6010.JPG" rel="noopener" target="_blank">File:Incheon Airport Limousine 6010.JPG</a>: hyolee2, <a href="https://creativecommons.org/licenses/by-sa/3.0" rel="noopener" target="_blank">CC BY-SA 3.0</a>. 修改: resized to 780x585, light auto-contrast, 1 detected face(s) blurred, 1 area(s) blurred (faces/plates, manual).</li><li><a href="https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_3.jpg" rel="noopener" target="_blank">File:Incheon International Airport Terminal 1 Arrival 3.jpg</a>: ノボホショコロトソ, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>. 修改: resized to 780x585, light auto-contrast, 1 detected face(s) blurred.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Express Train Concourse at Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: resized, light auto-contrast, numbered red boxes added.</li><li><a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">File:T-money card.jpg</a>: zisk, Public domain (PD-self: released by the author). 修改: kept at 499x316, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:Ticket_Vending_and_Card_Reload_Machine_-_Seoul_Metropolitan_Subway_20240713.jpg" rel="noopener" target="_blank">File:Ticket Vending and Card Reload Machine - Seoul Metropolitan Subway 20240713.jpg</a>: LandAndTree, <a href="https://creativecommons.org/licenses/by/4.0" rel="noopener" target="_blank">CC BY 4.0</a>. 修改: resized to 780x585, light auto-contrast.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Train Concourse at Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: cropped, resized to 780x344, light auto-contrast, 1 area blurred (face, manual), numbered red boxes added.</li><li><a href="https://commons.wikimedia.org/wiki/File:202403_AREX_Local_Platform_1,2_of_Incheon_International_Airport_Terminal_1_Station.jpg" rel="noopener" target="_blank">File:202403 AREX Local Platform 1,2 of Incheon International Airport Terminal 1 Station.jpg</a>: MNXANL, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: cropped to the platform sign (from the full-size original), resized to 780x269, light auto-contrast, numbered red box added.</li><li><a href="https://commons.wikimedia.org/wiki/File:Seoul_taxis_01.jpg" rel="noopener" target="_blank">File:Seoul taxis 01.jpg</a>: Ilya Plekhanov, <a href="https://creativecommons.org/licenses/by-sa/4.0" rel="noopener" target="_blank">CC BY-SA 4.0</a>. 修改: resized to 780x520, light auto-contrast, 1 area(s) blurred (faces/plates, manual).</li></ul>
 

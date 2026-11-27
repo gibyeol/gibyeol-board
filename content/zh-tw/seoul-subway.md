@@ -91,15 +91,19 @@ updated: 2026-11-26
 
 <aside class="tr-note tip"><i class="ic ic-info" aria-hidden="true"></i><span>剛落地,沒卡也沒現金?用新售票機買氣候同行卡或單程票。2026年3月17日起接受海外發行的信用卡、簽帳卡。</span></aside>
 
+**第一次買卡:** 在市區,便利商店櫃台或車站機器就買得到([在便利商店怎麼買](/zh-tw/convenience-store/#tmoney))。儲值像上面第2步一樣,在售票機用現金。沒有現金的話,仁川機場第1、第2航廈機場鐵路站的T-money自動販賣機,可以用海外信用卡買已內含交通費的T-money(15,000韓元)。
+
 不是必要:機場也買得到交通卡,不一定要先訂。想一落地就拿到:
 
-<div class="tr-buy"><i class="ic ic-credit-card" aria-hidden="true"></i><p><b>T-money卡</b>,機場取卡。儲值還是在車站用現金。</p></div>
+<div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>T-money卡</b>,機場取卡。儲值還是在車站用現金。 <span class="tr-credit">照片: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), 維基共享資源</span></p></div>
 
 {{aff:klook_tmoney|預訂T-money卡,機場取卡}}
 
-<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>WOWPASS</b>:換錢、刷卡、T-money三合一。T-money餘額分開。</p></div>
+<div class="tr-buy"><i class="ic ic-wallet" aria-hidden="true"></i><p><b>WOWPASS</b>:換錢、刷卡、T-money三合一。交通用的T-money餘額要另外儲值(車站、便利商店用現金,或在App把WOWPASS餘額轉進去)。</p></div>
 
 {{aff:klook_wowpass|或是換錢、刷卡、T-money三合一的WOWPASS}}
+
+預訂的卡在哪裡領、WOWPASS怎麼儲值、剩下的錢怎麼拿回:[機場頁面「落地前先準備」](/zh-tw/airport-to-seoul/#prep)。
 
 ## 第一天常見錯誤
 
@@ -115,9 +119,11 @@ updated: 2026-11-26
 - **普通車:** 每站都停(含弘大入口、孔德),嗶交通卡進站,適用首都圈轉乘優惠。
 - **直達車:** 首爾站~仁川機場中途不停,對號座,上車前另外買票,成人13,000韓元。
 
-不是必要,但想在落地前就把直達車票存在手機裡:
+不是必要,但想在落地前先預訂直達車票:
 
 {{aff:klook_airport|事先預訂機場鐵路直達車}}
+
+買了之後:機場鐵路官方車票,把QR碼對準直達車閘門的QR掃描器,門就會開。在Klook買的票請照確認單的使用方式。搭車處和變更、退票:[機場頁面「落地前先準備」](/zh-tw/airport-to-seoul/#prep)。
 
 完整比較在[仁川機場到首爾](/zh-tw/airport-to-seoul/)。
 
@@ -142,7 +148,7 @@ updated: 2026-11-26
 | 一般3~7天首爾行程 | T-money,或內建T-money的WOWPASS | 每趟比單程票便宜100韓元,轉乘公車也有優惠 |
 | 只在首爾市內、一天分開搭3趟以上,連續3天以上 | 氣候同行卡短期券 | 3日券10,000韓元+卡片3,000韓元,約等於8趟交通卡票價 |
 | 剛落地,沒卡也沒現金 | 用新售票機買氣候同行卡或單程票 | 2026年3月17日起接受海外發行的信用卡、簽帳卡 |
-| 晚上比較晚才回住處 | 立刻查你那一站的末班車 | 週末收班較早,末班時間也可能已調整 |
+| 晚上比較晚才回住處 | 立刻查你那一站的末班車 | 以2022年為準,週末比平日早收班。若2025年宣布的調整(未確認實施)已上路,預計末班車再早約30分鐘 |
 
 這頁只講地鐵。市區公車請看[首爾公車](/zh-tw/seoul-bus/),計程車請看[首爾交通](/zh-tw/getting-around/),機場進市區請看[仁川機場到首爾](/zh-tw/airport-to-seoul/)。
 
@@ -197,8 +203,8 @@ updated: 2026-11-26
 
 我們的判斷:晚餐前就想好怎麼回去。
 
-- 首爾市2022年把平日末班車延長到約**凌晨1點抵達終點站**,週六、週日、國定假日不在延長範圍內。
-- 2025年5月首爾市宣布,1~8號線首班車和末班車各提前30分鐘(最快2025年8月起)。是否已經實施,我們沒能確認。
+- 首爾市2022年把平日末班車延長到約**凌晨1點抵達終點站**,週六、週日、國定假日不在延長範圍內(2025年宣布調整前的標準)。
+- 2025年5月首爾市宣布,1~8號線首班車和末班車各提前30分鐘(最快2025年8月起)(首爾市2025年5月27日、Korea Herald 2025年5月22日,見下方出處)。是否已經實施,我們沒能確認。如果已照宣布實施,預計末班車會比凌晨1點左右早約30分鐘。
 - 所以不要死記時間,用NAVER 地圖或Kakao Map查你那一站的末班車。KORAIL營運的區段(1、3、4號線部分)可能不同。
 
 錯過末班車的話,請看[首爾交通](/zh-tw/getting-around/)。
@@ -208,6 +214,8 @@ updated: 2026-11-26
 <details class="tr-more"><summary><i class="ic ic-info" aria-hidden="true"></i>資料來源與照片</summary>
 
 <p class="sources">2026年11月26日(韓國時間)實際開啟確認。首爾市交通網站:<a href="https://news.seoul.go.kr/traffic/traffic_price" rel="noopener" target="_blank">交通票價</a>(2025年6月28日調整)、<a href="https://news.seoul.go.kr/traffic/transfer_discount" rel="noopener" target="_blank">整合轉乘優惠</a>(2026年2月2日更新)、<a href="https://news.seoul.go.kr/traffic/archives/1763" rel="noopener" target="_blank">單程交通卡</a>、<a href="https://news.seoul.go.kr/traffic/archives/510651" rel="noopener" target="_blank">氣候同行卡短期券介紹</a>(2026年10月12日更新)與<a href="https://news.seoul.go.kr/traffic/public/climatecard-faq/faq-short" rel="noopener" target="_blank">FAQ</a>、<a href="https://news.seoul.go.kr/traffic/archives/516544" rel="noopener" target="_blank">海外信用卡購買新聞稿</a>(2026年3月16日)、<a href="https://news.seoul.go.kr/traffic/archives/27958" rel="noopener" target="_blank">孕婦優先座說明</a>。首爾市 Media Hub:<a href="https://mediahub.seoul.go.kr/archives/2015499" rel="noopener" target="_blank">新型售票機與預付卡現金儲值</a>(2025年9月2日)、<a href="https://mediahub.seoul.go.kr/archives/2016718" rel="noopener" target="_blank">海外卡事實說明</a>(2026年1月7日)、<a href="https://mediahub.seoul.go.kr/archives/2004711" rel="noopener" target="_blank">深夜營運恢復</a>(2022年5月30日)、<a href="https://mediahub.seoul.go.kr/archives/864021" rel="noopener" target="_blank">2014年交通卡分析</a>(2015年4月29日)、<a href="https://mediahub.seoul.go.kr/archives/2019693" rel="noopener" target="_blank">9號線急行擴大</a>(2026年10月14日)。首爾市英文網站:<a href="https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/" rel="noopener" target="_blank">海外卡</a>(2026年3月17日)、<a href="https://english.seoul.go.kr/autonomous-bus-and-earlier-subway-service-for-early-morning-commuters/" rel="noopener" target="_blank">首末班車提前30分鐘計畫</a>(2025年5月27日)。<a href="https://www.metro9.co.kr/kor/sub01_03.do" rel="noopener" target="_blank">首爾市地鐵9號線早晨列車搭乘說明</a>。機場鐵路<a href="https://www.airportrailroad.com/train/normal/introduce" rel="noopener" target="_blank">普通車</a>、<a href="https://www.airportrailroad.com/train/express/introduce" rel="noopener" target="_blank">直達車</a>說明。<a href="https://wowpass.io/en/guide" rel="noopener" target="_blank">WOWPASS官方說明</a>。Korea Herald:<a href="https://www.koreaherald.com/article/10493311" rel="noopener" target="_blank">首末班車提前</a>(2025年5月22日)、<a href="https://www.koreaherald.com/article/3154442" rel="noopener" target="_blank">孕婦座與徽章</a>(2023年6月27日)。Korea Times:<a href="https://www.koreatimes.co.kr/southkorea/health/20171206/priority-seats-for-pregnant-women-complaint-rich-territory-on-subway" rel="noopener" target="_blank">孕婦優先座</a>(2017年12月6日)。 2026年11月26日另外查閱:Korea Herald <a href="https://www.koreaherald.com/article/10694586" rel="noopener" target="_blank">地鐵售票機接受海外發行卡</a>(2026年3月16日)、<a href="https://www.koreaherald.com/article/10608612" rel="noopener" target="_blank">大眾運輸使用訣竅</a>(2025年11月6日,地圖App)。</p>
+
+<p class="sources">2026年11月27日確認:機場鐵路 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直達車使用說明</a>(QR閘門);WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money餘額用車站、便利商店現金或App的NFC另外儲值);韓國先驅報 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場鐵路T-money卡</a>(內含交通費,15,000韓元、海外信用卡)。未能確認:Klook商品頁(擋下自動連線)。</p>
 
 照片:來自維基共享資源,授權寫在每張照片的說明裡。票價比較與普通車・直達車的圖由Nadri繪製。
 

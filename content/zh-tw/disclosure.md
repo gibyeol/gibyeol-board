@@ -1,14 +1,13 @@
 ---
 title: Nadri 的收入來源
 description: Nadri 的聯盟行銷合作與廣告,以及它們會與不會如何影響我們的推薦。
-approved: 2026-11-26
-updated: 2026-11-23
+updated: 2026-11-27
 ---
 ## 聯盟行銷連結
 
 Nadri 上的部分連結是聯盟行銷連結。如果你透過這些連結購買或預訂,商店或訂房訂票網站會付給 Nadri 佣金。你支付的價格不變。含有聯盟行銷連結的頁面會在最上方註明,聯盟行銷按鈕也都有標示。
 
-我們已合作或正在申請合作的夥伴包括 Coupang Partners、Klook、Airalo、Agoda、YesStyle 與 Amazon Associates。身為 Amazon Associate,Nadri 會從符合資格的購買中賺取收入。
+目前網站上的聯盟行銷按鈕,全部是透過旅遊聯盟網路 Travelpayouts 的 Klook 與 Yesim 連結。在有聯盟行銷標示的頁面,只有在 Cookie 提示中選擇「同意」時,Travelpayouts 與 Skimlinks 的程式才可能把部分旅遊、商店連結轉成聯盟行銷連結([隱私權政策](/zh-tw/privacy/))。已申請、等待審核:透過 Travelpayouts 的 Agoda 與 Trip.com、透過 Awin 的 YesStyle、透過 Rakuten Advertising 的 Olive Young。核准後會加到這裡。已核准、尚未放上連結:透過 Travelpayouts 的 KKday、透過 Awin 的 Stylevana(2026 年 11 月 27 日為止)。
 
 ## 佣金不會改變的事
 

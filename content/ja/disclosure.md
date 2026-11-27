@@ -1,14 +1,13 @@
 ---
 title: Nadriの収益について
 description: Nadriのアフィリエイト提携と広告について、そしてそれがおすすめの内容に影響すること・しないこと。
-approved: 2026-11-26
-updated: 2026-11-23
+updated: 2026-11-27
 ---
 ## アフィリエイトリンク
 
 Nadriのリンクの一部はアフィリエイトリンクです。リンク経由で購入・予約されると、ショップや予約サイトがNadriに紹介料を支払います。お支払いいただく価格は変わりません。アフィリエイトリンクを含むページにはページ上部でその旨を表示し、アフィリエイトのボタンにはラベルを付けています。
 
-提携中または申請中のパートナーには、Coupang Partners、Klook、Airalo、Agoda、YesStyle、Amazonアソシエイトがあります。Amazonのアソシエイトとして、Nadriは適格販売により収入を得ています。
+いまサイトにあるアフィリエイトのボタンは、すべて旅行アフィリエイトネットワークTravelpayouts経由のKlookとYesimのリンクです。アフィリエイトの表示があるページでは、クッキーの案内で「同意する」を選んだ場合に限り、TravelpayoutsとSkimlinksのスクリプトが一部の旅行・ショップのリンクをアフィリエイトリンクに変えることがあります([プライバシー](/ja/privacy/))。申請して審査待ちのもの:Travelpayouts経由のAgoda・Trip.com、Awin経由のYesStyle、Rakuten Advertising経由のOlive Young。承認されたらここに追加します。承認済みでまだリンクしていないもの:Travelpayouts経由のKKday、Awin経由のStylevana(2026年11月27日時点)。
 
 ## 紹介料によって変わらないこと
 

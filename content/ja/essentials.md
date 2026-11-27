@@ -4,8 +4,7 @@ description: 電子入国申告書(e-Arrival Card)、K-ETA、eSIM、お金、交
 lede: 出発前に決めておきたい6つのことを、必要になる順に並べました。韓国の入国ルールはこの1年で何度も変わったので、すべて公式サイトにリンクしています。
 section: essentials
 disclosure: yes
-approved: 2026-11-26
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 ## 準備が済んでいれば、到着後の最初の1時間
 
@@ -20,7 +19,7 @@ updated: 2026-11-26
 | モバイル通信 | 出発前 | 空港から地図・タクシー・翻訳がすべて必要 |
 | 交通カード | 空港かコンビニで | 地下鉄・バスはタッチ決済のみ |
 | 地図・タクシーアプリ | 自宅のWi-Fiで | Googleマップは韓国でまだ完全に使えない |
-| 少しの現金 | 出発前か到着後 | 通常のT-moneyのチャージと市場グルメはまだ現金が中心([韓国旅行のお金](/ja/money/)) |
+| 少しの現金 | 出発前か到着後 | 通常のT-moneyのチャージは現金が必要で、市場グルメは海外カードが使えない店もあります([韓国旅行のお金](/ja/money/)) |
 
 {{fig:essentials-1|自宅と空港で、ひとつずつチェック}}
 
@@ -49,28 +48,57 @@ K-ETAは、ビザなしで韓国に入国する人向けの電子渡航認証で
 
 地図、タクシー、翻訳、QRコードのメニューまで、ほとんどがスマホ頼みです。私たちの判断はeSIM。スマホがeSIM非対応のときだけ、ほかの方法を選びましょう。
 
+**まず自分のスマホを確認:** iPhoneはXS・XR以降のモデルで、**設定 → 一般 → 情報 → SIMロック**に「SIMロックなし」と出ればOK。Galaxyは**設定 → 端末情報 → ステータス情報**にEIDがあればeSIM対応です(EIDは箱にも書いてあります)。通信会社で買ったGalaxyなら、SIMロックの有無はその通信会社に確認してください。例外(Apple):中国本土でeSIMに対応しているのはiPhone 18 Pro・18 Pro Max・iPhone Duo・17e・iPhone Airのみ。香港・マカオには2枚のnano-SIMを使うデュアルSIMのiPhoneモデルがあります。そこで買ったiPhoneなら、まずモデルを確認してください。
+
 {{fig:essentials-3|eSIM・SIM・ポケットWi-Fi:それぞれに必要なこと}}
+
+**選び方:** データだけなら下の2つのどちらか。電話・SMSを受ける韓国の番号も必要なら、その下のSKTの商品で韓国の番号がもらえるかを、買う前に商品ページで確認してください。
+
+**買う前に:** 返金条件を商品ページで確認してください(インストール後は返金できないところもあります)。
 
 {{aff:yesim_kr|Yesimで韓国eSIMを見る}}
 
 {{aff:klook_esim|KlookでSKTの5G eSIMを予約する}}
 
-電話・SMS用に韓国の番号が必要なら(予約・配達アプリで求められることがあります)、下のプランを。SKテレコム回線で2〜90日、通話は追加チャージで使えます。テザリングは不可です。
+下のボタンはKlookのほかのSKT eSIM商品につながります。利用期間、韓国の番号と通話・SMSの有無、テザリングの可否は、買う前に商品ページで確認してください。
 
-{{aff:klook_esim_alt|通話・SMS付きのSKT eSIMを見る}}
+{{aff:klook_esim_alt|KlookでSKT eSIMのほかのプランを見る}}
+
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買ったあと:eSIMのインストールとオン(iPhone・Galaxy)</summary>
+
+インストールは**出発前に、Wi-Fiで**済ませましょう。QRコードの受け取り方は購入確認書を見てください。
+
+**iPhone**(Appleの公式案内)
+
+1. **インストール:** カメラアプリでQRコードをスキャン →「モバイル通信プランが検出されました」の通知をタップ → 画面下の「続ける」→「モバイル通信プランを追加」。メールやブラウザで届いたQRは長押しして「eSIMを追加」。リンクで届いたら、リンクをタップ →「許可」→「続ける」。
+2. **着いたらオン:**「旅行用のeSIMをオンにする」の通知が出たらタップ → 使う回線を選ぶ →「続ける」(iOS 26以降)。通知がなければ**設定 →「モバイル通信」→「モバイルデータ通信」**で旅行用eSIMの回線を選びます。データ通信は一度に1つの番号だけです。
+3. **旅行用eSIMのデータローミングをオン:** **設定 →「モバイル通信」→ 旅行用eSIMの番号**をタップして「データローミング」をオンに。データローミングは、契約中の通信会社のネットワーク外でモバイルデータ通信を使ってインターネットにつなぐためのスイッチです。販売元の案内が違う場合はそちらに従ってください。
+4. **自分の番号のローミング料金を防ぐ:** 2回線ともオンだと、自分の国の回線でローミング料金が発生する可能性があります。**設定 →「モバイル通信」→ 自分の番号**をタップして「データローミング」をオフに。自分の番号の通話・SMSの料金は、出発前に契約中の通信会社に確認してください。
+5. **つながらないとき:** 機内モードをオン・オフ → 設定 →「モバイル通信」でその回線をオフ・オン → 再起動。それでもだめなら販売元へ(画面のエラーメッセージとEID:設定 → 一般 → 情報)。
+
+**Galaxy**(Samsungの公式案内。メニュー名は機種やソフトウェアで少し違います)
+
+1. **インストール:** **設定 → 接続 → SIMマネージャー → eSIMを追加 → QRコードをスキャン** → 届いたQRをスキャン。コードで届いたら同じ画面で「有効化コードを入力」。
+2. **着いたらオン:** **設定 → 接続 → SIMマネージャー**で旅行用eSIMのスイッチをオンにし、モバイルデータを旅行用eSIMにします。
+3. **データがつながらないとき:** **設定 → 接続 → モバイルネットワーク → データローミング**がオンか確認。グレーならモバイルデータを先にオンに。
+4. **それでもだめなら:** 再起動してから販売元へ。
+
+</details>
 
 ## 4. お金と交通カード
 
-お店やレストランではほぼどこでもクレジットカードが使えます。現金が必要になるのは主に交通カードです。
+お店やレストランでは、まずクレジットカードを出してみてください。市場の屋台など、海外カードが使えないところもあります。現金が必要になるのは主に交通カードです。
 
 {{fig:essentials-4|4つのカードと、それぞれの支払い方}}
 
-- **T-money**:地下鉄・バス・タクシーで使える全国共通の交通カード。コンビニや駅の機械で購入・チャージでき、通常のカードのチャージは今もウォン現金が基本です。
-- **空港鉄道のT-moneyカード(2026年11月23日発売)**:仁川空港第1・第2ターミナルの空港鉄道駅にあるT-money自販機で買える、チャージ済みカード。15,000ウォン(カード代5,000ウォン+交通費10,000ウォン)で、海外のクレジットカードが使えます。購入後にカードで再チャージできるかは発表されていません([コリア・ヘラルド](https://www.koreaherald.com/article/10947683))。
-- **WOWPASS**:両替、カード決済、T-moneyが一体になったカード。主要駅の機械で円からチャージできます。
-- **気候同行カード(Climate Card)**:ソウルの乗り放題カードで、旅行者向けの短期券があります。2026年3月17日から、ソウル地下鉄1〜8号線273駅の新しい券売機で海外のVisa・Mastercardを使って短期券と1回券を買えます(手数料約3.7%)。ソウル以外では使えません。
+- **T-money**:地下鉄・バス・タクシーで使える全国共通の交通カード。コンビニや駅の機械で購入・チャージでき、通常のカードのチャージは今もウォン現金が基本です。買い方:[コンビニ](/ja/convenience-store/#tmoney)、チャージの手順:[ソウルの地下鉄 ステップ2](/ja/seoul-subway/)。
+- **空港鉄道のT-moneyカード(2026年11月23日発売)**:仁川空港第1・第2ターミナルの空港鉄道駅にあるT-money自販機で買える、チャージ済みカード。15,000ウォン(カード代5,000ウォン+交通費10,000ウォン)で、海外のクレジットカードが使えます。購入後にカードで再チャージできるかは発表されていません([コリア・ヘラルド](https://www.koreaherald.com/article/10947683))。空港での流れ:[仁川空港からソウルへ ステップ3](/ja/airport-to-seoul/)。
+- **WOWPASS**:両替、カード決済、T-moneyが一体になったカード。主要駅の機械で16種類の通貨の現金かクレジットカードでチャージできます。ただし地下鉄・バスに使う**T-money残高は別に**チャージします(駅・コンビニで現金、またはアプリでWOWPASS残高を移して)。受け取り・チャージ・残ったお金の戻し方:[空港のページ](/ja/airport-to-seoul/#prep)、向いている人:[韓国でのお金](/ja/money/)。
+- **気候同行カード(Climate Card)**:ソウルの乗り放題カードで、旅行者向けの短期券があります。2026年3月17日から、ソウル地下鉄1〜8号線273駅の新しい券売機で海外のVisa・Mastercardを使って短期券と1回券を買えます(手数料約3.7%)。ソウル以外では使えません。元が取れるかの計算:[ソウルの地下鉄](/ja/seoul-subway/)。
 
-iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯でチャージできます(Visaは不可)。改札で自分のカードを直接タッチするのはまだできず、ソウル市は地下鉄で2027年からを目標にしています。
+iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯でチャージできます(Visaは不可)。改札で自分のカードを直接タッチするのはまだできず、ソウル市は地下鉄で2027年からを目標にしています。アプリでのチャージ手順:[コンビニのページ](/ja/convenience-store/#tmoney)。
+
+必ずしも事前に買う必要はありません。空港地下1階のコンビニや券売機でも売っています。予約したカードの受け取り場所と使い方は[空港のページ「着く前に用意」](/ja/airport-to-seoul/#prep)にまとめました。
 
 {{aff:klook_tmoney|空港で受け取るT-moneyカードを予約する}}
 
@@ -85,10 +113,10 @@ iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯�
 | アプリ | 用途 | メモ |
 |---|---|---|
 | NAVERマップ | 徒歩・地下鉄・バスのルート | 韓国の定番。日本語に対応 |
-| カカオマップ | ルート検索 | セカンドオピニオンに。Googleマップに近い操作感 |
-| Kakao T | タクシー配車 | 英語表示あり。カード払いも可 |
+| カカオマップ | ルート検索 | NAVERマップとの比較に |
+| Kakao T | タクシー配車 | 韓国の番号と韓国のカードがある場合。海外カードなら外国人向けのk.ride([ソウルの移動](/ja/getting-around/)) |
 | Papago | 翻訳 | メニューや看板をカメラで翻訳 |
-| Subway Korea | 地下鉄の路線と乗り換え | ダウンロード後はオフラインでも使える |
+| Subway Korea | 地下鉄の路線と乗り換え | 路線図の確認用。経路案内は上のNAVERマップでもできます |
 | Korail+(旧KorailTalk) | KTX・長距離列車 | 乗車2か月前から予約可能([ソウルから釜山へ](/ja/ktx-busan/)) |
 
 ### Googleマップは使える?
@@ -97,7 +125,7 @@ iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯�
 
 ## 6. 仁川空港からの移動
 
-空港鉄道(AREX)とリムジンバスがソウル中心部まで走っていて、どちらもT-moneyで乗れます。深夜着、荷物が多い、グループ旅行なら、送迎の事前予約が楽なこともあります。ホテルのエリア別の比較は[仁川空港からソウルへ](/ja/airport-to-seoul/)へ。
+空港鉄道(AREX)とリムジンバスがソウル中心部まで走っていて、どちらもT-moneyで乗れます。ホテルがソウル駅の近くなら直通列車がいちばん速いです(第1ターミナルから43分)。切符は空港地下1階の券売機で買えます(海外のカード可)し、下のボタンで事前に予約することもできます(受け取り方・使い方は予約確認書に従ってください)。荷物が多い3〜4人なら定額の[外国人観光タクシー](/ja/airport-to-seoul/#taxi)を。ホテルのエリア別の比較は[仁川空港からソウルへ](/ja/airport-to-seoul/)へ。
 
 {{fig:airport-to-seoul-1|空港ガイドより:第1ターミナルからソウルへの4つの方法}}
 
@@ -106,3 +134,5 @@ iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯�
 ## 出典
 
 <p class="sources">法務部「<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA一時免除期間の延長(2027年12月31日まで)</a>」(2026年11月23日掲載、11月26日確認)、<a href="https://www.k-eta.go.kr" rel="noopener" target="_blank">k-eta.go.kr</a>(手数料、11月26日確認)、<a href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">e-arrivalcard.go.kr</a>(無料、到着3日前から申告可、11月26日確認)、コリア・ヘラルド「<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のT-moneyカード</a>」(2026年11月24日)と「<a href="https://www.koreaherald.com/article/10946522" rel="noopener" target="_blank">Googleの韓国地図計画</a>」(2026年11月23日)、いずれも11月26日確認。今回は再確認できず前回の確認内容を維持:22の国・地域と3年の有効期間に関する外交部のお知らせ、仁川国際空港の電子入国申告書案内、国土交通部の地図データ持ち出し承認(2026年2月27日)、ソウル市のT-money・気候同行カード・地下鉄新券売機の案内(2026年3月16日)。</p>
+
+<p class="sources">2026年11月27日確認:Apple <a href="https://support.apple.com/ja-jp/118669" rel="noopener" target="_blank">iPhoneでeSIMを設定する</a>(QR・リンクでのインストール)、<a href="https://support.apple.com/ja-jp/118227" rel="noopener" target="_blank">海外旅行中にiPhoneでeSIMを使う</a>(SIMロックの確認、中国本土・香港・マカオの例外、旅行用eSIMをオン、データ通信の回線、自分の国の回線のローミング料金)、<a href="https://support.apple.com/ja-jp/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhoneユーザガイド:モバイルデータ通信の設定</a>(データローミング)、<a href="https://support.apple.com/ja-jp/109317" rel="noopener" target="_blank">デュアルSIMを使う</a>(データは一度に1つの番号、番号ごとの設定)、<a href="https://support.apple.com/ja-jp/102478" rel="noopener" target="_blank">eSIMを設定できない場合</a>;Samsung Japan <a href="https://www.samsung.com/jp/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIMマネージャー → eSIMを追加 → QRコードをスキャン)、Samsung UK <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">データローミング</a>・<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">デュアルSIM</a>(英語のメニュー名を訳したもの)、Samsung Ireland <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EIDの場所。英語のメニュー名を訳したもの);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は別チャージ);WOWPASS eSIMの予約条件(QRインストール後は返金不可 —「返金できないところ」の例)。確認できなかったもの:Yesim・KlookのeSIM商品ページ(プランの違い・返金条件)。両サイトが自動アクセスを止めていて開けませんでした。</p>
