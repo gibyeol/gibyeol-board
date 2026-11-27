@@ -26,3 +26,11 @@
 
 </details>
 
+| 2026-11-28 04:44 KST | https://www.bing.com/indexnow | 2 | HTTP 200 OK, URL submitted | /ko/deals/ /ko/ |
+<details><summary>보낸 주소</summary>
+
+- https://nadri-guide.pages.dev/ko/deals/
+- https://nadri-guide.pages.dev/ko/
+
+</details>
+
