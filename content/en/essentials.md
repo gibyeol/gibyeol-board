@@ -52,7 +52,7 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 
 {{fig:essentials-3|eSIM, SIM or pocket wifi: what each asks of you}}
 
-**Which one:** for data only, any of the buttons below will do. If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts. The last one is for foreign passport holders only (Korean passports cannot be verified).
+**Which one:** for data only, any of the buttons below will do (the last one is for foreign passport holders only). If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts. The last one is for foreign passport holders only (Korean passports cannot be verified).
 
 **Before you buy:** check the refund terms on the product page (some sellers do not refund once the eSIM is installed).
 
@@ -65,7 +65,7 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 - **Who:** foreign passport holders only. The product is "for foreigners only", and passport verification does not work with a Korean passport.
 - **Data:** unlimited by default, 4G LTE. No hotspot sharing. Under the Fair Usage Policy, speed and usage may be limited without notice if you use a lot of data in a short time. Internet calls such as FaceTime and KakaoTalk voice talk work.
 - **Calls and texts:** after you enter Korea, do the passport verification between 8 a.m. and 10 p.m. to use calls and texts as well as data. After verifying, you pay a separate top-up for voice. Without verification, you get data only.
-- **Length:** choose 2 to 90 days. It cannot be extended.
+- **Length:** choose 2–10, 15, 20, 30, 60 or 90 days. It cannot be extended.
 - **Free T-money card (transport card):** with plans of 3 days or more. You pick it up in person at an SKT Roaming Center at Incheon Airport.
 - **Phones it won't work on:** country-locked phones, and physical dual-SIM models (for example Hong Kong and China iPhone Max models). iPhones need iOS 15.0 or later. There are no refunds or cancellations if your phone is not compatible, so do "Check your phone first" above.
 
