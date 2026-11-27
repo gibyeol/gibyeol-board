@@ -5,6 +5,7 @@ lede: Six things to settle before your flight, in the order you will need them. 
 section: essentials
 disclosure: yes
 updated: 2026-11-27
+modified: 2026-11-28
 ---
 ## Your first hour, if these are done
 
@@ -52,7 +53,9 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 
 {{fig:essentials-3|eSIM, SIM or pocket wifi: what each asks of you}}
 
-**Which one:** for data only, any of the buttons below will do (the last one is for foreign passport holders only). If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts. The last one is for foreign passport holders only (Korean passports cannot be verified).
+<span id="esim-pick"></span>
+
+**Which one:** for data only, any of the buttons below will do (the last one is for foreign passport holders only; Korean passports cannot be verified). If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts.
 
 **Before you buy:** check the refund terms on the product page (some sellers do not refund once the eSIM is installed).
 
