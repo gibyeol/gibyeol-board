@@ -5,13 +5,7 @@ home: yes
 updated: 2026-11-27
 ---
 <section class="front">
-<article class="lead">
-<span class="kicker">TODAY'S CALL</span>
-<h2>In Seoul this week? Seoul's department store sales end Sunday, before Black Friday does</h2>
-<p class="first">Online Black Friday deals run into early December, but the winter sales at Shinsegae, Lotte and Hyundai department stores all end on Sunday, November 29. If you want a winter coat you can try on, go to the department stores first.</p>
-<p>Shinsegae and Lotte go up to 50% off; Hyundai up to 60% off the first selling price. Bring your passport: tax-free shopping applies on top at stores that offer it.</p>
-<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">Source: ZDNet Korea, 2026-11-10</a> · <a href="/deals/">See every sale</a></p>
-</article>
+{{headline}}
 
 <div class="front-side">
 

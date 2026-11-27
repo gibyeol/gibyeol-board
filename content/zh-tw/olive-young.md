@@ -10,7 +10,7 @@ disclosure: yes
 
 <figure class="tr-hero acc-hero"><img src="/static/photo/olive-young-1.webp" alt="夜晚的 Olive Young 門市入口,招牌寫著 Olive Young Health and Beauty Store" width="780" height="500"><figcaption><b>Olive Young</b>,韓國最大的美妝藥妝連鎖。看到這個招牌,照這頁的順序走就好。<span class="tr-credit">照片:Pkccccj,<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:OliveYoung_store.png" rel="noopener" target="_blank">維基共享資源</a>(自動調整亮度)。照片說明沒有寫是哪家分店。</span></figcaption></figure>
 
-<ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>護照正本<small>符合資格就在結帳時扣稅</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>15,000 韓元以上<small>同一家店、單張收據</small></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><span>袋子要付費<small>紙袋 100 韓元(明洞 Town)</small></span></li><li><i class="ic ic-calendar-check" aria-hidden="true"></i><span>下次特賣:12 月第一週<small>日期尚未公布,公布後更新在優惠看板</small></span></li></ul>
+<ul class="tr-facts"><li><i class="ic ic-id-card" aria-hidden="true"></i><span>護照正本<small>符合資格就在結帳時扣稅</small></span></li><li><i class="ic ic-receipt" aria-hidden="true"></i><span>15,000 韓元以上<small>同一家店、單張收據</small></span></li><li><i class="ic ic-shopping-basket" aria-hidden="true"></i><span>袋子要付費<small>紙袋 100 韓元(明洞 Town)</small></span></li><li><i class="ic ic-calendar-check" aria-hidden="true"></i><span>下次特賣:預估 11/29(日)–12/5(六)前後<small>尚未正式公布,依最近三次的日期預估</small></span></li></ul>
 
 <aside class="tr-note"><i class="ic ic-user-check" aria-hidden="true"></i><span><b>可以退稅的人</b>:在韓國停留未滿 6 個月的外國旅客,以及旅居海外超過 2 年、這次回韓停留 3 個月以內的韓國國民(Visit Seoul、VISITKOREA)。這頁說的「符合資格」就是指這些人。詳細:<a href="/zh-tw/tax-refund/#我可以退稅嗎">我可以退稅嗎?</a></span></aside>
 
@@ -110,7 +110,7 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 
 {{fig:olive-young-1|Olive Young 的一年:四次大特賣,每月一次小活動}}
 
-<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>Olive Young Sale:配合這個</b><span>一年四次,在 3、6、9、12 月,每次約 7 天。全年折扣範圍最廣,門市與線上同步。2026 年分別在 3 月 1–7 日、5 月 31 日–6 月 6 日、8 月 30 日–9 月 5 日。12 月場在第一週,官方公布後會更新在<a href="/zh-tw/deals/">優惠看板</a>。</span></li><li><i class="ic ic-tag" aria-hidden="true"></i><b>Olive Young Day(Olive Day):碰上算賺到</b><span>每月 25–27 日。額外折價券發給 Olive Young 會員(Olive Members)帳號。加入會員需要住在韓國、有本人名義的韓國聯絡電話。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-calendar-check" aria-hidden="true"></i><b>Olive Young Sale:配合這個</b><span>一年四次,在 3、6、9、12 月,每次約 7 天。全年折扣範圍最廣,門市與線上同步。2026 年分別在 3 月 1–7 日、5 月 31 日–6 月 6 日、8 月 30 日–9 月 5 日。12 月場尚未正式公布,日期是預估:11/29(日)–12/5(六)前後。根據:最近三次(<a href="https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/" rel="noopener" target="_blank">2025 年 12 月 11/30–12/6</a>、2026 年 6 月 5/31–6/6、9 月 8/30–9/5,皆為 CJ 新聞室)都是週日開始、連續 7 天。公布後會把確定日期更新在<a href="/zh-tw/deals/">優惠看板</a>。</span></li><li><i class="ic ic-tag" aria-hidden="true"></i><b>Olive Young Day(Olive Day):碰上算賺到</b><span>每月 25–27 日。額外折價券發給 Olive Young 會員(Olive Members)帳號。加入會員需要住在韓國、有本人名義的韓國聯絡電話。</span></li></ul>
 
 <aside class="tr-note tip"><i class="ic ic-lightbulb" aria-hidden="true"></i><span>等待也是樂趣:把特賣週寫進行事曆,出發前先寫下三樣要買的。</span></aside>
 
@@ -129,7 +129,7 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 <li><img src="/static/photo/oy-pick-sheet-mask.webp" alt="裝在扁平包裝袋裡的一片面膜" loading="lazy" width="780" height="585"><b><i class="ic ic-package" aria-hidden="true"></i>面膜</b><span class="t">便宜、扁平、一次一片。一片裝在一個像這樣的扁平袋裡。範例,不是推薦。</span><span class="tr-credit">照片:김인겸(Kim In-gyeom),<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh-hant" rel="noopener" target="_blank">CC BY-SA 4.0</a>,來自<a href="https://commons.wikimedia.org/wiki/File:PX%EB%A7%88%EC%8A%A4%ED%81%AC%ED%8C%A9.jpg" rel="noopener" target="_blank">維基共享資源</a>(自動調整亮度)</span></li>
 </ul>
 
-<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>12 月去的話</b><span>12 月特賣和選出年度熱銷商品的「Olive Young Awards」一起舉行。得獎商品會以大容量、1+1、加贈小禮的限定版推出,同樣的錢常能買到更多。</span></li><li><i class="ic ic-user-x" aria-hidden="true"></i><b>不需要這份清單的人</b><span>已經有固定保養品的話,趁特賣補貨就好。</span></li></ul>
+<ul class="tr-choose"><li><i class="ic ic-sparkles" aria-hidden="true"></i><b>12 月去的話</b><span>去年(2025 年)12 月特賣和選出年度熱銷商品的「Olive Young Awards」一起舉行,得獎商品以大容量、1+1、加贈小禮的限定版推出,同樣的錢常能買到更多(<a href="https://cjnews.cj.net/모두가-사랑한-제품을-모두가-사랑할-혜택으로-cj/" rel="noopener" target="_blank">CJ 新聞室 2025-11-28</a>)。預估今年也一樣,但尚未正式公布。</span></li><li><i class="ic ic-user-x" aria-hidden="true"></i><b>不需要這份清單的人</b><span>已經有固定保養品的話,趁特賣補貨就好。</span></li></ul>
 
 我們沒列的:正在流行的商品和排行榜。排行榜告訴你什麼賣得好,不會告訴你什麼適合你。
 
@@ -153,7 +153,7 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 
 | 情況 | 怎麼做 | 原因 |
 |---|---|---|
-| 行程碰上 3、6、9、12 月第一週 | 在 Olive Young Sale 期間買 | 全年折扣範圍最廣,門市與線上同步 |
+| 行程碰上 Olive Young Sale 期間(3、6、9、12 月,約 7 天) | 在 Olive Young Sale 期間買 | 全年折扣範圍最廣,門市與線上同步 |
 | 其他時間 | 符合資格就帶護照照樣買 | 單張收據 15,000 至未滿 1,000,000 韓元,結帳時直接扣稅 |
 | 第一次買韓國美妝 | 先買三樣 | 防曬、化妝水棉片、面膜:便宜、好帶、用得完 |
 | 已經回台灣 | Olive Young Global(美國是 Olive Young US) | 有配送到台灣;2026 年 5 月 29 日起 Global 不服務美國顧客 |

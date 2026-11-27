@@ -5,13 +5,7 @@ home: yes
 updated: 2026-11-27
 ---
 <section class="front">
-<article class="lead">
-<span class="kicker">今日の判断</span>
-<h2>今週ソウルにいるなら、ブラックフライデーより先に百貨店セール。日曜で終わります</h2>
-<p class="first">オンラインのブラックフライデーは12月初めまで続きますが、新世界・ロッテ・現代百貨店の冬の定期セールは11月29日(日)に一斉に終わります。冬のコートのように試着したいものは、百貨店が先。</p>
-<p>新世界・ロッテは最大50%、現代は初回販売価格から最大60%。パスポートを持って行けば、免税対応店舗ではさらに税金分が戻ります。</p>
-<p class="src"><a href="https://zdnet.co.kr/view?no=20261110090057" rel="noopener" target="_blank">出典:ZDNet Korea、2026-11-10</a> · <a href="/ja/deals/">セールをすべて見る</a></p>
-</article>
+{{headline}}
 
 <div class="front-side">
 

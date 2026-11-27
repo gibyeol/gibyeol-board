@@ -2,7 +2,10 @@
 (function () {
   var list = document.querySelector('.deals[data-ends]');
   if (!list) return;
-  var today = new Date(); today.setHours(0, 0, 0, 0);
+  var today = (function () {  // counted in Seoul, like the home page (static/site.js)
+    try { var d = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul' }).format(new Date()).split('-'); return new Date(+d[0], +d[1] - 1, +d[2]); }
+    catch (e) { var x = new Date(); x.setHours(0, 0, 0, 0); return x; }
+  })();
   var day = function (s) { var p = s.split('-'); return new Date(+p[0], +p[1] - 1, +p[2]); };
   list.querySelectorAll('.deal').forEach(function (li) {
     var s = day(li.dataset.start), e = day(li.dataset.end), tag = li.querySelector('.deal-dday');
