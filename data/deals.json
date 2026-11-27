@@ -1,1009 +1,1257 @@
 {
- "checked": "2026-11-24",
- "categories": {
-  "beauty": {
-   "ko": "뷰티",
-   "en": "Beauty",
-   "ja": "ビューティー",
-   "zh-tw": "美妝"
-  },
-  "fashion": {
-   "ko": "패션",
-   "en": "Fashion",
-   "ja": "ファッション",
-   "zh-tw": "服飾"
-  },
-  "dept": {
-   "ko": "백화점",
-   "en": "Department stores",
-   "ja": "百貨店",
-   "zh-tw": "百貨公司"
-  },
-  "mall": {
-   "ko": "쇼핑몰·가전",
-   "en": "Online & electronics",
-   "ja": "通販・家電",
-   "zh-tw": "網購・家電"
-  },
-  "overseas": {
-   "ko": "직구·면세",
-   "en": "Duty free & overseas",
-   "ja": "免税・海外通販",
-   "zh-tw": "免稅・海外購"
-  },
-  "travel": {
-   "ko": "여행·항공",
-   "en": "Travel",
-   "ja": "旅行・航空",
-   "zh-tw": "旅遊・機票"
-  },
-  "event": {
-   "ko": "축제·마켓",
-   "en": "Events & markets",
-   "ja": "イベント・マーケット",
-   "zh-tw": "活動・市集"
-  },
-  "xmas": {
-   "ko": "크리스마스",
-   "en": "Christmas",
-   "ja": "クリスマス",
-   "zh-tw": "聖誕節"
-  }
- },
- "items": [
-  {
-   "id": "musinsa-offline-codes",
-   "start": "2026-11-20",
-   "end": "2026-12-02",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.musinsa.com/content/1566699932019111639",
-    "date": "2026-11"
-   },
-   "text": {
-    "ko": {
-     "title": "무신사 오프라인 매장 키워드 쿠폰",
-     "note": "무신사 앱 쿠폰함에 키워드를 입력하면 오프라인 전용 15% 쿠폰. MD's Pick 대상 상품만이라, 매장 가기 전에 앱에서 대상부터 확인하는 게 순서. 장바구니 10% 쿠폰(10만 원 이상, 최대 1만 원, ID당 1회)도 별도."
+  "checked": "2026-11-24",
+  "categories": {
+    "beauty": {
+      "ko": "뷰티",
+      "en": "Beauty",
+      "ja": "ビューティー",
+      "zh-tw": "美妝"
     },
-    "en": {
-     "title": "Musinsa stores: keyword coupons",
-     "note": "Type a keyword into the coupon box in the Musinsa app for a 15% coupon that works in physical stores only, on MD's Pick items. Worth it if you are already planning Seongsu or Hongdae."
+    "fashion": {
+      "ko": "패션",
+      "en": "Fashion",
+      "ja": "ファッション",
+      "zh-tw": "服飾"
     },
-    "ja": {
-     "title": "ムシンサ実店舗:キーワードクーポン",
-     "note": "ムシンサアプリのクーポン欄にキーワードを入れると、実店舗限定の15%クーポン。対象はMD's Pick商品のみ。聖水・弘大に行く予定があるなら使う価値あり。"
+    "dept": {
+      "ko": "백화점",
+      "en": "Department stores",
+      "ja": "百貨店",
+      "zh-tw": "百貨公司"
     },
-    "zh-tw": {
-     "title": "MUSINSA 實體店:關鍵字折價券",
-     "note": "在 MUSINSA App 的折價券欄輸入關鍵字,可拿到實體店限定 15% 折價券,只限 MD's Pick 商品。本來就要去聖水、弘大的話很值得。"
+    "mall": {
+      "ko": "쇼핑몰·가전",
+      "en": "Online & electronics",
+      "ja": "通販・家電",
+      "zh-tw": "網購・家電"
+    },
+    "overseas": {
+      "ko": "직구·면세",
+      "en": "Duty free & overseas",
+      "ja": "免税・海外通販",
+      "zh-tw": "免稅・海外購"
+    },
+    "travel": {
+      "ko": "여행·항공",
+      "en": "Travel",
+      "ja": "旅行・航空",
+      "zh-tw": "旅遊・機票"
+    },
+    "event": {
+      "ko": "축제·마켓",
+      "en": "Events & markets",
+      "ja": "イベント・マーケット",
+      "zh-tw": "活動・市集"
+    },
+    "xmas": {
+      "ko": "크리스마스",
+      "en": "Christmas",
+      "ja": "クリスマス",
+      "zh-tw": "聖誕節"
     }
-   },
-   "code": [
+  },
+  "items": [
     {
-     "value": "퍼재킷다퍼줄게"
-    },
-    {
-     "value": "어그도무신사랑해"
-    }
-   ],
-   "hero": {
-    "kind": "pct",
-    "value": 15
-   },
-   "home_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide": [
-    "ko",
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "차단 우회로 얻은 정보 — 원칙 위반 4번, 출처로 다시 확인 전까지 숨김 (2026-11-27, 원두 [7eb4ec94#2990]: 코드의 마지막 확인(11/26)이 헤드리스 브라우저 = curl 403 차단을 넘은 방식, drafts/fashion-progress.md:35). 이전 사유(en/ja/zh-tw): 무신사 앱 쿠폰함 쿠폰: 외국 방문객이 이 앱 회원으로 가입·쿠폰을 받을 수 있는지 출처로 확인 못 함(무신사 페이지 프록시 차단). 원두 [7eb4ec94#2954] 3 '실제로 쓸 수 있는 사용자'."
-  },
-  {
-   "id": "oy-sale-2026-12",
-   "start": "2026-11-29",
-   "end": "2026-12-05",
-   "status": "expected",
-   "category": "beauty",
-   "source": {
-    "url": "https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/",
-    "date": "2025-12-09"
-   },
-   "text": {
-    "ko": {
-     "title": "12월 올영세일 (연말결산)",
-     "note": "아직 공식 발표 전이라 날짜는 예상이에요. 근거: 최근 세 번(2025년 12월 11/30~12/6, 2026년 6월 5/31~6/6, 9월 8/30~9/5)이 모두 일요일에 시작해 7일 동안 열렸어요. 같은 식이면 11/29(일)~12/5(토) 무렵. 발표되면 바로 고침."
-    },
-    "en": {
-     "title": "Olive Young Sale, December edition",
-     "note": "Dates are our estimate, not announced yet. Why: the last three sales (Dec 2025: Nov 30–Dec 6; Jun 2026: May 31–Jun 6; Sep 2026: Aug 30–Sep 5) all started on a Sunday and ran 7 days, so this one is likely around Sun Nov 29–Sat Dec 5. Tax-free still applies on sale prices. [How to plan it](/olive-young/)"
-    },
-    "ja": {
-     "title": "オリーブヤングセール(12月)",
-     "note": "日程はまだ公式発表前のため予想です。根拠:直近3回(2025年12月 11/30〜12/6、2026年6月 5/31〜6/6、9月 8/30〜9/5)はどれも日曜に始まり7日間。同じなら11/29(日)〜12/5(土)ごろ。セール価格でも免税対象。[攻略ガイド](/ja/olive-young/)"
-    },
-    "zh-tw": {
-     "title": "Olive Young Sale 年末場",
-     "note": "日期尚未正式公布,這裡是預估。根據:最近三次(2025 年 12 月 11/30–12/6、2026 年 6 月 5/31–6/6、9 月 8/30–9/5)都是週日開始、連續 7 天,照這個模式大約是 11/29(日)–12/5(六)。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
-    }
-   }
-  },
-  {
-   "id": "klook-bf-2026",
-   "start": "2026-11-26",
-   "end": "2026-11-30",
-   "status": "expected",
-   "category": "travel",
-   "source": {
-    "url": "https://www.vietnamtourism.com/en/klook-black-friday",
-    "date": "2026-11"
-   },
-   "text": {
-    "ko": {
-     "title": "Klook 블랙프라이데이",
-     "note": "투어·액티비티 일부를 코드 없이 할인한다는 외부 소개만 있고 Klook 공식 발표는 아직 못 찾음. 일본 여행 입장권 살 계획이면 이 기간 가격을 한 번 비교해 볼 만함."
-    },
-    "en": {
-     "title": "Klook Black Friday",
-     "note": "Third-party reports say selected tours and activities get discounts with no code. No official Klook announcement found yet, so treat it as expected."
-    },
-    "ja": {
-     "title": "Klook ブラックフライデー",
-     "note": "一部のツアー・アクティビティがコード不要で割引という外部情報のみ。Klookの公式発表はまだ見つかっていません。"
-    },
-    "zh-tw": {
-     "title": "Klook 黑色星期五",
-     "note": "只有第三方報導說部分行程與活動免代碼折扣,尚未找到 Klook 官方公告,先標示為預計。"
-    }
-   },
-   "board_hide": [
-    "ko",
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "Klook 공식 발표 없음, 출처는 제3자 사이트 1곳(지금 열리지 않음, 사본 없음). 예상 근거도 아님 → 불확실한 정보는 올리지 않음 [7eb4ec94#2931] 6, [7eb4ec94#2954] 1."
-  },
-  {
-   "id": "dept-winter-2026",
-   "start": "2026-11-12",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "dept",
-   "source": {
-    "url": "https://zdnet.co.kr/view?no=20261110090057",
-    "date": "2026-11-10"
-   },
-   "text": {
-    "en": {
-     "title": "Department store winter sales",
-     "note": "Shinsegae (about 370 brands), Lotte (about 400) and Hyundai (about 200) all run their winter sales until Nov 29, up to 50–60% off. Tax refund rules still apply."
-    },
-    "ja": {
-     "title": "百貨店の冬の定期セール",
-     "note": "新世界(約370ブランド)、ロッテ(約400)、現代(約200)が11/29まで冬の定期セール、最大50〜60%。免税・還付のルールもそのまま。"
-    },
-    "zh-tw": {
-     "title": "百貨公司冬季特賣",
-     "note": "新世界(約 370 個品牌)、樂天(約 400 個)、現代(約 200 個)冬季特賣到 11/29,新世界、樂天最低 5 折,現代(以首賣價計)最低 4 折。退稅規則照常適用。"
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 60
-   }
-  },
-  {
-   "id": "korea-grand-sale-2027",
-   "start": "2026-12-23",
-   "end": "2027-02-13",
-   "status": "confirmed",
-   "category": "event",
-   "source": {
-    "url": "https://www.speconomy.com/news/articleView.html?idxno=418542",
-    "date": "2026-10-03"
-   },
-   "text": {
-    "ko": {
-     "title": "2027 코리아그랜드세일 (외국인 관광객 대상)",
-     "note": "53일 동안 열리는 외국인 관광객 대상 세일. 서울·부산·강원 등에 웰컴센터 운영. 할인 내용은 출처 기사(10/3) 시점에 미발표."
-    },
-    "en": {
-     "title": "Korea Grand Sale 2027",
-     "note": "A 53-day sale for foreign visitors, with welcome centers in Seoul, Busan, Gangwon and other spots. Discount details had not been announced as of the source article (3 October). The last edition had 1,750 companies, from airlines and hotels to shops."
-    },
-    "ja": {
-     "title": "コリアグランドセール 2027",
-     "note": "外国人旅行者向けの53日間のセール。ソウル・釜山・江原などにウェルカムセンター。割引内容は出典記事(10月3日)の時点で未発表。"
-    },
-    "zh-tw": {
-     "title": "2027 Korea Grand Sale",
-     "note": "專為外國旅客舉辦、為期 53 天的特賣,首爾、釜山、江原等地設有迎賓中心。折扣內容在來源報導(10/3)時尚未公布。"
-    }
-   }
-  },
-  {
-   "id": "seoul-winter-market-2026",
-   "start": "2026-12-11",
-   "end": "2027-01-10",
-   "status": "confirmed",
-   "category": "event",
-   "source": {
-    "url": "https://mediahub.seoul.go.kr/archives/2020167",
-    "date": "2026-11-25"
-   },
-   "text": {
-    "ko": {
-     "title": "광화문 마켓 · 서울윈터페스티벌",
-     "note": "서울시 11/25 발표. 올해 주제는 '시간이 멈춘 산타마을'. 일~목 17:30~22:00, 금·토는 22:30까지, 입장 무료(VISIT SEOUL). 5호선 광화문역 9번 출구."
-    },
-    "en": {
-     "title": "Gwanghwamun Christmas Market",
-     "note": "Announced by Seoul on Nov 25. This year's theme: \"Santa Village where time stopped\". Sun–Thu 17:30–22:00, Fri–Sat until 22:30, free entry (VISIT SEOUL). Gwanghwamun Station (Line 5), Exit 9."
-    },
-    "ja": {
-     "title": "光化門クリスマスマーケット",
-     "note": "ソウル市が11/25に発表。今年のテーマは「時が止まったサンタ村」。日〜木17:30〜22:00、金・土は22:30まで、入場無料(VISIT SEOUL)。5号線光化門駅9番出口。"
-    },
-    "zh-tw": {
-     "title": "光化門聖誕市集",
-     "note": "首爾市 11/25 公布。今年主題是「時間靜止的聖誕老人村」。週日至週四 17:30–22:00,週五、六到 22:30,免費入場(VISIT SEOUL)。5 號線光化門站 9 號出口。"
-    }
-   }
-  },
-  {
-   "id": "oy-day-2026-12",
-   "start": "2026-12-25",
-   "end": "2026-12-27",
-   "status": "expected",
-   "category": "beauty",
-   "source": {
-    "url": "https://cjnews.cj.net/cj올리브영-25일부터-3일간-멤버십-회원-위한-올리브/",
-    "date": "2025-03-24"
-   },
-   "text": {
-    "ko": {
-     "title": "12월 올영데이",
-     "note": "올리브영 회원(올리브 멤버스) 대상 행사로 매달 25~27일에 열려요(CJ뉴스룸 2025-03-24). 12월 날짜는 이 기준으로 본 예상. 등급별 추가 할인 쿠폰이 회원 계정으로 나와요."
-    },
-    "en": {
-     "title": "Olive Young Day",
-     "note": "A smaller monthly event on the 25th–27th. Most extra coupons go to Korean app members, so visitors mainly see shelf discounts."
-    },
-    "ja": {
-     "title": "オリーブヤングデー",
-     "note": "毎月25〜27日の小規模イベント。追加クーポンは主に韓国の会員向け。"
-    },
-    "zh-tw": {
-     "title": "Olive Young Day",
-     "note": "每月 25–27 日的小型活動,額外折價券主要給韓國會員。"
-    }
-   },
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "올리브 데이는 올리브 멤버스(회원) 대상 행사(CJ뉴스룸 2025-03-24). 회원 가입은 한국 거주·본인 명의 한국 연락처가 필요(올리브영 가이드 페이지 출처) → 방문객은 쓸 수 없음."
-  },
-  {
-   "id": "wconcept-wweek",
-   "start": "2026-11-09",
-   "end": "2026-11-25",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.segye.com/newsView/20261116503390",
-    "date": "2026-11-16"
-   },
-   "text": {
-    "ko": {
-     "title": "W컨셉 더블유위크",
-     "note": "최대 85%. 매일 10시 선착순 균일가, 18시 선착순 50% 쿠폰. 오늘·내일이 마지막이라 장바구니 있으면 지금."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 85
-   }
-  },
-  {
-   "id": "shilla-dfs-bf",
-   "start": "2026-11-09",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "overseas",
-   "source": {
-    "url": "https://www.news2day.co.kr/article/20261115500055",
-    "date": "2026-11-15"
-   },
-   "text": {
-    "ko": {
-     "title": "신라면세점 블랙프라이데이",
-     "note": "온·오프라인 매장에서 최대 90%, 11/30까지. 인터넷면세점은 키엘·랑콤 등 뷰티 특가, 신규 가입 고객은 구매 금액의 최대 20% 페이백."
-    },
-    "en": {
-     "title": "Shilla Duty Free Black Friday",
-     "note": "Up to 90% off in Shilla's duty-free stores and online, until 30 November."
-    },
-    "ja": {
-     "title": "新羅免税店ブラックフライデー",
-     "note": "新羅免税店の店舗とオンラインで最大90%オフ、11月30日まで。"
-    },
-    "zh-tw": {
-     "title": "新羅免稅店黑色星期五",
-     "note": "新羅免稅店門市與線上最高 1 折(最多 90% off),到 11/30。"
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 90
-   }
-  },
-  {
-   "id": "dept-shinsegae",
-   "start": "2026-11-12",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "dept",
-   "source": {
-    "url": "https://zdnet.co.kr/view?no=20261110090057",
-    "date": "2026-11-10"
-   },
-   "text": {
-    "ko": {
-     "title": "신세계백화점 겨울 정기세일",
-     "note": "370여 브랜드 최대 50%. 신세계 앱에서 제휴카드로 패션 30만 원 이상 당일 구매 시 1.5만 원 쿠폰."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 50
-   }
-  },
-  {
-   "id": "dept-lotte",
-   "start": "2026-11-13",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "dept",
-   "source": {
-    "url": "https://zdnet.co.kr/view?no=20261110090057",
-    "date": "2026-11-10"
-   },
-   "text": {
-    "ko": {
-     "title": "롯데백화점 겨울 정기세일",
-     "note": "400여 브랜드 최대 50%."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 50
-   }
-  },
-  {
-   "id": "dept-hyundai",
-   "start": "2026-11-13",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "dept",
-   "source": {
-    "url": "https://zdnet.co.kr/view?no=20261110090057",
-    "date": "2026-11-10"
-   },
-   "text": {
-    "ko": {
-     "title": "현대백화점 더 세일",
-     "note": "200여 브랜드, 첫 판매가 대비 최대 60%."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 60
-   }
-  },
-  {
-   "id": "samsung-week",
-   "start": "2026-11-01",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "mall",
-   "source": {
-    "url": "https://sateconomy.co.kr/news/view/1065596718803384",
-    "date": "2026-10-21"
-   },
-   "text": {
-    "ko": {
-     "title": "삼성위크 (삼성닷컴)",
-     "note": "카드 할인·무이자 할부·다품목 추가 할인 중심. 할인율 숫자보다 카드 혜택 합친 최종가로 비교하는 게 맞음."
-    }
-   }
-  },
-  {
-   "id": "coupang-digital-bf",
-   "start": "2026-11-16",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "mall",
-   "source": {
-    "url": "https://zdnet.co.kr/view?no=20261115110246",
-    "date": "2026-11-15"
-   },
-   "text": {
-    "ko": {
-     "title": "쿠팡 가전·디지털 블랙프라이데이",
-     "note": "삼성·LG·HP 등. 갤럭시 탭 S12는 카드 할인 + 최대 5만 원 쿠팡캐시 적립처럼 적립형 혜택도 있어서 실결제가로 비교 필요."
-    }
-   }
-  },
-  {
-   "id": "ably-bf",
-   "start": "2026-11-16",
-   "end": "2026-12-03",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439858",
-    "date": "2026-11-16"
-   },
-   "text": {
-    "ko": {
-     "title": "에이블리 에블프",
-     "note": "최대 93%. 전 상품에 쓰는 최대 20% 쿠폰 4종, 인기 마켓 대상 최대 12% 중복 쿠폰."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 93
-   }
-  },
-  {
-   "id": "zigzag-bf",
-   "start": "2026-11-16",
-   "end": "2026-12-02",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439858",
-    "date": "2026-11-16"
-   },
-   "text": {
-    "ko": {
-     "title": "지그재그 겨울 직잭팟",
-     "note": "6천 개 브랜드 최대 99%. 최대 20% 쿠폰팩, 최대 4만 원 쿠폰, 중복 쿠폰."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 99
-   }
-  },
-  {
-   "id": "trinity-nov",
-   "start": "2026-11-16",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "travel",
-   "source": {
-    "url": "https://kbmaeil.com/article/20261116500211",
-    "date": "2026-11-16"
-   },
-   "text": {
-    "ko": {
-     "title": "트리니티항공 국제선 블랙프라이데이",
-     "note": "예매 11/30까지(공식 홈페이지·앱), 탑승 2027.2.1~10.30. 예매 때 코드 NOV26 입력하면 국제선 할인, 결제 금액에 따라 최대 4만 원 할인 쿠폰. 동남아·호주·미주·유럽 주요 노선은 선착순 특가."
-    }
-   },
-   "code": [
-    {
-     "value": "NOV26"
-    }
-   ],
-   "hero": {
-    "kind": "krw",
-    "value": 40000
-   }
-  },
-  {
-   "id": "topten-bf",
-   "start": "2026-11-18",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.esquirekorea.co.kr/article/1913174",
-    "date": "2026-11-18"
-   },
-   "text": {
-    "ko": {
-     "title": "탑텐 블랙프라이데이",
-     "note": "할인율은 공개 안 됨. 겨울 기본템 위주면 유니클로·스파오랑 같은 품목 가격 비교 추천."
-    }
-   }
-  },
-  {
-   "id": "amazon-bf",
-   "start": "2026-11-19",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "overseas",
-   "source": {
-    "url": "https://www.aboutamazon.com/md/news/retail/when-is-amazon-black-friday-faq",
-    "date": "2026-11-10"
-   },
-   "text": {
-    "ko": {
-     "title": "아마존 블랙프라이데이 · 사이버먼데이 (미국)",
-     "note": "블랙프라이데이 위크·사이버먼데이 행사 11/19~11/30 (미국 태평양시 기준, 한국 시각은 17시간 빠름). 직구는 관세 면세 한도부터 확인."
-    }
-   }
-  },
-  {
-   "id": "uniqlo-bf",
-   "start": "2026-11-20",
-   "end": "2026-11-27",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.esquirekorea.co.kr/article/1913174",
-    "date": "2026-11-18"
-   },
-   "text": {
-    "ko": {
-     "title": "유니클로 블랙프라이데이",
-     "note": "할인율 미공개."
-    }
-   }
-  },
-  {
-   "id": "musinsa-bf",
-   "start": "2026-11-22",
-   "end": "2026-12-02",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.etnews.com/20261120000177",
-    "date": "2026-11-20"
-   },
-   "text": {
-    "ko": {
-     "title": "무신사 무진장 26 겨울 블프",
-     "note": "4,781개 브랜드(무신사 앱 화면, 11/26). 매일 두 번 '오픈런 뽑기'로 최대 80% 할인 쿠폰 등을 랜덤으로 줘요. 쿠폰 시간 알림을 켜 두면 편해요."
-    }
-   }
-  },
-  {
-   "id": "spao-bf",
-   "start": "2026-11-23",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.esquirekorea.co.kr/article/1913174",
-    "date": "2026-11-18"
-   },
-   "text": {
-    "ko": {
-     "title": "스파오 블랙프라이데이",
-     "note": "할인율 미공개."
-    }
-   }
-  },
-  {
-   "id": "coupang-direct-bf",
-   "start": "2026-11-23",
-   "end": "2026-12-01",
-   "status": "confirmed",
-   "category": "overseas",
-   "source": {
-    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240058",
-    "date": "2026-11-23"
-   },
-   "text": {
-    "ko": {
-     "title": "쿠팡 로켓직구 블프",
-     "note": "미국·일본·유럽·중국·홍콩 등 해외 상품 약 3만 개. 행사 상품 2개 이상 사면 10% 쿠폰, 로켓직구 일본 상품 전용 7천 원 쿠폰."
-    }
-   }
-  },
-  {
-   "id": "zara-bf",
-   "start": "2026-11-27",
-   "end": "2026-12-01",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.esquirekorea.co.kr/article/1913174",
-    "date": "2026-11-18"
-   },
-   "text": {
-    "ko": {
-     "title": "자라 블랙프라이데이",
-     "note": "할인율 미공개."
-    }
-   }
-  },
-  {
-   "id": "hm-bf",
-   "start": "2026-11-27",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.esquirekorea.co.kr/article/1913174",
-    "date": "2026-11-18"
-   },
-   "text": {
-    "ko": {
-     "title": "H&M 블랙프라이데이",
-     "note": "할인율 미공개."
-    }
-   }
-  },
-  {
-   "id": "cathay-bf",
-   "start": "2026-11-20",
-   "end": "2026-11-30",
-   "status": "confirmed",
-   "category": "travel",
-   "source": {
-    "url": "https://flights.cathaypacific.com/ko_KR/offers/black-friday-2026.html",
-    "date": "2026-11"
-   },
-   "text": {
-    "ko": {
-     "title": "캐세이퍼시픽 블랙프라이데이",
-     "note": "예매 11/30까지. 홍콩·동남아·남아시아·중앙아시아 일반석 최대 10%(2027.1.7~7.15 출발). 캐세이 회원은 로그인하고 코드를 넣으면 전 노선 최대 7% 추가(12/1~2027.7.15 출발). 노선별 블랙아웃 기간 제외."
-    }
-   },
-   "code": [
-    {
-     "value": "KRBFEY",
-     "note": {
-      "ko": "일반석"
-     }
+      "id": "musinsa-offline-codes",
+      "start": "2026-11-20",
+      "end": "2026-12-02",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.musinsa.com/content/1566699932019111639",
+        "date": "2026-11"
+      },
+      "text": {
+        "ko": {
+          "title": "무신사 오프라인 매장 키워드 쿠폰",
+          "note": "무신사 앱 쿠폰함에 키워드를 입력하면 오프라인 전용 15% 쿠폰. MD's Pick 대상 상품만이라, 매장 가기 전에 앱에서 대상부터 확인하는 게 순서. 장바구니 10% 쿠폰(10만 원 이상, 최대 1만 원, ID당 1회)도 별도."
+        },
+        "en": {
+          "title": "Musinsa stores: keyword coupons",
+          "note": "Type a keyword into the coupon box in the Musinsa app for a 15% coupon that works in physical stores only, on MD's Pick items. Worth it if you are already planning Seongsu or Hongdae."
+        },
+        "ja": {
+          "title": "ムシンサ実店舗:キーワードクーポン",
+          "note": "ムシンサアプリのクーポン欄にキーワードを入れると、実店舗限定の15%クーポン。対象はMD's Pick商品のみ。聖水・弘大に行く予定があるなら使う価値あり。"
+        },
+        "zh-tw": {
+          "title": "MUSINSA 實體店:關鍵字折價券",
+          "note": "在 MUSINSA App 的折價券欄輸入關鍵字,可拿到實體店限定 15% 折價券,只限 MD's Pick 商品。本來就要去聖水、弘大的話很值得。"
+        }
+      },
+      "code": [
+        {
+          "value": "퍼재킷다퍼줄게"
+        },
+        {
+          "value": "어그도무신사랑해"
+        }
+      ],
+      "hero": {
+        "kind": "pct",
+        "value": 15
+      },
+      "home_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide": [
+        "ko",
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "차단 우회로 얻은 정보 — 원칙 위반 4번, 출처로 다시 확인 전까지 숨김 (2026-11-27, 원두 [7eb4ec94#2990]: 코드의 마지막 확인(11/26)이 헤드리스 브라우저 = curl 403 차단을 넘은 방식, drafts/fashion-progress.md:35). 이전 사유(en/ja/zh-tw): 무신사 앱 쿠폰함 쿠폰: 외국 방문객이 이 앱 회원으로 가입·쿠폰을 받을 수 있는지 출처로 확인 못 함(무신사 페이지 프록시 차단). 원두 [7eb4ec94#2954] 3 '실제로 쓸 수 있는 사용자'.",
+      "go": [
+        {
+          "url": "https://www.musinsa.com/",
+          "kind": "site"
+        }
+      ]
     },
     {
-     "value": "KRBFFE",
-     "note": {
-      "ko": "프리미엄 일반석·비즈니스석"
-     }
+      "id": "oy-sale-2026-12",
+      "start": "2026-11-29",
+      "end": "2026-12-05",
+      "status": "expected",
+      "category": "beauty",
+      "source": {
+        "url": "https://cjnews.cj.net/올영세일로-본-k뷰티-트렌드-집에서도-전문가처럼/",
+        "date": "2025-12-09"
+      },
+      "text": {
+        "ko": {
+          "title": "12월 올영세일 (연말결산)",
+          "note": "아직 공식 발표 전이라 날짜는 예상이에요. 근거: 최근 세 번(2025년 12월 11/30~12/6, 2026년 6월 5/31~6/6, 9월 8/30~9/5)이 모두 일요일에 시작해 7일 동안 열렸어요. 같은 식이면 11/29(일)~12/5(토) 무렵. 발표되면 바로 고침."
+        },
+        "en": {
+          "title": "Olive Young Sale, December edition",
+          "note": "Dates are our estimate, not announced yet. Why: the last three sales (Dec 2025: Nov 30–Dec 6; Jun 2026: May 31–Jun 6; Sep 2026: Aug 30–Sep 5) all started on a Sunday and ran 7 days, so this one is likely around Sun Nov 29–Sat Dec 5. Tax-free still applies on sale prices. [How to plan it](/olive-young/)"
+        },
+        "ja": {
+          "title": "オリーブヤングセール(12月)",
+          "note": "日程はまだ公式発表前のため予想です。根拠:直近3回(2025年12月 11/30〜12/6、2026年6月 5/31〜6/6、9月 8/30〜9/5)はどれも日曜に始まり7日間。同じなら11/29(日)〜12/5(土)ごろ。セール価格でも免税対象。[攻略ガイド](/ja/olive-young/)"
+        },
+        "zh-tw": {
+          "title": "Olive Young Sale 年末場",
+          "note": "日期尚未正式公布,這裡是預估。根據:最近三次(2025 年 12 月 11/30–12/6、2026 年 6 月 5/31–6/6、9 月 8/30–9/5)都是週日開始、連續 7 天,照這個模式大約是 11/29(日)–12/5(六)。特價品一樣可以退稅。[完整攻略](/zh-tw/olive-young/)"
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.oliveyoung.co.kr/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "klook-bf-2026",
+      "start": "2026-11-26",
+      "end": "2026-11-30",
+      "status": "expected",
+      "category": "travel",
+      "source": {
+        "url": "https://www.vietnamtourism.com/en/klook-black-friday",
+        "date": "2026-11"
+      },
+      "text": {
+        "ko": {
+          "title": "Klook 블랙프라이데이",
+          "note": "투어·액티비티 일부를 코드 없이 할인한다는 외부 소개만 있고 Klook 공식 발표는 아직 못 찾음. 일본 여행 입장권 살 계획이면 이 기간 가격을 한 번 비교해 볼 만함."
+        },
+        "en": {
+          "title": "Klook Black Friday",
+          "note": "Third-party reports say selected tours and activities get discounts with no code. No official Klook announcement found yet, so treat it as expected."
+        },
+        "ja": {
+          "title": "Klook ブラックフライデー",
+          "note": "一部のツアー・アクティビティがコード不要で割引という外部情報のみ。Klookの公式発表はまだ見つかっていません。"
+        },
+        "zh-tw": {
+          "title": "Klook 黑色星期五",
+          "note": "只有第三方報導說部分行程與活動免代碼折扣,尚未找到 Klook 官方公告,先標示為預計。"
+        }
+      },
+      "board_hide": [
+        "ko",
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "Klook 공식 발표 없음, 출처는 제3자 사이트 1곳(지금 열리지 않음, 사본 없음). 예상 근거도 아님 → 불확실한 정보는 올리지 않음 [7eb4ec94#2931] 6, [7eb4ec94#2954] 1.",
+      "go": [
+        {
+          "url": "https://www.klook.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "dept-winter-2026",
+      "start": "2026-11-12",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "dept",
+      "source": {
+        "url": "https://zdnet.co.kr/view?no=20261110090057",
+        "date": "2026-11-10"
+      },
+      "text": {
+        "en": {
+          "title": "Department store winter sales",
+          "note": "Shinsegae (about 370 brands), Lotte (about 400) and Hyundai (about 200) all run their winter sales until Nov 29, up to 50–60% off. Tax refund rules still apply."
+        },
+        "ja": {
+          "title": "百貨店の冬の定期セール",
+          "note": "新世界(約370ブランド)、ロッテ(約400)、現代(約200)が11/29まで冬の定期セール、最大50〜60%。免税・還付のルールもそのまま。"
+        },
+        "zh-tw": {
+          "title": "百貨公司冬季特賣",
+          "note": "新世界(約 370 個品牌)、樂天(約 400 個)、現代(約 200 個)冬季特賣到 11/29,新世界、樂天最低 5 折,現代(以首賣價計)最低 4 折。退稅規則照常適用。"
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 60
+      },
+      "go": [
+        {
+          "url": "https://www.shinsegae.com/",
+          "kind": "site",
+          "checked": "2026-11-28",
+          "name": {
+            "ko": "신세계",
+            "en": "Shinsegae",
+            "ja": "新世界",
+            "zh-tw": "新世界"
+          }
+        },
+        {
+          "url": "https://www.lotteshopping.com/main",
+          "kind": "site",
+          "checked": "2026-11-28",
+          "name": {
+            "ko": "롯데",
+            "en": "Lotte",
+            "ja": "ロッテ",
+            "zh-tw": "樂天"
+          }
+        },
+        {
+          "url": "https://www.ehyundai.com/",
+          "kind": "site",
+          "checked": "2026-11-28",
+          "name": {
+            "ko": "현대",
+            "en": "Hyundai",
+            "ja": "現代",
+            "zh-tw": "現代"
+          }
+        }
+      ]
+    },
+    {
+      "id": "korea-grand-sale-2027",
+      "start": "2026-12-23",
+      "end": "2027-02-13",
+      "status": "confirmed",
+      "category": "event",
+      "source": {
+        "url": "https://www.speconomy.com/news/articleView.html?idxno=418542",
+        "date": "2026-10-03"
+      },
+      "text": {
+        "ko": {
+          "title": "2027 코리아그랜드세일 (외국인 관광객 대상)",
+          "note": "53일 동안 열리는 외국인 관광객 대상 세일. 서울·부산·강원 등에 웰컴센터 운영. 할인 내용은 출처 기사(10/3) 시점에 미발표."
+        },
+        "en": {
+          "title": "Korea Grand Sale 2027",
+          "note": "A 53-day sale for foreign visitors, with welcome centers in Seoul, Busan, Gangwon and other spots. Discount details had not been announced as of the source article (3 October). The last edition had 1,750 companies, from airlines and hotels to shops."
+        },
+        "ja": {
+          "title": "コリアグランドセール 2027",
+          "note": "外国人旅行者向けの53日間のセール。ソウル・釜山・江原などにウェルカムセンター。割引内容は出典記事(10月3日)の時点で未発表。"
+        },
+        "zh-tw": {
+          "title": "2027 Korea Grand Sale",
+          "note": "專為外國旅客舉辦、為期 53 天的特賣,首爾、釜山、江原等地設有迎賓中心。折扣內容在來源報導(10/3)時尚未公布。"
+        }
+      },
+      "go": [
+        {
+          "url": "https://en.koreagrandsale.co.kr/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "seoul-winter-market-2026",
+      "start": "2026-12-11",
+      "end": "2027-01-10",
+      "status": "confirmed",
+      "category": "event",
+      "source": {
+        "url": "https://mediahub.seoul.go.kr/archives/2020167",
+        "date": "2026-11-25"
+      },
+      "text": {
+        "ko": {
+          "title": "광화문 마켓 · 서울윈터페스티벌",
+          "note": "서울시 11/25 발표. 올해 주제는 '시간이 멈춘 산타마을'. 일~목 17:30~22:00, 금·토는 22:30까지, 입장 무료(VISIT SEOUL). 5호선 광화문역 9번 출구."
+        },
+        "en": {
+          "title": "Gwanghwamun Christmas Market",
+          "note": "Announced by Seoul on Nov 25. This year's theme: \"Santa Village where time stopped\". Sun–Thu 17:30–22:00, Fri–Sat until 22:30, free entry (VISIT SEOUL). Gwanghwamun Station (Line 5), Exit 9."
+        },
+        "ja": {
+          "title": "光化門クリスマスマーケット",
+          "note": "ソウル市が11/25に発表。今年のテーマは「時が止まったサンタ村」。日〜木17:30〜22:00、金・土は22:30まで、入場無料(VISIT SEOUL)。5号線光化門駅9番出口。"
+        },
+        "zh-tw": {
+          "title": "光化門聖誕市集",
+          "note": "首爾市 11/25 公布。今年主題是「時間靜止的聖誕老人村」。週日至週四 17:30–22:00,週五、六到 22:30,免費入場(VISIT SEOUL)。5 號線光化門站 9 號出口。"
+        }
+      },
+      "go": [
+        {
+          "url": "https://english.visitseoul.net/events/2026GwanghwamunMarket/ENP0rc1ic",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "oy-day-2026-12",
+      "start": "2026-12-25",
+      "end": "2026-12-27",
+      "status": "expected",
+      "category": "beauty",
+      "source": {
+        "url": "https://cjnews.cj.net/cj올리브영-25일부터-3일간-멤버십-회원-위한-올리브/",
+        "date": "2025-03-24"
+      },
+      "text": {
+        "ko": {
+          "title": "12월 올영데이",
+          "note": "올리브영 회원(올리브 멤버스) 대상 행사로 매달 25~27일에 열려요(CJ뉴스룸 2025-03-24). 12월 날짜는 이 기준으로 본 예상. 등급별 추가 할인 쿠폰이 회원 계정으로 나와요."
+        },
+        "en": {
+          "title": "Olive Young Day",
+          "note": "A smaller monthly event on the 25th–27th. Most extra coupons go to Korean app members, so visitors mainly see shelf discounts."
+        },
+        "ja": {
+          "title": "オリーブヤングデー",
+          "note": "毎月25〜27日の小規模イベント。追加クーポンは主に韓国の会員向け。"
+        },
+        "zh-tw": {
+          "title": "Olive Young Day",
+          "note": "每月 25–27 日的小型活動,額外折價券主要給韓國會員。"
+        }
+      },
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "올리브 데이는 올리브 멤버스(회원) 대상 행사(CJ뉴스룸 2025-03-24). 회원 가입은 한국 거주·본인 명의 한국 연락처가 필요(올리브영 가이드 페이지 출처) → 방문객은 쓸 수 없음.",
+      "go": [
+        {
+          "url": "https://www.oliveyoung.co.kr/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "wconcept-wweek",
+      "start": "2026-11-09",
+      "end": "2026-11-25",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.segye.com/newsView/20261116503390",
+        "date": "2026-11-16"
+      },
+      "text": {
+        "ko": {
+          "title": "W컨셉 더블유위크",
+          "note": "최대 85%. 매일 10시 선착순 균일가, 18시 선착순 50% 쿠폰. 오늘·내일이 마지막이라 장바구니 있으면 지금."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 85
+      }
+    },
+    {
+      "id": "shilla-dfs-bf",
+      "start": "2026-11-09",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "overseas",
+      "source": {
+        "url": "https://www.news2day.co.kr/article/20261115500055",
+        "date": "2026-11-15"
+      },
+      "text": {
+        "ko": {
+          "title": "신라면세점 블랙프라이데이",
+          "note": "온·오프라인 매장에서 최대 90%, 11/30까지. 인터넷면세점은 키엘·랑콤 등 뷰티 특가, 신규 가입 고객은 구매 금액의 최대 20% 페이백."
+        },
+        "en": {
+          "title": "Shilla Duty Free Black Friday",
+          "note": "Up to 90% off in Shilla's duty-free stores and online, until 30 November."
+        },
+        "ja": {
+          "title": "新羅免税店ブラックフライデー",
+          "note": "新羅免税店の店舗とオンラインで最大90%オフ、11月30日まで。"
+        },
+        "zh-tw": {
+          "title": "新羅免稅店黑色星期五",
+          "note": "新羅免稅店門市與線上最高 1 折(最多 90% off),到 11/30。"
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 90
+      },
+      "go": [
+        {
+          "url": "https://www.shilladfs.com/estore/kr/ko/event",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "dept-shinsegae",
+      "start": "2026-11-12",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "dept",
+      "source": {
+        "url": "https://zdnet.co.kr/view?no=20261110090057",
+        "date": "2026-11-10"
+      },
+      "text": {
+        "ko": {
+          "title": "신세계백화점 겨울 정기세일",
+          "note": "370여 브랜드 최대 50%. 신세계 앱에서 제휴카드로 패션 30만 원 이상 당일 구매 시 1.5만 원 쿠폰."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 50
+      },
+      "go": [
+        {
+          "url": "https://www.shinsegae.com/",
+          "kind": "site",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "dept-lotte",
+      "start": "2026-11-13",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "dept",
+      "source": {
+        "url": "https://zdnet.co.kr/view?no=20261110090057",
+        "date": "2026-11-10"
+      },
+      "text": {
+        "ko": {
+          "title": "롯데백화점 겨울 정기세일",
+          "note": "400여 브랜드 최대 50%."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 50
+      },
+      "go": [
+        {
+          "url": "https://www.lotteshopping.com/main",
+          "kind": "site",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "dept-hyundai",
+      "start": "2026-11-13",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "dept",
+      "source": {
+        "url": "https://zdnet.co.kr/view?no=20261110090057",
+        "date": "2026-11-10"
+      },
+      "text": {
+        "ko": {
+          "title": "현대백화점 더 세일",
+          "note": "200여 브랜드, 첫 판매가 대비 최대 60%."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 60
+      },
+      "go": [
+        {
+          "url": "https://www.ehyundai.com/",
+          "kind": "site",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "samsung-week",
+      "start": "2026-11-01",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "mall",
+      "source": {
+        "url": "https://sateconomy.co.kr/news/view/1065596718803384",
+        "date": "2026-10-21"
+      },
+      "text": {
+        "ko": {
+          "title": "삼성위크 (삼성닷컴)",
+          "note": "카드 할인·무이자 할부·다품목 추가 할인 중심. 할인율 숫자보다 카드 혜택 합친 최종가로 비교하는 게 맞음."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.samsung.com/sec/event/samsung-week/",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "coupang-digital-bf",
+      "start": "2026-11-16",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "mall",
+      "source": {
+        "url": "https://zdnet.co.kr/view?no=20261115110246",
+        "date": "2026-11-15"
+      },
+      "text": {
+        "ko": {
+          "title": "쿠팡 가전·디지털 블랙프라이데이",
+          "note": "삼성·LG·HP 등. 갤럭시 탭 S12는 카드 할인 + 최대 5만 원 쿠팡캐시 적립처럼 적립형 혜택도 있어서 실결제가로 비교 필요."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.coupang.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "ably-bf",
+      "start": "2026-11-16",
+      "end": "2026-12-03",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439858",
+        "date": "2026-11-16"
+      },
+      "text": {
+        "ko": {
+          "title": "에이블리 에블프",
+          "note": "최대 93%. 전 상품에 쓰는 최대 20% 쿠폰 4종, 인기 마켓 대상 최대 12% 중복 쿠폰."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 93
+      },
+      "go": [
+        {
+          "url": "https://m.a-bly.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "zigzag-bf",
+      "start": "2026-11-16",
+      "end": "2026-12-02",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1439858",
+        "date": "2026-11-16"
+      },
+      "text": {
+        "ko": {
+          "title": "지그재그 겨울 직잭팟",
+          "note": "6천 개 브랜드 최대 99%. 최대 20% 쿠폰팩, 최대 4만 원 쿠폰, 중복 쿠폰."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 99
+      },
+      "go": [
+        {
+          "url": "https://zigzag.kr/",
+          "kind": "site",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "trinity-nov",
+      "start": "2026-11-16",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "travel",
+      "source": {
+        "url": "https://kbmaeil.com/article/20261116500211",
+        "date": "2026-11-16"
+      },
+      "text": {
+        "ko": {
+          "title": "트리니티항공 국제선 블랙프라이데이",
+          "note": "예매 11/30까지(공식 홈페이지·앱), 탑승 2027.2.1~10.30. 예매 때 코드 NOV26 입력하면 국제선 할인, 결제 금액에 따라 최대 4만 원 할인 쿠폰. 동남아·호주·미주·유럽 주요 노선은 선착순 특가."
+        }
+      },
+      "code": [
+        {
+          "value": "NOV26"
+        }
+      ],
+      "hero": {
+        "kind": "krw",
+        "value": 40000
+      },
+      "go": [
+        {
+          "url": "https://www.trinityairways.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "topten-bf",
+      "start": "2026-11-18",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.esquirekorea.co.kr/article/1913174",
+        "date": "2026-11-18"
+      },
+      "text": {
+        "ko": {
+          "title": "탑텐 블랙프라이데이",
+          "note": "할인율은 공개 안 됨. 겨울 기본템 위주면 유니클로·스파오랑 같은 품목 가격 비교 추천."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.topten10mall.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "amazon-bf",
+      "start": "2026-11-19",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "overseas",
+      "source": {
+        "url": "https://www.aboutamazon.com/md/news/retail/when-is-amazon-black-friday-faq",
+        "date": "2026-11-10"
+      },
+      "text": {
+        "ko": {
+          "title": "아마존 블랙프라이데이 · 사이버먼데이 (미국)",
+          "note": "블랙프라이데이 위크·사이버먼데이 행사 11/19~11/30 (미국 태평양시 기준, 한국 시각은 17시간 빠름). 직구는 관세 면세 한도부터 확인."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.amazon.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "uniqlo-bf",
+      "start": "2026-11-20",
+      "end": "2026-11-27",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.esquirekorea.co.kr/article/1913174",
+        "date": "2026-11-18"
+      },
+      "text": {
+        "ko": {
+          "title": "유니클로 블랙프라이데이",
+          "note": "할인율 미공개."
+        }
+      }
+    },
+    {
+      "id": "musinsa-bf",
+      "start": "2026-11-22",
+      "end": "2026-12-02",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.etnews.com/20261120000177",
+        "date": "2026-11-20"
+      },
+      "text": {
+        "ko": {
+          "title": "무신사 무진장 26 겨울 블프",
+          "note": "4,781개 브랜드(무신사 앱 화면, 11/26). 매일 두 번 '오픈런 뽑기'로 최대 80% 할인 쿠폰 등을 랜덤으로 줘요. 쿠폰 시간 알림을 켜 두면 편해요."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.musinsa.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "spao-bf",
+      "start": "2026-11-23",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.esquirekorea.co.kr/article/1913174",
+        "date": "2026-11-18"
+      },
+      "text": {
+        "ko": {
+          "title": "스파오 블랙프라이데이",
+          "note": "할인율 미공개."
+        }
+      },
+      "go": [
+        {
+          "url": "https://spao.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "coupang-direct-bf",
+      "start": "2026-11-23",
+      "end": "2026-12-01",
+      "status": "confirmed",
+      "category": "overseas",
+      "source": {
+        "url": "https://www.job-post.co.kr/news/articleView.html?idxno=240058",
+        "date": "2026-11-23"
+      },
+      "text": {
+        "ko": {
+          "title": "쿠팡 로켓직구 블프",
+          "note": "미국·일본·유럽·중국·홍콩 등 해외 상품 약 3만 개. 행사 상품 2개 이상 사면 10% 쿠폰, 로켓직구 일본 상품 전용 7천 원 쿠폰."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.coupang.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "zara-bf",
+      "start": "2026-11-27",
+      "end": "2026-12-01",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.esquirekorea.co.kr/article/1913174",
+        "date": "2026-11-18"
+      },
+      "text": {
+        "ko": {
+          "title": "자라 블랙프라이데이",
+          "note": "할인율 미공개."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.zara.com/kr/ko/",
+          "kind": "site",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "hm-bf",
+      "start": "2026-11-27",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.esquirekorea.co.kr/article/1913174",
+        "date": "2026-11-18"
+      },
+      "text": {
+        "ko": {
+          "title": "H&M 블랙프라이데이",
+          "note": "할인율 미공개."
+        }
+      },
+      "go": [
+        {
+          "url": "https://www2.hm.com/ko_kr/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "cathay-bf",
+      "start": "2026-11-20",
+      "end": "2026-11-30",
+      "status": "confirmed",
+      "category": "travel",
+      "source": {
+        "url": "https://flights.cathaypacific.com/ko_KR/offers/black-friday-2026.html",
+        "date": "2026-11"
+      },
+      "text": {
+        "ko": {
+          "title": "캐세이퍼시픽 블랙프라이데이",
+          "note": "예매 11/30까지. 홍콩·동남아·남아시아·중앙아시아 일반석 최대 10%(2027.1.7~7.15 출발). 캐세이 회원은 로그인하고 코드를 넣으면 전 노선 최대 7% 추가(12/1~2027.7.15 출발). 노선별 블랙아웃 기간 제외."
+        }
+      },
+      "code": [
+        {
+          "value": "KRBFEY",
+          "note": {
+            "ko": "일반석"
+          }
+        },
+        {
+          "value": "KRBFFE",
+          "note": {
+            "ko": "프리미엄 일반석·비즈니스석"
+          }
+        }
+      ],
+      "open_start": true,
+      "hero": {
+        "kind": "pct",
+        "value": 10
+      },
+      "go": [
+        {
+          "url": "https://flights.cathaypacific.com/ko_KR/offers/black-friday-2026.html",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "jejuair-flex",
+      "start": "2026-11-19",
+      "end": "2026-12-16",
+      "status": "confirmed",
+      "category": "travel",
+      "source": {
+        "url": "https://economist.co.kr/article/view/ecn202611190028",
+        "date": "2026-11-19"
+      },
+      "text": {
+        "ko": {
+          "title": "제주항공 수능 수험생 국내선 FLEX 운임 20%",
+          "note": "2027학년도 수능 수험생 본인과 동반인 1명. 예매 12/16까지, 탑승 2027.2.25까지(성수기 제외), 국내선 전 노선. 탑승 당일 공항 카운터에서 수험표 등 서류 확인."
+        },
+        "en": {
+          "title": "Jeju Air: 20% off domestic FLEX fares for Korean exam students",
+          "note": "Only for 2027 Korean college entrance exam (Suneung) takers and one companion; the exam ticket is checked at the airport counter. Book by 16 December, fly by 25 February 2027 (peak days excluded)."
+        },
+        "ja": {
+          "title": "チェジュ航空 修能受験生向け 国内線FLEX運賃20%オフ",
+          "note": "2027年度韓国大学修学能力試験(修能)の受験生本人と同伴者1名のみ。搭乗当日に空港カウンターで受験票などを確認。12月16日までの予約で2027年2月25日までの搭乗(繁忙期除く)。"
+        },
+        "zh-tw": {
+          "title": "濟州航空 韓國修能考生國內線 FLEX 票價 8 折",
+          "note": "只限 2027 學年度韓國大學修學能力考試(修能)考生本人與同行 1 人,搭乘當天在機場櫃台查驗准考證等文件。12 月 16 日前訂票,搭乘至 2027 年 2 月 25 日(旺季除外)。"
+        }
+      },
+      "open_start": true,
+      "hero": {
+        "kind": "pct",
+        "value": 20
+      },
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3.",
+      "go": [
+        {
+          "url": "https://www.jejuair.net/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "eastar-promo",
+      "start": "2026-11-19",
+      "end": "2026-12-31",
+      "status": "confirmed",
+      "category": "travel",
+      "source": {
+        "url": "https://economist.co.kr/article/view/ecn202611190028",
+        "date": "2026-11-19"
+      },
+      "text": {
+        "ko": {
+          "title": "이스타항공 수능 수험생 국내선 25% · 국제선 최대 10%",
+          "note": "2027학년도 수능 수험생 본인과 동반인 1명. 국내선은 일반 운임의 25%, 국제선은 할인 운임의 최대 10%. 예매 12/31까지, 탑승 2027.3.27까지. 탑승 당일 공항 카운터에서 수험표 등 서류 확인."
+        }
+      },
+      "open_start": true,
+      "hero": {
+        "kind": "pct",
+        "value": 25
+      },
+      "go": [
+        {
+          "url": "https://www.eastarjet.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "musinsa-archive",
+      "start": "2026-12-03",
+      "end": "2026-12-17",
+      "status": "confirmed",
+      "category": "fashion",
+      "source": {
+        "url": "https://www.musinsa.com/content/1566699932019111639",
+        "date": "2026-11"
+      },
+      "text": {
+        "ko": {
+          "title": "무신사 아카이브 세일",
+          "note": "최대 70%. 블프에서 놓친 거 2차 기회."
+        }
+      },
+      "hero": {
+        "kind": "pct",
+        "value": 70
+      },
+      "board_hide": [
+        "ko"
+      ],
+      "board_hide_why": "날짜가 출처와 어긋남: 상황판 12/3~12/17 vs 무신사 페이지(11/26 읽은 기록) 오프라인 5개 매장 11/20~12/17. 지금 열 수 있는 출처로 확인 불가 → 불확실해서 내림(drafts/prototype/held-musinsa.md:62~65).",
+      "go": [
+        {
+          "url": "https://www.musinsa.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "ttukseom-xmas",
+      "start": "2026-12-24",
+      "end": "2026-12-27",
+      "status": "confirmed",
+      "category": "event",
+      "source": {
+        "url": "https://mediahub.seoul.go.kr/archives/2020167",
+        "date": "2026-11-25"
+      },
+      "text": {
+        "ko": {
+          "title": "뚝섬 로맨틱 한강 크리스마스마켓",
+          "note": "서울시 11/25 발표. 같은 뚝섬한강공원에서 12/24~31 '한강 나이트 사우나'도 열려요. 시간·출구는 아직 발표 전."
+        },
+        "en": {
+          "title": "Ttukseom Romantic Han River Christmas Market",
+          "note": "Announced by Seoul on Nov 25. The \"Han River Night Sauna\" also runs in the same Ttukseom Hangang Park, Dec 24–31. Hours and exits are not announced yet."
+        },
+        "ja": {
+          "title": "トゥクソム・ロマンチック漢江クリスマスマーケット",
+          "note": "ソウル市が11/25に発表。同じトゥクソム漢江公園で12/24〜31に「漢江ナイトサウナ」も。時間・出口はまだ未発表。"
+        },
+        "zh-tw": {
+          "title": "纛島浪漫漢江聖誕市集",
+          "note": "首爾市 11/25 公布。同一個纛島漢江公園 12/24–31 也有「漢江夜間三溫暖」。時間和出口尚未公布。"
+        }
+      },
+      "go": [
+        {
+          "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=415",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "11st-xmas-2026",
+      "start": "2026-11-25",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "xmas",
+      "source": {
+        "url": "https://www.viva100.com/article/20261125500124",
+        "date": "2026-11-25"
+      },
+      "text": {
+        "ko": {
+          "title": "11번가 '미리 만나는 크리스마스' 기획전",
+          "note": "트리·인테리어 소품·파티용품·만들기 키트 최대 20%. 11번가(온라인)에서 11/29(일)까지."
+        },
+        "en": {
+          "title": "11st \"Christmas, a little early\" sale",
+          "note": "Up to 20% off trees, home decor, party supplies and craft kits on 11st (online), until Sun Nov 29."
+        },
+        "ja": {
+          "title": "11番街「ひと足早いクリスマス」企画展",
+          "note": "ツリー・インテリア小物・パーティー用品・手作りキットが最大20%オフ。11番街(オンライン)で11/29(日)まで。"
+        },
+        "zh-tw": {
+          "title": "11街「提早過聖誕」特賣",
+          "note": "聖誕樹、居家小物、派對用品、手作材料包最低 8 折(最多 20% off)。11街(線上)到 11/29(日)。"
+        }
+      },
+      "open_start": true,
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "11번가 온라인 기획전: 외국 방문객의 가입·결제·국내 배송 가능 여부 출처로 확인 못 함.",
+      "go": [
+        {
+          "url": "https://www.11st.co.kr/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "traders-xmas-2026",
+      "start": "2026-11-26",
+      "end": "2026-11-29",
+      "status": "confirmed",
+      "category": "xmas",
+      "source": {
+        "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+        "date": "2026-11-26"
+      },
+      "text": {
+        "ko": {
+          "title": "트레이더스 크리스마스 장식용품 할인",
+          "note": "삼성카드로 결제할 때만 할인, 11/29(일)까지. LED 와이어전구(1000구) 세트 5만5,800원 → 4만9,800원, LED 크리스마스 리스 3만5,800원 → 3만800원."
+        },
+        "en": {
+          "title": "Traders: Christmas decorations",
+          "note": "Discounts only when you pay with a Samsung Card, until Sun Nov 29. LED wire lights set (1,000 bulbs) ₩55,800 → ₩49,800, LED Christmas wreath ₩35,800 → ₩30,800."
+        },
+        "ja": {
+          "title": "トレーダーズ クリスマス飾り割引",
+          "note": "サムスンカードで支払う場合のみ割引、11/29(日)まで。LEDワイヤー電球(1000球)セット5万5,800ウォン→4万9,800ウォン、LEDクリスマスリース3万5,800ウォン→3万800ウォン。"
+        },
+        "zh-tw": {
+          "title": "Traders 聖誕裝飾特價",
+          "note": "限用三星卡付款才有折扣,到 11/29(日)。LED 銅線燈(1000 顆)組 55,800 韓元→49,800 韓元,LED 聖誕花圈 35,800 韓元→30,800 韓元。"
+        }
+      },
+      "open_start": true,
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "삼성카드(한국 카드사) 결제 고객만 할인(신세계그룹 뉴스룸 원문) → 방문객은 사실상 못 씀.",
+      "go": [
+        {
+          "url": "https://eapp.emart.com/tradersclub/flyerImgView.do",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "emart-xmas-2026",
+      "start": "2026-11-26",
+      "end": "2026-12-02",
+      "status": "confirmed",
+      "category": "xmas",
+      "source": {
+        "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
+        "date": "2026-11-26"
+      },
+      "text": {
+        "ko": {
+          "title": "이마트 '미리 크리스마스'",
+          "note": "트리·장식·파티용품 최대 30%(신세계포인트 적립 시). 원터치 팝업트리(150cm) 9만9,000원 → 7만9,200원, 베이직 트리 3종은 20% 내려 모두 1만 원 미만."
+        },
+        "en": {
+          "title": "E-mart \"Early Christmas\" sale",
+          "note": "Trees, decorations and party supplies up to 30% off, for shoppers who collect Shinsegae Points. One-touch pop-up tree (150 cm) ₩99,000 → ₩79,200; three basic trees are 20% off, all under ₩10,000."
+        },
+        "ja": {
+          "title": "イーマート「ひと足早いクリスマス」",
+          "note": "ツリー・飾り・パーティー用品が最大30%オフ(新世界ポイントを貯める場合)。ワンタッチポップアップツリー(150cm)9万9,000ウォン→7万9,200ウォン、ベーシックツリー3種は20%オフでどれも1万ウォン未満。"
+        },
+        "zh-tw": {
+          "title": "E-mart「提早過聖誕」",
+          "note": "聖誕樹、裝飾、派對用品最低 7 折(最多 30% off),需累積新世界點數。一鍵彈開聖誕樹(150cm)99,000 韓元→79,200 韓元,3 款基本聖誕樹打 8 折,都不到 1 萬韓元。"
+        }
+      },
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "대표 트리 할인은 신세계포인트 적립 시(원문). 방문객의 신세계포인트 가입 가능 여부, 포인트 없이 되는 품목 범위를 출처로 확인 못 함.",
+      "go": [
+        {
+          "url": "https://eapp.emart.com/leaflet/leafletView_EL.do",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "tlj-xmas-cake-2026",
+      "start": "2026-11-11",
+      "end": "2026-12-22",
+      "status": "confirmed",
+      "category": "xmas",
+      "source": {
+        "url": "https://cjnews.cj.net/%eb%9a%9c%eb%a0%88%ec%a5%ac%eb%a5%b4-%ec%9d%b4%eb%8f%84%ed%98%84%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%98%81%ec%83%81-%ea%b3%b5/",
+        "date": "2026-11-11"
+      },
+      "text": {
+        "ko": {
+          "title": "뚜레쥬르 크리스마스 케이크 사전예약",
+          "note": "뚜레쥬르 앱에서 사전예약하면 홀리데이 제품 35종 최대 30%. 예약은 12/22까지, 매장 픽업은 12/18~25."
+        },
+        "en": {
+          "title": "Tous les Jours: Christmas cake pre-order",
+          "note": "Pre-order in the Tous les Jours app for up to 30% off 35 holiday items. Order by Dec 22, pick up in store Dec 18–25."
+        },
+        "ja": {
+          "title": "トゥレジュール クリスマスケーキ事前予約",
+          "note": "トゥレジュールのアプリで事前予約するとホリデー商品35種が最大30%オフ。予約は12/22まで、店舗受け取りは12/18〜25。"
+        },
+        "zh-tw": {
+          "title": "多樂之日 聖誕蛋糕預購",
+          "note": "用多樂之日 App 預購,35 款節慶商品最低 7 折(最多 30% off)。預購到 12/22,12/18–25 到門市取貨。"
+        }
+      },
+      "open_start": true,
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "뚜레쥬르 앱 사전예약 할인: 방문객의 앱 회원 가입 가능 여부 출처로 확인 못 함.",
+      "go": [
+        {
+          "url": "https://www.tlj.co.kr/",
+          "kind": "site",
+          "checked": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "casamia-holiday-2026",
+      "start": "2026-11-23",
+      "end": "2026-12-24",
+      "status": "confirmed",
+      "category": "xmas",
+      "source": {
+        "url": "https://www.shinsegaegroupnewsroom.com/casamia-unveils-christmas-home-decor-picks/",
+        "date": "2026-11-23"
+      },
+      "text": {
+        "ko": {
+          "title": "까사미아 'HAPPY HOLIDAY' 기획전",
+          "note": "까사미아 온라인몰에서 크리스마스 홈데코 최대 50%, 12/24까지. 크리스마스 장식 소품은 매장·온라인 모두 12/31까지 30%."
+        },
+        "en": {
+          "title": "Casamia \"HAPPY HOLIDAY\" sale",
+          "note": "Up to 50% off Christmas home decor on the Casamia online store, until Dec 24. Christmas ornaments and small decor are also 30% off in stores and online until Dec 31."
+        },
+        "ja": {
+          "title": "カサミア「HAPPY HOLIDAY」企画展",
+          "note": "カサミアのオンラインモールでクリスマスのホームデコが最大50%オフ、12/24まで。クリスマスの飾り小物は店舗・オンラインとも12/31まで30%オフ。"
+        },
+        "zh-tw": {
+          "title": "Casamia「HAPPY HOLIDAY」特賣",
+          "note": "Casamia 線上商城聖誕居家佈置最低 5 折(最多 50% off),到 12/24。聖誕裝飾小物門市、線上都打 7 折,到 12/31。"
+        }
+      },
+      "board_hide": [
+        "en",
+        "ja",
+        "zh-tw"
+      ],
+      "board_hide_why": "기획전(최대 50%)은 까사미아 온라인몰 전용(원문) → 방문객 가입·결제·배송 확인 못 함. 매장 30%(장식 소품, 12/31까지)는 방문객도 쓸 수 있을 수 있으나 별도 항목 후보로 남김(원두 결정).",
+      "go": [
+        {
+          "url": "https://www.guud.com/",
+          "kind": "site"
+        }
+      ]
+    },
+    {
+      "id": "lotte-jamsil-xmas-2026",
+      "start": "2026-11-19",
+      "end": "2027-01-03",
+      "status": "confirmed",
+      "category": "event",
+      "source": {
+        "url": "https://biz.heraldcorp.com/article/10942206",
+        "date": "2026-11-19"
+      },
+      "text": {
+        "ko": {
+          "title": "롯데타운 잠실 크리스마스 마켓",
+          "note": "잠실 롯데월드타워 월드파크 야외 잔디광장, 매일 11:30~22:00. 19세기 영국 크리스마스 마켓 콘셉트, 상점 40여 곳. 사전 예약은 롯데백화점몰 등(외국인은 클룩 등)에서 받았고, 11월 주말 패스트패스 입장권은 매진. 예약 없이 들어갈 수 있는지는 기사에 없어 확인 못 함."
+        },
+        "en": {
+          "title": "Lotte Town Jamsil Christmas Market",
+          "note": "World Park outdoor lawn at Lotte World Tower, Jamsil, daily 11:30–22:00. A 19th-century British Christmas market with about 40 shops. Bookings opened on Lotte Department Store Mall and, for overseas visitors, on Klook and others; November weekend fast-pass tickets sold out. Reports don't say whether you can enter without booking."
+        },
+        "ja": {
+          "title": "ロッテタウン蚕室クリスマスマーケット",
+          "note": "蚕室ロッテワールドタワーのワールドパーク屋外芝生広場、毎日11:30〜22:00。19世紀イギリスのクリスマスマーケットがテーマで、店舗は約40。事前予約はロッテ百貨店モールなど(外国人はKlookなど)で受け付け、11月の週末ファストパス入場券は完売。予約なしで入れるかは記事になく未確認。"
+        },
+        "zh-tw": {
+          "title": "樂天蠶室聖誕市集",
+          "note": "蠶室樂天世界塔 World Park 戶外草坪廣場,每天 11:30–22:00。19 世紀英國聖誕市集主題,約 40 家店。預約開放在樂天百貨商城等(外國旅客透過 Klook 等),11 月週末快速通關票已售完。不預約能否入場,報導沒寫,尚未確認。"
+        }
+      },
+      "go": [
+        {
+          "url": "https://www.lotteshopping.com/contents/christmas-market",
+          "kind": "event",
+          "checked": "2026-11-28"
+        }
+      ]
     }
-   ],
-   "open_start": true,
-   "hero": {
-    "kind": "pct",
-    "value": 10
-   }
-  },
-  {
-   "id": "jejuair-flex",
-   "start": "2026-11-19",
-   "end": "2026-12-16",
-   "status": "confirmed",
-   "category": "travel",
-   "source": {
-    "url": "https://economist.co.kr/article/view/ecn202611190028",
-    "date": "2026-11-19"
-   },
-   "text": {
-    "ko": {
-     "title": "제주항공 수능 수험생 국내선 FLEX 운임 20%",
-     "note": "2027학년도 수능 수험생 본인과 동반인 1명. 예매 12/16까지, 탑승 2027.2.25까지(성수기 제외), 국내선 전 노선. 탑승 당일 공항 카운터에서 수험표 등 서류 확인."
-    },
-    "en": {
-     "title": "Jeju Air: 20% off domestic FLEX fares for Korean exam students",
-     "note": "Only for 2027 Korean college entrance exam (Suneung) takers and one companion; the exam ticket is checked at the airport counter. Book by 16 December, fly by 25 February 2027 (peak days excluded)."
-    },
-    "ja": {
-     "title": "チェジュ航空 修能受験生向け 国内線FLEX運賃20%オフ",
-     "note": "2027年度韓国大学修学能力試験(修能)の受験生本人と同伴者1名のみ。搭乗当日に空港カウンターで受験票などを確認。12月16日までの予約で2027年2月25日までの搭乗(繁忙期除く)。"
-    },
-    "zh-tw": {
-     "title": "濟州航空 韓國修能考生國內線 FLEX 票價 8 折",
-     "note": "只限 2027 學年度韓國大學修學能力考試(修能)考生本人與同行 1 人,搭乘當天在機場櫃台查驗准考證等文件。12 月 16 日前訂票,搭乘至 2027 年 2 月 25 日(旺季除外)。"
-    }
-   },
-   "open_start": true,
-   "hero": {
-    "kind": "pct",
-    "value": 20
-   },
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "수능 수험생 본인·동반인 1명 전용 할인(이코노미스트 2026-11-19, 원문 사본 raw2/economist-ecn202611190028.txt:261~266) → 외국 방문객은 쓸 수 없음. 원두 [7eb4ec94#2954] 3."
-  },
-  {
-   "id": "eastar-promo",
-   "start": "2026-11-19",
-   "end": "2026-12-31",
-   "status": "confirmed",
-   "category": "travel",
-   "source": {
-    "url": "https://economist.co.kr/article/view/ecn202611190028",
-    "date": "2026-11-19"
-   },
-   "text": {
-    "ko": {
-     "title": "이스타항공 수능 수험생 국내선 25% · 국제선 최대 10%",
-     "note": "2027학년도 수능 수험생 본인과 동반인 1명. 국내선은 일반 운임의 25%, 국제선은 할인 운임의 최대 10%. 예매 12/31까지, 탑승 2027.3.27까지. 탑승 당일 공항 카운터에서 수험표 등 서류 확인."
-    }
-   },
-   "open_start": true,
-   "hero": {
-    "kind": "pct",
-    "value": 25
-   }
-  },
-  {
-   "id": "musinsa-archive",
-   "start": "2026-12-03",
-   "end": "2026-12-17",
-   "status": "confirmed",
-   "category": "fashion",
-   "source": {
-    "url": "https://www.musinsa.com/content/1566699932019111639",
-    "date": "2026-11"
-   },
-   "text": {
-    "ko": {
-     "title": "무신사 아카이브 세일",
-     "note": "최대 70%. 블프에서 놓친 거 2차 기회."
-    }
-   },
-   "hero": {
-    "kind": "pct",
-    "value": 70
-   },
-   "board_hide": [
-    "ko"
-   ],
-   "board_hide_why": "날짜가 출처와 어긋남: 상황판 12/3~12/17 vs 무신사 페이지(11/26 읽은 기록) 오프라인 5개 매장 11/20~12/17. 지금 열 수 있는 출처로 확인 불가 → 불확실해서 내림(drafts/prototype/held-musinsa.md:62~65)."
-  },
-  {
-   "id": "ttukseom-xmas",
-   "start": "2026-12-24",
-   "end": "2026-12-27",
-   "status": "confirmed",
-   "category": "event",
-   "source": {
-    "url": "https://mediahub.seoul.go.kr/archives/2020167",
-    "date": "2026-11-25"
-   },
-   "text": {
-    "ko": {
-     "title": "뚝섬 로맨틱 한강 크리스마스마켓",
-     "note": "서울시 11/25 발표. 같은 뚝섬한강공원에서 12/24~31 '한강 나이트 사우나'도 열려요. 시간·출구는 아직 발표 전."
-    },
-    "en": {
-     "title": "Ttukseom Romantic Han River Christmas Market",
-     "note": "Announced by Seoul on Nov 25. The \"Han River Night Sauna\" also runs in the same Ttukseom Hangang Park, Dec 24–31. Hours and exits are not announced yet."
-    },
-    "ja": {
-     "title": "トゥクソム・ロマンチック漢江クリスマスマーケット",
-     "note": "ソウル市が11/25に発表。同じトゥクソム漢江公園で12/24〜31に「漢江ナイトサウナ」も。時間・出口はまだ未発表。"
-    },
-    "zh-tw": {
-     "title": "纛島浪漫漢江聖誕市集",
-     "note": "首爾市 11/25 公布。同一個纛島漢江公園 12/24–31 也有「漢江夜間三溫暖」。時間和出口尚未公布。"
-    }
-   }
-  },
-  {
-   "id": "11st-xmas-2026",
-   "start": "2026-11-25",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "xmas",
-   "source": {
-    "url": "https://www.viva100.com/article/20261125500124",
-    "date": "2026-11-25"
-   },
-   "text": {
-    "ko": {
-     "title": "11번가 '미리 만나는 크리스마스' 기획전",
-     "note": "트리·인테리어 소품·파티용품·만들기 키트 최대 20%. 11번가(온라인)에서 11/29(일)까지."
-    },
-    "en": {
-     "title": "11st \"Christmas, a little early\" sale",
-     "note": "Up to 20% off trees, home decor, party supplies and craft kits on 11st (online), until Sun Nov 29."
-    },
-    "ja": {
-     "title": "11番街「ひと足早いクリスマス」企画展",
-     "note": "ツリー・インテリア小物・パーティー用品・手作りキットが最大20%オフ。11番街(オンライン)で11/29(日)まで。"
-    },
-    "zh-tw": {
-     "title": "11街「提早過聖誕」特賣",
-     "note": "聖誕樹、居家小物、派對用品、手作材料包最低 8 折(最多 20% off)。11街(線上)到 11/29(日)。"
-    }
-   },
-   "open_start": true,
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "11번가 온라인 기획전: 외국 방문객의 가입·결제·국내 배송 가능 여부 출처로 확인 못 함."
-  },
-  {
-   "id": "traders-xmas-2026",
-   "start": "2026-11-26",
-   "end": "2026-11-29",
-   "status": "confirmed",
-   "category": "xmas",
-   "source": {
-    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
-    "date": "2026-11-26"
-   },
-   "text": {
-    "ko": {
-     "title": "트레이더스 크리스마스 장식용품 할인",
-     "note": "삼성카드로 결제할 때만 할인, 11/29(일)까지. LED 와이어전구(1000구) 세트 5만5,800원 → 4만9,800원, LED 크리스마스 리스 3만5,800원 → 3만800원."
-    },
-    "en": {
-     "title": "Traders: Christmas decorations",
-     "note": "Discounts only when you pay with a Samsung Card, until Sun Nov 29. LED wire lights set (1,000 bulbs) ₩55,800 → ₩49,800, LED Christmas wreath ₩35,800 → ₩30,800."
-    },
-    "ja": {
-     "title": "トレーダーズ クリスマス飾り割引",
-     "note": "サムスンカードで支払う場合のみ割引、11/29(日)まで。LEDワイヤー電球(1000球)セット5万5,800ウォン→4万9,800ウォン、LEDクリスマスリース3万5,800ウォン→3万800ウォン。"
-    },
-    "zh-tw": {
-     "title": "Traders 聖誕裝飾特價",
-     "note": "限用三星卡付款才有折扣,到 11/29(日)。LED 銅線燈(1000 顆)組 55,800 韓元→49,800 韓元,LED 聖誕花圈 35,800 韓元→30,800 韓元。"
-    }
-   },
-   "open_start": true,
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "삼성카드(한국 카드사) 결제 고객만 할인(신세계그룹 뉴스룸 원문) → 방문객은 사실상 못 씀."
-  },
-  {
-   "id": "emart-xmas-2026",
-   "start": "2026-11-26",
-   "end": "2026-12-02",
-   "status": "confirmed",
-   "category": "xmas",
-   "source": {
-    "url": "https://www.shinsegaegroupnewsroom.com/e-mart-sale-on-trees-and-decorations/",
-    "date": "2026-11-26"
-   },
-   "text": {
-    "ko": {
-     "title": "이마트 '미리 크리스마스'",
-     "note": "트리·장식·파티용품 최대 30%(신세계포인트 적립 시). 원터치 팝업트리(150cm) 9만9,000원 → 7만9,200원, 베이직 트리 3종은 20% 내려 모두 1만 원 미만."
-    },
-    "en": {
-     "title": "E-mart \"Early Christmas\" sale",
-     "note": "Trees, decorations and party supplies up to 30% off, for shoppers who collect Shinsegae Points. One-touch pop-up tree (150 cm) ₩99,000 → ₩79,200; three basic trees are 20% off, all under ₩10,000."
-    },
-    "ja": {
-     "title": "イーマート「ひと足早いクリスマス」",
-     "note": "ツリー・飾り・パーティー用品が最大30%オフ(新世界ポイントを貯める場合)。ワンタッチポップアップツリー(150cm)9万9,000ウォン→7万9,200ウォン、ベーシックツリー3種は20%オフでどれも1万ウォン未満。"
-    },
-    "zh-tw": {
-     "title": "E-mart「提早過聖誕」",
-     "note": "聖誕樹、裝飾、派對用品最低 7 折(最多 30% off),需累積新世界點數。一鍵彈開聖誕樹(150cm)99,000 韓元→79,200 韓元,3 款基本聖誕樹打 8 折,都不到 1 萬韓元。"
-    }
-   },
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "대표 트리 할인은 신세계포인트 적립 시(원문). 방문객의 신세계포인트 가입 가능 여부, 포인트 없이 되는 품목 범위를 출처로 확인 못 함."
-  },
-  {
-   "id": "tlj-xmas-cake-2026",
-   "start": "2026-11-11",
-   "end": "2026-12-22",
-   "status": "confirmed",
-   "category": "xmas",
-   "source": {
-    "url": "https://cjnews.cj.net/%eb%9a%9c%eb%a0%88%ec%a5%ac%eb%a5%b4-%ec%9d%b4%eb%8f%84%ed%98%84%ea%b3%bc-%ed%95%a8%ea%bb%98%ed%95%9c-%ed%99%80%eb%a6%ac%eb%8d%b0%ec%9d%b4-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%98%81%ec%83%81-%ea%b3%b5/",
-    "date": "2026-11-11"
-   },
-   "text": {
-    "ko": {
-     "title": "뚜레쥬르 크리스마스 케이크 사전예약",
-     "note": "뚜레쥬르 앱에서 사전예약하면 홀리데이 제품 35종 최대 30%. 예약은 12/22까지, 매장 픽업은 12/18~25."
-    },
-    "en": {
-     "title": "Tous les Jours: Christmas cake pre-order",
-     "note": "Pre-order in the Tous les Jours app for up to 30% off 35 holiday items. Order by Dec 22, pick up in store Dec 18–25."
-    },
-    "ja": {
-     "title": "トゥレジュール クリスマスケーキ事前予約",
-     "note": "トゥレジュールのアプリで事前予約するとホリデー商品35種が最大30%オフ。予約は12/22まで、店舗受け取りは12/18〜25。"
-    },
-    "zh-tw": {
-     "title": "多樂之日 聖誕蛋糕預購",
-     "note": "用多樂之日 App 預購,35 款節慶商品最低 7 折(最多 30% off)。預購到 12/22,12/18–25 到門市取貨。"
-    }
-   },
-   "open_start": true,
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "뚜레쥬르 앱 사전예약 할인: 방문객의 앱 회원 가입 가능 여부 출처로 확인 못 함."
-  },
-  {
-   "id": "casamia-holiday-2026",
-   "start": "2026-11-23",
-   "end": "2026-12-24",
-   "status": "confirmed",
-   "category": "xmas",
-   "source": {
-    "url": "https://www.shinsegaegroupnewsroom.com/casamia-unveils-christmas-home-decor-picks/",
-    "date": "2026-11-23"
-   },
-   "text": {
-    "ko": {
-     "title": "까사미아 'HAPPY HOLIDAY' 기획전",
-     "note": "까사미아 온라인몰에서 크리스마스 홈데코 최대 50%, 12/24까지. 크리스마스 장식 소품은 매장·온라인 모두 12/31까지 30%."
-    },
-    "en": {
-     "title": "Casamia \"HAPPY HOLIDAY\" sale",
-     "note": "Up to 50% off Christmas home decor on the Casamia online store, until Dec 24. Christmas ornaments and small decor are also 30% off in stores and online until Dec 31."
-    },
-    "ja": {
-     "title": "カサミア「HAPPY HOLIDAY」企画展",
-     "note": "カサミアのオンラインモールでクリスマスのホームデコが最大50%オフ、12/24まで。クリスマスの飾り小物は店舗・オンラインとも12/31まで30%オフ。"
-    },
-    "zh-tw": {
-     "title": "Casamia「HAPPY HOLIDAY」特賣",
-     "note": "Casamia 線上商城聖誕居家佈置最低 5 折(最多 50% off),到 12/24。聖誕裝飾小物門市、線上都打 7 折,到 12/31。"
-    }
-   },
-   "board_hide": [
-    "en",
-    "ja",
-    "zh-tw"
-   ],
-   "board_hide_why": "기획전(최대 50%)은 까사미아 온라인몰 전용(원문) → 방문객 가입·결제·배송 확인 못 함. 매장 30%(장식 소품, 12/31까지)는 방문객도 쓸 수 있을 수 있으나 별도 항목 후보로 남김(원두 결정)."
-  },
-  {
-   "id": "lotte-jamsil-xmas-2026",
-   "start": "2026-11-19",
-   "end": "2027-01-03",
-   "status": "confirmed",
-   "category": "event",
-   "source": {
-    "url": "https://biz.heraldcorp.com/article/10942206",
-    "date": "2026-11-19"
-   },
-   "text": {
-    "ko": {
-     "title": "롯데타운 잠실 크리스마스 마켓",
-     "note": "잠실 롯데월드타워 월드파크 야외 잔디광장, 매일 11:30~22:00. 19세기 영국 크리스마스 마켓 콘셉트, 상점 40여 곳. 사전 예약은 롯데백화점몰 등(외국인은 클룩 등)에서 받았고, 11월 주말 패스트패스 입장권은 매진. 예약 없이 들어갈 수 있는지는 기사에 없어 확인 못 함."
-    },
-    "en": {
-     "title": "Lotte Town Jamsil Christmas Market",
-     "note": "World Park outdoor lawn at Lotte World Tower, Jamsil, daily 11:30–22:00. A 19th-century British Christmas market with about 40 shops. Bookings opened on Lotte Department Store Mall and, for overseas visitors, on Klook and others; November weekend fast-pass tickets sold out. Reports don't say whether you can enter without booking."
-    },
-    "ja": {
-     "title": "ロッテタウン蚕室クリスマスマーケット",
-     "note": "蚕室ロッテワールドタワーのワールドパーク屋外芝生広場、毎日11:30〜22:00。19世紀イギリスのクリスマスマーケットがテーマで、店舗は約40。事前予約はロッテ百貨店モールなど(外国人はKlookなど)で受け付け、11月の週末ファストパス入場券は完売。予約なしで入れるかは記事になく未確認。"
-    },
-    "zh-tw": {
-     "title": "樂天蠶室聖誕市集",
-     "note": "蠶室樂天世界塔 World Park 戶外草坪廣場,每天 11:30–22:00。19 世紀英國聖誕市集主題,約 40 家店。預約開放在樂天百貨商城等(外國旅客透過 Klook 等),11 月週末快速通關票已售完。不預約能否入場,報導沒寫,尚未確認。"
-    }
-   }
-  }
- ]
+  ],
+  "notes": {}
 }
