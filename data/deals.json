@@ -422,7 +422,8 @@
      "kind": "list",
      "checked": "2026-11-28"
     }
-   ]
+   ],
+   "open_start": true
   },
   {
    "id": "dept-shinsegae",
