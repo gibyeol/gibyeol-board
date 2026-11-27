@@ -1,6 +1,6 @@
 ---
 title: Korea tax refund: just show your passport
-description: Korea tax refund: show your real passport at the till and the tax comes off any one-shop receipt of ₩15,000 to under ₩1,000,000. Bigger buys: take a refund slip, then at Incheon Airport check in, use the customs kiosk, pass passport control and collect the money in the duty-free area. About 5–8% comes back after fees.
+description: Korea tax refund: at shops that offer instant refunds, show your real passport at the till and the tax comes off a one-shop receipt of ₩15,000 to under ₩1,000,000. Bigger buys: take a refund slip, then at Incheon Airport check in, use the customs kiosk, pass passport control and collect the money in the duty-free area. About 5–8% comes back after fees.
 lede: If you are visiting Korea, part of the 10% VAT comes off at the till. Show your passport. For big purchases, take a refund slip and claim at the airport.
 section: tax
 updated: 2026-11-26

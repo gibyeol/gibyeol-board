@@ -147,6 +147,8 @@ Olive Young 的折扣分兩種,真正值得配合行程的只有一種。
 
 <ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>Olive Young Global<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>住在美國:Olive Young US<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
+想比較運費、退貨和收件時的稅(各地):[在家收韓國美妝](/zh-tw/buy-from-home/)
+
 {{fig:olive-young-5|回國後要回購,去哪裡買}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>先說結論:看表格</summary>

@@ -1,6 +1,6 @@
 ---
 title: Seoul subway in 7 steps: pay, ride, exit
-description: Seoul subway: tap a T-money card (or WOWPASS) in and out, ₩1,550 a ride. How to pay and top up with cash, T-money or WOWPASS, bus transfers, finding your exit and last trains, shown on real gates, machines and signs. Checked November 2026.
+description: Seoul subway: tap a T-money card (or WOWPASS) in and out, ₩1,550 base fare (up to 10 km). How to pay and top up with cash, T-money or WOWPASS, bus transfers, finding your exit and last trains, shown on real gates, machines and signs. Checked November 2026.
 lede: One card, tapped in and out. ₩1,550 a ride. Shown on the real gates and signs.
 section: transport
 disclosure: yes
@@ -89,11 +89,11 @@ No extra gate. Follow the signs with the next line's number. Up to 4 transfers (
 
 | | T-money | WOWPASS |
 |---|---|---|
-| Card price | Airport railroad station machine: ₩15,000 (₩5,000 card + ₩10,000 fares). In town: the price the seller shows | ₩6,000, or ₩5,500 if you reserve first |
+| Card price | Airport railroad station machine: ₩15,000 (₩5,000 card + ₩10,000 fares). In town: the price the seller shows | ₩5,500 when reserved at a machine (list price ₩6,000) |
 | Where to get it | Convenience store counter or station machine ([how](/convenience-store/#tmoney)) | WOWPASS machines in subway stations, hotels, convenience stores and more |
 | Topping up | Won cash at station machines and convenience stores | Payment balance: at a WOWPASS machine (cash in 16 currencies or a credit card) or in the app |
-| Transport balance separate? | No: the whole card is fare money | Yes: top up its T-money balance with won cash, or move WOWPASS balance into it in the app (NFC) |
-| Leftover money back | Convenience stores, Seoul-area subway station info centres or T-money Town. Fee ₩500. ₩50,000 or more: T-money Town only (Seoul Station Exit 10, weekdays 9:00–18:00) | Payment balance: won cash at a WOWPASS machine (₩1,000 fee, up to ₩100,000 a time). T-money balance: same as T-money |
+| Transport balance separate? | No: there is one balance | Yes: top up its T-money balance with won cash, or move WOWPASS balance into it in the app (NFC) |
+| Leftover money back | Where depends on how much is left. Up to ₩20,000: GS25, 7-Eleven and other convenience stores. Up to ₩30,000: CU, emart24 and others. More: Seoul-area subway station info centres. ₩50,000 or more: T-money Town only (Seoul Station Exit 10, weekdays 9:00–18:00). Fee ₩500 | Payment balance: won cash at a WOWPASS machine (₩1,000 fee, up to ₩100,000 a time). T-money balance: same as T-money |
 | At the airport | T-money machines in the airport railroad stations (Terminals 1 and 2) sell the ₩15,000 card. Foreign credit cards accepted | Airport SK Telecom roaming centre: WOWPASS + T-money + SIM package |
 
 **All three ways to pay.** Our call: a stored-value card suits almost everyone. One question sorts the three: how many rides a day, and do you stay inside Seoul?
@@ -228,7 +228,7 @@ Missed it? [Getting around](/getting-around/).
 
 <p class="sources">Checked 27 November 2026: AREX <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">Express train guide</a> (QR gates); WOWPASS <a href="https://www.wowpass.io/en/guide" rel="noopener" target="_blank">guide</a> (T-money balance topped up separately with cash or in the app by NFC); Korea Herald <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">AREX preloaded T-money card</a> (₩15,000, foreign cards). Not checked: the Klook product pages (automated access blocked).</p>
 
-<p class="sources">Opened 27 November 2026, 22:25–22:28 KST, for the T-money vs WOWPASS table: WOWPASS <a href="https://www.wowpass.io/en/guide" rel="noopener" target="_blank">guide</a> (T-money top-up with won cash at stations and convenience stores or by NFC in the app; WOWPASS balance withdrawn at a machine, up to ₩100,000 a time, ₩1,000 fee; T-money refund at convenience stores, Seoul-area subway info centres and T-money Town, ₩500 fee, ₩50,000 or more only at T-money headquarters, Seoul Station Exit 10, weekdays 9:00–18:00; WOWPASS top-up with 16 currencies or a credit card) and <a href="https://www.wowpass.io/en/product" rel="noopener" target="_blank">how to receive WOWPASS</a> (₩6,000, ₩5,500 pre-booked at machines in subway stations, hotels, convenience stores and more; airport SKT Roaming Center package with WOWPASS, T-money and SIM). The ₩15,000 airport railroad T-money card: Korea Herald, above. Not used: the T-money site (www.tmoney.co.kr opened, but we found no page with card prices or refund rules; eng.tmoney.co.kr would not connect).</p>
+<p class="sources">Opened 27 November 2026, 22:25–22:28 KST, for the T-money vs WOWPASS table: WOWPASS <a href="https://www.wowpass.io/en/guide" rel="noopener" target="_blank">guide</a> (T-money top-up with won cash at stations and convenience stores or by NFC in the app; WOWPASS balance withdrawn at a machine, up to ₩100,000 a time, ₩1,000 fee; T-money refund at convenience stores, Seoul-area subway info centres and T-money Town, ₩500 fee, ₩50,000 or more only at T-money headquarters, Seoul Station Exit 10, weekdays 9:00–18:00; WOWPASS top-up with 16 currencies or a credit card) and <a href="https://www.wowpass.io/en/product" rel="noopener" target="_blank">how to receive WOWPASS</a> (₩6,000, ₩5,500 pre-booked at machines in subway stations, hotels, convenience stores and more; airport SKT Roaming Center package with WOWPASS, T-money and SIM). The ₩15,000 airport railroad T-money card: Korea Herald, above. Not used: the T-money site (www.tmoney.co.kr opened, but we found no page with card prices or refund rules; eng.tmoney.co.kr would not connect). The refund places by amount (₩20,000 / ₩30,000 / ₩50,000) come from the same WOWPASS guide screen text (page script, checked 27 November 2026).</p>
 
 Pictures: photos from Wikimedia Commons under the licences named in each caption; the fare and all-stop vs Express drawings are ours.
 

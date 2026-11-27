@@ -9,3 +9,5 @@ byline: no
 {{trending}}
 
 {{guides:olive-young}}
+
+한국 밖에서 집으로 받으려면: [K-뷰티, 집에서 받는 법](/ko/buy-from-home/)

@@ -147,6 +147,8 @@ disclosure: yes
 
 <ul class="tr-next"><li><a href="https://global.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-globe" aria-hidden="true"></i>올리브영 글로벌<i class="ic ic-external-link" aria-hidden="true"></i></a></li><li><a href="https://us.oliveyoung.com" rel="noopener" target="_blank"><i class="ic ic-truck" aria-hidden="true"></i>올리브영 US(미국)<i class="ic ic-external-link" aria-hidden="true"></i></a></li></ul>
 
+배송비·반품·받을 때 세금(나라별)까지 비교하려면: [K-뷰티, 집에서 받는 법](/ko/buy-from-home/)
+
 {{fig:olive-young-5|집에서 다시 사려면 어디서}}
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>한 줄 판단, 표로 보기</summary>

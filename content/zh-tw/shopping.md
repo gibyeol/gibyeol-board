@@ -9,3 +9,5 @@ byline: no
 {{trending}}
 
 {{guides:olive-young}}
+
+在韓國以外想在家收貨:[在家收韓國美妝](/zh-tw/buy-from-home/)

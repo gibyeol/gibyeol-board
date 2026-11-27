@@ -1,6 +1,6 @@
 ---
 title: Incheon Airport to Seoul: pick by where you sleep
-description: Incheon Airport to Seoul: staying near Seoul Station, take the AREX Express (43 min, ₩13,000); Hongdae or Gongdeok, the AREX all-stop (₩4,650 by card); most other hotels, the limousine bus. Landing late? The last Express leaves Terminal 1 at 22:48. Where to find each at the airport. Checked 26 November 2026.
+description: Incheon Airport to Seoul: staying near Seoul Station, take the AREX Express (43 min, ₩13,000); Hongdae or Gongdeok, the AREX all-stop (₩4,650 by card); hotels away from the line, the limousine bus. Landing late? The last Express leaves Terminal 1 at 22:48. Where to find each at the airport. Checked 26 November 2026.
 lede: Pick the ride that stops closest to your bed. Train or bus, 43 to 80 minutes, ₩4,650 to ₩18,000.
 section: essentials
 disclosure: yes

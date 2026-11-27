@@ -1,6 +1,6 @@
 ---
 title: 首爾地鐵7步驟:儲值、嗶卡、轉乘、出口
-description: 首爾地鐵用T-money(或WOWPASS)進站嗶、出站嗶,一趟1,550韓元。怎麼用現金儲值、T-money還是WOWPASS、轉乘公車、找出口、末班車,用真實的閘門、售票機和標示照片說明。2026年11月確認。
+description: 首爾地鐵用T-money(或WOWPASS)進站嗶、出站嗶,基本1,550韓元(10公里內)。怎麼用現金儲值、T-money還是WOWPASS、轉乘公車、找出口、末班車,用真實的閘門、售票機和標示照片說明。2026年11月確認。
 lede: 一張卡,進站嗶、出站嗶。一趟1,550韓元。用真實的閘門和標示照片帶你走一遍。
 section: transport
 disclosure: yes
@@ -89,11 +89,11 @@ updated: 2026-11-26
 
 | | T-money | WOWPASS |
 |---|---|---|
-| 卡片費用 | 機場鐵路站售卡機:15,000韓元(卡片5,000韓元+車資10,000韓元)。市區:以店家標示為準 | 6,000韓元,事先預約5,500韓元 |
+| 卡片費用 | 機場鐵路站售卡機:15,000韓元(卡片5,000韓元+車資10,000韓元)。市區:以店家標示為準 | 5,500韓元(在機台事先預約,原價6,000韓元) |
 | 在哪買 | 便利商店櫃台、車站機器([怎麼買](/zh-tw/convenience-store/#tmoney)) | 地鐵站、飯店、便利商店等處的WOWPASS機台 |
 | 儲值 | 車站售票機、便利商店,用韓元現金 | 消費餘額:WOWPASS機台(16種外幣現金或信用卡)或App |
-| 交通餘額分開嗎? | 不分開,整張卡都是車資 | 分開。T-money餘額用韓元現金儲值,或在App(NFC)把WOWPASS餘額轉進去 |
-| 剩下的錢拿回來 | 便利商店、首爾地鐵站務室、T-money總公司。手續費500韓元。50,000韓元以上只能到T-money總公司(首爾站10號出口,平日9〜18點) | 消費餘額:在WOWPASS機台領韓元現金(手續費1,000韓元,一次最多10萬韓元)。T-money餘額:同T-money |
+| 交通餘額分開嗎? | 不分開,只有一個餘額 | 分開。T-money餘額用韓元現金儲值,或在App(NFC)把WOWPASS餘額轉進去 |
+| 剩下的錢拿回來 | 依剩餘金額到不同地方退:2萬韓元以下,GS25、7-ELEVEN等便利商店;3萬韓元以下,CU、emart24等便利商店;再多就到首爾地鐵站務室;50,000韓元以上只能到T-money總公司(首爾站10號出口,平日9〜18點)。手續費500韓元 | 消費餘額:在WOWPASS機台領韓元現金(手續費1,000韓元,一次最多10萬韓元)。T-money餘額:同T-money |
 | 在機場拿 | 第1、第2航廈機場鐵路站的T-money售卡機賣15,000韓元的卡,可用海外信用卡 | 機場SK電訊漫遊中心:WOWPASS+T-money+SIM組合 |
 
 **三種付款方式總覽。** 我們的判斷:幾乎所有人用儲值卡就對了,單程票只是備案。三種方式用一個問題分開:一天搭幾趟、會不會離開首爾。
@@ -228,7 +228,7 @@ updated: 2026-11-26
 
 <p class="sources">2026年11月27日確認:機場鐵路 <a href="https://www.airportrailroad.com/train/express/guide" rel="noopener" target="_blank">直達車使用說明</a>(QR閘門);WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money餘額用車站、便利商店現金或App的NFC另外儲值);韓國先驅報 <a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場鐵路T-money卡</a>(內含交通費,15,000韓元、海外信用卡)。未能確認:Klook商品頁(擋下自動連線)。</p>
 
-<p class="sources">2026年11月27日22:25〜22:28(韓國時間)開啟確認(T-money和WOWPASS比較表):WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money餘額在地鐵站、便利商店用韓元現金或App的NFC儲值;WOWPASS餘額在機台提領,一次最多10萬韓元、每次手續費1,000韓元;T-money退款在便利商店、首爾地鐵站務室、T-money總公司,手續費500韓元,5萬韓元以上只能到T-money總公司,首爾站10號出口、平日9〜18點;可用16種外幣現金或信用卡儲值)與<a href="https://www.wowpass.io/zh-TW/product" rel="noopener" target="_blank">如何領取</a>(6,000韓元,地鐵站、飯店、便利商店機台預約5,500韓元;SKT行動漫遊中心的WOWPASS+Tmoney+SIM組合)。機場鐵路T-money 15,000韓元見上方韓國先驅報。未採用:T-money網站(www.tmoney.co.kr打得開,但找不到卡片價格與退款規定的頁面;eng.tmoney.co.kr連不上)。</p>
+<p class="sources">2026年11月27日22:25〜22:28(韓國時間)開啟確認(T-money和WOWPASS比較表):WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money餘額在地鐵站、便利商店用韓元現金或App的NFC儲值;WOWPASS餘額在機台提領,一次最多10萬韓元、每次手續費1,000韓元;T-money退款在便利商店、首爾地鐵站務室、T-money總公司,手續費500韓元,5萬韓元以上只能到T-money總公司,首爾站10號出口、平日9〜18點;可用16種外幣現金或信用卡儲值)與<a href="https://www.wowpass.io/zh-TW/product" rel="noopener" target="_blank">如何領取</a>(6,000韓元,地鐵站、飯店、便利商店機台預約5,500韓元;SKT行動漫遊中心的WOWPASS+Tmoney+SIM組合)。機場鐵路T-money 15,000韓元見上方韓國先驅報。未採用:T-money網站(www.tmoney.co.kr打得開,但找不到卡片價格與退款規定的頁面;eng.tmoney.co.kr連不上)。 依金額的退款地點(2萬、3萬、5萬韓元)來自同一個WOWPASS指南畫面文字(網頁程式,2026年11月27日確認)。</p>
 
 照片:來自維基共享資源,授權寫在每張照片的說明裡。票價比較與普通車・直達車的圖由Nadri繪製。
 
