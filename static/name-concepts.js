@@ -23,10 +23,10 @@ window.NADRI_CONCEPTS = {
      (behindthename.com/names/meaning/harbour, green, jasmine, silk), saved in wondu-archive raw-from-scratchpad/names-2026-11-28/btn/. */
   harbour: { ko: '항구', en: 'harbour', ja: '港(みなと)', zh: '港口', hanja: '湊港', latin: [],
     names: [['Japanese', 'Minato', '湊・港'], ['Arabic', 'Bandar']] },
-  green: { ko: '초록', en: 'green', ja: '緑', zh: '綠', hanja: '翠緑綠碧', latin: [],
-    names: [['Greek', 'Chloe', 'Χλόη'], ['Greek', 'Chloris'], ['Arabic', 'Khadra'], ['Albanian', 'Blerta'], ['Japanese', 'Midori', '緑'], ['Japanese', 'Sui', '翠'], ['Chinese', 'Qing', '青'], ['Vietnamese', 'Bích', '碧']] },
+  green: { ko: '초록', en: 'green', ja: '緑', zh: '綠', hanja: '翠緑碧青', latin: [],
+    names: [['Greek', 'Chloe'], ['Greek', 'Chloris'], ['Arabic', 'Khadra'], ['Albanian', 'Blerta'], ['Japanese', 'Midori', '緑'], ['Japanese', 'Sui', '翠'], ['Chinese', 'Qing', '青'], ['Vietnamese', 'Bích', '碧']] },
   jasmine: { ko: '재스민', en: 'jasmine', ja: '茉莉(ジャスミン)', zh: '茉莉', hanja: '茉莉', latin: [],
-    names: [['Arabic', 'Yasmin'], ['English', 'Jasmine'], ['Turkish', 'Yasemin'], ['Spanish', 'Jazmín'], ['Italian', 'Gelsomina'], ['Armenian', 'Hasmik'], ['Sanskrit', 'Mallika'], ['Indonesian', 'Melati']] },
+    names: [['Arabic', 'Yasmin'], ['English', 'Jasmine'], ['Turkish', 'Yasemin'], ['Spanish', 'Jazmín'], ['Italian', 'Gelsomina'], ['Armenian', 'Hasmik'], ['Tamil', 'Mallika'], ['Indonesian', 'Melati']] },
   silk: { ko: '비단', en: 'silk', ja: '絹・紬', zh: '絲綢', hanja: '紬紗', latin: [],
     names: [['Turkish', 'İpek'], ['Hindi', 'Reshma'], ['Japanese', 'Tsumugi', '紬']] },
   spring: { ko: '봄', en: 'spring', ja: '春', zh: '春', hanja: '春', latin: [],
