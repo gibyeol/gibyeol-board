@@ -501,7 +501,7 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .az h3{margin:1.6rem 0 .6rem}
 .mast .catch{flex-basis:100%;font-size:clamp(1.15rem,3vw,1.6rem);opacity:.95}
 
-/* desktop layout 2026-11-26 (unfinished: only hides the TOC for now; wide-screen rules still to add) */
+/* desktop layout: phones never see the TOC; wide-screen rules are in the @media (min-width:1024px) block at the end of this file */
 .toc{display:none}
 .tr-kv{list-style:none;padding:0;margin:4px 0 0;display:grid;gap:4px}.tr-kv li{margin:0;line-height:1.4}.tr-kv b{display:inline;font-size:.86rem;color:var(--muted);font-weight:600;margin-right:4px}
 
@@ -528,3 +528,61 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .nshare button:focus-visible,.nshare a:focus-visible{outline:2px solid var(--red);outline-offset:2px}
 .nshare-box>*{flex-shrink:0}
 @media (max-width:420px){.nshare{padding:8px}.nshare-box{padding:12px 12px 14px;gap:12px}.nshare-row a,.nshare-row button{width:72px}.nshare-img{min-height:0}.nshare-img img{max-height:calc(100vh - 372px);max-height:calc(100dvh - 372px)}}
+
+/* ---------- PC layout (draft 2026-11-27, owner [7eb4ec94#1114] [7eb4ec94#1192]): wide screens only, phones and tablets unchanged.
+   References: english.visitseoul.net/Getting-to-seoul (1200px content, choices as cards side by side),
+   english.visitkorea.or.kr transportation (one header row: logo + menu; 3-up cards), gov.uk (reading column ~630px, extra links in a side column).
+   Page = reading column + sticky "On this page" column. Pictures sit next to the steps they explain (.sbs from build.py desktop_pairs).
+   Running text keeps a readable line length; cards, tables and pictures use the full column. ---------- */
+@media (min-width:1024px){
+  .wrap{max-width:1280px;padding-inline:40px}
+  /* header: logo, menu and languages on one row so the page title starts higher (home masthead keeps its big logo) */
+  .site-head:not(.mast) .wrap{display:flex;flex-wrap:wrap;align-items:center;column-gap:36px}
+  .site-head:not(.mast) .dateline{flex:1 0 100%}
+  .site-head:not(.mast) .brand-row{padding-block:12px}
+  .site-head:not(.mast) .nav-row{flex:1 1 auto;padding-block:12px}
+  /* guide pages: reading column + sticky table of contents on the right */
+  main.has-toc{display:grid;grid-template-columns:minmax(0,1fr) 236px;column-gap:56px;align-items:start}
+  main.has-toc>*{grid-column:1;min-width:0}
+  main.has-toc>.toc{grid-column:2;grid-row:1/span 3;display:block;position:sticky;top:20px;max-height:calc(100vh - 40px);overflow-y:auto;
+    margin-top:1.6rem;padding:2px 0 2px 16px;border-left:1px solid var(--ink)}
+  .toc-h{margin:0 0 8px;font:600 .74rem/1.2 var(--mono);letter-spacing:.12em;color:var(--red);text-transform:uppercase}
+  .toc ol{list-style:none;margin:0;padding:0;counter-reset:t}
+  .toc li{counter-increment:t;margin:0}
+  .toc a{display:grid;grid-template-columns:1.7em 1fr;padding:6px 0;font-size:.9rem;line-height:1.4;text-decoration:none;color:var(--ink);border-bottom:1px solid var(--hair)}
+  .toc a::before{content:counter(t,decimal-leading-zero);font:500 .72rem/1.95 var(--mono);color:var(--muted)}
+  .toc a:hover{color:var(--red)}
+  main.has-toc .page-head{max-width:none;padding:1.3rem 0 1.1rem;margin-bottom:1rem}
+  main.has-toc .byline{margin-top:.7rem}
+  main.has-toc .body>.disclosure:first-child{font-size:.8rem;line-height:1.5;padding:.4rem 0;margin-top:0}
+  main.has-toc .page-head h1{max-width:20em}
+  main.has-toc .body{max-width:none}
+  /* readable line length for running text (gov.uk keeps ~630px); everything else uses the whole column */
+  .body>p,.body>ul:not([class]),.body>ol:not([class]),.body>.disclosure,.body>.sources,.body>h3,
+  details.tr-more>p,details.tr-more>ul:not([class]),details.more>p{max-width:46rem}
+  /* picture + the steps that explain it, side by side */
+  .sbs{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:24px;align-items:start;margin:1.2rem 0}
+  .sbs>*{margin-top:0!important;margin-bottom:0!important}
+  /* choices, mistakes, next links: two cards per row instead of one long stack */
+  .ap-pick,.tr-choose,.tr-oops,.tr-next,.eac-who,.eac-oops,.eac-next{grid-template-columns:repeat(2,minmax(0,1fr));align-items:start}
+  .tr-next,.eac-next{align-items:stretch}
+  .tr-next a,.eac-next a{height:100%}
+  .acc-picks{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .ap-routes{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .ap-fares{grid-template-columns:repeat(2,minmax(0,1fr))}
+  /* first screen (head-first): hero photo left, the four key facts stacked on its right (.lead2 from build.py) */
+  .lead2{display:grid;grid-template-columns:minmax(0,1.45fr) minmax(0,1fr);gap:20px;align-items:start;margin:1rem 0 1.2rem}
+  .lead2>*{margin:0!important}
+  .lead2 .tr-facts{grid-template-columns:1fr;grid-auto-rows:1fr;gap:8px;align-self:stretch}
+  .lead2 .tr-facts li{margin:0;padding:8px 12px}
+  /* a link inside a choice card's point list reads as a link, not as a second card */
+  .ap-pick .pts li{display:block;position:relative;padding-left:1.75em}
+  .ap-pick .pts li>.ic{position:absolute;left:0;top:.12em}
+  .ap-pick .pts a{display:inline;background:none;border:0;border-radius:0;padding:0;font-weight:600;text-decoration:underline;text-decoration-color:var(--red)}
+  /* big pictures stay within one screen */
+  .tr-hero img{aspect-ratio:2/1}
+  .lead2 .tr-hero img{aspect-ratio:16/9}
+  .lead2 .acc-hero img{aspect-ratio:auto;width:100%;max-height:none}
+  .acc-hero img{aspect-ratio:auto;width:auto;max-width:100%;max-height:460px;margin-inline:auto}
+  .body>.fig img,.body>.tr-photo img,details.tr-more .fig img{max-height:540px;object-fit:contain}
+}

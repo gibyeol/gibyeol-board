@@ -532,13 +532,18 @@ SKY = """<svg class="sky" viewBox="0 0 1200 420" preserveAspectRatio="xMidYMax s
 
 # ---------- desktop layout (2026-11-26): table of contents + image/text pairs. Mobile CSS hides/ignores both ----------
 TOC_LABEL = {"ko": "이 페이지", "en": "On this page", "ja": "このページ", "zh-tw": "本頁內容"}
-_FIG = r'(?:<figure class="(?:fig|tr-photo)[^"]*"[^>]*>.*?</figure>|<div class="tr-pair[^"]*">.*?</div>)'
+# Tempered tokens: one picture only. A plain `.*?` let a match run from an earlier picture across whole sections
+# (2026-11-27: 40 wrappers held several h2/h3 sections and squeezed them into the left column on wide screens).
+_FIG = r'(?:<figure class="(?:fig|tr-photo)[^"]*"[^>]*>(?:(?!</figure>).)*</figure>|<div class="tr-pair[^"]*">(?:(?!</div>).)*</div>)'
 
 
 def desktop_pairs(body):
     """Wrap a picture and the text that explains it in <div class="sbs"> so wide screens can put them side by side.
     The wrapper has no box of its own, so phones render exactly as before."""
     sbs = lambda m: f'<div class="sbs">{m.group(1)}\n{m.group(2)}</div>'
+    # top of a transit guide: hero photo + the four key facts side by side, so both fit the first wide screen
+    body = re.sub(r'(<figure class="tr-hero[^"]*">.*?</figure>)\n(<ul class="tr-facts">.*?</ul>)',
+                  lambda m: f'<div class="lead2">{m.group(1)}\n{m.group(2)}</div>', body, count=1, flags=re.S)
     body = re.sub(rf'({_FIG})\n(<ol class="steps">.*?</ol>)', sbs, body, flags=re.S)
     body = re.sub(rf'(?<=</h3>\n)({_FIG})\n(<p>.*?</p>)',
                   lambda m: sbs(m) if '-step"' in body[:m.start()].rsplit("<h3", 1)[-1][:40] else m.group(0), body, flags=re.S)
