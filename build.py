@@ -6,6 +6,7 @@ data/site.json             languages, navigation, UI strings
 data/affiliates.json       affiliate links; empty url = not shown
 data/deals.json            deals board entries
 data/trending.json         'Trending now' slot (home + /shopping/): which trend page, headline fact, source
+data/og.json               link-preview picture per page (static/og/<slug>.jpg, made by tools/og_cards.py)
 static/                    copied as-is
 """
 import html, json, re, shutil
@@ -20,6 +21,7 @@ DEALS = json.loads((ROOT / "data/deals.json").read_text(encoding="utf-8"))
 TREND = json.loads((ROOT / "data/trending.json").read_text(encoding="utf-8"))
 LINKS = {k: v for k, v in json.loads((ROOT / "data/links.json").read_text(encoding="utf-8")).items() if not k.startswith("_")}
 BASE = SITE["base_url"].rstrip("/")
+OG = json.loads((ROOT / "data/og.json").read_text(encoding="utf-8"))["pages"]  # link-preview pictures (tools/og_cards.py)
 CURRENT = ' aria-current="true"'
 
 
@@ -495,6 +497,25 @@ def toc(lang, body):
 
 
 # ---------- layout ----------
+def og_image(lang, slug, body_html):
+    """og:image for pages listed in data/og.json: a 1200x630 crop of a photo the page already shows (with its credit).
+    Alt text = that photo's alt on the page, so it is in the page language. Unlisted pages get no picture."""
+    c = OG.get(slug)
+    if not c:
+        return ""
+    card = ROOT / "static/og" / f"{slug}.jpg"
+    if not card.exists():
+        raise SystemExit(f"data/og.json: static/og/{slug}.jpg missing (run python3 tools/og_cards.py)")
+    tag = re.search(rf'<img[^>]*src="/{re.escape(c["photo"])}"[^>]*>', body_html)
+    if not tag:
+        raise SystemExit(f"data/og.json [{lang}/{slug}]: {c['photo']} is not shown on the page, so it is not credited there")
+    alt = re.search(r'alt="([^"]*)"', tag.group(0))
+    alt = html.unescape(alt.group(1)) if alt else ""
+    return (f'\n<meta property="og:image" content="{BASE}/static/og/{slug}.jpg"><meta property="og:image:type" content="image/jpeg">'
+            f'<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">'
+            f'<meta property="og:image:alt" content="{html.escape(alt)}"><meta name="twitter:card" content="summary_large_image">')
+
+
 def page(lang, meta, body_html, path, alternates):
     ui, L = SITE["ui"][lang], SITE["languages"][lang]
     title = meta.get("title", "Nadri")
@@ -552,7 +573,7 @@ def page(lang, meta, body_html, path, alternates):
 <meta name="description" content="{html.escape(desc)}">
 <link rel="canonical" href="{canonical}">{hreflang}
 <meta property="og:title" content="{html.escape(title)}"><meta property="og:description" content="{html.escape(desc)}">
-<meta property="og:type" content="website"><meta property="og:url" content="{canonical}"><meta property="og:site_name" content="Nadri">
+<meta property="og:type" content="website"><meta property="og:url" content="{canonical}"><meta property="og:site_name" content="Nadri">{og_image(lang, path.strip("/").split("/")[-1], body_html)}
 <link rel="icon" href="/static/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="/static/fonts.css"><link rel="stylesheet" href="/static/style.css">{head_extra}
 </head>

@@ -1,0 +1,15 @@
+{
+  "_note": "Link-preview pictures (og:image) for pages that already show a license-checked real photo. One card per page, shared by all languages. The photo must appear on the page in every language (build.py fails otherwise) so the page itself carries the credit; og:image:alt = that photo's alt text on the page, in the page language. Cards are made by `python3 tools/og_cards.py` (needs Pillow; build.py does not) from the same published photo file, so any blur or crop already applied stays. focus = vertical centre of the 1200x630 crop (0 top, 1 bottom). Held back: tax-refund (its photos are a sign that is unreadable at link-card size, or carry red marks; owner to decide). Pages not listed get no og:image (owner 2026-11-27 [7eb4ec94#2954]: link card pictures; no made-up drawings [7eb4ec94#1747]).",
+  "pages": {
+    "airport-to-seoul": {"photo": "static/photo/arex-platform-wide.webp", "focus": 0.5},
+    "convenience-store": {"photo": "static/photo/cvs-ramyeon-wall.webp", "focus": 0.62},
+    "daiso": {"photo": "static/photo/daiso-chargers.webp", "focus": 0.45},
+    "duty-free": {"photo": "static/photo/lotte-dfs-myeongdong-night.webp", "focus": 0.5},
+    "e-arrival-card": {"photo": "static/photo/airport-1.webp", "focus": 0.5},
+    "kbeauty-how-to-choose": {"photo": "static/photo/oy-pick-sunscreen.webp", "focus": 0.0},
+    "olive-young": {"photo": "static/photo/olive-young-1.webp", "focus": 0.5},
+    "seoul-bus": {"photo": "static/photo/bus-1.webp", "focus": 0.5},
+    "seoul-subway": {"photo": "static/fig/seoul-subway-hero.webp", "focus": 0.5},
+    "shopping-streets": {"photo": "static/photo/myeongdong-theater.webp", "focus": 0.62}
+  }
+}
