@@ -52,7 +52,7 @@ K-ETAは、ビザなしで韓国に入国する人向けの電子渡航認証で
 
 {{fig:essentials-3|eSIM・SIM・ポケットWi-Fi:それぞれに必要なこと}}
 
-**選び方:** データだけなら下の2つのどちらか。電話・SMSを受ける韓国の番号も必要なら、その下のSKTの商品で韓国の番号がもらえるかを、買う前に商品ページで確認してください。
+**選び方:** データだけなら、下のボタンのどれでも大丈夫です。韓国で電話・SMSも使うなら、いちばん下のKlook「SKT無制限データeSIM」を選んでください。下の商品のうち、電話・SMSが使えると私たちが商品ページで確認できたのはこれだけです。いちばん下の商品は外国のパスポートを持つ人だけが使えます(韓国のパスポートは不可)。
 
 **買う前に:** 返金条件を商品ページで確認してください(インストール後は返金できないところもあります)。
 
@@ -60,9 +60,35 @@ K-ETAは、ビザなしで韓国に入国する人向けの電子渡航認証で
 
 {{aff:klook_esim|KlookでSKTの5G eSIMを予約する}}
 
-下のボタンはKlookのほかのSKT eSIM商品につながります。利用期間、韓国の番号と通話・SMSの有無、テザリングの可否は、買う前に商品ページで確認してください。
+**いちばん下のボタン:Klook「South Korea SKT Unlimited Data eSIM with Free T-Money Card」**(韓国SKT無制限データeSIM、T-moneyカード無料付き)。商品ページで確認した内容です。
 
-{{aff:klook_esim_alt|KlookでSKT eSIMのほかのプランを見る}}
+- **対象:** 外国のパスポートを持つ人だけ。外国人専用の商品で、韓国のパスポートではパスポート認証ができません。
+- **データ:** 基本は無制限、4G LTE。テザリング(ほかの機器との共有)は不可。短時間に大量のデータを使うと、予告なく速度・使用量が制限されることがあります。FaceTime・カカオトークの音声通話のようなネット通話は使えます。
+- **電話・SMS:** 韓国に入国したあと、午前8時〜午後10時にパスポート認証をすると、データに加えて電話・SMSが使えます。認証後、音声用のチャージ(top-up)を別に支払います。認証しなければデータだけです。
+- **期間:** 2〜90日から選びます。延長はできません。
+- **無料T-money(交通カード):** 3日以上のプランで付きます。仁川空港のSKTローミングセンターに行って受け取ります。
+- **使えないスマホ:** 国ロック端末(ある国の通信網でしか使えないようロックされた端末)、物理SIMを2枚使うデュアルSIMモデル(例:香港・中国版のiPhone Maxモデル)。iPhoneはiOS 15.0以上が必要です。端末が合わず使えなくても返金・キャンセルはできないので、上の「まず自分のスマホを確認」から済ませてください。
+
+{{aff:klook_esim_alt|KlookでSKT無制限データeSIMを見る}}
+
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>SKT無制限データeSIMを買ったら:インストール → パスポート認証 → 音声チャージ → 無料T-money</summary>
+
+**出発前、家で(Wi-Fiが必要)**
+
+1. **メールを受け取る:** 支払いから30分以内に、kbooks-global@usimkorea.kr からeSIMがメールで届きます。Klookの確認メールが見当たらなければ、Klookのカスタマーサポートに問い合わせてください。
+2. **使うスマホでスキャン:** 一度スキャンしたQRコードは、ほかの機器では使えません。QRコードは購入から60日以内に使います。登録にはWi-Fiが必要です。出発前にインストールしておいても、利用日数は韓国に着いた時点から数えます。
+3. **iPhone:** Settings(設定)→ Cellular(モバイル通信)→ Add Cellular Plan(モバイル通信プランを追加)→ QRコードをスキャン。続いて、主回線・iMessage・FaceTimeには「Main」(主回線)を選びます。最後に Cellular Data(モバイルデータ通信)をタップし、「Allow Cellular Data Switching」(モバイルデータ通信の切り替えを許可)をオフにして「Continue」(続ける)。
+4. **Android(Galaxy):** Settings(設定)→ Connections(接続)→ SIM card manager(SIMマネージャー)→ Add mobile plan(モバイルプランを追加)→ Scan the carrier QR code(通信会社のQRコードをスキャン)。SIMマネージャーの画面上部に、使えるSIM・eSIMの回線とオン・オフ(Active)のスイッチが出ます。同じSIMメニューで、mobile data(モバイルデータ)の回線をeSIMにします。
+5. **確認:** 設定が終わったらスマホを1〜2回再起動し、通信会社が「SKT」になっているか確認します。
+
+**韓国に着いたら**
+
+1. **データ:** 登録が済んでいればすぐ使えます。つながらなければ、下の「買ったあと:eSIMのインストールとオン」の「つながらないとき」を見てください。
+2. **電話・SMSが必要ならパスポート認証:** 入国後、午前8時〜午後10時に、商品ページの「Passport information verification URL」(パスポート情報認証のリンク)を開いて認証します。認証方法の案内は同じページに韓国語・英語・日本語・中国語(繁体字・簡体字)であります。
+3. **音声チャージ:** 認証後、商品ページの「top-up payment」(チャージの支払い)リンクで音声チャージを支払います。これで電話・SMSが使えます。
+4. **無料T-money(3日以上のプラン):** 仁川空港のSKTローミングセンターでKlookのeSIMバウチャーを見せて受け取ります。第1ターミナルは1階13番出口、第2ターミナルは1階6〜7番出口(24時間)。T-moneyのチャージと使い方は下の「4. お金と交通カード」にあります。
+
+</details>
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買ったあと:eSIMのインストールとオン(iPhone・Galaxy)</summary>
 
@@ -135,4 +161,4 @@ iPhoneならモバイルT-moneyアプリに海外のMastercard・Amex・銀聯�
 
 <p class="sources">法務部「<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA一時免除期間の延長(2027年12月31日まで)</a>」(2026年11月23日掲載、11月26日確認)、<a href="https://www.k-eta.go.kr" rel="noopener" target="_blank">k-eta.go.kr</a>(手数料、11月26日確認)、<a href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">e-arrivalcard.go.kr</a>(無料、到着3日前から申告可、11月26日確認)、コリア・ヘラルド「<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">空港鉄道のT-moneyカード</a>」(2026年11月24日)と「<a href="https://www.koreaherald.com/article/10946522" rel="noopener" target="_blank">Googleの韓国地図計画</a>」(2026年11月23日)、いずれも11月26日確認。今回は再確認できず前回の確認内容を維持:22の国・地域と3年の有効期間に関する外交部のお知らせ、仁川国際空港の電子入国申告書案内、国土交通部の地図データ持ち出し承認(2026年2月27日)、ソウル市のT-money・気候同行カード・地下鉄新券売機の案内(2026年3月16日)。</p>
 
-<p class="sources">2026年11月27日確認:Apple <a href="https://support.apple.com/ja-jp/118669" rel="noopener" target="_blank">iPhoneでeSIMを設定する</a>(QR・リンクでのインストール)、<a href="https://support.apple.com/ja-jp/118227" rel="noopener" target="_blank">海外旅行中にiPhoneでeSIMを使う</a>(SIMロックの確認、中国本土・香港・マカオの例外、旅行用eSIMをオン、データ通信の回線、自分の国の回線のローミング料金)、<a href="https://support.apple.com/ja-jp/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhoneユーザガイド:モバイルデータ通信の設定</a>(データローミング)、<a href="https://support.apple.com/ja-jp/109317" rel="noopener" target="_blank">デュアルSIMを使う</a>(データは一度に1つの番号、番号ごとの設定)、<a href="https://support.apple.com/ja-jp/102478" rel="noopener" target="_blank">eSIMを設定できない場合</a>;Samsung Japan <a href="https://www.samsung.com/jp/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIMマネージャー → eSIMを追加 → QRコードをスキャン)、Samsung UK <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">データローミング</a>・<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">デュアルSIM</a>(英語のメニュー名を訳したもの)、Samsung Ireland <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EIDの場所。英語のメニュー名を訳したもの);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は別チャージ);WOWPASS eSIMの予約条件(QRインストール後は返金不可 —「返金できないところ」の例)。確認できなかったもの:Yesim・KlookのeSIM商品ページ(プランの違い・返金条件)。両サイトが自動アクセスを止めていて開けませんでした。</p>
+<p class="sources">2026年11月27日確認:Apple <a href="https://support.apple.com/ja-jp/118669" rel="noopener" target="_blank">iPhoneでeSIMを設定する</a>(QR・リンクでのインストール)、<a href="https://support.apple.com/ja-jp/118227" rel="noopener" target="_blank">海外旅行中にiPhoneでeSIMを使う</a>(SIMロックの確認、中国本土・香港・マカオの例外、旅行用eSIMをオン、データ通信の回線、自分の国の回線のローミング料金)、<a href="https://support.apple.com/ja-jp/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhoneユーザガイド:モバイルデータ通信の設定</a>(データローミング)、<a href="https://support.apple.com/ja-jp/109317" rel="noopener" target="_blank">デュアルSIMを使う</a>(データは一度に1つの番号、番号ごとの設定)、<a href="https://support.apple.com/ja-jp/102478" rel="noopener" target="_blank">eSIMを設定できない場合</a>;Samsung Japan <a href="https://www.samsung.com/jp/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIMマネージャー → eSIMを追加 → QRコードをスキャン)、Samsung UK <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">データローミング</a>・<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">デュアルSIM</a>(英語のメニュー名を訳したもの)、Samsung Ireland <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EIDの場所。英語のメニュー名を訳したもの);WOWPASS <a href="https://www.wowpass.io/ja/guide" rel="noopener" target="_blank">使い方ガイド</a>(T-money残高は別チャージ);WOWPASS eSIMの予約条件(QRインストール後は返金不可 —「返金できないところ」の例)。Klook「South Korea SKT Unlimited Data eSIM with Free T-Money Card」商品ページ(運営者がブラウザで開いた画面、2026年11月27日)(外国人専用・韓国パスポートは認証不可、パスポート認証の時間と音声チャージ、データ・テザリング・速度制限、期間、無料T-moneyとローミングセンターの場所、使えない端末、iPhone・Androidの設定手順、送信元アドレス)。確認できなかったもの:Yesimの商品ページとKlookのSKT 5G eSIM商品ページ(プランの違い・返金条件)。両サイトが自動アクセスを止めていて開けませんでした。</p>

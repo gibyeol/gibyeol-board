@@ -52,7 +52,7 @@ K-ETA 是免簽入境韓國時的電子旅行許可,費用 10,000 韓元,效期�
 
 {{fig:essentials-3|eSIM、SIM 卡、Wi-Fi 分享器:各自要注意什麼}}
 
-**怎麼選:** 只要上網,下面兩個按鈕選一個就好。如果還需要能接電話、收簡訊的韓國門號,購買前請先在商品頁確認下面那款 SKT 商品有沒有提供韓國門號。
+**怎麼選:** 只要上網,下面哪個按鈕都可以。如果在韓國也要打電話、收發簡訊,請選最下面 Klook 的「SKT 無限數據 eSIM」。下面這幾款商品中,我們從商品頁確認能用電話和簡訊的只有這一款。最下面這款只有持外國護照的人能用(韓國護照不行)。
 
 **購買前:** 先在商品頁看退款條件(有些賣家安裝後就不能退款)。
 
@@ -60,9 +60,35 @@ K-ETA 是免簽入境韓國時的電子旅行許可,費用 10,000 韓元,效期�
 
 {{aff:klook_esim|在 Klook 預訂 SKT 5G eSIM}}
 
-下面的按鈕會連到 Klook 的另一款 SKT eSIM 商品。效期、有沒有韓國門號和通話簡訊、能不能分享熱點,購買前請在商品頁確認。
+**最下面的按鈕:Klook「South Korea SKT Unlimited Data eSIM with Free T-Money Card」**(韓國 SKT 無限數據 eSIM,附免費 T-money 卡)。以下是商品頁上確認到的內容。
 
-{{aff:klook_esim_alt|在 Klook 看更多 SKT eSIM 方案}}
+- **誰能用:** 只限持外國護照的人。這是外國人專用商品,韓國護照無法做護照認證。
+- **數據:** 預設無限量,4G LTE。不能分享熱點(分給其他裝置用)。短時間內用大量數據時,速度和用量可能在沒有事先通知的情況下被限制。FaceTime、KakaoTalk 語音通話這類網路通話可以用。
+- **電話、簡訊:** 入境韓國後,在上午 8 點到晚上 10 點做護照認證,除了數據還能打電話、收發簡訊。認證後要另外付費儲值通話(top-up)。不做認證就只有數據。
+- **天數:** 2 到 90 天之間選。買了之後不能延長。
+- **免費 T-money(交通卡):** 買 3 天以上的方案才有。要親自到仁川機場的 SKT 漫遊中心領取。
+- **不能用的手機:** 有國家鎖的手機(被鎖定只能在某個國家電信網路使用的手機),以及用兩張實體 SIM 卡的雙 SIM 機型(例如香港、中國版的 iPhone Max 機型)。iPhone 要 iOS 15.0 以上。手機不相容而不能用也不能退款或取消,請先做上面的「先確認你的手機」。
+
+{{aff:klook_esim_alt|在 Klook 看 SKT 無限數據 eSIM}}
+
+<details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買了 SKT 無限數據 eSIM:安裝 → 護照認證 → 通話儲值 → 免費 T-money</summary>
+
+**出發前,在家裡(需要 Wi-Fi)**
+
+1. **收信:** 付款後 30 分鐘內,kbooks-global@usimkorea.kr 會把 eSIM 寄到你的電子郵件。沒看到 Klook 的確認信,請聯絡 Klook 客服。
+2. **用要用的手機掃描:** QR 碼掃過一次就不能在其他裝置上用。QR 碼要在購買後 60 天內使用。登錄時需要 Wi-Fi。出發前先裝好也可以,使用天數從抵達韓國時開始算。
+3. **iPhone:** Settings(設定)→ Cellular(行動服務)→ Add Cellular Plan(加入行動方案)→ 掃描 QR 碼。接著,主要號碼、iMessage、FaceTime 選「Main」(主要號碼)。最後點 Cellular Data(行動數據),把「Allow Cellular Data Switching」(允許切換行動數據)關掉,再點「Continue」(繼續)。
+4. **Android(Galaxy):** Settings(設定)→ Connections(連接)→ SIM card manager(SIM 卡管理工具)→ Add mobile plan(新增行動方案)→ Scan the carrier QR code(掃描電信業者 QR 碼)。SIM 卡管理工具畫面上方會顯示可用的 SIM、eSIM 號碼和開關(Active)。在同一個 SIM 選單裡,把 mobile data(行動數據)的號碼設成 eSIM。
+5. **確認:** 設定完把手機重新開機 1 到 2 次,確認電信業者顯示為「SKT」。
+
+**抵達韓國後**
+
+1. **數據:** 登錄完成就能馬上用。連不上的話,照下面「買了之後:安裝並開啟 eSIM」裡的「連不上時」做。
+2. **要打電話、收發簡訊就做護照認證:** 入境後,在上午 8 點到晚上 10 點,打開商品頁上的「Passport information verification URL」(護照資料認證連結)認證。認證方法的說明在同一頁,有韓文、英文、日文、中文(繁體、簡體)。
+3. **通話儲值:** 認證後,從商品頁上的「top-up payment」(儲值付款)連結付通話儲值費。這樣才能打電話、收發簡訊。
+4. **免費 T-money(3 天以上方案):** 在仁川機場的 SKT 漫遊中心出示 Klook 的 eSIM 憑證領取。第一航廈:1 樓 13 號出口;第二航廈:1 樓 6~7 號出口(24 小時)。T-money 怎麼儲值、怎麼用,請看下面「4. 付款與交通卡」。
+
+</details>
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>買了之後:安裝並開啟 eSIM(iPhone、Galaxy)</summary>
 
@@ -135,4 +161,4 @@ iPhone 可用海外 Mastercard、Amex、銀聯為 Mobile T-money App 儲值(Visa
 
 <p class="sources">法務部〈<a href="https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332883" rel="noopener" target="_blank">K-ETA 暫時免申請延長至 2027 年 12 月 31 日</a>〉(2026 年 11 月 23 日公告,11 月 26 日查閱);<a href="https://www.k-eta.go.kr" rel="noopener" target="_blank">k-eta.go.kr</a>(費用,11 月 26 日查閱);<a href="https://www.e-arrivalcard.go.kr" rel="noopener" target="_blank">e-arrivalcard.go.kr</a>(免費、抵達前 3 天起可填,11 月 26 日查閱);韓國先驅報〈<a href="https://www.koreaherald.com/article/10947683" rel="noopener" target="_blank">機場鐵路 T-money 卡</a>〉(2026 年 11 月 24 日)與〈<a href="https://www.koreaherald.com/article/10946522" rel="noopener" target="_blank">Google 韓國地圖計畫</a>〉(2026 年 11 月 23 日),皆於 11 月 26 日查閱。本次未能重新查閱、沿用前次查證內容:外交部關於 22 個國家與地區及 3 年效期的公告;仁川國際機場電子入境卡說明;國土交通部地圖資料出境核准(2026 年 2 月 27 日);首爾市 T-money、氣候同行卡與地鐵新售票機資訊(2026 年 3 月 16 日)。</p>
 
-<p class="sources">2026 年 11 月 27 日確認:Apple <a href="https://support.apple.com/zh-tw/118669" rel="noopener" target="_blank">在 iPhone 上設定 eSIM</a>(QR 碼、連結安裝)、<a href="https://support.apple.com/zh-tw/118227" rel="noopener" target="_blank">出國旅行時在 iPhone 上使用 eSIM</a>(電信業者鎖定、中國大陸與香港澳門的例外、開啟旅遊 eSIM、選擇行動數據號碼、原本號碼的漫遊費)、<a href="https://support.apple.com/zh-tw/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhone 使用手冊:行動數據設定</a>(數據漫遊)、<a href="https://support.apple.com/zh-tw/109317" rel="noopener" target="_blank">使用雙 SIM 卡</a>(一次只有一個號碼使用行動數據、各號碼的設定)、<a href="https://support.apple.com/zh-tw/102478" rel="noopener" target="_blank">無法設定 eSIM 時</a>;三星台灣 <a href="https://www.samsung.com/tw/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIM 卡管理工具 → 新增 eSIM → 掃描 QR 碼)、三星英國 <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">數據漫遊</a>、<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">雙 SIM 卡</a>(英文選單名稱為我們翻譯)、三星愛爾蘭 <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EID 位置,英文選單名稱為我們翻譯);WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money 餘額另外儲值);WOWPASS eSIM 預訂條款(安裝 QR 後不能退款——「有些賣家安裝後不能退款」的例子)。未能確認:Yesim、Klook 的 eSIM 商品頁(方案差異、退款條件)——兩個網站擋下自動連線,我們打不開。</p>
+<p class="sources">2026 年 11 月 27 日確認:Apple <a href="https://support.apple.com/zh-tw/118669" rel="noopener" target="_blank">在 iPhone 上設定 eSIM</a>(QR 碼、連結安裝)、<a href="https://support.apple.com/zh-tw/118227" rel="noopener" target="_blank">出國旅行時在 iPhone 上使用 eSIM</a>(電信業者鎖定、中國大陸與香港澳門的例外、開啟旅遊 eSIM、選擇行動數據號碼、原本號碼的漫遊費)、<a href="https://support.apple.com/zh-tw/guide/iphone/iph3dd5f213/ios" rel="noopener" target="_blank">iPhone 使用手冊:行動數據設定</a>(數據漫遊)、<a href="https://support.apple.com/zh-tw/109317" rel="noopener" target="_blank">使用雙 SIM 卡</a>(一次只有一個號碼使用行動數據、各號碼的設定)、<a href="https://support.apple.com/zh-tw/102478" rel="noopener" target="_blank">無法設定 eSIM 時</a>;三星台灣 <a href="https://www.samsung.com/tw/support/mobile-devices/galaxy-esim-and-supported-network-carriers/" rel="noopener" target="_blank">Galaxy eSIM</a>(SIM 卡管理工具 → 新增 eSIM → 掃描 QR 碼)、三星英國 <a href="https://www.samsung.com/uk/support/mobile-devices/how-do-i-turn-international-data-roaming-on-or-off-on-my-samsung-galaxy-device/" rel="noopener" target="_blank">數據漫遊</a>、<a href="https://www.samsung.com/uk/support/mobile-devices/how-to-use-or-manage-dual-sim-cards/" rel="noopener" target="_blank">雙 SIM 卡</a>(英文選單名稱為我們翻譯)、三星愛爾蘭 <a href="https://www.samsung.com/ie/support/mobile-devices/how-to-use-an-esim-with-your-galaxy-phone/" rel="noopener" target="_blank">eSIM</a>(EID 位置,英文選單名稱為我們翻譯);WOWPASS <a href="https://www.wowpass.io/zh-TW/guide" rel="noopener" target="_blank">使用說明</a>(T-money 餘額另外儲值);WOWPASS eSIM 預訂條款(安裝 QR 後不能退款——「有些賣家安裝後不能退款」的例子)。Klook「South Korea SKT Unlimited Data eSIM with Free T-Money Card」商品頁(營運者用瀏覽器打開的畫面,2026 年 11 月 27 日)(外國人專用、韓國護照無法認證、護照認證時間與通話儲值、數據、熱點與限速、天數、免費 T-money 與漫遊中心位置、不能用的手機、iPhone 與 Android 設定步驟、寄件地址)。未能確認:Yesim 商品頁和 Klook 的 SKT 5G eSIM 商品頁(方案差異、退款條件)——兩個網站擋下自動連線,我們打不開。</p>
