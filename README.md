@@ -15,6 +15,7 @@ Cloudflare Pages settings: **Build command** `python3 build.py`, **Build output 
 | `data/deals.json` | Deals board. Set `confirmed: true` once the store announces dates. Items disappear after `end` |
 | `data/affiliates.json` | Paste approved tracking URLs. Empty `url` hides the button everywhere |
 | `data/site.json` | Languages, menus, UI text, `base_url` (change when the domain is bought) |
+| `data/og.json` | Link-preview picture (og:image) per page: a photo the page already shows and credits. Run `python3 tools/og_cards.py` (needs Pillow) to make `static/og/<slug>.jpg`; unlisted pages get no picture |
 | `static/` | CSS, logo, favicon |
 
 ## Writing rules

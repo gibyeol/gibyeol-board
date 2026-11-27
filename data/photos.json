@@ -15,7 +15,8 @@
     ],
     "attribution": "Photo: AirportTerminalGuy, CC BY 4.0, via Wikimedia Commons (modified: light auto-contrast)",
     "share_alike": false,
-    "retrieved": "2026-11-26"
+    "retrieved": "2026-11-26",
+    "og_card": "static/og/e-arrival-card.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /e-arrival-card/ in all 4 languages, which the card links to."
   },
   {
     "file": "static/photo/airport-2.webp",
@@ -130,7 +131,8 @@
     "attribution": "Photo: Ki hoon, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast, 2 area(s) blurred (faces/plates, manual))",
     "share_alike": true,
     "retrieved": "2026-11-26",
-    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license.",
+    "og_card": "static/og/seoul-bus.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /seoul-bus/ in all 4 languages, which the card links to. Same license as the photo (share-alike) applies to this card."
   },
   {
     "file": "static/photo/bus-2.webp",
@@ -417,7 +419,8 @@
     "attribution": "Photo: Pkccccj, CC BY-SA 4.0, via Wikimedia Commons (modified: light auto-contrast)",
     "share_alike": true,
     "retrieved": "2026-11-26",
-    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license."
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license.",
+    "og_card": "static/og/olive-young.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /olive-young/ in all 4 languages, which the card links to. Same license as the photo (share-alike) applies to this card."
   },
   {
     "file": "static/photo/food-1.webp",
@@ -803,7 +806,8 @@
     "attribution": "Photo: Yiting, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped (top of pack), resized to 780x588, light auto-contrast, red boxes and numbers 1-2 added)",
     "share_alike": true,
     "retrieved": "2026-11-26",
-    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible on the pack; captions say it is a label example, not a recommendation."
+    "note": "BY-SA: this modified image must be published under the same license (CC BY-SA 4.0) with attribution and a link to the license. Brand visible on the pack; captions say it is a label example, not a recommendation.",
+    "og_card": "static/og/kbeauty-how-to-choose.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /kbeauty-how-to-choose/ in all 4 languages, which the card links to. Same license as the photo (share-alike) applies to this card."
   },
   {
     "file": "static/photo/oy-pick-sheet-mask.webp",
@@ -842,7 +846,8 @@
     "attribution": "Photo: LERK, CC BY-SA 4.0, via Wikimedia Commons (modified: resized to 780x439, light auto-contrast, 2 people blurred (manual), converted to WebP q82)",
     "share_alike": true,
     "retrieved": "2026-11-26",
-    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license. Used instead of static/photo/subway-1.webp because that version shows a flat grey block where a false face detection was blurred."
+    "note": "BY-SA: this modified image must be published under the same license with attribution and a link to the license. Used instead of static/photo/subway-1.webp because that version shows a flat grey block where a false face detection was blurred.",
+    "og_card": "static/og/seoul-subway.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /seoul-subway/ in all 4 languages, which the card links to. Same license as the photo (share-alike) applies to this card."
   },
   {
     "file": "static/fig/seoul-subway-exit-sign.webp",
@@ -1239,7 +1244,8 @@
     ],
     "attribution": "Photo: MNXANL, CC BY-SA 4.0, via Wikimedia Commons (modified: cropped, light auto-contrast)",
     "share_alike": true,
-    "retrieved": "2026-11-26"
+    "retrieved": "2026-11-26",
+    "og_card": "static/og/airport-to-seoul.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /airport-to-seoul/ in all 4 languages, which the card links to. Same license as the photo (share-alike) applies to this card."
   },
   {
     "file": "static/fig/seoul-subway-machine-yongsan.webp",
@@ -1359,7 +1365,8 @@
       "duty-free (ko, en, ja, zh-tw) downtown section"
     ],
     "retrieved": "2026-11-26",
-    "note": "Building exterior in a public street; store signage visible (trademark, descriptive use only)."
+    "note": "Building exterior in a public street; store signage visible (trademark, descriptive use only).",
+    "og_card": "static/og/duty-free.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /duty-free/ in all 4 languages, which the card links to."
   },
   {
     "file": "static/photo/customs-allowance-ko.webp",
@@ -1491,7 +1498,8 @@
     "used_on": [
       "shopping-streets Myeongdong landmark (4 langs)"
     ],
-    "retrieved": "2026-11-26"
+    "retrieved": "2026-11-26",
+    "og_card": "static/og/shopping-streets.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /shopping-streets/ in all 4 languages, which the card links to."
   },
   {
     "file": "static/photo/law-foreign-patient-art8-ko.webp",
@@ -1640,7 +1648,8 @@
     "retrieved": "2026-11-26",
     "used_on": [
       "daiso (ko,en,ja,zh-tw)"
-    ]
+    ],
+    "og_card": "static/og/daiso.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /daiso/ in all 4 languages, which the card links to."
   },
   {
     "file": "static/photo/cvs-cu-front.webp",
@@ -1744,6 +1753,7 @@
     "retrieved": "2026-11-26",
     "used_on": [
       "convenience-store (ko,en,ja,zh-tw)"
-    ]
+    ],
+    "og_card": "static/og/convenience-store.jpg: 1200x630 link-preview (og:image) crop of this file, scaled up about 1.5x and lightly sharpened (tools/og_cards.py, 2026-11-27); attribution written into the JPEG EXIF; the visible credit is on /convenience-store/ in all 4 languages, which the card links to."
   }
 ]
