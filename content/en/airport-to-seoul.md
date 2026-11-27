@@ -243,7 +243,7 @@ The Express timetable changed on 23 October 2026, when daily Express runs rose f
 
 <div class="tr-buy"><img src="/static/photo/tmoney-card.webp" alt="" width="499" height="316" loading="lazy" decoding="async"><p><b>T-money card, picked up at the airport.</b> Tap for the all-stop train, subway and buses. <span class="tr-credit">Photo: <a href="https://commons.wikimedia.org/wiki/File:T-money_card.jpg" rel="noopener" target="_blank">zisk</a>, Public domain (PD-self: released by the author), Wikimedia Commons</span></p></div>
 
-**Where and when to collect it (Klook product page, screens opened by the site operator on 28 November 2026):**
+**Where and when to collect it, and the notes below (all from the Klook product page, screens opened by the site operator on 28 November 2026):**
 
 | Terminal | Where to collect | Opening hours |
 |---|---|---|
@@ -251,7 +251,7 @@ The Express timetable changed on 23 October 2026, when daily Express runs rose f
 | Terminal 2 | **3F** Counter F, Travel Mate & bookstore (Travel Mate & Book Store) | 06:30–21:30 |
 
 - **At Terminal 2 it is on 3F.** You have to go up from the arrivals hall (1F).
-- **If you land late at night, you may not be able to collect it.** Book only if you can come out of the arrivals hall before closing time (Terminal 1 21:00, Terminal 2 21:30). If you are late, buy a card right away at the [B1 convenience store or the T-money machine in the airport railroad station](#buy-tmoney).
+- **If you land late at night, you may not be able to collect it.** Book only if you can come out of the arrivals hall before closing time (Terminal 1 21:00, Terminal 2 21:30). If you are late, buy one the way [step 3, "Buy and top up a T-money card"](#buy-tmoney) shows. We have not checked whether those places are open at night.
 - **Two products:** card only, or card + ₩10,000 loaded. You can collect it only on the date you chose, and cancellation is free up to 24 hours before.
 - **Children and teens:** for ages 6–12 and 13–19, after buying the card, register the date of birth with a passport at a convenience store counter to get the discount. Ages 0–5 ride free, except on trains (Klook's information).
 - **Top-up:** ₩1,000–90,000 at a time, and the card can hold up to ₩500,000. Top up at a subway station machine (including Incheon Airport station) or a convenience store with the T-money sign.
@@ -260,7 +260,7 @@ The Express timetable changed on 23 October 2026, when daily Express runs rose f
 
 <details class="tr-more"><summary><i class="ic ic-list-checks" aria-hidden="true"></i>After you buy: collecting the T-money card</summary>
 
-1. **Where and when:** go to the pickup point in the table above (Terminal 1: bookstore by Exit 7 on 1F, 07:00–21:00; Terminal 2: Counter F on 3F, 06:30–21:30). If your booking confirmation (voucher) names a different place, follow the confirmation. The confirmation arrives within a few minutes of paying.
+1. **Where and when:** go to the pickup point in the table above (Terminal 1: bookstore by Exit 7 on 1F, 07:00–21:00; Terminal 2: Counter F on 3F, 06:30–21:30). If your booking confirmation (voucher) names a different place, follow the confirmation. Klook says the confirmation arrives within a few minutes of paying, and to contact Klook customer support if it does not.
 2. **What to show:** the confirmation also says what to show. Save it on your phone before you fly.
 3. **Balance:** tap the card on a gate reader and the balance appears. If it is short, top up with cash at the machine, as in step 3 above.
 4. **If you can't collect it:** contact the seller (Klook) with your booking number, and meanwhile buy a card at the B1 convenience store or the T-money machine in the airport railroad station.
