@@ -2,7 +2,7 @@
 title: Nadri|韓国旅行の準備と買い物を、迷わず計画
 description: 電子入国申告、K-ETA、アプリ、お金、オリーブヤングのセール時期まで。公式情報で確認した韓国旅行ガイド。
 home: yes
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 <section class="front">
 <article class="lead">
@@ -25,7 +25,7 @@ updated: 2026-11-26
 
 {{dealcards:3}}
 
-<section class="sec"><div class="sec-h"><h2>旅の順番で</h2><p>各段階で知っておきたいことを一つか二つだけ</p></div><div class="cols"><div class="col"><h3>出発前</h3><h4>電子入国申告は72時間前から</h4><p>到着前72時間以内に、公式サイトだけで。似たアドレスの代行サイトは手数料を取ります。</p><a href="/ja/essentials/">出発前の準備</a></div><div class="col"><h3>到着日</h3><h4>電車かバスかはホテルで決まる</h4><p>ソウル駅の近くなら直通列車で約43分、大人13,000ウォン。明洞・江南ならリムジンバスの方が近くまで行けます。</p><a href="/ja/airport-to-seoul/">空港からソウルへ</a></div><div class="col"><h3>買い物</h3><h4>税金はレジでその場で引かれる</h4><p>免税店舗でレシート1枚が15,000ウォン以上100万ウォンまでなら、その場で還付。</p><a href="/ja/tax-refund/">タックスリファンド</a></div><div class="col"><h3>オリーブヤング</h3><h4>セール週に合わせる</h4><p>大きなセールは年4回、毎月25〜27日はオリヤンデー。日程が重なればその週にまとめ買い。</p><a href="/ja/olive-young/">オリーブヤング</a></div></div></section>
+<section class="sec"><div class="sec-h"><h2>旅の順番で</h2><p>各段階で知っておきたいことを一つか二つだけ</p></div><div class="cols"><div class="col"><h3>出発前</h3><h4>電子入国申告は72時間前から</h4><p>到着前72時間以内に、公式サイトだけで。似たアドレスの代行サイトは手数料を取ります。</p><a href="/ja/essentials/">出発前の準備</a></div><div class="col"><h3>到着日</h3><h4>電車かバスかはホテルで決まる</h4><p>ソウル駅の近くなら直通列車で約43分、大人13,000ウォン。明洞・江南ならリムジンバスの方が近くまで行けます。</p><a href="/ja/airport-to-seoul/">空港からソウルへ</a></div><div class="col"><h3>買い物</h3><h4>税金はレジでその場で引かれる</h4><p>免税店舗でレシート1枚が15,000ウォン以上100万ウォンまでなら、その場で還付。</p><a href="/ja/tax-refund/">タックスリファンド</a></div><div class="col"><h3>オリーブヤング</h3><h4>セール週に合わせる</h4><p>大きなセールは年4回(3・6・9・12月)、それぞれ約7日間。日程が重なればその週にまとめ買い。</p><a href="/ja/olive-young/">オリーブヤング</a></div></div></section>
 
 {{codes}}
 

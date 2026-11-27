@@ -177,7 +177,8 @@ def deal_dates(d, lang):
 def deals_board(lang, limit=None):
     ui, du = SITE["ui"][lang], DEAL_UI[lang]
     today = date.today()
-    items = [d for d in DEALS["items"] if lang in d.get("text", {}) and date.fromisoformat(d["end"]) >= today]
+    items = [d for d in DEALS["items"] if lang in d.get("text", {}) and lang not in d.get("board_hide", [])
+             and date.fromisoformat(d["end"]) >= today]
     live = sorted([d for d in items if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])
     soon = sorted([d for d in items if date.fromisoformat(d["start"]) > today], key=lambda d: d["start"])
     items = live + soon
@@ -331,9 +332,10 @@ def seal(text="확인"):
 
 
 def live_items(lang):
+    """Entries shown in this language: not ended, and not held off it ("board_hide": [langs], e.g. a visitor can't use it)."""
     today = date.today()
     return [d for d in DEALS["items"] if d.get("text", {}).get(lang, {}).get("title")
-            and date.fromisoformat(d["end"]) >= today]
+            and lang not in d.get("board_hide", []) and date.fromisoformat(d["end"]) >= today]
 
 
 def home_items(lang):
