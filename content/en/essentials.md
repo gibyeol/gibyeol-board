@@ -5,6 +5,7 @@ lede: Six things to settle before your flight, in the order you will need them. 
 section: essentials
 disclosure: yes
 updated: 2026-11-27
+modified: 2026-11-28
 ---
 ## Your first hour, if these are done
 
@@ -51,6 +52,8 @@ Maps, taxis, translation and QR-code menus all run through your phone. Our call:
 **Check your phone first:** an iPhone XS or XR or later works if **Settings → General → About → Carrier Lock** says "No SIM Restrictions". On a Galaxy, an EID under **Settings → About phone → Status** means it has eSIM (the EID is also printed on the box). If your Galaxy came from a carrier, ask that carrier whether it is locked. Exceptions (Apple): in China mainland only iPhone 18 Pro, 18 Pro Max, iPhone Duo, 17e and iPhone Air support eSIM, and in Hong Kong and Macao some iPhone models use Dual SIM with two nano-SIM cards. If your iPhone was bought there, check the model first.
 
 {{fig:essentials-3|eSIM, SIM or pocket wifi: what each asks of you}}
+
+<span id="esim-pick"></span>
 
 **Which one:** for data only, any of the buttons below will do (the last one is for foreign passport holders only). If you also need calls and texts in Korea, pick the last one, Klook's "SKT Unlimited Data eSIM". Of the products below, it is the only one we have confirmed from its product page to include calls and texts. The last one is for foreign passport holders only (Korean passports cannot be verified).
 

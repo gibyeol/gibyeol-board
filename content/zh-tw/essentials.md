@@ -5,6 +5,7 @@ lede: 出發前要決定的 6 件事,依照用到的順序排好。韓國入境�
 section: essentials
 disclosure: yes
 updated: 2026-11-27
+modified: 2026-11-28
 ---
 ## 這些先辦好,落地後的第一個小時
 
@@ -51,6 +52,8 @@ K-ETA 是免簽入境韓國時的電子旅行許可,費用 10,000 韓元,效期�
 **先確認你的手機:** iPhone 是 XS、XR 以後的機型,而且**設定 → 一般 → 關於本機 → 電信業者鎖定**顯示「沒有 SIM 卡限制」就可以。Galaxy 在**設定 → 關於手機 → 狀態資訊**看得到 EID,就是支援 eSIM 的手機(EID 也印在手機盒上)。如果 Galaxy 是向電信業者買的,有沒有鎖定請問那家電信業者。例外(Apple):在中國大陸,只有 iPhone 18 Pro、18 Pro Max、iPhone Duo、17e 和 iPhone Air 支援 eSIM;在香港和澳門,部分 iPhone 機型的雙 SIM 卡是使用兩張 nano-SIM 卡。在這些地區買的 iPhone,請先確認機型。
 
 {{fig:essentials-3|eSIM、SIM 卡、Wi-Fi 分享器:各自要注意什麼}}
+
+<span id="esim-pick"></span>
 
 **怎麼選:** 只要上網,下面哪個按鈕都可以(最下面那款只限持外國護照的人)。如果在韓國也要打電話、收發簡訊,請選最下面 Klook 的「SKT 無限數據 eSIM」。下面這幾款商品中,我們從商品頁確認能用電話和簡訊的只有這一款。最下面這款只有持外國護照的人能用(韓國護照不行)。
 
