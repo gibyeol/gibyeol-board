@@ -334,6 +334,11 @@ def live_items(lang):
             and date.fromisoformat(d["end"]) >= today]
 
 
+def home_items(lang):
+    """live_items minus entries held off this language's home ("home_hide": [langs]); the deals board still lists them."""
+    return [d for d in live_items(lang) if lang not in d.get("home_hide", [])]
+
+
 def dday_html(d, lang):
     hu, today = HOME_UI[lang], date.today()
     s, e = date.fromisoformat(d["start"]), date.fromisoformat(d["end"])
@@ -379,7 +384,7 @@ def first_sentence(t):
 
 def deal_cards(lang, n=3):
     today = date.today()
-    pool = sorted([d for d in live_items(lang) if d.get("hero") and d.get("status") == "confirmed"
+    pool = sorted([d for d in home_items(lang) if d.get("hero") and d.get("status") == "confirmed"
                    and date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])
     picked, cats = [], set()
     for d in pool:  # one per category, so three different reasons to look
@@ -401,7 +406,7 @@ def deal_cards(lang, n=3):
 
 def countdown(lang, n=5):
     today, hu, L = date.today(), HOME_UI[lang], SITE["languages"][lang]
-    items = sorted([d for d in live_items(lang) if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])[:n]
+    items = sorted([d for d in home_items(lang) if date.fromisoformat(d["start"]) <= today], key=lambda d: d["end"])[:n]
     rows = ""
     for d in items:
         dd, hot = dday_html(d, lang)
@@ -429,7 +434,7 @@ def trending(lang):
 def codes_table(lang):
     hu, du = HOME_UI[lang], DEAL_UI[lang]
     rows = ""
-    for d in sorted(live_items(lang), key=lambda d: d["end"]):
+    for d in sorted(home_items(lang), key=lambda d: d["end"]):
         for c in d.get("code", []):
             cn = c.get("note", {}).get(lang, "")
             rows += (f'<tr data-start="{d["start"]}" data-end="{d["end"]}"><td><code>{html.escape(c["value"])}</code></td>'
