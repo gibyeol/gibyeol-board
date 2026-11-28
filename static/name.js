@@ -216,6 +216,8 @@
   function roughWord(w) {
     // Mc/Mac surnames are read 맥 (McGregor 맥그레거, as 맥도널드·맥아더 in the official examples); 2026-11-28
     // only Mc + 3 letters or more: Mac- also starts ordinary names (Mack, Macy, Machado)
+    // official examples write 매 before c/k/q (매카시, 매캔), 맥 otherwise (맥도널드)
+    if (/^mc[ckq].{2,}/.test(w)) return '매' + roughWord(w.slice(2));
     if (/^mc.{3,}/.test(w)) return '맥' + roughWord(w.slice(2));
     w = w.replace(/^wr/, 'r').replace(/^kn/, 'n').replace(/^ps/, 's').replace(/(.)\1/g, '$1').replace(/([^aeiouy])e$/, '$1').replace(/([^aeiou])es$/, '$1s');
     var toks = [], i = 0;

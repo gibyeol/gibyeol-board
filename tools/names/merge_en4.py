@@ -36,6 +36,7 @@ FIX = {"lee": {"meaning": None, "origin": None, "note": "Lee is also the Korean/
        "lori": {"of": None, "note": "BtN: Laura, Lorraine"},
        "mel": {"of": None, "note": "BtN: Melvin, Melanie, Melissa"},
        "nguyen": {"ko_alt": [], "note": "윈 had 1 usage example against 4 for 응우옌: not shown first"},
+       "son": {"skip": True, "note": "Vietnamese Sơn (선, 山) shares the spelling with the Korean surname Son (손흥민): not shown until both can be shown (review 2026-11-28)"},
        "kim": {"skip": True, "note": "Kim: an English first name (킴) and the Korean surname (김); keep the existing entry"}}
 
 

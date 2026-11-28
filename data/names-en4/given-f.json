@@ -36,8 +36,10 @@
   "rank_src": "en.wikipedia 'List of most popular given names' 표 United States (2025) 여자 2위 (https://en.wikipedia.org/wiki/List_of_most_popular_given_names) / en.wikipedia 'List of most popular given names by state in the United States' 2025 여자 표: 51개 주·DC 중 49곳 상위10(그 주들 평균 2.3위) (https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States#2025)",
   "ko_std": "샬럿",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchCategory=know4&searchQuery=Charlotte (용례 '스워브릭, 클로이 (샬럿) Swarbrick, Chlöe (Charlotte)' / '쿰스, 제인 샬럿 Jane Charlotte Coombs'; 일치 9건)",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "샬롯"
+  ],
+  "ko_alt_src": "한국어 위키 영어권 인물 예: Charlotte Sullivan, Charlotte d'Amboise, Charlotte Perkins Gilman — '샬롯' 표기 (독립 검토 판정 '합쳐도 됨')",
   "ja": "シャーロット",
   "ja_src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%83%88 (en 'Charlotte (given name)' 문서의 언어 링크)",
   "zh": "夏綠蒂",
@@ -407,8 +409,10 @@
   "rank_src": "en.wikipedia 'List of most popular given names by state in the United States' 2025 여자 표: 51개 주·DC 중 14곳 상위10(그 주들 평균 7.1위) (https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States#2025)",
   "ko_std": "에이바",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchCategory=know4&searchQuery=Ava (용례 '에이바 Ava' / '듀버네이, 에이바 DuVernay, Ava'; 일치 2건)",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "에바"
+  ],
+  "ko_alt_src": "한국어 위키 영어권 인물 예: Ava Gardner, Ava Fabian — '에바' 표기 (독립 검토 판정 '합쳐도 됨')",
   "ja": "エヴァ",
   "ja_src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B4%E3%82%A1%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%89%E3%83%8A%E3%83%BC (Ava Gardner, BtN에 적힌 유명 인물) — 검색 'Ava' 결과 중 1건",
   "zh": "艾娃",
@@ -6056,15 +6060,15 @@
   "zh_src": "zh.wikipedia '黃垂' (zh-tw 표시 제목 같음) (en: Hoàng Thùy) https://zh.wikipedia.org/zh-tw/%E9%BB%83%E5%9E%82 / zh.wikipedia '阮氏碧垂' (zh-tw 표시 제목 같음) (en: Nguyễn Thị Bích Thùy) https://zh.wikipedia.org/zh-tw/%E9%98%AE%E6%B0%8F%E7%A2%A7%E5%9E%82",
   "origin": "Vietnamese, Sino-Vietnamese",
   "meaning": {
-   "en": "Thùy: 垂 \"let down, suspend, hang\"",
-   "ko": "Thùy: 垂 \"드리우다\"",
-   "ja": "Thùy：垂「垂らす」",
-   "zh": "Thùy：垂「垂下」"
+   "en": "Thủy 水 \"water\" or Thùy 垂 \"let down, hang\" (the spelling without tone marks can be either)",
+   "ko": "Thủy 水 \"물\" 또는 Thùy 垂 \"드리우다\" (성조 없는 철자로는 어느 쪽인지 모름)",
+   "ja": "Thủy 水「水」またはThùy 垂「垂らす」（声調記号なしでは区別できない）",
+   "zh": "Thủy 水「水」或 Thùy 垂「垂下」（不帶聲調無法區分）"
   },
-  "meaning_src": "https://www.behindthename.com/name/thu11y",
+  "meaning_src": "https://www.behindthename.com/name/thu27y / https://www.behindthename.com/name/thu11y",
   "c": "m",
   "nicks": [],
-  "note": "원 철자 Thùy. 성조 없이 쓰면 Thủy(水: 黃氏清水 Huỳnh Thị Thanh Thủy, ja フイン・ティ・タン・トゥイ)와 같음. ja 예시는 'トゥイリン'(Thùy Linh)으로 붙어 있음. 국립국어원 용례 못 찾음(Thuy·투이 검색), 한국어 위키 '투이' 검색은 다른 낱말이 섞여 넣지 않음 / 목록 표기는 Thùy. 성조 없이 쓰면 Thủy(水 \"물\", Behind the Name thu27y)와 같은 철자 / 지역: Vietnam"
+  "note": "원 철자 Thùy. 성조 없이 쓰면 Thủy(水: 黃氏清水 Huỳnh Thị Thanh Thủy, ja フイン・ティ・タン・トゥイ)와 같음. ja 예시는 'トゥイリン'(Thùy Linh)으로 붙어 있음. 국립국어원 용례 못 찾음(Thuy·투이 검색), 한국어 위키 '투이' 검색은 다른 낱말이 섞여 넣지 않음 / 목록 표기는 Thùy. 성조 없이 쓰면 Thủy(水 \"물\", Behind the Name thu27y)와 같은 철자 / 지역: Vietnam | 독립 검토 2026-11-28(B) 반영: 뜻 두 가지"
  },
  {
   "key": "hoa",

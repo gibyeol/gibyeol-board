@@ -5824,15 +5824,15 @@
   "zh_src": "zh.wikipedia '范遵' (zh-tw 표시 제목 같음) (en: Phạm Tuân) https://zh.wikipedia.org/zh-tw/%E8%8C%83%E9%81%B5 / zh.wikipedia '阮遵' (zh-tw 표시 제목 같음) (en: Nguyễn Tuân) https://zh.wikipedia.org/zh-tw/%E9%98%AE%E9%81%B5",
   "origin": "Vietnamese, Sino-Vietnamese",
   "meaning": {
-   "en": "Tuân: 遵 \"obey, follow, honour\" or 詢 \"ask, inquire\"",
-   "ko": "Tuân: 遵 \"따르다, 받들다\" 또는 詢 \"묻다\"",
-   "ja": "Tuân：遵「従う、敬う」または詢「尋ねる」",
-   "zh": "Tuân：遵「遵從、尊崇」或詢「詢問」"
+   "en": "Tuấn 俊 \"handsome, talented\" or Tuân 遵 \"obey, follow\" (the spelling without tone marks can be either)",
+   "ko": "Tuấn 俊 \"잘생긴, 재능 있는\" 또는 Tuân 遵 \"따르다\" (성조 없는 철자로는 어느 쪽인지 모름)",
+   "ja": "Tuấn 俊「容姿端麗、才能がある」またはTuân 遵「従う」（声調記号なしでは区別できない）",
+   "zh": "Tuấn 俊「英俊、有才能」或 Tuân 遵「遵從」（不帶聲調無法區分）"
   },
-  "meaning_src": "https://www.behindthename.com/name/tua13n / https://www.behindthename.com/name/tua60n",
+  "meaning_src": "https://www.behindthename.com/name/tua60n / https://www.behindthename.com/name/tua13n",
   "c": "m",
   "nicks": [],
-  "note": "원 철자 Tuân. Tuấn이면 zh 俊(黃英俊 Hoàng Anh Tuấn, 石金俊 Thạch Kim Tuấn). 베트남어 한글 표기는 성조를 구별하지 않음 / 목록 표기는 Tuân. 성조 없이 쓰면 Tuấn(俊 \"잘생긴, 재능 있는\", Behind the Name tua60n)과 같은 철자가 됨 / 지역: Vietnam"
+  "note": "원 철자 Tuân. Tuấn이면 zh 俊(黃英俊 Hoàng Anh Tuấn, 石金俊 Thạch Kim Tuấn). 베트남어 한글 표기는 성조를 구별하지 않음 / 목록 표기는 Tuân. 성조 없이 쓰면 Tuấn(俊 \"잘생긴, 재능 있는\", Behind the Name tua60n)과 같은 철자가 됨 / 지역: Vietnam | 독립 검토 2026-11-28(B) 반영: 뜻 두 가지"
  },
  {
   "key": "hung",
@@ -11521,12 +11521,12 @@
   "of": null,
   "sex": "m",
   "rank_src": "en.wikipedia 'List of most popular given names' 표: Greece (2020-22) 남자 1위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
-  "ko_std": "이오르고스",
-  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Giorgos&searchCategory=know4 (검색어 Giorgos, Georgios, Yiorgos / 그리스 인물 용례 이오르고스 2건, 예: '세페리아데스, 이오르고스 (스틸리아누) (Giorgos (Stylianou) Seferiades) — 역대 노벨 문학상 수상자 - 1963, 시인, 외교관, 별칭 게오르기오스 Georgios, 또는 조지 세페리스 George Seferis (그리')",
+  "ko_std": "요르고스",
+  "ko_std_src": "국립국어원 용례 '요르고스 스타타키스'(사람 기준 1:1), 한국어 위키 '요르고스 세페리스'",
   "ko_alt": [
-   "요르고스"
+   "이오르고스"
   ],
-  "ko_alt_src": "'요르고스' 한국어 위키백과 인물 문서 2건, 예: '요르고스 카라구니스'(en: Giorgos Karagounis) https://ko.wikipedia.org/wiki/%EC%9A%94%EB%A5%B4%EA%B3%A0%EC%8A%A4_%EC%B9%B4%EB%9D%BC%EA%B5%AC%EB%8B%88%EC%8A%A4, '요르고스 쿠다스'(en: Giorgos Koudas) https://ko.wikipedia.org/wiki/%EC%9A%94%EB%A5%B4%EA%B3%A0%EC%8A%A4_%EC%BF%A0%EB%8B%A4%EC%8A%A4",
+  "ko_alt_src": "국립국어원 '이오르고스 세페리아데스'(같은 사람 2건=1명)",
   "ja": "イオルゴス",
   "ja_src": "ja.wikipedia 'イオルゴス・アルカイオス' (en: Giorgos Alkaios) https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AA%E3%83%AB%E3%82%B4%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%AB%E3%82%A4%E3%82%AA%E3%82%B9",
   "zh": "喬治",
@@ -11541,7 +11541,7 @@
   "meaning_src": "https://www.behindthename.com/name/giorgos / https://www.behindthename.com/name/george",
   "c": "h",
   "nicks": [],
-  "note": "ja·zh·ko_alt는 en 제목이 Giorgos 철자인 인물만 셈(다른 철자 인물 제외, 철자별 최대 4명); 국립국어원 그리스 인물 용례의 다른 표기: 게오르기오스 1건; ja는 인물 문서 1건 근거; Behind the Name상 같은 뿌리의 기존 key: george"
+  "note": "ja·zh·ko_alt는 en 제목이 Giorgos 철자인 인물만 셈(다른 철자 인물 제외, 철자별 최대 4명); 국립국어원 그리스 인물 용례의 다른 표기: 게오르기오스 1건; ja는 인물 문서 1건 근거; Behind the Name상 같은 뿌리의 기존 key: george | 독립 검토 2026-11-28(B) 반영: 요르고스 앞"
  },
  {
   "key": "konstantinos",
@@ -11808,10 +11808,10 @@
   "of": null,
   "sex": "m",
   "rank_src": "en.wikipedia 'List of most popular given names' 표: Norway (2025) 남자 8위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names / en.wikipedia 'Finnish name' 표(인구등록센터, 1970년대 이후 핀란드 거주자 이름 상위 10): 남자 2위 Johannes 236,343명 https://en.wikipedia.org/wiki/Finnish_name",
-  "ko_std": "요한네스",
-  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Johannes&searchCategory=know4 (검색어 Johannes / 노르웨이·핀란드 인물 용례 요한네스 1건, 예: '누르미, 파보 요한네스 (Nurmi, Paavo Johannes) — 핀란드의 장거리 경주 선수(1897~1973).')",
+  "ko_std": "요하네스",
+  "ko_std_src": "국립국어원 용례 요하네스 18건 / 요한네스 1건(핀란드 1명), 위키 인물 6",
   "ko_alt": [
-   "요하네스"
+   "요한네스"
   ],
   "ko_alt_src": "'요하네스' 한국어 위키백과 인물 문서 6건, 예: '요하네스 브람스'(en: Johannes Brahms) https://ko.wikipedia.org/wiki/%EC%9A%94%ED%95%98%EB%84%A4%EC%8A%A4_%EB%B8%8C%EB%9E%8C%EC%8A%A4, '요하네스 가이스'(en: Johannes Geis) https://ko.wikipedia.org/wiki/%EC%9A%94%ED%95%98%EB%84%A4%EC%8A%A4_%EA%B0%80%EC%9D%B4%EC%8A%A4",
   "ja": "ヨハネス",
@@ -11832,7 +11832,7 @@
    "hannes",
    "hannu"
   ],
-  "note": "국립국어원 다른 나라 인물 용례 표기: 요하네스 18건, 요하너스 2건; ja 다른 표기: ヨハンネス 3건(대 ヨハネス 5건); Behind the Name상 같은 뿌리의 기존 key: john"
+  "note": "국립국어원 다른 나라 인물 용례 표기: 요하네스 18건, 요하너스 2건; ja 다른 표기: ヨハンネス 3건(대 ヨハネス 5건); Behind the Name상 같은 뿌리의 기존 key: john | 독립 검토 2026-11-28(B) 반영: 요하네스 앞"
  },
  {
   "key": "olav",
@@ -14155,16 +14155,16 @@
   "of": null,
   "sex": "m",
   "rank_src": "en.wikipedia 'List of most popular given names' 표(남자): Algeria (census, 2010) 10위('Djamel'), Sudan (2017, unofficial) 5위('Jamal') https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
-  "ko_std": "저말",
-  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Jamal&searchCategory=know4 (다른 지역 인물 용례(영문 질의) 저말 3건; 질의별 확인: Jamal 10건 중 10건 확인, Djamel 0건 중 0건 확인, Jamel 0건 중 0건 확인; 예: '드러먼드, 안드레이 (저말) (Drummond, Andre (Jamal)) — 미국 농구 선수(1993~ ).')",
+  "ko_std": "자말",
+  "ko_std_src": "https://korean.go.kr 용례 '카슈끄지, 자말'(사우디 언론인) · 한국어 위키 본문 자말 482 / 저말 34",
   "ko_alt": [
-   "자말"
+   "저말"
   ],
-  "ko_alt_src": "근거: 한국어 위키백과 본문 검색 '자말' totalhits 482, 문서 예: '자말 카슈끄지', '자말 러셀스' / 인물 문서 '자말 무시알라'(en: Jamal Musiala)",
+  "ko_alt_src": "국립국어원 미국·캐나다·독일 선수 용례 3건 '저말'",
   "ja": "ジャマル",
   "ja_src": "ja.wikipedia 'ジャマル・ムシアラ' (en: Jamal Musiala) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%AB%E3%83%BB%E3%83%A0%E3%82%B7%E3%82%A2%E3%83%A9 / ja.wikipedia 'ジャマル・カショギ' (en: Jamal Khashoggi) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%AB%E3%83%BB%E3%82%AB%E3%82%B7%E3%83%A7%E3%82%AE",
-  "zh": "賈馬爾",
-  "zh_src": "zh.wikipedia '贾马尔·穆西亚拉' zh-tw 표시 제목 '賈馬爾·穆西亞拉' (en: Jamal Musiala) https://zh.wikipedia.org/zh-tw/%E8%B4%BE%E9%A9%AC%E5%B0%94%C2%B7%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89 / zh.wikipedia '贾马尔·穆雷' zh-tw 표시 제목 '賈馬爾·穆雷' (en: Jamal Murray) https://zh.wikipedia.org/zh-tw/%E8%B4%BE%E9%A9%AC%E5%B0%94%C2%B7%E7%A9%86%E9%9B%B7",
+  "zh": "賈邁勒",
+  "zh_src": "zh.wikipedia Jamal Khashoggi 문서 표기 賈邁勒(아랍 인물)",
   "origin": "Arabic",
   "meaning": {
    "en": "beauty",
@@ -14175,7 +14175,7 @@
   "meaning_src": "https://www.behindthename.com/name/jamal",
   "c": "h",
   "nicks": [],
-  "note": "국립국어원 용례에 아랍권·이란·아프가니스탄·남아시아(인도·파키스탄·방글라데시·네팔·스리랑카)·튀르키예 인물이 없어 다른 지역 인물 표기를 씀 / ja 문서마다 표기 다름: ジャマル(Jamal Musiala, Jamal Khashoggi), ジャマール(Jamal Murray, Jamal Crawford), ジャメル(Djamel Belmadi) / zh 문서마다 표기 다름: 賈馬爾(Jamal Musiala, Jamal Murray), 賈邁勒(Jamal Khashoggi, Djamel Belmadi)"
+  "note": "국립국어원 용례에 아랍권·이란·아프가니스탄·남아시아(인도·파키스탄·방글라데시·네팔·스리랑카)·튀르키예 인물이 없어 다른 지역 인물 표기를 씀 / ja 문서마다 표기 다름: ジャマル(Jamal Musiala, Jamal Khashoggi), ジャマール(Jamal Murray, Jamal Crawford), ジャメル(Djamel Belmadi) / zh 문서마다 표기 다름: 賈馬爾(Jamal Musiala, Jamal Murray), 賈邁勒(Jamal Khashoggi, Djamel Belmadi) | 독립 검토 2026-11-28(B) 반영: 자말 앞·저말 뒤, zh 賈馬爾(비아랍 인물)→賈邁勒"
  },
  {
   "key": "ayoub",
@@ -14402,8 +14402,8 @@
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Abdulaziz&searchCategory=know4 (아랍권 인물 용례(영문 질의) 압둘라지즈 2건; 질의별 확인: Abdulaziz 7건 중 7건 확인, Abdelaziz 4건 중 4건 확인; 예: '압둘라지즈 나시르 알오와이스 (Abdulaziz Nasir Al-Owais) — 주한 외국 대사 - 아랍에미리트')",
   "ko_alt": [],
   "ko_alt_src": null,
-  "ja": "アブデュルアズィズ",
-  "ja_src": "ja.wikipedia 'アブデュルアズィズ' (en: Abdulaziz) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%87%E3%83%A5%E3%83%AB%E3%82%A2%E3%82%BA%E3%82%A3%E3%82%BA",
+  "ja": "アブドゥルアズィーズ",
+  "ja_src": "ja.wikipedia 'アブドゥルアズィーズ・イブン・サウード'(en Ibn Saud)",
   "zh": "阿卜杜勒-阿齊茲",
   "zh_src": "zh.wikipedia '阿卜杜勒-阿齊茲一世' zh-tw 표시 제목 '阿卜杜勒-阿齊茲一世' (en: Abdulaziz) https://zh.wikipedia.org/zh-tw/%E9%98%BF%E5%8D%9C%E6%9D%9C%E5%8B%92-%E9%98%BF%E9%BD%8A%E8%8C%B2%E4%B8%80%E4%B8%96",
   "origin": "Arabic",
@@ -14416,7 +14416,7 @@
   "meaning_src": "https://www.behindthename.com/name/abdulaziz",
   "c": "h",
   "nicks": [],
-  "note": "en 'Abdulaziz' 문서는 오스만 술탄 압뒬아지즈 문서라 ja·zh 표기가 튀르키예식일 수 있음(아랍권 인물 표기와 다를 수 있음) / 국립국어원 용례 표기가 갈림: 압둘라지즈 2건, 압델라지즈 1건 / 국립국어원 근거 용례 적음(2건) / ja: 이 이름을 가진 인물 문서의 일본어판이 없어 en 'Abdulaziz' 문서의 일본어판 제목에서 가져옴 / zh: 이 이름을 가진 인물 문서의 중국어판이 없어 en 'Abdulaziz' 문서의 중국어판 제목에서 가져옴 / 뜻은 Behind the Name Abdulaziz→Abd al-Aziz 문서 https://www.behindthename.com/name/abd00al01aziz"
+  "note": "en 'Abdulaziz' 문서는 오스만 술탄 압뒬아지즈 문서라 ja·zh 표기가 튀르키예식일 수 있음(아랍권 인물 표기와 다를 수 있음) / 국립국어원 용례 표기가 갈림: 압둘라지즈 2건, 압델라지즈 1건 / 국립국어원 근거 용례 적음(2건) / ja: 이 이름을 가진 인물 문서의 일본어판이 없어 en 'Abdulaziz' 문서의 일본어판 제목에서 가져옴 / zh: 이 이름을 가진 인물 문서의 중국어판이 없어 en 'Abdulaziz' 문서의 중국어판 제목에서 가져옴 / 뜻은 Behind the Name Abdulaziz→Abd al-Aziz 문서 https://www.behindthename.com/name/abd00al01aziz | 독립 검토 2026-11-28(B) 반영: ja 튀르키예식 アブデュルアズィズ→アラブ식"
  },
  {
   "key": "osama",
@@ -14590,8 +14590,8 @@
   "ko_alt_src": null,
   "ja": "ラヒーム",
   "ja_src": "ja.wikipedia 'ラヒーム・スターリング' (en: Raheem Sterling) https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%92%E3%83%BC%E3%83%A0%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0 / ja.wikipedia 'ラヒーム・モスタート' (en: Raheem Mostert) https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%92%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%A2%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88",
-  "zh": "拉謙",
-  "zh_src": "zh.wikipedia '拉謙·史達寧' zh-tw 표시 제목 '拉謙·史達寧' (en: Raheem Sterling) https://zh.wikipedia.org/zh-tw/%E6%8B%89%E8%AC%99%C2%B7%E5%8F%B2%E9%81%94%E5%AF%A7",
+  "zh": null,
+  "zh_src": null,
   "origin": "Arabic",
   "meaning": {
    "en": "merciful, kind, compassionate",
@@ -14602,7 +14602,7 @@
   "meaning_src": "https://www.behindthename.com/name/rahim",
   "c": "h",
   "nicks": [],
-  "note": "국립국어원 근거 용례 적음(1건)"
+  "note": "국립국어원 근거 용례 적음(1건) | 독립 검토 2026-11-28(B) 반영: zh 拉謙 뺌(Raheem Sterling 광둥어식)"
  },
  {
   "key": "shahid",
