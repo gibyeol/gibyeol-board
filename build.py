@@ -686,18 +686,25 @@ def page(lang, meta, body_html, path, alternates):
 
 
 def report_box(lang, meta, path):
-    """Guide pages get an 'out of date?' box with a prefilled email (no backend needed)."""
+    """Every page ends with 'anything wrong or missing?' and a short form (owner 2026-11-28 [7eb4ec94#4841] [7eb4ec94#4885]:
+    "입력칸이 열리면 최소한의 양식을 만들어서 같이 띄우는걸로하자"; form = kind + details, chosen in the question window).
+    Mock-up: the form is not connected to anything yet (storage and spam protection are decided with the owner first)."""
     ui = SITE["ui"][lang]
-    if meta.get("home") or not meta.get("updated") or meta.get("report") == "no" or "report_cta" not in ui:
+    if "fb_title" not in ui:
         return ""
-    from urllib.parse import quote
-    url = SITE["base_url"] + path
-    href = (f"mailto:{SITE['contact_email']}?subject={quote(ui['report_subject'] + ': ' + meta.get('title', ''))}"
-            f"&body={quote(ui['report_mail'].format(url=url))}")
-    return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["report_title"]}</h2>'
-            f'<p>{ui["report_body"].format(date=meta["updated"])}</p>'
-            f'<p><a class="report-btn" href="{html.escape(href)}">{ui["report_cta"]}</a> '
-            f'<a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
+    date = ""
+    if not meta.get("home") and meta.get("updated") and meta.get("report") != "no":
+        date = f'<p>{ui["fb_date"].format(date=meta["updated"])}</p>'
+    kinds = "".join(f'<label class="fb-kind"><input type="radio" name="kind" value="{k}" required> {ui["fb_kinds"][n]}</label>'
+                    for n, k in enumerate(("wrong", "missing", "other")))
+    return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["fb_title"]}</h2>{date}'
+            f'<details class="fb"><summary class="report-btn">{ui["fb_open"]}</summary>'
+            f'<form class="fb-form" data-page="{html.escape(path)}" onsubmit="return false">'
+            f'<fieldset><legend>{ui["fb_kind"]}</legend>{kinds}</fieldset>'
+            f'<label class="fb-body">{ui["fb_body"]}<textarea name="body" rows="3" maxlength="2000" required '
+            f'placeholder="{html.escape(ui["fb_ph"])}"></textarea></label>'
+            f'<p class="fb-note">{ui["fb_note"]}</p><button type="submit" class="report-btn">{ui["fb_send"]}</button></form></details>'
+            f'<p><a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
 
 
 def url_for(lang, slug):

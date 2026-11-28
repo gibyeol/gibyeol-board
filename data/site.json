@@ -94,7 +94,20 @@
       "consent_text": "We use affiliate cookies (Travelpayouts, Skimlinks) to credit bookings and purchases made through our links. They load only if you accept.",
       "consent_accept": "Accept",
       "consent_reject": "Reject",
-      "consent_more": "Details"
+      "consent_more": "Details",
+      "fb_title": "Is anything on this page wrong or missing?",
+      "fb_date": "Last checked on {date}. Tell us and we will re-check it against the official source.",
+      "fb_open": "Tell us",
+      "fb_kind": "What is it about?",
+      "fb_kinds": [
+        "Wrong information",
+        "Missing information",
+        "Something else"
+      ],
+      "fb_body": "Details",
+      "fb_ph": "e.g. It is exit 3, not exit 2",
+      "fb_send": "Send",
+      "fb_note": "We automatically include which page you are on. No name or email needed."
     },
     "ja": {
       "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
@@ -167,7 +180,20 @@
       "consent_text": "リンク経由の予約・購入を記録するため、提携クッキー(Travelpayouts、Skimlinks)を使います。同意された場合のみ読み込みます。",
       "consent_accept": "同意する",
       "consent_reject": "拒否する",
-      "consent_more": "詳しく"
+      "consent_more": "詳しく",
+      "fb_title": "このページに間違いや足りない情報はありますか?",
+      "fb_date": "最終確認日は{date}です。教えていただければ、公式情報で確認し直します。",
+      "fb_open": "報告する",
+      "fb_kind": "どんな内容ですか?",
+      "fb_kinds": [
+        "情報の誤り",
+        "情報の不足",
+        "その他"
+      ],
+      "fb_body": "内容",
+      "fb_ph": "例: 2番出口ではなく3番出口です",
+      "fb_send": "送信",
+      "fb_note": "どのページから送ったかは自動で伝わります。名前やメールアドレスは必要ありません。"
     },
     "zh-tw": {
       "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
@@ -240,7 +266,20 @@
       "consent_text": "我們使用聯盟 Cookie(Travelpayouts、Skimlinks)記錄經由連結的預訂與購買,只有在你同意後才會載入。",
       "consent_accept": "同意",
       "consent_reject": "拒絕",
-      "consent_more": "詳細"
+      "consent_more": "詳細",
+      "fb_title": "這一頁有錯誤或缺少的資訊嗎?",
+      "fb_date": "最後確認日期是 {date}。告訴我們,我們會再依官方資料確認。",
+      "fb_open": "告訴我們",
+      "fb_kind": "是哪一類問題?",
+      "fb_kinds": [
+        "資訊有誤",
+        "缺少資訊",
+        "其他"
+      ],
+      "fb_body": "內容",
+      "fb_ph": "例如:不是 2 號出口,是 3 號出口",
+      "fb_send": "送出",
+      "fb_note": "系統會自動附上你所在的頁面。不需要姓名或電子郵件。"
     },
     "ko": {
       "tagline": "한국 여행을 더 쉽게. 확인한 정보로 여행·쇼핑·문화를 안내해요.",
@@ -313,7 +352,20 @@
       "consent_text": "예약·구매가 우리 링크에서 왔는지 기록하려고 제휴 쿠키(Travelpayouts, Skimlinks)를 써요. 동의하실 때만 불러와요.",
       "consent_accept": "동의",
       "consent_reject": "거절",
-      "consent_more": "자세히"
+      "consent_more": "자세히",
+      "fb_title": "이 페이지에서 틀렸거나 빠진 게 있나요?",
+      "fb_date": "마지막 확인: {date}. 알려 주시면 공식 출처로 다시 확인할게요.",
+      "fb_open": "알려 주기",
+      "fb_kind": "무엇에 관한 건가요?",
+      "fb_kinds": [
+        "틀린 정보",
+        "빠진 정보",
+        "기타"
+      ],
+      "fb_body": "내용",
+      "fb_ph": "예: 2번 출구가 아니라 3번 출구예요",
+      "fb_send": "보내기",
+      "fb_note": "어느 페이지에서 보냈는지는 자동으로 함께 전달돼요. 이름이나 이메일은 필요 없어요."
     }
   },
   "head_meta": [
