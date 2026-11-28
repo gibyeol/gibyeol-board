@@ -13650,8 +13650,8 @@
   "ko_alt_src": null,
   "ja": "メフメト",
   "ja_src": "ja.wikipedia 'メフメト・アリ・アジャ' (en: Mehmet Ali Ağca) https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%95%E3%83%A1%E3%83%88%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%A2%E3%82%B8%E3%83%A3 / ja.wikipedia 'メフメト・アブデュルアズィズ・オスマンオウル' (en: Mehmed Abdulaziz) https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%95%E3%83%A1%E3%83%88%E3%83%BB%E3%82%A2%E3%83%96%E3%83%87%E3%83%A5%E3%83%AB%E3%82%A2%E3%82%BA%E3%82%A3%E3%82%BA%E3%83%BB%E3%82%AA%E3%82%B9%E3%83%9E%E3%83%B3%E3%82%AA%E3%82%A6%E3%83%AB",
-  "zh": "穆罕默德",
-  "zh_src": "zh.wikipedia '穆罕默德·奥兹' zh-tw 표시 제목 '穆罕默德·奧茲' (en: Mehmet Oz) https://zh.wikipedia.org/zh-tw/%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%C2%B7%E5%A5%A5%E5%85%B9 / zh.wikipedia '穆罕默德·阿里·阿贾' zh-tw 표시 제목 '穆罕默德·阿里·阿賈' (en: Mehmet Ali Ağca) https://zh.wikipedia.org/zh-tw/%E7%A9%86%E7%BD%95%E9%BB%98%E5%BE%B7%C2%B7%E9%98%BF%E9%87%8C%C2%B7%E9%98%BF%E8%B4%BE",
+  "zh": null,
+  "zh_src": null,
   "origin": "Turkish form of Arabic Muhammad",
   "meaning": {
    "en": "praised, commendable",
@@ -13662,7 +13662,7 @@
   "meaning_src": "https://www.behindthename.com/name/mehmet",
   "c": "h",
   "nicks": [],
-  "note": "국립국어원 근거 용례 적음(2건) / ja 문서마다 표기 다름: メフメト(Mehmet Ali Ağca, Mehmed Abdulaziz), メーメット(Mehmet Scholl), メフメット(Mehmet Shehu), メメット(Mehmet Okur) / zh 문서마다 표기 다름: 穆罕默德(Mehmet Oz, Mehmet Ali Ağca), 梅米特(Mehmet Okur) / 뜻은 Behind the Name Mehmet→Muhammad 문서 https://www.behindthename.com/name/muhammad"
+  "note": "국립국어원 근거 용례 적음(2건) / ja 문서마다 표기 다름: メフメト(Mehmet Ali Ağca, Mehmed Abdulaziz), メーメット(Mehmet Scholl), メフメット(Mehmet Shehu), メメット(Mehmet Okur) / zh 문서마다 표기 다름: 穆罕默德(Mehmet Oz, Mehmet Ali Ağca), 梅米特(Mehmet Okur) / 뜻은 Behind the Name Mehmet→Muhammad 문서 https://www.behindthename.com/name/muhammad | 2026-11-28 Claude: zh 穆罕默德 뺌(Muhammad 표기와 겹침)"
  },
  {
   "key": "kerem",
@@ -13732,8 +13732,8 @@
   "ko_alt_src": "근거: 한국어 위키백과 본문 검색 '아르준' totalhits 102, 문서 예: '아르주나', '안잠' / 인물 문서 '아르준 사르자'(en: Arjun Sarja)",
   "ja": "アルジュン",
   "ja_src": "ja.wikipedia 'アルジュン・ラームパール' (en: Arjun Rampal) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%BC%E3%83%A0%E3%83%91%E3%83%BC%E3%83%AB / ja.wikipedia 'アルジュン・マイニ' (en: Arjun Maini) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%8B",
-  "zh": "阿葰",
-  "zh_src": "zh.wikipedia '阿葰·卡浦爾' zh-tw 표시 제목 '阿葰·卡浦爾' (en: Arjun Kapoor) https://zh.wikipedia.org/zh-tw/%E9%98%BF%E8%91%B0%C2%B7%E5%8D%A1%E6%B5%A6%E7%88%BE / zh.wikipedia '阿葰·蘭帕爾' zh-tw 표시 제목 '阿葰·蘭帕爾' (en: Arjun Rampal) https://zh.wikipedia.org/zh-tw/%E9%98%BF%E8%91%B0%C2%B7%E8%98%AD%E5%B8%95%E7%88%BE",
+  "zh": null,
+  "zh_src": null,
   "origin": "Sanskrit (modern form of Arjuna)",
   "meaning": {
    "en": "white, clear",
@@ -13744,7 +13744,7 @@
   "meaning_src": "https://www.behindthename.com/name/arjun",
   "c": "h",
   "nicks": [],
-  "note": "국립국어원 용례 검색에서 이 이름 용례 못 찾음(질의: Arjun 1건 중 1건 확인, 아르준 0건 중 0건 확인) / 국립국어원 표기가 없어 한글 표기는 ko_alt(한국어 위키백과 근거)만 있음 / zh 문서마다 표기 다름: 阿葰(Arjun Kapoor, Arjun Rampal), 阿俊(Arjun Sarja) / 뜻은 Behind the Name Arjun→Arjuna 문서 https://www.behindthename.com/name/arjuna"
+  "note": "국립국어원 용례 검색에서 이 이름 용례 못 찾음(질의: Arjun 1건 중 1건 확인, 아르준 0건 중 0건 확인) / 국립국어원 표기가 없어 한글 표기는 ko_alt(한국어 위키백과 근거)만 있음 / zh 문서마다 표기 다름: 阿葰(Arjun Kapoor, Arjun Rampal), 阿俊(Arjun Sarja) / 뜻은 Behind the Name Arjun→Arjuna 문서 https://www.behindthename.com/name/arjuna | 2026-11-28 Claude: zh 阿葰 뺌(드문 글자 葰, 한 사람 표기로 보임)"
  },
  {
   "key": "kabir",
