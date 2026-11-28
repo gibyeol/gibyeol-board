@@ -44,3 +44,13 @@
 
 </details>
 
+| 2026-11-28 15:48 KST | https://www.bing.com/indexnow | 4 | HTTP 200 OK, URL submitted | /winter-light-puffer/ /ko/winter-light-puffer/ /ja/winter-light-puffer/ /zh-tw/winter-light-puffer/ |
+<details><summary>보낸 주소</summary>
+
+- https://nadri-guide.pages.dev/winter-light-puffer/
+- https://nadri-guide.pages.dev/ko/winter-light-puffer/
+- https://nadri-guide.pages.dev/ja/winter-light-puffer/
+- https://nadri-guide.pages.dev/zh-tw/winter-light-puffer/
+
+</details>
+
