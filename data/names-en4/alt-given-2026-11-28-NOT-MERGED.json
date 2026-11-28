@@ -1,0 +1,4558 @@
+[
+ {
+  "key": "charles",
+  "type": "given",
+  "ko_std": "찰스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "찰스": 13121,
+   "챨스": 18,
+   "찰즈": 16
+  },
+  "person_check": {
+   "찰스": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 135,
+    "examples": [
+     "찰스 3세 (en: Charles III)",
+     "찰스 2세 (en: Charles II of England)",
+     "찰스 1세 (en: Charles I of England)"
+    ]
+   },
+   "챨스": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "찰즈": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'챨스' 넣지 않음: totalhits 18, 영어 이름 확인된 인물 문서 0개 / '찰즈' 넣지 않음: totalhits 16, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "george",
+  "type": "given",
+  "ko_std": "조지",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "조지": 19715,
+   "죠지": 288
+  },
+  "person_check": {
+   "조지": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 139,
+    "examples": [
+     "조지 W. 부시 (en: George W. Bush)",
+     "조지 H. W. 부시 (en: George H. W. Bush)",
+     "조지 마셜 (en: George C. Marshall)"
+    ]
+   },
+   "죠지": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'죠지' 넣지 않음: totalhits 288, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "edward",
+  "type": "given",
+  "ko_std": "에드워드",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "에드워드": 9896,
+   "에드와드": 4
+  },
+  "person_check": {
+   "에드워드": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 127,
+    "examples": [
+     "에드워드 애들버트 도이지 (en: Edward Adelbert Doisy)",
+     "에드워드 캘빈 켄들 (en: Edward Calvin Kendall)",
+     "에드워드 로리 테이텀 (en: Edward Tatum)"
+    ]
+   },
+   "에드와드": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'에드와드' 넣지 않음: totalhits 4, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "patrick",
+  "type": "given",
+  "ko_std": "패트릭",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "패트릭": 5288,
+   "페트릭": 54
+  },
+  "person_check": {
+   "패트릭": {
+    "title_first_word_matches": 117,
+    "en_first_name_verified": 106,
+    "examples": [
+     "패트릭 블래킷 (en: Patrick Blackett)",
+     "패트릭 화이트 (en: Patrick White)",
+     "패트릭 오코넬 (en: Patrick O'Connell (footballer))"
+    ]
+   },
+   "페트릭": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'페트릭' 넣지 않음: totalhits 54, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "frank",
+  "type": "given",
+  "ko_std": "프랭크",
+  "ko_alt": [
+   "프랑크"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"프랑크\" totalhits 2647 (표준 \"프랭크\" 8244); 제목 첫 낱말이 '프랑크'이고 영어판 제목 이름이 Frank인 인물 문서 40개(제목 검색 상위 500 중) 예: '프랑크 더 부르 (en: Frank de Boer)' / '프랑크 레이카르트 (en: Frank Rijkaard)' / '프랑크 더블레이케러 (en: Frank De Bleeckere)'",
+  "ko_count": {
+   "프랭크": 8244,
+   "프랑크": 2647
+  },
+  "person_check": {
+   "프랭크": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 139,
+    "examples": [
+     "프랭크 시나트라 (en: Frank Sinatra)",
+     "프랭크 램퍼드 (en: Frank Lampard)",
+     "프랭크 셀리 (en: Frank Selee)"
+    ]
+   },
+   "프랑크": {
+    "title_first_word_matches": 59,
+    "en_first_name_verified": 40,
+    "examples": [
+     "프랑크 더 부르 (en: Frank de Boer)",
+     "프랑크 레이카르트 (en: Frank Rijkaard)",
+     "프랑크 더블레이케러 (en: Frank De Bleeckere)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 139 / '프랑크' 40 / '프랑크': 독일어권 표기, '프랑크 왕국'과 섞임"
+ },
+ {
+  "key": "kenneth",
+  "type": "given",
+  "ko_std": "케네스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "케네스": 2651,
+   "케니스": 61
+  },
+  "person_check": {
+   "케네스": {
+    "title_first_word_matches": 59,
+    "en_first_name_verified": 53,
+    "examples": [
+     "케네스 G. 윌슨 (en: Kenneth G. Wilson)",
+     "케네스 브래나 (en: Kenneth Branagh)",
+     "케네스 로너건 (en: Kenneth Lonergan)"
+    ]
+   },
+   "케니스": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'케니스' 넣지 않음: totalhits 61, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "larry",
+  "type": "given",
+  "ko_std": "래리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "래리": 3415,
+   "레리": 68
+  },
+  "person_check": {
+   "래리": {
+    "title_first_word_matches": 95,
+    "en_first_name_verified": 92,
+    "examples": [
+     "래리 서튼 (en: Larry Sutton)",
+     "래리 페이지 (en: Larry Page)",
+     "래리 도비 (en: Larry Doby)"
+    ]
+   },
+   "레리": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'레리' 넣지 않음: totalhits 68, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "dennis",
+  "type": "given",
+  "ko_std": "데니스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "데니스": 4658,
+   "대니스": 17
+  },
+  "person_check": {
+   "데니스": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 78,
+    "examples": [
+     "데니스 베르흐캄프 (en: Dennis Bergkamp)",
+     "데니스 가보르 (en: Dennis Gabor)",
+     "데니스 에커슬리 (en: Dennis Eckersley)"
+    ]
+   },
+   "대니스": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'대니스' 넣지 않음: totalhits 17, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "linda",
+  "type": "given",
+  "ko_std": "린다",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "린다": 2509
+  },
+  "person_check": {
+   "린다": {
+    "title_first_word_matches": 86,
+    "en_first_name_verified": 76,
+    "examples": [
+     "린다 B. 벅 (en: Linda B. Buck)",
+     "린다 헌트 (en: Linda Hunt)",
+     "린다 피오렌티노 (en: Linda Fiorentino)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "karen",
+  "type": "given",
+  "ko_std": "캐런",
+  "ko_alt": [
+   "카렌"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"카렌\" totalhits 1581 (표준 \"캐런\" 1030); 제목 첫 낱말이 '카렌'이고 영어판 제목 이름이 Karen인 인물 문서 26개(제목 검색 상위 500 중) 예: '카렌 (en: Karen)' / '카렌 카라페탼 (en: Karen Karapetyan)' / '카렌 디셔 (en: Karen Disher)'",
+  "ko_count": {
+   "캐런": 1030,
+   "카렌": 1581
+  },
+  "person_check": {
+   "캐런": {
+    "title_first_word_matches": 39,
+    "en_first_name_verified": 35,
+    "examples": [
+     "캐런 블랙 (en: Karen Black)",
+     "캐런 앨런 (en: Karen Allen)",
+     "캐런 길런 (en: Karen Gillan)"
+    ]
+   },
+   "카렌": {
+    "title_first_word_matches": 32,
+    "en_first_name_verified": 26,
+    "examples": [
+     "카렌 (en: Karen)",
+     "카렌 카라페탼 (en: Karen Karapetyan)",
+     "카렌 디셔 (en: Karen Disher)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '카렌'(본문 totalhits 1581 > 표준 1030) / 인물 문서 수(영어 이름 확인) 표준 35 / '카렌' 26"
+ },
+ {
+  "key": "nancy",
+  "type": "given",
+  "ko_std": "낸시",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "낸시": 2018,
+   "난시": 116
+  },
+  "person_check": {
+   "낸시": {
+    "title_first_word_matches": 73,
+    "en_first_name_verified": 71,
+    "examples": [
+     "낸시 펠로시 (en: Nancy Pelosi)",
+     "낸시 (가수) (en: Nancy (singer))",
+     "낸시 랭 (en: Nancy Lang)"
+    ]
+   },
+   "난시": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'난시' 넣지 않음: totalhits 116, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "donna",
+  "type": "given",
+  "ko_std": "도나",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "도나": 1408,
+   "돈나": 138
+  },
+  "person_check": {
+   "도나": {
+    "title_first_word_matches": 32,
+    "en_first_name_verified": 29,
+    "examples": [
+     "도나 스트리클런드 (en: Donna Strickland)",
+     "도나 리드 (en: Donna Reed)",
+     "도나 & 조 (en: Donna and Joseph McCaul)"
+    ]
+   },
+   "돈나": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'돈나' 넣지 않음: totalhits 138, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "cynthia",
+  "type": "given",
+  "ko_std": "신시아",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "신시아": 830,
+   "씬시아": 1
+  },
+  "person_check": {
+   "신시아": {
+    "title_first_word_matches": 28,
+    "en_first_name_verified": 24,
+    "examples": [
+     "신시아 레논 (en: Cynthia Lennon)",
+     "신시아 에리보 (en: Cynthia Erivo)",
+     "신시아 닉슨 (en: Cynthia Nixon)"
+    ]
+   },
+   "씬시아": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'씬시아' 넣지 않음: totalhits 1, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "laura",
+  "type": "given",
+  "ko_std": "로라",
+  "ko_alt": [
+   "라우라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"라우라\" totalhits 656 (표준 \"로라\" 2890); 제목 첫 낱말이 '라우라'이고 영어판 제목 이름이 Laura인 인물 문서 35개(제목 검색 상위 500 중) 예: '라우라 베티 (en: Laura Betti)' / '라우라 안토넬리 (en: Laura Antonelli)' / '라우라 모란테 (en: Laura Morante)'",
+  "ko_count": {
+   "로라": 2890,
+   "라우라": 656
+  },
+  "person_check": {
+   "로라": {
+    "title_first_word_matches": 90,
+    "en_first_name_verified": 78,
+    "examples": [
+     "로라 리니 (en: Laura Linney)",
+     "로라 던 (en: Laura Dern)",
+     "로라 (en: Laura)"
+    ]
+   },
+   "라우라": {
+    "title_first_word_matches": 36,
+    "en_first_name_verified": 35,
+    "examples": [
+     "라우라 베티 (en: Laura Betti)",
+     "라우라 안토넬리 (en: Laura Antonelli)",
+     "라우라 모란테 (en: Laura Morante)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 78 / '라우라' 35 / '라우라': 스페인·이탈리아어권 표기"
+ },
+ {
+  "key": "kathleen",
+  "type": "given",
+  "ko_std": "캐슬린",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "캐슬린": 949,
+   "케슬린": 2,
+   "캐틀린": 65
+  },
+  "person_check": {
+   "캐슬린": {
+    "title_first_word_matches": 39,
+    "en_first_name_verified": 39,
+    "examples": [
+     "캐슬린 터너 (en: Kathleen Turner)",
+     "캐슬린 케네디 (en: Kathleen Kennedy (producer))",
+     "캐슬린 퀸런 (en: Kathleen Quinlan)"
+    ]
+   },
+   "케슬린": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "캐틀린": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'케슬린' 넣지 않음: totalhits 2, 영어 이름 확인된 인물 문서 0개 / '캐틀린' 넣지 않음: totalhits 65, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "brenda",
+  "type": "given",
+  "ko_std": "브렌다",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "브렌다": 677,
+   "브랜다": 18
+  },
+  "person_check": {
+   "브렌다": {
+    "title_first_word_matches": 24,
+    "en_first_name_verified": 24,
+    "examples": [
+     "브렌다 블레신 (en: Brenda Blethyn)",
+     "브렌다 바카로 (en: Brenda Vaccaro)",
+     "브렌다 프리커 (en: Brenda Fricker)"
+    ]
+   },
+   "브랜다": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'브랜다' 넣지 않음: totalhits 18, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "katherine",
+  "type": "given",
+  "ko_std": "캐서린",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "캐서린": 3883,
+   "캐더린": 29,
+   "캐트린": 38,
+   "캐터린": 6
+  },
+  "person_check": {
+   "캐서린": {
+    "title_first_word_matches": 117,
+    "en_first_name_verified": 34,
+    "examples": [
+     "캐서린 마 (en: Katherine Maher)",
+     "캐서린 헬먼드 (en: Katherine Helmond)",
+     "캐서린 잭슨 (en: Katherine Jackson)"
+    ]
+   },
+   "캐더린": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "캐트린": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "캐터린": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'캐더린' 넣지 않음: totalhits 29, 영어 이름 확인된 인물 문서 0개 / '캐트린' 넣지 않음: totalhits 38, 영어 이름 확인된 인물 문서 0개 / '캐터린' 넣지 않음: totalhits 6, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "christine",
+  "type": "given",
+  "ko_std": "크리스틴",
+  "ko_alt": [
+   "크리스티네"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"크리스티네\" totalhits 257 (표준 \"크리스틴\" 3083); 제목 첫 낱말이 '크리스티네'이고 영어판 제목 이름이 Christine인 인물 문서 9개(제목 검색 상위 500 중) 예: '크리스티네 카우프만 (en: Christine Kaufmann)' / '크리스티네 리베르크네히트 (en: Christine Lieberknecht)' / '크리스티네 브링커 (en: Christine Wenzel)'",
+  "ko_count": {
+   "크리스틴": 3083,
+   "크리스티네": 257,
+   "크리스티나": 2768
+  },
+  "person_check": {
+   "크리스틴": {
+    "title_first_word_matches": 104,
+    "en_first_name_verified": 46,
+    "examples": [
+     "크리스틴 라티 (en: Christine Lahti)",
+     "크리스틴 코스가드 (en: Christine Korsgaard)",
+     "크리스틴 배런스키 (en: Christine Baranski)"
+    ]
+   },
+   "크리스티네": {
+    "title_first_word_matches": 12,
+    "en_first_name_verified": 9,
+    "examples": [
+     "크리스티네 카우프만 (en: Christine Kaufmann)",
+     "크리스티네 리베르크네히트 (en: Christine Lieberknecht)",
+     "크리스티네 브링커 (en: Christine Wenzel)"
+    ]
+   },
+   "크리스티나": {
+    "title_first_word_matches": 92,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 46 / '크리스티네' 9 / '크리스티네': 독일어권 표기 / '크리스티나' 넣지 않음: totalhits 2768, 영어 이름 확인된 인물 문서 0개 / '크리스티나': 다른 이름 Christina와 섞임"
+ },
+ {
+  "key": "debra",
+  "type": "given",
+  "ko_std": "데브라",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "데브라": 594,
+   "데브러": 1
+  },
+  "person_check": {
+   "데브라": {
+    "title_first_word_matches": 14,
+    "en_first_name_verified": 10,
+    "examples": [
+     "데브라 윙거 (en: Debra Winger)",
+     "데브라 메싱 (en: Debra Messing)",
+     "데브라 멍크 (en: Debra Monk)"
+    ]
+   },
+   "데브러": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'데브러' 넣지 않음: totalhits 1, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "mason",
+  "type": "given",
+  "ko_std": "메이슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "메이슨": 2117,
+   "메이선": 3
+  },
+  "person_check": {
+   "메이슨": {
+    "title_first_word_matches": 18,
+    "en_first_name_verified": 16,
+    "examples": [
+     "메이슨 마운트 (en: Mason Mount)",
+     "메이슨 그린우드 (en: Mason Greenwood)",
+     "메이슨 홀게이트 (en: Mason Holgate)"
+    ]
+   },
+   "메이선": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'메이선' 넣지 않음: totalhits 3, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "logan",
+  "type": "given",
+  "ko_std": "로건",
+  "ko_alt": [
+   "로간"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"로간\" totalhits 81 (표준 \"로건\" 1124); 제목 첫 낱말이 '로간'이고 영어판 제목 이름이 Logan인 인물 문서 1개(제목 검색 상위 500 중) 예: '로간 바일리 (en: Logan Bailly)'",
+  "ko_count": {
+   "로건": 1124,
+   "로간": 81
+  },
+  "person_check": {
+   "로건": {
+    "title_first_word_matches": 20,
+    "en_first_name_verified": 19,
+    "examples": [
+     "로건 국제공항 (en: Logan International Airport)",
+     "로건 (영화) (en: Logan (film))",
+     "로건 러먼 (en: Logan Lerman)"
+    ]
+   },
+   "로간": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 1,
+    "examples": [
+     "로간 바일리 (en: Logan Bailly)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 19 / '로간' 1"
+ },
+ {
+  "key": "zachary",
+  "type": "given",
+  "ko_std": "재커리",
+  "ko_alt": [
+   "자카리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"자카리\" totalhits 56 (표준 \"재커리\" 708); 제목 첫 낱말이 '자카리'이고 영어판 제목 이름이 Zachary인 인물 문서 1개(제목 검색 상위 500 중) 예: '자카리 아테카메 (en: Zachary Athekame)'",
+  "ko_count": {
+   "재커리": 708,
+   "재카리": 0,
+   "자카리": 56,
+   "자커리": 3
+  },
+  "person_check": {
+   "재커리": {
+    "title_first_word_matches": 18,
+    "en_first_name_verified": 12,
+    "examples": [
+     "재커리 테일러 (en: Zachary Taylor)",
+     "재커리 리바이 (en: Zachary Levi)",
+     "재커리 고든 (en: Zachary Gordon)"
+    ]
+   },
+   "재카리": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "자카리": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 1,
+    "examples": [
+     "자카리 아테카메 (en: Zachary Athekame)"
+    ]
+   },
+   "자커리": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'재카리' 넣지 않음: totalhits 0, 영어 이름 확인된 인물 문서 0개 / 인물 문서 수(영어 이름 확인) 표준 12 / '자카리' 1 / '자커리' 넣지 않음: totalhits 3, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "hunter",
+  "type": "given",
+  "ko_std": "헌터",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "헌터": 3706
+  },
+  "person_check": {
+   "헌터": {
+    "title_first_word_matches": 25,
+    "en_first_name_verified": 21,
+    "examples": [
+     "헌터 × 헌터 (en: Hunter × Hunter)",
+     "헌터 칼리지 (en: Hunter College)",
+     "헌터 × 헌터 (1999년 애니메이션) (en: Hunter × Hunter (1999 TV series))"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "lincoln",
+  "type": "given",
+  "ko_std": "링컨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "링컨": 3340,
+   "린컨": 4
+  },
+  "person_check": {
+   "링컨": {
+    "title_first_word_matches": 49,
+    "en_first_name_verified": 44,
+    "examples": [
+     "링컨 파이낸셜 필드 (en: Lincoln Financial Field)",
+     "링컨 (링컨셔주) (en: Lincoln, England)",
+     "링컨 컨티넨탈 (en: Lincoln Continental)"
+    ]
+   },
+   "린컨": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'린컨' 넣지 않음: totalhits 4, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "gabriel",
+  "type": "given",
+  "ko_std": "게이브리얼",
+  "ko_alt": [
+   "가브리엘"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"가브리엘\" totalhits 3634 (표준 \"게이브리얼\" 522); 제목 첫 낱말이 '가브리엘'이고 영어판 제목 이름이 Gabriel인 인물 문서 63개(제목 검색 상위 500 중) 예: '가브리엘 이 가브리엘라 (en: Gabriel y Gabriela)' / '가브리엘 (en: Gabriel)' / '가브리엘 바티스투타 (en: Gabriel Batistuta)'",
+  "ko_count": {
+   "게이브리얼": 522,
+   "가브리엘": 3634,
+   "게이브리엘": 9
+  },
+  "person_check": {
+   "게이브리얼": {
+    "title_first_word_matches": 15,
+    "en_first_name_verified": 14,
+    "examples": [
+     "게이브리얼 번 (en: Gabriel Byrne)",
+     "게이브리얼 맨 (en: Gabriel Mann)",
+     "게이브리얼 아그본라호 (en: Gabriel Agbonlahor)"
+    ]
+   },
+   "가브리엘": {
+    "title_first_word_matches": 80,
+    "en_first_name_verified": 63,
+    "examples": [
+     "가브리엘 이 가브리엘라 (en: Gabriel y Gabriela)",
+     "가브리엘 (en: Gabriel)",
+     "가브리엘 바티스투타 (en: Gabriel Batistuta)"
+    ]
+   },
+   "게이브리엘": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '가브리엘'(본문 totalhits 3634 > 표준 522) / 인물 문서 수(영어 이름 확인) 표준 14 / '가브리엘' 63 / '가브리엘': 프랑스·스페인어권 Gabriel, 천사 가브리엘과 섞임 / '게이브리엘' 넣지 않음: totalhits 9, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "grayson",
+  "type": "given",
+  "ko_std": "그레이슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "그레이슨": 243,
+   "그레이선": 2
+  },
+  "person_check": {
+   "그레이슨": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 5,
+    "examples": [
+     "그레이슨 러셀 (en: Grayson Russell)",
+     "그레이슨 홀 (en: Grayson Hall)",
+     "그레이슨 부셰 (en: Grayson Boucher)"
+    ]
+   },
+   "그레이선": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'그레이선' 넣지 않음: totalhits 2, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "cody",
+  "type": "given",
+  "ko_std": "코디",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "코디": 982
+  },
+  "person_check": {
+   "코디": {
+    "title_first_word_matches": 22,
+    "en_first_name_verified": 18,
+    "examples": [
+     "코디 로즈 (en: Cody Rhodes)",
+     "코디 학포 (en: Cody Gakpo)",
+     "코디 벨린저 (en: Cody Bellinger)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "caleb",
+  "type": "given",
+  "ko_std": "케일럽",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "케일럽": 305,
+   "케일렙": 2,
+   "칼렙": 70,
+   "갈렙": 19
+  },
+  "person_check": {
+   "케일럽": {
+    "title_first_word_matches": 10,
+    "en_first_name_verified": 8,
+    "examples": [
+     "케일럽 클레이 (en: Caleb Clay)",
+     "케일럽 랜드리 존스 (en: Caleb Landry Jones)",
+     "케일럽 매클로플린 (en: Caleb McLaughlin)"
+    ]
+   },
+   "케일렙": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "칼렙": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "갈렙": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "갈렙 (en: Caleb)"
+    ]
+   }
+  },
+  "note": "'케일렙' 넣지 않음: totalhits 2, 영어 이름 확인된 인물 문서 0개 / '칼렙' 넣지 않음: totalhits 70, 영어 이름 확인된 인물 문서 0개 / '갈렙' 넣지 않음: totalhits 19, 영어 이름 확인된 인물 문서 1개 / '갈렙': 성서 표기"
+ },
+ {
+  "key": "abigail",
+  "type": "given",
+  "ko_std": "애비게일",
+  "ko_alt": [
+   "아비게일"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"아비게일\" totalhits 59 (표준 \"애비게일\" 427); 제목 첫 낱말이 '아비게일'이고 영어판 제목 이름이 Abigail인 인물 문서 1개(제목 검색 상위 500 중) 예: '아비게일 마비티 (en: Abigail Mavity)'",
+  "ko_count": {
+   "애비게일": 427,
+   "아비게일": 59
+  },
+  "person_check": {
+   "애비게일": {
+    "title_first_word_matches": 13,
+    "en_first_name_verified": 12,
+    "examples": [
+     "애비게일 브레슬린 (en: Abigail Breslin)",
+     "애비게일 스펜서 (en: Abigail Spencer)",
+     "애비게일 워시번 (en: Abigail Washburn)"
+    ]
+   },
+   "아비게일": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "아비게일 마비티 (en: Abigail Mavity)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 12 / '아비게일' 1"
+ },
+ {
+  "key": "addison",
+  "type": "given",
+  "ko_std": "애디슨",
+  "ko_alt": [
+   "에디슨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"에디슨\" totalhits 528 (표준 \"애디슨\" 317); 제목 첫 낱말이 '에디슨'이고 영어판 제목 이름이 Addison인 인물 문서 1개(제목 검색 상위 500 중) 예: '에디슨 러셀 (en: Addison Russell)'",
+  "ko_count": {
+   "애디슨": 317,
+   "에디슨": 528
+  },
+  "person_check": {
+   "애디슨": {
+    "title_first_word_matches": 6,
+    "en_first_name_verified": 3,
+    "examples": [
+     "애디슨 팀린 (en: Addison Timlin)",
+     "애디슨 몽고메리 (en: Addison Montgomery)",
+     "애디슨 레이 (en: Addison Rae)"
+    ]
+   },
+   "에디슨": {
+    "title_first_word_matches": 6,
+    "en_first_name_verified": 1,
+    "examples": [
+     "에디슨 러셀 (en: Addison Russell)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '에디슨'(본문 totalhits 528 > 표준 317) / 인물 문서 수(영어 이름 확인) 표준 3 / '에디슨' 1 / '에디슨': 성 Edison(에디슨)과 섞임"
+ },
+ {
+  "key": "avery",
+  "type": "given",
+  "ko_std": "에이버리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "에이버리": 570,
+   "에이브리": 12
+  },
+  "person_check": {
+   "에이버리": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 4,
+    "examples": [
+     "에이버리 브런디지 (en: Avery Brundage)",
+     "에이버리 (en: Avery)",
+     "에이버리 브래들리 (en: Avery Bradley)"
+    ]
+   },
+   "에이브리": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'에이브리' 넣지 않음: totalhits 12, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "brooklyn",
+  "type": "given",
+  "ko_std": "브루클린",
+  "ko_alt": [
+   "브룩클린"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"브룩클린\" totalhits 112 (표준 \"브루클린\" 2175); 제목 첫 낱말이 '브룩클린'이고 영어판 제목 이름이 Brooklyn인 인물 문서 1개(제목 검색 상위 500 중) 예: '브룩클린 서다노 (en: Brooklyn Sudano)'",
+  "ko_count": {
+   "브루클린": 2175,
+   "브룩클린": 112
+  },
+  "person_check": {
+   "브루클린": {
+    "title_first_word_matches": 22,
+    "en_first_name_verified": 17,
+    "examples": [
+     "브루클린 (en: Brooklyn)",
+     "브루클린 네츠 (en: Brooklyn Nets)",
+     "브루클린 칼리지 (en: Brooklyn College)"
+    ]
+   },
+   "브룩클린": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "브룩클린 서다노 (en: Brooklyn Sudano)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 17 / '브룩클린' 1"
+ },
+ {
+  "key": "lillian",
+  "type": "given",
+  "ko_std": "릴리언",
+  "ko_alt": [
+   "릴리안"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"릴리안\" totalhits 223 (표준 \"릴리언\" 487); 제목 첫 낱말이 '릴리안'이고 영어판 제목 이름이 Lillian인 인물 문서 1개(제목 검색 상위 500 중) 예: '릴리안 워스 (en: Lillian Worth)'",
+  "ko_count": {
+   "릴리언": 487,
+   "릴리안": 223
+  },
+  "person_check": {
+   "릴리언": {
+    "title_first_word_matches": 12,
+    "en_first_name_verified": 12,
+    "examples": [
+     "릴리언 기시 (en: Lillian Gish)",
+     "릴리언 헬먼 (en: Lillian Hellman)",
+     "릴리언 코플랜드 (en: Lillian Copeland)"
+    ]
+   },
+   "릴리안": {
+    "title_first_word_matches": 6,
+    "en_first_name_verified": 1,
+    "examples": [
+     "릴리안 워스 (en: Lillian Worth)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 12 / '릴리안' 1"
+ },
+ {
+  "key": "julia",
+  "type": "given",
+  "ko_std": "줄리아",
+  "ko_alt": [
+   "율리아"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"율리아\" totalhits 588 (표준 \"줄리아\" 2434); 제목 첫 낱말이 '율리아'이고 영어판 제목 이름이 Julia인 인물 문서 23개(제목 검색 상위 500 중) 예: '율리아 옌치 (en: Julia Jentsch)' / '율리아 스페츠마르크 (en: Julia Spetsmark)' / '율리아 벨리아예바 (en: Julia Beljajeva)'",
+  "ko_count": {
+   "줄리아": 2434,
+   "율리아": 588,
+   "쥴리아": 12
+  },
+  "person_check": {
+   "줄리아": {
+    "title_first_word_matches": 66,
+    "en_first_name_verified": 53,
+    "examples": [
+     "줄리아 로버츠 (en: Julia Roberts)",
+     "줄리아 레논 (en: Julia Lennon)",
+     "줄리아 루이드라이퍼스 (en: Julia Louis-Dreyfus)"
+    ]
+   },
+   "율리아": {
+    "title_first_word_matches": 25,
+    "en_first_name_verified": 23,
+    "examples": [
+     "율리아 옌치 (en: Julia Jentsch)",
+     "율리아 스페츠마르크 (en: Julia Spetsmark)",
+     "율리아 벨리아예바 (en: Julia Beljajeva)"
+    ]
+   },
+   "쥴리아": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 53 / '율리아' 23 / '율리아': 독일·러시아어권 표기 / '쥴리아' 넣지 않음: totalhits 12, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "ezra",
+  "type": "given",
+  "ko_std": "에즈라",
+  "ko_alt": [
+   "에스라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"에스라\" totalhits 80 (표준 \"에즈라\" 574); 제목 첫 낱말이 '에스라'이고 영어판 제목 이름이 Ezra인 인물 문서 1개(제목 검색 상위 500 중) 예: '에스라 스타일즈 (en: Ezra Stiles)'",
+  "ko_count": {
+   "에즈라": 574,
+   "에스라": 80
+  },
+  "person_check": {
+   "에즈라": {
+    "title_first_word_matches": 11,
+    "en_first_name_verified": 10,
+    "examples": [
+     "에즈라 밀러 (en: Ezra Miller)",
+     "에즈라 (en: Ezra)",
+     "에즈라 파운드 (en: Ezra Pound)"
+    ]
+   },
+   "에스라": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 1,
+    "examples": [
+     "에스라 스타일즈 (en: Ezra Stiles)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 10 / '에스라' 1 / '에스라': 성서 표기"
+ },
+ {
+  "key": "maverick",
+  "type": "given",
+  "ko_std": "매버릭",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "매버릭": 273,
+   "메버릭": 45
+  },
+  "person_check": {
+   "매버릭": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 3,
+    "examples": [
+     "매버릭 (en: Maverick)",
+     "매버릭 (영화) (en: Maverick (film))",
+     "매버릭 (기업) (en: Maverick (company))"
+    ]
+   },
+   "메버릭": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'메버릭' 넣지 않음: totalhits 45, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "gavin",
+  "type": "given",
+  "ko_std": "개빈",
+  "ko_alt": [
+   "가빈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"가빈\" totalhits 126 (표준 \"개빈\" 856); 제목 첫 낱말이 '가빈'이고 영어판 제목 이름이 Gavin인 인물 문서 1개(제목 검색 상위 500 중) 예: '가빈 크릴 (en: Gavin Creel)'",
+  "ko_count": {
+   "개빈": 856,
+   "가빈": 126,
+   "게빈": 79
+  },
+  "person_check": {
+   "개빈": {
+    "title_first_word_matches": 15,
+    "en_first_name_verified": 14,
+    "examples": [
+     "개빈 슈밋 (en: Gavin Schmitt)",
+     "개빈 뉴섬 (en: Gavin Newsom)",
+     "개빈 후드 (en: Gavin Hood)"
+    ]
+   },
+   "가빈": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 1,
+    "examples": [
+     "가빈 크릴 (en: Gavin Creel)"
+    ]
+   },
+   "게빈": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 14 / '가빈' 1 / '게빈' 넣지 않음: totalhits 79, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "nathan",
+  "type": "given",
+  "ko_std": "네이선",
+  "ko_alt": [
+   "네이단",
+   "나단"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"네이단\" totalhits 31 (표준 \"네이선\" 1633); 제목 첫 낱말이 '네이단'이고 영어판 제목 이름이 Nathan인 인물 문서 1개(제목 검색 상위 500 중) 예: '네이단 키피츠 (en: Nathan Keyfitz)'; 한국어 위키백과 본문 검색 \"나단\" totalhits 299 (표준 \"네이선\" 1633); 제목 첫 낱말이 '나단'이고 영어판 제목 이름이 Nathan인 인물 문서 4개(제목 검색 상위 500 중) 예: '나단 (en: Nathan (prophet))' / '나단 밀슈타인 (en: Nathan Milstein)' / '나단 바냇 (en: Nathan Barnatt)'",
+  "ko_count": {
+   "네이선": 1633,
+   "네이단": 31,
+   "나단": 299,
+   "네이슨": 68
+  },
+  "person_check": {
+   "네이선": {
+    "title_first_word_matches": 54,
+    "en_first_name_verified": 51,
+    "examples": [
+     "네이선 번스 (en: Nathan Burns)",
+     "네이선 레인 (en: Nathan Lane)",
+     "네이선 에이드리언 (en: Nathan Adrian)"
+    ]
+   },
+   "네이단": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "네이단 키피츠 (en: Nathan Keyfitz)"
+    ]
+   },
+   "나단": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 4,
+    "examples": [
+     "나단 (en: Nathan (prophet))",
+     "나단 밀슈타인 (en: Nathan Milstein)",
+     "나단 바냇 (en: Nathan Barnatt)"
+    ]
+   },
+   "네이슨": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 51 / '네이단' 1 / 인물 문서 수(영어 이름 확인) 표준 51 / '나단' 4 / '나단': 성서 표기 / '네이슨' 넣지 않음: totalhits 68, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "isaiah",
+  "type": "given",
+  "ko_std": "아이제이아",
+  "ko_alt": [
+   "이사야"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"이사야\" totalhits 406 (표준 \"아이제이아\" 141); 제목 첫 낱말이 '이사야'이고 영어판 제목 이름이 Isaiah인 인물 문서 2개(제목 검색 상위 500 중) 예: '이사야 (en: Isaiah)' / '이사야 벌린 (en: Isaiah Berlin)'",
+  "ko_count": {
+   "아이제이아": 141,
+   "이사야": 406,
+   "아이재아": 16
+  },
+  "person_check": {
+   "아이제이아": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 3,
+    "examples": [
+     "아이제이아 워싱턴 (en: Isaiah Washington)",
+     "아이제이아 파이어브레이스 (en: Isaiah Firebrace)",
+     "아이제이아 무스타파 (en: Isaiah Mustafa)"
+    ]
+   },
+   "이사야": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 2,
+    "examples": [
+     "이사야 (en: Isaiah)",
+     "이사야 벌린 (en: Isaiah Berlin)"
+    ]
+   },
+   "아이재아": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "아이재아 토드 (en: Isaiah Todd)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '이사야'(본문 totalhits 406 > 표준 141) / 인물 문서 수(영어 이름 확인) 표준 3 / '이사야' 2 / '이사야': 성서 표기 / '아이재아' 넣지 않음: totalhits 16, 영어 이름 확인된 인물 문서 1개"
+ },
+ {
+  "key": "isaac",
+  "type": "given",
+  "ko_std": "아이작",
+  "ko_alt": [
+   "이삭"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"이삭\" totalhits 972 (표준 \"아이작\" 1840); 제목 첫 낱말이 '이삭'이고 영어판 제목 이름이 Isaac인 인물 문서 5개(제목 검색 상위 500 중) 예: '이삭 보르사 (en: Isaac Vorsah)' / '이삭 베스테르겐 (en: Isaac Westergren)' / '이삭 바쿠스 (en: Isaac Backus)'",
+  "ko_count": {
+   "아이작": 1840,
+   "이삭": 972
+  },
+  "person_check": {
+   "아이작": {
+    "title_first_word_matches": 33,
+    "en_first_name_verified": 27,
+    "examples": [
+     "아이작 뉴턴 (en: Isaac Newton)",
+     "아이작 헤이스 (en: Isaac Hayes)",
+     "아이작 바셰비스 싱어 (en: Isaac Bashevis Singer)"
+    ]
+   },
+   "이삭": {
+    "title_first_word_matches": 10,
+    "en_first_name_verified": 5,
+    "examples": [
+     "이삭 보르사 (en: Isaac Vorsah)",
+     "이삭 베스테르겐 (en: Isaac Westergren)",
+     "이삭 바쿠스 (en: Isaac Backus)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 27 / '이삭' 5 / '이삭': 성서 표기, 낱말 '이삭'(곡식)과 섞임"
+ },
+ {
+  "key": "kyle",
+  "type": "given",
+  "ko_std": "카일",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "카일": 1866
+  },
+  "person_check": {
+   "카일": {
+    "title_first_word_matches": 62,
+    "en_first_name_verified": 55,
+    "examples": [
+     "카일 카탄 (en: Kyle Katarn)",
+     "카일 워커 (en: Kyle Walker)",
+     "카일 매클라클런 (en: Kyle MacLachlan)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "ezekiel",
+  "type": "given",
+  "ko_std": "이지키얼",
+  "ko_alt": [
+   "에제키엘"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"에제키엘\" totalhits 245 (표준 \"이지키얼\" 21); 제목 첫 낱말이 '에제키엘'이고 영어판 제목 이름이 Ezekiel인 인물 문서 1개(제목 검색 상위 500 중) 예: '에제키엘 (en: Ezekiel)'",
+  "ko_count": {
+   "이지키얼": 21,
+   "에스겔": 59,
+   "에제키엘": 245,
+   "이지키엘": 11
+  },
+  "person_check": {
+   "이지키얼": {
+    "title_first_word_matches": 5,
+    "en_first_name_verified": 3,
+    "examples": [
+     "이지키얼 잭슨 (en: Ezekiel Jackson)",
+     "이지키얼 켐보이 (en: Ezekiel Kemboi)",
+     "이지키얼 로저스 (en: Ezekiel Rogers)"
+    ]
+   },
+   "에스겔": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "에제키엘": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 1,
+    "examples": [
+     "에제키엘 (en: Ezekiel)"
+    ]
+   },
+   "이지키엘": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'에스겔' 넣지 않음: totalhits 59, 영어 이름 확인된 인물 문서 0개 / '에스겔': 성서 표기 / 많이 쓰는 쪽: 후보 '에제키엘'(본문 totalhits 245 > 표준 21) / 인물 문서 수(영어 이름 확인) 표준 3 / '에제키엘' 1 / '이지키엘' 넣지 않음: totalhits 11, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "easton",
+  "type": "given",
+  "ko_std": "이스턴",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "이스턴": 1129,
+   "이스튼": 4
+  },
+  "person_check": {
+   "이스턴": {
+    "title_first_word_matches": 30,
+    "en_first_name_verified": 5,
+    "examples": [
+     "이스턴 (코네티컷주) (en: Easton, Connecticut)",
+     "이스턴 (펜실베이니아주) (en: Easton, Pennsylvania)",
+     "이스턴 (en: Easton)"
+    ]
+   },
+   "이스튼": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'이스튼' 넣지 않음: totalhits 4, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "jordan",
+  "type": "given",
+  "ko_std": "조던",
+  "ko_alt": [
+   "조단",
+   "요르단"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"조단\" totalhits 233 (표준 \"조던\" 2683); 제목 첫 낱말이 '조단'이고 영어판 제목 이름이 Jordan인 인물 문서 2개(제목 검색 상위 500 중) 예: '조단 피셔 (en: Jordan Fisher)' / '조단 카버 (en: Jordan Carver)'; 한국어 위키백과 본문 검색 \"요르단\" totalhits 4118 (표준 \"조던\" 2683); 제목 첫 낱말이 '요르단'이고 영어판 제목 이름이 Jordan인 인물 문서 11개(제목 검색 상위 500 중) 예: '요르단 (en: Jordan)' / '요르단 축구 국가대표팀 (en: Jordan national football team)' / '요르단 여자 축구 국가대표팀 (en: Jordan women's national football team)'",
+  "ko_count": {
+   "조던": 2683,
+   "조단": 233,
+   "요르단": 4118
+  },
+  "person_check": {
+   "조던": {
+    "title_first_word_matches": 50,
+    "en_first_name_verified": 42,
+    "examples": [
+     "조던 헨더슨 (en: Jordan Henderson)",
+     "조던 필 (en: Jordan Peele)",
+     "조던 픽퍼드 (en: Jordan Pickford)"
+    ]
+   },
+   "조단": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 2,
+    "examples": [
+     "조단 피셔 (en: Jordan Fisher)",
+     "조단 카버 (en: Jordan Carver)"
+    ]
+   },
+   "요르단": {
+    "title_first_word_matches": 31,
+    "en_first_name_verified": 11,
+    "examples": [
+     "요르단 (en: Jordan)",
+     "요르단 축구 국가대표팀 (en: Jordan national football team)",
+     "요르단 여자 축구 국가대표팀 (en: Jordan women's national football team)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 42 / '조단' 2 / 많이 쓰는 쪽: 후보 '요르단'(본문 totalhits 4118 > 표준 2683) / 인물 문서 수(영어 이름 확인) 표준 42 / '요르단' 11 / '요르단': 나라 이름 '요르단'과 섞임"
+ },
+ {
+  "key": "connor",
+  "type": "given",
+  "ko_std": "코너",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "코너": 3800,
+   "코노": 432
+  },
+  "person_check": {
+   "코너": {
+    "title_first_word_matches": 34,
+    "en_first_name_verified": 17,
+    "examples": [
+     "코너 로버츠 (en: Connor Roberts (footballer, born 1995))",
+     "코너 맥데이비드 (en: Connor McDavid)",
+     "코너 채프먼 (en: Connor Chapman)"
+    ]
+   },
+   "코노": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'코노' 넣지 않음: totalhits 432, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "wesley",
+  "type": "given",
+  "ko_std": "웨슬리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "웨슬리": 1091,
+   "웨즐리": 7
+  },
+  "person_check": {
+   "웨슬리": {
+    "title_first_word_matches": 17,
+    "en_first_name_verified": 14,
+    "examples": [
+     "웨슬리 스나이프스 (en: Wesley Snipes)",
+     "웨슬리 포파나 (en: Wesley Fofana (footballer))",
+     "웨슬리 (동음이의) (en: Wesley)"
+    ]
+   },
+   "웨즐리": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'웨즐리' 넣지 않음: totalhits 7, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "kai",
+  "type": "given",
+  "ko_std": "카이",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "카이": 1677
+  },
+  "person_check": {
+   "카이": {
+    "title_first_word_matches": 30,
+    "en_first_name_verified": 13,
+    "examples": [
+     "카이 (1994년) (en: Kai (entertainer, born 1994))",
+     "카이 시그반 (en: Kai Siegbahn)",
+     "카이 (1981년) (en: Kai (singer, born 1981))"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "aubrey",
+  "type": "given",
+  "ko_std": "오브리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "오브리": 465,
+   "오브레이": 7
+  },
+  "person_check": {
+   "오브리": {
+    "title_first_word_matches": 13,
+    "en_first_name_verified": 11,
+    "examples": [
+     "오브리 플라자 (en: Aubrey Plaza)",
+     "오브리 앤더슨에먼스 (en: Aubrey Anderson-Emmons)",
+     "오브리 조지프 (en: Aubrey Joseph)"
+    ]
+   },
+   "오브레이": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'오브레이' 넣지 않음: totalhits 7, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "courtney",
+  "type": "given",
+  "ko_std": "코트니",
+  "ko_alt": [
+   "커트니"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"커트니\" totalhits 76 (표준 \"코트니\" 839); 제목 첫 낱말이 '커트니'이고 영어판 제목 이름이 Courtney인 인물 문서 1개(제목 검색 상위 500 중) 예: '커트니 게인즈 (en: Courtney Gains)'",
+  "ko_count": {
+   "코트니": 839,
+   "커트니": 76
+  },
+  "person_check": {
+   "코트니": {
+    "title_first_word_matches": 22,
+    "en_first_name_verified": 18,
+    "examples": [
+     "코트니 러브 (en: Courtney Love)",
+     "코트니 B. 밴스 (en: Courtney B. Vance)",
+     "코트니 바넷 (en: Courtney Barnett)"
+    ]
+   },
+   "커트니": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 1,
+    "examples": [
+     "커트니 게인즈 (en: Courtney Gains)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 18 / '커트니' 1"
+ },
+ {
+  "key": "gianna",
+  "type": "given",
+  "ko_std": "기아나",
+  "ko_alt": [
+   "지아나",
+   "잔나"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"지아나\" totalhits 99 (표준 \"기아나\" 1003); 제목 첫 낱말이 '지아나'이고 영어판 제목 이름이 Gianna인 인물 문서 1개(제목 검색 상위 500 중) 예: '지아나 하블뤼첼뷔어키 (en: Gianna Hablützel-Bürki)'; 한국어 위키백과 본문 검색 \"잔나\" totalhits 96 (표준 \"기아나\" 1003); 제목 첫 낱말이 '잔나'이고 영어판 제목 이름이 Gianna인 인물 문서 2개(제목 검색 상위 500 중) 예: '잔나 난니니 (en: Gianna Nannini)' / '잔나 베레타 몰라 (en: Gianna Beretta Molla)'",
+  "ko_count": {
+   "기아나": 1003,
+   "지아나": 99,
+   "잔나": 96
+  },
+  "person_check": {
+   "기아나": {
+    "title_first_word_matches": 5,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "지아나": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 1,
+    "examples": [
+     "지아나 하블뤼첼뷔어키 (en: Gianna Hablützel-Bürki)"
+    ]
+   },
+   "잔나": {
+    "title_first_word_matches": 6,
+    "en_first_name_verified": 2,
+    "examples": [
+     "잔나 난니니 (en: Gianna Nannini)",
+     "잔나 베레타 몰라 (en: Gianna Beretta Molla)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 0 / '지아나' 1 / 인물 문서 수(영어 이름 확인) 표준 0 / '잔나' 2"
+ },
+ {
+  "key": "sydney",
+  "type": "given",
+  "ko_std": "시드니",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "시드니": 6006,
+   "씨드니": 1
+  },
+  "person_check": {
+   "시드니": {
+    "title_first_word_matches": 106,
+    "en_first_name_verified": 61,
+    "examples": [
+     "시드니 (en: Sydney)",
+     "시드니 공항 (en: Sydney Airport)",
+     "시드니 FC (en: Sydney FC)"
+    ]
+   },
+   "씨드니": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'씨드니' 넣지 않음: totalhits 1, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "mila",
+  "type": "given",
+  "ko_std": "밀라",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "밀라": 340
+  },
+  "person_check": {
+   "밀라": {
+    "title_first_word_matches": 5,
+    "en_first_name_verified": 4,
+    "examples": [
+     "밀라 쿠니스 (en: Mila Kunis)",
+     "밀라 (en: Mila)",
+     "밀라 제이 (en: Mila J)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "chelsea",
+  "type": "given",
+  "ko_std": "첼시",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "첼시": 1673,
+   "첼씨": 0
+  },
+  "person_check": {
+   "첼시": {
+    "title_first_word_matches": 40,
+    "en_first_name_verified": 30,
+    "examples": [
+     "첼시 FC (en: Chelsea F.C.)",
+     "첼시 FC 위민 (en: Chelsea F.C. Women)",
+     "첼시 번 (en: Chelsea bun)"
+    ]
+   },
+   "첼씨": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'첼씨' 넣지 않음: totalhits 0, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "danielle",
+  "type": "given",
+  "ko_std": "대니엘",
+  "ko_alt": [
+   "다니엘"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"다니엘\" totalhits 6580 (표준 \"대니엘\" 370); 제목 첫 낱말이 '다니엘'이고 영어판 제목 이름이 Danielle인 인물 문서 12개(제목 검색 상위 500 중) 예: '다니엘 루소 (en: Danielle Rousseau)' / '다니엘 다리외 (en: Danielle Darrieux)' / '다니엘 프룰 (en: Danielle Proulx)'",
+  "ko_count": {
+   "대니엘": 370,
+   "다니엘": 6580
+  },
+  "person_check": {
+   "대니엘": {
+    "title_first_word_matches": 25,
+    "en_first_name_verified": 24,
+    "examples": [
+     "대니엘 패너베이커 (en: Danielle Panabaker)",
+     "대니엘 데드와일러 (en: Danielle Deadwyler)",
+     "대니엘 헤링턴 (en: Danielle Herrington)"
+    ]
+   },
+   "다니엘": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 12,
+    "examples": [
+     "다니엘 루소 (en: Danielle Rousseau)",
+     "다니엘 다리외 (en: Danielle Darrieux)",
+     "다니엘 프룰 (en: Danielle Proulx)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '다니엘'(본문 totalhits 6580 > 표준 370) / 인물 문서 수(영어 이름 확인) 표준 24 / '다니엘' 12 / '다니엘': 남자 이름 Daniel의 흔한 표기와 섞임"
+ },
+ {
+  "key": "shelby",
+  "type": "given",
+  "ko_std": "셸비",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "셸비": 356,
+   "쉘비": 38
+  },
+  "person_check": {
+   "셸비": {
+    "title_first_word_matches": 10,
+    "en_first_name_verified": 9,
+    "examples": [
+     "셸비 아메리칸 (en: Shelby American)",
+     "셸비 (오하이오주) (en: Shelby, Ohio)",
+     "셸비 (en: Shelby)"
+    ]
+   },
+   "쉘비": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'쉘비' 넣지 않음: totalhits 38, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "cole",
+  "type": "given",
+  "ko_std": "콜",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "콜": 4432,
+   "코울": 26
+  },
+  "person_check": {
+   "콜": {
+    "title_first_word_matches": 64,
+    "en_first_name_verified": 11,
+    "examples": [
+     "콜 해멀스 (en: Cole Hamels)",
+     "콜 하우저 (en: Cole Hauser)",
+     "콜 파머 (en: Cole Palmer)"
+    ]
+   },
+   "코울": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'코울' 넣지 않음: totalhits 26, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "chase",
+  "type": "given",
+  "ko_std": "체이스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "체이스": 1392,
+   "채이스": 3
+  },
+  "person_check": {
+   "체이스": {
+    "title_first_word_matches": 23,
+    "en_first_name_verified": 19,
+    "examples": [
+     "체이스 센터 (en: Chase Center)",
+     "체이스 필드 (en: Chase Field)",
+     "체이스 필드하우스 (en: Chase Fieldhouse)"
+    ]
+   },
+   "채이스": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'채이스' 넣지 않음: totalhits 3, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "silas",
+  "type": "given",
+  "ko_std": "사일러스",
+  "ko_alt": [
+   "실라스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"실라스\" totalhits 86 (표준 \"사일러스\" 147); 제목 첫 낱말이 '실라스'이고 영어판 제목 이름이 Silas인 인물 문서 1개(제목 검색 상위 500 중) 예: '실라스 카톰파 음붐파 (en: Silas Katompa Mvumpa)'",
+  "ko_count": {
+   "사일러스": 147,
+   "실라스": 86,
+   "사일라스": 3
+  },
+  "person_check": {
+   "사일러스": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 7,
+    "examples": [
+     "사일러스 위어 미첼 (en: Silas Weir Mitchell)",
+     "사일러스 카슨 (en: Silas Carson)",
+     "사일러스 매너 (en: Silas Marner)"
+    ]
+   },
+   "실라스": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 1,
+    "examples": [
+     "실라스 카톰파 음붐파 (en: Silas Katompa Mvumpa)"
+    ]
+   },
+   "사일라스": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 7 / '실라스' 1 / '실라스': 성서 표기(실라)와 비슷 / '사일라스' 넣지 않음: totalhits 3, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "carson",
+  "type": "given",
+  "ko_std": "카슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "카슨": 1052,
+   "칼슨": 610
+  },
+  "person_check": {
+   "카슨": {
+    "title_first_word_matches": 9,
+    "en_first_name_verified": 8,
+    "examples": [
+     "카슨 (캘리포니아주) (en: Carson, California)",
+     "카슨 (en: Carson)",
+     "카슨 켈리 (en: Carson Kelly)"
+    ]
+   },
+   "칼슨": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'칼슨' 넣지 않음: totalhits 610, 영어 이름 확인된 인물 문서 0개 / '칼슨': 성 Carlson(칼슨)과 섞임"
+ },
+ {
+  "key": "leah",
+  "type": "given",
+  "ko_std": "리아",
+  "ko_alt": [
+   "레아"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"레아\" totalhits 896 (표준 \"리아\" 1030); 제목 첫 낱말이 '레아'이고 영어판 제목 이름이 Leah인 인물 문서 6개(제목 검색 상위 500 중) 예: '레아 (성경 인물) (en: Leah)' / '레아 에이리스 (en: Leah Ayres)' / '레아 맥폴 (en: Leah McFall)'",
+  "ko_count": {
+   "리아": 1030,
+   "레아": 896
+  },
+  "person_check": {
+   "리아": {
+    "title_first_word_matches": 29,
+    "en_first_name_verified": 9,
+    "examples": [
+     "리아 디존 (en: Leah Dizon)",
+     "리아 클라크 (en: Leah Clark)",
+     "리아 파이프스 (en: Leah Pipes)"
+    ]
+   },
+   "레아": {
+    "title_first_word_matches": 28,
+    "en_first_name_verified": 6,
+    "examples": [
+     "레아 (성경 인물) (en: Leah)",
+     "레아 에이리스 (en: Leah Ayres)",
+     "레아 맥폴 (en: Leah McFall)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 9 / '레아' 6 / '레아': Léa 등과 섞임"
+ },
+ {
+  "key": "claire",
+  "type": "given",
+  "ko_std": "클레어",
+  "ko_alt": [
+   "클레르"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"클레르\" totalhits 333 (표준 \"클레어\" 2217); 제목 첫 낱말이 '클레르'이고 영어판 제목 이름이 Claire인 인물 문서 6개(제목 검색 상위 500 중) 예: '클레르 드니 (en: Claire Denis)' / '클레르 부아쟁 (en: Claire Voisin)' / '클레르 마통 (en: Claire Mathon)'",
+  "ko_count": {
+   "클레어": 2217,
+   "클래어": 27,
+   "클레르": 333
+  },
+  "person_check": {
+   "클레어": {
+    "title_first_word_matches": 40,
+    "en_first_name_verified": 23,
+    "examples": [
+     "클레어 데인스 (en: Claire Danes)",
+     "클레어 트레버 (en: Claire Trevor)",
+     "클레어 리틀턴 (en: Claire Littleton)"
+    ]
+   },
+   "클래어": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "클레르": {
+    "title_first_word_matches": 8,
+    "en_first_name_verified": 6,
+    "examples": [
+     "클레르 드니 (en: Claire Denis)",
+     "클레르 부아쟁 (en: Claire Voisin)",
+     "클레르 마통 (en: Claire Mathon)"
+    ]
+   }
+  },
+  "note": "'클래어' 넣지 않음: totalhits 27, 영어 이름 확인된 인물 문서 0개 / 인물 문서 수(영어 이름 확인) 표준 23 / '클레르' 6 / '클레르': 프랑스어권 표기"
+ },
+ {
+  "key": "ruby",
+  "type": "given",
+  "ko_std": "루비",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "루비": 2057
+  },
+  "person_check": {
+   "루비": {
+    "title_first_word_matches": 28,
+    "en_first_name_verified": 21,
+    "examples": [
+     "루비 (프로그래밍 언어) (en: Ruby (programming language))",
+     "루비 온 레일즈 (en: Ruby on Rails)",
+     "루비 라이엇 (en: Ruby Soho (wrestler))"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "riley",
+  "type": "given",
+  "ko_std": "라일리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "라일리": 1140
+  },
+  "person_check": {
+   "라일리": {
+    "title_first_word_matches": 13,
+    "en_first_name_verified": 10,
+    "examples": [
+     "라일리 키오 (en: Riley Keough)",
+     "라일리 맥그리 (en: Riley McGree)",
+     "라일리 스미스 (en: Riley Smith)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "naomi",
+  "type": "given",
+  "ko_std": "나오미",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "나오미": 1621,
+   "네이오미": 19
+  },
+  "person_check": {
+   "나오미": {
+    "title_first_word_matches": 23,
+    "en_first_name_verified": 19,
+    "examples": [
+     "나오미 (프로레슬링 선수) (en: Naomi (wrestler))",
+     "나오미 왓츠 (en: Naomi Watts)",
+     "나오미 캠벨 (en: Naomi Campbell)"
+    ]
+   },
+   "네이오미": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "네이오미 울프 (en: Naomi Wolf)"
+    ]
+   }
+  },
+  "note": "'네이오미' 넣지 않음: totalhits 19, 영어 이름 확인된 인물 문서 1개"
+ },
+ {
+  "key": "oscar",
+  "type": "given",
+  "ko_std": "오스카",
+  "ko_alt": [
+   "오스카르"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"오스카르\" totalhits 1480 (표준 \"오스카\" 2140); 제목 첫 낱말이 '오스카르'이고 영어판 제목 이름이 Oscar인 인물 문서 30개(제목 검색 상위 500 중) 예: '오스카르 1세 (en: Oscar I of Sweden)' / '오스카르 2세 (en: Oscar II)' / '오스카르 두스 산투스 임보아바 주니오르 (en: Oscar (footballer, born 1991))'",
+  "ko_count": {
+   "오스카": 2140,
+   "오스카르": 1480
+  },
+  "person_check": {
+   "오스카": {
+    "title_first_word_matches": 36,
+    "en_first_name_verified": 28,
+    "examples": [
+     "오스카 아이작 (en: Oscar Isaac)",
+     "오스카 시즌 (en: Oscar season)",
+     "오스카 찰스턴 (en: Oscar Charleston)"
+    ]
+   },
+   "오스카르": {
+    "title_first_word_matches": 76,
+    "en_first_name_verified": 30,
+    "examples": [
+     "오스카르 1세 (en: Oscar I of Sweden)",
+     "오스카르 2세 (en: Oscar II)",
+     "오스카르 두스 산투스 임보아바 주니오르 (en: Oscar (footballer, born 1991))"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 28 / '오스카르' 30"
+ },
+ {
+  "key": "rory",
+  "type": "given",
+  "ko_std": "로리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "로리": 1856
+  },
+  "person_check": {
+   "로리": {
+    "title_first_word_matches": 48,
+    "en_first_name_verified": 16,
+    "examples": [
+     "로리 스톰 (en: Rory Storm)",
+     "로리 코크레인 (en: Rory Cochrane)",
+     "로리 매캔 (en: Rory McCann)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jude",
+  "type": "given",
+  "ko_std": "주드",
+  "ko_alt": [
+   "쥬드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"쥬드\" totalhits 69 (표준 \"주드\" 497); 제목 첫 낱말이 '쥬드'이고 영어판 제목 이름이 Jude인 인물 문서 1개(제목 검색 상위 500 중) 예: '쥬드 (영화) (en: Jude (film))'",
+  "ko_count": {
+   "주드": 497,
+   "쥬드": 69
+  },
+  "person_check": {
+   "주드": {
+    "title_first_word_matches": 10,
+    "en_first_name_verified": 8,
+    "examples": [
+     "주드 로 (en: Jude Law)",
+     "주드 벨링엄 (en: Jude Bellingham)",
+     "주드 치코렐라 (en: Jude Ciccolella)"
+    ]
+   },
+   "쥬드": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 1,
+    "examples": [
+     "쥬드 (영화) (en: Jude (film))"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 8 / '쥬드' 1"
+ },
+ {
+  "key": "florence",
+  "type": "given",
+  "ko_std": "플로렌스",
+  "ko_alt": [
+   "플로랑스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"플로랑스\" totalhits 103 (표준 \"플로렌스\" 911); 제목 첫 낱말이 '플로랑스'이고 영어판 제목 이름이 Florence인 인물 문서 6개(제목 검색 상위 500 중) 예: '플로랑스 드부아르 (en: Florence Devouard)' / '플로랑스 아르토 (en: Florence Arthaud)' / '플로랑스 페르넬 (en: Florence Pernel)'",
+  "ko_count": {
+   "플로렌스": 911,
+   "플로랑스": 103
+  },
+  "person_check": {
+   "플로렌스": {
+    "title_first_word_matches": 41,
+    "en_first_name_verified": 40,
+    "examples": [
+     "플로렌스 시빅 센터 (en: Florence Center)",
+     "플로렌스 (en: Florence (disambiguation))",
+     "플로렌스 퓨 (en: Florence Pugh)"
+    ]
+   },
+   "플로랑스": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 6,
+    "examples": [
+     "플로랑스 드부아르 (en: Florence Devouard)",
+     "플로랑스 아르토 (en: Florence Arthaud)",
+     "플로랑스 페르넬 (en: Florence Pernel)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 40 / '플로랑스' 6 / '플로랑스': 프랑스어권 표기"
+ },
+ {
+  "key": "elsie",
+  "type": "given",
+  "ko_std": "엘시",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "엘시": 170,
+   "엘씨": 8
+  },
+  "person_check": {
+   "엘시": {
+    "title_first_word_matches": 8,
+    "en_first_name_verified": 7,
+    "examples": [
+     "엘시 피셔 (en: Elsie Fisher)",
+     "엘시 더브라우 (en: Elsie de Brauw)",
+     "엘시 로크 (en: Elsie Locke)"
+    ]
+   },
+   "엘씨": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'엘씨' 넣지 않음: totalhits 8, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "annie",
+  "type": "given",
+  "ko_std": "애니",
+  "ko_alt": [
+   "아니"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"아니\" totalhits 1482 (표준 \"애니\" 2500); 제목 첫 낱말이 '아니'이고 영어판 제목 이름이 Annie인 인물 문서 5개(제목 검색 상위 500 중) 예: '아니 지라르도 (en: Annie Girardot)' / '아니 에르노 (en: Annie Ernaux)' / '아니 페로 (en: Annie Perreault)'",
+  "ko_count": {
+   "애니": 2500,
+   "아니": 1482
+  },
+  "person_check": {
+   "애니": {
+    "title_first_word_matches": 36,
+    "en_first_name_verified": 33,
+    "examples": [
+     "애니 홀 (en: Annie Hall)",
+     "애니 (en: Annie)",
+     "애니 레녹스 (en: Annie Lennox)"
+    ]
+   },
+   "아니": {
+    "title_first_word_matches": 17,
+    "en_first_name_verified": 5,
+    "examples": [
+     "아니 지라르도 (en: Annie Girardot)",
+     "아니 에르노 (en: Annie Ernaux)",
+     "아니 페로 (en: Annie Perreault)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 33 / '아니' 5 / '아니': 한국어 낱말 '아니'와 섞임"
+ },
+ {
+  "key": "alice",
+  "type": "given",
+  "ko_std": "앨리스",
+  "ko_alt": [
+   "엘리스",
+   "알리스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"엘리스\" totalhits 2047 (표준 \"앨리스\" 3413); 제목 첫 낱말이 '엘리스'이고 영어판 제목 이름이 Alice인 인물 문서 2개(제목 검색 상위 500 중) 예: '엘리스 아담스 (en: Alice Adams (1935 film))' / '엘리스 백키스 (en: Alice Backes)'; 한국어 위키백과 본문 검색 \"알리스\" totalhits 294 (표준 \"앨리스\" 3413); 제목 첫 낱말이 '알리스'이고 영어판 제목 이름이 Alice인 인물 문서 11개(제목 검색 상위 500 중) 예: '알리스 폴 (en: Alice Pol)' / '알리스 드랭크생 (en: Alice de Lencquesaing)' / '알리스 타글리오니 (en: Alice Taglioni)'",
+  "ko_count": {
+   "앨리스": 3413,
+   "엘리스": 2047,
+   "알리스": 294
+  },
+  "person_check": {
+   "앨리스": {
+    "title_first_word_matches": 76,
+    "en_first_name_verified": 68,
+    "examples": [
+     "앨리스 (드라마) (en: Alice (South Korean TV series))",
+     "앨리스 브레이디 (en: Alice Brady)",
+     "앨리스 먼로 (en: Alice Munro)"
+    ]
+   },
+   "엘리스": {
+    "title_first_word_matches": 19,
+    "en_first_name_verified": 2,
+    "examples": [
+     "엘리스 아담스 (en: Alice Adams (1935 film))",
+     "엘리스 백키스 (en: Alice Backes)"
+    ]
+   },
+   "알리스": {
+    "title_first_word_matches": 14,
+    "en_first_name_verified": 11,
+    "examples": [
+     "알리스 폴 (en: Alice Pol)",
+     "알리스 드랭크생 (en: Alice de Lencquesaing)",
+     "알리스 타글리오니 (en: Alice Taglioni)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 68 / '엘리스' 2 / 인물 문서 수(영어 이름 확인) 표준 68 / '알리스' 11"
+ },
+ {
+  "key": "noah",
+  "type": "given",
+  "ko_std": "노아",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "노아": 1913
+  },
+  "person_check": {
+   "노아": {
+    "title_first_word_matches": 54,
+    "en_first_name_verified": 42,
+    "examples": [
+     "노아 (en: Noah)",
+     "노아 바움백 (en: Noah Baumbach)",
+     "노아 센티네오 (en: Noah Centineo)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "oliver",
+  "type": "given",
+  "ko_std": "올리버",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "올리버": 3599
+  },
+  "person_check": {
+   "올리버": {
+    "title_first_word_matches": 79,
+    "en_first_name_verified": 74,
+    "examples": [
+     "올리버 스톤 (en: Oliver Stone)",
+     "올리버 (영화) (en: Oliver! (film))",
+     "올리버 스미시스 (en: Oliver Smithies)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "theodore",
+  "type": "given",
+  "ko_std": "시어도어",
+  "ko_alt": [
+   "테오도르"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"테오도르\" totalhits 1142 (표준 \"시어도어\" 1866); 제목 첫 낱말이 '테오도르'이고 영어판 제목 이름이 Theodore인 인물 문서 3개(제목 검색 상위 500 중) 예: '테오도르 드 베즈 (en: Theodore Beza)' / '테오도르 비블리안데르 (en: Theodore Bibliander)' / '테오도르 폰 카르만 (en: Theodore von Kármán)'",
+  "ko_count": {
+   "시어도어": 1866,
+   "테오도르": 1142,
+   "시오도어": 10
+  },
+  "person_check": {
+   "시어도어": {
+    "title_first_word_matches": 38,
+    "en_first_name_verified": 29,
+    "examples": [
+     "시어도어 루스벨트 (en: Theodore Roosevelt)",
+     "시어도어 리처즈 (en: Theodore William Richards)",
+     "시어도어 롱 (en: Theodore Long)"
+    ]
+   },
+   "테오도르": {
+    "title_first_word_matches": 24,
+    "en_first_name_verified": 3,
+    "examples": [
+     "테오도르 드 베즈 (en: Theodore Beza)",
+     "테오도르 비블리안데르 (en: Theodore Bibliander)",
+     "테오도르 폰 카르만 (en: Theodore von Kármán)"
+    ]
+   },
+   "시오도어": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 29 / '테오도르' 3 / '테오도르': Théodore/Theodor 등 유럽어 표기와 섞임 / '시오도어' 넣지 않음: totalhits 10, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "henry",
+  "type": "given",
+  "ko_std": "헨리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "헨리": 12294
+  },
+  "person_check": {
+   "헨리": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 137,
+    "examples": [
+     "헨리 드레이퍼 목록 (en: Henry Draper Catalogue)",
+     "헨리 8세 (en: Henry VIII)",
+     "헨리 (가수) (en: Henry Lau)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "james",
+  "type": "given",
+  "ko_std": "제임스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "제임스": 21698,
+   "제임쓰": 0
+  },
+  "person_check": {
+   "제임스": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 137,
+    "examples": [
+     "제임스 스튜어트 (en: James Stewart)",
+     "제임스 1세 (잉글랜드) (en: James VI and I)",
+     "제임스 P. 앨리슨 (en: James P. Allison)"
+    ]
+   },
+   "제임쓰": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'제임쓰' 넣지 않음: totalhits 0, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "mateo",
+  "type": "given",
+  "ko_std": "마테오",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "마테오": 1006
+  },
+  "person_check": {
+   "마테오": {
+    "title_first_word_matches": 40,
+    "en_first_name_verified": 8,
+    "examples": [
+     "마테오 코바치치 (en: Mateo Kovačić)",
+     "마테오 파플로비치 (en: Mateo Pavlović)",
+     "마테오 펠레그리노 (en: Mateo Pellegrino)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "william",
+  "type": "given",
+  "ko_std": "윌리엄",
+  "ko_alt": [
+   "윌리암"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"윌리암\" totalhits 611 (표준 \"윌리엄\" 18919); 제목 첫 낱말이 '윌리암'이고 영어판 제목 이름이 William인 인물 문서 12개(제목 검색 상위 500 중) 예: '윌리암 갈라스 (en: William Gallas)' / '윌리암 살리바 (en: William Saliba)' / '윌리암 테시요 (en: William Tesillo)'",
+  "ko_count": {
+   "윌리엄": 18919,
+   "윌리암": 611
+  },
+  "person_check": {
+   "윌리엄": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 140,
+    "examples": [
+     "윌리엄 3세 (en: William III of England)",
+     "윌리엄 케일린 주니어 (en: William Kaelin Jr.)",
+     "윌리엄 머너 (en: William E. Moerner)"
+    ]
+   },
+   "윌리암": {
+    "title_first_word_matches": 15,
+    "en_first_name_verified": 12,
+    "examples": [
+     "윌리암 갈라스 (en: William Gallas)",
+     "윌리암 살리바 (en: William Saliba)",
+     "윌리암 테시요 (en: William Tesillo)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 140 / '윌리암' 12"
+ },
+ {
+  "key": "hudson",
+  "type": "given",
+  "ko_std": "허드슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "허드슨": 2057
+  },
+  "person_check": {
+   "허드슨": {
+    "title_first_word_matches": 24,
+    "en_first_name_verified": 22,
+    "examples": [
+     "허드슨 소프트 (en: Hudson Soft)",
+     "허드슨 밸리 (en: Hudson Valley)",
+     "허드슨 호크 (en: Hudson Hawk)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jack",
+  "type": "given",
+  "ko_std": "잭",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "잭": 10784,
+   "쟉": 6
+  },
+  "person_check": {
+   "잭": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 117,
+    "examples": [
+     "잭 킬비 (en: Jack Kilby)",
+     "잭 니컬슨 (en: Jack Nicholson)",
+     "잭 레먼 (en: Jack Lemmon)"
+    ]
+   },
+   "쟉": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'쟉' 넣지 않음: totalhits 6, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "cooper",
+  "type": "given",
+  "ko_std": "쿠퍼",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "쿠퍼": 2213
+  },
+  "person_check": {
+   "쿠퍼": {
+    "title_first_word_matches": 16,
+    "en_first_name_verified": 15,
+    "examples": [
+     "쿠퍼 유니언 (en: Cooper Union)",
+     "쿠퍼 호프먼 (en: Cooper Hoffman)",
+     "쿠퍼 쌍 (en: Cooper pair)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "john",
+  "type": "given",
+  "ko_std": "존",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "존": 40306,
+   "죤": 52
+  },
+  "person_check": {
+   "존": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 135,
+    "examples": [
+     "존 F. 케네디 국제공항 (en: John F. Kennedy International Airport)",
+     "존 F. 케네디 (en: John F. Kennedy)",
+     "존 레논 (en: John Lennon)"
+    ]
+   },
+   "죤": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'죤' 넣지 않음: totalhits 52, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "levi",
+  "type": "given",
+  "ko_std": "리바이",
+  "ko_alt": [
+   "레비",
+   "레위"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"레비\" totalhits 1465 (표준 \"리바이\" 296); 제목 첫 낱말이 '레비'이고 영어판 제목 이름이 Levi인 인물 문서 3개(제목 검색 상위 500 중) 예: '레비 에슈콜 (en: Levi Eshkol)' / '레비 (en: Levi (disambiguation))' / '레비 크라이스 (en: Levi Kreis)'; 한국어 위키백과 본문 검색 \"레위\" totalhits 125 (표준 \"리바이\" 296); 제목 첫 낱말이 '레위'이고 영어판 제목 이름이 Levi인 인물 문서 1개(제목 검색 상위 500 중) 예: '레위 (en: Levi)'",
+  "ko_count": {
+   "리바이": 296,
+   "레비": 1465,
+   "레위": 125
+  },
+  "person_check": {
+   "리바이": {
+    "title_first_word_matches": 6,
+    "en_first_name_verified": 5,
+    "examples": [
+     "리바이 아커만 (en: Levi Ackerman)",
+     "리바이 P. 모턴 (en: Levi P. Morton)",
+     "리바이 스트라우스 (en: Levi Strauss)"
+    ]
+   },
+   "레비": {
+    "title_first_word_matches": 16,
+    "en_first_name_verified": 3,
+    "examples": [
+     "레비 에슈콜 (en: Levi Eshkol)",
+     "레비 (en: Levi (disambiguation))",
+     "레비 크라이스 (en: Levi Kreis)"
+    ]
+   },
+   "레위": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 1,
+    "examples": [
+     "레위 (en: Levi)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '레비'(본문 totalhits 1465 > 표준 296) / 인물 문서 수(영어 이름 확인) 표준 5 / '레비' 3 / '레비': 성 Levy/Lévy 등과 섞임 / 인물 문서 수(영어 이름 확인) 표준 5 / '레위' 1 / '레위': 성서 표기"
+ },
+ {
+  "key": "waylon",
+  "type": "given",
+  "ko_std": "웨일런",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "웨일런": 64,
+   "웨일론": 5
+  },
+  "person_check": {
+   "웨일런": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "웨일런 제닝스 (en: Waylon Jennings)"
+    ]
+   },
+   "웨일론": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "웨일론 프란시스 (en: Waylon Francis)"
+    ]
+   }
+  },
+  "note": "'웨일론' 넣지 않음: totalhits 5, 영어 이름 확인된 인물 문서 1개"
+ },
+ {
+  "key": "luca",
+  "type": "given",
+  "ko_std": "루카",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "루카": 2683,
+   "루까": 4
+  },
+  "person_check": {
+   "루카": {
+    "title_first_word_matches": 75,
+    "en_first_name_verified": 52,
+    "examples": [
+     "루카 토니 (en: Luca Toni)",
+     "루카 (2021년 영화) (en: Luca (2021 film))",
+     "루카 마리넬리 (en: Luca Marinelli)"
+    ]
+   },
+   "루까": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'루까' 넣지 않음: totalhits 4, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "asher",
+  "type": "given",
+  "ko_std": "애셔",
+  "ko_alt": [
+   "아셀"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"아셀\" totalhits 82 (표준 \"애셔\" 250); 제목 첫 낱말이 '아셀'이고 영어판 제목 이름이 Asher인 인물 문서 1개(제목 검색 상위 500 중) 예: '아셀 (en: Asher)'",
+  "ko_count": {
+   "애셔": 250,
+   "아셀": 82,
+   "아셔": 32
+  },
+  "person_check": {
+   "애셔": {
+    "title_first_word_matches": 5,
+    "en_first_name_verified": 5,
+    "examples": [
+     "애셔 (en: Asher (disambiguation))",
+     "애셔 먼로 (en: Asher Monroe)",
+     "애셔 케디 (en: Asher Keddie)"
+    ]
+   },
+   "아셀": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 1,
+    "examples": [
+     "아셀 (en: Asher)"
+    ]
+   },
+   "아셔": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 5 / '아셀' 1 / '아셀': 성서 표기 / '아셔' 넣지 않음: totalhits 32, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "santiago",
+  "type": "given",
+  "ko_std": "산티아고",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "산티아고": 2565
+  },
+  "person_check": {
+   "산티아고": {
+    "title_first_word_matches": 47,
+    "en_first_name_verified": 42,
+    "examples": [
+     "산티아고 (en: Santiago)",
+     "산티아고 카니사레스 (en: Santiago Cañizares)",
+     "산티아고 수도주 (en: Santiago Metropolitan Region)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "michael",
+  "type": "given",
+  "ko_std": "마이클",
+  "ko_alt": [
+   "미카엘",
+   "마이컬",
+   "미하엘"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"미카엘\" totalhits 1879 (표준 \"마이클\" 18534); 제목 첫 낱말이 '미카엘'이고 영어판 제목 이름이 Michael인 인물 문서 20개(제목 검색 상위 500 중) 예: '미카엘 라우드루프 (en: Michael Laudrup)' / '미카엘 (대천사) (en: Michael (archangel))' / '미카엘 크론델리 (en: Michael Krohn-Dehli)'; 한국어 위키백과 본문 검색 \"마이컬\" totalhits 32 (표준 \"마이클\" 18534); 제목 첫 낱말이 '마이컬'이고 영어판 제목 이름이 Michael인 인물 문서 1개(제목 검색 상위 500 중) 예: '마이컬 레이저허르 (en: Michael Reiziger)'; 한국어 위키백과 본문 검색 \"미하엘\" totalhits 1619 (표준 \"마이클\" 18534); 제목 첫 낱말이 '미하엘'이고 영어판 제목 이름이 Michael인 인물 문서 61개(제목 검색 상위 500 중) 예: '미하엘 발라크 (en: Michael Ballack)' / '미하엘 슈마허 (en: Michael Schumacher)' / '미하엘 스키베 (en: Michael Skibbe)'",
+  "ko_count": {
+   "마이클": 18534,
+   "미카엘": 1879,
+   "마이컬": 32,
+   "미하엘": 1619
+  },
+  "person_check": {
+   "마이클": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 137,
+    "examples": [
+     "마이클 잭슨 (en: Michael Jackson)",
+     "마이클 로스배시 (en: Michael Rosbash)",
+     "마이클 더글러스 (en: Michael Douglas)"
+    ]
+   },
+   "미카엘": {
+    "title_first_word_matches": 56,
+    "en_first_name_verified": 20,
+    "examples": [
+     "미카엘 라우드루프 (en: Michael Laudrup)",
+     "미카엘 (대천사) (en: Michael (archangel))",
+     "미카엘 크론델리 (en: Michael Krohn-Dehli)"
+    ]
+   },
+   "마이컬": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "마이컬 레이저허르 (en: Michael Reiziger)"
+    ]
+   },
+   "미하엘": {
+    "title_first_word_matches": 66,
+    "en_first_name_verified": 61,
+    "examples": [
+     "미하엘 발라크 (en: Michael Ballack)",
+     "미하엘 슈마허 (en: Michael Schumacher)",
+     "미하엘 스키베 (en: Michael Skibbe)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 137 / '미카엘' 20 / '미카엘': 천사 미카엘, 북유럽 Mikael 등과 섞임 / 인물 문서 수(영어 이름 확인) 표준 137 / '마이컬' 1 / 인물 문서 수(영어 이름 확인) 표준 137 / '미하엘' 61 / '미하엘': 독일어권 Michael 표기"
+ },
+ {
+  "key": "christopher",
+  "type": "given",
+  "ko_std": "크리스토퍼",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "크리스토퍼": 6674
+  },
+  "person_check": {
+   "크리스토퍼": {
+    "title_first_word_matches": 148,
+    "en_first_name_verified": 132,
+    "examples": [
+     "크리스토퍼 워컨 (en: Christopher Walken)",
+     "크리스토퍼 콜럼버스 (en: Christopher Columbus)",
+     "크리스토퍼 플러머 (en: Christopher Plummer)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jason",
+  "type": "given",
+  "ko_std": "제이슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "제이슨": 5023,
+   "제이선": 2
+  },
+  "person_check": {
+   "제이슨": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 140,
+    "examples": [
+     "제이슨 로버즈 (en: Jason Robards)",
+     "제이슨 베이트먼 (en: Jason Bateman)",
+     "제이슨 마틴 (en: Jason Martin (baseball))"
+    ]
+   },
+   "제이선": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'제이선' 넣지 않음: totalhits 2, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "joshua",
+  "type": "given",
+  "ko_std": "조슈아",
+  "ko_alt": [
+   "여호수아"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"여호수아\" totalhits 310 (표준 \"조슈아\" 2144); 제목 첫 낱말이 '여호수아'이고 영어판 제목 이름이 Joshua인 인물 문서 2개(제목 검색 상위 500 중) 예: '여호수아 (en: Joshua)' / '여호수아 (동음이의) (en: Joshua (disambiguation))'",
+  "ko_count": {
+   "조슈아": 2144,
+   "죠슈아": 17,
+   "여호수아": 310
+  },
+  "person_check": {
+   "조슈아": {
+    "title_first_word_matches": 47,
+    "en_first_name_verified": 41,
+    "examples": [
+     "조슈아 레더버그 (en: Joshua Lederberg)",
+     "조슈아 (가수) (en: Joshua (American singer))",
+     "조슈아 케네디 (en: Joshua Kennedy)"
+    ]
+   },
+   "죠슈아": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "여호수아": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 2,
+    "examples": [
+     "여호수아 (en: Joshua)",
+     "여호수아 (동음이의) (en: Joshua (disambiguation))"
+    ]
+   }
+  },
+  "note": "'죠슈아' 넣지 않음: totalhits 17, 영어 이름 확인된 인물 문서 0개 / 인물 문서 수(영어 이름 확인) 표준 41 / '여호수아' 2 / '여호수아': 성서 표기"
+ },
+ {
+  "key": "robert",
+  "type": "given",
+  "ko_std": "로버트",
+  "ko_alt": [
+   "로베르트"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"로베르트\" totalhits 1854 (표준 \"로버트\" 19461); 제목 첫 낱말이 '로베르트'이고 영어판 제목 이름이 Robert인 인물 문서 68개(제목 검색 상위 500 중) 예: '로베르트 코흐 (en: Robert Koch)' / '로베르트 리터 폰 그라임 (en: Robert Ritter von Greim)' / '로베르트 후버 (en: Robert Huber)'",
+  "ko_count": {
+   "로버트": 19461,
+   "로베르트": 1854
+  },
+  "person_check": {
+   "로버트": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 148,
+    "examples": [
+     "로버트 크리스트가우 (en: Robert Christgau)",
+     "로버트 드니로 (en: Robert De Niro)",
+     "로버트 올트먼 (en: Robert Altman)"
+    ]
+   },
+   "로베르트": {
+    "title_first_word_matches": 76,
+    "en_first_name_verified": 68,
+    "examples": [
+     "로베르트 코흐 (en: Robert Koch)",
+     "로베르트 리터 폰 그라임 (en: Robert Ritter von Greim)",
+     "로베르트 후버 (en: Robert Huber)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 148 / '로베르트' 68 / '로베르트': 독일어권 Robert 표기"
+ },
+ {
+  "key": "brian",
+  "type": "given",
+  "ko_std": "브라이언",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "브라이언": 7852,
+   "브라이안": 24
+  },
+  "person_check": {
+   "브라이언": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 123,
+    "examples": [
+     "브라이언 (가수) (en: Brian Joo)",
+     "브라이언 슈밋 (en: Brian Schmidt)",
+     "브라이언 데이비드 조지프슨 (en: Brian Josephson)"
+    ]
+   },
+   "브라이안": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'브라이안' 넣지 않음: totalhits 24, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "justin",
+  "type": "given",
+  "ko_std": "저스틴",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "저스틴": 3073,
+   "져스틴": 3
+  },
+  "person_check": {
+   "저스틴": {
+    "title_first_word_matches": 91,
+    "en_first_name_verified": 77,
+    "examples": [
+     "저스틴 팀버레이크 (en: Justin Timberlake)",
+     "저스틴 비버 (en: Justin Bieber)",
+     "저스틴 저마노 (en: Justin Germano)"
+    ]
+   },
+   "져스틴": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'져스틴' 넣지 않음: totalhits 3, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "kevin",
+  "type": "given",
+  "ko_std": "케빈",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "케빈": 7292,
+   "캐빈": 280
+  },
+  "person_check": {
+   "케빈": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 143,
+    "examples": [
+     "케빈 내시 (en: Kevin Nash)",
+     "케빈 (1998년) (en: Kevin Moon (singer))",
+     "케빈 더 브라위너 (en: Kevin De Bruyne)"
+    ]
+   },
+   "캐빈": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'캐빈' 넣지 않음: totalhits 280, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "eric",
+  "type": "given",
+  "ko_std": "에릭",
+  "ko_alt": [
+   "에리크"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"에리크\" totalhits 1355 (표준 \"에릭\" 8731); 제목 첫 낱말이 '에리크'이고 영어판 제목 이름이 Eric인 인물 문서 27개(제목 검색 상위 500 중) 예: '에리크 캉토나 (en: Eric Cantona)' / '에리크 2세 (en: Eric II of Denmark)' / '에리크 3세 (en: Eric III of Denmark)'",
+  "ko_count": {
+   "에릭": 8731,
+   "에리크": 1355
+  },
+  "person_check": {
+   "에릭": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 113,
+    "examples": [
+     "에릭 클랩튼 (en: Eric Clapton)",
+     "에릭 (가수) (en: Eric Mun)",
+     "에릭 얼린 코넬 (en: Eric Allin Cornell)"
+    ]
+   },
+   "에리크": {
+    "title_first_word_matches": 96,
+    "en_first_name_verified": 27,
+    "examples": [
+     "에리크 캉토나 (en: Eric Cantona)",
+     "에리크 2세 (en: Eric II of Denmark)",
+     "에리크 3세 (en: Eric III of Denmark)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 113 / '에리크' 27 / '에리크': 북유럽·독일어권 Erik 표기와 섞임"
+ },
+ {
+  "key": "ryan",
+  "type": "given",
+  "ko_std": "라이언",
+  "ko_alt": [
+   "라이안"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"라이안\" totalhits 33 (표준 \"라이언\" 5981); 제목 첫 낱말이 '라이안'이고 영어판 제목 이름이 Ryan인 인물 문서 1개(제목 검색 상위 500 중) 예: '라이안 바벌 (en: Ryan Babel)'",
+  "ko_count": {
+   "라이언": 5981,
+   "라이안": 33
+  },
+  "person_check": {
+   "라이언": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 132,
+    "examples": [
+     "라이언 피어밴드 (en: Ryan Feierabend)",
+     "라이언 고슬링 (en: Ryan Gosling)",
+     "라이언 긱스 (en: Ryan Giggs)"
+    ]
+   },
+   "라이안": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 1,
+    "examples": [
+     "라이안 바벌 (en: Ryan Babel)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 132 / '라이안' 1"
+ },
+ {
+  "key": "jeffrey",
+  "type": "given",
+  "ko_std": "제프리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "제프리": 3728,
+   "재프리": 180
+  },
+  "person_check": {
+   "제프리": {
+    "title_first_word_matches": 79,
+    "en_first_name_verified": 45,
+    "examples": [
+     "제프리 C. 홀 (en: Jeffrey C. Hall)",
+     "제프리 탬버 (en: Jeffrey Tambor)",
+     "제프리 캐천버그 (en: Jeffrey Katzenberg)"
+    ]
+   },
+   "재프리": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'재프리' 넣지 않음: totalhits 180, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "mark",
+  "type": "given",
+  "ko_std": "마크",
+  "ko_alt": [
+   "마르크"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"마르크\" totalhits 2108 (표준 \"마크\" 13636); 제목 첫 낱말이 '마르크'이고 영어판 제목 이름이 Mark인 인물 문서 23개(제목 검색 상위 500 중) 예: '마르크 판 보멀 (en: Mark van Bommel)' / '마르크 율리아노 (en: Mark Iuliano)' / '마르크 뤼터 (en: Mark Rutte)'",
+  "ko_count": {
+   "마크": 13636,
+   "마르크": 2108
+  },
+  "person_check": {
+   "마크": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 120,
+    "examples": [
+     "마크 (1999년) (en: Mark (rapper))",
+     "마크 투안 (en: Mark Tuan)",
+     "마크 헨리 (en: Mark Henry)"
+    ]
+   },
+   "마르크": {
+    "title_first_word_matches": 77,
+    "en_first_name_verified": 23,
+    "examples": [
+     "마르크 판 보멀 (en: Mark van Bommel)",
+     "마르크 율리아노 (en: Mark Iuliano)",
+     "마르크 뤼터 (en: Mark Rutte)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 120 / '마르크' 23 / '마르크': 프랑스·독일어권 표기, 화폐 마르크와 섞임"
+ },
+ {
+  "key": "steven",
+  "type": "given",
+  "ko_std": "스티븐",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "스티븐": 10524,
+   "스티번": 11
+  },
+  "person_check": {
+   "스티븐": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 51,
+    "examples": [
+     "스티븐 스필버그 (en: Steven Spielberg)",
+     "스티븐 제라드 (en: Steven Gerrard)",
+     "스티븐 와인버그 (en: Steven Weinberg)"
+    ]
+   },
+   "스티번": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'스티번' 넣지 않음: totalhits 11, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "stephen",
+  "type": "given",
+  "ko_std": "스티븐",
+  "ko_alt": [
+   "스테판"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"스테판\" totalhits 3145 (표준 \"스티븐\" 10524); 제목 첫 낱말이 '스테판'이고 영어판 제목 이름이 Stephen인 인물 문서 7개(제목 검색 상위 500 중) 예: '스테판 바토리 (en: Stephen Báthory)' / '스테판 티모셴코 (en: Stephen Timoshenko)' / '스테판 손 (en: Stephen Sohn)'",
+  "ko_count": {
+   "스티븐": 10524,
+   "스테판": 3145,
+   "스테펀": 85
+  },
+  "person_check": {
+   "스티븐": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 91,
+    "examples": [
+     "스티븐 호킹 (en: Stephen Hawking)",
+     "스티븐 하퍼 (en: Stephen Harper)",
+     "스티븐 개건 (en: Stephen Gaghan)"
+    ]
+   },
+   "스테판": {
+    "title_first_word_matches": 98,
+    "en_first_name_verified": 7,
+    "examples": [
+     "스테판 바토리 (en: Stephen Báthory)",
+     "스테판 티모셴코 (en: Stephen Timoshenko)",
+     "스테판 손 (en: Stephen Sohn)"
+    ]
+   },
+   "스테펀": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 91 / '스테판' 7 / '스테판': Stefan/Stéphane 등과 섞임 / '스테펀' 넣지 않음: totalhits 85, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "alexander",
+  "type": "given",
+  "ko_std": "알렉산더",
+  "ko_alt": [
+   "알렉산드르",
+   "알렉산데르"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"알렉산드르\" totalhits 3688 (표준 \"알렉산더\" 7193); 제목 첫 낱말이 '알렉산드르'이고 영어판 제목 이름이 Alexander인 인물 문서 79개(제목 검색 상위 500 중) 예: '알렉산드르 푸시킨 (en: Alexander Pushkin)' / '알렉산드르 1세 (en: Alexander I of Russia)' / '알렉산드르 2세 (en: Alexander II of Russia)'; 한국어 위키백과 본문 검색 \"알렉산데르\" totalhits 1412 (표준 \"알렉산더\" 7193); 제목 첫 낱말이 '알렉산데르'이고 영어판 제목 이름이 Alexander인 인물 문서 24개(제목 검색 상위 500 중) 예: '알렉산데르 둡체크 (en: Alexander Dubček)' / '알렉산데르 이사크 (en: Alexander Isak)' / '알렉산데르 스카르스고르드 (en: Alexander Skarsgård)'",
+  "ko_count": {
+   "알렉산더": 7193,
+   "알렉산드르": 3688,
+   "앨릭잰더": 2,
+   "알렉산데르": 1412
+  },
+  "person_check": {
+   "알렉산더": {
+    "title_first_word_matches": 144,
+    "en_first_name_verified": 127,
+    "examples": [
+     "알렉산더 그레이엄 벨 (en: Alexander Graham Bell)",
+     "알렉산더 카트라이트 (en: Alexander Cartwright)",
+     "알렉산더 해밀턴 (en: Alexander Hamilton)"
+    ]
+   },
+   "알렉산드르": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 79,
+    "examples": [
+     "알렉산드르 푸시킨 (en: Alexander Pushkin)",
+     "알렉산드르 1세 (en: Alexander I of Russia)",
+     "알렉산드르 2세 (en: Alexander II of Russia)"
+    ]
+   },
+   "앨릭잰더": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "알렉산데르": {
+    "title_first_word_matches": 37,
+    "en_first_name_verified": 24,
+    "examples": [
+     "알렉산데르 둡체크 (en: Alexander Dubček)",
+     "알렉산데르 이사크 (en: Alexander Isak)",
+     "알렉산데르 스카르스고르드 (en: Alexander Skarsgård)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 127 / '알렉산드르' 79 / '알렉산드르': 러시아어권 표기 / '앨릭잰더' 넣지 않음: totalhits 2, 영어 이름 확인된 인물 문서 0개 / 인물 문서 수(영어 이름 확인) 표준 127 / '알렉산데르' 24 / '알렉산데르': 북유럽·독일어권 표기"
+ },
+ {
+  "key": "paul",
+  "type": "given",
+  "ko_std": "폴",
+  "ko_alt": [
+   "파울",
+   "바울"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"파울\" totalhits 2891 (표준 \"폴\" 19897); 제목 첫 낱말이 '파울'이고 영어판 제목 이름이 Paul인 인물 문서 76개(제목 검색 상위 500 중) 예: '파울 헤르만 뮐러 (en: Paul Hermann Müller)' / '파울 크뤼천 (en: Paul J. Crutzen)' / '파울 에를리히 (en: Paul Ehrlich)'; 한국어 위키백과 본문 검색 \"바울\" totalhits 355 (표준 \"폴\" 19897); 제목 첫 낱말이 '바울'이고 영어판 제목 이름이 Paul인 인물 문서 1개(제목 검색 상위 500 중) 예: '바울 (영화) (en: Paul, Apostle of Christ)'",
+  "ko_count": {
+   "폴": 19897,
+   "파울": 2891,
+   "바울": 355
+  },
+  "person_check": {
+   "폴": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 139,
+    "examples": [
+     "폴 지어마티 (en: Paul Giamatti)",
+     "폴 너스 (en: Paul Nurse)",
+     "폴 로터버 (en: Paul Lauterbur)"
+    ]
+   },
+   "파울": {
+    "title_first_word_matches": 90,
+    "en_first_name_verified": 76,
+    "examples": [
+     "파울 헤르만 뮐러 (en: Paul Hermann Müller)",
+     "파울 크뤼천 (en: Paul J. Crutzen)",
+     "파울 에를리히 (en: Paul Ehrlich)"
+    ]
+   },
+   "바울": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "바울 (영화) (en: Paul, Apostle of Christ)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 139 / '파울' 76 / '파울': 독일어권 Paul 표기 / 인물 문서 수(영어 이름 확인) 표준 139 / '바울' 1 / '바울': 성서 표기(사도 바울)"
+ },
+ {
+  "key": "gregory",
+  "type": "given",
+  "ko_std": "그레고리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "그레고리": 2191
+  },
+  "person_check": {
+   "그레고리": {
+    "title_first_word_matches": 50,
+    "en_first_name_verified": 40,
+    "examples": [
+     "그레고리 헬름스 (en: Gregory Helms)",
+     "그레고리 윈터 (en: Gregory Winter)",
+     "그레고리 펙 (en: Gregory Peck)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "tyler",
+  "type": "given",
+  "ko_std": "타일러",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "타일러": 2120
+  },
+  "person_check": {
+   "타일러": {
+    "title_first_word_matches": 52,
+    "en_first_name_verified": 49,
+    "examples": [
+     "타일러 윌슨 (야구 선수) (en: Tyler Wilson (baseball))",
+     "타일러 라쉬 (en: Tyler Rasch)",
+     "타일러 화이트 (en: Tyler White)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "austin",
+  "type": "given",
+  "ko_std": "오스틴",
+  "ko_alt": [
+   "어스틴"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"어스틴\" totalhits 35 (표준 \"오스틴\" 3339); 제목 첫 낱말이 '어스틴'이고 영어판 제목 이름이 Austin인 인물 문서 1개(제목 검색 상위 500 중) 예: '어스틴 마든 (en: Austin Mardon)'",
+  "ko_count": {
+   "오스틴": 3339,
+   "어스틴": 35
+  },
+  "person_check": {
+   "오스틴": {
+    "title_first_word_matches": 61,
+    "en_first_name_verified": 54,
+    "examples": [
+     "오스틴 (텍사스주) (en: Austin, Texas)",
+     "오스틴 딘 (en: Austin Dean)",
+     "오스틴 에리스 (en: Austin Aries)"
+    ]
+   },
+   "어스틴": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 1,
+    "examples": [
+     "어스틴 마든 (en: Austin Mardon)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 54 / '어스틴' 1"
+ },
+ {
+  "key": "teddy",
+  "type": "given",
+  "ko_std": "테디",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "테디": 1022
+  },
+  "person_check": {
+   "테디": {
+    "title_first_word_matches": 20,
+    "en_first_name_verified": 19,
+    "examples": [
+     "테디 (음악가) (en: Teddy Park)",
+     "테디 (en: Teddy (disambiguation))",
+     "테디 베어 (en: Teddy bear)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "ted",
+  "type": "given",
+  "ko_std": "테드",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "테드": 2850
+  },
+  "person_check": {
+   "테드": {
+    "title_first_word_matches": 69,
+    "en_first_name_verified": 67,
+    "examples": [
+     "테드 디비아시 주니어 (en: Ted DiBiase Jr.)",
+     "테드 디비아시 (en: Ted DiBiase)",
+     "테드 스티븐스 앵커리지 국제공항 (en: Ted Stevens Anchorage International Airport)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "harry",
+  "type": "given",
+  "ko_std": "해리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "해리": 7788
+  },
+  "person_check": {
+   "해리": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 127,
+    "examples": [
+     "해리 S. 트루먼 (en: Harry S. Truman)",
+     "해리 포터 (en: Harry Potter)",
+     "해리 포터와 죽음의 성물 2부 (en: Harry Potter and the Deathly Hallows – Part 2)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "hank",
+  "type": "given",
+  "ko_std": "행크",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "행크": 831
+  },
+  "person_check": {
+   "행크": {
+    "title_first_word_matches": 21,
+    "en_first_name_verified": 18,
+    "examples": [
+     "행크 에런 (en: Hank Aaron)",
+     "행크 그린버그 (en: Hank Greenberg)",
+     "행크 핌 (en: Hank Pym)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jim",
+  "type": "given",
+  "ko_std": "짐",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "짐": 6179
+  },
+  "person_check": {
+   "짐": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 135,
+    "examples": [
+     "짐 더건 (en: Jim Duggan)",
+     "짐 보텀리 (en: Jim Bottomley)",
+     "짐 브로드벤트 (en: Jim Broadbent)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jimmy",
+  "type": "given",
+  "ko_std": "지미",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "지미": 4840
+  },
+  "person_check": {
+   "지미": {
+    "title_first_word_matches": 122,
+    "en_first_name_verified": 96,
+    "examples": [
+     "지미 키멀 라이브! (en: Jimmy Kimmel Live!)",
+     "지미 스누카 (en: Jimmy Snuka)",
+     "지미 카터 (en: Jimmy Carter)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jay",
+  "type": "given",
+  "ko_std": "제이",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "제이": 5237
+  },
+  "person_check": {
+   "제이": {
+    "title_first_word_matches": 115,
+    "en_first_name_verified": 94,
+    "examples": [
+     "제이 (1983년) (en: Jay (South Korean singer))",
+     "제이 데이비스 (en: Jay Davis)",
+     "제이 리설 (en: Jay Lethal)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "eli",
+  "type": "given",
+  "ko_std": "일라이",
+  "ko_alt": [
+   "엘리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"엘리\" totalhits 1987 (표준 \"일라이\" 503); 제목 첫 낱말이 '엘리'이고 영어판 제목 이름이 Eli인 인물 문서 12개(제목 검색 상위 500 중) 예: '엘리 (성경 인물) (en: Eli (biblical figure))' / '엘리 앤드 에디스 브로드 미술관 (en: Eli and Edythe Broad Art Museum)' / '엘리 브로드 (en: Eli Broad)'",
+  "ko_count": {
+   "일라이": 503,
+   "엘리": 1987,
+   "엘라이": 5
+  },
+  "person_check": {
+   "일라이": {
+    "title_first_word_matches": 13,
+    "en_first_name_verified": 10,
+    "examples": [
+     "일라이 월릭 (en: Eli Wallach)",
+     "일라이 휘트니 (en: Eli Whitney)",
+     "일라이 (가수) (en: Eli Kim)"
+    ]
+   },
+   "엘리": {
+    "title_first_word_matches": 42,
+    "en_first_name_verified": 12,
+    "examples": [
+     "엘리 (성경 인물) (en: Eli (biblical figure))",
+     "엘리 앤드 에디스 브로드 미술관 (en: Eli and Edythe Broad Art Museum)",
+     "엘리 브로드 (en: Eli Broad)"
+    ]
+   },
+   "엘라이": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '엘리'(본문 totalhits 1987 > 표준 503) / 인물 문서 수(영어 이름 확인) 표준 10 / '엘리' 12 / '엘리': Ellie 등 다른 이름과 섞임 / '엘라이' 넣지 않음: totalhits 5, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "bill",
+  "type": "given",
+  "ko_std": "빌",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "빌": 9139
+  },
+  "person_check": {
+   "빌": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 141,
+    "examples": [
+     "빌 클린턴 (en: Bill Clinton)",
+     "빌 게이츠 (en: Bill Gates)",
+     "빌 디키 (en: Bill Dickey)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "will",
+  "type": "given",
+  "ko_std": "윌",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "윌": 3778
+  },
+  "person_check": {
+   "윌": {
+    "title_first_word_matches": 80,
+    "en_first_name_verified": 70,
+    "examples": [
+     "윌 스미스 (en: Will Smith)",
+     "윌 크레익 (en: Will Craig)",
+     "윌 앤 그레이스 (en: Will & Grace)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "billy",
+  "type": "given",
+  "ko_std": "빌리",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "빌리": 5629
+  },
+  "person_check": {
+   "빌리": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 113,
+    "examples": [
+     "빌리 밥 손턴 (en: Billy Bob Thornton)",
+     "빌리 조엘 (en: Billy Joel)",
+     "빌리 건 (en: Billy Gunn)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "ben",
+  "type": "given",
+  "ko_std": "벤",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "벤": 7063
+  },
+  "person_check": {
+   "벤": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 142,
+    "examples": [
+     "벤 (대한민국의 가수) (en: Ben (South Korean singer))",
+     "벤 킹즐리 (en: Ben Kingsley)",
+     "벤 버냉키 (en: Ben Bernanke)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "benny",
+  "type": "given",
+  "ko_std": "베니",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "베니": 1281
+  },
+  "person_check": {
+   "베니": {
+    "title_first_word_matches": 34,
+    "en_first_name_verified": 19,
+    "examples": [
+     "베니 브라운 (en: Benny Brown)",
+     "베니 페일하버 (en: Benny Feilhaber)",
+     "베니 굿맨 (en: Benny Goodman)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jackie",
+  "type": "given",
+  "ko_std": "재키",
+  "ko_alt": [
+   "잭키"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"잭키\" totalhits 124 (표준 \"재키\" 1451); 제목 첫 낱말이 '잭키'이고 영어판 제목 이름이 Jackie인 인물 문서 1개(제목 검색 상위 500 중) 예: '잭키 베이스하트 (en: Jackie Basehart)'",
+  "ko_count": {
+   "재키": 1451,
+   "잭키": 124
+  },
+  "person_check": {
+   "재키": {
+    "title_first_word_matches": 39,
+    "en_first_name_verified": 30,
+    "examples": [
+     "재키 로빈슨 (en: Jackie Robinson)",
+     "재키 잭슨 (en: Jackie Jackson)",
+     "재키 브래들리 주니어 (en: Jackie Bradley Jr.)"
+    ]
+   },
+   "잭키": {
+    "title_first_word_matches": 3,
+    "en_first_name_verified": 1,
+    "examples": [
+     "잭키 베이스하트 (en: Jackie Basehart)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 30 / '잭키' 1"
+ },
+ {
+  "key": "johnny",
+  "type": "given",
+  "ko_std": "조니",
+  "ko_alt": [
+   "쟈니",
+   "자니"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"쟈니\" totalhits 369 (표준 \"조니\" 3823); 제목 첫 낱말이 '쟈니'이고 영어판 제목 이름이 Johnny인 인물 문서 7개(제목 검색 상위 500 중) 예: '쟈니 (가수) (en: Johnny (singer))' / '쟈니 잉글리쉬 2: 네버다이 (en: Johnny English Reborn)' / '쟈니 기타 (en: Johnny Guitar)'; 한국어 위키백과 본문 검색 \"자니\" totalhits 905 (표준 \"조니\" 3823); 제목 첫 낱말이 '자니'이고 영어판 제목 이름이 Johnny인 인물 문서 20개(제목 검색 상위 500 중) 예: '자니 키타가와 (en: Johnny Kitagawa)' / '자니 로켓 (en: Johnny Rockets)' / '자니 윤 (en: Johnny Yune)'",
+  "ko_count": {
+   "조니": 3823,
+   "쟈니": 369,
+   "자니": 905
+  },
+  "person_check": {
+   "조니": {
+    "title_first_word_matches": 115,
+    "en_first_name_verified": 80,
+    "examples": [
+     "조니 뎁 (en: Johnny Depp)",
+     "조니 벤치 (en: Johnny Bench)",
+     "조니 마이즈 (en: Johnny Mize)"
+    ]
+   },
+   "쟈니": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 7,
+    "examples": [
+     "쟈니 (가수) (en: Johnny (singer))",
+     "쟈니 잉글리쉬 2: 네버다이 (en: Johnny English Reborn)",
+     "쟈니 기타 (en: Johnny Guitar)"
+    ]
+   },
+   "자니": {
+    "title_first_word_matches": 29,
+    "en_first_name_verified": 20,
+    "examples": [
+     "자니 키타가와 (en: Johnny Kitagawa)",
+     "자니 로켓 (en: Johnny Rockets)",
+     "자니 윤 (en: Johnny Yune)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 80 / '쟈니' 7 / 인물 문서 수(영어 이름 확인) 표준 80 / '자니' 20"
+ },
+ {
+  "key": "jules",
+  "type": "given",
+  "ko_std": "줄스",
+  "ko_alt": [
+   "쥘"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"쥘\" totalhits 1176 (표준 \"줄스\" 402); 제목 첫 낱말이 '쥘'이고 영어판 제목 이름이 Jules인 인물 문서 36개(제목 검색 상위 500 중) 예: '쥘 보르데 (en: Jules Bordet)' / '쥘 호프만 (en: Jules A. Hoffmann)' / '쥘 페리 (en: Jules Ferry)'",
+  "ko_count": {
+   "줄스": 402,
+   "쥘": 1176
+  },
+  "person_check": {
+   "줄스": {
+    "title_first_word_matches": 7,
+    "en_first_name_verified": 5,
+    "examples": [
+     "줄스 다신 (en: Jules Dassin)",
+     "줄스 파스킨 (en: Jules Pascin)",
+     "줄스 르블랑 (en: Jules LeBlanc)"
+    ]
+   },
+   "쥘": {
+    "title_first_word_matches": 40,
+    "en_first_name_verified": 36,
+    "examples": [
+     "쥘 보르데 (en: Jules Bordet)",
+     "쥘 호프만 (en: Jules A. Hoffmann)",
+     "쥘 페리 (en: Jules Ferry)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '쥘'(본문 totalhits 1176 > 표준 402) / 인물 문서 수(영어 이름 확인) 표준 5 / '쥘' 36 / '쥘': 프랑스어권 표기"
+ },
+ {
+  "key": "joe",
+  "type": "given",
+  "ko_std": "조",
+  "ko_alt": [
+   "죠"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"죠\" totalhits 617 (표준 \"조\" 32892); 제목 첫 낱말이 '죠'이고 영어판 제목 이름이 Joe인 인물 문서 3개(제목 검색 상위 500 중) 예: '죠 피스코포 (en: Joe Piscopo)' / '죠 & 맥 싸워라 원시인 (en: Joe & Mac)' / '죠 채펠리 (en: Joe Chappelle)'",
+  "ko_count": {
+   "조": 32892,
+   "죠": 617
+  },
+  "person_check": {
+   "조": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   },
+   "죠": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 3,
+    "examples": [
+     "죠 피스코포 (en: Joe Piscopo)",
+     "죠 & 맥 싸워라 원시인 (en: Joe & Mac)",
+     "죠 채펠리 (en: Joe Chappelle)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 0 / '죠' 3"
+ },
+ {
+  "key": "joey",
+  "type": "given",
+  "ko_std": "조이",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "조이": 3849,
+   "죠이": 18
+  },
+  "person_check": {
+   "조이": {
+    "title_first_word_matches": 99,
+    "en_first_name_verified": 41,
+    "examples": [
+     "조이 (en: Joey)",
+     "조이 보토 (en: Joey Votto)",
+     "조이 크레이머 (en: Joey Kramer)"
+    ]
+   },
+   "죠이": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'죠이' 넣지 않음: totalhits 18, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "mike",
+  "type": "given",
+  "ko_std": "마이크",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "마이크": 8125
+  },
+  "person_check": {
+   "마이크": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 138,
+    "examples": [
+     "마이크 슈미트 (en: Mike Schmidt)",
+     "마이크 피아자 (en: Mike Piazza)",
+     "마이크 니컬스 (en: Mike Nichols)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "mick",
+  "type": "given",
+  "ko_std": "믹",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "믹": 993
+  },
+  "person_check": {
+   "믹": {
+    "title_first_word_matches": 20,
+    "en_first_name_verified": 16,
+    "examples": [
+     "믹 폴리 (en: Mick Foley)",
+     "믹 테일러 (en: Mick Taylor)",
+     "믹 매카시 (en: Mick McCarthy)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "mickey",
+  "type": "given",
+  "ko_std": "미키",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "미키": 4619
+  },
+  "person_check": {
+   "미키": {
+    "title_first_word_matches": 73,
+    "en_first_name_verified": 36,
+    "examples": [
+     "미키 웰치 (en: Mickey Welch)",
+     "미키 맨틀 (en: Mickey Mantle)",
+     "미키 루크 (en: Mickey Rourke)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "sam",
+  "type": "given",
+  "ko_std": "샘",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "샘": 7502,
+   "쌤": 55
+  },
+  "person_check": {
+   "샘": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 135,
+    "examples": [
+     "샘 김 (en: Sam Kim)",
+     "샘 해밍턴 (en: Sam Hammington)",
+     "샘 록웰 (en: Sam Rockwell)"
+    ]
+   },
+   "쌤": {
+    "title_first_word_matches": 1,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'쌤' 넣지 않음: totalhits 55, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "sammy",
+  "type": "given",
+  "ko_std": "새미",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "새미": 635,
+   "쌔미": 3
+  },
+  "person_check": {
+   "새미": {
+    "title_first_word_matches": 23,
+    "en_first_name_verified": 16,
+    "examples": [
+     "새미 데이비스 주니어 (en: Sammy Davis Jr.)",
+     "새미 헤이거 (en: Sammy Hagar)",
+     "새미 소사 (en: Sammy Sosa)"
+    ]
+   },
+   "쌔미": {
+    "title_first_word_matches": 0,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'쌔미' 넣지 않음: totalhits 3, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "tom",
+  "type": "given",
+  "ko_std": "톰",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "톰": 10184
+  },
+  "person_check": {
+   "톰": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 134,
+    "examples": [
+     "톰 크루즈 (en: Tom Cruise)",
+     "톰 존스의 화려한 모험 (en: Tom Jones (1963 film))",
+     "톰 시버 (en: Tom Seaver)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "tommy",
+  "type": "given",
+  "ko_std": "토미",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "토미": 2687
+  },
+  "person_check": {
+   "토미": {
+    "title_first_word_matches": 101,
+    "en_first_name_verified": 85,
+    "examples": [
+     "토미 라소다 (en: Tommy Lasorda)",
+     "토미 리 존스 (en: Tommy Lee Jones)",
+     "토미 조지프 (en: Tommy Joseph)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "chris",
+  "type": "given",
+  "ko_std": "크리스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "크리스": 8901
+  },
+  "person_check": {
+   "크리스": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 134,
+    "examples": [
+     "크리스 벤와 (en: Chris Benoit)",
+     "크리스 세든 (en: Chris Seddon)",
+     "크리스 제리코 (en: Chris Jericho)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "davy",
+  "type": "given",
+  "ko_std": "데이비",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "데이비": 707,
+   "데비": 1564
+  },
+  "person_check": {
+   "데이비": {
+    "title_first_word_matches": 12,
+    "en_first_name_verified": 6,
+    "examples": [
+     "데이비 크로켓 (핵무기) (en: Davy Crockett (nuclear device))",
+     "데이비 클라선 (en: Davy Klaassen)",
+     "데이비 존스 (음악가) (en: Davy Jones (musician))"
+    ]
+   },
+   "데비": {
+    "title_first_word_matches": 25,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'데비' 넣지 않음: totalhits 1564, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "bob",
+  "type": "given",
+  "ko_std": "밥",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "밥": 7295
+  },
+  "person_check": {
+   "밥": {
+    "title_first_word_matches": 145,
+    "en_first_name_verified": 137,
+    "examples": [
+     "밥 딜런 (en: Bob Dylan)",
+     "밥 배클런드 (en: Bob Backlund)",
+     "밥 펠러 (en: Bob Feller)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "dan",
+  "type": "given",
+  "ko_std": "댄",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "댄": 4888
+  },
+  "person_check": {
+   "댄": {
+    "title_first_word_matches": 127,
+    "en_first_name_verified": 120,
+    "examples": [
+     "댄 스트레일리 (en: Dan Straily)",
+     "댄 로마이어 (en: Dan Rohrmeier)",
+     "댄 브루서스 (en: Dan Brouthers)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "danny",
+  "type": "given",
+  "ko_std": "대니",
+  "ko_alt": [
+   "데니"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"데니\" totalhits 550 (표준 \"대니\" 3298); 제목 첫 낱말이 '데니'이고 영어판 제목 이름이 Danny인 인물 문서 1개(제목 검색 상위 500 중) 예: '데니 안 (en: Danny Ahn)'",
+  "ko_count": {
+   "대니": 3298,
+   "데니": 550
+  },
+  "person_check": {
+   "대니": {
+    "title_first_word_matches": 113,
+    "en_first_name_verified": 102,
+    "examples": [
+     "대니 팬텀 (en: Danny Phantom)",
+     "대니 보일 (en: Danny Boyle)",
+     "대니 글러버 (en: Danny Glover)"
+    ]
+   },
+   "데니": {
+    "title_first_word_matches": 16,
+    "en_first_name_verified": 1,
+    "examples": [
+     "데니 안 (en: Danny Ahn)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 102 / '데니' 1 / '데니': Denny 등과 섞임"
+ },
+ {
+  "key": "andy",
+  "type": "given",
+  "ko_std": "앤디",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "앤디": 3466,
+   "엔디": 34
+  },
+  "person_check": {
+   "앤디": {
+    "title_first_word_matches": 100,
+    "en_first_name_verified": 88,
+    "examples": [
+     "앤디 밴 헤켄 (en: Andy Van Hekken)",
+     "앤디 서키스 (en: Andy Serkis)",
+     "앤디 (가수) (en: Andy Lee (South Korean singer))"
+    ]
+   },
+   "엔디": {
+    "title_first_word_matches": 2,
+    "en_first_name_verified": 0,
+    "examples": []
+   }
+  },
+  "note": "'엔디' 넣지 않음: totalhits 34, 영어 이름 확인된 인물 문서 0개"
+ },
+ {
+  "key": "nick",
+  "type": "given",
+  "ko_std": "닉",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "닉": 4681
+  },
+  "person_check": {
+   "닉": {
+    "title_first_word_matches": 140,
+    "en_first_name_verified": 127,
+    "examples": [
+     "닉 놀티 (en: Nick Nolte)",
+     "닉 킹엄 (en: Nick Kingham)",
+     "닉 에번스 (en: Nick Evans (baseball))"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jake",
+  "type": "given",
+  "ko_std": "제이크",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "제이크": 1958
+  },
+  "person_check": {
+   "제이크": {
+    "title_first_word_matches": 81,
+    "en_first_name_verified": 74,
+    "examples": [
+     "제이크 헤이거 (en: Jake Hager)",
+     "제이크 브리검 (en: Jake Brigham)",
+     "제이크 질런홀 (en: Jake Gyllenhaal)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jeff",
+  "type": "given",
+  "ko_std": "제프",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "제프": 6547
+  },
+  "person_check": {
+   "제프": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 117,
+    "examples": [
+     "제프 재럿 (en: Jeff Jarrett)",
+     "제프 하디 (en: Jeff Hardy)",
+     "제프 딘 (en: Jeff Dean)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "rick",
+  "type": "given",
+  "ko_std": "릭",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "릭": 3050
+  },
+  "person_check": {
+   "릭": {
+    "title_first_word_matches": 97,
+    "en_first_name_verified": 76,
+    "examples": [
+     "릭 판 덴 휘르크 (en: Rick van den Hurk)",
+     "릭 스타이너 (en: Rick Steiner)",
+     "릭 거톰슨 (en: Rick Guttormson)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "dick",
+  "type": "given",
+  "ko_std": "딕",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "딕": 2686
+  },
+  "person_check": {
+   "딕": {
+    "title_first_word_matches": 68,
+    "en_first_name_verified": 68,
+    "examples": [
+     "딕 아드보카트 (en: Dick Advocaat)",
+     "딕 테일러 (en: Dick Taylor)",
+     "딕 그레이슨 (en: Dick Grayson)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "richie",
+  "type": "given",
+  "ko_std": "리치",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "리치": 4337
+  },
+  "person_check": {
+   "리치": {
+    "title_first_word_matches": 54,
+    "en_first_name_verified": 14,
+    "examples": [
+     "리치 애시번 (en: Richie Ashburn)",
+     "리치 리치 (en: Richie Rich)",
+     "리치 러레이아 (en: Richie Laryea)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "jon",
+  "type": "given",
+  "ko_std": "존",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "존": 40306
+  },
+  "person_check": {
+   "존": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 8,
+    "examples": [
+     "존 목슬리 (en: Jon Moxley)",
+     "존 보이트 (en: Jon Voight)",
+     "존 배티스트 (en: Jon Batiste)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "steve",
+  "type": "given",
+  "ko_std": "스티브",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "스티브": 7384
+  },
+  "person_check": {
+   "스티브": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 143,
+    "examples": [
+     "스티브 잡스 (en: Steve Jobs)",
+     "스티브 워즈니악 (en: Steve Wozniak)",
+     "스티브 칼턴 (en: Steve Carlton)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "tony",
+  "type": "given",
+  "ko_std": "토니",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "토니": 6777
+  },
+  "person_check": {
+   "토니": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 114,
+    "examples": [
+     "토니 안 (en: Tony An)",
+     "토니 블레어 (en: Tony Blair)",
+     "토니 라제리 (en: Tony Lazzeri)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "tim",
+  "type": "given",
+  "ko_std": "팀",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "팀": 29573
+  },
+  "person_check": {
+   "팀": {
+    "title_first_word_matches": 150,
+    "en_first_name_verified": 112,
+    "examples": [
+     "팀 버너스리 (en: Tim Berners-Lee)",
+     "팀 키프 (en: Tim Keefe)",
+     "팀 케이힐 (en: Tim Cahill)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "olivia",
+  "type": "given",
+  "ko_std": "올리비아",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "올리비아": 1342
+  },
+  "person_check": {
+   "올리비아": {
+    "title_first_word_matches": 53,
+    "en_first_name_verified": 53,
+    "examples": [
+     "올리비아 콜먼 (en: Olivia Colman)",
+     "올리비아 드 하빌랜드 (en: Olivia de Havilland)",
+     "올리비아 핫세 (en: Olivia Hussey)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "charlotte",
+  "type": "given",
+  "ko_std": "샬럿",
+  "ko_alt": [
+   "샬롯",
+   "샤를로트"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"샬롯\" totalhits 561 (표준 \"샬럿\" 1741); 제목 첫 낱말이 '샬롯'이고 영어판 제목 이름이 Charlotte인 인물 문서 3개(제목 검색 상위 500 중) 예: '샬롯 설리번 (en: Charlotte Sullivan)' / '샬롯 담부아즈 (en: Charlotte d'Amboise)' / '샬롯 애나 퍼킨스 길먼 (en: Charlotte Perkins Gilman)'; 한국어 위키백과 본문 검색 \"샤를로트\" totalhits 664 (표준 \"샬럿\" 1741); 제목 첫 낱말이 '샤를로트'이고 영어판 제목 이름이 Charlotte인 인물 문서 14개(제목 검색 상위 500 중) 예: '샤를로트 갱스부르 (en: Charlotte Gainsbourg)' / '샤를로트 (룩셈부르크) (en: Charlotte, Grand Duchess of Luxembourg)' / '샤를로트 (애니메이션) (en: Charlotte (TV series))'",
+  "ko_count": {
+   "샬럿": 1741,
+   "샬롯": 561,
+   "샤를로트": 664
+  },
+  "person_check": {
+   "샬럿": {
+    "title_first_word_matches": 40,
+    "en_first_name_verified": 37,
+    "examples": [
+     "샬럿 콜리시엄 (en: Charlotte Coliseum)",
+     "샬럿 램플링 (en: Charlotte Rampling)",
+     "샬럿 플레어 (en: Charlotte Flair)"
+    ]
+   },
+   "샬롯": {
+    "title_first_word_matches": 9,
+    "en_first_name_verified": 3,
+    "examples": [
+     "샬롯 설리번 (en: Charlotte Sullivan)",
+     "샬롯 담부아즈 (en: Charlotte d'Amboise)",
+     "샬롯 애나 퍼킨스 길먼 (en: Charlotte Perkins Gilman)"
+    ]
+   },
+   "샤를로트": {
+    "title_first_word_matches": 16,
+    "en_first_name_verified": 14,
+    "examples": [
+     "샤를로트 갱스부르 (en: Charlotte Gainsbourg)",
+     "샤를로트 (룩셈부르크) (en: Charlotte, Grand Duchess of Luxembourg)",
+     "샤를로트 (애니메이션) (en: Charlotte (TV series))"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 37 / '샬롯' 3 / 인물 문서 수(영어 이름 확인) 표준 37 / '샤를로트' 14 / '샤를로트': 프랑스·독일어권 표기"
+ },
+ {
+  "key": "sophia",
+  "type": "given",
+  "ko_std": "소피아",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "소피아": 3652
+  },
+  "person_check": {
+   "소피아": {
+    "title_first_word_matches": 55,
+    "en_first_name_verified": 18,
+    "examples": [
+     "소피아 로렌 (en: Sophia Loren)",
+     "소피아 디마티노 (en: Sophia Di Martino)",
+     "소피아 (지혜) (en: Sophia (wisdom))"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "mia",
+  "type": "given",
+  "ko_std": "미아",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "미아": 1416
+  },
+  "person_check": {
+   "미아": {
+    "title_first_word_matches": 26,
+    "en_first_name_verified": 20,
+    "examples": [
+     "미아 패로 (en: Mia Farrow)",
+     "미아 햄 (en: Mia Hamm)",
+     "미아 세라 (en: Mia Sara)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "sofia",
+  "type": "given",
+  "ko_std": "소피아",
+  "ko_alt": [
+   "소피야"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"소피야\" totalhits 127 (표준 \"소피아\" 3652); 제목 첫 낱말이 '소피야'이고 영어판 제목 이름이 Sofia인 인물 문서 6개(제목 검색 상위 500 중) 예: '소피야 로타루 (en: Sofia Rotaru)' / '소피야 야블론스카 (en: Sofia Yablonska)' / '소피야 포즈드냐코바 (en: Sofia Pozdniakova)'",
+  "ko_count": {
+   "소피아": 3652,
+   "소피야": 127
+  },
+  "person_check": {
+   "소피아": {
+    "title_first_word_matches": 55,
+    "en_first_name_verified": 29,
+    "examples": [
+     "소피아 (en: Sofia)",
+     "소피아 코폴라 (en: Sofia Coppola)",
+     "소피아 지하철 (en: Sofia Metro)"
+    ]
+   },
+   "소피야": {
+    "title_first_word_matches": 12,
+    "en_first_name_verified": 6,
+    "examples": [
+     "소피야 로타루 (en: Sofia Rotaru)",
+     "소피야 야블론스카 (en: Sofia Yablonska)",
+     "소피야 포즈드냐코바 (en: Sofia Pozdniakova)"
+    ]
+   }
+  },
+  "note": "인물 문서 수(영어 이름 확인) 표준 29 / '소피야' 6 / '소피야': 러시아어권 표기"
+ },
+ {
+  "key": "harper",
+  "type": "given",
+  "ko_std": "하퍼",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "하퍼": 1023
+  },
+  "person_check": {
+   "하퍼": {
+    "title_first_word_matches": 4,
+    "en_first_name_verified": 4,
+    "examples": [
+     "하퍼 리 (en: Harper Lee)",
+     "하퍼 (라이베리아) (en: Harper, Liberia)",
+     "하퍼 (en: Harper)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ },
+ {
+  "key": "ava",
+  "type": "given",
+  "ko_std": "에이바",
+  "ko_alt": [
+   "아바",
+   "에바"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"아바\" totalhits 369 (표준 \"에이바\" 220); 제목 첫 낱말이 '아바'이고 영어판 제목 이름이 Ava인 인물 문서 1개(제목 검색 상위 500 중) 예: '아바 칸트렐 (en: Ava Cantrell)'; 한국어 위키백과 본문 검색 \"에바\" totalhits 2227 (표준 \"에이바\" 220); 제목 첫 낱말이 '에바'이고 영어판 제목 이름이 Ava인 인물 문서 2개(제목 검색 상위 500 중) 예: '에바 가드너 (en: Ava Gardner)' / '에바 파비안 (en: Ava Fabian)'",
+  "ko_count": {
+   "에이바": 220,
+   "아바": 369,
+   "에바": 2227
+  },
+  "person_check": {
+   "에이바": {
+    "title_first_word_matches": 9,
+    "en_first_name_verified": 8,
+    "examples": [
+     "에이바 듀버네이 (en: Ava DuVernay)",
+     "에이바 (영화) (en: Ava (2020 film))",
+     "에이바 맥스 (en: Ava Max)"
+    ]
+   },
+   "아바": {
+    "title_first_word_matches": 8,
+    "en_first_name_verified": 1,
+    "examples": [
+     "아바 칸트렐 (en: Ava Cantrell)"
+    ]
+   },
+   "에바": {
+    "title_first_word_matches": 79,
+    "en_first_name_verified": 2,
+    "examples": [
+     "에바 가드너 (en: Ava Gardner)",
+     "에바 파비안 (en: Ava Fabian)"
+    ]
+   }
+  },
+  "note": "많이 쓰는 쪽: 후보 '아바'(본문 totalhits 369 > 표준 220) / 인물 문서 수(영어 이름 확인) 표준 8 / '아바' 1 / '아바': ABBA(아바) 등과 섞임 / 많이 쓰는 쪽: 후보 '에바'(본문 totalhits 2227 > 표준 220) / 인물 문서 수(영어 이름 확인) 표준 8 / '에바' 2 / '에바': Eva와 섞임"
+ },
+ {
+  "key": "nora",
+  "type": "given",
+  "ko_std": "노라",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "노라": 935
+  },
+  "person_check": {
+   "노라": {
+    "title_first_word_matches": 23,
+    "en_first_name_verified": 20,
+    "examples": [
+     "노라 아르네제더 (en: Nora Arnezeder)",
+     "노라 나바스 (en: Nora Navas)",
+     "노라 (en: Nora)"
+    ]
+   }
+  },
+  "note": "관용 후보 없음(표준만 셈)"
+ }
+]

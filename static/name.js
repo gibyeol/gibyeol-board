@@ -214,6 +214,11 @@
   var CON = [['sch', 'ㅅ', 'ㅟ'], ['tch', 'ㅊ'], ['sh', 'ㅅ', 'ㅟ'], ['ch', 'ㅊ'], ['th', 'ㅅ'], ['ph', 'ㅍ'], ['ck', 'ㅋ'], ['qu', 'ㅋ', 'ㅜ'], ['b', 'ㅂ'], ['c', 'ㅋ'], ['d', 'ㄷ'], ['f', 'ㅍ'], ['g', 'ㄱ'], ['h', 'ㅎ'], ['j', 'ㅈ'], ['k', 'ㅋ'], ['l', 'ㄹ'], ['m', 'ㅁ'], ['n', 'ㄴ'], ['p', 'ㅍ'], ['q', 'ㅋ'], ['r', 'ㄹ'], ['s', 'ㅅ'], ['t', 'ㅌ'], ['v', 'ㅂ'], ['w', 'ㅇ', 'ㅜ'], ['x', 'ㅋ'], ['z', 'ㅈ']];
   var GLIDE = { 'ㅜ': { 'ㅏ': 'ㅘ', 'ㅔ': 'ㅞ', 'ㅣ': 'ㅟ', 'ㅗ': 'ㅝ', 'ㅓ': 'ㅝ' }, 'ㅣ': { 'ㅏ': 'ㅑ', 'ㅔ': 'ㅖ', 'ㅗ': 'ㅛ', 'ㅜ': 'ㅠ', 'ㅓ': 'ㅕ' }, 'ㅟ': { 'ㅏ': 'ㅑ', 'ㅔ': 'ㅖ', 'ㅗ': 'ㅛ', 'ㅜ': 'ㅠ', 'ㅓ': 'ㅕ' } };
   function roughWord(w) {
+    // Mc/Mac surnames are read 맥 (McGregor 맥그레거, as 맥도널드·맥아더 in the official examples); 2026-11-28
+    // only Mc + 3 letters or more: Mac- also starts ordinary names (Mack, Macy, Machado)
+    // official examples write 매 before c/k/q (매카시, 매캔), 맥 otherwise (맥도널드)
+    if (/^mc[ckq].{2,}/.test(w)) return '매' + roughWord(w.slice(2));
+    if (/^mc.{3,}/.test(w)) return '맥' + roughWord(w.slice(2));
     w = w.replace(/^wr/, 'r').replace(/^kn/, 'n').replace(/^ps/, 's').replace(/(.)\1/g, '$1').replace(/([^aeiouy])e$/, '$1').replace(/([^aeiou])es$/, '$1s');
     var toks = [], i = 0;
     while (i < w.length) {
@@ -278,7 +283,8 @@
     // a short form with its own spellings (jim: {of: 'james', ko: '짐', ...}): sound from the short form, meaning from the full name
     if (e && typeof e === 'object' && e.of) {
       var root = entryFor(e.of);
-      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ka: e.ka, ja: e.ja, zh: e.zh }), nick: key };
+      // full: the full name the source names (Lexie -> Alexandra), even when its meaning comes through a further link (Alexandra -> Alexander)
+      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ka: e.ka, ja: e.ja, zh: e.zh }), nick: key, full: e.of };
     }
     while (typeof e === 'string' && hops++ < 3) { key = e; e = D[e]; }
     return e ? { key: key, e: e } : null;
@@ -467,7 +473,7 @@
       // the meaning shown is the surname's when the first name has none (Nova Bell -> Bell): say whose it is (review 2026-11-28)
       var mw = r.meaningWord ? ' · ' + esc(r.meaningWord.charAt(0).toUpperCase() + r.meaningWord.slice(1)) : '';
       var who = r.meaningWord || r.firstKey || name.trim().split(' ')[0];
-      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(who.charAt(0).toUpperCase() + who.slice(1)) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : mw;
+      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(who.charAt(0).toUpperCase() + who.slice(1)) + ' → ' + esc((r.meaning.full || r.meaning.key).charAt(0).toUpperCase() + (r.meaning.full || r.meaning.key).slice(1)) : mw;
       h += '<h3 class="namer-h">' + T.meaning + root2 + ' <span class="namer-conf c-' + conf + '">' + T.conf[conf] + '</span></h3>';
       if (local) h += '<p class="namer-mean">' + esc(local) + '</p>';
       // Korean interface: our Korean translation first, Behind the Name's English sentence under it (owner: "영어를 없애라는 말이 아니야")

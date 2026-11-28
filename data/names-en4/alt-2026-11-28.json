@@ -1,0 +1,1969 @@
+[
+ {
+  "key": "murray",
+  "type": "surname",
+  "ko_std": "머리",
+  "ko_alt": [
+   "머레이"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"머레이\" totalhits 1283; 제목 끝 낱말이 '머레이'이고 en 언어 링크의 성이 Murray인 인물 문서 12개(제목 검색 상위 500 안) 예: 데이브 머레이 (en: Dave Murray (musician)) / 글렌 머레이 (en: Glenn Murray) / 존 머레이 (en: John Murray (theologian))",
+  "ko_count": {
+   "머리": 8333,
+   "머레이": 1283
+  },
+  "person_count": {
+   "머리": 33,
+   "머레이": 12
+  },
+  "person_examples": {
+   "머리": [
+    "조지프 머리 (en: Joseph E. Murray)",
+    "빌 머리 (en: Bill Murray)",
+    "에디 머리 (en: Eddie Murray)"
+   ],
+   "머레이": [
+    "데이브 머레이 (en: Dave Murray (musician))",
+    "글렌 머레이 (en: Glenn Murray)",
+    "존 머레이 (en: John Murray (theologian))"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 33 / 후보 12, 본문 totalhits 표준 8333 / 후보 1283) / 주의: 표준 '머리'는 낱말 머리(신체)가 섞인 숫자 — 판단은 인물 문서 수로 함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "macdonald",
+  "type": "surname",
+  "ko_std": "맥도널드",
+  "ko_alt": [
+   "맥도날드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맥도날드\" totalhits 1037; 제목 끝 낱말이 '맥도날드'이고 en 언어 링크의 성이 Macdonald인 인물 문서 5개(제목 검색 상위 500 안) 예: 웰컴 미스터 맥도날드 (en: Welcome Back, Mr. McDonald) / 로널드 맥도날드 (en: Ronald McDonald) / 맥 맥도날드 (en: Mac McDonald)",
+  "ko_count": {
+   "맥도널드": 1977,
+   "맥도날드": 1037
+  },
+  "person_count": {
+   "맥도널드": 54,
+   "맥도날드": 5
+  },
+  "person_examples": {
+   "맥도널드": [
+    "아서 B. 맥도널드 (en: Arthur B. McDonald)",
+    "이언 맥도널드 (en: Ian MacDonald)",
+    "램지 맥도널드 (en: Ramsay MacDonald)"
+   ],
+   "맥도날드": [
+    "웰컴 미스터 맥도날드 (en: Welcome Back, Mr. McDonald)",
+    "로널드 맥도날드 (en: Ronald McDonald)",
+    "맥 맥도날드 (en: Mac McDonald)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 54 / 후보 5, 본문 totalhits 표준 1977 / 후보 1037) / en 성 대조에 McDonald도 같은 성으로 셈",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "mclaughlin",
+  "type": "surname",
+  "ko_std": "매클로플린",
+  "ko_alt": [
+   "맥러플린"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맥러플린\" totalhits 140; 제목 끝 낱말이 '맥러플린'이고 en 언어 링크의 성이 Mclaughlin인 인물 문서 3개(제목 검색 상위 500 안) 예: 존 맥러플린 (en: John McLaughlin (musician)) / 엘리자베스 맥러플린 (en: Elizabeth McLaughlin) / 엘렌 맥러플린 (en: Ellen McLaughlin)",
+  "ko_count": {
+   "매클로플린": 80,
+   "맥러플린": 140,
+   "맥로플린": 23
+  },
+  "person_count": {
+   "매클로플린": 9,
+   "맥러플린": 3,
+   "맥로플린": 0
+  },
+  "person_examples": {
+   "매클로플린": [
+    "코너 매클로플린 (en: Conor McLaughlin)",
+    "존 매클로플린 (en: John McLaughlin)",
+    "케일럽 매클로플린 (en: Caleb McLaughlin)"
+   ],
+   "맥러플린": [
+    "존 맥러플린 (en: John McLaughlin (musician))",
+    "엘리자베스 맥러플린 (en: Elizabeth McLaughlin)",
+    "엘렌 맥러플린 (en: Ellen McLaughlin)"
+   ],
+   "맥로플린": []
+  },
+  "note": "본문 totalhits는 후보 '맥러플린'가 많음(140 > 표준 80) — 인물 문서 기준은 표준이 많음(표준 9 > 후보 3) / '맥로플린' 넣지 않음(본문 totalhits 23, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "mccarthy",
+  "type": "surname",
+  "ko_std": "매카시",
+  "ko_alt": [
+   "맥카시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맥카시\" totalhits 208; 제목 끝 낱말이 '맥카시'이고 en 언어 링크의 성이 Mccarthy인 인물 문서 6개(제목 검색 상위 500 안) 예: 알렉스 맥카시 (en: Alex McCarthy) / 줄리애너 맥카시 (en: Julianna McCarthy) / 대니 맥카시 (en: Danny McCarthy)",
+  "ko_count": {
+   "매카시": 1066,
+   "맥카시": 208,
+   "매카티": 41
+  },
+  "person_count": {
+   "매카시": 26,
+   "맥카시": 6,
+   "매카티": 0
+  },
+  "person_examples": {
+   "매카시": [
+    "멀리사 매카시 (en: Melissa McCarthy)",
+    "톰 매카시 (en: Tom McCarthy (director))",
+    "조 매카시 (en: Joe McCarthy (baseball manager))"
+   ],
+   "맥카시": [
+    "알렉스 맥카시 (en: Alex McCarthy)",
+    "줄리애너 맥카시 (en: Julianna McCarthy)",
+    "대니 맥카시 (en: Danny McCarthy)"
+   ],
+   "매카티": []
+  },
+  "note": "표준이 많음(인물 문서 표준 26 / 후보 6, 본문 totalhits 표준 1066 / 후보 208) / '매카티' 넣지 않음(본문 totalhits 41, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "cunningham",
+  "type": "surname",
+  "ko_std": "커닝엄",
+  "ko_alt": [
+   "커닝햄"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"커닝햄\" totalhits 663; 제목 끝 낱말이 '커닝햄'이고 en 언어 링크의 성이 Cunningham인 인물 문서 13개(제목 검색 상위 500 안) 예: 워드 커닝햄 (en: Ward Cunningham) / 콜린 커닝햄 (en: Colin Cunningham) / 세실 커닝햄 (en: Cecil Cunningham)",
+  "ko_count": {
+   "커닝엄": 165,
+   "커닝햄": 663
+  },
+  "person_count": {
+   "커닝엄": 6,
+   "커닝햄": 13
+  },
+  "person_examples": {
+   "커닝엄": [
+    "앤디 커닝엄 (en: Andy Cunningham (footballer))",
+    "리엄 커닝엄 (en: Liam Cunningham)",
+    "알렉산더 커닝엄 (en: Alexander Cunningham)"
+   ],
+   "커닝햄": [
+    "워드 커닝햄 (en: Ward Cunningham)",
+    "콜린 커닝햄 (en: Colin Cunningham)",
+    "세실 커닝햄 (en: Cecil Cunningham)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '커닝햄'(인물 문서 13 > 표준 6; 본문 totalhits 후보 663 / 표준 165)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "graham",
+  "type": "surname",
+  "ko_std": "그레이엄",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "그레이엄": 3295,
+   "그레이험": 7,
+   "그레엄": 37
+  },
+  "person_count": {
+   "그레이엄": 37,
+   "그레이험": 0,
+   "그레엄": 0
+  },
+  "person_examples": {
+   "그레이엄": [
+    "헤더 그레이엄 (en: Heather Graham)",
+    "캐서린 그레이엄 (en: Katharine Graham)",
+    "마사 그레이엄 (en: Martha Graham)"
+   ],
+   "그레이험": [],
+   "그레엄": []
+  },
+  "note": "'그레이험' 넣지 않음(본문 totalhits 7, en 성이 맞는 인물 문서 0개) / '그레엄' 넣지 않음(본문 totalhits 37, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "simpson",
+  "type": "surname",
+  "ko_std": "심프슨",
+  "ko_alt": [
+   "심슨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"심슨\" totalhits 1165; 제목 끝 낱말이 '심슨'이고 en 언어 링크의 성이 Simpson인 인물 문서 23개(제목 검색 상위 500 안) 예: 제시카 심슨 (en: Jessica Simpson) / O. J. 심슨 (en: O. J. Simpson) / 리사 심슨 (en: Lisa Simpson)",
+  "ko_count": {
+   "심프슨": 664,
+   "심슨": 1165
+  },
+  "person_count": {
+   "심프슨": 11,
+   "심슨": 23
+  },
+  "person_examples": {
+   "심프슨": [
+    "월리스 심프슨 (en: Wallis Simpson)",
+    "지미 심프슨 (en: Jimmi Simpson)",
+    "코디 심프슨 (en: Cody Simpson)"
+   ],
+   "심슨": [
+    "제시카 심슨 (en: Jessica Simpson)",
+    "O. J. 심슨 (en: O. J. Simpson)",
+    "리사 심슨 (en: Lisa Simpson)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '심슨'(인물 문서 23 > 표준 11; 본문 totalhits 후보 1165 / 표준 664) / 주의: 후보 '심슨'은 만화 '심슨 가족'이 섞인 숫자 — 판단은 인물 문서 수로 함 / 후보 '심슨' 인물 예에 만화 인물(리사 심슨 등)이 섞임 — 실제 인물도 있음(제시카 심슨, O. J. 심슨)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "holmes",
+  "type": "surname",
+  "ko_std": "홈스",
+  "ko_alt": [
+   "홈즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"홈즈\" totalhits 1235; 제목 끝 낱말이 '홈즈'이고 en 언어 링크의 성이 Holmes인 인물 문서 19개(제목 검색 상위 500 안) 예: 셜록 홈즈 (en: Sherlock Holmes) / 케이티 홈즈 (en: Katie Holmes) / 마이크로프트 홈즈 (en: Mycroft Holmes)",
+  "ko_count": {
+   "홈스": 619,
+   "홈즈": 1235
+  },
+  "person_count": {
+   "홈스": 11,
+   "홈즈": 19
+  },
+  "person_examples": {
+   "홈스": [
+    "켈리 홈스 (en: Kelly Holmes)",
+    "헨리 하워드 홈스 (en: H. H. Holmes)",
+    "애슈턴 홈스 (en: Ashton Holmes)"
+   ],
+   "홈즈": [
+    "셜록 홈즈 (en: Sherlock Holmes)",
+    "케이티 홈즈 (en: Katie Holmes)",
+    "마이크로프트 홈즈 (en: Mycroft Holmes)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '홈즈'(인물 문서 19 > 표준 11; 본문 totalhits 후보 1235 / 표준 619) / 주의: 후보 '홈즈'는 소설 인물 셜록 홈즈가 섞인 숫자 — 판단은 인물 문서 수로 함 / 후보 '홈즈' 인물 예에 소설 인물(셜록·마이크로프트 홈즈)이 섞임 — 실제 인물도 있음(케이티 홈즈)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "crawford",
+  "type": "surname",
+  "ko_std": "크로퍼드",
+  "ko_alt": [
+   "크로포드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"크로포드\" totalhits 344; 제목 끝 낱말이 '크로포드'이고 en 언어 링크의 성이 Crawford인 인물 문서 6개(제목 검색 상위 500 안) 예: 세라제인 크로포드 (en: Sarah-Jane Crawford) / 조니 크로포드 (en: Johnny Crawford) / 캐서린 크로포드 (en: Kathryn Crawford)",
+  "ko_count": {
+   "크로퍼드": 466,
+   "크로포드": 344
+  },
+  "person_count": {
+   "크로퍼드": 26,
+   "크로포드": 6
+  },
+  "person_examples": {
+   "크로퍼드": [
+    "브로더릭 크로퍼드 (en: Broderick Crawford)",
+    "조앤 크로퍼드 (en: Joan Crawford)",
+    "브랜던 크로퍼드 (en: Brandon Crawford)"
+   ],
+   "크로포드": [
+    "세라제인 크로포드 (en: Sarah-Jane Crawford)",
+    "조니 크로포드 (en: Johnny Crawford)",
+    "캐서린 크로포드 (en: Kathryn Crawford)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 26 / 후보 6, 본문 totalhits 표준 466 / 후보 344)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "coleman",
+  "type": "surname",
+  "ko_std": "콜먼",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "콜먼": 1101,
+   "콜맨": 110
+  },
+  "person_count": {
+   "콜먼": 25,
+   "콜맨": 0
+  },
+  "person_examples": {
+   "콜먼": [
+    "셰이머스 콜먼 (en: Séamus Coleman)",
+    "대브니 콜먼 (en: Dabney Coleman)",
+    "크리스 콜먼 (en: Chris Coleman (footballer))"
+   ],
+   "콜맨": []
+  },
+  "note": "'콜맨' 넣지 않음(본문 totalhits 110, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "hayes",
+  "type": "surname",
+  "ko_std": "헤이스",
+  "ko_alt": [
+   "헤이즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"헤이즈\" totalhits 656; 제목 끝 낱말이 '헤이즈'이고 en 언어 링크의 성이 Hayes인 인물 문서 6개(제목 검색 상위 500 안) 예: 마가렛 헤이즈 (en: Margaret Hayes) / 하나 헤이즈 (en: Hana Hayes) / 앨리슨 헤이즈 (en: Allison Hayes)",
+  "ko_count": {
+   "헤이스": 1100,
+   "헤이즈": 656
+  },
+  "person_count": {
+   "헤이스": 19,
+   "헤이즈": 6
+  },
+  "person_examples": {
+   "헤이스": [
+    "헬렌 헤이스 (en: Helen Hayes)",
+    "러더퍼드 B. 헤이스 (en: Rutherford B. Hayes)",
+    "아이작 헤이스 (en: Isaac Hayes)"
+   ],
+   "헤이즈": [
+    "마가렛 헤이즈 (en: Margaret Hayes)",
+    "하나 헤이즈 (en: Hana Hayes)",
+    "앨리슨 헤이즈 (en: Allison Hayes)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 19 / 후보 6, 본문 totalhits 표준 1100 / 후보 656)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "owens",
+  "type": "surname",
+  "ko_std": "오언스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "오언스": 484,
+   "오웬스": 211
+  },
+  "person_count": {
+   "오언스": 11,
+   "오웬스": 0
+  },
+  "person_examples": {
+   "오언스": [
+    "케빈 오언스 (en: Kevin Owens)",
+    "제시 오언스 (en: Jesse Owens)",
+    "팀 오언스 (en: Tim \"Ripper\" Owens)"
+   ],
+   "오웬스": []
+  },
+  "note": "'오웬스' 넣지 않음(본문 totalhits 211, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "marshall",
+  "type": "surname",
+  "ko_std": "마셜",
+  "ko_alt": [
+   "마샬"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"마샬\" totalhits 789; 제목 끝 낱말이 '마샬'이고 en 언어 링크의 성이 Marshall인 인물 문서 5개(제목 검색 상위 500 안) 예: 툴리 마샬 (en: Tully Marshall) / 하워드 마샬 (en: I. Howard Marshall) / 윌리엄 마샬 (en: William Marshall (actor))",
+  "ko_count": {
+   "마셜": 3996,
+   "마샬": 789
+  },
+  "person_count": {
+   "마셜": 48,
+   "마샬": 5
+  },
+  "person_examples": {
+   "마셜": [
+    "조지 마셜 (en: George C. Marshall)",
+    "배리 마셜 (en: Barry Marshall)",
+    "앨프리드 마셜 (en: Alfred Marshall)"
+   ],
+   "마샬": [
+    "툴리 마샬 (en: Tully Marshall)",
+    "하워드 마샬 (en: I. Howard Marshall)",
+    "윌리엄 마샬 (en: William Marshall (actor))"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 48 / 후보 5, 본문 totalhits 표준 3996 / 후보 789)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "warren",
+  "type": "surname",
+  "ko_std": "워런",
+  "ko_alt": [
+   "워렌"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"워렌\" totalhits 981; 제목 끝 낱말이 '워렌'이고 en 언어 링크의 성이 Warren인 인물 문서 10개(제목 검색 상위 500 안) 예: 폴 워렌 (en: Paul Warren (actor)) / 캐서린 워렌 (en: Katherine Warren) / 릭 워렌 (en: Rick Warren)",
+  "ko_count": {
+   "워런": 1857,
+   "워렌": 981
+  },
+  "person_count": {
+   "워런": 15,
+   "워렌": 10
+  },
+  "person_examples": {
+   "워런": [
+    "로빈 워런 (en: Robin Warren)",
+    "머시 오티스 워런 (en: Mercy Otis Warren)",
+    "레슬리 앤 워런 (en: Lesley Ann Warren)"
+   ],
+   "워렌": [
+    "폴 워렌 (en: Paul Warren (actor))",
+    "캐서린 워렌 (en: Katherine Warren)",
+    "릭 워렌 (en: Rick Warren)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 15 / 후보 10, 본문 totalhits 표준 1857 / 후보 981)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "webb",
+  "type": "surname",
+  "ko_std": "웨브",
+  "ko_alt": [
+   "웹"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"웹\" totalhits 11114; 제목 끝 낱말이 '웹'이고 en 언어 링크의 성이 Webb인 인물 문서 13개(제목 검색 상위 500 안) 예: 하워드 웹 (en: Howard Webb) / 클로이 웹 (en: Chloe Webb) / 제임스 E. 웹 (en: James E. Webb)",
+  "ko_count": {
+   "웨브": 308,
+   "웹": 11114
+  },
+  "person_count": {
+   "웨브": 12,
+   "웹": 13
+  },
+  "person_examples": {
+   "웨브": [
+    "브랜던 웨브 (en: Brandon Webb)",
+    "마크 웨브 (en: Marc Webb)",
+    "캐리 웨브 (en: Karrie Webb)"
+   ],
+   "웹": [
+    "하워드 웹 (en: Howard Webb)",
+    "클로이 웹 (en: Chloe Webb)",
+    "제임스 E. 웹 (en: James E. Webb)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '웹'(인물 문서 13 > 표준 12; 본문 totalhits 후보 11114 / 표준 308) / 주의: 후보 '웹'은 낱말 웹(web)이 섞인 숫자 — 판단은 인물 문서 수로 함 / 인물 문서 수 차이가 1개(13 대 12)라 어느 쪽이 많다고 보기 약함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "nichols",
+  "type": "surname",
+  "ko_std": "니컬스",
+  "ko_alt": [
+   "니콜스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"니콜스\" totalhits 398; 제목 끝 낱말이 '니콜스'이고 en 언어 링크의 성이 Nichols인 인물 문서 8개(제목 검색 상위 500 안) 예: 키드 니콜스 (en: Kid Nichols) / 랜스 E. 니콜스 (en: Lance E. Nichols) / 빈센트 니콜스 (en: Vincent Nichols)",
+  "ko_count": {
+   "니컬스": 321,
+   "니콜스": 398
+  },
+  "person_count": {
+   "니컬스": 10,
+   "니콜스": 8
+  },
+  "person_examples": {
+   "니컬스": [
+    "마이크 니컬스 (en: Mike Nichols)",
+    "메리 앤 니컬스 (en: Mary Ann Nichols)",
+    "레이철 니컬스 (en: Rachel Nichols (actress))"
+   ],
+   "니콜스": [
+    "키드 니콜스 (en: Kid Nichols)",
+    "랜스 E. 니콜스 (en: Lance E. Nichols)",
+    "빈센트 니콜스 (en: Vincent Nichols)"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '니콜스'가 많음(398 > 표준 321) — 인물 문서 기준은 표준이 많음(표준 10 > 후보 8)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "arnold",
+  "type": "surname",
+  "ko_std": "아널드",
+  "ko_alt": [
+   "아놀드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"아놀드\" totalhits 1138; 제목 끝 낱말이 '아놀드'이고 en 언어 링크의 성이 Arnold인 인물 문서 8개(제목 검색 상위 500 안) 예: 코코모 아놀드 (en: Kokomo Arnold) / 에드워드 아놀드 (en: Edward Arnold (actor)) / 새뮤얼 아놀드 (en: Samuel Arnold (conspirator))",
+  "ko_count": {
+   "아널드": 953,
+   "아놀드": 1138
+  },
+  "person_count": {
+   "아널드": 24,
+   "아놀드": 8
+  },
+  "person_examples": {
+   "아널드": [
+    "프랜시스 아널드 (en: Frances Arnold)",
+    "그레이엄 아널드 (en: Graham Arnold)",
+    "매슈 아널드 (en: Matthew Arnold)"
+   ],
+   "아놀드": [
+    "코코모 아놀드 (en: Kokomo Arnold)",
+    "에드워드 아놀드 (en: Edward Arnold (actor))",
+    "새뮤얼 아놀드 (en: Samuel Arnold (conspirator))"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '아놀드'가 많음(1138 > 표준 953) — 인물 문서 기준은 표준이 많음(표준 24 > 후보 8)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "wagner",
+  "type": "surname",
+  "ko_std": "바그너",
+  "ko_alt": [
+   "와그너"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"와그너\" totalhits 579; 제목 끝 낱말이 '와그너'이고 en 언어 링크의 성이 Wagner인 인물 문서 23개(제목 검색 상위 500 안) 예: 호너스 와그너 (en: Honus Wagner) / 바버라 와그너 (en: Barbara Wagner) / 린지 와그너 (en: Lindsay Wagner)",
+  "ko_count": {
+   "바그너": 1045,
+   "와그너": 579
+  },
+  "person_count": {
+   "바그너": 19,
+   "와그너": 23
+  },
+  "person_examples": {
+   "바그너": [
+    "리하르트 바그너 (en: Richard Wagner)",
+    "잔드로 바그너 (en: Sandro Wagner)",
+    "다비트 바그너 (en: David Wagner (soccer))"
+   ],
+   "와그너": [
+    "호너스 와그너 (en: Honus Wagner)",
+    "바버라 와그너 (en: Barbara Wagner)",
+    "린지 와그너 (en: Lindsay Wagner)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '와그너'(인물 문서 23 > 표준 19; 본문 totalhits 후보 579 / 표준 1045) / 표준 '바그너' 인물 예는 독일 인물(리하르트 바그너 등), 후보 '와그너' 예는 영어권 인물(호너스 와그너, 린지 와그너) — 영어권 성으로는 후보 쪽이 쓰임",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "carroll",
+  "type": "surname",
+  "ko_std": "캐럴",
+  "ko_alt": [
+   "캐롤"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"캐롤\" totalhits 1556; 제목 끝 낱말이 '캐롤'이고 en 언어 링크의 성이 Carroll인 인물 문서 10개(제목 검색 상위 500 안) 예: 로이 캐롤 (en: Roy Carroll) / 린다 캐롤 (en: Linda Carroll) / 조지아 캐롤 (en: Georgia Carroll)",
+  "ko_count": {
+   "캐럴": 2151,
+   "캐롤": 1556
+  },
+  "person_count": {
+   "캐럴": 17,
+   "캐롤": 10
+  },
+  "person_examples": {
+   "캐럴": [
+    "다이앤 캐럴 (en: Diahann Carroll)",
+    "루이스 캐럴 (en: Lewis Carroll)",
+    "앤디 캐럴 (en: Andy Carroll)"
+   ],
+   "캐롤": [
+    "로이 캐롤 (en: Roy Carroll)",
+    "린다 캐롤 (en: Linda Carroll)",
+    "조지아 캐롤 (en: Georgia Carroll)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 17 / 후보 10, 본문 totalhits 표준 2151 / 후보 1556) / 주의: '캐롤'은 낱말 캐럴(carol) 옛 표기가 섞일 수 있음 — 판단은 인물 문서 수로 함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "duncan",
+  "type": "surname",
+  "ko_std": "덩컨",
+  "ko_alt": [
+   "던컨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"던컨\" totalhits 738; 제목 끝 낱말이 '던컨'이고 en 언어 링크의 성이 Duncan인 인물 문서 2개(제목 검색 상위 500 안) 예: 자니 던컨 (en: Johnny Duncan (actor)) / 데이비드 더글러스 던컨 (en: David Douglas Duncan)",
+  "ko_count": {
+   "덩컨": 710,
+   "던컨": 738
+  },
+  "person_count": {
+   "덩컨": 17,
+   "던컨": 2
+  },
+  "person_examples": {
+   "덩컨": [
+    "팀 덩컨 (en: Tim Duncan)",
+    "린지 덩컨 (en: Lindsay Duncan)",
+    "마이클 클라크 덩컨 (en: Michael Clarke Duncan)"
+   ],
+   "던컨": [
+    "자니 던컨 (en: Johnny Duncan (actor))",
+    "데이비드 더글러스 던컨 (en: David Douglas Duncan)"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '던컨'가 많음(738 > 표준 710) — 인물 문서 기준은 표준이 많음(표준 17 > 후보 2)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "lawrence",
+  "type": "surname",
+  "ko_std": "로런스",
+  "ko_alt": [
+   "로렌스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"로렌스\" totalhits 3038; 제목 끝 낱말이 '로렌스'이고 en 언어 링크의 성이 Lawrence인 인물 문서 10개(제목 검색 상위 500 안) 예: 제니퍼 로렌스 (en: Jennifer Lawrence) / 마야 로렌스 (en: Maya Lawrence) / 샬럿 로렌스 (en: Charlotte Lawrence)",
+  "ko_count": {
+   "로런스": 2532,
+   "로렌스": 3038
+  },
+  "person_count": {
+   "로런스": 31,
+   "로렌스": 10
+  },
+  "person_examples": {
+   "로런스": [
+    "어니스트 로런스 (en: Ernest Lawrence)",
+    "토머스 에드워드 로런스 (en: T. E. Lawrence)",
+    "마틴 로런스 (en: Martin Lawrence)"
+   ],
+   "로렌스": [
+    "제니퍼 로렌스 (en: Jennifer Lawrence)",
+    "마야 로렌스 (en: Maya Lawrence)",
+    "샬럿 로렌스 (en: Charlotte Lawrence)"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '로렌스'가 많음(3038 > 표준 2532) — 인물 문서 기준은 표준이 많음(표준 31 > 후보 10)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "elliott",
+  "type": "surname",
+  "ko_std": "엘리엇",
+  "ko_alt": [
+   "엘리어트"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"엘리어트\" totalhits 247; 제목 끝 낱말이 '엘리어트'이고 en 언어 링크의 성이 Elliott인 인물 문서 3개(제목 검색 상위 500 안) 예: 딕 엘리어트 (en: Dick Elliott) / 빌 엘리어트 (en: Wild Bill Elliott) / 패트리시아 엘리어트 (en: Patricia Elliott)",
+  "ko_count": {
+   "엘리엇": 2831,
+   "엘리어트": 247,
+   "엘리엇트": 1
+  },
+  "person_count": {
+   "엘리엇": 20,
+   "엘리어트": 3,
+   "엘리엇트": 0
+  },
+  "person_examples": {
+   "엘리엇": [
+    "미시 엘리엇 (en: Missy Elliott)",
+    "덴홈 엘리엇 (en: Denholm Elliott)",
+    "제임스 에드워드 엘리엇 (en: Jimmy Elliott (footballer))"
+   ],
+   "엘리어트": [
+    "딕 엘리어트 (en: Dick Elliott)",
+    "빌 엘리어트 (en: Wild Bill Elliott)",
+    "패트리시아 엘리어트 (en: Patricia Elliott)"
+   ],
+   "엘리엇트": []
+  },
+  "note": "표준이 많음(인물 문서 표준 20 / 후보 3, 본문 totalhits 표준 2831 / 후보 247) / '엘리엇트' 넣지 않음(본문 totalhits 1, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "hoffman",
+  "type": "surname",
+  "ko_std": "호프먼",
+  "ko_alt": [
+   "호프만"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"호프만\" totalhits 1010; 제목 끝 낱말이 '호프만'이고 en 언어 링크의 성이 Hoffman인 인물 문서 5개(제목 검색 상위 500 안) 예: 오토 호프만 (en: Otto Hoffman) / 톰 호프만 (en: Thom Hoffman) / 제이크 호프만 (en: Jake Hoffman (actor))",
+  "ko_count": {
+   "호프먼": 652,
+   "호프만": 1010
+  },
+  "person_count": {
+   "호프먼": 13,
+   "호프만": 5
+  },
+  "person_examples": {
+   "호프먼": [
+    "필립 시모어 호프먼 (en: Philip Seymour Hoffman)",
+    "더스틴 호프먼 (en: Dustin Hoffman)",
+    "애비 호프먼 (en: Abbie Hoffman)"
+   ],
+   "호프만": [
+    "오토 호프만 (en: Otto Hoffman)",
+    "톰 호프만 (en: Thom Hoffman)",
+    "제이크 호프만 (en: Jake Hoffman (actor))"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '호프만'가 많음(1010 > 표준 652) — 인물 문서 기준은 표준이 많음(표준 13 > 후보 5)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "chapman",
+  "type": "surname",
+  "ko_std": "채프먼",
+  "ko_alt": [
+   "채프만"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"채프만\" totalhits 39; 제목 끝 낱말이 '채프만'이고 en 언어 링크의 성이 Chapman인 인물 문서 2개(제목 검색 상위 500 안) 예: 로버트 채프만 (en: Robert Chapman (pastor)) / 라네이 채프만 (en: Lanei Chapman)",
+  "ko_count": {
+   "채프먼": 995,
+   "채프만": 39
+  },
+  "person_count": {
+   "채프먼": 18,
+   "채프만": 2
+  },
+  "person_examples": {
+   "채프먼": [
+    "트레이시 채프먼 (en: Tracy Chapman)",
+    "어롤디스 채프먼 (en: Aroldis Chapman)",
+    "맷 채프먼 (en: Matt Chapman)"
+   ],
+   "채프만": [
+    "로버트 채프만 (en: Robert Chapman (pastor))",
+    "라네이 채프만 (en: Lanei Chapman)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 18 / 후보 2, 본문 totalhits 표준 995 / 후보 39)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "newman",
+  "type": "surname",
+  "ko_std": "뉴먼",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "뉴먼": 1569,
+   "뉴만": 23
+  },
+  "person_count": {
+   "뉴먼": 28,
+   "뉴만": 0
+  },
+  "person_examples": {
+   "뉴먼": [
+    "폴 뉴먼 (en: Paul Newman)",
+    "토머스 뉴먼 (en: Thomas Newman)",
+    "존 헨리 뉴먼 (en: John Henry Newman)"
+   ],
+   "뉴만": []
+  },
+  "note": "'뉴만' 넣지 않음(본문 totalhits 23, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "sutton",
+  "type": "surname",
+  "ko_std": "서턴",
+  "ko_alt": [
+   "서튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"서튼\" totalhits 361; 제목 끝 낱말이 '서튼'이고 en 언어 링크의 성이 Sutton인 인물 문서 2개(제목 검색 상위 500 안) 예: 래리 서튼 (en: Larry Sutton) / 케이 서튼 (en: Kay Sutton)",
+  "ko_count": {
+   "서턴": 192,
+   "서튼": 361
+  },
+  "person_count": {
+   "서턴": 4,
+   "서튼": 2
+  },
+  "person_examples": {
+   "서턴": [
+    "돈 서턴 (en: Don Sutton)",
+    "월터 서턴 (en: Walter Sutton)",
+    "크리스 서턴 (en: Chris Sutton)"
+   ],
+   "서튼": [
+    "래리 서튼 (en: Larry Sutton)",
+    "케이 서튼 (en: Kay Sutton)"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '서튼'가 많음(361 > 표준 192) — 인물 문서 기준은 표준이 많음(표준 4 > 후보 2)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "moran",
+  "type": "surname",
+  "ko_std": "모런",
+  "ko_alt": [
+   "모란"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"모란\" totalhits 602; 제목 끝 낱말이 '모란'이고 en 언어 링크의 성이 Moran인 인물 문서 8개(제목 검색 상위 500 안) 예: 롭 모란 (en: Rob Moran) / 돌로레스 모란 (en: Dolores Moran) / 폴리 모란 (en: Polly Moran)",
+  "ko_count": {
+   "모런": 113,
+   "모란": 602
+  },
+  "person_count": {
+   "모런": 5,
+   "모란": 8
+  },
+  "person_examples": {
+   "모런": [
+    "서배스천 모런 (en: Colonel Moran)",
+    "닉 모런 (en: Nick Moran)",
+    "딜런 모런 (en: Dylan Moran)"
+   ],
+   "모란": [
+    "롭 모란 (en: Rob Moran)",
+    "돌로레스 모란 (en: Dolores Moran)",
+    "폴리 모란 (en: Polly Moran)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '모란'(인물 문서 8 > 표준 5; 본문 totalhits 후보 602 / 표준 113) / 주의: 후보 '모란'은 꽃 이름이 섞인 숫자 — 판단은 인물 문서 수로 함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "hanson",
+  "type": "surname",
+  "ko_std": "핸슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "핸슨": 1025,
+   "한슨": 35
+  },
+  "person_count": {
+   "핸슨": 10,
+   "한슨": 0
+  },
+  "person_examples": {
+   "핸슨": [
+    "커티스 핸슨 (en: Curtis Hanson)",
+    "노우드 러셀 핸슨 (en: Norwood Russell Hanson)",
+    "토미 핸슨 (en: Tommy Hanson)"
+   ],
+   "한슨": []
+  },
+  "note": "'한슨' 넣지 않음(본문 totalhits 35, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "bowman",
+  "type": "surname",
+  "ko_std": "보먼",
+  "ko_alt": [
+   "보우먼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"보우먼\" totalhits 59; 제목 끝 낱말이 '보우먼'이고 en 언어 링크의 성이 Bowman인 인물 문서 1개(제목 검색 상위 500 안) 예: 맷 보우먼 (en: Matt Bowman)",
+  "ko_count": {
+   "보먼": 441,
+   "보우먼": 59,
+   "보우만": 16
+  },
+  "person_count": {
+   "보먼": 9,
+   "보우먼": 1,
+   "보우만": 0
+  },
+  "person_examples": {
+   "보먼": [
+    "조시 보먼 (en: Josh Bowman)",
+    "롭 보먼 (en: Rob Bowman (director))",
+    "밥 보먼 (en: Bob Bowman (coach))"
+   ],
+   "보우먼": [
+    "맷 보우먼 (en: Matt Bowman)"
+   ],
+   "보우만": []
+  },
+  "note": "표준이 많음(인물 문서 표준 9 / 후보 1, 본문 totalhits 표준 441 / 후보 59) / '보우만' 넣지 않음(본문 totalhits 16, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "harmon",
+  "type": "surname",
+  "ko_std": "하먼",
+  "ko_alt": [
+   "하몬"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"하몬\" totalhits 155; 제목 끝 낱말이 '하몬'이고 en 언어 링크의 성이 Harmon인 인물 문서 2개(제목 검색 상위 500 안) 예: 팻 하몬 (en: Pat Harmon) / 존 하몬 (en: John Harmon (actor))",
+  "ko_count": {
+   "하먼": 477,
+   "하몬": 155
+  },
+  "person_count": {
+   "하먼": 5,
+   "하몬": 2
+  },
+  "person_examples": {
+   "하먼": [
+    "마크 하먼 (en: Mark Harmon)",
+    "앤지 하먼 (en: Angie Harmon)",
+    "리처드 하먼 (en: Richard Harmon)"
+   ],
+   "하몬": [
+    "팻 하몬 (en: Pat Harmon)",
+    "존 하몬 (en: John Harmon (actor))"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 5 / 후보 2, 본문 totalhits 표준 477 / 후보 155)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "walton",
+  "type": "surname",
+  "ko_std": "월턴",
+  "ko_alt": [
+   "월튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"월튼\" totalhits 234; 제목 끝 낱말이 '월튼'이고 en 언어 링크의 성이 Walton인 인물 문서 5개(제목 검색 상위 500 안) 예: 시더 월튼 (en: Cedar Walton) / 윌리엄 월튼 (en: William Walton) / 루크 월튼 (en: Luke Walton)",
+  "ko_count": {
+   "월턴": 355,
+   "월튼": 234
+  },
+  "person_count": {
+   "월턴": 14,
+   "월튼": 5
+  },
+  "person_examples": {
+   "월턴": [
+    "어니스트 월턴 (en: Ernest Walton)",
+    "샘 월턴 (en: Sam Walton)",
+    "S. 롭슨 월턴 (en: Rob Walton)"
+   ],
+   "월튼": [
+    "시더 월튼 (en: Cedar Walton)",
+    "윌리엄 월튼 (en: William Walton)",
+    "루크 월튼 (en: Luke Walton)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 14 / 후보 5, 본문 totalhits 표준 355 / 후보 234)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "howell",
+  "type": "surname",
+  "ko_std": "하월",
+  "ko_alt": [
+   "하웰"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"하웰\" totalhits 168; 제목 끝 낱말이 '하웰'이고 en 언어 링크의 성이 Howell인 인물 문서 1개(제목 검색 상위 500 안) 예: 로티스 하웰 (en: Lottice Howell)",
+  "ko_count": {
+   "하월": 138,
+   "하웰": 168
+  },
+  "person_count": {
+   "하월": 6,
+   "하웰": 1
+  },
+  "person_examples": {
+   "하월": [
+    "C. 토머스 하월 (en: C. Thomas Howell)",
+    "J. P. 하월 (en: J. P. Howell)",
+    "데어라 하월 (en: Dara Howell)"
+   ],
+   "하웰": [
+    "로티스 하웰 (en: Lottice Howell)"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '하웰'가 많음(168 > 표준 138) — 인물 문서 기준은 표준이 많음(표준 6 > 후보 1)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "garrett",
+  "type": "surname",
+  "ko_std": "개릿",
+  "ko_alt": [
+   "가렛",
+   "개럿"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"가렛\" totalhits 228; 제목 끝 낱말이 '가렛'이고 en 언어 링크의 성이 Garrett인 인물 문서 4개(제목 검색 상위 500 안) 예: 데이비드 가렛 (en: David Garrett) / 수지 가렛 (en: Susie Garrett) / 조이 가렛 (en: Joy Garrett); 한국어 위키백과 본문 검색 \"개럿\" totalhits 226; 제목 끝 낱말이 '개럿'이고 en 언어 링크의 성이 Garrett인 인물 문서 2개(제목 검색 상위 500 안) 예: 케빈 개럿 (en: Kevin Garrett (musician)) / 마일스 개럿 (en: Myles Garrett)",
+  "ko_count": {
+   "개릿": 519,
+   "가렛": 228,
+   "개럿": 226,
+   "개렛": 20
+  },
+  "person_count": {
+   "개릿": 14,
+   "가렛": 4,
+   "개럿": 2,
+   "개렛": 0
+  },
+  "person_examples": {
+   "개릿": [
+    "로버트 개릿 (en: Robert Garrett)",
+    "브래드 개릿 (en: Brad Garrett)",
+    "보 개릿 (en: Beau Garrett)"
+   ],
+   "가렛": [
+    "데이비드 가렛 (en: David Garrett)",
+    "수지 가렛 (en: Susie Garrett)",
+    "조이 가렛 (en: Joy Garrett)"
+   ],
+   "개럿": [
+    "케빈 개럿 (en: Kevin Garrett (musician))",
+    "마일스 개럿 (en: Myles Garrett)"
+   ],
+   "개렛": []
+  },
+  "note": "표준이 많음(인물 문서 표준 14 / 후보 4, 본문 totalhits 표준 519 / 후보 228) / 표준이 많음(인물 문서 표준 14 / 후보 2, 본문 totalhits 표준 519 / 후보 226) / '개렛' 넣지 않음(본문 totalhits 20, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "burton",
+  "type": "surname",
+  "ko_std": "버턴",
+  "ko_alt": [
+   "버튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"버튼\" totalhits 4017; 제목 끝 낱말이 '버튼'이고 en 언어 링크의 성이 Burton인 인물 문서 10개(제목 검색 상위 500 안) 예: 팀 버튼 (en: Tim Burton) / 클리프 버튼 (en: Cliff Burton) / 마이크 버튼 (en: Mike Burton (swimmer))",
+  "ko_count": {
+   "버턴": 459,
+   "버튼": 4017
+  },
+  "person_count": {
+   "버턴": 15,
+   "버튼": 10
+  },
+  "person_examples": {
+   "버턴": [
+    "리처드 버턴 (en: Richard Burton)",
+    "토니 버턴 (en: Tony Burton)",
+    "케이트 버턴 (en: Kate Burton (actress))"
+   ],
+   "버튼": [
+    "팀 버튼 (en: Tim Burton)",
+    "클리프 버튼 (en: Cliff Burton)",
+    "마이크 버튼 (en: Mike Burton (swimmer))"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '버튼'가 많음(4017 > 표준 459) — 인물 문서 기준은 표준이 많음(표준 15 > 후보 10) / 주의: 후보 '버튼'은 낱말 버튼(button)이 섞인 숫자 — 판단은 인물 문서 수로 함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "barrett",
+  "type": "surname",
+  "ko_std": "배럿",
+  "ko_alt": [
+   "바렛"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"바렛\" totalhits 266; 제목 끝 낱말이 '바렛'이고 en 언어 링크의 성이 Barrett인 인물 문서 5개(제목 검색 상위 500 안) 예: 에디스 바렛 (en: Edith Barrett) / 브렌든 라이언 바렛 (en: Brendon Ryan Barrett) / 네사 바렛 (en: Nessa Barrett)",
+  "ko_count": {
+   "배럿": 860,
+   "바렛": 266,
+   "배렛": 14
+  },
+  "person_count": {
+   "배럿": 10,
+   "바렛": 5,
+   "배렛": 1
+  },
+  "person_examples": {
+   "배럿": [
+    "웨이드 배럿 (en: Wade Barrett)",
+    "시드 배럿 (en: Syd Barrett)",
+    "저신다 배럿 (en: Jacinda Barrett)"
+   ],
+   "바렛": [
+    "에디스 바렛 (en: Edith Barrett)",
+    "브렌든 라이언 바렛 (en: Brendon Ryan Barrett)",
+    "네사 바렛 (en: Nessa Barrett)"
+   ],
+   "배렛": [
+    "프랭크 A. 배렛 (en: Frank A. Barrett)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 10 / 후보 5, 본문 totalhits 표준 860 / 후보 266) / '배렛' 넣지 않음(본문 totalhits 14, en 성이 맞는 인물 문서 1개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "jacobs",
+  "type": "surname",
+  "ko_std": "제이컵스",
+  "ko_alt": [
+   "제이콥스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"제이콥스\" totalhits 560; 제목 끝 낱말이 '제이콥스'이고 en 언어 링크의 성이 Jacobs인 인물 문서 7개(제목 검색 상위 500 안) 예: 마크 제이콥스 (en: Marc Jacobs) / 제인 제이콥스 (en: Jane Jacobs) / 러스티 제이콥스 (en: Rusty Jacobs)",
+  "ko_count": {
+   "제이컵스": 243,
+   "제이콥스": 560
+  },
+  "person_count": {
+   "제이컵스": 12,
+   "제이콥스": 7
+  },
+  "person_examples": {
+   "제이컵스": [
+    "크리스 제이컵스 (en: Chris Jacobs (swimmer))",
+    "길리언 제이컵스 (en: Gillian Jacobs)",
+    "폴 E. 제이컵스 (en: Paul E. Jacobs)"
+   ],
+   "제이콥스": [
+    "마크 제이콥스 (en: Marc Jacobs)",
+    "제인 제이콥스 (en: Jane Jacobs)",
+    "러스티 제이콥스 (en: Rusty Jacobs)"
+   ]
+  },
+  "note": "본문 totalhits는 후보 '제이콥스'가 많음(560 > 표준 243) — 인물 문서 기준은 표준이 많음(표준 12 > 후보 7)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "thornton",
+  "type": "surname",
+  "ko_std": "손턴",
+  "ko_alt": [
+   "손튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"손튼\" totalhits 119; 제목 끝 낱말이 '손튼'이고 en 언어 링크의 성이 Thornton인 인물 문서 2개(제목 검색 상위 500 안) 예: 빅 마마 손튼 (en: Big Mama Thornton) / 존 손튼 (en: John Thornton)",
+  "ko_count": {
+   "손턴": 298,
+   "손튼": 119
+  },
+  "person_count": {
+   "손턴": 10,
+   "손튼": 2
+  },
+  "person_examples": {
+   "손턴": [
+    "빌리 밥 손턴 (en: Billy Bob Thornton)",
+    "조 손턴 (en: Joe Thornton)",
+    "데이비드 손턴 (en: David Thornton (actor))"
+   ],
+   "손튼": [
+    "빅 마마 손튼 (en: Big Mama Thornton)",
+    "존 손튼 (en: John Thornton)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 10 / 후보 2, 본문 totalhits 표준 298 / 후보 119)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "morton",
+  "type": "surname",
+  "ko_std": "모턴",
+  "ko_alt": [
+   "모튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"모튼\" totalhits 242; 제목 끝 낱말이 '모튼'이고 en 언어 링크의 성이 Morton인 인물 문서 2개(제목 검색 상위 500 안) 예: 게리 모튼 (en: Gary Morton) / 알렉산더 모튼 (en: Alexander Morton)",
+  "ko_count": {
+   "모턴": 643,
+   "모튼": 242
+  },
+  "person_count": {
+   "모턴": 14,
+   "모튼": 2
+  },
+  "person_examples": {
+   "모턴": [
+    "서맨사 모턴 (en: Samantha Morton)",
+    "PJ 모턴 (en: PJ Morton)",
+    "윌리엄 T. G. 모턴 (en: William T. G. Morton)"
+   ],
+   "모튼": [
+    "게리 모튼 (en: Gary Morton)",
+    "알렉산더 모튼 (en: Alexander Morton)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 14 / 후보 2, 본문 totalhits 표준 643 / 후보 242)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "sullivan",
+  "type": "surname",
+  "ko_std": "설리번",
+  "ko_alt": [
+   "설리반"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"설리반\" totalhits 282; 제목 끝 낱말이 '설리반'이고 en 언어 링크의 성이 Sullivan인 인물 문서 3개(제목 검색 상위 500 안) 예: 래리 설리반 (en: Larry Sullivan) / 숀 설리반 (en: Sean Sullivan (actor)) / 낸시 설리반 (en: Nancy Sullivan (American actress))",
+  "ko_count": {
+   "설리번": 1115,
+   "설리반": 282
+  },
+  "person_count": {
+   "설리번": 35,
+   "설리반": 3
+  },
+  "person_examples": {
+   "설리번": [
+    "앤 설리번 (en: Anne Sullivan)",
+    "에드 설리번 (en: Ed Sullivan)",
+    "해리 스택 설리번 (en: Harry Stack Sullivan)"
+   ],
+   "설리반": [
+    "래리 설리반 (en: Larry Sullivan)",
+    "숀 설리반 (en: Sean Sullivan (actor))",
+    "낸시 설리반 (en: Nancy Sullivan (American actress))"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 35 / 후보 3, 본문 totalhits 표준 1115 / 후보 282)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "byrne",
+  "type": "surname",
+  "ko_std": "번",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "번": 43327,
+   "바이른": 26
+  },
+  "person_count": {
+   "번": 0,
+   "바이른": 0
+  },
+  "person_examples": {
+   "번": [],
+   "바이른": []
+  },
+  "note": "'바이른' 넣지 않음(본문 totalhits 26, en 성이 맞는 인물 문서 0개) / 주의: 표준 '번'은 낱말(番 등)이 섞인 숫자 — 판단은 인물 문서 수로 함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "powell",
+  "type": "surname",
+  "ko_std": "파월",
+  "ko_alt": [
+   "포웰"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"포웰\" totalhits 178; 제목 끝 낱말이 '포웰'이고 en 언어 링크의 성이 Powell인 인물 문서 3개(제목 검색 상위 500 안) 예: 리카르도 포웰 (en: Carlos Powell) / 드류 포웰 (en: Drew Powell (actor)) / 러스 포웰 (en: Russ Powell)",
+  "ko_count": {
+   "파월": 1291,
+   "포웰": 178
+  },
+  "person_count": {
+   "파월": 26,
+   "포웰": 3
+  },
+  "person_examples": {
+   "파월": [
+    "세실 프랭크 파월 (en: C. F. Powell)",
+    "코지 파월 (en: Cozy Powell)",
+    "윌리엄 파월 (en: William Powell)"
+   ],
+   "포웰": [
+    "리카르도 포웰 (en: Carlos Powell)",
+    "드류 포웰 (en: Drew Powell (actor))",
+    "러스 포웰 (en: Russ Powell)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 26 / 후보 3, 본문 totalhits 표준 1291 / 후보 178)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "wallace",
+  "type": "surname",
+  "ko_std": "월리스",
+  "ko_alt": [
+   "월러스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"월러스\" totalhits 225; 제목 끝 낱말이 '월러스'이고 en 언어 링크의 성이 Wallace인 인물 문서 4개(제목 검색 상위 500 안) 예: 앤디 월러스 (en: Andy Wallace) / 나요 월러스 (en: Nayo Wallace) / 리건 월러스 (en: Rheagan Wallace)",
+  "ko_count": {
+   "월리스": 1561,
+   "월러스": 225
+  },
+  "person_count": {
+   "월리스": 24,
+   "월러스": 4
+  },
+  "person_examples": {
+   "월리스": [
+    "앨프리드 러셀 월리스 (en: Alfred Russel Wallace)",
+    "윌리엄 월리스 (en: William Wallace)",
+    "벤 월리스 (en: Ben Wallace (basketball))"
+   ],
+   "월러스": [
+    "앤디 월러스 (en: Andy Wallace)",
+    "나요 월러스 (en: Nayo Wallace)",
+    "리건 월러스 (en: Rheagan Wallace)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 24 / 후보 4, 본문 totalhits 표준 1561 / 후보 225)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "palmer",
+  "type": "surname",
+  "ko_std": "파머",
+  "ko_alt": [
+   "팔머"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"팔머\" totalhits 437; 제목 끝 낱말이 '팔머'이고 en 언어 링크의 성이 Palmer인 인물 문서 3개(제목 검색 상위 500 안) 예: 릴리 팔머 (en: Lilli Palmer) / 허버트 팔머 (en: Herbert Palmer (Puritan)) / 앨리스 프리먼 팔머 (en: Alice Freeman Palmer)",
+  "ko_count": {
+   "파머": 1103,
+   "팔머": 437
+  },
+  "person_count": {
+   "파머": 23,
+   "팔머": 3
+  },
+  "person_examples": {
+   "파머": [
+    "아널드 파머 (en: Arnold Palmer)",
+    "칼 파머 (en: Carl Palmer)",
+    "에머슨, 레이크 & 파머 (en: Emerson, Lake & Palmer)"
+   ],
+   "팔머": [
+    "릴리 팔머 (en: Lilli Palmer)",
+    "허버트 팔머 (en: Herbert Palmer (Puritan))",
+    "앨리스 프리먼 팔머 (en: Alice Freeman Palmer)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 23 / 후보 3, 본문 totalhits 표준 1103 / 후보 437)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "fletcher",
+  "type": "surname",
+  "ko_std": "플레처",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "플레처": 785,
+   "플레쳐": 39
+  },
+  "person_count": {
+   "플레처": 22,
+   "플레쳐": 0
+  },
+  "person_examples": {
+   "플레처": [
+    "루이즈 플레처 (en: Louise Fletcher)",
+    "대런 플레처 (en: Darren Fletcher)",
+    "덱스터 플레처 (en: Dexter Fletcher)"
+   ],
+   "플레쳐": []
+  },
+  "note": "'플레쳐' 넣지 않음(본문 totalhits 39, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "atkinson",
+  "type": "surname",
+  "ko_std": "앳킨슨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "앳킨슨": 474,
+   "애트킨슨": 5
+  },
+  "person_count": {
+   "앳킨슨": 12,
+   "애트킨슨": 0
+  },
+  "person_examples": {
+   "앳킨슨": [
+    "론 앳킨슨 (en: Ron Atkinson)",
+    "로언 앳킨슨 (en: Rowan Atkinson)",
+    "너새니얼 앳킨슨 (en: Nathaniel Atkinson)"
+   ],
+   "애트킨슨": []
+  },
+  "note": "'애트킨슨' 넣지 않음(본문 totalhits 5, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "mann",
+  "type": "surname",
+  "ko_std": "만",
+  "ko_alt": [
+   "맨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맨\" totalhits 10399; 제목 끝 낱말이 '맨'이고 en 언어 링크의 성이 Mann인 인물 문서 18개(제목 검색 상위 500 안) 예: 델버트 맨 (en: Delbert Mann) / 마이클 맨 (en: Michael Mann (disambiguation)) / 레슬리 맨 (en: Leslie Mann)",
+  "ko_count": {
+   "만": 54068,
+   "맨": 10399
+  },
+  "person_count": {
+   "만": 14,
+   "맨": 18
+  },
+  "person_examples": {
+   "만": [
+    "토마스 만 (en: Thomas Mann)",
+    "마이클 만 (영화 감독) (en: Michael Mann)",
+    "하인리히 만 (en: Heinrich Mann)"
+   ],
+   "맨": [
+    "델버트 맨 (en: Delbert Mann)",
+    "마이클 맨 (en: Michael Mann (disambiguation))",
+    "레슬리 맨 (en: Leslie Mann)"
+   ]
+  },
+  "note": "많이 쓰는 쪽: 후보 '맨'(인물 문서 18 > 표준 14; 본문 totalhits 후보 10399 / 표준 54068) / 주의: '만'·'맨'은 낱말(灣·man 등)이 섞인 숫자 — 판단은 인물 문서 수로 함 / 표준 '만' 예는 독일 인물(토마스 만, 하인리히 만), 후보 '맨' 예는 영어권(델버트 맨, 레슬리 맨). '마이클 만'/'마이클 맨'은 같은 감독을 두 문서가 다르게 씀",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "clarke",
+  "type": "surname",
+  "ko_std": "클라크",
+  "ko_alt": [
+   "클락"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"클락\" totalhits 734; 제목 끝 낱말이 '클락'이고 en 언어 링크의 성이 Clarke인 인물 문서 4개(제목 검색 상위 500 안) 예: 안젤라 클락 (en: Angela Clarke (American actress)) / 타냐 클락 (en: Tanya Clarke) / 레니 클락 (en: Lenny Clarke)",
+  "ko_count": {
+   "클라크": 4648,
+   "클락": 734
+  },
+  "person_count": {
+   "클라크": 41,
+   "클락": 4
+  },
+  "person_examples": {
+   "클라크": [
+    "아서 C. 클라크 (en: Arthur C. Clarke)",
+    "스티브 클라크 (스코틀랜드의 축구인) (en: Steve Clarke)",
+    "노엘 클라크 (en: Noel Clarke)"
+   ],
+   "클락": [
+    "안젤라 클락 (en: Angela Clarke (American actress))",
+    "타냐 클락 (en: Tanya Clarke)",
+    "레니 클락 (en: Lenny Clarke)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 41 / 후보 4, 본문 totalhits 표준 4648 / 후보 734)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "campbell",
+  "type": "surname",
+  "ko_std": "캠벨",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "캠벨": 2349,
+   "캠프벨": 61
+  },
+  "person_count": {
+   "캠벨": 75,
+   "캠프벨": 0
+  },
+  "person_examples": {
+   "캠벨": [
+    "윌리엄 C. 캠벨 (과학자) (en: William C. Campbell (scientist))",
+    "네브 캠벨 (en: Neve Campbell)",
+    "글렌 캠벨 (en: Glen Campbell)"
+   ],
+   "캠프벨": []
+  },
+  "note": "'캠프벨' 넣지 않음(본문 totalhits 61, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "richardson",
+  "type": "surname",
+  "ko_std": "리처드슨",
+  "ko_alt": [
+   "리차드슨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"리차드슨\" totalhits 165; 제목 끝 낱말이 '리차드슨'이고 en 언어 링크의 성이 Richardson인 인물 문서 3개(제목 검색 상위 500 안) 예: 샘 리차드슨 (en: Sam Richardson (actor)) / 제이크 리차드슨 (en: Jake Richardson) / 라이언 리차드슨 (en: Lyon Richardson)",
+  "ko_count": {
+   "리처드슨": 1441,
+   "리차드슨": 165
+  },
+  "person_count": {
+   "리처드슨": 45,
+   "리차드슨": 3
+  },
+  "person_examples": {
+   "리처드슨": [
+    "로버트 콜먼 리처드슨 (en: Robert Coleman Richardson)",
+    "미란다 리처드슨 (en: Miranda Richardson)",
+    "오언 윌런스 리처드슨 (en: Owen Richardson)"
+   ],
+   "리차드슨": [
+    "샘 리차드슨 (en: Sam Richardson (actor))",
+    "제이크 리차드슨 (en: Jake Richardson)",
+    "라이언 리차드슨 (en: Lyon Richardson)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 45 / 후보 3, 본문 totalhits 표준 1441 / 후보 165)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "hamilton",
+  "type": "surname",
+  "ko_std": "해밀턴",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "해밀턴": 3489,
+   "해밀톤": 26
+  },
+  "person_count": {
+   "해밀턴": 61,
+   "해밀톤": 0
+  },
+  "person_examples": {
+   "해밀턴": [
+    "윌리엄 해밀턴 (en: William Hamilton)",
+    "루이스 해밀턴 (en: Lewis Hamilton)",
+    "린다 해밀턴 (en: Linda Hamilton)"
+   ],
+   "해밀톤": []
+  },
+  "note": "'해밀톤' 넣지 않음(본문 totalhits 26, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "washington",
+  "type": "surname",
+  "ko_std": "워싱턴",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "워싱턴": 12924,
+   "와싱톤": 19
+  },
+  "person_count": {
+   "워싱턴": 28,
+   "와싱톤": 0
+  },
+  "person_examples": {
+   "워싱턴": [
+    "덴절 워싱턴 (en: Denzel Washington)",
+    "조지 워싱턴 (en: George Washington)",
+    "부커 T. 워싱턴 (en: Booker T. Washington)"
+   ],
+   "와싱톤": []
+  },
+  "note": "'와싱톤' 넣지 않음(본문 totalhits 19, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "gallagher",
+  "type": "surname",
+  "ko_std": "갤러거",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "갤러거": 461,
+   "갤러허": 16
+  },
+  "person_count": {
+   "갤러거": 12,
+   "갤러허": 0
+  },
+  "person_examples": {
+   "갤러거": [
+    "리암 갤러거 (en: Liam Gallagher)",
+    "코너 갤러거 (en: Conor Gallagher)",
+    "피터 갤러거 (en: Peter Gallagher)"
+   ],
+   "갤러허": []
+  },
+  "note": "'갤러허' 넣지 않음(본문 totalhits 16, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "webster",
+  "type": "surname",
+  "ko_std": "웹스터",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "웹스터": 1148
+  },
+  "person_count": {
+   "웹스터": 17
+  },
+  "person_examples": {
+   "웹스터": [
+    "앨런 웹스터 (en: Allen Webster (baseball))",
+    "대니얼 웹스터 (en: Daniel Webster)",
+    "벤 웹스터 (en: Ben Webster)"
+   ]
+  },
+  "note": "후보를 따로 만들지 않음(표준 '웹스터'만 셈, 다른 흔한 표기 후보 없음)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "hammond",
+  "type": "surname",
+  "ko_std": "해먼드",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "해먼드": 467,
+   "해몬드": 42
+  },
+  "person_count": {
+   "해먼드": 12,
+   "해몬드": 0
+  },
+  "person_examples": {
+   "해먼드": [
+    "이비 해먼드 (en: Evey Hammond)",
+    "앨버트 해먼드 (en: Albert Hammond)",
+    "니컬러스 해먼드 (en: Nicholas Hammond)"
+   ],
+   "해몬드": []
+  },
+  "note": "'해몬드' 넣지 않음(본문 totalhits 42, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "saunders",
+  "type": "surname",
+  "ko_std": "손더스",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "손더스": 262,
+   "선더스": 44
+  },
+  "person_count": {
+   "손더스": 7,
+   "선더스": 0
+  },
+  "person_examples": {
+   "손더스": [
+    "조지 손더스 (en: George Saunders)",
+    "제니퍼 손더스 (en: Jennifer Saunders)",
+    "조 손더스 (en: Joe Saunders)"
+   ],
+   "선더스": []
+  },
+  "note": "'선더스' 넣지 않음(본문 totalhits 44, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "lambert",
+  "type": "surname",
+  "ko_std": [
+   "람베르트",
+   "램버트"
+  ],
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "람베르트": 143,
+   "램버트": 551,
+   "람버트": 10
+  },
+  "person_count": {
+   "람베르트": 1,
+   "램버트": 13,
+   "람버트": 0
+  },
+  "person_examples": {
+   "람베르트": [
+    "요한 하인리히 람베르트 (en: Johann Heinrich Lambert)"
+   ],
+   "램버트": [
+    "애덤 램버트 (en: Adam Lambert)",
+    "크리스토퍼 램버트 (en: Christopher Lambert)",
+    "리키 램버트 (en: Rickie Lambert)"
+   ],
+   "람버트": []
+  },
+  "note": "파일 간 표준 불일치: more-surnames-2026-11-28.json은 '람베르트', surnames.json은 '램버트'. 한국어 위키 인물 문서(en 성 Lambert 확인)는 '램버트' 13개 / '람베르트' 1개, 본문 totalhits 램버트 551 / 람베르트 143. 국립국어원 용례 재확인 필요(이번엔 안 함). '람버트' 넣지 않음(인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "douglas",
+  "type": "surname",
+  "ko_std": "더글러스",
+  "ko_alt": [
+   "더글라스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"더글라스\" totalhits 996; 제목 끝 낱말이 '더글라스'이고 en 언어 링크의 성이 Douglas인 인물 문서 5개(제목 검색 상위 500 안) 예: 데이비드 더글라스 (en: David Douglas (botanist)) / 덴질 더글라스 (en: Denzil Douglas) / 포트 더글라스 (en: Fort Douglas (disambiguation))",
+  "ko_count": {
+   "더글러스": 3903,
+   "더글라스": 996
+  },
+  "person_count": {
+   "더글러스": 40,
+   "더글라스": 5
+  },
+  "person_examples": {
+   "더글러스": [
+    "마이클 더글러스 (en: Michael Douglas)",
+    "커크 더글러스 (en: Kirk Douglas)",
+    "맥도널 더글러스 (en: McDonnell Douglas)"
+   ],
+   "더글라스": [
+    "데이비드 더글라스 (en: David Douglas (botanist))",
+    "덴질 더글라스 (en: Denzil Douglas)",
+    "포트 더글라스 (en: Fort Douglas (disambiguation))"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 40 / 후보 5, 본문 totalhits 표준 3903 / 후보 996)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "johnston",
+  "type": "surname",
+  "ko_std": "존스턴",
+  "ko_alt": [
+   "존스톤"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"존스톤\" totalhits 211; 제목 끝 낱말이 '존스톤'이고 en 언어 링크의 성이 Johnston인 인물 문서 1개(제목 검색 상위 500 안) 예: 제이 존스톤 (en: Jay Johnston)",
+  "ko_count": {
+   "존스턴": 1188,
+   "존스톤": 211
+  },
+  "person_count": {
+   "존스턴": 24,
+   "존스톤": 1
+  },
+  "person_examples": {
+   "존스턴": [
+    "데이비드 로이드 존스턴 (en: David Johnston (governor general))",
+    "앨리스터 존스턴 (en: Alistair Johnston)",
+    "조 존스턴 (en: Joe Johnston)"
+   ],
+   "존스톤": [
+    "제이 존스톤 (en: Jay Johnston)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 24 / 후보 1, 본문 totalhits 표준 1188 / 후보 211)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "chambers",
+  "type": "surname",
+  "ko_std": "체임버스",
+  "ko_alt": [
+   "챔버스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"챔버스\" totalhits 223; 제목 끝 낱말이 '챔버스'이고 en 언어 링크의 성이 Chambers인 인물 문서 7개(제목 검색 상위 500 안) 예: 휘튼 챔버스 (en: Wheaton Chambers) / 셜리 챔버스 (en: Shirley Chambers) / 도로시 더글라스 램버트 챔버스 (en: Dorothea Lambert Chambers)",
+  "ko_count": {
+   "체임버스": 549,
+   "챔버스": 223
+  },
+  "person_count": {
+   "체임버스": 15,
+   "챔버스": 7
+  },
+  "person_examples": {
+   "체임버스": [
+    "리베카 체임버스 (en: Rebecca Chambers)",
+    "캘럼 체임버스 (en: Calum Chambers)",
+    "케이시 체임버스 (en: Kasey Chambers)"
+   ],
+   "챔버스": [
+    "휘튼 챔버스 (en: Wheaton Chambers)",
+    "셜리 챔버스 (en: Shirley Chambers)",
+    "도로시 더글라스 램버트 챔버스 (en: Dorothea Lambert Chambers)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 15 / 후보 7, 본문 totalhits 표준 549 / 후보 223)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "walsh",
+  "type": "surname",
+  "ko_std": "월시",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "월시": 1140,
+   "왈시": 96
+  },
+  "person_count": {
+   "월시": 35,
+   "왈시": 0
+  },
+  "person_examples": {
+   "월시": [
+    "에드 월시 (en: Ed Walsh)",
+    "M. 에멧 월시 (en: M. Emmet Walsh)",
+    "프랜 월시 (en: Fran Walsh)"
+   ],
+   "왈시": []
+  },
+  "note": "'왈시' 넣지 않음(본문 totalhits 96, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "barnes",
+  "type": "surname",
+  "ko_std": "반스",
+  "ko_alt": [
+   "반즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"반즈\" totalhits 169; 제목 끝 낱말이 '반즈'이고 en 언어 링크의 성이 Barnes인 인물 문서 5개(제목 검색 상위 500 안) 예: 찰리 반즈 (en: Charlie Barnes (baseball)) / 버키 반즈 (en: Bucky Barnes) / 스티븐 반즈 (en: Steve Barnes (actor))",
+  "ko_count": {
+   "반스": 934,
+   "반즈": 169
+  },
+  "person_count": {
+   "반스": 26,
+   "반즈": 5
+  },
+  "person_examples": {
+   "반스": [
+    "빌리 반스 (en: Billy Barnes (footballer))",
+    "브랜던 반스 (야구 선수) (en: Brandon Barnes (baseball))",
+    "줄리언 반스 (en: Julian Barnes)"
+   ],
+   "반즈": [
+    "찰리 반즈 (en: Charlie Barnes (baseball))",
+    "버키 반즈 (en: Bucky Barnes)",
+    "스티븐 반즈 (en: Steve Barnes (actor))"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 26 / 후보 5, 본문 totalhits 표준 934 / 후보 169)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "sherman",
+  "type": "surname",
+  "ko_std": "셔먼",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "셔먼": 1222,
+   "셔만": 20
+  },
+  "person_count": {
+   "셔먼": 12,
+   "셔만": 0
+  },
+  "person_examples": {
+   "셔먼": [
+    "윌리엄 테쿰세 셔먼 (en: William Tecumseh Sherman)",
+    "M4 셔먼 (en: M4 Sherman)",
+    "제임스 S. 셔먼 (en: James S. Sherman)"
+   ],
+   "셔만": []
+  },
+  "note": "'셔만' 넣지 않음(본문 totalhits 20, en 성이 맞는 인물 문서 0개)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "mendoza",
+  "type": "surname",
+  "ko_std": "멘도사",
+  "ko_alt": [
+   "멘도자"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"멘도자\" totalhits 105; 제목 끝 낱말이 '멘도자'이고 en 언어 링크의 성이 Mendoza인 인물 문서 3개(제목 검색 상위 500 안) 예: 나탈리 잭슨 멘도자 (en: Natalie Mendoza) / 에이바 멘도자 (en: Ava Mendoza) / 린다 멘도자 (en: Linda Mendoza)",
+  "ko_count": {
+   "멘도사": 454,
+   "멘도자": 105
+  },
+  "person_count": {
+   "멘도사": 9,
+   "멘도자": 3
+  },
+  "person_examples": {
+   "멘도사": [
+    "브릴란테 멘도사 (en: Brillante Mendoza)",
+    "다야나 멘도사 (en: Dayana Mendoza)",
+    "마리오 멘도사 (en: Mario Mendoza)"
+   ],
+   "멘도자": [
+    "나탈리 잭슨 멘도자 (en: Natalie Mendoza)",
+    "에이바 멘도자 (en: Ava Mendoza)",
+    "린다 멘도자 (en: Linda Mendoza)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 9 / 후보 3, 본문 totalhits 표준 454 / 후보 105)",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "ruiz",
+  "type": "surname",
+  "ko_std": "루이스",
+  "ko_alt": [
+   "루이즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"루이즈\" totalhits 1847; 제목 끝 낱말이 '루이즈'이고 en 언어 링크의 성이 Ruiz인 인물 문서 7개(제목 검색 상위 500 안) 예: 리오 루이즈 (en: Rio Ruiz) / 노미 루이즈 (en: Nomi Ruiz) / 블라스 루이즈 (en: Blas Ruiz)",
+  "ko_count": {
+   "루이스": 13462,
+   "루이즈": 1847
+  },
+  "person_count": {
+   "루이스": 9,
+   "루이즈": 7
+  },
+  "person_examples": {
+   "루이스": [
+    "브리안 루이스 (en: Bryan Ruiz)",
+    "오스카르 루이스 (en: Óscar Ruiz (referee))",
+    "카를로스 루이스 (en: Carlos Ruiz (Guatemalan footballer))"
+   ],
+   "루이즈": [
+    "리오 루이즈 (en: Rio Ruiz)",
+    "노미 루이즈 (en: Nomi Ruiz)",
+    "블라스 루이즈 (en: Blas Ruiz)"
+   ]
+  },
+  "note": "표준이 많음(인물 문서 표준 9 / 후보 7, 본문 totalhits 표준 13462 / 후보 1847) / 주의: 표준 '루이스'는 Lewis·Louis와 같은 표기라 섞인 숫자 — 판단은 인물 문서 수로 함",
+  "method": "ko_count=한국어 위키백과 API 본문 검색 \"표기\" totalhits. person_count=intitle 검색 상위 500 중 제목 끝 낱말이 그 표기이고, 그 문서의 en 언어 링크 제목 끝 낱말이 이 영어 성인 문서 수"
+ },
+ {
+  "key": "griffiths",
+  "type": "surname",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "그리피스"
+  ],
+  "ko_alt_src": "한국어 위키백과 인물 문서(en 'Griffiths (surname)' 문서에 연결된 인물의 ko 언어 링크): 'Rachel Griffiths'→'레이철 그리피스', 'Richard Griffiths'→'리처드 그리피스', 'Leigh Griffiths'→'리 그리피스', 'Joel Griffiths'→'조엘 그리피스', 'Lucy Griffiths (actress, born 1986)'→'루시 그리피스', 'David J. Griffiths'→'데이비드 제프리 그리피스', 'Phillip Griffiths'→'필립 오거스터스 그리피스' (7개 중 7개 '그리피스') https://en.wikipedia.org/wiki/Griffiths_(surname) / 한국어 위키백과 본문 검색 \"그리피스\" totalhits 1027",
+  "ko_count": {
+   "그리피스": 1027
+  },
+  "note": "국립국어원 용례 'Griffiths' 검색 결과 0건이라 ko_std 비움. 위키 '그리피스'는 Griffith(s 없음, 예: '멜러니 그리피스')와 같은 표기라 totalhits 1027에 Griffith가 섞임 — 근거는 위 Griffiths 인물 문서 7개."
+ },
+ {
+  "key": "ray",
+  "type": "surname",
+  "ko_std": "레이",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Ray (용례에서 성이 Ray인 것 2건: '레이, 존 (Ray, John) — 영국의 박물학자·생물학자(1627～1705)'; '레이, 맨 (Ray, Man) — 미국의 사진작가·화가(1890～1976)', 또 '만 레이 (Man Ray) =레이(Ray, Man)')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "레이": 10391
+  },
+  "note": "이전 수집 때 '용례에 인물 표기 없음'으로 적혔으나 다시 보니 위 2건이 있음(검색 결과 196건 중 180건까지 읽음, 마지막 쪽 하나는 읽기 실패). 한국어 위키 인물 문서도 같은 표기: '제임스 얼 레이', '조니 레이', '니컬러스 레이', '사티야지트 레이', '알도 레이' 등(en 'Ray (surname)' 문서 연결 인물의 ko 언어 링크). 본문 totalhits 10391은 이름 '레이'·스페인어 rey 등이 섞인 숫자라 근거로 쓰지 않음."
+ },
+ {
+  "key": "fields",
+  "type": "surname",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "필즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 인물 문서(en 'Fields (surname)' 문서에 연결된 인물의 ko 언어 링크): 'W. C. Fields'→'W. C. 필즈', 'Gracie Fields'→'그레이시 필즈', 'John Charles Fields'→'존 찰스 필즈', 'Kim Fields'→'킴 필즈', 'Josh Fields (infielder)'→'조시 필즈 (1982년)' (5개 중 5개 '필즈') https://en.wikipedia.org/wiki/Fields_(surname) / 국립국어원 용례 '필즈상 (Fields prize)'(수학자 J. C. Fields 이름의 상) https://korean.go.kr/front/search/searchAllList.do?searchQuery=Fields",
+  "ko_count": {
+   "필즈": 746
+  },
+  "note": "국립국어원 용례 'Fields' 11건 중 인물 표기는 없고 '필즈상'만 있음 — 인물 이름 용례가 아니라 ko_std는 비우고 ko_alt에 둠(ko_std로 올릴지는 판단 필요). 본문 totalhits 746에는 '스트로베리 필즈' 등 낱말 fields가 섞임."
+ },
+ {
+  "key": "nova",
+  "type": "given",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {},
+  "note": "못 찾음. 시도: 국립국어원 'Nova' 82건 — 지명·낱말(노바 = 신성, 노바스코샤 등)뿐, 사람 이름 없음 / en 'Nova (given name)' 문서 연결 중 ko 문서 있는 사람은 'Mike Bucci'(링 네임 Nova, 본명 아님)뿐 / en 'Nova '로 시작하는 문서 670개(넘겨주기 제외) 중 ko 문서가 있는 사람 이름 문서 없음(지명·회사·작품뿐) / ko 위키 제목 검색 '노바' 54건 중 이름이 Nova인 사람 없음('이반 노바'는 성)."
+ },
+ {
+  "key": "jaxon",
+  "type": "given",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {},
+  "note": "못 찾음. 시도: 국립국어원 'Jaxon' 0건 / en 'Jaxon '로 시작하는 문서 35개 중 ko 문서 있는 것 0(Jaxon Smith-Njigba 포함) / ko 위키 본문 '잭슨 스미스응지그바'·'잭슨 스미스-은지그바' 0건, '잭슨 스미스'는 19세기 인물 Andrew Jackson Smith뿐 / '잭슨'은 Jackson 표기라 Jaxon 근거로 쓰지 않음."
+ },
+ {
+  "key": "brayden",
+  "type": "given",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ko_count": {
+   "브레이든": 57
+  },
+  "note": "못 찾음(Brayden 철자 근거 없음). 시도: 국립국어원 'Brayden' 0건 / en 'Brayden '로 시작하는 문서 63개 중 ko 문서 0 / ko 위키 본문 \"브레이든\" 57건은 철자가 다른 Braden·Braeden(예: '브래든 리마스터스' 첫 문장 '브레이든 러매스터스(Braeden Lemasters)', '맥스 미틀먼' 'Maxwell Braden') 또는 극 중 인물 성 — 발음은 같지만 Brayden 철자 인물 예가 아니라 넣지 않음(같은 발음 철자 근거로 '브레이든'을 쓸지는 판단 필요)."
+ }
+]
