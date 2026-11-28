@@ -2959,5 +2959,2038 @@
   "c": null,
   "nicks": [],
   "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 9건 중 9건 확인 / ko_alt 후보 '베카' 근거 약함(제목 검색 totalhits 8, '베카 ○○' 꼴 인물 제목 3건)으로 넣지 않음 / ja 다른 표기: スローイング 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN becca: Short form of Rebecca. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Becca Moros'는 'レベッカ'(본이름)로 표기. ko·zh 인물 예 1건(약함). ko 위키 '베카' 검색 수에는 베카 계곡·가수 베카 등 섞임"
+ },
+ {
+  "key": "patricia",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 2위, 1950s 3위 / 1960s 6위 / 1970s 30위 / 1980s 61위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States) / en.wikipedia 'List of most popular given names' 표: United States (most common names, 1990 census) 여자 2위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "퍼트리샤",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Patricia&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 퍼트리샤 8건 / 앞 12건 확인, 예: '던(얀키), 퍼트리샤 (세실) (Dunn(-Jahnke), Patricia C(ecile)) — 미국 경영인(1953~2011). 여성. 휼렛 패커드(Hewlett-Pa…')",
+  "ko_alt": [
+   "패트리샤"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"패트리샤\"' totalhits 610, 문서 예: '퍼트리샤 클라크슨', '퍼트리샤 아켓', '킴 스탠리'",
+  "ja": "パトリシア",
+  "ja_src": "ja.wikipedia 'パトリシア・ハイスミス' (en: Patricia Highsmith) https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%9F%E3%82%B9 / ja.wikipedia 'パトリシア・アークエット' (en: Patricia Arquette) https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%83%E3%83%88",
+  "zh": "派翠西亞",
+  "zh_src": "zh.wikipedia '派翠西亞·海史密斯' zh-tw 표시 제목 '派翠西亞·海史密斯' (en: Patricia Highsmith) https://zh.wikipedia.org/zh-tw/%E6%B4%BE%E7%BF%A0%E8%A5%BF%E4%BA%9E%C2%B7%E6%B5%B7%E5%8F%B2%E5%AF%86%E6%96%AF / zh.wikipedia '帕特里夏·阿奎特' zh-tw 표시 제목 '派翠西亞·艾奎特' (en: Patricia Arquette) https://zh.wikipedia.org/zh-tw/%E5%B8%95%E7%89%B9%E9%87%8C%E5%A4%8F%C2%B7%E9%98%BF%E5%A5%8E%E7%89%B9",
+  "origin": "Latin",
+  "meaning": {
+   "en": "noblewoman, patrician (feminine of Patricius)",
+   "ko": "귀족(파트리키우스의 여성형)",
+   "ja": "貴族（パトリキウスの女性形）",
+   "zh": "貴族（帕特里修斯的女性形）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/patricia",
+  "c": "h",
+  "nicks": [
+   "pat",
+   "patty",
+   "trish"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 파트리시아 2건; ko_alt 후보 '패트리셔' totalhits 1로 근거 약해 넣지 않음"
+ },
+ {
+  "key": "linda",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 4위, 1950s 2위 / 1960s 7위 / 1970s 68위 / 1980s 128위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States) / en.wikipedia 'List of most popular given names' 표: United States (most common names, 1990 census) 여자 3위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "린다",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Linda&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 린다 6건 / 앞 22건 확인, 예: '블레어, 궨다 (린다) (Blair, Gwenda (Linda)) — 미국 작가·언론인(1943~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "リンダ",
+  "ja_src": "ja.wikipedia 'リンダ・マッカートニー' (en: Linda McCartney) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%83%80%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%83%88%E3%83%8B%E3%83%BC / ja.wikipedia 'リンダ・ハミルトン' (en: Linda Hamilton) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%83%80%E3%83%BB%E3%83%8F%E3%83%9F%E3%83%AB%E3%83%88%E3%83%B3",
+  "zh": "琳達",
+  "zh_src": "zh.wikipedia '琳达·麦卡特尼' zh-tw 표시 제목 '琳達·麥卡尼' (en: Linda McCartney) https://zh.wikipedia.org/zh-tw/%E7%90%B3%E8%BE%BE%C2%B7%E9%BA%A6%E5%8D%A1%E7%89%B9%E5%B0%BC / zh.wikipedia '琳達·漢彌頓' zh-tw 표시 제목 '琳達·漢彌頓' (en: Linda Hamilton) https://zh.wikipedia.org/zh-tw/%E7%90%B3%E9%81%94%C2%B7%E6%BC%A2%E5%BD%8C%E9%A0%93",
+  "origin": "Germanic",
+  "meaning": {
+   "en": "soft, flexible, tender; also Spanish/Portuguese \"beautiful\"",
+   "ko": "부드러운, 연한; 스페인어·포르투갈어로는 \"아름다운\"",
+   "ja": "柔らかい、しなやか；スペイン語・ポルトガル語では「美しい」",
+   "zh": "柔軟、溫柔；西班牙語和葡萄牙語意為「美麗」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/linda",
+  "c": "h",
+  "nicks": [
+   "lindy"
+  ],
+  "note": null
+ },
+ {
+  "key": "barbara",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 6위, 1950s 7위 / 1960s 21위 / 1970s 76위 / 1980s 154위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States) / en.wikipedia 'List of most popular given names' 표: United States (most common names, 1990 census) 여자 4위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "바버라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Barbara&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 바버라 7건 / 앞 11건 확인, 예: '러고아, 바버라 (Lagoa, Barbara) — 미국 판사(1967~ ). 미국에서 쿠바계 이민자 부모에게서 출생. 미국…')",
+  "ko_alt": [
+   "바바라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"바바라\"' totalhits 1649, 문서 예: '바버라 허시', '캘리포니아 대학교 샌타바버라', '붉은비스카차쥐'",
+  "ja": "バーバラ",
+  "ja_src": "ja.wikipedia 'バーバラ・ブッシュ' (en: Barbara Bush) https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5 / ja.wikipedia 'バーバラ・ウォルターズ' (en: Barbara Walters) https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%90%E3%83%A9%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%BA",
+  "zh": "芭芭拉",
+  "zh_src": "zh.wikipedia '芭芭拉·布什' zh-tw 표시 제목 '芭芭拉·布希' (en: Barbara Bush) https://zh.wikipedia.org/zh-tw/%E8%8A%AD%E8%8A%AD%E6%8B%89%C2%B7%E5%B8%83%E4%BB%80 / zh.wikipedia '芭芭拉·沃尔特斯' zh-tw 표시 제목 '芭芭拉·華特斯' (en: Barbara Walters) https://zh.wikipedia.org/zh-tw/%E8%8A%AD%E8%8A%AD%E6%8B%89%C2%B7%E6%B2%83%E5%B0%94%E7%89%B9%E6%96%AF",
+  "origin": "Greek, via Latin",
+  "meaning": {
+   "en": "foreign, strange",
+   "ko": "이방인의, 낯선",
+   "ja": "異国の、見知らぬ",
+   "zh": "外邦的、陌生的"
+  },
+  "meaning_src": "https://www.behindthename.com/name/barbara",
+  "c": "h",
+  "nicks": [
+   "barb",
+   "babs",
+   "barbie"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 바르바라 2건"
+ },
+ {
+  "key": "susan",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 7위, 1950s 4위 / 1960s 3위 / 1970s 27위 / 1980s 94위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States) / en.wikipedia 'List of most popular given names' 표: United States (most common names, 1990 census) 여자 8위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "수전",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Susan&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 수전 17건 / 앞 27건 확인, 예: '에이시, 수전 (Susan Athey) — 미국의 경제학자. 미국 스탠퍼드대 교수.')",
+  "ko_alt": [
+   "수잔"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"수잔\"' totalhits 2269, 문서 예: '수전 워치츠키', '수전 서랜던', '쉬잔 플롱' / 한국어 위키백과 문서 제목 '수잔 보일' (en: Susan Boyle)",
+  "ja": "スーザン",
+  "ja_src": "ja.wikipedia 'スーザン・サランドン' (en: Susan Sarandon) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3 / ja.wikipedia 'スーザン・ボイル' (en: Susan Boyle) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%82%B6%E3%83%B3%E3%83%BB%E3%83%9C%E3%82%A4%E3%83%AB",
+  "zh": "蘇珊",
+  "zh_src": "zh.wikipedia '蘇珊·莎蘭登' zh-tw 표시 제목 '蘇珊·莎蘭登' (en: Susan Sarandon) https://zh.wikipedia.org/zh-tw/%E8%98%87%E7%8F%8A%C2%B7%E8%8E%8E%E8%98%AD%E7%99%BB / zh.wikipedia '蘇珊·波爾' zh-tw 표시 제목 '蘇珊·波爾' (en: Susan Boyle) https://zh.wikipedia.org/zh-tw/%E8%98%87%E7%8F%8A%C2%B7%E6%B3%A2%E7%88%BE",
+  "origin": "Hebrew, via Greek",
+  "meaning": {
+   "en": "English form of Susanna, from Hebrew \"lily\"",
+   "ko": "수재나의 영어형, 히브리어로 \"백합\"",
+   "ja": "スザンナの英語形、ヘブライ語で「ユリ」",
+   "zh": "蘇珊娜的英語形，希伯來語意為「百合」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/susan (뜻은 https://www.behindthename.com/name/susanna)",
+  "c": "h",
+  "nicks": [
+   "sue",
+   "susie",
+   "suzy"
+  ],
+  "note": null
+ },
+ {
+  "key": "karen",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 9위, 1950s 8위 / 1960s 4위 / 1970s 25위 / 1980s 84위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "캐런",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Karen&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 캐런 5건 / 앞 14건 확인, 예: '울런벡, 캐런 (케스쿨라) (Uhlenbeck, Karen (Keskulla)) — 미국 수학자(1942~ ). 텍사스오스틴대(University of Te…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "カレン",
+  "ja_src": "ja.wikipedia 'カレン・カーペンター' (en: Karen Carpenter) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%BF%E3%83%BC / ja.wikipedia 'カレン・ギラン' (en: Karen Gillan) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%A9%E3%83%B3",
+  "zh": "凱倫",
+  "zh_src": "zh.wikipedia '凱倫·卡本特' zh-tw 표시 제목 '凱倫·卡本特' (en: Karen Carpenter) https://zh.wikipedia.org/zh-tw/%E5%87%B1%E5%80%AB%C2%B7%E5%8D%A1%E6%9C%AC%E7%89%B9 / zh.wikipedia '凯伦·吉兰' zh-tw 표시 제목 '凱倫·吉蘭' (en: Karen Gillan) https://zh.wikipedia.org/zh-tw/%E5%87%AF%E4%BC%A6%C2%B7%E5%90%89%E5%85%B0",
+  "origin": "Danish, from Greek",
+  "meaning": {
+   "en": "Danish short form of Katherine (meaning debated; later linked to Greek katharos \"pure\")",
+   "ko": "캐서린의 덴마크식 줄임 이름(뜻은 여러 설, 뒤에 그리스어 katharos \"순수한\"과 연결됨)",
+   "ja": "キャサリンのデンマーク語短縮形（語源は諸説、のちにギリシャ語 katharos「純粋な」と結びつく）",
+   "zh": "凱瑟琳的丹麥語簡稱（詞源有多說，後與希臘語 katharos「純潔」相連）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/karen-1 (뜻은 https://www.behindthename.com/name/katherine)",
+  "c": "m",
+  "nicks": [],
+  "note": "Behind the Name에 같은 철자 다른 이름 있음: karen-2, karen-3 (영어권 쪽 karen-1 사용); 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 카렌 1건; ko_alt 후보 '카렌': 예시 문서가 주로 일본 인물(카렌)이라 넣지 않음"
+ },
+ {
+  "key": "nancy",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 12위, 1950s 9위 / 1960s 26위 / 1970s 78위 / 1980s 114위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "낸시",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Nancy&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 낸시 8건 / 앞 13건 확인, 예: '메소니에이, 낸시 (Messonnier, Nancy) — 미국 의사(1965~ ). 미국 질병통제예방센터 산하 면역호흡기질환 센터…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ナンシー",
+  "ja_src": "ja.wikipedia 'ナンシー・レーガン' (en: Nancy Reagan) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%BC%E3%82%AC%E3%83%B3 / ja.wikipedia 'ナンシー・ペロシ' (en: Nancy Pelosi) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9A%E3%83%AD%E3%82%B7",
+  "zh": "南西",
+  "zh_src": "zh.wikipedia '南希·里根' zh-tw 표시 제목 '南西·雷根' (en: Nancy Reagan) https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B8%8C%C2%B7%E9%87%8C%E6%A0%B9 / zh.wikipedia '南希·佩洛西' zh-tw 표시 제목 '南西·裴洛西' (en: Nancy Pelosi) https://zh.wikipedia.org/zh-tw/%E5%8D%97%E5%B8%8C%C2%B7%E4%BD%A9%E6%B4%9B%E8%A5%BF",
+  "origin": "English, from Hebrew",
+  "meaning": {
+   "en": "diminutive of Ann, from Hebrew Hannah \"favour, grace\"",
+   "ko": "앤의 애칭, 히브리어 한나(\"은혜, 은총\")에서",
+   "ja": "アンの愛称、ヘブライ語ハンナ（「恵み」）から",
+   "zh": "安的暱稱，源自希伯來語哈拿（「恩典」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/nancy (뜻은 https://www.behindthename.com/name/ann, https://www.behindthename.com/name/anna, https://www.behindthename.com/name/hannah)",
+  "c": "h",
+  "nicks": [
+   "nan"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 낭시 1건"
+ },
+ {
+  "key": "sandra",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 13위, 1950s 12위 / 1960s 11위 / 1970s 44위 / 1980s 96위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "샌드라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Sandra&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 샌드라 2건 / 앞 12건 확인, 예: '오코너, 샌드라 데이 (O'Connor, Sandra Day) — 미국의 법관·법률가(1930～ ). 舊姓 Day.')",
+  "ko_alt": [
+   "산드라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"산드라\"' totalhits 843, 문서 예: '샌드라 불럭', '산드라 체카렐리', '산드라 코르벨로니'",
+  "ja": "サンドラ",
+  "ja_src": "ja.wikipedia 'サンドラ・ブロック' (en: Sandra Bullock) https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF / ja.wikipedia 'サンドラ・オー' (en: Sandra Oh) https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%82%AA%E3%83%BC",
+  "zh": "珊卓",
+  "zh_src": "zh.wikipedia '珊卓·布拉克' zh-tw 표시 제목 '珊卓·布拉克' (en: Sandra Bullock) https://zh.wikipedia.org/zh-tw/%E7%8F%8A%E5%8D%93%C2%B7%E5%B8%83%E6%8B%89%E5%85%8B",
+  "origin": "Italian, from Greek",
+  "meaning": {
+   "en": "short form of Alessandra (Alexandra), from Greek \"defending men\"",
+   "ko": "알레산드라(알렉산드라)의 줄임 이름, 그리스어 \"사람들을 지키는 자\"",
+   "ja": "アレッサンドラ（アレクサンドラ）の短縮形、ギリシャ語「人々を守る者」",
+   "zh": "亞歷珊德拉的簡稱，源自希臘語「保護人們的人」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/sandra (뜻은 https://www.behindthename.com/name/alessandra, https://www.behindthename.com/name/alexandra, https://www.behindthename.com/name/alexander)",
+  "c": "h",
+  "nicks": [
+   "sandy"
+  ],
+  "note": "Sandra Oh: zh 문서 제목이 중국식 이름(吳珊卓)이라 뺌; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 잔드라 1건, 산드라 1건; 국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "donna",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 18위, 1950s 10위 / 1960s 8위 / 1970s 64위 / 1980s 200위 밖 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "도나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Donna&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 도나 4건 / 앞 14건 확인, 예: '도나 (Donna) — 미국 텍사스주 히댈고 카운티의 도시')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ドナ",
+  "ja_src": "ja.wikipedia 'ドナ・サマー' (en: Donna Summer) https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%83%BB%E3%82%B5%E3%83%9E%E3%83%BC / ja.wikipedia 'ダナ・キャラン' (en: Donna Karan) https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8A%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%B3",
+  "zh": "唐娜",
+  "zh_src": "zh.wikipedia '唐娜·桑默' zh-tw 표시 제목 '唐娜·桑瑪' (en: Donna Summer) https://zh.wikipedia.org/zh-tw/%E5%94%90%E5%A8%9C%C2%B7%E6%A1%91%E9%BB%98 / zh.wikipedia '唐娜·卡兰' zh-tw 표시 제목 '唐娜·卡蘭' (en: Donna Karan) https://zh.wikipedia.org/zh-tw/%E5%94%90%E5%A8%9C%C2%B7%E5%8D%A1%E5%85%B0",
+  "origin": "Italian",
+  "meaning": {
+   "en": "lady",
+   "ko": "숙녀, 귀부인",
+   "ja": "淑女、婦人",
+   "zh": "女士、淑女"
+  },
+  "meaning_src": "https://www.behindthename.com/name/donna",
+  "c": "h",
+  "nicks": [],
+  "note": "ja 문서마다 표기 다름: ドナ(Donna Summer), ダナ(Donna Karan)"
+ },
+ {
+  "key": "carol",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 20위, 1950s 10위 / 1960s 38위 / 1970s 130위 / 1980s 200위 밖 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "캐럴",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Carol&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 캐럴 4건 / 앞 30건 확인, 예: '실즈, 캐럴 (Shields, Carol) — 캐나다의 소설가(1934～ ).')",
+  "ko_alt": [
+   "캐롤"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"캐롤\"' totalhits 1556, 문서 예: '크리스마스 캐럴', '크리스마스 캐롤 (2009년 영화)', '캐롤 스타디움'",
+  "ja": "キャロル",
+  "ja_src": "ja.wikipedia 'キャロル・ケイン' (en: Carol Kane) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB%E3%83%BB%E3%82%B1%E3%82%A4%E3%83%B3 / ja.wikipedia 'キャロル・バーネット' (en: Carol Burnett) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB%E3%83%BB%E3%83%90%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88",
+  "zh": "卡蘿",
+  "zh_src": "zh.wikipedia '卡萝尔·凯恩' zh-tw 표시 제목 '卡蘿·肯恩' (en: Carol Kane) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E8%90%9D%E5%B0%94%C2%B7%E5%87%AF%E6%81%A9 / zh.wikipedia '卡萝尔·伯内特' zh-tw 표시 제목 '卡洛·柏奈特' (en: Carol Burnett) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E8%90%9D%E5%B0%94%C2%B7%E4%BC%AF%E5%86%85%E7%89%B9",
+  "origin": "English, from Germanic",
+  "meaning": {
+   "en": "short form of Caroline (feminine of Charles, \"man\")",
+   "ko": "캐럴라인(찰스의 여성형, \"남자\")의 줄임 이름",
+   "ja": "キャロライン（チャールズの女性形、「男」）の短縮形",
+   "zh": "卡洛琳（查爾斯的女性形，「男人」）的簡稱"
+  },
+  "meaning_src": "https://www.behindthename.com/name/carol-1 (뜻은 https://www.behindthename.com/name/caroline, https://www.behindthename.com/name/charles)",
+  "c": "m",
+  "nicks": [],
+  "note": "Behind the Name에 같은 철자 다른 이름 있음: carol-2 (영어권 쪽 carol-1 사용); zh 문서마다 표기 다름: 卡蘿(Carol Kane), 卡洛(Carol Burnett)"
+ },
+ {
+  "key": "deborah",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 24위, 1950s 5위 / 1960s 12위 / 1970s 61위 / 1980s 189위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "데버라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Deborah&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 데버라 8건 / 앞 9건 확인, 예: '차우, 데버라 (Chow, Deborah) — 캐나다 영화감독(1971~ ). 캐나다에서 중국계 이민자 집안에서 출생.')",
+  "ko_alt": [
+   "데보라",
+   "데버러"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"데보라\"' totalhits 747, 문서 예: '데버러 카', '데비 캐머런', '데보라 루쿠무에나' / 한국어 위키백과 본문 검색 '\"데버러\"' totalhits 182, 문서 예: '데버러 카', '드보라', '데버러 카라 엉거' / 한국어 위키백과 문서 제목 '데버러 카' (en: Deborah Kerr)",
+  "ja": "デボラ",
+  "ja_src": "ja.wikipedia 'デボラ・カー' (en: Deborah Kerr) https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%9C%E3%83%A9%E3%83%BB%E3%82%AB%E3%83%BC",
+  "zh": "黛博拉",
+  "zh_src": "zh.wikipedia '狄波拉·嘉' zh-tw 표시 제목 '黛博拉·寇兒' (en: Deborah Kerr) https://zh.wikipedia.org/zh-tw/%E7%8B%84%E6%B3%A2%E6%8B%89%C2%B7%E5%98%89",
+  "origin": "Hebrew",
+  "meaning": {
+   "en": "bee",
+   "ko": "벌(꿀벌)",
+   "ja": "蜂（ミツバチ）",
+   "zh": "蜜蜂"
+  },
+  "meaning_src": "https://www.behindthename.com/name/deborah",
+  "c": "h",
+  "nicks": [
+   "deb",
+   "debbie"
+  ],
+  "note": null
+ },
+ {
+  "key": "sharon",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 27위, 1950s 14위 / 1960s 23위 / 1970s 63위 / 1980s 169위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "샤론",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Sharon&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 샤론 2건 / 앞 3건 확인, 예: '스톤, 샤론 (Stone, Sharon) — 미국의 여자 배우(1958～ ).')",
+  "ko_alt": [
+   "섀런"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"섀런\"' totalhits 70, 문서 예: '샤론 스톤', '샤론 글레스', 'TheWrap'",
+  "ja": "シャロン",
+  "ja_src": "ja.wikipedia 'シャロン・ストーン' (en: Sharon Stone) https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
+  "zh": "莎朗",
+  "zh_src": "zh.wikipedia '莎朗·史東' zh-tw 표시 제목 '莎朗·史東' (en: Sharon Stone) https://zh.wikipedia.org/zh-tw/%E8%8E%8E%E6%9C%97%C2%B7%E5%8F%B2%E6%9D%B1",
+  "origin": "Hebrew (place name)",
+  "meaning": {
+   "en": "plain (a fertile plain in Israel)",
+   "ko": "평야(이스라엘의 비옥한 평원)",
+   "ja": "平原（イスラエルの肥沃な平野）",
+   "zh": "平原（以色列的肥沃平原）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/sharon",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "cynthia",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 28위, 1950s 11위 / 1960s 10위 / 1970s 31위 / 1980s 68위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "신시아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Cynthia&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 신시아 2건 / 앞 2건 확인, 예: '이리보, 신시아 (Erivo, Cynthia) — 영국 배우(1987~ ). 영국에서 나이지리아계 이민자 부모에게서 출생.')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "シンシア",
+  "ja_src": "ja.wikipedia 'シンシア・ニクソン' (en: Cynthia Nixon) https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%B7%E3%82%A2%E3%83%BB%E3%83%8B%E3%82%AF%E3%82%BD%E3%83%B3",
+  "zh": "辛西亞",
+  "zh_src": "zh.wikipedia '辛西雅·尼克森' zh-tw 표시 제목 '辛西亞·尼克森' (en: Cynthia Nixon) https://zh.wikipedia.org/zh-tw/%E8%BE%9B%E8%A5%BF%E9%9B%85%C2%B7%E5%B0%BC%E5%85%8B%E6%A3%AE",
+  "origin": "Greek, via Latin",
+  "meaning": {
+   "en": "woman from Cynthus (an epithet of the goddess Artemis)",
+   "ko": "킨토스산 출신 여인(여신 아르테미스의 별칭)",
+   "ja": "キュントス山の女（女神アルテミスの別名）",
+   "zh": "來自欽托斯山的女子（女神阿提米絲的稱號）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/cynthia",
+  "c": "h",
+  "nicks": [
+   "cindy"
+  ],
+  "note": "국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "laura",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 29위, 1950s 38위 / 1960s 16위 / 1970s 20위 / 1980s 23위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "로라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Laura&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 로라 8건 / 앞 15건 확인, 예: '우드, 베선 로라 (Wood, Bethan Laura) — 영국 디자이너(1983~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ローラ",
+  "ja_src": "ja.wikipedia 'ローラ・ダーン' (en: Laura Dern) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BB%E3%83%80%E3%83%BC%E3%83%B3 / ja.wikipedia 'ローラ・ブッシュ' (en: Laura Bush) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BB%E3%83%96%E3%83%83%E3%82%B7%E3%83%A5",
+  "zh": "蘿拉",
+  "zh_src": "zh.wikipedia '蘿拉·鄧恩' zh-tw 표시 제목 '蘿拉·鄧恩' (en: Laura Dern) https://zh.wikipedia.org/zh-tw/%E8%98%BF%E6%8B%89%C2%B7%E9%84%A7%E6%81%A9 / zh.wikipedia '劳拉·布什' zh-tw 표시 제목 '蘿拉·布希' (en: Laura Bush) https://zh.wikipedia.org/zh-tw/%E5%8A%B3%E6%8B%89%C2%B7%E5%B8%83%E4%BB%80",
+  "origin": "Latin",
+  "meaning": {
+   "en": "laurel",
+   "ko": "월계수",
+   "ja": "月桂樹",
+   "zh": "月桂樹"
+  },
+  "meaning_src": "https://www.behindthename.com/name/laura",
+  "c": "h",
+  "nicks": [
+   "laurie",
+   "lori"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 라우라 3건"
+ },
+ {
+  "key": "kathleen",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 31위, 1950s 15위 / 1960s 32위 / 1970s 69위 / 1980s 69위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "캐슬린",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Kathleen&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 캐슬린 8건 / 앞 9건 확인, 예: '호컬, 캐슬린 코트니 (Hochul, Kathleen Courtney) — 미국 정치인(1958~ ). 미국 뉴욕 주지사(2021~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "キャスリーン",
+  "ja_src": "ja.wikipedia 'キャスリーン・ケネディ' (en: Kathleen Kennedy) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3 / ja.wikipedia 'キャスリーン・ターナー' (en: Kathleen Turner) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%BC",
+  "zh": "凱薩琳",
+  "zh_src": "zh.wikipedia '凯瑟琳·肯尼迪' zh-tw 표시 제목 '凱薩琳·甘迺迪' (en: Kathleen Kennedy) https://zh.wikipedia.org/zh-tw/%E5%87%AF%E7%91%9F%E7%90%B3%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA / zh.wikipedia '凯瑟琳·特纳' zh-tw 표시 제목 '凱薩琳·透納' (en: Kathleen Turner) https://zh.wikipedia.org/zh-tw/%E5%87%AF%E7%91%9F%E7%90%B3%C2%B7%E7%89%B9%E7%BA%B3",
+  "origin": "Irish, from Greek",
+  "meaning": {
+   "en": "Anglicized form of Caitlín, the Irish form of Katherine (meaning debated; later linked to Greek katharos \"pure\")",
+   "ko": "캐서린의 아일랜드형 Caitlín의 영어식 표기(뜻은 여러 설, 뒤에 \"순수한\"과 연결됨)",
+   "ja": "キャサリンのアイルランド形 Caitlín の英語化形（語源は諸説、のちに「純粋な」と結びつく）",
+   "zh": "凱瑟琳的愛爾蘭形 Caitlín 的英語化形式（詞源多說，後與「純潔」相連）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/kathleen (뜻은 https://www.behindthename.com/name/caitlin, https://www.behindthename.com/name/caitli10n, https://www.behindthename.com/name/katherine)",
+  "c": "m",
+  "nicks": [],
+  "note": null
+ },
+ {
+  "key": "dorothy",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 35위, 1950s 58위 / 1960s 124위 / 1970s 200위 밖 / 1980s 200위 밖 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States) / en.wikipedia 'List of most popular given names' 표: United States (most common names, 1990 census) 여자 10위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "도러시",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Dorothy&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 도러시 5건 / 앞 6건 확인, 예: '하이트, 도러시 (아이린) (Height, Dorothy (Irene)) — 미국 인권 운동가(1912~2010). 1957년부터 약 40년 동안 전…')",
+  "ko_alt": [
+   "도로시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"도로시\"' totalhits 1147, 문서 예: '도러시 호지킨', '도러시 멀론', '도러시 맥과이어'",
+  "ja": "ドロシー",
+  "ja_src": "ja.wikipedia 'ドロシー・パーカー' (en: Dorothy Parker) https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AD%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AB%E3%83%BC",
+  "zh": "桃樂絲",
+  "zh_src": "zh.wikipedia '多蘿西·帕克' zh-tw 표시 제목 '桃樂絲·帕克' (en: Dorothy Parker) https://zh.wikipedia.org/zh-tw/%E5%A4%9A%E8%98%BF%E8%A5%BF%C2%B7%E5%B8%95%E5%85%8B",
+  "origin": "Greek",
+  "meaning": {
+   "en": "English form of Dorothea, \"gift of god\"",
+   "ko": "신의 선물(도로테아의 영어형)",
+   "ja": "神の贈り物（ドロテアの英語形）",
+   "zh": "神的禮物（多蘿西婭的英語形）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/dorothy (뜻은 https://www.behindthename.com/name/dorothea)",
+  "c": "h",
+  "nicks": [
+   "dot",
+   "dottie",
+   "dolly"
+  ],
+  "note": null
+ },
+ {
+  "key": "brenda",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 36위, 1950s 18위 / 1960s 19위 / 1970s 60위 / 1980s 124위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "브렌다",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Brenda&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 브렌다 1건 / 앞 8건 확인, 예: '조이스, 브렌다 (Brenda Joyce) — 본명 베티 리보 Betty G. Leabo 미국 영화배우(1917～200…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ブレンダ",
+  "ja_src": "ja.wikipedia 'ブレンダ・リー' (en: Brenda Lee) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BB%E3%83%AA%E3%83%BC / ja.wikipedia 'ブレンダ・ソング' (en: Brenda Song) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BB%E3%82%BD%E3%83%B3%E3%82%B0",
+  "zh": "布蘭達",
+  "zh_src": "zh.wikipedia '布蘭達·李' zh-tw 표시 제목 '布蘭達·李' (en: Brenda Lee) https://zh.wikipedia.org/zh-tw/%E5%B8%83%E8%98%AD%E9%81%94%C2%B7%E6%9D%8E / zh.wikipedia '布蘭達·宋' zh-tw 표시 제목 '布蘭達·宋' (en: Brenda Song) https://zh.wikipedia.org/zh-tw/%E5%B8%83%E8%98%AD%E9%81%94%C2%B7%E5%AE%8B",
+  "origin": "Old Norse",
+  "meaning": {
+   "en": "fire, torch, sword (feminine of Brandr)",
+   "ko": "불, 횃불, 칼(브란드르의 여성형)",
+   "ja": "火、たいまつ、剣（ブランドルの女性形）",
+   "zh": "火、火炬、劍（Brandr的女性形）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/brenda",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "pamela",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 38위, 1950s 13위 / 1960s 14위 / 1970s 48위 / 1980s 112위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "패멀라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Pamela&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 패멀라 4건 / 앞 5건 확인, 예: '리, 패멀라 앤더슨 (Lee, Pamela Anderson) — 미국의 여자 배우(1967～ ).')",
+  "ko_alt": [
+   "파멜라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"파멜라\"' totalhits 441, 문서 예: '베일리 (프로레슬링 선수)', '패멀라 레이브', '패멀라 앤더슨'",
+  "ja": "パメラ",
+  "ja_src": "ja.wikipedia 'パメラ・アンダーソン' (en: Pamela Anderson) https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A1%E3%83%A9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3",
+  "zh": "潘蜜拉",
+  "zh_src": "zh.wikipedia '帕米拉·安德森' zh-tw 표시 제목 '潘蜜拉·安德森' (en: Pamela Anderson) https://zh.wikipedia.org/zh-tw/%E5%B8%95%E7%B1%B3%E6%8B%89%C2%B7%E5%AE%89%E5%BE%B7%E6%A3%AE",
+  "origin": "English (invented), from Greek",
+  "meaning": {
+   "en": "invented by poet Philip Sidney; possibly \"all sweetness\" (Greek pan + meli)",
+   "ko": "시인 필립 시드니가 만든 이름, 아마 \"온통 달콤함\"(그리스어 pan \"모두\" + meli \"꿀\")",
+   "ja": "詩人フィリップ・シドニーの造語、おそらく「すべて甘美」（ギリシャ語 pan「すべて」＋meli「蜂蜜」）",
+   "zh": "詩人菲利普·錫德尼所創，可能意為「全然甜美」（希臘語 pan「全部」＋meli「蜂蜜」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/pamela",
+  "c": "m",
+  "nicks": [],
+  "note": "국립국어원 영어권 인물 용례 소수 표기: 패밀라 1건; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 패밀라 1건"
+ },
+ {
+  "key": "katherine",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 42위, 1950s 65위 / 1960s 77위 / 1970s 55위 / 1980s 32위 / 2020s 164위 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States) / en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 16번 듦(1995~2011년, 가장 많은 해 1997년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "캐서린",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Katherine&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 캐서린 8건 / 앞 8건 확인, 예: '타이, 캐서린 (Tai, Katherine) — 미국 변호사(1974~ ). 미국에서 중국계 이민자 부모에게서 출생. 미…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "キャサリン",
+  "ja_src": "ja.wikipedia 'キャサリン・ハイグル' (en: Katherine Heigl) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%B0%E3%83%AB / ja.wikipedia 'キャサリン・ジョンソン' (en: Katherine Johnson) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3",
+  "zh": "凱瑟琳",
+  "zh_src": "zh.wikipedia '凱瑟琳·海格' zh-tw 표시 제목 '凱瑟琳·海格' (en: Katherine Heigl) https://zh.wikipedia.org/zh-tw/%E5%87%B1%E7%91%9F%E7%90%B3%C2%B7%E6%B5%B7%E6%A0%BC / zh.wikipedia '凱瑟琳·強森' zh-tw 표시 제목 '凱薩琳·強森' (en: Katherine Johnson) https://zh.wikipedia.org/zh-tw/%E5%87%B1%E7%91%9F%E7%90%B3%C2%B7%E5%BC%B7%E6%A3%AE",
+  "origin": "Greek",
+  "meaning": {
+   "en": "etymology debated (\"each of the two\", the goddess Hecate, \"torture\"); later associated with Greek katharos \"pure\"",
+   "ko": "어원은 여러 설(\"둘 다 각각\", 여신 헤카테, \"고문\"), 뒤에 그리스어 katharos \"순수한\"과 연결됨",
+   "ja": "語源は諸説（「二つのそれぞれ」、女神ヘカテ、「拷問」）、のちにギリシャ語 katharos「純粋な」と結びつく",
+   "zh": "詞源多說（「兩者各自」、女神黑卡蒂、「折磨」），後與希臘語 katharos「純潔」相連"
+  },
+  "meaning_src": "https://www.behindthename.com/name/katherine",
+  "c": "m",
+  "nicks": [
+   "kate",
+   "katie",
+   "kathy"
+  ],
+  "note": "zh 문서마다 표기 다름: 凱瑟琳(Katherine Heigl), 凱薩琳(Katherine Johnson); ko_alt 후보 '캐더린': 예시 문서 제목에 이 표기의 영어권 인물이 보이지 않아 넣지 않음; ko_alt 후보 '케서린': 예시 문서 제목에 이 표기의 영어권 인물이 보이지 않아 넣지 않음"
+ },
+ {
+  "key": "christine",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 43위, 1950s 31위 / 1960s 27위 / 1970s 22위 / 1980s 45위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "크리스틴",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Christine&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 크리스틴 6건 / 앞 20건 확인, 예: '워머스, 크리스틴 (Wormuth, Christine) — 미국 행정가(1969~ ). 전 미국 국방부 차관(2014~2016).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "クリスティン",
+  "ja_src": "ja.wikipedia 'クリスティン・マクヴィー' (en: Christine McVie) https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%B4%E3%82%A3%E3%83%BC / ja.wikipedia 'クリスティーン・バランスキー' (en: Christine Baranski) https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%AD%E3%83%BC",
+  "zh": "克莉絲汀",
+  "zh_src": "zh.wikipedia '克莉絲汀·麥克維' zh-tw 표시 제목 '克莉絲汀·麥克維' (en: Christine McVie) https://zh.wikipedia.org/zh-tw/%E5%85%8B%E8%8E%89%E7%B5%B2%E6%B1%80%C2%B7%E9%BA%A5%E5%85%8B%E7%B6%AD / zh.wikipedia '克莉絲汀·巴倫絲基' zh-tw 표시 제목 '克莉絲汀·巴倫絲基' (en: Christine Baranski) https://zh.wikipedia.org/zh-tw/%E5%85%8B%E8%8E%89%E7%B5%B2%E6%B1%80%C2%B7%E5%B7%B4%E5%80%AB%E7%B5%B2%E5%9F%BA",
+  "origin": "French, from Latin",
+  "meaning": {
+   "en": "French form of Christina, feminine of Christian (\"a Christian\")",
+   "ko": "크리스티나(크리스천 \"기독교인\"의 여성형)의 프랑스어형",
+   "ja": "クリスティーナ（クリスチャン「キリスト教徒」の女性形）のフランス語形",
+   "zh": "克莉絲蒂娜（「基督徒」的女性形）的法語形"
+  },
+  "meaning_src": "https://www.behindthename.com/name/christine (뜻은 https://www.behindthename.com/name/christina)",
+  "c": "h",
+  "nicks": [
+   "chris",
+   "chrissy",
+   "tina"
+  ],
+  "note": "ja 문서마다 표기 다름: クリスティン(Christine McVie), クリスティーン(Christine Baranski); 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 크리스티네 3건"
+ },
+ {
+  "key": "debra",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 44위, 1950s 18위 / 1960s 19위 / 1970s 60위 / 1980s 104위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "데브라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Debra&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 데브라 1건 / 앞 5건 확인, 예: '할런드, 데브라 (앤) (Haaland, Debra (Anne)) — 미국 정치인(1960~ ). 노르웨이계 이민자 후손인 부친과 미국 선주민…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "デブラ",
+  "ja_src": "ja.wikipedia 'デブラ・メッシング' (en: Debra Messing) https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%96%E3%83%A9%E3%83%BB%E3%83%A1%E3%83%83%E3%82%B7%E3%83%B3%E3%82%B0 / ja.wikipedia 'デブラ・ウィンガー' (en: Debra Winger) https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%96%E3%83%A9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC",
+  "zh": "戴博拉",
+  "zh_src": "zh.wikipedia '黛博拉·梅辛' zh-tw 표시 제목 '戴博拉·梅西' (en: Debra Messing) https://zh.wikipedia.org/zh-tw/%E9%BB%9B%E5%8D%9A%E6%8B%89%C2%B7%E6%A2%85%E8%BE%9B / zh.wikipedia '黛博拉·温姬' zh-tw 표시 제목 '黛博拉·溫姬' (en: Debra Winger) https://zh.wikipedia.org/zh-tw/%E9%BB%9B%E5%8D%9A%E6%8B%89%C2%B7%E6%B8%A9%E5%A7%AC",
+  "origin": "Hebrew",
+  "meaning": {
+   "en": "variant of Deborah, \"bee\"",
+   "ko": "데버러의 변형, \"벌(꿀벌)\"",
+   "ja": "デボラの異形、「蜂」",
+   "zh": "黛博拉的變體，「蜜蜂」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/debra (뜻은 https://www.behindthename.com/name/deborah)",
+  "c": "h",
+  "nicks": [
+   "deb",
+   "debbie"
+  ],
+  "note": "zh 문서마다 표기 다름: 戴博拉(Debra Messing), 黛博拉(Debra Winger); 국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "carolyn",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 47위, 1950s 25위 / 1960s 57위 / 1970s 115위 / 1980s 156위 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "캐럴린",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Carolyn&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 캐럴린 3건 / 앞 4건 확인, 예: '베셋, 캐럴린 (Carolyn Bessette) — 1965～99 미국 존 케네디 2세 부인, 전 디자이너, 캘빈클라인 홍보…')",
+  "ko_alt": [
+   "캐롤린"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"캐롤린\"' totalhits 362, 문서 예: '캐럴린 머피', '세이다 톰프슨', '캐럴린 존스'",
+  "ja": "キャロライン",
+  "ja_src": "ja.wikipedia 'キャロライン・ベルトッツィ' (en: Carolyn Bertozzi) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%99%E3%83%AB%E3%83%88%E3%83%83%E3%83%84%E3%82%A3",
+  "zh": "卡羅琳",
+  "zh_src": "zh.wikipedia '卡罗琳·贝尔托西' zh-tw 표시 제목 '卡羅琳·貝爾托西' (en: Carolyn Bertozzi) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E7%BD%97%E7%90%B3%C2%B7%E8%B4%9D%E5%B0%94%E6%89%98%E8%A5%BF",
+  "origin": "English, from Germanic",
+  "meaning": {
+   "en": "variant of Caroline (feminine of Charles, \"man\")",
+   "ko": "캐럴라인(찰스의 여성형, \"남자\")의 변형",
+   "ja": "キャロライン（チャールズの女性形、「男」）の異形",
+   "zh": "卡洛琳（查爾斯的女性形，「男人」）的變體"
+  },
+  "meaning_src": "https://www.behindthename.com/name/carolyn (뜻은 https://www.behindthename.com/name/caroline, https://www.behindthename.com/name/charles)",
+  "c": "m",
+  "nicks": [
+   "carrie",
+   "callie"
+  ],
+  "note": "ja キャロライン은 캐럴린 버토지 문서 표기로 Caroline 표기와 같음"
+ },
+ {
+  "key": "janet",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 48위, 1950s 20위 / 1960s 47위 / 1970s 125위 / 1980s 200위 밖 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "재닛",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Janet&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 재닛 13건 / 앞 15건 확인, 예: '에번스, 재닛 (Evans, Janet) — 미국의 여자 수영 선수.')",
+  "ko_alt": [
+   "자넷"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"자넷\"' totalhits 598, 문서 예: '자넷 잭슨', '와스프 (마블 코믹스)', '재닛 맥티어' / 한국어 위키백과 문서 제목 '자넷 잭슨' (en: Janet Jackson)",
+  "ja": "ジャネット",
+  "ja_src": "ja.wikipedia 'ジャネット・ジャクソン' (en: Janet Jackson) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3 / ja.wikipedia 'ジャネット・イエレン' (en: Janet Yellen) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%8D%E3%83%83%E3%83%88%E3%83%BB%E3%82%A4%E3%82%A8%E3%83%AC%E3%83%B3",
+  "zh": "珍娜",
+  "zh_src": "zh.wikipedia '珍妮·杰克逊' zh-tw 표시 제목 '珍娜·傑克森' (en: Janet Jackson) https://zh.wikipedia.org/zh-tw/%E7%8F%8D%E5%A6%AE%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A / zh.wikipedia '珍妮特·耶倫' zh-tw 표시 제목 '珍妮特·葉倫' (en: Janet Yellen) https://zh.wikipedia.org/zh-tw/%E7%8F%8D%E5%A6%AE%E7%89%B9%C2%B7%E8%80%B6%E5%80%AB",
+  "origin": "English, from Hebrew",
+  "meaning": {
+   "en": "medieval diminutive of Jane (feminine of John, \"Yahweh is gracious\")",
+   "ko": "제인(존의 여성형, \"야훼는 은혜로우시다\")의 중세 애칭",
+   "ja": "ジェーン（ジョンの女性形、「ヤハウェは恵み深い」）の中世の愛称",
+   "zh": "珍（約翰的女性形，「耶和華是仁慈的」）的中世紀暱稱"
+  },
+  "meaning_src": "https://www.behindthename.com/name/janet (뜻은 https://www.behindthename.com/name/jane, https://www.behindthename.com/name/john)",
+  "c": "h",
+  "nicks": [
+   "jan"
+  ],
+  "note": "zh 문서마다 표기 다름: 珍娜(Janet Jackson), 珍妮特(Janet Yellen); ko_alt 후보 '재넷' totalhits 1로 근거 약해 넣지 않음"
+ },
+ {
+  "key": "diane",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'Popularity of birth names for females (United States)'(SSA) 표: 1926-2025 통합 50위, 1950s 17위 / 1960s 36위 / 1970s 123위 / 1980s 200위 밖 / 2020s 200위 밖 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_females_(United_States)",
+  "ko_std": "다이앤",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Diane&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 다이앤 5건 / 앞 6건 확인, 예: '스웡크, 다이앤 (Swonk, Diane C.) — 미국 경제 자문가(1962~ ). 회계법인 그랜트 손턴(Grant Tho…')",
+  "ko_alt": [
+   "다이안"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"다이안\"' totalhits 224, 문서 예: '다이언 캐넌', '다이앤 위스트', '다이앤 키턴'",
+  "ja": "ダイアン",
+  "ja_src": "ja.wikipedia 'ダイアン・キートン' (en: Diane Keaton) https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3",
+  "zh": "黛安",
+  "zh_src": "zh.wikipedia '黛安·基顿' zh-tw 표시 제목 '黛安·基頓' (en: Diane Keaton) https://zh.wikipedia.org/zh-tw/%E9%BB%9B%E5%AE%89%C2%B7%E5%9F%BA%E9%A1%BF",
+  "origin": "Latin, via French",
+  "meaning": {
+   "en": "French form of Diana, \"divine, goddesslike\"",
+   "ko": "다이애나의 프랑스어형, \"신성한, 여신 같은\"",
+   "ja": "ダイアナのフランス語形、「神聖な、女神のような」",
+   "zh": "黛安娜的法語形，「神聖的、如女神般」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/diane (뜻은 https://www.behindthename.com/name/diana)",
+  "c": "h",
+  "nicks": [],
+  "note": null
+ },
+ {
+  "key": "abigail",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 780번 듦(1995~2025년, 가장 많은 해 2011년 47곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "애비게일",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Abigail&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 애비게일 1건 / 앞 3건 확인, 예: '존슨, 애비게일 (피어펀트) (Johnson, Abigail (Pierrepont)) — 미국 경영가(1961~ ). 투자 회사 피델리티(FIL Fidelity …')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "アビゲイル",
+  "ja_src": "ja.wikipedia 'アビゲイル・ブレスリン' (en: Abigail Breslin) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%B2%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%B3 / ja.wikipedia 'アビゲイル・アダムズ' (en: Abigail Adams) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%B2%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA",
+  "zh": "艾碧",
+  "zh_src": "zh.wikipedia '艾碧·貝絲琳' zh-tw 표시 제목 '艾碧·貝絲琳' (en: Abigail Breslin) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E7%A2%A7%C2%B7%E8%B2%9D%E7%B5%B2%E7%90%B3 / zh.wikipedia '艾碧該·亞當斯' zh-tw 표시 제목 '艾比蓋兒·亞當斯' (en: Abigail Adams) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E7%A2%A7%E8%A9%B2%C2%B7%E4%BA%9E%E7%95%B6%E6%96%AF",
+  "origin": "Hebrew",
+  "meaning": {
+   "en": "my father is joy",
+   "ko": "나의 아버지는 기쁨",
+   "ja": "わが父は喜び",
+   "zh": "我父是喜樂"
+  },
+  "meaning_src": "https://www.behindthename.com/name/abigail",
+  "c": "h",
+  "nicks": [
+   "abby",
+   "abbie",
+   "gail"
+  ],
+  "note": "zh 문서마다 표기 다름: 艾碧(Abigail Breslin), 艾比蓋兒(Abigail Adams); 국립국어원 근거 용례 적음(1건); ko_alt 후보 '아비게일': 예시가 성경 인물 아비가일 등이라 넣지 않음"
+ },
+ {
+  "key": "kayla",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 224번 듦(1992~2008년, 가장 많은 해 1995년 30곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "케일라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"케일라\"' totalhits 148, 문서 예: '케일라', '케일라 손턴', '케일라 데이' / 한국어 위키백과 문서 제목 '케일라 해리슨' (en: Kayla Harrison)",
+  "ja": "ケイラ",
+  "ja_src": "ja.wikipedia 'ケイラ・ハリソン' (en: Kayla Harrison) https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%A9%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3",
+  "zh": "凱拉",
+  "zh_src": "zh.wikipedia '凯拉·哈里森' zh-tw 표시 제목 '凱拉·哈里森' (en: Kayla Harrison) https://zh.wikipedia.org/zh-tw/%E5%87%AF%E6%8B%89%C2%B7%E5%93%88%E9%87%8C%E6%A3%AE",
+  "origin": "English (modern)",
+  "meaning": {
+   "en": "modern combination of the sounds \"kay\" and \"la\"",
+   "ko": "\"케이\"와 \"라\" 소리를 조합한 현대 이름",
+   "ja": "「ケイ」と「ラ」の音を組み合わせた現代の名",
+   "zh": "結合「kay」和「la」音的現代名字"
+  },
+  "meaning_src": "https://www.behindthename.com/name/kayla",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "addison",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 189번 듦(2006~2024년, 가장 많은 해 2010년 28곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "애디슨",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Addison&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 애디슨 3건 / 앞 8건 확인, 예: '애디슨 (Addison) — 미국 앨라배마주 댈러스 카운티의 도시')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "アディソン",
+  "ja_src": "ja.wikipedia 'アディソン・レイ' (en: Addison Rae) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%82%A3%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%AC%E3%82%A4",
+  "zh": "艾狄森",
+  "zh_src": "zh.wikipedia '艾狄森·芮' zh-tw 표시 제목 '艾狄森·芮' (en: Addison Rae) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E7%8B%84%E6%A3%AE%C2%B7%E8%8A%AE",
+  "origin": "English (surname)",
+  "meaning": {
+   "en": "son of Adam",
+   "ko": "애덤의 아들",
+   "ja": "アダムの息子",
+   "zh": "亞當之子"
+  },
+  "meaning_src": "https://www.behindthename.com/name/addison",
+  "c": "h",
+  "nicks": [
+   "addie"
+  ],
+  "note": null
+ },
+ {
+  "key": "avery",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 129번 듦(2008~2024년, 가장 많은 해 2014년 21곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "에이버리",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Avery&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 에이버리 3건 / 앞 8건 확인, 예: '에이버리 (Avery) — 미국 오클라호마주 링컨 카운티의 도시')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "アベリー",
+  "ja_src": "ja.wikipedia 'アベリー・ブランデージ' (en: Avery Brundage) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%99%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B8",
+  "zh": "艾佛里",
+  "zh_src": "zh.wikipedia '艾弗里·布伦戴奇' zh-tw 표시 제목 '艾佛里·布倫達治' (en: Avery Brundage) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E5%BC%97%E9%87%8C%C2%B7%E5%B8%83%E4%BC%A6%E6%88%B4%E5%A5%87",
+  "origin": "English (surname), from Germanic",
+  "meaning": {
+   "en": "from the Norman French form of Alberich (\"elf ruler\") or Alfred (\"elf counsel\")",
+   "ko": "앨버릭(\"요정의 왕\") 또는 앨프리드(\"요정의 조언\")의 노르만 프랑스어형에서",
+   "ja": "アルベリッヒ（「妖精の王」）またはアルフレッド（「妖精の助言」）のノルマン・フランス語形から",
+   "zh": "源自 Alberich（「精靈之王」）或 Alfred（「精靈的建議」）的諾曼法語形"
+  },
+  "meaning_src": "https://www.behindthename.com/name/avery (뜻은 https://www.behindthename.com/name/alberich, https://www.behindthename.com/name/alfred)",
+  "c": "m",
+  "nicks": [],
+  "note": "ko_alt 후보 '에이브리' totalhits 12로 근거 약해 넣지 않음"
+ },
+ {
+  "key": "alyssa",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 109번 듦(1993~2009년, 가장 많은 해 2004년 14곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "얼리사",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Alyssa&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 얼리사 1건 / 앞 1건 확인, 예: '페라, 얼리사 (알렉산드라) (Farah, Alyssa (Alexandra)) — 미국 정치자문가(1989~ ). 전 미국 백악관 전략소통국장(2020).')",
+  "ko_alt": [
+   "앨리사"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"앨리사\"' totalhits 107, 문서 예: '얼리사 밀라노', '앨리사 캄파넬라', '얼리사 밀러'",
+  "ja": "アリッサ",
+  "ja_src": "ja.wikipedia 'アリッサ・ミラノ' (en: Alyssa Milano) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%83%83%E3%82%B5%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%8E",
+  "zh": "艾莉莎",
+  "zh_src": "zh.wikipedia '艾莉莎·米兰诺' zh-tw 표시 제목 '艾莉莎·米蘭諾' (en: Alyssa Milano) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E8%8E%89%E8%8E%8E%C2%B7%E7%B1%B3%E5%85%B0%E8%AF%BA",
+  "origin": "English, from Germanic",
+  "meaning": {
+   "en": "variant of Alicia/Alice (ultimately \"nobleness, nobility\"); spelling influenced by the alyssum flower",
+   "ko": "앨리샤·앨리스의 변형(근원은 \"고귀함\"), 철자는 알리숨 꽃의 영향",
+   "ja": "アリシア・アリスの異形（元は「高貴さ」）、綴りはアリッサムの花の影響",
+   "zh": "艾莉西亞／愛麗絲的變體（原意「高貴」），拼法受庭薺花影響"
+  },
+  "meaning_src": "https://www.behindthename.com/name/alyssa (뜻은 https://www.behindthename.com/name/alicia, https://www.behindthename.com/name/alice, https://www.behindthename.com/name/adelaide)",
+  "c": "h",
+  "nicks": [
+   "lyssa"
+  ],
+  "note": "국립국어원 근거 용례 적음(1건); ko_alt 후보 '알리사': 예시 문서가 주로 다른 언어권 인물이라 넣지 않음"
+ },
+ {
+  "key": "paisley",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 60번 듦(2012~2025년, 가장 많은 해 2020년 8곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "페이즐리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"페이즐리\"' totalhits 142, 문서 예: '밥 페이즐리', '에트로', '플라이비엠아이'",
+  "ja": "ペイズリー",
+  "ja_src": "ja.wikipedia 'ペイズリー (曖昧さ回避)' (en: Paisley (en 문서)) https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A4%E3%82%BA%E3%83%AA%E3%83%BC_%28%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF%29",
+  "zh": null,
+  "zh_src": null,
+  "origin": "Scots (surname, place name)",
+  "meaning": {
+   "en": "from a town near Glasgow, maybe ultimately from Latin basilica \"church\"; also a fabric pattern",
+   "ko": "글래스고 근처 마을 이름에서, 아마 라틴어 basilica \"교회\"; 페이즐리 무늬이기도 함",
+   "ja": "グラスゴー近くの町の名から、おそらくラテン語 basilica「教会」；ペイズリー柄でもある",
+   "zh": "源自格拉斯哥附近的城鎮名，可能來自拉丁語 basilica「教堂」；也是佩斯利花紋"
+  },
+  "meaning_src": "https://www.behindthename.com/name/paisley",
+  "c": "m",
+  "nicks": [],
+  "note": "ja 근거는 동음이의 문서 제목; zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원 용례 1건 중 앞 1건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "brooklyn",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 55번 듦(2003~2023년, 가장 많은 해 2011년 9곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "브루클린",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Brooklyn&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 브루클린 4건 / 앞 11건 확인, 예: '브루클린 (Brooklyn) — 미국 일리노이주 세인트클레어 카운티의 도시')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ブルックリン",
+  "ja_src": "ja.wikipedia 'ブルックリン・デッカー' (en: Brooklyn Decker) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%87%E3%83%83%E3%82%AB%E3%83%BC",
+  "zh": "布魯克林",
+  "zh_src": "zh.wikipedia '布鲁克林·戴可儿' zh-tw 표시 제목 '布魯克林·黛珂' (en: Brooklyn Decker) https://zh.wikipedia.org/zh-tw/%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%C2%B7%E6%88%B4%E5%8F%AF%E5%84%BF",
+  "origin": "English (modern, place name)",
+  "meaning": {
+   "en": "from the New York borough, named after Dutch Breukelen (\"broken land\" or \"marsh land\")",
+   "ko": "뉴욕의 브루클린에서, 네덜란드 브뢰컬런(\"부서진 땅\" 또는 \"습지\")에서 딴 이름",
+   "ja": "ニューヨークのブルックリンから、オランダのブルーケレン（「壊れた土地」または「湿地」）にちなむ",
+   "zh": "源自紐約布魯克林區，得名自荷蘭 Breukelen（「破碎之地」或「沼澤地」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/brooklyn",
+  "c": "m",
+  "nicks": [],
+  "note": null
+ },
+ {
+  "key": "lillian",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 53번 듦(2005~2024년, 가장 많은 해 2012년 10곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "릴리언",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Lillian&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 릴리언 1건 / 앞 2건 확인, 예: '헬먼, 릴리언 (Hellman, Lillian) — 『인』 미국의 극작가(1905~1984).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "リリアン",
+  "ja_src": "ja.wikipedia 'リリアン・ギッシュ' (en: Lillian Gish) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%83%E3%82%B7%E3%83%A5 / ja.wikipedia 'リリアン・ヘルマン' (en: Lillian Hellman) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3",
+  "zh": "莉蓮",
+  "zh_src": "zh.wikipedia '莉蓮·吉許' zh-tw 표시 제목 '莉蓮·吉許' (en: Lillian Gish) https://zh.wikipedia.org/zh-tw/%E8%8E%89%E8%93%AE%C2%B7%E5%90%89%E8%A8%B1 / zh.wikipedia '麗蓮·海爾曼' zh-tw 표시 제목 '麗蓮·海爾曼' (en: Lillian Hellman) https://zh.wikipedia.org/zh-tw/%E9%BA%97%E8%93%AE%C2%B7%E6%B5%B7%E7%88%BE%E6%9B%BC",
+  "origin": "English",
+  "meaning": {
+   "en": "probably a diminutive of Elizabeth (\"my God is an oath\"); also seen as an elaboration of Lily",
+   "ko": "아마 엘리자베스(\"나의 하느님은 맹세\")의 애칭; 릴리(백합)를 늘린 이름으로도 봄",
+   "ja": "おそらくエリザベス（「わが神は誓い」）の愛称；リリー（ユリ）を長くした名ともされる",
+   "zh": "可能是伊莉莎白（「我的神是誓約」）的暱稱；也被視為莉莉（百合）的延伸"
+  },
+  "meaning_src": "https://www.behindthename.com/name/lillian (뜻은 https://www.behindthename.com/name/elizabeth, https://www.behindthename.com/name/lily)",
+  "c": "m",
+  "nicks": [],
+  "note": "zh 문서마다 표기 다름: 莉蓮(Lillian Gish), 麗蓮(Lillian Hellman); 국립국어원 근거 용례 적음(1건); ko_alt 후보 '릴리안': 예시 문서 제목에 이 표기의 영어권 인물이 보이지 않아 넣지 않음"
+ },
+ {
+  "key": "jasmine",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 52번 듦(1992~2006년, 가장 많은 해 1993년 7곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "자스민",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Jasmine&searchCategory=know4 (영어권 인물 용례 없음, 다른 언어권 인물 용례 자스민 1건 / 앞 4건 확인, 예: '파올리니, 자스민 (Paolini, Jasmine) — 이탈리아 테니스 선수(1996~ ).')",
+  "ko_alt": [
+   "재스민"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"재스민\"' totalhits 347, 문서 예: '재스민/Rainbow', '중국 재스민 혁명', '재스민 툭스' / 한국어 위키백과 문서 제목 '재스민 가이' (en: Jasmine Guy) / 한국어 위키백과 문서 제목 '재스민 툭스' (en: Jasmine Tookes) / 한국어 위키백과 문서 제목 '재스민 톰프슨' (en: Jasmine Thompson)",
+  "ja": "ジャスミン",
+  "ja_src": "ja.wikipedia 'ジャスミン・パオリーニ' (en: Jasmine Paolini) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%91%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%8B",
+  "zh": "潔絲敏",
+  "zh_src": "zh.wikipedia '潔絲敏·蘇莉雯' zh-tw 표시 제목 '潔絲敏·蘇莉雯' (en: Jazmine Sullivan) https://zh.wikipedia.org/zh-tw/%E6%BD%94%E7%B5%B2%E6%95%8F%C2%B7%E8%98%87%E8%8E%89%E9%9B%AF / zh.wikipedia '贾斯明·保利尼' zh-tw 표시 제목 '賈絲明·鮑里妮' (en: Jasmine Paolini) https://zh.wikipedia.org/zh-tw/%E8%B4%BE%E6%96%AF%E6%98%8E%C2%B7%E4%BF%9D%E5%88%A9%E5%B0%BC",
+  "origin": "English, from Persian",
+  "meaning": {
+   "en": "jasmine (the fragrant flower)",
+   "ko": "재스민(향기로운 꽃)",
+   "ja": "ジャスミン（香りのよい花）",
+   "zh": "茉莉（芳香的花）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/jasmine",
+  "c": "h",
+  "nicks": [],
+  "note": "Jazmine Sullivan: 철자가 Jazmine이라 ja 근거에서 뺌; zh 문서마다 표기 다름: 潔絲敏(Jazmine Sullivan), 賈絲明(Jasmine Paolini), 賈思敏(Jasmine Thompson); 국립국어원에 영어권 인물 용례가 없어 다른 언어권 인물 표기를 씀; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 재스민 1건; 국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "brianna",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 51번 듦(1994~2008년, 가장 많은 해 2000년 8곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "브리아나",
+   "브리애나"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"브리아나\"' totalhits 104, 문서 예: '브리애나 힐더브랜드', '브리애나 에비건', '브리애나 브라운' / 한국어 위키백과 본문 검색 '\"브리애나\"' totalhits 81, 문서 예: '조딘 스파크스', '브리애나 힐더브랜드', '브리애나 에비건' / 한국어 위키백과 문서 제목 '브리애나 힐더브랜드' (en: Brianna Hildebrand)",
+  "ja": "ブリアナ",
+  "ja_src": "ja.wikipedia 'ブリアナ・ヒルデブランド' (en: Brianna Hildebrand) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%92%E3%83%AB%E3%83%87%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89",
+  "zh": "布莉安娜",
+  "zh_src": "zh.wikipedia '布莉安娜·海德布蘭德' zh-tw 표시 제목 '布莉安娜·海德布蘭德' (en: Brianna Hildebrand) https://zh.wikipedia.org/zh-tw/%E5%B8%83%E8%8E%89%E5%AE%89%E5%A8%9C%C2%B7%E6%B5%B7%E5%BE%B7%E5%B8%83%E8%98%AD%E5%BE%B7",
+  "origin": "English, from Irish",
+  "meaning": {
+   "en": "variant of Briana, feminine of Brian (uncertain; possibly \"hill, high\" or \"might, power\")",
+   "ko": "브리아나(브라이언의 여성형)의 변형; 브라이언은 뜻 불확실, 아마 \"언덕, 높은\" 또는 \"힘\"",
+   "ja": "ブリアナ（ブライアンの女性形）の異綴；ブライアンは意味不明、おそらく「丘、高い」または「力」",
+   "zh": "Briana（布萊恩的女性形）的變體；布萊恩含義不明，可能是「山丘、高」或「力量」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/brianna (뜻은 https://www.behindthename.com/name/briana, https://www.behindthename.com/name/brian)",
+  "c": "m",
+  "nicks": [
+   "bree"
+  ],
+  "note": "국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "julia",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 42번 듦(1997~2008년, 가장 많은 해 2000년 6곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "줄리아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Julia&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 줄리아 5건 / 앞 30건 확인, 예: '길라드, 줄리아 (아일린) (Julia (Eileen) Gillard) — (1961～ )오스트레일리아 부총리(2007. 12. 3.～ ). 노동당…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ジュリア",
+  "ja_src": "ja.wikipedia 'ジュリア・ロバーツ' (en: Julia Roberts) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%AD%E3%83%90%E3%83%BC%E3%83%84",
+  "zh": "茱莉亞",
+  "zh_src": "zh.wikipedia '茱莉娅·罗伯茨' zh-tw 표시 제목 '茱莉亞·羅勃茲' (en: Julia Roberts) https://zh.wikipedia.org/zh-tw/%E8%8C%B1%E8%8E%89%E5%A8%85%C2%B7%E7%BD%97%E4%BC%AF%E8%8C%A8",
+  "origin": "Latin",
+  "meaning": {
+   "en": "feminine of the Roman family name Julius (possibly \"downy-bearded\", or related to Jupiter)",
+   "ko": "로마 가문 이름 율리우스의 여성형(아마 \"솜털 수염의\", 또는 유피테르와 관련)",
+   "ja": "ローマの氏族名ユリウスの女性形（おそらく「産毛のひげの」、またはユピテルと関係）",
+   "zh": "羅馬家族名尤利烏斯的女性形（可能意為「鬍鬚初生的」，或與朱比特有關）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/julia (뜻은 https://www.behindthename.com/name/julius)",
+  "c": "m",
+  "nicks": [
+   "jules"
+  ],
+  "note": "국립국어원 영어권 인물 용례 소수 표기: 쥘리아 1건; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 쥘리아 2건, 율리아 1건"
+ },
+ {
+  "key": "hailey",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 41번 듦(1998~2017년, 가장 많은 해 2003년 7곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "헤일리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"헤일리\"' totalhits 1040, 문서 예: '헤일리 밀스', '저스틴 헤일리', '헤일리 조엘 오스먼트' / 한국어 위키백과 문서 제목 '헤일리 볼드윈' (en: Hailey Bieber)",
+  "ja": "ヘイリー",
+  "ja_src": "ja.wikipedia 'ヘイリー・ボールドウィン' (en: Hailey Bieber) https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3",
+  "zh": "海莉",
+  "zh_src": "zh.wikipedia '海莉·鮑德溫' zh-tw 표시 제목 '海莉·鮑德溫' (en: Hailey Bieber) https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E8%8E%89%C2%B7%E9%AE%91%E5%BE%B7%E6%BA%AB",
+  "origin": "English (surname, place name)",
+  "meaning": {
+   "en": "variant of Hayley, from a town name meaning \"hay clearing\"",
+   "ko": "헤일리(Hayley)의 변형, \"건초 밭(풀을 베어 낸 땅)\"이라는 마을 이름에서",
+   "ja": "Hayley の異綴、「干し草の開けた土地」という町の名から",
+   "zh": "Hayley 的變體，源自意為「乾草空地」的城鎮名"
+  },
+  "meaning_src": "https://www.behindthename.com/name/hailey (뜻은 https://www.behindthename.com/name/hayley)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "natalie",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 39번 듦(2001~2022년, 가장 많은 해 2005년 6곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "내털리",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Natalie&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 내털리 2건 / 앞 4건 확인, 예: '우드, 내털리 (Wood, Natalie) — 미국 배우(1938~1981). 여성. 샌프란시스코에서 러시아 출신 이민…')",
+  "ko_alt": [
+   "나탈리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"나탈리\"' totalhits 1318, 문서 예: '나탈리 바이', '나탈리아 나이드하트', '내털리 포트먼'",
+  "ja": "ナタリー",
+  "ja_src": "ja.wikipedia 'ナタリー・ポートマン' (en: Natalie Portman) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%88%E3%83%9E%E3%83%B3",
+  "zh": "娜塔莉",
+  "zh_src": "zh.wikipedia '娜塔莉·波特曼' zh-tw 표시 제목 '娜塔莉·波曼' (en: Natalie Portman) https://zh.wikipedia.org/zh-tw/%E5%A8%9C%E5%A1%94%E8%8E%89%C2%B7%E6%B3%A2%E7%89%B9%E6%9B%BC",
+  "origin": "Latin",
+  "meaning": {
+   "en": "relating to birth, birthday (especially Christmas Day)",
+   "ko": "탄생·생일과 관련된(특히 성탄절)",
+   "ja": "誕生・誕生日に関する（特にクリスマス）",
+   "zh": "與誕生、生日有關（特指聖誕節）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/natalie",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 나탈리 2건; 국립국어원 근거 용례 적음(2건); ko_alt 후보 '내탈리' totalhits 0로 근거 약해 넣지 않음; 나탈리 검색 예시에 프랑스 인물 섞임"
+ },
+ {
+  "key": "aria",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 37번 듦(2012~2025년, 가장 많은 해 2018년 5곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States / en.wikipedia 'List of most popular given names' 표: New Zealand (2025) 여자 9위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "아리아"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"아리아\"' totalhits 1080, 문서 예: 'ARIA 차트', '아리아', '비탄의 아리아'",
+  "ja": "アリア",
+  "ja_src": "ja.wikipedia 'アリア' (en: Aria (en 문서)) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A2",
+  "zh": null,
+  "zh_src": null,
+  "origin": "Italian",
+  "meaning": {
+   "en": "song, melody (literally \"air\")",
+   "ko": "노래, 선율(글자 그대로는 \"공기\")",
+   "ja": "歌、旋律（文字通りには「空気」）",
+   "zh": "歌曲、旋律（字面意為「空氣」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/aria-1",
+  "c": "h",
+  "nicks": [],
+  "note": "Behind the Name에 같은 철자 다른 이름 있음: aria-2 (영어권 쪽 aria-1 사용); ja アリア는 음악 용어 '아리아' 문서 제목(이름의 어원이 같은 낱말); zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원 용례 217건 중 앞 80건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "amber",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 31번 듦(1992~1996년, 가장 많은 해 1993년 11곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "앰버",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Amber&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 앰버 2건 / 앞 40건 확인, 예: '러드, 앰버 (오거스타) (Rudd, Amber (Augusta)) — 영국 정치가(1963~ ). 고용연금부 장관(2018~ ), 내무장관(2…')",
+  "ko_alt": [
+   "엠버"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"엠버\"' totalhits 269, 문서 예: '엠버 (가수)', 'F(x)', '아스카 (프로레슬링 선수)'",
+  "ja": "アンバー",
+  "ja_src": "ja.wikipedia 'アンバー・ハード' (en: Amber Heard) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%89",
+  "zh": "安柏",
+  "zh_src": "zh.wikipedia '安柏·赫德' zh-tw 표시 제목 '安柏·赫德' (en: Amber Heard) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E6%9F%8F%C2%B7%E8%B5%AB%E5%BE%B7",
+  "origin": "English (word)",
+  "meaning": {
+   "en": "amber (the gemstone or the orange-yellow colour)",
+   "ko": "호박(보석) 또는 호박색",
+   "ja": "琥珀（宝石）または琥珀色",
+   "zh": "琥珀（寶石）或琥珀色"
+  },
+  "meaning_src": "https://www.behindthename.com/name/amber",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(2건); 엠버 검색 예시 1위는 가수 엠버(미국 출신)"
+ },
+ {
+  "key": "aubrey",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 29번 듦(2011~2022년, 가장 많은 해 2012년 8곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "오브리",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Aubrey&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 오브리 2건 / 앞 3건 확인, 예: '오브리 (Aubrey) — 미국 텍사스주 덴턴 카운티의 도시')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "オーブリー",
+  "ja_src": "ja.wikipedia 'オーブリー・プラザ' (en: Aubrey Plaza) https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%96%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B6",
+  "zh": "奧布瑞",
+  "zh_src": "zh.wikipedia '奧布瑞·普拉扎' zh-tw 표시 제목 '奧布瑞·普拉扎' (en: Aubrey Plaza) https://zh.wikipedia.org/zh-tw/%E5%A5%A7%E5%B8%83%E7%91%9E%C2%B7%E6%99%AE%E6%8B%89%E6%89%8E",
+  "origin": "Old French, from Germanic",
+  "meaning": {
+   "en": "from Auberi, form of Alberich: \"elf\" + \"ruler, king\"",
+   "ko": "Auberi(알베리히)에서: \"요정\" + \"통치자, 왕\"",
+   "ja": "Auberi（アルベリッヒ）から：「妖精」＋「支配者、王」",
+   "zh": "源自 Auberi（Alberich）：「精靈」＋「統治者、國王」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/aubrey (뜻은 https://www.behindthename.com/name/alberich)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "destiny",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 28번 듦(1998~2007년, 가장 많은 해 2001년 7곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "데스티니"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"데스티니\"' totalhits 657, 문서 예: 'DESTINY+', '마이 데스티니', '테일즈 오브 데스티니 2'",
+  "ja": null,
+  "ja_src": null,
+  "zh": null,
+  "zh_src": null,
+  "origin": "English (word)",
+  "meaning": {
+   "en": "destiny, fate",
+   "ko": "운명",
+   "ja": "運命",
+   "zh": "命運"
+  },
+  "meaning_src": "https://www.behindthename.com/name/destiny",
+  "c": "h",
+  "nicks": [],
+  "note": "ja: 이 이름 인물·이름 문서의 ja 연결을 찾지 못함; zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "courtney",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 27번 듦(1992~1997년, 가장 많은 해 1995년 9곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "코트니",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Courtney&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 코트니 1건 / 앞 1건 확인, 예: '호컬, 캐슬린 코트니 (Hochul, Kathleen Courtney) — 미국 정치인(1958~ ). 미국 뉴욕 주지사(2021~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "コートニー",
+  "ja_src": "ja.wikipedia 'コートニー・ラブ' (en: Courtney Love) https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%96",
+  "zh": "寇特妮",
+  "zh_src": "zh.wikipedia '寇特妮·洛芙' zh-tw 표시 제목 '寇特妮·洛芙' (en: Courtney Love) https://zh.wikipedia.org/zh-tw/%E5%AF%87%E7%89%B9%E5%A6%AE%C2%B7%E6%B4%9B%E8%8A%99",
+  "origin": "English (surname), from French",
+  "meaning": {
+   "en": "from Courtenay (from Latin curtus \"short\") or a Norman nickname meaning \"short nose\"",
+   "ko": "쿠르트네(라틴어 curtus \"짧은\")에서, 또는 \"짧은 코\"라는 노르만 별명에서",
+   "ja": "クルトネー（ラテン語 curtus「短い」）から、または「短い鼻」というノルマンのあだ名から",
+   "zh": "源自 Courtenay（拉丁語 curtus「短」），或諾曼綽號「短鼻子」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/courtney",
+  "c": "m",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "haley",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 25번 듦(1996~2005년, 가장 많은 해 2000년 5곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "헤일리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"헤일리\"' totalhits 1040, 문서 예: '헤일리 밀스', '저스틴 헤일리', '헤일리 조엘 오스먼트' / 한국어 위키백과 문서 제목 '헤일리 베넷' (en: Haley Bennett)",
+  "ja": "ヘイリー",
+  "ja_src": "ja.wikipedia 'ヘイリー・ベネット' (en: Haley Bennett) https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%99%E3%83%8D%E3%83%83%E3%83%88",
+  "zh": "海莉",
+  "zh_src": "zh.wikipedia '海莉·班奈特' zh-tw 표시 제목 '海莉·班奈特' (en: Haley Bennett) https://zh.wikipedia.org/zh-tw/%E6%B5%B7%E8%8E%89%C2%B7%E7%8F%AD%E5%A5%88%E7%89%B9",
+  "origin": "English (surname, place name)",
+  "meaning": {
+   "en": "variant of Hayley, from a town name meaning \"hay clearing\"",
+   "ko": "헤일리(Hayley)의 변형, \"건초 밭(풀을 베어 낸 땅)\"이라는 마을 이름에서",
+   "ja": "Hayley の異綴、「干し草の開けた土地」という町の名から",
+   "zh": "Hayley 的變體，源自意為「乾草空地」的城鎮名"
+  },
+  "meaning_src": "https://www.behindthename.com/name/haley (뜻은 https://www.behindthename.com/name/hayley)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례 1건 중 앞 1건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "scarlett",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 23번 듦(2015~2025년, 가장 많은 해 2023년 4곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "스칼릿",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Scarlett&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 스칼릿 1건 / 앞 1건 확인, 예: '조핸슨, 스칼릿 (Scarlett Johansson) — 미국 여배우(1984～ ). 뉴욕 출생. 2007년 봄부터 리복(Reeb…')",
+  "ko_alt": [
+   "스칼렛"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"스칼렛\"' totalhits 837, 문서 예: '스칼렛 요한슨', '엑스박스 시리즈 X/S', '아카기 토와' / 한국어 위키백과 문서 제목 '스칼렛 요한슨' (en: Scarlett Johansson)",
+  "ja": "スカーレット",
+  "ja_src": "ja.wikipedia 'スカーレット・ヨハンソン' (en: Scarlett Johansson) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%A8%E3%83%8F%E3%83%B3%E3%82%BD%E3%83%B3",
+  "zh": "史嘉蕾",
+  "zh_src": "zh.wikipedia '史嘉蕾·喬韓森' zh-tw 표시 제목 '史嘉蕾·喬韓森' (en: Scarlett Johansson) https://zh.wikipedia.org/zh-tw/%E5%8F%B2%E5%98%89%E8%95%BE%C2%B7%E5%96%AC%E9%9F%93%E6%A3%AE",
+  "origin": "English (surname)",
+  "meaning": {
+   "en": "a seller or maker of scarlet (a kind of cloth)",
+   "ko": "스칼렛(진홍색 천)을 팔거나 만든 사람",
+   "ja": "スカーレット（緋色の布）を売る・作る人",
+   "zh": "販賣或製作猩紅布料的人"
+  },
+  "meaning_src": "https://www.behindthename.com/name/scarlett",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "gianna",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 23번 듦(2007~2024년, 가장 많은 해 2020년 7곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "기아나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Gianna&searchCategory=know4 (영어권 인물 용례 없음, 다른 언어권 인물 용례 기아나 1건 / 앞 1건 확인, 예: '앙겔로풀로스 다스칼라키, 기아나 (Angelopoulos-Daskalaki, Gianna) — 그리스의 정치가·여성 변호사(1955～ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": null,
+  "ja_src": null,
+  "zh": null,
+  "zh_src": null,
+  "origin": "Italian, from Hebrew",
+  "meaning": {
+   "en": "Italian short form of Giovanna (feminine of John, \"Yahweh is gracious\")",
+   "ko": "조반나(존의 여성형, \"야훼는 은혜로우시다\")의 이탈리아어 줄임 이름",
+   "ja": "ジョヴァンナ（ジョンの女性形、「ヤハウェは恵み深い」）のイタリア語短縮形",
+   "zh": "喬瓦娜（約翰的女性形，「耶和華是仁慈的」）的義大利語簡稱"
+  },
+  "meaning_src": "https://www.behindthename.com/name/gianna (뜻은 https://www.behindthename.com/name/giovanna, https://www.behindthename.com/name/john)",
+  "c": "h",
+  "nicks": [],
+  "note": "ja: 이 이름 인물·이름 문서의 ja 연결을 찾지 못함; zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원에 영어권 인물 용례가 없어 다른 언어권 인물 표기를 씀; 국립국어원 근거 용례 적음(1건); ko_alt 후보 '지아나': 예시가 Ziana(말레이시아 가수) 등이라 넣지 않음; ko_alt 후보 '잔나': 예시가 러시아·우크라이나 Zhanna라 넣지 않음"
+ },
+ {
+  "key": "sydney",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 20번 듦(1997~2005년, 가장 많은 해 2000년 4곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "시드니",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Sydney&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 시드니 6건 / 앞 10건 확인, 예: '시드니 (Sydney) — 오스트레일리아 뉴사우스웨일스(New South Wales)주의 주도.')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "シドニー",
+  "ja_src": "ja.wikipedia 'シドニー・スウィーニー' (en: Sydney Sweeney) https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%89%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%8B%E3%83%BC",
+  "zh": "席德妮",
+  "zh_src": "zh.wikipedia '席德妮·史威尼' zh-tw 표시 제목 '席德妮·史威尼' (en: Sydney Sweeney) https://zh.wikipedia.org/zh-tw/%E5%B8%AD%E5%BE%B7%E5%A6%AE%C2%B7%E5%8F%B2%E5%A8%81%E5%B0%BC",
+  "origin": "English (surname)",
+  "meaning": {
+   "en": "from a surname, a variant of Sidney (also the name of the Australian city)",
+   "ko": "시드니(Sidney)라는 성의 변형에서(오스트레일리아 도시 이름이기도 함)",
+   "ja": "シドニー（Sidney）という姓の異綴から（オーストラリアの都市名でもある）",
+   "zh": "源自姓氏 Sidney 的變體（也是澳洲城市名）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/sydney (뜻은 https://www.behindthename.com/name/sidney)",
+  "c": "m",
+  "nicks": [],
+  "note": null
+ },
+ {
+  "key": "mila",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 18번 듦(2015~2023년, 가장 많은 해 2018년 5곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States / en.wikipedia 'List of most popular given names' 표: New Zealand (2025) 여자 8위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "밀라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Mila&searchCategory=know4 (영어권 인물 용례 없음, 다른 언어권 인물 용례 밀라 1건 / 앞 34건 확인, 예: '쇤, 밀라 (Mila Schön) — 이탈리아 디자이너(1919～2008)')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ミラ",
+  "ja_src": "ja.wikipedia 'ミラ・クニス' (en: Mila Kunis) https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%A9%E3%83%BB%E3%82%AF%E3%83%8B%E3%82%B9",
+  "zh": "蜜拉",
+  "zh_src": "zh.wikipedia '米拉·库尼斯' zh-tw 표시 제목 '蜜拉·庫妮絲' (en: Mila Kunis) https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E6%8B%89%C2%B7%E5%BA%93%E5%B0%BC%E6%96%AF",
+  "origin": "Slavic",
+  "meaning": {
+   "en": "gracious, dear",
+   "ko": "은혜로운, 사랑스러운",
+   "ja": "慈悲深い、愛しい",
+   "zh": "親切的、親愛的"
+  },
+  "meaning_src": "https://www.behindthename.com/name/mila",
+  "c": "h",
+  "nicks": [],
+  "note": "Behind the Name 쓰임 목록에 English 없음(Serbian, Croatian, Bulgarian, Macedonian); 국립국어원에 영어권 인물 용례가 없어 다른 언어권 인물 표기를 씀; 국립국어원 근거 용례 적음(1건); Behind the Name에서는 슬라브어 이름; 영어권 순위는 뉴질랜드 2025 표 근거"
+ },
+ {
+  "key": "chelsea",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 18번 듦(1992~1993년, 가장 많은 해 1992년 16곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "첼시",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Chelsea&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 첼시 2건 / 앞 6건 확인, 예: '첼시 (Chelsea) — 프리미어리그팀 - 영국 잉글랜드의 프로 축구 1부 리그 (프리미어십(Pr…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "チェルシー",
+  "ja_src": "ja.wikipedia 'チェルシー・クリントン' (en: Chelsea Clinton) https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%B3",
+  "zh": "雀兒喜",
+  "zh_src": "zh.wikipedia '切尔西·克林顿' zh-tw 표시 제목 '雀兒喜·柯林頓' (en: Chelsea Clinton) https://zh.wikipedia.org/zh-tw/%E5%88%87%E5%B0%94%E8%A5%BF%C2%B7%E5%85%8B%E6%9E%97%E9%A1%BF",
+  "origin": "English (place name)",
+  "meaning": {
+   "en": "landing place for chalk or limestone (a district of London)",
+   "ko": "백악·석회석을 내리던 선착장(런던의 지역 이름)",
+   "ja": "白亜・石灰石の船着き場（ロンドンの地区名）",
+   "zh": "白堊、石灰石的碼頭（倫敦地區名）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/chelsea",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "nova",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 16번 듦(2019~2025년, 가장 많은 해 2022년 4곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": null,
+  "ja_src": null,
+  "zh": null,
+  "zh_src": null,
+  "origin": "Latin",
+  "meaning": {
+   "en": "new",
+   "ko": "새로운",
+   "ja": "新しい",
+   "zh": "新的"
+  },
+  "meaning_src": "https://www.behindthename.com/name/nova",
+  "c": "h",
+  "nicks": [],
+  "note": "ja: 이 이름 인물·이름 문서의 ja 연결을 찾지 못함; zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원 용례는 사람 이름이 아닌 낱말·고유명(노바 = 신성(별))뿐이라 ko_std를 비움"
+ },
+ {
+  "key": "kelsey",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 16번 듦(1992~1994년, 가장 많은 해 1992년 8곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "켈시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"켈시\"' totalhits 294, 문서 예: '켈시 그래머', 'Q (잡지)', '파티 센트럴' / 한국어 위키백과 문서 제목 '켈시 그래머' (en: Kelsey Grammer)",
+  "ja": "ケルシー",
+  "ja_src": "ja.wikipedia 'ケルシー・グラマー' (en: Kelsey Grammer) https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%9E%E3%83%BC",
+  "zh": "凱爾茜",
+  "zh_src": "zh.wikipedia '凯尔茜·普拉姆' zh-tw 표시 제목 '凱爾茜·普拉姆' (en: Kelsey Plum) https://zh.wikipedia.org/zh-tw/%E5%87%AF%E5%B0%94%E8%8C%9C%C2%B7%E6%99%AE%E6%8B%89%E5%A7%86 / zh.wikipedia '卡斯·格拉馬' zh-tw 표시 제목 '凱西·葛雷莫' (en: Kelsey Grammer) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E6%96%AF%C2%B7%E6%A0%BC%E6%8B%89%E9%A6%AC",
+  "origin": "English (surname, place name)",
+  "meaning": {
+   "en": "may mean \"Cenel's island\" (Cenel \"fierce\" + eg \"island\")",
+   "ko": "\"케넬(Cenel, '사나운')의 섬\"일 수 있음",
+   "ja": "「ケネル（Cenel、「猛々しい」）の島」かもしれない",
+   "zh": "可能意為「Cenel（「兇猛」）之島」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/kelsey",
+  "c": "m",
+  "nicks": [],
+  "note": "zh 문서마다 표기 다름: 凱爾茜(Kelsey Plum), 凱西(Kelsey Grammer); 국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "maya",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 14번 듦(2003~2024년, 가장 많은 해 2023년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "마이아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Maya&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 마이아 1건 / 앞 9건 확인, 예: '앤절로, 마이아 (Maya Angelou) — 미국 시인·작가·배우(1928~2014).')",
+  "ko_alt": [
+   "마야"
+  ],
+  "ko_alt_src": "한국어 위키백과 문서 제목 '마야 앤절로' (en: Maya Angelou) https://ko.wikipedia.org/wiki/%EB%A7%88%EC%95%BC_%EC%95%A4%EC%A0%88%EB%A1%9C / 한국어 위키백과 문서 제목 '마야 루돌프' (en: Maya Rudolph)",
+  "ja": "マヤ",
+  "ja_src": "ja.wikipedia 'マヤ・アンジェロウ' (en: Maya Angelou) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A4%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%E3%82%A6 / ja.wikipedia 'マーヤ・ルドルフ' (en: Maya Rudolph) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%A4%E3%83%BB%E3%83%AB%E3%83%89%E3%83%AB%E3%83%95",
+  "zh": "馬雅",
+  "zh_src": "zh.wikipedia '马娅·安杰卢' zh-tw 표시 제목 '馬雅·安傑洛' (en: Maya Angelou) https://zh.wikipedia.org/zh-tw/%E9%A9%AC%E5%A8%85%C2%B7%E5%AE%89%E6%9D%B0%E5%8D%A2 / zh.wikipedia '玛雅·鲁道夫' zh-tw 표시 제목 '瑪雅·魯道夫' (en: Maya Rudolph) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E9%9B%85%C2%B7%E9%B2%81%E9%81%93%E5%A4%AB",
+  "origin": "Greek (as English variant of Maia)",
+  "meaning": {
+   "en": "variant of Maia, Greek \"good mother, dame, foster mother\"",
+   "ko": "마이아의 변형, 그리스어 \"좋은 어머니, 유모\"",
+   "ja": "マイアの異形、ギリシャ語「良い母、乳母」",
+   "zh": "邁亞的變體，希臘語「好母親、乳母」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/maya-2 (뜻은 https://www.behindthename.com/name/maia-1)",
+  "c": "h",
+  "nicks": [],
+  "note": "Behind the Name에 같은 철자 다른 이름 있음: maya-1, maya-3 (영어권 쪽 maya-2 사용); ja 문서마다 표기 다름: マヤ(Maya Angelou), マーヤ(Maya Rudolph); zh 문서마다 표기 다름: 馬雅(Maya Angelou), 瑪雅(Maya Rudolph); 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 마야 1건; 국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "danielle",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 14번 듦(1992~1995년, 가장 많은 해 1992년 5곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "대니엘",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Danielle&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 대니엘 3건 / 앞 5건 확인, 예: '키오, (대니엘) 라일리 (Keough, (Danielle) Riley) — 미국 배우·모델·프로듀서(1989~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ダニエル",
+  "ja_src": "ja.wikipedia 'ダニエル・スティール' (en: Danielle Steel) https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB",
+  "zh": "丹妮爾",
+  "zh_src": "zh.wikipedia '丹妮爾·斯蒂爾' zh-tw 표시 제목 '丹妮爾·史蒂爾' (en: Danielle Steel) https://zh.wikipedia.org/zh-tw/%E4%B8%B9%E5%A6%AE%E7%88%BE%C2%B7%E6%96%AF%E8%92%82%E7%88%BE",
+  "origin": "French, from Hebrew",
+  "meaning": {
+   "en": "French feminine form of Daniel (\"God is my judge\")",
+   "ko": "다니엘(\"하느님은 나의 심판관\")의 프랑스어 여성형",
+   "ja": "ダニエル（「神はわが裁き手」）のフランス語女性形",
+   "zh": "丹尼爾（「神是我的審判者」）的法語女性形"
+  },
+  "meaning_src": "https://www.behindthename.com/name/danielle (뜻은 https://www.behindthename.com/name/daniel)",
+  "c": "h",
+  "nicks": [
+   "dani"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 다니엘 1건; ko_alt 후보 '다니엘': 남자 이름 Daniel 표기와 겹쳐 넣지 않음; ko_alt 후보 '대니얼': 남자 이름 Daniel 표기와 겹쳐 넣지 않음"
+ },
+ {
+  "key": "caroline",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 14번 듦(2002~2020년, 가장 많은 해 2016년 3곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "캐럴라인",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Caroline&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 캐럴라인 2건 / 앞 15건 확인, 예: '케네디, 캐럴라인 (부비어) (Kennedy, Caroline (Bouvier)) — 미국 법조인·저술가(1957~ ). 고 케네디(John F. Kenned…')",
+  "ko_alt": [
+   "캐롤라인"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"캐롤라인\"' totalhits 957, 문서 예: '캐롤라인판', '캐롤라인 제도', '미크로네시아 연방'",
+  "ja": "キャロライン",
+  "ja_src": "ja.wikipedia 'キャロライン・ケネディ' (en: Caroline Kennedy) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3",
+  "zh": "卡洛琳",
+  "zh_src": "zh.wikipedia '卡羅琳·肯尼迪' zh-tw 표시 제목 '卡洛琳·甘迺迪' (en: Caroline Kennedy) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E7%BE%85%E7%90%B3%C2%B7%E8%82%AF%E5%B0%BC%E8%BF%AA",
+  "origin": "French, from Germanic",
+  "meaning": {
+   "en": "French feminine form of Carolus (Charles, \"man\")",
+   "ko": "카롤루스(찰스, \"남자\")의 프랑스어 여성형",
+   "ja": "カロルス（チャールズ、「男」）のフランス語女性形",
+   "zh": "卡羅盧斯（查爾斯，「男人」）的法語女性形"
+  },
+  "meaning_src": "https://www.behindthename.com/name/caroline (뜻은 https://www.behindthename.com/name/carolus, https://www.behindthename.com/name/charles)",
+  "c": "m",
+  "nicks": [
+   "carrie",
+   "callie"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 카롤린 2건, 카롤리네 1건; 국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "shelby",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 13번 듦(1992~1998년, 가장 많은 해 1992년 3곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "셸비",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Shelby&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 셸비 7건 / 앞 10건 확인, 예: '셸비 (Shelby) — 미국 테네시주에 있는 군(郡).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "シェルビー",
+  "ja_src": "ja.wikipedia 'シェルビー' (en: Shelby (en 문서)) https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC",
+  "zh": "謝爾比",
+  "zh_src": "zh.wikipedia '謝爾比' zh-tw 표시 제목 '謝爾比' (en: Shelby (en 문서)) https://zh.wikipedia.org/zh-tw/%E8%AC%9D%E7%88%BE%E6%AF%94",
+  "origin": "English (surname)",
+  "meaning": {
+   "en": "possibly a variant of the surname Selby (\"willow farm\" in Old Norse)",
+   "ko": "셀비(\"버드나무 농장\", 고대 노르드어)라는 성의 변형일 수 있음",
+   "ja": "セルビー（古ノルド語「柳の農場」）という姓の異形かもしれない",
+   "zh": "可能是姓氏 Selby（古諾斯語「柳樹農場」）的變體"
+  },
+  "meaning_src": "https://www.behindthename.com/name/shelby (뜻은 https://www.behindthename.com/name/selby)",
+  "c": "m",
+  "nicks": [],
+  "note": "ja·zh 근거는 동음이의 문서 제목; ko_alt 후보 '쉘비': 예시 문서 제목에 이 표기의 영어권 인물이 보이지 않아 넣지 않음"
+ },
+ {
+  "key": "leah",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 13번 듦(2010~2025년, 가장 많은 해 2018년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "리아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Leah&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 리아 1건 / 앞 6건 확인, 예: '헤이스, 리아 (Leah Hayes) — 미국 국적의 수영 선수(2005~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": null,
+  "ja_src": null,
+  "zh": "莉亞",
+  "zh_src": "zh.wikipedia '莉亞·蕾米妮' zh-tw 표시 제목 '莉亞·蕾米妮' (en: Leah Remini) https://zh.wikipedia.org/zh-tw/%E8%8E%89%E4%BA%9E%C2%B7%E8%95%BE%E7%B1%B3%E5%A6%AE / zh.wikipedia '利婭·威廉森' zh-tw 표시 제목 '莉亞·威廉森' (en: Leah Williamson) https://zh.wikipedia.org/zh-tw/%E5%88%A9%E5%A9%AD%C2%B7%E5%A8%81%E5%BB%89%E6%A3%AE",
+  "origin": "Hebrew",
+  "meaning": {
+   "en": "probably \"weary, grieved\"; possibly related to Akkadian \"cow\"",
+   "ko": "아마 \"지친, 슬픈\"; 아카드어 \"암소\"와 관련이 있을 수도 있음",
+   "ja": "おそらく「疲れた、悲しむ」；アッカド語「雌牛」と関係するかもしれない",
+   "zh": "可能意為「疲倦、憂傷」；或與阿卡德語「母牛」有關"
+  },
+  "meaning_src": "https://www.behindthename.com/name/leah",
+  "c": "m",
+  "nicks": [],
+  "note": "ja: 이 이름 인물·이름 문서의 ja 연결을 찾지 못함; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 레아 1건; 국립국어원 근거 용례 적음(1건); ko_alt 후보 '레아': 예시가 레아(신화)·레아 세두 등이라 넣지 않음"
+ },
+ {
+  "key": "layla",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 12번 듦(2012~2025년, 가장 많은 해 2018년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "레일라"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"레일라\"' totalhits 482, 문서 예: '싸이언 레일라 2', '싸이언 레일라', '레일라 하타미'",
+  "ja": "レイラ",
+  "ja_src": "ja.wikipedia 'いとしのレイラ' (en: Layla (en 문서)) https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%A8%E3%81%97%E3%81%AE%E3%83%AC%E3%82%A4%E3%83%A9",
+  "zh": null,
+  "zh_src": null,
+  "origin": "Arabic",
+  "meaning": {
+   "en": "night",
+   "ko": "밤",
+   "ja": "夜",
+   "zh": "夜晚"
+  },
+  "meaning_src": "https://www.behindthename.com/name/layla",
+  "c": "h",
+  "nicks": [],
+  "note": "ja レイラ는 노래 'Layla'의 일본어 제목 'いとしのレイラ'에서 이름 부분; zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함; ko_alt 후보 '라일라': 예시 문서가 주로 다른 언어권 인물이라 넣지 않음; 레일라 검색 예시는 주로 다른 언어권 인물(Layla 자체가 아랍어 기원)"
+ },
+ {
+  "key": "skylar",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 10번 듦(2015~2020년, 가장 많은 해 2015년 3곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "스카일라",
+   "스카일러"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"스카일라\"' totalhits 29, 문서 예: '스카일러 애스틴', '스카일라 그레이', '스카일라' / 한국어 위키백과 문서 제목 '스카일라 그레이' (en: Skylar Grey) / 한국어 위키백과 본문 검색 '\"스카일러\"' totalhits 303, 문서 예: '스카일러 콜팩스', '클라렌스는 엉뚱해!', '스카일러 애스틴'",
+  "ja": "スカイラー",
+  "ja_src": "ja.wikipedia 'スカイラー・グレイ' (en: Skylar Grey) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4",
+  "zh": "史蓋拉",
+  "zh_src": "zh.wikipedia '斯盖拉·格蕾' zh-tw 표시 제목 '史蓋拉·葛蕾' (en: Skylar Grey) https://zh.wikipedia.org/zh-tw/%E6%96%AF%E7%9B%96%E6%8B%89%C2%B7%E6%A0%BC%E8%95%BE",
+  "origin": "English (modern), from Dutch",
+  "meaning": {
+   "en": "variant of Skyler, from the Dutch surname Schuyler, \"scholar\"",
+   "ko": "스카일러(Skyler)의 변형, 네덜란드 성 Schuyler \"학자\"에서",
+   "ja": "Skyler の異綴、オランダの姓 Schuyler「学者」から",
+   "zh": "Skyler 的變體，源自荷蘭姓氏 Schuyler「學者」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/skylar (뜻은 https://www.behindthename.com/name/skyler, https://www.behindthename.com/name/schuyler)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "penelope",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 9번 듦(2021~2025년, 가장 많은 해 2025년 3곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "퍼넬러피",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Penelope&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 퍼넬러피 3건 / 앞 5건 확인, 예: '모돈트, 퍼넬러피 메리 (Penelope Mary Mordaunt) — 영국 정치가(1973~ ). 여성평등부 장관(2018~ ), 국제개발부 …')",
+  "ko_alt": [
+   "페넬로페"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"페넬로페\"' totalhits 270, 문서 예: '페넬로페 크루스', '페넬로페 (소프트웨어)', '페넬로페 (동음이의)'",
+  "ja": "ペネロピ",
+  "ja_src": "ja.wikipedia 'ペネロピ・フィッツジェラルド' (en: Penelope Fitzgerald) https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8D%E3%83%AD%E3%83%94%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%84%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%AB%E3%83%89",
+  "zh": "潘妮洛普",
+  "zh_src": "zh.wikipedia '佩内洛普·菲兹杰拉德' zh-tw 표시 제목 '潘妮洛普·菲茲傑拉德' (en: Penelope Fitzgerald) https://zh.wikipedia.org/zh-tw/%E4%BD%A9%E5%86%85%E6%B4%9B%E6%99%AE%C2%B7%E8%8F%B2%E5%85%B9%E6%9D%B0%E6%8B%89%E5%BE%B7",
+  "origin": "Greek",
+  "meaning": {
+   "en": "probably from Greek penelops, a type of duck; or \"threads\" + \"face\"",
+   "ko": "아마 그리스어 penelops(오리의 한 종류); 또는 \"실\" + \"얼굴\"",
+   "ja": "おそらくギリシャ語 penelops（カモの一種）；または「糸」＋「顔」",
+   "zh": "可能源自希臘語 penelops（一種鴨子）；或「絲線」＋「臉」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/penelope",
+  "c": "m",
+  "nicks": [
+   "penny",
+   "pen"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 페넬로페 1건; 페넬로페 검색 예시에 스페인 인물(페넬로페 크루스) 섞임"
+ },
+ {
+  "key": "claire",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 8번 듦(2012~2021년, 가장 많은 해 2012년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "클레어",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Claire&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 클레어 6건 / 앞 10건 확인, 예: '데이셔넬, 조이 (클레어) (Deschanel, Zooey (Claire)) — 미국 배우·모델·가수·작사가(1980~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "クレア",
+  "ja_src": "ja.wikipedia 'クレア・デインズ' (en: Claire Danes) https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%BB%E3%83%87%E3%82%A4%E3%83%B3%E3%82%BA / ja.wikipedia 'クレア・フォイ' (en: Claire Foy) https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A2%E3%83%BB%E3%83%95%E3%82%A9%E3%82%A4",
+  "zh": "克萊兒",
+  "zh_src": "zh.wikipedia '克萊兒·丹妮絲' zh-tw 표시 제목 '克萊兒·丹妮絲' (en: Claire Danes) https://zh.wikipedia.org/zh-tw/%E5%85%8B%E8%90%8A%E5%85%92%C2%B7%E4%B8%B9%E5%A6%AE%E7%B5%B2 / zh.wikipedia '克萊兒·芙伊' zh-tw 표시 제목 '克萊兒·芙伊' (en: Claire Foy) https://zh.wikipedia.org/zh-tw/%E5%85%8B%E8%90%8A%E5%85%92%C2%B7%E8%8A%99%E4%BC%8A",
+  "origin": "French, from Latin",
+  "meaning": {
+   "en": "French form of Clara, Latin \"clear, bright, famous\"",
+   "ko": "클라라의 프랑스어형, 라틴어 \"맑은, 밝은, 유명한\"",
+   "ja": "クララのフランス語形、ラテン語「澄んだ、明るい、名高い」",
+   "zh": "克拉拉的法語形，拉丁語「清澈、明亮、著名」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/claire (뜻은 https://www.behindthename.com/name/clara)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 클레르 1건; ko_alt 후보 '클레르': 예시가 프랑스 인물이라 넣지 않음"
+ },
+ {
+  "key": "ruby",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 7번 듦(2014~2025년, 가장 많은 해 2022년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "루비",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Ruby&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 루비 1건 / 앞 3건 확인, 예: '루비 (Ruby) — 미국 몬태나주 매디슨 카운티의 도시')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ルビー",
+  "ja_src": "ja.wikipedia 'ルビー・ローズ' (en: Ruby Rose) https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%93%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%BC%E3%82%BA",
+  "zh": "露比",
+  "zh_src": "zh.wikipedia '露比·蘿絲' zh-tw 표시 제목 '露比·蘿絲' (en: Ruby Rose) https://zh.wikipedia.org/zh-tw/%E9%9C%B2%E6%AF%94%C2%B7%E8%98%BF%E7%B5%B2",
+  "origin": "English (word), from Latin",
+  "meaning": {
+   "en": "ruby (the gemstone), ultimately from Latin rubeus \"red\"",
+   "ko": "루비(보석), 근원은 라틴어 rubeus \"붉은\"",
+   "ja": "ルビー（宝石）、元はラテン語 rubeus「赤い」",
+   "zh": "紅寶石，源自拉丁語 rubeus「紅色」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/ruby",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "vanessa",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 6번 듦(1993~1999년, 가장 많은 해 1993년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "버네사",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Vanessa&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 버네사 2건 / 앞 5건 확인, 예: '레드그레이브, 버네사 (Redgrave, Vanessa) — 영국의 여배우(1937～ ).')",
+  "ko_alt": [
+   "바네사"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"바네사\"' totalhits 873, 문서 예: '바네사 파라디', '버네사 레드그레이브', '1988년 태풍'",
+  "ja": "ヴァネッサ",
+  "ja_src": "ja.wikipedia 'ヴァネッサ・ハジェンズ' (en: Vanessa Hudgens) https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8D%E3%83%83%E3%82%B5%E3%83%BB%E3%83%8F%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%BA / ja.wikipedia 'ヴァネッサ・レッドグレイヴ' (en: Vanessa Redgrave) https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%8D%E3%83%83%E3%82%B5%E3%83%BB%E3%83%AC%E3%83%83%E3%83%89%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%B4",
+  "zh": "凡妮莎",
+  "zh_src": "zh.wikipedia '凡妮莎·哈金斯' zh-tw 표시 제목 '凡妮莎·哈金斯' (en: Vanessa Hudgens) https://zh.wikipedia.org/zh-tw/%E5%87%A1%E5%A6%AE%E8%8E%8E%C2%B7%E5%93%88%E9%87%91%E6%96%AF / zh.wikipedia '凡妮莎·蕾格烈芙' zh-tw 표시 제목 '凡妮莎·蕾格烈芙' (en: Vanessa Redgrave) https://zh.wikipedia.org/zh-tw/%E5%87%A1%E5%A6%AE%E8%8E%8E%C2%B7%E8%95%BE%E6%A0%BC%E7%83%88%E8%8A%99",
+  "origin": "English (invented)",
+  "meaning": {
+   "en": "invented by Jonathan Swift from the name of Esther Vanhomrigh",
+   "ko": "조너선 스위프트가 에스터 밴호머리의 이름 앞부분을 조합해 만든 이름",
+   "ja": "ジョナサン・スウィフトがエスター・ヴァンホムリーの名前の頭を組み合わせて作った名",
+   "zh": "喬納森·斯威夫特取艾絲特·范霍姆里姓名開頭所創"
+  },
+  "meaning_src": "https://www.behindthename.com/name/vanessa",
+  "c": "h",
+  "nicks": [
+   "nessa"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 바네사 1건; 국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "riley",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 6번 듦(2012~2018년, 가장 많은 해 2016년 4곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "라일리",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Riley&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 라일리 1건 / 앞 5건 확인, 예: '키오, (대니엘) 라일리 (Keough, (Danielle) Riley) — 미국 배우·모델·프로듀서(1989~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ライリー",
+  "ja_src": "ja.wikipedia 'ライリー・キーオ' (en: Riley Keough) https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AD%E3%83%BC%E3%82%AA",
+  "zh": "芮莉",
+  "zh_src": "zh.wikipedia '芮莉·克亞芙' zh-tw 표시 제목 '芮莉·克亞芙' (en: Riley Keough) https://zh.wikipedia.org/zh-tw/%E8%8A%AE%E8%8E%89%C2%B7%E5%85%8B%E4%BA%9E%E8%8A%99",
+  "origin": "Irish / English (surname)",
+  "meaning": {
+   "en": "Irish: variant of Reilly (meaning unknown); English: place name \"rye clearing\"",
+   "ko": "아일랜드 성 Reilly의 변형(뜻 미상) / 영국 성: \"호밀 밭(개간지)\"이라는 지명",
+   "ja": "アイルランドの姓 Reilly の異形（意味不明）／イングランドの姓：「ライ麦の開けた土地」という地名",
+   "zh": "愛爾蘭姓氏 Reilly 的變體（含義不明）／英格蘭姓氏：意為「黑麥空地」的地名"
+  },
+  "meaning_src": "https://www.behindthename.com/name/riley (뜻은 https://www.behindthename.com/name/reilly)",
+  "c": "m",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "quinn",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 6번 듦(2017~2025년, 가장 많은 해 2020년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "퀸"
+  ],
+  "ko_alt_src": "한국어 위키백과 문서 제목 '퀸 휴스' (en: Quinn Hughes) https://ko.wikipedia.org/wiki/%ED%80%B8_%ED%9C%B4%EC%8A%A4",
+  "ja": "クイン",
+  "ja_src": "ja.wikipedia 'クイン・ヒューズ' (en: Quinn Hughes) https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%82%BA",
+  "zh": "奎因",
+  "zh_src": "zh.wikipedia '奎因' zh-tw 표시 제목 '奎因' (en: Quinn (en 문서)) https://zh.wikipedia.org/zh-tw/%E5%A5%8E%E5%9B%A0",
+  "origin": "Irish (surname)",
+  "meaning": {
+   "en": "from Ó Cuinn, from the given name Conn (perhaps \"sense, reason\" or \"head, chief\")",
+   "ko": "Ó Cuinn에서, 이름 Conn(아마 \"분별, 이성\" 또는 \"우두머리\")에서",
+   "ja": "Ó Cuinn から、名 Conn（おそらく「分別、理性」または「頭、首長」）から",
+   "zh": "源自 Ó Cuinn，來自名字 Conn（可能意為「理智」或「首領」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/quinn (뜻은 https://www.behindthename.com/name/conn)",
+  "c": "m",
+  "nicks": [],
+  "note": "zh 근거는 동음이의 문서 제목; 국립국어원 용례 2건 중 앞 2건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "naomi",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 5번 듦(2012~2024년, 가장 많은 해 2012년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "나오미",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Naomi&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 나오미 1건 / 앞 2건 확인, 예: '캠벨, 나오미 (Campbell, Naomi) — 영국의 여자 배우·모델(1970～ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ナオミ",
+  "ja_src": "ja.wikipedia 'ナオミ・ワッツ' (en: Naomi Watts) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%AA%E3%83%9F%E3%83%BB%E3%83%AF%E3%83%83%E3%83%84 / ja.wikipedia 'ナオミ・キャンベル' (en: Naomi Campbell) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%AA%E3%83%9F%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB",
+  "zh": "娜歐蜜",
+  "zh_src": "zh.wikipedia '娜奥米·沃茨' zh-tw 표시 제목 '娜歐蜜·華茲' (en: Naomi Watts) https://zh.wikipedia.org/zh-tw/%E5%A8%9C%E5%A5%A5%E7%B1%B3%C2%B7%E6%B2%83%E8%8C%A8 / zh.wikipedia '娜奧美·金寶' zh-tw 표시 제목 '娜歐蜜·坎貝兒' (en: Naomi Campbell) https://zh.wikipedia.org/zh-tw/%E5%A8%9C%E5%A5%A7%E7%BE%8E%C2%B7%E9%87%91%E5%AF%B6",
+  "origin": "Hebrew",
+  "meaning": {
+   "en": "my pleasantness",
+   "ko": "나의 기쁨(즐거움)",
+   "ja": "わが喜び（心地よさ）",
+   "zh": "我的喜悅"
+  },
+  "meaning_src": "https://www.behindthename.com/name/naomi-1",
+  "c": "h",
+  "nicks": [],
+  "note": "Behind the Name에 같은 철자 다른 이름 있음: naomi-2 (영어권 쪽 naomi-1 사용); 국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "josephine",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 5번 듦(2020~2025년, 가장 많은 해 2025년 3곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "조지핀",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Josephine&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 조지핀 1건 / 앞 3건 확인, 예: '조지핀 (Josephine) — 미국 오리건주의 지명.')",
+  "ko_alt": [
+   "조세핀"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"조세핀\"' totalhits 329, 문서 예: '엠버 (가수)', '요세피네 스크리베르', '조지핀 헐' / 한국어 위키백과 문서 제목 '조세핀 베이커' (en: Josephine Baker)",
+  "ja": "ジョセフィン",
+  "ja_src": "ja.wikipedia 'ジョセフィン・ベーカー' (en: Josephine Baker) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%BB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%99%E3%83%BC%E3%82%AB%E3%83%BC",
+  "zh": "約瑟芬",
+  "zh_src": "zh.wikipedia '約瑟芬·貝克' zh-tw 표시 제목 '約瑟芬·貝克' (en: Josephine Baker) https://zh.wikipedia.org/zh-tw/%E7%B4%84%E7%91%9F%E8%8A%AC%C2%B7%E8%B2%9D%E5%85%8B",
+  "origin": "French, from Hebrew",
+  "meaning": {
+   "en": "from Joséphine, French feminine form of Joseph (\"he will add\")",
+   "ko": "조제핀(요셉 \"그가 더하시리라\"의 프랑스어 여성형)에서",
+   "ja": "ジョゼフィーヌ（ヨセフ「彼は加える」のフランス語女性形）から",
+   "zh": "源自約瑟芬（約瑟「他必增添」的法語女性形）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/josephine (뜻은 https://www.behindthename.com/name/jose10phine, https://www.behindthename.com/name/joseph)",
+  "c": "h",
+  "nicks": [
+   "josie",
+   "jo",
+   "jodie"
+  ],
+  "note": "국립국어원 근거 용례 적음(1건)"
+ },
+ {
+  "key": "florence",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: England, United Kingdom (2025) 여자 5위, Wales, United Kingdom (2025) 여자 8위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "플로렌스",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Florence&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 플로렌스 4건 / 앞 7건 확인, 예: '플로렌스 (Florence) — 미국 앨라배마(Alabama)주의 공업 도시.')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "フローレンス",
+  "ja_src": "ja.wikipedia 'フローレンス・ナイチンゲール' (en: Florence Nightingale) https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%81%E3%83%B3%E3%82%B2%E3%83%BC%E3%83%AB / ja.wikipedia 'フローレンス・ピュー' (en: Florence Pugh) https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%94%E3%83%A5%E3%83%BC",
+  "zh": "佛蘿倫絲",
+  "zh_src": "zh.wikipedia '弗羅倫斯·南丁格爾' zh-tw 표시 제목 '佛蘿倫絲·南丁格爾' (en: Florence Nightingale) https://zh.wikipedia.org/zh-tw/%E5%BC%97%E7%BE%85%E5%80%AB%E6%96%AF%C2%B7%E5%8D%97%E4%B8%81%E6%A0%BC%E7%88%BE / zh.wikipedia '佛蘿倫絲·普伊' zh-tw 표시 제목 '佛蘿倫絲·普伊' (en: Florence Pugh) https://zh.wikipedia.org/zh-tw/%E4%BD%9B%E8%98%BF%E5%80%AB%E7%B5%B2%C2%B7%E6%99%AE%E4%BC%8A",
+  "origin": "Latin",
+  "meaning": {
+   "en": "prosperous, flourishing",
+   "ko": "번영하는, 꽃피는",
+   "ja": "繁栄する、花開く",
+   "zh": "繁榮、興盛"
+  },
+  "meaning_src": "https://www.behindthename.com/name/florence",
+  "c": "h",
+  "nicks": [
+   "flo",
+   "florrie"
+  ],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 플로랑스 1건"
+ },
+ {
+  "key": "poppy",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: England, United Kingdom (2025) 여자 6위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "파피",
+   "포피"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"파피\"' totalhits 128, 문서 예: '미르모 퐁퐁퐁', '파피 질로보지', '체이싱 파피' / 한국어 위키백과 문서 제목 '파피 델레바인' (en: Poppy Delevingne) / 한국어 위키백과 문서 제목 '포피 몽고메리' (en: Poppy Montgomery) https://ko.wikipedia.org/wiki/%ED%8F%AC%ED%94%BC_%EB%AA%BD%EA%B3%A0%EB%A9%94%EB%A6%AC / 한국어 위키백과 문서 제목 '포피 드레이턴' (en: Poppy Drayton)",
+  "ja": "ポピー",
+  "ja_src": "ja.wikipedia 'ポピー・モンゴメリー' (en: Poppy Montgomery) https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%94%E3%83%BC%E3%83%BB%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%A1%E3%83%AA%E3%83%BC",
+  "zh": null,
+  "zh_src": null,
+  "origin": "English (word)",
+  "meaning": {
+   "en": "poppy (the red flower)",
+   "ko": "양귀비(붉은 꽃)",
+   "ja": "ケシ（ポピー、赤い花）",
+   "zh": "罌粟（紅色的花）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/poppy",
+  "c": "h",
+  "nicks": [],
+  "note": "zh: 이 이름 인물·이름 문서의 zh(대만 표기) 근거를 찾지 못함; 국립국어원 용례는 사람 이름이 아닌 낱말·고유명(포피 = 겨자)뿐이라 ko_std를 비움"
+ },
+ {
+  "key": "freya",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: Northern Ireland, United Kingdom (2025) 여자 10위, England, United Kingdom (2025) 여자 7위, Scotland, United Kingdom (2025) 여자 1위, Wales, United Kingdom (2025) 여자 6위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "프레야",
+   "프레이아"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"프레야\"' totalhits 85, 문서 예: '프레야 베하', '프리야 팅글리', '프레야 스태퍼드' / 한국어 위키백과 본문 검색 '\"프레이아\"' totalhits 34, 문서 예: '프레이아 앨런', '프리야 팅글리', '프레야 메이버' / 한국어 위키백과 문서 제목 '프레이아 앨런' (en: Freya Allan)",
+  "ja": "フレイヤ",
+  "ja_src": "ja.wikipedia 'フレイヤ・アーラン' (en: Freya Allan) https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%A9%E3%83%B3",
+  "zh": "芙蕾雅",
+  "zh_src": "zh.wikipedia '芙蕾雅·艾倫' zh-tw 표시 제목 '芙蕾雅·艾倫' (en: Freya Allan) https://zh.wikipedia.org/zh-tw/%E8%8A%99%E8%95%BE%E9%9B%85%C2%B7%E8%89%BE%E5%80%AB",
+  "origin": "Old Norse",
+  "meaning": {
+   "en": "lady (Norse goddess Freyja)",
+   "ko": "귀부인, 여주인(북유럽 신화의 여신 프레이야)",
+   "ja": "貴婦人（北欧神話の女神フレイヤ）",
+   "zh": "女士、女主人（北歐神話女神芙蕾雅）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/freya",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "elsie",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: England, United Kingdom (2025) 여자 10위, Wales, United Kingdom (2025) 여자 3위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "엘시",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Elsie&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 엘시 2건 / 앞 2건 확인, 예: '프랭클린, 로절린드 (엘시) (Franklin, Rosalind (Elsie)) — 영국 생물물리학자, 엑스(X)선 결정학자(1920～58). 여성. 디옥시…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "エルシー",
+  "ja_src": "ja.wikipedia 'エルシー・フィッシャー' (en: Elsie Fisher) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC",
+  "zh": "艾希",
+  "zh_src": "zh.wikipedia '艾希·費雪' zh-tw 표시 제목 '艾希·費雪' (en: Elsie Fisher) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E5%B8%8C%C2%B7%E8%B2%BB%E9%9B%AA",
+  "origin": "English, from Hebrew",
+  "meaning": {
+   "en": "diminutive of Elizabeth (\"my God is an oath\")",
+   "ko": "엘리자베스(\"나의 하느님은 맹세\")의 애칭",
+   "ja": "エリザベス（「わが神は誓い」）の愛称",
+   "zh": "伊莉莎白（「我的神是誓約」）的暱稱"
+  },
+  "meaning_src": "https://www.behindthename.com/name/elsie (뜻은 https://www.behindthename.com/name/elizabeth)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(2건)"
+ },
+ {
+  "key": "rosie",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: Scotland, United Kingdom (2025) 여자 10위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "로지"
+  ],
+  "ko_alt_src": "한국어 위키백과 문서 제목 '로지 오도널' (en: Rosie O'Donnell) https://ko.wikipedia.org/wiki/%EB%A1%9C%EC%A7%80_%EC%98%A4%EB%8F%84%EB%84%90 / 한국어 위키백과 문서 제목 '로지 헌팅턴화이틀리' (en: Rosie Huntington-Whiteley)",
+  "ja": "ロージー",
+  "ja_src": "ja.wikipedia 'ロージー・オドネル' (en: Rosie O'Donnell) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%89%E3%83%8D%E3%83%AB / ja.wikipedia 'ロージー・ハンティントン＝ホワイトリー' (en: Rosie Huntington-Whiteley) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%88%E3%83%B3%EF%BC%9D%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%AA%E3%83%BC",
+  "zh": "蘿西",
+  "zh_src": "zh.wikipedia '蘿西·歐唐納' zh-tw 표시 제목 '蘿西·歐唐納' (en: Rosie O'Donnell) https://zh.wikipedia.org/zh-tw/%E8%98%BF%E8%A5%BF%C2%B7%E6%AD%90%E5%94%90%E7%B4%8D / zh.wikipedia '露絲·漢丁頓-維莉' zh-tw 표시 제목 '蘿西·杭亭頓-懷特莉' (en: Rosie Huntington-Whiteley) https://zh.wikipedia.org/zh-tw/%E9%9C%B2%E7%B5%B2%C2%B7%E6%BC%A2%E4%B8%81%E9%A0%93-%E7%B6%AD%E8%8E%89",
+  "origin": "English, from Germanic",
+  "meaning": {
+   "en": "diminutive of Rose (Germanic \"famous type\", long associated with the rose flower)",
+   "ko": "로즈의 애칭(게르만어 \"유명한 종류\", 일찍부터 장미꽃과 연결됨)",
+   "ja": "ローズの愛称（ゲルマン語「名高い種類」、早くからバラの花と結びつく）",
+   "zh": "蘿絲的暱稱（日耳曼語「著名的類型」，很早便與玫瑰花相連）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/rosie (뜻은 https://www.behindthename.com/name/rose)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례는 사람 이름이 아닌 낱말·고유명(로지 = 태풍 이름)뿐이라 ko_std를 비움"
+ },
+ {
+  "key": "matilda",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: Australia (2024) 여자 8위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "마틸다"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"마틸다\"' totalhits 443, 문서 예: '마틸다 황후', '2형 보병전차 A12 마틸다 2', '다를링 레지티뮈' / 한국어 위키백과 문서 제목 '마틸다 황후' (en: Empress Matilda)",
+  "ja": "マティルダ",
+  "ja_src": "ja.wikipedia 'マティルダ (神聖ローマ皇后)' (en: Empress Matilda) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%82%A3%E3%83%AB%E3%83%80_%28%E7%A5%9E%E8%81%96%E3%83%AD%E3%83%BC%E3%83%9E%E7%9A%87%E5%90%8E%29",
+  "zh": "瑪蒂爾達",
+  "zh_src": "zh.wikipedia '玛蒂尔达皇后' zh-tw 표시 제목 '瑪蒂爾達皇后' (en: Empress Matilda) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%92%82%E5%B0%94%E8%BE%BE%E7%9A%87%E5%90%8E",
+  "origin": "Germanic",
+  "meaning": {
+   "en": "strength in battle",
+   "ko": "전투에서의 힘",
+   "ja": "戦いの力",
+   "zh": "戰鬥中的力量"
+  },
+  "meaning_src": "https://www.behindthename.com/name/matilda",
+  "c": "h",
+  "nicks": [
+   "tilly",
+   "tillie",
+   "mattie"
+  ],
+  "note": "국립국어원 용례 0건 중 앞 0건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함; zh 瑪蒂爾達는 마틸다 황후 문서 제목(瑪蒂爾達皇后)에서 이름 부분"
+ },
+ {
+  "key": "annie",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표: Northern Ireland, United Kingdom (2025) 여자 7위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "애니",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Annie&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 애니 3건 / 앞 9건 확인, 예: '페르난데스, 레일라 (애니) (Fernandez, Leylah (Annie)) — 캐나다 테니스 선수(2002~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "アニー",
+  "ja_src": "ja.wikipedia 'アニー・レノックス' (en: Annie Lennox) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%8E%E3%83%83%E3%82%AF%E3%82%B9",
+  "zh": "安妮",
+  "zh_src": "zh.wikipedia '安妮·蓝妮克丝' zh-tw 표시 제목 '安妮·藍妮克絲' (en: Annie Lennox) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%A6%AE%C2%B7%E8%93%9D%E5%A6%AE%E5%85%8B%E4%B8%9D",
+  "origin": "English, from Hebrew",
+  "meaning": {
+   "en": "diminutive of Anne (from Hebrew Hannah, \"favour, grace\")",
+   "ko": "앤(히브리어 한나 \"은혜, 은총\")의 애칭",
+   "ja": "アン（ヘブライ語ハンナ「恵み」）の愛称",
+   "zh": "安（希伯來語哈拿「恩典」）的暱稱"
+  },
+  "meaning_src": "https://www.behindthename.com/name/annie (뜻은 https://www.behindthename.com/name/anne-1, https://www.behindthename.com/name/anna, https://www.behindthename.com/name/hannah)",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 아니 2건, 안니에 1건"
+ },
+ {
+  "key": "alice",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 2번 듦(2018~2019년, 가장 많은 해 2018년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "앨리스",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Alice&searchCategory=know4 (영어권(미국·영국 등) 인물 용례 앨리스 7건 / 앞 14건 확인, 예: '얼, 실비아 (앨리스) (Earle, Sylvia (Alice)) — 미국 해양탐험가·생물학자(1935~ ). 미국 해양대기국(NOAA) 수석…')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "アリス",
+  "ja_src": "ja.wikipedia 'アリス・ウォーカー' (en: Alice Walker) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC / ja.wikipedia 'アリス・マンロー' (en: Alice Munro) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%B3%E3%83%AD%E3%83%BC",
+  "zh": "愛麗絲",
+  "zh_src": "zh.wikipedia '愛麗絲·華克' zh-tw 표시 제목 '愛麗絲·華克' (en: Alice Walker) https://zh.wikipedia.org/zh-tw/%E6%84%9B%E9%BA%97%E7%B5%B2%C2%B7%E8%8F%AF%E5%85%8B / zh.wikipedia '艾丽斯·芒罗' zh-tw 표시 제목 '艾莉絲·孟若' (en: Alice Munro) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E4%B8%BD%E6%96%AF%C2%B7%E8%8A%92%E7%BD%97",
+  "origin": "Old French, from Germanic",
+  "meaning": {
+   "en": "from Aalis, short form of Adelais/Adalheidis, \"nobleness, nobility\"",
+   "ko": "Aalis(아델라이스·아달하이디스의 줄임형)에서, \"고귀함\"",
+   "ja": "Aalis（アデライス・アダルハイディスの短縮形）から、「高貴さ」",
+   "zh": "源自 Aalis（Adelais／Adalheidis 的簡稱），「高貴」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/alice (뜻은 https://www.behindthename.com/name/adelaide)",
+  "c": "h",
+  "nicks": [
+   "allie",
+   "ally"
+  ],
+  "note": "zh 문서마다 표기 다름: 愛麗絲(Alice Walker), 艾莉絲(Alice Munro); 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 알리스 2건, 알리체 1건; ko_alt 후보 '엘리스': 예시가 엘리스 제도·성(Ellis)이라 넣지 않음"
  }
 ]
