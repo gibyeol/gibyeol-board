@@ -289,7 +289,7 @@
     if (!REV) {
       REV = {}; var D = window.NADRI_NAMES || {};
       Object.keys(D).forEach(function (k) { var e = D[k]; if (!e || typeof e !== 'object') return;
-        [e.ja, e.zh].concat(e.jv || [], e.zv || []).forEach(function (f) { if (f) { var n = String(f).replace(/[\s・·･]/g, ''); if (!REV[n]) REV[n] = k; } }); });
+        [e.ja, e.zh, e.sj, e.sz].concat(e.jv || [], e.zv || []).forEach(function (f) { if (f) { var n = String(f).replace(/[\s・·･]/g, ''); if (!REV[n]) REV[n] = k; } }); });
     }
     return REV[String(w).replace(/[\s・·･]/g, '')] || null;
   }
@@ -303,7 +303,9 @@
     if (kind === 'kana' || kind === 'han') {
       var parts = s.split(/[\s・·･]+/).filter(Boolean), keys = parts.map(revKey);
       // only spellings that cannot be a Japanese or Chinese name themselves: katakana with ー/・ or 4+ letters, Chinese 3+ characters (review 2026-11-28)
-      var foreignLooking = kind === 'kana' ? /^[゠-ヿ]+$/.test(parts.join('')) && (/[ー・]/.test(s) || parts.every(function (x) { return x.length >= 4; })) : parts.every(function (x) { return x.length >= 3; });
+      var foreignLooking = kind === 'kana' ? /^[゠-ヿ]+$/.test(parts.join('')) && (/[ー・]/.test(s) || parts.every(function (x) { return x.length >= 4; })) : parts.every(function (x) { return x.length >= 3; }) ||
+        // a Chinese spelling of a foreign full name has a middle dot between the parts (瑪麗·墨菲); Chinese names do not (review 2026-11-28)
+        (/[·・･]/.test(s) && parts.length >= 2 && parts.every(function (x) { return x.length >= 2; }));
       if (keys.every(Boolean) && foreignLooking) {
         var rr = convert(keys.join(' '));
         if (rr && !rr.error) { rr.fromScript = s; var lab = kind === 'kana' ? UI.lJa : UI.lZh; if (!rr.sounds.some(function (x) { return x[0] === lab; })) rr.sounds.push([lab, s]); rr.sounds.push([UI.lEn, keys.map(function (k) { return k.charAt(0).toUpperCase() + k.slice(1); }).join(' ')]); return rr; }

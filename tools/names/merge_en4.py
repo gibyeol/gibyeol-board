@@ -23,6 +23,7 @@ OUT = ROOT / "static" / "name-en4.js"
 POP_FIRST = {"matthew", "matthews",   # owner [7eb4ec94#4642]
              # owner [7eb4ec94#4748]: "많이쓰는걸 앞에 둬" - which one is used more: Claude judgement (no official source), both always shown;
              # review 2026-11-28: matt/david/richard/samuel back to standard first (맷 데이먼, 데이비드 베컴, 리처드 기어, 새뮤얼 L. 잭슨)
+             "alex",   # review 2026-11-28: was 알렉스 alone before; standard 앨릭스 must not come first (owner [7eb4ec94#4748])
              "emma", "liam", "jacob", "daniel", "benjamin", "lucas", "leo", "andrew", "thomas", "joseph", "nicholas", "jonathan", "timothy", "julian", "sebastian", "owen", "brandon", "isabella", "amelia", "sarah", "samantha", "angela", "stephanie", "rebecca", "melissa", "amanda", "camila", "violet", "eleanor", "evelyn", "elias", "josh", "bobby", "drew", "greg", "adams", "evans", "daniels", "andrews", "simmons", "jenkins", "thompson", "hughes", "lopez", "gomez", "diaz", "cruz"}
 FIX = {"lee": {"meaning": None, "origin": None, "note": "Lee is also the Korean/Chinese surname 이/李: no English-surname meaning (review 2026-11-28)"},
        "sam": {"of": "samuel", "note": "BtN: short form of Samuel, Samson, Samantha (Samuel first)"},
@@ -114,6 +115,8 @@ def main(paths):
     for k, se in surn_e.items():
         g = out.get(k)
         if isinstance(g, dict) and g is not se and g.get("t") != "surname":
+            if se.get("ka") and not g.get("ka") and not g.get("ks"):   # keep the surname's spelling in use (Bennett 베네트), review 2026-11-28
+                g["ka"] = se["ka"]
             for f, sf in (("ko", "sk"), ("ja", "sj"), ("zh", "sz")):
                 if g.get(f) != se.get(f):
                     g[sf] = se.get(f) or ""
