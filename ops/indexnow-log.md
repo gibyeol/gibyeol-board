@@ -64,3 +64,13 @@
 
 </details>
 
+| 2026-11-28 23:34 KST | https://www.bing.com/indexnow | 4 | HTTP 200 OK, URL submitted | /privacy/ /ko/privacy/ /ja/privacy/ /zh-tw/privacy/ |
+<details><summary>보낸 주소</summary>
+
+- https://nadri-guide.pages.dev/privacy/
+- https://nadri-guide.pages.dev/ko/privacy/
+- https://nadri-guide.pages.dev/ja/privacy/
+- https://nadri-guide.pages.dev/zh-tw/privacy/
+
+</details>
+
