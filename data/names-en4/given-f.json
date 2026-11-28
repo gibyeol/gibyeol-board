@@ -11385,5 +11385,605 @@
   "c": "h",
   "nicks": [],
   "note": "rank_src: en.wikipedia 이름 문서에서 순위·인기 문장을 찾지 못함; 국립국어원 용례 5건 중 앞 5건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함; ko_std 없음; 한국어 위키 인물 제목 표기: 에즈메이 1건, 에스메 1건; ja·zh 표기 근거에 이름 문서 밖 유명 인물 보충(직접 고름): Esmé Creed-Miles; ja: 이름 문서에 나온 인물 중 근거로 쓸 ja 문서를 찾지 못함"
+ },
+ {
+  "key": "guadalupe",
+  "type": "given",
+  "of": null,
+  "sex": "u",
+  "rank_src": null,
+  "ko_std": "과달루페",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Guadalupe&searchCategory=know4 (스페인어권 인물 용례에서 '과달루페' 1건, 예: '포사다, 호세 과달루페 (Posada, José Guadalupe) — 『인』 멕시코의 판화가(1851~1913).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "グアダルーペ",
+  "ja_src": "ja.wikipedia 'グアダルーペ・ビクトリア' (en: Guadalupe Victoria) https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%80%E3%83%AB%E3%83%BC%E3%83%9A%E3%83%BB%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2 / ja.wikipedia 'グアダルーペ・オルティス・デ・ランダスリ' (en: Guadalupe Ortiz de Landázuri Fernández de Heredia) https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%80%E3%83%AB%E3%83%BC%E3%83%9A%E3%83%BB%E3%82%AA%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%80%E3%82%B9%E3%83%AA — 같은 이름 인물 문서 2개 중 2개가 이 표기",
+  "zh": "瓜達盧佩",
+  "zh_src": "zh.wikipedia '瓜达卢佩·维多利亚' zh-tw 표시 제목 '瓜達盧佩·維多利亞' (en: Guadalupe Victoria) https://zh.wikipedia.org/zh-tw/%E7%93%9C%E8%BE%BE%E5%8D%A2%E4%BD%A9%C2%B7%E7%BB%B4%E5%A4%9A%E5%88%A9%E4%BA%9A — 같은 이름 인물 문서 1개 중 1개가 이 표기",
+  "origin": "Spanish (Marian title), from Arabic and possibly Latin place name",
+  "meaning": {
+   "en": "from \"Our Lady of Guadalupe\"; the place name is from Arabic wadi \"valley, river\", possibly + Latin lupus \"wolf\"",
+   "ko": "\"과달루페의 성모\"에서; 지명은 아랍어 와디(\"골짜기, 강\")에 라틴어 루푸스(\"늑대\")가 붙은 것일 수 있음",
+   "ja": "「グアダルーペの聖母」から。地名はアラビア語ワーディー（「谷、川」）にラテン語ルプス（「狼」）が付いたものとも",
+   "zh": "源自「瓜達盧佩聖母」；地名來自阿拉伯語wadi（「山谷、河」），可能加上拉丁語lupus（「狼」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/guadalupe",
+  "c": "m",
+  "nicks": [
+   "lupe",
+   "lupita"
+  ],
+  "note": "미국 주별 상위 10 표·스페인어권 상위 10 표에 없음(허용 사이트에서 순위 근거 못 찾음) / 국립국어원 근거 용례 적음(1건) / zh 근거 인물 문서 1개뿐 / 애칭은 Behind the Name Diminutives에서 언어 표시 없음(이 이름 단일 언어) 항목 — 스페인어 애칭이며 영어권 애칭이 아님"
+ },
+ {
+  "key": "ana",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Cuba 여자 8위 ('Ana María'의 일부) / Panama (2024, Baby Center) 여자 4위 / Venezuela (2024, Baby Center) 여자 6위 ('Ana Paula'의 일부) https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "아나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Ana&searchCategory=know4 (스페인어권 인물 용례에서 '아나' 1건, 예: '보틴(산스 데사우투올라 오셰이), 아나 (파트리시아) (Botín(-Sanz de Sautuola O'Shea), Ana (Patricia)) — 스페인 경영가(')",
+  "ko_alt": [
+   "애나"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '애나' 5개(예: '애나 개스타이어'(en Ana Gasteyer), '애나 릴리 애머푸어'(en Ana Lily Amirpour)), 본문 검색 '\"애나\"' totalhits 1329",
+  "ja": "アナ",
+  "ja_src": "ja.wikipedia 'アナ・ゲバラ' (en: Ana Guevara) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%BB%E3%82%B2%E3%83%90%E3%83%A9 / ja.wikipedia 'アナ・ブランディアナ' (en: Ana Blandiana) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%8A — 같은 이름 인물 문서 57개 중 55개가 이 표기",
+  "zh": "安娜",
+  "zh_src": "zh.wikipedia '安娜·格瓦拉' zh-tw 표시 제목 '安娜·格瓦拉' (en: Ana Guevara) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%A8%9C%C2%B7%E6%A0%BC%E7%93%A6%E6%8B%89 / zh.wikipedia '安娜·布兰迪亚娜' zh-tw 표시 제목 '安娜·布蘭迪亞娜' (en: Ana Blandiana) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%A8%9C%C2%B7%E5%B8%83%E5%85%B0%E8%BF%AA%E4%BA%9A%E5%A8%9C — 같은 이름 인물 문서 50개 중 47개가 이 표기",
+  "origin": "Hebrew, via Greek and Latin (form of Anna/Hannah)",
+  "meaning": {
+   "en": "\"favour, grace\" (Hebrew Channah, via Anna)",
+   "ko": "\"은총, 은혜\"(히브리어 한나, 안나를 거쳐)",
+   "ja": "「恵み、好意」（ヘブライ語ハンナ、アンナを経て）",
+   "zh": "「恩寵、恩典」（希伯來語哈拿，經由Anna）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/ana / https://www.behindthename.com/name/anna / https://www.behindthename.com/name/hannah",
+  "c": "h",
+  "nicks": [
+   "ani",
+   "anita"
+  ],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 근거 용례 적음(1건) / 애나는 영어권 인물(예: Ana Gasteyer) 표기 / ja 다른 문서 표기: アナヨルキラ 1, アンナ 1 / zh 다른 문서 표기: 阿那 1, 阿納 1, 阿娜 1 / 애칭은 Behind the Name Diminutives에서 Spanish 항목 — 스페인어 애칭이며 영어권 애칭이 아님"
+ },
+ {
+  "key": "lucia",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Costa Rica (2024) 여자 8위 / Spain (2023, excluding Basque Country & Catalonia) 여자 1위 / Basque Country, Spain (2023) 여자 7위 / Catalonia, Spain (2023) 여자 5위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "루시아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Luc%C3%ADa&searchCategory=know4 (영어권 인물 용례(스페인어권 용례 없음)에서 '루시아' 1건, 예: '맥배스, 루시아 케이 (McBath, Lucia Kay) — 미국 정치인(1960~ ). 미국 민주당 하원의원(2019~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ルシア",
+  "ja_src": "ja.wikipedia 'ルシア・エチェバリア' (en: Lucía Etxebarria) https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B7%E3%82%A2%E3%83%BB%E3%82%A8%E3%83%81%E3%82%A7%E3%83%90%E3%83%AA%E3%82%A2 / ja.wikipedia 'ルシア・ピノチェト' (en: Lucía Pinochet) https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B7%E3%82%A2%E3%83%BB%E3%83%94%E3%83%8E%E3%83%81%E3%82%A7%E3%83%88 — 같은 이름 인물 문서 5개 중 4개가 이 표기",
+  "zh": "露西婭",
+  "zh_src": "zh.wikipedia '露西娅·埃切贝里亚' zh-tw 표시 제목 '露西婭·埃切貝里亞' (en: Lucía Etxebarria) https://zh.wikipedia.org/zh-tw/%E9%9C%B2%E8%A5%BF%E5%A8%85%C2%B7%E5%9F%83%E5%88%87%E8%B4%9D%E9%87%8C%E4%BA%9A / zh.wikipedia '露西娅·西里亚特' zh-tw 표시 제목 '露西婭·西里亞特' (en: Lucía Hiriart de Pinochet) https://zh.wikipedia.org/zh-tw/%E9%9C%B2%E8%A5%BF%E5%A8%85%C2%B7%E8%A5%BF%E9%87%8C%E4%BA%9A%E7%89%B9 — 같은 이름 인물 문서 8개 중 7개가 이 표기",
+  "origin": "Latin (Spanish form of Lucia)",
+  "meaning": {
+   "en": "from Lucius, from Latin lux \"light\"",
+   "ko": "루키우스에서, 라틴어 룩스(\"빛\")",
+   "ja": "ルキウスから、ラテン語ルクス（「光」）",
+   "zh": "源自Lucius，拉丁語lux（「光」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/luci10a / https://www.behindthename.com/name/lucia / https://www.behindthename.com/name/lucius",
+  "c": "h",
+  "nicks": [
+   "luci",
+   "lucila"
+  ],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 근거 용례 적음(1건) / ja 다른 문서 표기: ルシーア 1 / zh 다른 문서 표기: 露茜 1 / 애칭은 Behind the Name Diminutives에서 언어 표시 없음(이 이름 단일 언어) 항목 — 스페인어 애칭이며 영어권 애칭이 아님"
+ },
+ {
+  "key": "valentina",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 3번 듦(2024~2025년, 가장 많은 해 2025년 2곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States / en.wikipedia 'List of most popular given names' 표(스페인어권): Buenos Aires, Argentina (2024) 여자 10위 / Córdoba, Argentina (2024) 여자 3위 / Bolivia (2024, Baby Center 여자 2위 / Costa Rica (2024) 여자 4위 / Dominican Republic (2023) 여자 3위 / Ecuador (Baby Center, 2024) 여자 8위 / Guatemala (2024) 여자 1위 / Honduras (Baby Center, 2024) 여자 3위 외 3곳 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "발렌티나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Valentina&searchCategory=know4 (인물 용례(스페인어권·영어권 표시 없음)에서 '발렌티나' 2건, 예: '마트비옌코, 발렌티나 이바노브나 (Matvienko, Valentina Ivanovna(Матвиенко, Валентина Ивановна)) — 러시아의 정치')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ヴァレンティナ",
+  "ja_src": "ja.wikipedia 'ヴァレンティナ・アリゲッティ' (en: Valentina Arrighetti) https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%AA%E3%82%B2%E3%83%83%E3%83%86%E3%82%A3 / ja.wikipedia 'ヴァレンティナ・チェルヴィ' (en: Valentina Cervi) https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%B3%E3%83%86%E3%82%A3%E3%83%8A%E3%83%BB%E3%83%81%E3%82%A7%E3%83%AB%E3%83%B4%E3%82%A3 — 같은 이름 인물 문서 5개 중 3개가 이 표기",
+  "zh": "瓦倫蒂娜",
+  "zh_src": "zh.wikipedia '瓦伦蒂娜·阿里盖蒂' zh-tw 표시 제목 '瓦倫蒂娜·阿里蓋蒂' (en: Valentina Arrighetti) https://zh.wikipedia.org/zh-tw/%E7%93%A6%E4%BC%A6%E8%92%82%E5%A8%9C%C2%B7%E9%98%BF%E9%87%8C%E7%9B%96%E8%92%82 / zh.wikipedia '瓦伦蒂娜·贝莱' zh-tw 표시 제목 '瓦倫蒂娜·貝萊' (en: Valentina Bellè) https://zh.wikipedia.org/zh-tw/%E7%93%A6%E4%BC%A6%E8%92%82%E5%A8%9C%C2%B7%E8%B4%9D%E8%8E%B1 — 같은 이름 인물 문서 8개 중 5개가 이 표기",
+  "origin": "Latin",
+  "meaning": {
+   "en": "from Valens, \"strong, vigorous, healthy\" (Latin)",
+   "ko": "발렌스에서, \"강한, 힘찬, 건강한\"(라틴어)",
+   "ja": "ウァレンスから、「強い、元気な、健康な」（ラテン語）",
+   "zh": "源自Valens，「強壯的、有活力的、健康的」（拉丁語）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/valentina / https://www.behindthename.com/name/valentine-1",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 근거 용례 적음(2건) / ja 다른 문서 표기: ヴァレンティーナ 1, ワレンチナ 1 / zh 다른 문서 표기: 瓦蓮京娜 2, 瓦倫緹娜 1"
+ },
+ {
+  "key": "ximena",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 1번 듦(2016~2016년, 가장 많은 해 2016년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "히메나"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '히메나' 2개(예: '히메나 나바레테'(en Ximena Navarrete), '히메나 사리냐나'(en Ximena Sariñana)), 본문 검색 '\"히메나\"' totalhits 62",
+  "ja": null,
+  "ja_src": null,
+  "zh": "希梅納",
+  "zh_src": "zh.wikipedia '希梅納·納瓦瑞提' zh-tw 표시 제목 '希梅納·納瓦瑞提' (en: Ximena Navarrete) https://zh.wikipedia.org/zh-tw/%E5%B8%8C%E6%A2%85%E7%B4%8D%C2%B7%E7%B4%8D%E7%93%A6%E7%91%9E%E6%8F%90 — 같은 이름 인물 문서 1개 중 1개가 이 표기",
+  "origin": "Medieval Spanish or Basque, uncertain",
+  "meaning": {
+   "en": "feminine of Ximeno, of uncertain meaning (possibly a form of Simon, or Basque seme \"son\")",
+   "ko": "시메노의 여성형, 뜻이 불확실(시몬의 한 형태 또는 바스크어 세메 \"아들\"일 수 있음)",
+   "ja": "シメノの女性形、意味は不確か（シモンの一形、またはバスク語セメ「息子」とも）",
+   "zh": "Ximeno的女性形，含義不確定（可能是Simon的一種形式，或巴斯克語seme「兒子」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/ximena / https://www.behindthename.com/name/ximeno",
+  "c": "m",
+  "nicks": [],
+  "note": "국립국어원 용례 검색(Ximena 0건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠 / ja.wikipedia에서 같은 이름 인물 문서 표기를 못 찾음 / zh 근거 인물 문서 1개뿐"
+ },
+ {
+  "key": "fernanda",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Mexico (2024,unofficial) 여자 4위 ('María Fernanda'의 일부) https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "페르난다",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Fernanda&searchCategory=know4 (인물 용례(스페인어권·영어권 표시 없음)에서 '페르난다' 1건, 예: '루디, 루이사 페르난다 (Rudi, Luisa Fernanda) — 에스파냐의 정치가(1950～ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "フェルナンダ",
+  "ja_src": "ja.wikipedia 'フェルナンダ・アレグレ' (en: Fernanda Alegre) https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%80%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%B0%E3%83%AC / ja.wikipedia 'フェルナンダ・G・ヴァイデン' (en: Fernanda G. Weiden) https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%80%E3%83%BBG%E3%83%BB%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%87%E3%83%B3 — 같은 이름 인물 문서 5개 중 5개가 이 표기",
+  "zh": "費爾南達",
+  "zh_src": "zh.wikipedia '费尔南达·利马' zh-tw 표시 제목 '費爾南達·利馬' (en: Fernanda Lima) https://zh.wikipedia.org/zh-tw/%E8%B4%B9%E5%B0%94%E5%8D%97%E8%BE%BE%C2%B7%E5%88%A9%E9%A9%AC / zh.wikipedia '费尔南达·里贝罗' zh-tw 표시 제목 '費爾南達·里貝羅' (en: Fernanda Ribeiro) https://zh.wikipedia.org/zh-tw/%E8%B4%B9%E5%B0%94%E5%8D%97%E8%BE%BE%C2%B7%E9%87%8C%E8%B4%9D%E7%BD%97 — 같은 이름 인물 문서 3개 중 2개가 이 표기",
+  "origin": "Gothic/Germanic (feminine of Ferdinand)",
+  "meaning": {
+   "en": "\"peace\" (or \"journey\") + \"boldness, daring\" (Gothic elements)",
+   "ko": "\"평화\"(또는 \"여행\") + \"대담함\"(고트어 요소)",
+   "ja": "「平和」（または「旅」）＋「大胆さ」（ゴート語の要素）",
+   "zh": "「和平」（或「旅程」）＋「勇敢」（哥德語元素）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/fernanda / https://www.behindthename.com/name/ferdinand",
+  "c": "m",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 근거 용례 적음(1건) / zh 다른 문서 표기: 費爾蘭德 1 / zh 표기가 갈림 — 확인 필요"
+ },
+ {
+  "key": "gabriela",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 2번 듦(2008~2009년, 가장 많은 해 2009년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "가브리엘라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Gabriela&searchCategory=know4 (스페인어권 인물 용례에서 '가브리엘라' 4건, 예: '부셰르, 가브리엘라 (Gabriela Bucher) — 콜롬비아 인권활동가(?~ ). 옥스팜인터내셔널(Oxfam International) 총재(2020~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ガブリエラ",
+  "ja_src": "ja.wikipedia 'ガブリエラ・アンダース' (en: Gabriela Anders) https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%A9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9 / ja.wikipedia 'ガブリエラ・ミストラル' (en: Gabriela Mistral) https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%96%E3%83%AA%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%9F%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AB — 같은 이름 인물 문서 3개 중 3개가 이 표기",
+  "zh": "加布里埃拉",
+  "zh_src": "zh.wikipedia '加布里埃拉·冯·哈布斯堡' zh-tw 표시 제목 '加布里埃拉·馮·哈布斯堡' (en: Gabriela von Habsburg) https://zh.wikipedia.org/zh-tw/%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E6%8B%89%C2%B7%E5%86%AF%C2%B7%E5%93%88%E5%B8%83%E6%96%AF%E5%A0%A1 / zh.wikipedia '加布里埃拉·蒙特羅' zh-tw 표시 제목 '加布里埃拉·蒙特羅' (en: Gabriela Montero) https://zh.wikipedia.org/zh-tw/%E5%8A%A0%E5%B8%83%E9%87%8C%E5%9F%83%E6%8B%89%C2%B7%E8%92%99%E7%89%B9%E7%BE%85 — 같은 이름 인물 문서 4개 중 2개가 이 표기",
+  "origin": "Hebrew (feminine of Gabriel)",
+  "meaning": {
+   "en": "\"God is my strong man\" (Hebrew Gavri'el)",
+   "ko": "\"하느님은 나의 용사\"(히브리어 가브리엘)",
+   "ja": "「神は我が勇者」（ヘブライ語ガブリエル）",
+   "zh": "「神是我的勇士」（希伯來語加百列）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/gabriela / https://www.behindthename.com/name/gabriel",
+  "c": "h",
+  "nicks": [
+   "gabi",
+   "gaby"
+  ],
+  "note": "zh 다른 문서 표기: 姬布瑞拉 1, 加夫列拉 1 / zh 표기가 갈림 — 확인 필요 / 애칭은 Behind the Name Diminutives에서 Spanish 항목 — 스페인어 애칭이며 영어권 애칭이 아님"
+ },
+ {
+  "key": "daniela",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": null,
+  "ko_std": "다니엘라",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Daniela&searchCategory=know4 (인물 용례(스페인어권·영어권 표시 없음)에서 '다니엘라' 2건, 예: '한투호바, 다니엘라 (Daniela Hantuchova) — 슬로바키아 테니스 선수(1983～ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ダニエラ",
+  "ja_src": "ja.wikipedia 'ダニエラ・アンドレア・アバンジニ・ヨレンテ' (en: Daniela Avanzini) https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%A9%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%90%E3%83%B3%E3%82%B8%E3%83%8B%E3%83%BB%E3%83%A8%E3%83%AC%E3%83%B3%E3%83%86 / ja.wikipedia 'ダニエラ・ビアンキ' (en: Daniela Bianchi) https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%93%E3%82%A2%E3%83%B3%E3%82%AD — 같은 이름 인물 문서 7개 중 7개가 이 표기",
+  "zh": "丹妮拉",
+  "zh_src": "zh.wikipedia '丹妮拉·安许茨-汤姆斯' zh-tw 표시 제목 '丹妮拉·安許茨-湯姆斯' (en: Daniela Anschütz-Thoms) https://zh.wikipedia.org/zh-tw/%E4%B8%B9%E5%A6%AE%E6%8B%89%C2%B7%E5%AE%89%E8%AE%B8%E8%8C%A8-%E6%B1%A4%E5%A7%86%E6%96%AF / zh.wikipedia '丹妮拉·碧安琪' zh-tw 표시 제목 '丹妮拉·碧安琪' (en: Daniela Bianchi) https://zh.wikipedia.org/zh-tw/%E4%B8%B9%E5%A6%AE%E6%8B%89%C2%B7%E7%A2%A7%E5%AE%89%E7%90%AA — 같은 이름 인물 문서 7개 중 4개가 이 표기",
+  "origin": "Hebrew (feminine of Daniel)",
+  "meaning": {
+   "en": "\"God is my judge\" (Hebrew Daniyyel)",
+   "ko": "\"하느님은 나의 심판자\"(히브리어 다니엘)",
+   "ja": "「神は我が裁き手」（ヘブライ語ダニエル）",
+   "zh": "「神是我的審判者」（希伯來語但以理）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/daniela / https://www.behindthename.com/name/daniel",
+  "c": "h",
+  "nicks": [
+   "danna"
+  ],
+  "note": "미국 주별 상위 10 표·스페인어권 상위 10 표에 없음(허용 사이트에서 순위 근거 못 찾음) / 국립국어원 근거 용례 적음(2건) / zh 다른 문서 표기: 達妮埃拉 3 / zh 표기가 갈림 — 확인 필요 / 애칭은 Behind the Name Diminutives에서 English 항목"
+ },
+ {
+  "key": "carmen",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Equatorial Guinea (2011) 여자 1위 ('María del Carmen'의 일부) / Cuba 여자 2위 ('María Carmen'의 일부) https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "카르멘",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Carmen&searchCategory=know4 (스페인어권 인물 용례에서 '카르멘' 1건, 예: '크루스 (소토), 카르멘 율린 (Cruz (Soto), Carmen Yulín) — 푸에르토리코 정치가(1963~ ). 산후안 시장(2013~ ).')",
+  "ko_alt": [
+   "카먼"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '카먼' 2개(예: '카먼 이조고'(en Carmen Ejogo), '카먼 일렉트라'(en Carmen Electra)), 본문 검색 '\"카먼\"' totalhits 182",
+  "ja": "カルメン",
+  "ja_src": "ja.wikipedia 'カルメン・サリアーレ' (en: Carmen Saliare) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%AC / ja.wikipedia 'カルメン・イジョゴ' (en: Carmen Ejogo) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3%E3%83%BB%E3%82%A4%E3%82%B8%E3%83%A7%E3%82%B4 — 같은 이름 인물 문서 11개 중 6개가 이 표기",
+  "zh": "卡門",
+  "zh_src": "zh.wikipedia '卡门·科利' zh-tw 표시 제목 '卡門·科利' (en: Carmen Corley) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E9%97%A8%C2%B7%E7%A7%91%E5%88%A9 / zh.wikipedia '卡門·艾喬格' zh-tw 표시 제목 '卡門·艾喬格' (en: Carmen Ejogo) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E9%96%80%C2%B7%E8%89%BE%E5%96%AC%E6%A0%BC — 같은 이름 인물 문서 5개 중 5개가 이 표기",
+  "origin": "Spanish (Marian title), from Hebrew place name",
+  "meaning": {
+   "en": "from \"Our Lady of Mount Carmel\"; Karmel means \"garden\" in Hebrew",
+   "ko": "\"카르멜산의 성모\"에서; 카르멜은 히브리어로 \"정원\"",
+   "ja": "「カルメル山の聖母」から。カルメルはヘブライ語で「庭園」",
+   "zh": "源自「加爾默羅山聖母」；Karmel在希伯來語意為「花園」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/carmen / https://www.behindthename.com/name/carmel",
+  "c": "h",
+  "nicks": [
+   "carmelina",
+   "carmelita"
+  ],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 용례의 다른 표기: 카먼 1건 / 영어권(미국 등) 인물 용례 표기: 카먼 1건 / 국립국어원 근거 용례 적음(1건) / 카먼은 영어권 인물(예: Carmen Electra) 표기 / ja 다른 문서 표기: カーメン 4, カルマン 1 / ja 표기가 갈림 — 확인 필요 / 애칭은 Behind the Name Diminutives에서 Spanish 항목 — 스페인어 애칭이며 영어권 애칭이 아님"
+ },
+ {
+  "key": "elena",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 1번 듦(2025~2025년, 가장 많은 해 2025년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States / en.wikipedia 'List of most popular given names' 표(스페인어권): Cuba 여자 5위 ('María Elena'의 일부) / El Salvador (Baby Center, 2024) 여자 5위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "엘레나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Elena&searchCategory=know4 (스페인어권 인물 용례에서 '엘레나' 1건, 예: '가르시아 에차베, 로사 엘레나 (García Echave, Rosa Elena) — 스페인 영화배우(1964~ ).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "エレーナ",
+  "ja_src": "ja.wikipedia 'エレーナ・アレクサンドロワ' (en: Elena Alexandrova) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AD%E3%83%AF / ja.wikipedia 'エレーナ・バシュキロワ' (en: Elena Bashkirova) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BB%E3%83%90%E3%82%B7%E3%83%A5%E3%82%AD%E3%83%AD%E3%83%AF — 같은 이름 인물 문서 66개 중 38개가 이 표기",
+  "zh": "埃萊娜",
+  "zh_src": "zh.wikipedia '埃莱娜·贝洛' zh-tw 표시 제목 '埃萊娜·貝洛' (en: Elena Bellò) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%B1%E5%A8%9C%C2%B7%E8%B4%9D%E6%B4%9B / zh.wikipedia '埃莱娜·贝尔托基' zh-tw 표시 제목 '埃萊娜·貝爾托基' (en: Elena Bertocchi) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%B1%E5%A8%9C%C2%B7%E8%B4%9D%E5%B0%94%E6%89%98%E5%9F%BA — 같은 이름 인물 문서 71개 중 25개가 이 표기",
+  "origin": "Greek (form of Helen)",
+  "meaning": {
+   "en": "probably \"torch\" (Greek helene), or possibly related to selene \"moon\"",
+   "ko": "\"횃불\"(그리스어 헬레네)일 가능성이 크고, 셀레네(\"달\")와 관련됐다는 설도 있음",
+   "ja": "「たいまつ」（ギリシャ語ヘレネー）の可能性が高く、セレネー（「月」）に関係するとも",
+   "zh": "可能意為「火炬」（希臘語helene），也可能與selene（「月亮」）有關"
+  },
+  "meaning_src": "https://www.behindthename.com/name/elena / https://www.behindthename.com/name/helen",
+  "c": "m",
+  "nicks": [
+   "ella",
+   "elle",
+   "ellie"
+  ],
+  "note": "국립국어원 용례의 다른 표기: 엘리나 1건 / 영어권(미국 등) 인물 용례 표기: 엘리나 1건 / 국립국어원 근거 용례 적음(1건) / 한국어 위키백과에는 러시아·세르비아 등 인물 표기 '옐레나' 14개도 있음(ko_alt에는 안 넣음) / ja 다른 문서 표기: エレナ 27, マスク 1 / ja 표기가 갈림 — 확인 필요 / zh 다른 문서 표기: 葉連娜 15, 埃列娜 12, 埃琳娜 9 / zh 표기가 갈림 — 확인 필요 / 애칭은 Behind the Name Diminutives에서 English 항목"
+ },
+ {
+  "key": "emilia",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Buenos Aires, Argentina (2024) 여자 4위 / Córdoba, Argentina (2024) 여자 5위 / Chile (2025) 여자 2위 / Colombia (2024) 여자 4위 / Mexico (2024,unofficial) 여자 2위 / Uruguay (2025) 여자 7위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "에밀리아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Emilia&searchCategory=know4 (인물 용례(스페인어권·영어권 표시 없음)에서 '에밀리아' 1건, 예: '파르도바산, 에밀리아 (Pardo Bazán, Emilia) — 『인』 에스파냐의 소설가(1852~1921).')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "エミリア",
+  "ja_src": "ja.wikipedia 'エミリア・クラーク' (en: Emilia Clarke) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF / ja.wikipedia 'エミリア・フォックス' (en: Emilia Fox) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9F%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9 — 같은 이름 인물 문서 6개 중 5개가 이 표기",
+  "zh": "埃米莉亞",
+  "zh_src": "zh.wikipedia '埃米莉亚·布罗丁' zh-tw 표시 제목 '埃米莉亞·布羅丁' (en: Emilia Brodin) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E5%B8%83%E7%BD%97%E4%B8%81 / zh.wikipedia '埃米莉亚·韦萨' zh-tw 표시 제목 '埃米莉亞·韋薩' (en: Emilia Vesa) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E7%B1%B3%E8%8E%89%E4%BA%9A%C2%B7%E9%9F%A6%E8%90%A8 — 같은 이름 인물 문서 7개 중 2개가 이 표기",
+  "origin": "Latin (Roman family name)",
+  "meaning": {
+   "en": "from Aemilius, from Latin aemulus \"rival\"",
+   "ko": "아이밀리우스에서, 라틴어 아이물루스(\"경쟁자\")",
+   "ja": "アエミリウスから、ラテン語アエムルス（「好敵手」）",
+   "zh": "源自Aemilius，拉丁語aemulus（「對手」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/emilia / https://www.behindthename.com/name/emily / https://www.behindthename.com/name/emil",
+  "c": "h",
+  "nicks": [
+   "emmie",
+   "emmy",
+   "em"
+  ],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 근거 용례 적음(1건) / ja 다른 문서 표기: ロッテル 1 / zh 다른 문서 표기: 艾美莉 1, 艾米麗雅 1, 艾米利亞 1 / zh 표기가 갈림 — 확인 필요 / 애칭은 Behind the Name Diminutives에서 English 항목"
+ },
+ {
+  "key": "catalina",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Buenos Aires, Argentina (2024) 여자 6위 / Córdoba, Argentina (2024) 여자 2위 / Puerto Rico (2025) 여자 5위 (공동 순위 'Catalina, Isabella') https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "카탈리나"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '카탈리나' 4개(예: '카탈리나 데니스'(en Catalina Denis), '카탈리나 사베드라'(en Catalina Saavedra)), 본문 검색 '\"카탈리나\"' totalhits 530",
+  "ja": "カタリーナ",
+  "ja_src": "ja.wikipedia 'カタリーナ・ミカエラ・デ・アウストリア' (en: Catalina Micaela of Spain) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BB%E3%83%9F%E3%82%AB%E3%82%A8%E3%83%A9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2 / ja.wikipedia 'カタリーナ・ベロア' (en: Catalina Berroa) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%8A%E3%83%BB%E3%83%99%E3%83%AD%E3%82%A2 — 같은 이름 인물 문서 5개 중 3개가 이 표기",
+  "zh": "卡塔利娜",
+  "zh_src": "zh.wikipedia '卡塔利娜·丹尼斯' zh-tw 표시 제목 '卡塔利娜·丹尼斯' (en: Catalina Denis) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E5%A1%94%E5%88%A9%E5%A8%9C%C2%B7%E4%B8%B9%E5%B0%BC%E6%96%AF / zh.wikipedia '卡塔利娜·德埃劳索' zh-tw 표시 제목 '卡塔利娜·德埃勞索' (en: Catalina de Erauso) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E5%A1%94%E5%88%A9%E5%A8%9C%C2%B7%E5%BE%B7%E5%9F%83%E5%8A%B3%E7%B4%A2 — 같은 이름 인물 문서 5개 중 3개가 이 표기",
+  "origin": "Greek (Spanish form of Katherine), debated",
+  "meaning": {
+   "en": "from Greek Aikaterine; debated: \"each of the two\", the goddess Hecate, \"torture\", or a Coptic name",
+   "ko": "그리스어 아이카테리네에서; 설이 갈림: \"둘 다 각각\", 헤카테 여신, \"고문\", 콥트어 이름 등",
+   "ja": "ギリシャ語アイカテリネから。諸説あり：「二つのそれぞれ」、女神ヘカテ、「拷問」、コプト語の名など",
+   "zh": "源自希臘語Aikaterine；說法不一：「兩者各自」、女神赫卡忒、「折磨」或科普特語名字"
+  },
+  "meaning_src": "https://www.behindthename.com/name/catalina / https://www.behindthename.com/name/katherine",
+  "c": "m",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 용례 검색(Catalina 0건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠; 본문 검색 수에 macOS 카탈리나 등 섞임 / ja 다른 문서 표기: カタリナ 2 / ja 표기가 갈림 — 확인 필요 / zh 다른 문서 표기: 克特利娜 1, 卡塔琳娜 1"
+ },
+ {
+  "key": "luciana",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Costa Rica (2024) 여자 3위 / Ecuador (Baby Center, 2024) 여자 4위 / Guatemala (2024) 여자 9위 / Paraguay (2024, Baby Center) 여자 3위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": "루차나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Luciana&searchCategory=know4 (인물 용례(스페인어권·영어권 표시 없음)에서 '루차나' 1건, 예: '라모르제세, 루차나 (Lamorgese, Luciana) — 이탈리아 행정가(1953~ ). 이탈리아 내무장관(2019~ ).')",
+  "ko_alt": [
+   "루시아나"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '루시아나' 4개(예: '루시아나 아이마르'(en Luciana Aymar), '루시아나 캐로'(en Luciana Carro)), 본문 검색 '\"루시아나\"' totalhits 63",
+  "ja": "ルシアナ",
+  "ja_src": "ja.wikipedia 'ルシアナ・アイマール' (en: Luciana Aymar) https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B7%E3%82%A2%E3%83%8A%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%9E%E3%83%BC%E3%83%AB / ja.wikipedia 'ルシアナ・レオン' (en: Luciana León) https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B7%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%AC%E3%82%AA%E3%83%B3 — 같은 이름 인물 문서 3개 중 2개가 이 표기",
+  "zh": "盧西亞娜",
+  "zh_src": "zh.wikipedia '卢西亚娜·艾马' zh-tw 표시 제목 '盧西亞娜·艾馬' (en: Luciana Aymar) https://zh.wikipedia.org/zh-tw/%E5%8D%A2%E8%A5%BF%E4%BA%9A%E5%A8%9C%C2%B7%E8%89%BE%E9%A9%AC / zh.wikipedia '卢西亚娜·桑托斯' zh-tw 표시 제목 '盧西亞娜·桑托斯' (en: Luciana Santos (politician)) https://zh.wikipedia.org/zh-tw/%E5%8D%A2%E8%A5%BF%E4%BA%9A%E5%A8%9C%C2%B7%E6%A1%91%E6%89%98%E6%96%AF — 같은 이름 인물 문서 2개 중 2개가 이 표기",
+  "origin": "Latin",
+  "meaning": {
+   "en": "from Lucianus, derived from Lucius (Latin lux \"light\")",
+   "ko": "루키아누스에서, 루키우스(라틴어 룩스 \"빛\")에서 나옴",
+   "ja": "ルキアヌスから、ルキウス（ラテン語ルクス「光」）に由来",
+   "zh": "源自Lucianus，由Lucius（拉丁語lux「光」）衍生"
+  },
+  "meaning_src": "https://www.behindthename.com/name/luciana / https://www.behindthename.com/name/lucianus / https://www.behindthename.com/name/lucius",
+  "c": "h",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 근거 용례 적음(1건) / ja 다른 문서 표기: ルチアナ 1 / ja 표기가 갈림 — 확인 필요"
+ },
+ {
+  "key": "antonella",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Bolivia (2024, Baby Center 여자 5위 / Colombia (2024) 여자 10위 / Costa Rica (2024) 여자 2위 / Ecuador (Baby Center, 2024) 여자 2위 / El Salvador (Baby Center, 2024) 여자 2위 / Nicaragua (2024, Baby Center) 여자 2위 / Peru (2024, Baby Center) 여자 6위 / Puerto Rico (2025) 여자 10위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "안토넬라"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '안토넬라' 3개(예: '안토넬라 코스타'(en Antonella Costa), '안토넬라 팔미사노'(en Antonella Palmisano)), 본문 검색 '\"안토넬라\"' totalhits 57",
+  "ja": "アントネッラ",
+  "ja_src": "ja.wikipedia 'アントネッラ・ベッルッティ' (en: Antonella Bellutti) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8D%E3%83%83%E3%83%A9%E3%83%BB%E3%83%99%E3%83%83%E3%83%AB%E3%83%83%E3%83%86%E3%82%A3 / ja.wikipedia 'アントネッラ・ブラガリア' (en: Antonella Bragaglia) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8D%E3%83%83%E3%83%A9%E3%83%BB%E3%83%96%E3%83%A9%E3%82%AC%E3%83%AA%E3%82%A2 — 같은 이름 인물 문서 5개 중 4개가 이 표기",
+  "zh": "安東內拉",
+  "zh_src": "zh.wikipedia '安东内拉·贝卢蒂' zh-tw 표시 제목 '安東內拉·貝盧蒂' (en: Antonella Bellutti) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E4%B8%9C%E5%86%85%E6%8B%89%C2%B7%E8%B4%9D%E5%8D%A2%E8%92%82 / zh.wikipedia '安东内拉·布拉加利亚' zh-tw 표시 제목 '安東內拉·布拉加利亞' (en: Antonella Bragaglia) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E4%B8%9C%E5%86%85%E6%8B%89%C2%B7%E5%B8%83%E6%8B%89%E5%8A%A0%E5%88%A9%E4%BA%9A — 같은 이름 인물 문서 6개 중 6개가 이 표기",
+  "origin": "Latin, via Italian (diminutive of Antonia)",
+  "meaning": {
+   "en": "diminutive of Antonia, from the Roman family name Antonius (unknown Etruscan origin)",
+   "ko": "안토니아의 애칭형, 로마 가문 이름 안토니우스(에트루리아어 기원, 뜻 모름)에서",
+   "ja": "アントニアの指小形、ローマの氏族名アントニウス（エトルリア起源、意味不明）から",
+   "zh": "Antonia的暱稱形，源自羅馬氏族名Antonius（伊特拉斯坎語起源，含義不明）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/antonella / https://www.behindthename.com/name/antonia / https://www.behindthename.com/name/anthony",
+  "c": "m",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 용례 검색(Antonella 0건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠 / ja 다른 문서 표기: アントネラ 1"
+ },
+ {
+  "key": "valeria",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 1번 듦(2009~2009년, 가장 많은 해 2009년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States / en.wikipedia 'List of most popular given names' 표(스페인어권): Mexico (2024,unofficial) 여자 10위 / Spain (2023, excluding Basque Country & Catalonia) 여자 6위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "발레리아"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '발레리아' 6개(예: '발레리아 베르투셀리'(en Valeria Bertuccelli), '발레리아 시안고티니'(en Valeria Ciangottini)), 본문 검색 '\"발레리아\"' totalhits 354",
+  "ja": "ヴァレリア",
+  "ja_src": "ja.wikipedia 'ヴァレリア・カヴァッリ' (en: Valeria Cavalli) https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%AB%E3%83%B4%E3%82%A1%E3%83%83%E3%83%AA / ja.wikipedia 'ヴァレリア・ゴリノ' (en: Valeria Golino) https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%B4%E3%83%AA%E3%83%8E — 같은 이름 인물 문서 5개 중 3개가 이 표기",
+  "zh": "瓦萊里婭",
+  "zh_src": "zh.wikipedia '瓦萊里婭·馬克西米拉' zh-tw 표시 제목 '瓦萊里婭·馬克西米拉' (en: Valeria Maximilla) https://zh.wikipedia.org/zh-tw/%E7%93%A6%E8%90%8A%E9%87%8C%E5%A9%AD%C2%B7%E9%A6%AC%E5%85%8B%E8%A5%BF%E7%B1%B3%E6%8B%89 / zh.wikipedia '瓦莱里娅·梅萨利娜' zh-tw 표시 제목 '瓦萊里婭·梅薩利娜' (en: Valeria Messalina) https://zh.wikipedia.org/zh-tw/%E7%93%A6%E8%8E%B1%E9%87%8C%E5%A8%85%C2%B7%E6%A2%85%E8%90%A8%E5%88%A9%E5%A8%9C — 같은 이름 인물 문서 5개 중 2개가 이 표기",
+  "origin": "Latin (Roman family name)",
+  "meaning": {
+   "en": "from Valerius, from Latin valeo \"to be strong\"",
+   "ko": "발레리우스에서, 라틴어 발레오(\"강하다\")",
+   "ja": "ウァレリウスから、ラテン語ウァレオ（「強い」）",
+   "zh": "源自Valerius，拉丁語valeo（「強壯」）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/valeria / https://www.behindthename.com/name/valerius",
+  "c": "h",
+  "nicks": [],
+  "note": "국립국어원 용례 검색(Valeria 0건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠 / ja 다른 문서 표기: ウァレリア 1, ヴァレリヤ 1 / zh 다른 문서 표기: 薇拉莉 1, 瓦萊麗雅 1, 瓦列莉亞 1 / zh 표기가 갈림 — 확인 필요"
+ },
+ {
+  "key": "julieta",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Chile (2025) 여자 4위 / Colombia (2024) 여자 5위 / Uruguay (2025) 여자 6위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "훌리에타"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '훌리에타' 5개(예: '훌리에타 디아스'(en Julieta Díaz), '훌리에타 그라나다'(en Julieta Granada)), 본문 검색 '\"훌리에타\"' totalhits 50",
+  "ja": null,
+  "ja_src": null,
+  "zh": "胡列塔",
+  "zh_src": "zh.wikipedia '胡列塔·克鲁斯' zh-tw 표시 제목 '胡列塔·克魯斯' (en: Julieta Cruz) https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%88%97%E5%A1%94%C2%B7%E5%85%8B%E9%B2%81%E6%96%AF / zh.wikipedia '胡列塔·扬库纳斯' zh-tw 표시 제목 '胡列塔·揚庫納斯' (en: Julieta Jankunas) https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%88%97%E5%A1%94%C2%B7%E6%89%AC%E5%BA%93%E7%BA%B3%E6%96%AF — 같은 이름 인물 문서 6개 중 4개가 이 표기",
+  "origin": "Latin, via Italian (Spanish form of Juliet)",
+  "meaning": {
+   "en": "form of Juliet, from Giulietta, diminutive of Giulia (feminine of Julius)",
+   "ko": "줄리엣의 형태, 줄리아(율리우스의 여성형)의 애칭형 줄리에타에서",
+   "ja": "ジュリエットの形、ジュリア（ユリウスの女性形）の指小形ジュリエッタから",
+   "zh": "Juliet的形式，源自Giulia（Julius的女性形）的暱稱形Giulietta"
+  },
+  "meaning_src": "https://www.behindthename.com/name/julieta / https://www.behindthename.com/name/juliet / https://www.behindthename.com/name/giulietta",
+  "c": "m",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 용례 검색(Julieta 0건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠 / ja 인물 문서 표기가 1개씩 갈려 비움: ジュリー 1, フリエタ 1, フリエッタ 1 / zh 다른 문서 표기: 胡麗塔 1, 朱莉 1"
+ },
+ {
+  "key": "renata",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Bolivia (2024, Baby Center 여자 4위 / Mexico (2024,unofficial) 여자 9위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "레나타"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '레나타' 2개(예: '레나타 스코토'(en Renata Scotto), '레나타 테발디'(en Renata Tebaldi)), 본문 검색 '\"레나타\"' totalhits 190",
+  "ja": "レナータ",
+  "ja_src": "ja.wikipedia 'レナータ・ボルガッティ' (en: Renata Borgatti) https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%82%BF%E3%83%BB%E3%83%9C%E3%83%AB%E3%82%AC%E3%83%83%E3%83%86%E3%82%A3 / ja.wikipedia 'レナータ・スコット' (en: Renata Scotto) https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88 — 같은 이름 인물 문서 4개 중 4개가 이 표기",
+  "zh": "雷娜塔",
+  "zh_src": "zh.wikipedia '雷娜塔·法斯特' zh-tw 표시 제목 '雷娜塔·法斯特' (en: Renata Fast) https://zh.wikipedia.org/zh-tw/%E9%9B%B7%E5%A8%9C%E5%A1%94%C2%B7%E6%B3%95%E6%96%AF%E7%89%B9 / zh.wikipedia '雷娜塔·雅姆里霍娃' zh-tw 표시 제목 '雷娜塔·雅姆里霍娃' (en: Renata Jamrichova) https://zh.wikipedia.org/zh-tw/%E9%9B%B7%E5%A8%9C%E5%A1%94%C2%B7%E9%9B%85%E5%A7%86%E9%87%8C%E9%9C%8D%E5%A8%83 — 같은 이름 인물 문서 4개 중 2개가 이 표기",
+  "origin": "Latin",
+  "meaning": {
+   "en": "\"born again\" (Latin Renatus)",
+   "ko": "\"다시 태어난\"(라틴어 레나투스)",
+   "ja": "「生まれ変わった」（ラテン語レナトゥス）",
+   "zh": "「重生」（拉丁語Renatus）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/renata / https://www.behindthename.com/name/renatus",
+  "c": "h",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 용례 검색(Renata 1건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠 / zh 다른 문서 표기: 雷納塔 2 / zh 표기가 갈림 — 확인 필요"
+ },
+ {
+  "key": "adriana",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 1번 듦(2009~2009년, 가장 많은 해 2009년 1곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
+  "ko_std": "에이드리아나",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Adriana&searchCategory=know4 (영어권 인물 용례(스페인어권 용례 없음)에서 '에이드리아나' 1건, 예: '쿠글러, 에이드리아나 (Adriana Kugler) — 미국 경제학자. 미국 연방 준비은행 이사(2023~ ).')",
+  "ko_alt": [
+   "아드리아나"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '아드리아나' 20개(예: '아드리아나 아스티'(en Adriana Asti), '아드리아나 바라자'(en Adriana Barraza)), 본문 검색 '\"아드리아나\"' totalhits 473",
+  "ja": "アドリアーナ",
+  "ja_src": "ja.wikipedia 'アドリアーナ・アラウージョ' (en: Adriana Araújo) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%A2%E3%83%A9%E3%82%A6%E3%83%BC%E3%82%B8%E3%83%A7 / ja.wikipedia 'アドリアーナ・カヴァレーロ' (en: Adriana Cavarero) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%AB%E3%83%B4%E3%82%A1%E3%83%AC%E3%83%BC%E3%83%AD — 같은 이름 인물 문서 14개 중 7개가 이 표기",
+  "zh": "阿德里安娜",
+  "zh_src": "zh.wikipedia '阿德里安娜·亚当' zh-tw 표시 제목 '阿德里安娜·亞當' (en: Adriana Ailincăi) https://zh.wikipedia.org/zh-tw/%E9%98%BF%E5%BE%B7%E9%87%8C%E5%AE%89%E5%A8%9C%C2%B7%E4%BA%9A%E5%BD%93 / zh.wikipedia '阿德里安娜·巴宗' zh-tw 표시 제목 '阿德里安娜·巴宗' (en: Adriana Bazon) https://zh.wikipedia.org/zh-tw/%E9%98%BF%E5%BE%B7%E9%87%8C%E5%AE%89%E5%A8%9C%C2%B7%E5%B7%B4%E5%AE%97 — 같은 이름 인물 문서 15개 중 9개가 이 표기",
+  "origin": "Latin (feminine of Adrian)",
+  "meaning": {
+   "en": "from Hadrianus, \"from Hadria\" (Latin)",
+   "ko": "하드리아누스에서, \"하드리아 출신\"(라틴어)",
+   "ja": "ハドリアヌスから、「ハドリア出身の」（ラテン語）",
+   "zh": "源自Hadrianus，「來自哈德里亞」（拉丁語）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/adriana / https://www.behindthename.com/name/adrian / https://www.behindthename.com/name/hadrian",
+  "c": "h",
+  "nicks": [
+   "adria",
+   "drina"
+  ],
+  "note": "국립국어원 근거 용례 적음(1건) / 국립국어원 용례(영어권 인물 1건)는 에이드리아나, 한국어 위키백과 인물 문서는 대부분 아드리아나 / ja 다른 문서 표기: アドリアナ 7 / ja 표기가 갈림 — 확인 필요 / zh 다른 문서 표기: 阿德里亞娜 4, 阿德瑞娜 2 / 애칭은 Behind the Name Diminutives에서 English 항목"
+ },
+ {
+  "key": "natalia",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": null,
+  "ko_std": "나탈리아",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Natalia&searchCategory=know4 (인물 용례(스페인어권·영어권 표시 없음)에서 '나탈리아' 1건, 예: '게르만, 나탈리아 (Gherman, Natalia) — 몰도바 정치가(1969~ ). 9대 UN 사무총장 후보(2016). 몰도바 제1 부총리(First Depu')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "ナタリア",
+  "ja_src": "ja.wikipedia 'ナタリア・アリモワ' (en: Natalia Alimova) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%A2%E3%83%AF / ja.wikipedia 'ナタリア・アンネンコ' (en: Natalia Annenko) https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%B3%E3%82%B3 — 같은 이름 인물 문서 55개 중 46개가 이 표기",
+  "zh": "納塔利婭",
+  "zh_src": "zh.wikipedia '纳塔利娅·巴约尔' zh-tw 표시 제목 '納塔利婭·巴約爾' (en: Natalia Bajor) https://zh.wikipedia.org/zh-tw/%E7%BA%B3%E5%A1%94%E5%88%A9%E5%A8%85%C2%B7%E5%B7%B4%E7%BA%A6%E5%B0%94 / zh.wikipedia '纳塔利娅·别赫捷列娃' zh-tw 표시 제목 '納塔利婭·別赫捷列娃' (en: Natalia Bekhtereva) https://zh.wikipedia.org/zh-tw/%E7%BA%B3%E5%A1%94%E5%88%A9%E5%A8%85%C2%B7%E5%88%AB%E8%B5%AB%E6%8D%B7%E5%88%97%E5%A8%83 — 같은 이름 인물 문서 60개 중 35개가 이 표기",
+  "origin": "Latin (form of Natalie)",
+  "meaning": {
+   "en": "from Latin natalis \"relating to birth, birthday\" (also \"Christmas Day\")",
+   "ko": "라틴어 나탈리스(\"탄생의, 생일\")에서(\"성탄절\"의 뜻도 더해짐)",
+   "ja": "ラテン語ナタリス（「誕生の、誕生日」）から（「クリスマス」の意も）",
+   "zh": "源自拉丁語natalis（「出生的、生日」），也引申為「聖誕節」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/natalia / https://www.behindthename.com/name/natalie",
+  "c": "h",
+  "nicks": [
+   "nat"
+  ],
+  "note": "미국 주별 상위 10 표·스페인어권 상위 10 표에 없음(허용 사이트에서 순위 근거 못 찾음) / 국립국어원 근거 용례 적음(1건) / 한국어 위키백과에는 러시아 등 인물 표기 '나탈리야' 13개도 있음(ko_alt에는 안 넣음) / ja 다른 문서 표기: ナターリヤ 3, ナタリヤ 3, ナターリア 2 / zh 다른 문서 표기: 娜塔莉亞 15, 娜塔莉婭 4, 納塔莉亞 2 / 애칭은 Behind the Name Diminutives에서 English 항목"
+ },
+ {
+  "key": "alejandra",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": "en.wikipedia 'List of most popular given names' 표(스페인어권): Guatemala (2024) 여자 6위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names",
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "알레한드라"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '알레한드라' 3개(예: '알레한드라 베니테스'(en Alejandra Benítez), '알레한드라 구스만'(en Alejandra Guzmán)), 본문 검색 '\"알레한드라\"' totalhits 253",
+  "ja": "アレハンドラ",
+  "ja_src": "ja.wikipedia 'アレハンドラ・グスマン' (en: Alejandra Guzmán) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%82%B0%E3%82%B9%E3%83%9E%E3%83%B3 / ja.wikipedia 'アレハンドラ・オリベラス' (en: Alejandra Oliveras) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%8F%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%82%AA%E3%83%AA%E3%83%99%E3%83%A9%E3%82%B9 — 같은 이름 인물 문서 3개 중 3개가 이 표기",
+  "zh": "亞歷杭德拉",
+  "zh_src": "zh.wikipedia '亚历杭德拉·埃斯图迪略' zh-tw 표시 제목 '亞歷杭德拉·埃斯圖迪略' (en: Alejandra Estudillo) https://zh.wikipedia.org/zh-tw/%E4%BA%9A%E5%8E%86%E6%9D%AD%E5%BE%B7%E6%8B%89%C2%B7%E5%9F%83%E6%96%AF%E5%9B%BE%E8%BF%AA%E7%95%A5 / zh.wikipedia '亚历杭德拉·古利亚' zh-tw 표시 제목 '亞歷杭德拉·古利亞' (en: Alejandra Gulla) https://zh.wikipedia.org/zh-tw/%E4%BA%9A%E5%8E%86%E6%9D%AD%E5%BE%B7%E6%8B%89%C2%B7%E5%8F%A4%E5%88%A9%E4%BA%9A — 같은 이름 인물 문서 3개 중 3개가 이 표기",
+  "origin": "Greek, via Latin (Spanish form of Alexandra)",
+  "meaning": {
+   "en": "feminine of Alexander, \"defending men\" (Greek Alexandros)",
+   "ko": "알렉산더의 여성형, \"사람들을 지키는 자\"(그리스어 알렉산드로스)",
+   "ja": "アレクサンダーの女性形、「人々を守る者」（ギリシャ語アレクサンドロス）",
+   "zh": "Alexander的女性形，「保護人們的人」（希臘語Alexandros）"
+  },
+  "meaning_src": "https://www.behindthename.com/name/alejandra / https://www.behindthename.com/name/alexandra / https://www.behindthename.com/name/alexander",
+  "c": "h",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표에는 없음, 스페인어권 국가 순위만 확인 / 국립국어원 용례 검색(Alejandra 0건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠"
+ },
+ {
+  "key": "mariana",
+  "type": "given",
+  "of": null,
+  "sex": "f",
+  "rank_src": null,
+  "ko_std": null,
+  "ko_std_src": null,
+  "ko_alt": [
+   "마리아나"
+  ],
+  "ko_alt_src": "한국어 위키백과 같은 이름 인물 문서 제목에서 '마리아나' 7개(예: '마리아나 빅토리아 데 에스파냐 왕녀'(en Mariana Victoria of Spain), '마리아나 시메니스'(en Mariana Ximenes)), 본문 검색 '\"마리아나\"' totalhits 1192",
+  "ja": "マリアナ",
+  "ja_src": "ja.wikipedia 'マリアナ・ビクトリア・デ・ボルボーン' (en: Mariana Victoria of Spain) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%87%E3%83%BB%E3%83%9C%E3%83%AB%E3%83%9C%E3%83%BC%E3%83%B3 / ja.wikipedia 'マリアナ・デ・アウストリア' (en: Mariana of Austria) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2 — 같은 이름 인물 문서 7개 중 5개가 이 표기",
+  "zh": "瑪麗安娜",
+  "zh_src": "zh.wikipedia '瑪麗安娜·維多利亞 (西班牙)' zh-tw 표시 제목 '瑪麗安娜·維多利亞 (西班牙)' (en: Mariana Victoria of Spain) https://zh.wikipedia.org/zh-tw/%E7%91%AA%E9%BA%97%E5%AE%89%E5%A8%9C%C2%B7%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E_%28%E8%A5%BF%E7%8F%AD%E7%89%99%29 / zh.wikipedia '瑪麗安娜·馬汀尼茲' zh-tw 표시 제목 '瑪麗安娜·馬汀尼茲' (en: Mariana Avitia) https://zh.wikipedia.org/zh-tw/%E7%91%AA%E9%BA%97%E5%AE%89%E5%A8%9C%C2%B7%E9%A6%AC%E6%B1%80%E5%B0%BC%E8%8C%B2 — 같은 이름 인물 문서 6개 중 5개가 이 표기",
+  "origin": "Latin (Roman cognomen)",
+  "meaning": {
+   "en": "feminine of Marianus (from Marius); later sometimes read as Maria + Ana",
+   "ko": "마리아누스(마리우스에서)의 여성형; 뒤에는 마리아 + 아나로 해석되기도 함",
+   "ja": "マリアヌス（マリウスから）の女性形。後にマリア＋アナと解されることも",
+   "zh": "Marianus（源自Marius）的女性形；後來有時被解釋為María＋Ana"
+  },
+  "meaning_src": "https://www.behindthename.com/name/mariana / https://www.behindthename.com/name/marianus",
+  "c": "m",
+  "nicks": [],
+  "note": "미국 주별 상위 10 표·스페인어권 상위 10 표에 없음(허용 사이트에서 순위 근거 못 찾음) / 국립국어원 용례 검색(Mariana 4건)에서 이 이름이 쓰인 인명 용례를 찾지 못함 / 국립국어원 용례가 없어 한국어 위키백과 인물 문서 표기를 ko_alt로 둠; 본문 검색 수에 마리아나 제도 섞임 / ja 다른 문서 표기: マリアーナ 2 / zh 다른 문서 표기: 瑪莉亞娜 1"
  }
 ]
