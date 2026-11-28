@@ -278,7 +278,8 @@
     // a short form with its own spellings (jim: {of: 'james', ko: '짐', ...}): sound from the short form, meaning from the full name
     if (e && typeof e === 'object' && e.of) {
       var root = entryFor(e.of);
-      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ka: e.ka, ja: e.ja, zh: e.zh }), nick: key };
+      // full: the full name the source names (Lexie -> Alexandra), even when its meaning comes through a further link (Alexandra -> Alexander)
+      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ka: e.ka, ja: e.ja, zh: e.zh }), nick: key, full: e.of };
     }
     while (typeof e === 'string' && hops++ < 3) { key = e; e = D[e]; }
     return e ? { key: key, e: e } : null;
@@ -467,7 +468,7 @@
       // the meaning shown is the surname's when the first name has none (Nova Bell -> Bell): say whose it is (review 2026-11-28)
       var mw = r.meaningWord ? ' · ' + esc(r.meaningWord.charAt(0).toUpperCase() + r.meaningWord.slice(1)) : '';
       var who = r.meaningWord || r.firstKey || name.trim().split(' ')[0];
-      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(who.charAt(0).toUpperCase() + who.slice(1)) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : mw;
+      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(who.charAt(0).toUpperCase() + who.slice(1)) + ' → ' + esc((r.meaning.full || r.meaning.key).charAt(0).toUpperCase() + (r.meaning.full || r.meaning.key).slice(1)) : mw;
       h += '<h3 class="namer-h">' + T.meaning + root2 + ' <span class="namer-conf c-' + conf + '">' + T.conf[conf] + '</span></h3>';
       if (local) h += '<p class="namer-mean">' + esc(local) + '</p>';
       // Korean interface: our Korean translation first, Behind the Name's English sentence under it (owner: "영어를 없애라는 말이 아니야")
