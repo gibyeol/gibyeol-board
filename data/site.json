@@ -107,7 +107,11 @@
       "fb_body": "Details",
       "fb_ph": "e.g. It is exit 3, not exit 2",
       "fb_send": "Send",
-      "fb_note": "We automatically include which page you are on. No name or email needed."
+      "fb_note": "We automatically include which page you are on. No name or email needed.",
+      "fb_sending": "Sending…",
+      "fb_ok": "Got it, thank you. We will look into it.",
+      "fb_fail": "Sorry, it didn't send. Please try again in a moment.",
+      "fb_check": "Please finish the check above the Send button first."
     },
     "ja": {
       "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
@@ -193,7 +197,11 @@
       "fb_body": "内容",
       "fb_ph": "例: 2番出口ではなく3番出口です",
       "fb_send": "送信",
-      "fb_note": "どのページから送ったかは自動で伝わります。名前やメールアドレスは必要ありません。"
+      "fb_note": "どのページから送ったかは自動で伝わります。名前やメールアドレスは必要ありません。",
+      "fb_sending": "送信中…",
+      "fb_ok": "受け付けました。ありがとうございます。確認します。",
+      "fb_fail": "送信できませんでした。少し時間をおいて、もう一度お試しください。",
+      "fb_check": "送信ボタンの上の確認を先に完了してください。"
     },
     "zh-tw": {
       "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
@@ -279,7 +287,11 @@
       "fb_body": "內容",
       "fb_ph": "例如:不是 2 號出口,是 3 號出口",
       "fb_send": "送出",
-      "fb_note": "系統會自動附上你所在的頁面。不需要姓名或電子郵件。"
+      "fb_note": "系統會自動附上你所在的頁面。不需要姓名或電子郵件。",
+      "fb_sending": "送出中…",
+      "fb_ok": "已收到,謝謝你!我們會確認。",
+      "fb_fail": "沒有送出成功。請稍後再試一次。",
+      "fb_check": "請先完成「送出」按鈕上方的驗證。"
     },
     "ko": {
       "tagline": "한국 여행을 더 쉽게. 확인한 정보로 여행·쇼핑·문화를 안내해요.",
@@ -365,7 +377,11 @@
       "fb_body": "내용",
       "fb_ph": "예: 2번 출구가 아니라 3번 출구예요",
       "fb_send": "보내기",
-      "fb_note": "어느 페이지에서 보냈는지는 자동으로 함께 전달돼요. 이름이나 이메일은 필요 없어요."
+      "fb_note": "어느 페이지에서 보냈는지는 자동으로 함께 전달돼요. 이름이나 이메일은 필요 없어요.",
+      "fb_sending": "보내는 중…",
+      "fb_ok": "받았어요. 고마워요. 확인해 볼게요.",
+      "fb_fail": "보내지 못했어요. 잠시 뒤 다시 눌러 주세요.",
+      "fb_check": "보내기 버튼 위의 확인을 먼저 마쳐 주세요."
     }
   },
   "head_meta": [
@@ -381,5 +397,6 @@
       "https://s.skimresources.com/js/313714X1802466.skimlinks.js"
     ]
   },
-  "indexnow_key": "6eb58755c8514f86b619d96eb9863c6a"
+  "indexnow_key": "6eb58755c8514f86b619d96eb9863c6a",
+  "turnstile_sitekey": ""
 }

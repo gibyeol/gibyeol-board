@@ -1,14 +1,17 @@
 ---
 title: Privacy
 description: What data Nadri and the services it uses collect when you visit.
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 ## What Nadri collects
 
-Nadri has no accounts, forms or newsletter, and sets no cookies of its own.
+Nadri has no accounts or newsletter, and sets no cookies of its own.
+
+- **Feedback form.** If you send something with the "Tell us" form at the bottom of a page, we keep only what you typed, the type you picked, and which page (and language) you sent it from, in Nadri's private repository on GitHub. We do not ask for your name or email and do not keep your IP address. Please don't write personal details in it. To have something you sent deleted, write to the contact address below.
 
 ## Services that see your visit
 
+- **Spam check.** When you open the feedback form, Cloudflare Turnstile runs a check in your browser to tell people from bots. Cloudflare states that Turnstile does not access, store or transmit form entries. Details: [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
 - **Hosting.** The site is served by Cloudflare, which processes standard request data such as your IP address to deliver pages and block abuse.
 - **Fonts.** Fonts are served from this site itself, so no font service sees your visit.
 - **Visit statistics.** Cloudflare Web Analytics counts page views, referring sites and country without cookies and without building a profile of you. Nadri sees totals only.
@@ -21,4 +24,4 @@ Nadri has no accounts, forms or newsletter, and sets no cookies of its own.
 
 Questions about privacy: **gibyeol.official@gmail.com**.
 
-We will update this page before adding analytics or advertising, and say what changes. Last change: added Cloudflare Web Analytics and fonts now served from this site (2026-11-24).
+We will update this page before adding analytics or advertising, and say what changes. Last change: added the feedback form and its spam check, Cloudflare Turnstile (2026-11-28).

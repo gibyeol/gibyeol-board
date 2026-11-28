@@ -679,10 +679,16 @@ def page(lang, meta, body_html, path, alternates):
   <p class="foot-links">{''.join(f'<a href="{L["prefix"]}{h}">{t}</a>' for h, t in ui['foot'])}</p>
   <p class="foot-small">{ui['foot_note']}</p>
 </footer>
-<script src="/static/site.js" defer></script>
+<script src="/static/site.js" defer></script><script src="/static/feedback.js" defer></script>
 {skim}</body>
 </html>
 """
+
+
+# Turnstile site key: public value from the Cloudflare dashboard (data/site.json turnstile_sitekey).
+# NADRI_TS_SITEKEY overrides it for local tests only (Cloudflare's always-pass test key 1x00000000000000000000AA).
+TS_KEY = os.environ.get("NADRI_TS_SITEKEY") or SITE.get("turnstile_sitekey", "")
+TS_LANG = {"en": "en", "ko": "ko", "ja": "ja", "zh-tw": "zh-TW"}
 
 
 def report_box(lang, meta, path):
@@ -699,11 +705,14 @@ def report_box(lang, meta, path):
                     for n, k in enumerate(("wrong", "missing", "other")))
     return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["fb_title"]}</h2>{date}'
             f'<details class="fb"><summary class="report-btn">{ui["fb_open"]}</summary>'
-            f'<form class="fb-form" data-page="{html.escape(path)}" onsubmit="return false">'
+            f'<form class="fb-form" data-page="{html.escape(path)}" data-lang="{lang}" data-tslang="{TS_LANG.get(lang, "auto")}" '
+            f'data-key="{html.escape(TS_KEY)}" data-sending="{html.escape(ui["fb_sending"])}" data-ok="{html.escape(ui["fb_ok"])}" '
+            f'data-fail="{html.escape(ui["fb_fail"])}" data-check="{html.escape(ui["fb_check"])}" onsubmit="return false">'
             f'<fieldset><legend>{ui["fb_kind"]}</legend>{kinds}</fieldset>'
             f'<label class="fb-body">{ui["fb_body"]}<textarea name="body" rows="3" maxlength="2000" required '
             f'placeholder="{html.escape(ui["fb_ph"])}"></textarea></label>'
-            f'<p class="fb-note">{ui["fb_note"]}</p><button type="submit" class="report-btn">{ui["fb_send"]}</button></form></details>'
+            f'<p class="fb-note">{ui["fb_note"]}</p><div class="fb-ts"></div><button type="submit" class="report-btn">{ui["fb_send"]}</button>'
+            f'<p class="fb-status" role="status" aria-live="polite"></p></form></details>'
             f'<p><a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
 
 
@@ -765,6 +774,9 @@ def build():
     if SITE.get("indexnow_key"):  # IndexNow ownership file at the site root (indexnow.org/documentation, Option 1; tools/indexnow.py)
         k = SITE["indexnow_key"]
         (DIST / f"{k}.txt").write_text(k, encoding="utf-8")
+    # Only /api/* runs the feedback Function; every page and file stays a free static request
+    # (developers.cloudflare.com/pages/functions/routing "Functions invocation routes", read 2026-11-28).
+    (DIST / "_routes.json").write_text(json.dumps({"version": 1, "include": ["/api/*"], "exclude": []}) + "\n", encoding="utf-8")
     (DIST / "404.html").write_text(page("en", {"title": "Page not found", "noindex": "yes"},
         '<p>This page does not exist. Start from the <a href="/">Nadri home page</a>.</p>', "/404", {}),
         encoding="utf-8")

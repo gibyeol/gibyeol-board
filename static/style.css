@@ -621,3 +621,9 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .fb-form .fb-note{font-size:.88rem;margin:.5rem 0 .7rem}
 .fb-form button.report-btn{cursor:pointer;font:inherit;font-weight:600}
 .lang-ja .report h2{word-break:auto-phrase}
+.fb-ts{margin:0 0 .7rem;min-height:0}
+.fb-status{margin:.6rem 0 0;font-weight:600;color:var(--ink)}
+.fb-status:empty{display:none}
+.fb-status.bad{color:#a4161a}
+.fb-status.good{color:#1b5e20}
+.fb-form button.report-btn[disabled]{opacity:.6;cursor:wait}

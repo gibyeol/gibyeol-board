@@ -1,14 +1,17 @@
 ---
 title: 隱私權
 description: 你造訪時,Nadri 及其使用的服務會蒐集哪些資料。
-updated: 2026-11-27
+updated: 2026-11-28
 ---
 ## Nadri 蒐集的資料
 
-Nadri 沒有帳號、表單或電子報,也不會設定自己的 Cookie。
+Nadri 沒有帳號或電子報,也不會設定自己的 Cookie。
+
+- **意見表單。** 如果你用頁面最下方的「告訴我們」表單送出意見,我們只會把你寫的內容、選的類別,以及你是從哪一頁(哪種語言)送出的,存放在 Nadri 於 GitHub 的私人儲存庫。我們不會要你的姓名或電子郵件,也不會保存你的 IP 位址。請不要在內容中寫個人資料。如需刪除你送出的內容,請寫信到下方的聯絡信箱。
 
 ## 會看到你造訪紀錄的服務
 
+- **垃圾訊息檢查。** 你打開意見表單時,Cloudflare Turnstile 會在瀏覽器中確認你是不是真人。Cloudflare 表示 Turnstile 不會讀取、保存或傳送表單內容。詳情:[Turnstile 隱私權附錄(英文)](https://www.cloudflare.com/turnstile-privacy-policy/)。
 - **主機代管。** 本網站由 Cloudflare 提供,Cloudflare 會處理標準的請求資料(例如你的 IP 位址),以傳送網頁並阻擋濫用行為。
 - **字型。** 字型由本網站自行提供,不會有字型服務得知你的造訪。
 - **造訪統計。** 我們使用 Cloudflare Web Analytics 統計頁面瀏覽量、來源網站和國家,不使用 Cookie,也不建立個人檔案。Nadri 只看得到總數。
@@ -21,4 +24,4 @@ Nadri 沒有帳號、表單或電子報,也不會設定自己的 Cookie。
 
 隱私權相關問題:**gibyeol.official@gmail.com**。
 
-在加入分析工具或廣告之前,我們會先更新本頁,並說明有哪些變更。最近一次變更:加入 Cloudflare Web Analytics,字型改由本網站提供(2026-11-24)。
+在加入分析工具或廣告之前,我們會先更新本頁,並說明有哪些變更。最近一次變更:加入意見表單與垃圾訊息檢查(Cloudflare Turnstile)(2026-11-28)。
