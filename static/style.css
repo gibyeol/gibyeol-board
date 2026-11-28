@@ -605,3 +605,25 @@ main:has(.tr-hero) .disclosure{font-size:.76rem;line-height:1.45;padding:.35rem 
 .fig:has(img[src$="map.svg"]) figcaption,.fig:has(img[src*="airport-tmoney"]) figcaption{position:sticky;left:0}
 .fig:has(img[src$="map.svg"]) figcaption::before,.fig:has(img[src*="airport-tmoney"]) figcaption::before{content:"↔ ";font-weight:700;color:var(--red)}
 }}
+/* page feedback form (owner 2026-11-28 [7eb4ec94#4885]) */
+.report .fb{margin:.6rem 0 .2rem}
+.report .fb>summary{list-style:none;cursor:pointer}
+.report .fb>summary::-webkit-details-marker{display:none}
+.report .fb>summary::after{content:" ▾"/""}
+.report .fb[open]>summary::after{content:" ▴"/""}
+.fb-form{margin:.8rem 0 0;padding:.9rem 1rem;border:1px solid var(--ink);background:var(--paper)}
+.fb-form fieldset{border:0;margin:0 0 .7rem;padding:0}
+.fb-form legend{font-weight:600;color:var(--ink);margin-bottom:.35rem;padding:0}
+.fb-kind{display:inline-flex;align-items:center;gap:.3rem;margin:0 1rem .35rem 0;color:var(--ink);cursor:pointer}
+.fb-kind input{width:1.1rem;height:1.1rem;margin:0}
+.fb-body{display:block;font-weight:600;color:var(--ink)}
+.fb-body textarea{display:block;box-sizing:border-box;width:100%;margin-top:.35rem;padding:.55rem .6rem;font:inherit;font-weight:400;border:1px solid var(--ink);background:#fff;resize:vertical}
+.fb-form .fb-note{font-size:.88rem;margin:.5rem 0 .7rem}
+.fb-form button.report-btn{cursor:pointer;font:inherit;font-weight:600}
+.lang-ja .report h2{word-break:auto-phrase}
+.fb-ts{margin:0 0 .7rem;min-height:0}
+.fb-status{margin:.6rem 0 0;font-weight:600;color:var(--ink)}
+.fb-status:empty{display:none}
+.fb-status.bad{color:#a4161a}
+.fb-status.good{color:#1b5e20}
+.fb-form button.report-btn[disabled]{opacity:.6;cursor:wait}

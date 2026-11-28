@@ -679,25 +679,49 @@ def page(lang, meta, body_html, path, alternates):
   <p class="foot-links">{''.join(f'<a href="{L["prefix"]}{h}">{t}</a>' for h, t in ui['foot'])}</p>
   <p class="foot-small">{ui['foot_note']}</p>
 </footer>
-<script src="/static/site.js" defer></script>
+<script src="/static/site.js" defer></script><script src="/static/feedback.js" defer></script>
 {skim}</body>
 </html>
 """
 
 
+# Turnstile site key: public value from the Cloudflare dashboard (data/site.json turnstile_sitekey).
+# NADRI_TS_SITEKEY overrides it for local tests only (Cloudflare's always-pass test key 1x00000000000000000000AA).
+TS_KEY = os.environ.get("NADRI_TS_SITEKEY") or SITE.get("turnstile_sitekey", "")
+TS_LANG = {"en": "en", "ko": "ko", "ja": "ja", "zh-tw": "zh-TW"}
+
+
 def report_box(lang, meta, path):
-    """Guide pages get an 'out of date?' box with a prefilled email (no backend needed)."""
-    ui = SITE["ui"][lang]
-    if meta.get("home") or not meta.get("updated") or meta.get("report") == "no" or "report_cta" not in ui:
-        return ""
+    """Every page ends with 'anything wrong or missing?' and a short form (owner 2026-11-28 [7eb4ec94#4841] [7eb4ec94#4885]:
+    "입력칸이 열리면 최소한의 양식을 만들어서 같이 띄우는걸로하자"; form = kind + details, chosen in the question window).
+    Sends to functions/api/feedback.js (Turnstile check -> private repository gibyeol/nadri-feedback), owner [7eb4ec94#4932].
+    Without a site key (data/site.json turnstile_sitekey) the old email button is shown instead, so no report is lost."""
     from urllib.parse import quote
-    url = SITE["base_url"] + path
-    href = (f"mailto:{SITE['contact_email']}?subject={quote(ui['report_subject'] + ': ' + meta.get('title', ''))}"
-            f"&body={quote(ui['report_mail'].format(url=url))}")
-    return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["report_title"]}</h2>'
-            f'<p>{ui["report_body"].format(date=meta["updated"])}</p>'
-            f'<p><a class="report-btn" href="{html.escape(href)}">{ui["report_cta"]}</a> '
-            f'<a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
+    ui = SITE["ui"][lang]
+    if "fb_title" not in ui:
+        return ""
+    date = ""
+    if not meta.get("home") and meta.get("updated") and meta.get("report") != "no":
+        date = f'<p>{ui["fb_date"].format(date=meta["updated"])}</p>'
+    mail = f"mailto:{SITE['contact_email']}?subject=" + quote(ui["report_subject"] + ": " + meta.get("title", ""))
+    if not TS_KEY:  # form not connected yet (no Turnstile site key): keep the email button so no report is lost
+        return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["fb_title"]}</h2>{date}'
+                f'<p><a class="report-btn" href="{html.escape(mail + "&body=" + quote(ui["report_mail"].format(url=SITE["base_url"] + path)))}">{ui["report_cta"]}</a> '
+                f'<a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
+    kinds = "".join(f'<label class="fb-kind"><input type="radio" name="kind" value="{k}" required> {ui["fb_kinds"][n]}</label>'
+                    for n, k in enumerate(("wrong", "missing", "other")))
+    return (f'<aside class="report" aria-labelledby="report-h"><h2 id="report-h">{ui["fb_title"]}</h2>{date}'
+            f'<details class="fb"><summary class="report-btn">{ui["fb_open"]}</summary>'
+            f'<form class="fb-form" data-page="{html.escape(path)}" data-lang="{lang}" data-tslang="{TS_LANG.get(lang, "auto")}" '
+            f'data-key="{html.escape(TS_KEY)}" data-sending="{html.escape(ui["fb_sending"])}" data-ok="{html.escape(ui["fb_ok"])}" '
+            f'data-fail="{html.escape(ui["fb_fail"])}" data-check="{html.escape(ui["fb_check"])}" data-mail="{html.escape(mail)}" '
+            f'data-mailtext="{html.escape(ui["fb_mail"])}" data-url="{html.escape(SITE["base_url"] + path)}" onsubmit="return false">'
+            f'<fieldset><legend>{ui["fb_kind"]}</legend>{kinds}</fieldset>'
+            f'<label class="fb-body">{ui["fb_body"]}<textarea name="body" rows="3" maxlength="2000" required '
+            f'placeholder="{html.escape(ui["fb_ph"])}"></textarea></label>'
+            f'<p class="fb-note">{ui["fb_note"]}</p><div class="fb-ts"></div><button type="submit" class="report-btn">{ui["fb_send"]}</button>'
+            f'<p class="fb-status" role="status" aria-live="polite"></p></form></details>'
+            f'<p><a class="report-log" href="{SITE["languages"][lang]["prefix"]}/updates/">{ui["updates"]}</a></p></aside>')
 
 
 def url_for(lang, slug):
@@ -758,6 +782,9 @@ def build():
     if SITE.get("indexnow_key"):  # IndexNow ownership file at the site root (indexnow.org/documentation, Option 1; tools/indexnow.py)
         k = SITE["indexnow_key"]
         (DIST / f"{k}.txt").write_text(k, encoding="utf-8")
+    # Only /api/* runs the feedback Function; every page and file stays a free static request
+    # (developers.cloudflare.com/pages/functions/routing "Functions invocation routes", read 2026-11-28).
+    (DIST / "_routes.json").write_text(json.dumps({"version": 1, "include": ["/api/*"], "exclude": []}) + "\n", encoding="utf-8")
     (DIST / "404.html").write_text(page("en", {"title": "Page not found", "noindex": "yes"},
         '<p>This page does not exist. Start from the <a href="/">Nadri home page</a>.</p>', "/404", {}),
         encoding="utf-8")
