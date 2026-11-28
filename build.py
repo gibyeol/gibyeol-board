@@ -694,7 +694,8 @@ TS_LANG = {"en": "en", "ko": "ko", "ja": "ja", "zh-tw": "zh-TW"}
 def report_box(lang, meta, path):
     """Every page ends with 'anything wrong or missing?' and a short form (owner 2026-11-28 [7eb4ec94#4841] [7eb4ec94#4885]:
     "입력칸이 열리면 최소한의 양식을 만들어서 같이 띄우는걸로하자"; form = kind + details, chosen in the question window).
-    Mock-up: the form is not connected to anything yet (storage and spam protection are decided with the owner first)."""
+    Sends to functions/api/feedback.js (Turnstile check -> private repository gibyeol/nadri-feedback), owner [7eb4ec94#4932].
+    Without a site key (data/site.json turnstile_sitekey) the old email button is shown instead, so no report is lost."""
     from urllib.parse import quote
     ui = SITE["ui"][lang]
     if "fb_title" not in ui:
