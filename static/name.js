@@ -11,10 +11,10 @@
   var LANG = root.getAttribute('data-lang') || 'en';
 
   var UI_ALL = {
-    en: { ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Your name stays on this device: we never send it anywhere, and the share card is drawn right here. This page loads no affiliate or ad scripts. Cloudflare, our host, counts visits without cookies. A copied link contains the name.', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
-    ko: { ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 이 기기 밖으로 보내지 않고, 공유 카드도 이 기기에서 그려요. 이 페이지에는 제휴·광고 스크립트가 없어요. 사이트를 호스팅하는 Cloudflare가 쿠키 없이 방문 수를 세요. 링크를 복사하면 그 링크에는 이름이 들어가요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', btnKo: 'Behind the Name 영어 설명을 우리말로 옮겼어요. 원문', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
-    ja: { ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はこの端末の外に送らず、共有カードもこの端末で描きます。このページにはアフィリエイトや広告のスクリプトはありません。サイトをホストするCloudflareが、Cookieを使わずに訪問数を数えます。リンクをコピーすると、そのリンクには名前が入ります。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
-    'zh-tw': { ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會傳出這台裝置,分享卡也是在這台裝置上畫出來的。這一頁沒有聯盟行銷或廣告程式。網站主機 Cloudflare 會在不使用 Cookie 的情況下計算造訪次數。複製的連結裡會包含名字。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
+    en: { std: 'Korean official standard spelling', lEn: 'English', ph: 'Type your name (Sophia, 田中 花子, 김민지…)', go: 'Stamp it', sound: 'In Korean letters', reading: 'Your characters read the Korean way', roman: 'In English letters (Revised Romanization)', approx: 'Approximate: this name is not on our checked list yet, so this is a best guess from the spelling.', checked: 'From our checked list of common names.', kana: 'Japanese sound written in Korean (official transcription rules).', hanja: 'Each character has its own Korean reading; the first sound follows Korean name rules (e.g. 李 is read 이).', rr: 'Official romanization, one syllable at a time as Korean names are written. Passports often use older spellings such as Lee, Park, Kim.', save: 'Save the stamp', share: 'Copy a link', copied: 'Link copied', empty: 'Type a name first.', none: 'We could not read that one. Try letters, kana, Hangul or Chinese characters.', privacy: 'Your name stays on this device: we never send it anywhere, and the share card is drawn right here. This page loads no affiliate or ad scripts. Cloudflare, our host, counts visits without cookies. A copied link contains the name.', wrong: 'Looks wrong? Tell us and we will fix the list.', secSound: 'Sound', secMeaning: 'Meaning', secChain: 'Where your name leads in Korea', lKo: 'Korean', lJa: 'Japanese', lZh: 'Chinese (Taiwan)', conf: { h: 'well documented', m: 'likely', l: 'uncertain' }, word: 'The meaning in each language', idea: 'A name with the same meaning', src: 'Source: Behind the Name', chars: 'Character by character (Korean meaning + sound, English)', kanaApprox: 'approximate', noMeaning: 'We have not checked the meaning of this name yet. Tell us and we will add it.' },
+    ko: { std: '표준 표기', lEn: '영어', ph: '이름을 입력하세요 (김민지, Sophia, 田中…)', go: '도장 찍기', sound: '한글로 쓰면', reading: '한국 한자음으로 읽으면', roman: '로마자로 쓰면 (국어의 로마자 표기법)', approx: '대략적인 소리예요. 아직 확인한 이름 목록에 없어서 철자로 추정했어요.', checked: '확인한 흔한 이름 목록에서 가져왔어요.', kana: '일본어 소리를 외래어 표기법대로 한글로 썼어요.', hanja: '글자마다 한국 한자음으로 읽고, 첫소리는 두음법칙을 따랐어요 (예: 李 → 이).', rr: '이름은 음절마다 따로 적는 공식 표기예요. 여권에는 Lee, Park, Kim처럼 관습 표기를 쓰는 경우가 많아요.', save: '도장 저장', share: '링크 복사', copied: '복사했어요', empty: '먼저 이름을 입력하세요.', none: '읽을 수 없는 글자예요. 로마자, 가나, 한글, 한자로 입력해 보세요.', privacy: '입력한 이름은 이 기기 밖으로 보내지 않고, 공유 카드도 이 기기에서 그려요. 이 페이지에는 제휴·광고 스크립트가 없어요. 사이트를 호스팅하는 Cloudflare가 쿠키 없이 방문 수를 세요. 링크를 복사하면 그 링크에는 이름이 들어가요.', wrong: '이상하게 나왔나요? 알려 주시면 목록을 고칠게요.', secSound: '소리', secMeaning: '뜻', secChain: '이 이름이 한국에서 이어지는 곳', lKo: '한국어', lJa: '일본어', lZh: '중국어(대만)', conf: { h: '확실', m: '유력', l: '불확실' }, word: '뜻을 각 언어로', idea: '같은 뜻의 이름', src: '출처: Behind the Name', chars: '글자마다 (훈과 음, 영어 뜻)', kanaApprox: '대략', btnKo: 'Behind the Name 영어 설명을 우리말로 옮겼어요. 원문', noMeaning: '아직 뜻을 확인하지 않은 이름이에요. 알려 주시면 추가할게요.' },
+    ja: { std: '韓国の標準表記', lEn: '英語', ph: '名前を入力(はなこ、田中 花子、Sophia…)', go: 'はんこを押す', sound: 'ハングルで書くと', reading: '韓国の漢字音で読むと', roman: 'ローマ字(韓国の公式表記)', approx: 'おおよその読みです。まだ確認済みリストにない名前なので、つづりから推定しました。', checked: '確認済みのよくある名前リストから。', kana: '日本語の音を、韓国の外来語表記法どおりにハングルで書きました。', hanja: '漢字は一字ずつ韓国語の音で読み、最初の音は韓国の名前のルールに従います(例:李→이)。', rr: '韓国の名前は一音節ずつ表記するのが公式。パスポートではLee、Park、Kimなど慣用表記も多いです。', save: 'はんこを保存', share: 'リンクをコピー', copied: 'コピーしました', empty: 'まず名前を入力してください。', none: '読めない文字でした。ひらがな・カタカナ・漢字・ローマ字で試してください。', privacy: '入力した名前はこの端末の外に送らず、共有カードもこの端末で描きます。このページにはアフィリエイトや広告のスクリプトはありません。サイトをホストするCloudflareが、Cookieを使わずに訪問数を数えます。リンクをコピーすると、そのリンクには名前が入ります。', wrong: 'おかしな結果?教えてもらえればリストを直します。', secSound: '音', secMeaning: '意味', secChain: 'この名前が韓国でつながる場所', lKo: '韓国語', lJa: '日本語', lZh: '中国語(台湾)', conf: { h: '確実', m: '有力', l: '不確か' }, word: '意味を各言語で', idea: '同じ意味の名前', src: '出典:Behind the Name', chars: '一字ずつ(韓国での訓と音・英語の意味)', kanaApprox: 'おおよそ', noMeaning: 'この名前の意味はまだ確認していません。教えてもらえれば追加します。' },
+    'zh-tw': { std: '韓國標準拼法', lEn: '英文', ph: '輸入你的名字(陳怡婷、Sophia…)', go: '蓋章', sound: '用韓文字母寫', reading: '用韓國漢字音來讀', roman: '羅馬拼音(韓國官方標記)', approx: '這是大概的讀法。這個名字還不在我們確認過的清單裡,所以是照拼字推測的。', checked: '來自我們確認過的常見名字清單。', kana: '把日文發音照韓國外來語標記法寫成韓文。', hanja: '每個漢字照韓國的漢字音來讀,第一個音照韓國姓名規則(例:李→이)。韓國新聞寫台灣人名時,通常照華語發音另外標記。', rr: '韓國人名官方寫法是一個音節一個音節標記。護照上常見 Lee、Park、Kim 這類慣用拼法。', save: '儲存印章', share: '複製連結', copied: '已複製', empty: '請先輸入名字。', none: '看不懂這些字。請用中文、英文、假名或韓文試試。', privacy: '你輸入的名字不會傳出這台裝置,分享卡也是在這台裝置上畫出來的。這一頁沒有聯盟行銷或廣告程式。網站主機 Cloudflare 會在不使用 Cookie 的情況下計算造訪次數。複製的連結裡會包含名字。', wrong: '結果怪怪的?告訴我們,我們會修正清單。', secSound: '讀音', secMeaning: '意思', secChain: '這個名字在韓國會帶你去哪裡', lKo: '韓文', lJa: '日文', lZh: '中文(台灣)', conf: { h: '確定', m: '很可能', l: '不確定' }, word: '用各種語言說它的意思', idea: '同樣意思的名字', src: '出處:Behind the Name', chars: '逐字(韓國的訓與音、英文意思)', kanaApprox: '大約', noMeaning: '這個名字的意思我們還沒確認。告訴我們,我們會加上。' }
   };
   var UI = UI_ALL[LANG];
 
@@ -275,8 +275,23 @@
   /* ---------- run ---------- */
   function entryFor(key) {
     var D = window.NADRI_NAMES || {}, e = D[key], hops = 0;
+    // a short form with its own spellings (jim: {of: 'james', ko: '짐', ...}): sound from the short form, meaning from the full name
+    if (e && typeof e === 'object' && e.of) {
+      var root = entryFor(e.of);
+      if (root) return { key: root.key, e: Object.assign({}, root.e, { ko: e.ko, ks: e.ks, ka: e.ka, ja: e.ja, zh: e.zh }), nick: key };
+    }
     while (typeof e === 'string' && hops++ < 3) { key = e; e = D[e]; }
     return e ? { key: key, e: e } : null;
+  }
+  /* Japanese and Chinese spellings of the names on our list -> the list key (owner 2026-11-28 [7eb4ec94#4639]: translate smoothly between EN/KO/JA/ZH) */
+  var REV = null;
+  function revKey(w) {
+    if (!REV) {
+      REV = {}; var D = window.NADRI_NAMES || {};
+      Object.keys(D).forEach(function (k) { var e = D[k]; if (!e || typeof e !== 'object') return;
+        [e.ja, e.zh].concat(e.jv || [], e.zv || []).forEach(function (f) { if (f) { var n = String(f).replace(/[\s・·･]/g, ''); if (!REV[n]) REV[n] = k; } }); });
+    }
+    return REV[String(w).replace(/[\s・·･]/g, '')] || null;
   }
   function convert(raw) {
     var s = raw.trim().replace(/\s+/g, ' ');
@@ -284,7 +299,17 @@
     var words = s.split(' ');
     var kind = /[가-힣]/.test(s) ? 'hangul' : /[぀-ヿ]/.test(s) ? 'kana' : /[一-鿿]/.test(s) ? 'han' : /[a-zA-ZÀ-ÿ]/.test(s) ? 'latin' : null;
     if (kind === 'hangul') return hangulResult(words.filter(function (w) { return /[가-힣]/.test(w); }));
-    var out = [], approx = false, romajiUsed = false, infos = [], latinCount = 0, firstKey = null;
+    // a foreign name written in katakana or Chinese characters (ジェームズ, 詹姆士): read it as that name
+    if (kind === 'kana' || kind === 'han') {
+      var parts = s.split(/[\s・·･]+/).filter(Boolean), keys = parts.map(revKey);
+      // only spellings that cannot be a Japanese or Chinese name themselves: katakana with ー/・ or 4+ letters, Chinese 3+ characters (review 2026-11-28)
+      var foreignLooking = kind === 'kana' ? /^[゠-ヿ]+$/.test(parts.join('')) && (/[ー・]/.test(s) || parts.every(function (x) { return x.length >= 4; })) : parts.every(function (x) { return x.length >= 3; });
+      if (keys.every(Boolean) && foreignLooking) {
+        var rr = convert(keys.join(' '));
+        if (rr && !rr.error) { rr.fromScript = s; var lab = kind === 'kana' ? UI.lJa : UI.lZh; if (!rr.sounds.some(function (x) { return x[0] === lab; })) rr.sounds.push([lab, s]); rr.sounds.push([UI.lEn, keys.map(function (k) { return k.charAt(0).toUpperCase() + k.slice(1); }).join(' ')]); return rr; }
+      }
+    }
+    var out = [], approx = false, romajiUsed = false, infos = [], latinCount = 0, firstKey = null, stds = {}, alts = {};
     for (var i = 0; i < words.length; i++) {
       var w = words[i], h = null;
       if (/[぀-ヿ]/.test(w)) h = kanaWord(w);
@@ -301,15 +326,21 @@
         var jk = LANG === 'ja' && !NAMES[key] && !entryFor(key) ? romajiToKana(key) : null;
         var hit = entryFor(key) || entryFor(key.normalize('NFD').replace(/[\u0300-\u036f]/g, ''));
         var typed = key.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-        if (hit && hit.key !== typed && hit.key !== key) {
+        if (hit && hit.nick) { infos.push(hit); h = hit.e.ko; if (hit.e.ks && hit.e.ks !== h) stds[i] = hit.e.ks; if (hit.e.ka) alts[i] = hit.e.ka; if (!firstKey) firstKey = typed; }
+        else if (hit && hit.key !== typed && hit.key !== key) {
           // a variant (Yusuf -> Joseph): meaning comes from the root name, but the sound is the name as typed
           hit = { key: hit.key, e: hit.e, alias: true };
           infos.push(hit); h = NAMES[key] || NAMES[typed] || roughWord(typed); if (!NAMES[key] && !NAMES[typed]) approx = true;
           if (!firstKey) firstKey = typed;
-        } else if (hit) { infos.push(hit); h = hit.e.ko; if (!firstKey) firstKey = typed; }
+        } else if (hit) { infos.push(hit); h = hit.e.ko; if (hit.e.ks && hit.e.ks !== h) stds[i] = hit.e.ks; if (hit.e.ka) alts[i] = hit.e.ka; if (!firstKey) firstKey = typed; }
         else if (NAMES[key]) h = NAMES[key];
         else if (jk) { h = kanaWord(jk); romajiUsed = true; }
-        else { var plain = key.normalize('NFD').replace(/[̀-ͯ]/g, ''); h = NAMES[plain] || roughWord(plain); if (!NAMES[plain]) approx = true; }
+        else {
+          var plain = key.normalize('NFD').replace(/[̀-ͯ]/g, ''), base = /[^s]s$/.test(plain) ? plain.slice(0, -1) : null, bh = base && entryFor(base);
+          // Matthews = Matthew + s (매튜스), Williams = William + s
+          if (!NAMES[plain] && base && (bh || NAMES[base])) { h = (bh ? bh.e.ko : NAMES[base]) + '스'; approx = true; }
+          else { h = NAMES[plain] || roughWord(plain); if (!NAMES[plain]) approx = true; }
+        }
       }
       if (!h) return { error: true };
       out.push(h);
@@ -317,10 +348,14 @@
     var hangul = out.join(' ');
     var note = kind === 'kana' || romajiUsed ? UI.kana : kind === 'han' ? UI.hanja : approx ? UI.approx : UI.checked;
     var sounds = [[kind === 'han' ? UI.reading : UI.lKo, hangul]];
+    // owner 2026-11-28 [7eb4ec94#4680]: show the spelling Koreans use and the official standard spelling side by side (매튜 / 매슈)
+    if (Object.keys(stds).length) sounds[0][1] = hangul + ' · ' + out.map(function (w, k) { return stds[k] || w; }).join(' ') + ' (' + UI.std + ')';
+    else if (Object.keys(alts).length) sounds[0][1] = hangul + ' (' + UI.std + ') · ' + out.map(function (w, k) { return alts[k] || w; }).join(' ');
     var r = { hangul: hangul, kind: kind, note: note, approx: approx, sounds: sounds, firstKey: firstKey };
     if (kind === 'latin') {
       var all = infos.length === latinCount && infos.length && !infos.some(function (x) { return x.alias; });
-      if (all) { sounds.push([UI.lJa, infos.map(function (x) { return x.e.ja; }).join('・')]); sounds.push([UI.lZh, infos.map(function (x) { return x.e.zh; }).join('·')]); }
+      if (all && infos.every(function (x) { return x.e.ja; })) sounds.push([UI.lJa, infos.map(function (x) { return x.e.ja; }).join('・')]);
+      if (all && infos.every(function (x) { return x.e.zh; })) sounds.push([UI.lZh, infos.map(function (x) { return x.e.zh; }).join('·')]);
       var main = infos.filter(function (x) { return x.e.m; })[0];
       if (main) { r.meaning = main; r.chain = main.e.ch; } else r.noMeaning = true;
     }
@@ -422,7 +457,7 @@
     if (r.meaning || B) {
       var e = r.meaning ? r.meaning.e : {}, conf = e.c || 'h';
       var local = e.m && e.m[k3] && k3 !== 'en' ? e.m[k3] : null;
-      var root2 = r.meaning && r.meaning.alias ? ' · ' + esc(name.trim().split(' ')[0]) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : '';
+      var root2 = r.meaning && (r.meaning.alias || r.meaning.nick) ? ' · ' + esc(r.firstKey ? r.firstKey.charAt(0).toUpperCase() + r.firstKey.slice(1) : name.trim().split(' ')[0]) + ' → ' + esc(r.meaning.key.charAt(0).toUpperCase() + r.meaning.key.slice(1)) : '';
       h += '<h3 class="namer-h">' + T.meaning + root2 + ' <span class="namer-conf c-' + conf + '">' + T.conf[conf] + '</span></h3>';
       if (local) h += '<p class="namer-mean">' + esc(local) + '</p>';
       // Korean interface: our Korean translation first, Behind the Name's English sentence under it (owner: "영어를 없애라는 말이 아니야")
@@ -772,7 +807,7 @@
     if (ph) {
       if (r.kind === 'han' && r.chars) ph.detail = r.chars.filter(function (x) { return x.ko || x.en; }).map(function (x) { return x.c + ' ' + (ko && x.ko ? x.ko + ' ' + (x.read || '') : (x.en || x.ko)); }).join(' · ');
       if (r.kind === 'hangul' && r.picked && r.picked.length) ph.detail = r.picked.map(function (x) { return x.h + ' ' + (ko ? x.hun : x.en); }).join(' · ');
-      if (r.meaning && r.meaning.alias) ph.root = cap(r.meaning.key);
+      if (r.meaning && (r.meaning.alias || r.meaning.nick)) ph.root = cap(r.meaning.key);
       if (r.kind === 'latin') m.src.phrase = [r.btnKo ? 'Behind the Name (우리말 옮김)' : 'Behind the Name'];
       m.phrase = ph;
     }
