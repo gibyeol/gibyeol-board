@@ -18,12 +18,13 @@
     var box = form.querySelector('.fb-ts'), status = form.querySelector('.fb-status'), btn = form.querySelector('button[type=submit]');
     var key = form.dataset.key, widget = null;
     function say(t, cls) { status.textContent = t; status.className = 'fb-status' + (cls ? ' ' + cls : ''); }
-    // on failure keep what the visitor wrote: offer the same text as an email
+    // on failure keep what the visitor wrote: offer the same text as an email (shortened: long mailto links can be cut by mail apps)
+    function cut(t) { return t.length > 500 ? t.slice(0, 500) + '…' : t; }
     function fail(t) {
       say(t, 'bad');
       var k = form.querySelector('input[name=kind]:checked');
       var a = document.createElement('a');
-      a.href = form.dataset.mail + '&body=' + encodeURIComponent(form.dataset.url + '\n' + (k ? k.parentNode.textContent.trim() : '') + '\n\n' + form.elements.body.value);
+      a.href = form.dataset.mail + '&body=' + encodeURIComponent(form.dataset.url + '\n' + (k ? k.parentNode.textContent.trim() : '') + '\n\n' + cut(form.elements.body.value));
       a.textContent = form.dataset.mailtext;
       status.appendChild(document.createTextNode(' ')); status.appendChild(a);
     }
@@ -31,6 +32,7 @@
       if (!det.open || widget !== null || !key) return;
       widget = false;
       withTurnstile(function () {
+        if (widget) return;   // a second queued call (form reopened while loading): one check box only
         widget = window.turnstile.render(box, { sitekey: key, language: form.dataset.tslang || 'auto' });
       });
     });
@@ -38,7 +40,7 @@
       e.preventDefault();
       if (!form.reportValidity()) return;
       var token = widget && window.turnstile ? window.turnstile.getResponse(widget) : '';
-      if (!window.turnstile || widget === false) { fail(form.dataset.fail); widget = null; return; }
+      if (!window.turnstile || widget === false) { fail(form.dataset.fail); if (!loading) widget = null; return; }
       if (!token) { say(form.dataset.check, 'bad'); return; }
       var kind = form.querySelector('input[name=kind]:checked');
       btn.disabled = true; say(form.dataset.sending, '');
