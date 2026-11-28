@@ -2753,14 +2753,14 @@
   "ko_alt_src": "한국어 위키백과 검색 '\"앤드류스\"' totalhits 342, 예: '폴 디애노'(본명 폴 앤드류스)",
   "ja": "アンドリュース",
   "ja_src": "ja.wikipedia 'ジュリー・アンドリュース'(en 'Julie Andrews' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B9",
-  "zh": "安德絲",
-  "zh_src": "zh.wikipedia '茱莉·安德絲'(en 'Julie Andrews' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%8C%B1%E8%8E%89%C2%B7%E5%AE%89%E5%BE%B7%E7%B5%B2",
+  "zh": "安德魯斯",
+  "zh_src": "zh.wikipedia Naveen Andrews·Thomas Andrews 문서 표기 安德鲁斯(대만 표시 安德魯斯). 安德絲는 Julie Andrews 한 사람 표기 (독립 검토 2026-11-28)",
   "origin": "English, Scottish, Norse (patronymic)",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh '安德絲'는 Julie Andrews 문서 제목에서 뗀 것으로 '絲'는 여성 이름에 흔히 쓰는 글자로 보임(추론, 다른 문서 확인 못 함). | 2026-11-28 보완: 뜻 비움: en 'Andrews (surname)'는 '부칭(patronymic) 성'이라고만 하고 어느 이름에서 왔는지 쓰지 않음(Andrew일 것으로 보이나 출처 문장 없음 = 추론) (확인한 문서: https://en.wikipedia.org/wiki/Andrews_%28surname%29)"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh '安德絲'는 Julie Andrews 문서 제목에서 뗀 것으로 '絲'는 여성 이름에 흔히 쓰는 글자로 보임(추론, 다른 문서 확인 못 함). | 2026-11-28 보완: 뜻 비움: en 'Andrews (surname)'는 '부칭(patronymic) 성'이라고만 하고 어느 이름에서 왔는지 쓰지 않음(Andrew일 것으로 보이나 출처 문장 없음 = 추론) (확인한 문서: https://en.wikipedia.org/wiki/Andrews_%28surname%29) | 2026-11-28 독립 검토 반영: 安德絲→安德魯斯"
  },
  {
   "key": "peters",
@@ -4829,8 +4829,8 @@
   "ko_alt_src": null,
   "ja": "ショウ",
   "ja_src": "ja.wikipedia 'アーティ・ショウ'(en 'Artie Shaw' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BB%E3%82%B7%E3%83%A7%E3%82%A6",
-  "zh": "肖",
-  "zh_src": "zh.wikipedia '布鲁斯特·肖' → zh-tw '布魯斯特·肖'(en 'Brewster H. Shaw' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://zh.wikipedia.org/zh-tw/%E5%B8%83%E9%B2%81%E6%96%AF%E7%89%B9%C2%B7%E8%82%96",
+  "zh": "蕭",
+  "zh_src": "zh.wikipedia Robert Shaw 勞勃·蕭, George Bernard Shaw 蕭伯納. 肖는 Brewster Shaw 한 사람 표기 (독립 검토 2026-11-28)",
   "origin": "English, Scottish",
   "meaning": {
    "en": "woodland, thicket (Old English)",
@@ -4841,7 +4841,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Shaw_%28name%29&oldid=1377475503 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: ショー 1 / zh 성 문서 언어 링크는 '邵 (英文名字)'이나 같은 성 인물 문서 다수 표기를 씀"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: ショー 1 / zh 성 문서 언어 링크는 '邵 (英文名字)'이나 같은 성 인물 문서 다수 표기를 씀 | 2026-11-28 독립 검토 반영: 肖→蕭"
  },
  {
   "key": "holmes",
@@ -5814,7 +5814,7 @@
   "sex": null,
   "rank_src": null,
   "ko_std": "웨이드",
-  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Wade (용례에서 '와데'인 것 2건, 예: '와데, 카림 (Wade, Karim)'; '와데, 압둘라예 (Wade, Abdoulaye)')",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Wade (용례 '웨이드식 (Wade 식) … 영국의 외교관인 웨이드') (독립 검토 2026-11-28)",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": "ウェイド",
@@ -6464,8 +6464,8 @@
   "of": null,
   "sex": null,
   "rank_src": null,
-  "ko_std": "람베르트",
-  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Lambert (용례에서 '람베르트'인 것 1건, 예: '람베르트, 요한 하인리히 (Lambert, Johann Heinrich)')",
+  "ko_std": "램버트",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Lambert (영어권 지명 용례 '램버트 (Lambert)'; '람베르트'는 독일 학자 J. H. Lambert 표기) · 한국어 위키 검색 '램버트' 551건(애덤 램버트) / '람베르트' 143건 (독립 검토 2026-11-28)",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": "ランバート",
@@ -6477,7 +6477,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 독립 검토 반영: 람베르트→램버트"
  },
  {
   "key": "norris",

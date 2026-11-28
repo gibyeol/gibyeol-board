@@ -2259,7 +2259,7 @@
  {
   "key": "jessie",
   "type": "nick",
-  "of": "jessica",
+  "of": null,
   "sex": "f",
   "rank_src": "BtN 'Jessica' 문서 Diminutives 목록(https://www.behindthename.com/name/jessica) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
@@ -2282,7 +2282,7 @@
   "meaning_src": "https://www.behindthename.com/name/jessie-1",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 0건 확인 / ko_alt 후보 '제시' 뺌: 상위 인물이 Jesse(제시 아이젠버그·제시 오언스)라서 Jessie 근거 아님 / ja 다른 표기: ワールド 1건, バニティ 1건 / zh(대만 표시) 다른 표기: 潔西 3건, 傑西 3건 / BtN jessie-1: Originally a Scots diminutive of Jean 2. In modern times it is also used as a diminutive of Jessica. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 다른 표기: 傑茜 1건(Jessie Diggins), 傑西 1건(Jessie Ware). Jessie는 남성 이름(Jesse 변형)으로도 쓰임"
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 0건 확인 / ko_alt 후보 '제시' 뺌: 상위 인물이 Jesse(제시 아이젠버그·제시 오언스)라서 Jessie 근거 아님 / ja 다른 표기: ワールド 1건, バニティ 1건 / zh(대만 표시) 다른 표기: 潔西 3건, 傑西 3건 / BtN jessie-1: Originally a Scots diminutive of Jean 2. In modern times it is also used as a diminutive of Jessica. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 다른 표기: 傑茜 1건(Jessie Diggins), 傑西 1건(Jessie Ware). Jessie는 남성 이름(Jesse 변형)으로도 쓰임 | 2026-11-28 독립 검토 반영: BtN: 원래 Jean의 스코틀랜드 애칭, Jessica·Jesse에도 → 본 이름 하나로 연결하지 않음"
  },
  {
   "key": "em",
@@ -2605,7 +2605,7 @@
  {
   "key": "lexie",
   "type": "nick",
-  "of": "alexis",
+  "of": "alexandra",
   "sex": "f",
   "rank_src": "BtN 'Alexis' 문서 Diminutives 목록(https://www.behindthename.com/name/alexis) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
@@ -2628,7 +2628,7 @@
   "meaning_src": "https://www.behindthename.com/name/lexie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: シカゴ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lexie: Diminutive of Alexandra or Alexis. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Lexie Lou'는 'レキシールー'(합친 표기)뿐이라 비움. zh 예는 드라마 인물 1건(Lexie Grey, 약함). 'Lexie Liu'는 zh에서 본명 '劉柏辛'"
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: シカゴ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lexie: Diminutive of Alexandra or Alexis. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Lexie Lou'는 'レキシールー'(합친 표기)뿐이라 비움. zh 예는 드라마 인물 1건(Lexie Grey, 약함). 'Lexie Liu'는 zh에서 본명 '劉柏辛' | 2026-11-28 독립 검토 반영: BtN \"Diminutive of Alexandra or Alexis\" → 먼저 적힌 Alexandra"
  },
  {
   "key": "angie",
@@ -3552,8 +3552,8 @@
    "캐롤린"
   ],
   "ko_alt_src": "한국어 위키백과 본문 검색 '\"캐롤린\"' totalhits 362, 문서 예: '캐럴린 머피', '세이다 톰프슨', '캐럴린 존스'",
-  "ja": "キャロライン",
-  "ja_src": "ja.wikipedia 'キャロライン・ベルトッツィ' (en: Carolyn Bertozzi) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%BB%E3%83%99%E3%83%AB%E3%83%88%E3%83%83%E3%83%84%E3%82%A3",
+  "ja": "キャロリン",
+  "ja_src": "ja.wikipedia Carolyn Jones·Carolyn Murphy·Carolyn Bessette-Kennedy 문서 표기 キャロリン. キャロライン은 1명 표기·Caroline과 겹침 (독립 검토 2026-11-28)",
   "zh": "卡羅琳",
   "zh_src": "zh.wikipedia '卡罗琳·贝尔托西' zh-tw 표시 제목 '卡羅琳·貝爾托西' (en: Carolyn Bertozzi) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E7%BD%97%E7%90%B3%C2%B7%E8%B4%9D%E5%B0%94%E6%89%98%E8%A5%BF",
   "origin": "English, from Germanic",
@@ -3569,7 +3569,7 @@
    "carrie",
    "callie"
   ],
-  "note": "ja キャロライン은 캐럴린 버토지 문서 표기로 Caroline 표기와 같음"
+  "note": "ja キャロライン은 캐럴린 버토지 문서 표기로 Caroline 표기와 같음 | 2026-11-28 독립 검토 반영: キャロライン→キャロリン"
  },
  {
   "key": "janet",
@@ -3857,16 +3857,16 @@
   "of": null,
   "sex": "f",
   "rank_src": "en.wikipedia 'List of most popular given names by state in the United States'(SSA) 1992-2025 주별(50개 주+DC) 상위 10 표에 모두 52번 듦(1992~2006년, 가장 많은 해 1993년 7곳) https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States",
-  "ko_std": "자스민",
-  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Jasmine&searchCategory=know4 (영어권 인물 용례 없음, 다른 언어권 인물 용례 자스민 1건 / 앞 4건 확인, 예: '파올리니, 자스민 (Paolini, Jasmine) — 이탈리아 테니스 선수(1996~ ).')",
+  "ko_std": "재스민",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=jasmine (영어 낱말 jasmine 표준 용례 '재스민') (독립 검토 2026-11-28)",
   "ko_alt": [
-   "재스민"
+   "자스민"
   ],
-  "ko_alt_src": "한국어 위키백과 본문 검색 '\"재스민\"' totalhits 347, 문서 예: '재스민/Rainbow', '중국 재스민 혁명', '재스민 툭스' / 한국어 위키백과 문서 제목 '재스민 가이' (en: Jasmine Guy) / 한국어 위키백과 문서 제목 '재스민 툭스' (en: Jasmine Tookes) / 한국어 위키백과 문서 제목 '재스민 톰프슨' (en: Jasmine Thompson)",
+  "ko_alt_src": "국립국어원 용례 인물 표기 '자스민'(이탈리아 선수 Jasmine Paolini) — 실제로 쓰이는 표기",
   "ja": "ジャスミン",
   "ja_src": "ja.wikipedia 'ジャスミン・パオリーニ' (en: Jasmine Paolini) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%9F%E3%83%B3%E3%83%BB%E3%83%91%E3%82%AA%E3%83%AA%E3%83%BC%E3%83%8B",
-  "zh": "潔絲敏",
-  "zh_src": "zh.wikipedia '潔絲敏·蘇莉雯' zh-tw 표시 제목 '潔絲敏·蘇莉雯' (en: Jazmine Sullivan) https://zh.wikipedia.org/zh-tw/%E6%BD%94%E7%B5%B2%E6%95%8F%C2%B7%E8%98%87%E8%8E%89%E9%9B%AF / zh.wikipedia '贾斯明·保利尼' zh-tw 표시 제목 '賈絲明·鮑里妮' (en: Jasmine Paolini) https://zh.wikipedia.org/zh-tw/%E8%B4%BE%E6%96%AF%E6%98%8E%C2%B7%E4%BF%9D%E5%88%A9%E5%B0%BC",
+  "zh": null,
+  "zh_src": null,
   "origin": "English, from Persian",
   "meaning": {
    "en": "jasmine (the fragrant flower)",
@@ -3877,7 +3877,7 @@
   "meaning_src": "https://www.behindthename.com/name/jasmine",
   "c": "h",
   "nicks": [],
-  "note": "Jazmine Sullivan: 철자가 Jazmine이라 ja 근거에서 뺌; zh 문서마다 표기 다름: 潔絲敏(Jazmine Sullivan), 賈絲明(Jasmine Paolini), 賈思敏(Jasmine Thompson); 국립국어원에 영어권 인물 용례가 없어 다른 언어권 인물 표기를 씀; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 재스민 1건; 국립국어원 근거 용례 적음(1건)"
+  "note": "Jazmine Sullivan: 철자가 Jazmine이라 ja 근거에서 뺌; zh 문서마다 표기 다름: 潔絲敏(Jazmine Sullivan), 賈絲明(Jasmine Paolini), 賈思敏(Jasmine Thompson); 국립국어원에 영어권 인물 용례가 없어 다른 언어권 인물 표기를 씀; 국립국어원 용례의 다른 표기(주로 다른 언어권 인물): 재스민 1건; 국립국어원 근거 용례 적음(1건) | 2026-11-28 독립 검토 반영: 표준 재스민, 자스민은 쓰이는 표기로, zh 潔絲敏 뺌(철자 다른 Jazmine·대만 표기 1:1:1 갈림)"
  },
  {
   "key": "brianna",
