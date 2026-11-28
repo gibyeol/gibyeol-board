@@ -1751,9 +1751,11 @@
   "sex": "f",
   "rank_src": "BtN 'Olivia' 문서 Diminutives 목록(https://www.behindthename.com/name/olivia) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Livvy&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "리비"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"리비\"' totalhits 319(다른 뜻 섞임), 이 애칭 인물 문서 예: '리비 던'(en Livvy Dunne) https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%B9%84_%EB%8D%98",
   "ja": null,
   "ja_src": null,
   "zh": null,
@@ -1768,7 +1770,7 @@
   "meaning_src": "https://www.behindthename.com/name/livvy",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '리비' 근거 약함(제목 검색 totalhits 16, '리비 ○○' 꼴 인물 제목 6건)으로 넣지 않음 / ja.wikipedia 검색에서 Livvy 인물 문서 못 찾음(걸린 것은 무관한 문서) / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN livvy: Diminutive of Olivia."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '리비' 근거 약함(제목 검색 totalhits 16, '리비 ○○' 꼴 인물 제목 6건)으로 넣지 않음 / ja.wikipedia 검색에서 Livvy 인물 문서 못 찾음(걸린 것은 무관한 문서) / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN livvy: Diminutive of Olivia. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja·zh: en 'Livvy ~' 인물 문서 중 ja/zh 링크 없음"
  },
  {
   "key": "charlie",
@@ -1803,11 +1805,13 @@
   "sex": "f",
   "rank_src": "BtN 'Charlotte' 문서 Diminutives 목록(https://www.behindthename.com/name/charlotte) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
-  "ja": null,
-  "ja_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Lottie&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "로티"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"로티\"' totalhits 246(다른 뜻 섞임), 이 애칭 인물 문서 예: '로티 윌리엄스'(en Lottie Williams (actress, born 1874)) https://ko.wikipedia.org/wiki/%EB%A1%9C%ED%8B%B0_%EC%9C%8C%EB%A6%AC%EC%97%84%EC%8A%A4",
+  "ja": "ロッティ",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'ロッティ・ドッド'(en Lottie Dod) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%83%86%E3%82%A3%E3%83%BB%E3%83%89%E3%83%83%E3%83%89",
   "zh": null,
   "zh_src": null,
   "origin": null,
@@ -1820,7 +1824,7 @@
   "meaning_src": "https://www.behindthename.com/name/lottie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '로티' 뺌: 상위 제목이 음식 roti 등이라 Lottie 근거 아님 / ja.wikipedia 검색에서 Lottie 인물 문서 못 찾음(걸린 것은 무관한 인물) / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lottie: Diminutive of Charlotte or Liselotte."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '로티' 뺌: 상위 제목이 음식 roti 등이라 Lottie 근거 아님 / ja.wikipedia 검색에서 Lottie 인물 문서 못 찾음(걸린 것은 무관한 인물) / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lottie: Diminutive of Charlotte or Liselotte. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh: en 'Lottie ~'의 zh 링크는 '洛蒂湖'(호수)·'慕拉第'(Lottie Moon의 중국식 이름)뿐이라 이름 표기로 못 씀"
  },
  {
   "key": "em",
@@ -1829,7 +1833,7 @@
   "sex": "f",
   "rank_src": "BtN 'Emma' 문서 Diminutives 목록(https://www.behindthename.com/name/emma) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Em&searchCategory=know4 (검색 1667건, 이 애칭을 한글로 단독 표기한 용례 없음 / 앞 80건 확인)",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": null,
@@ -1846,7 +1850,7 @@
   "meaning_src": "https://www.behindthename.com/name/em",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1667건 중 250건 확인 / ko_alt 후보 '엠' 근거 약함(제목 검색 totalhits 78, '엠 ○○' 꼴 인물 제목 0건)으로 넣지 않음 / ja.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / zh.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / BtN em: Short form of Emily or Emma."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1667건 중 250건 확인 / ko_alt 후보 '엠' 근거 약함(제목 검색 totalhits 78, '엠 ○○' 꼴 인물 제목 0건)으로 넣지 않음 / ja.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / zh.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / BtN em: Short form of Emily or Emma. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. emily의 애칭이기도 함. 국립국어원 'Em' 1,667건은 다른 낱말 섞임(앞 80건 중 이 애칭 단독 용례 없음). en 'Em ~' 인물 문서 중 ko/ja/zh 링크 있는 것 못 찾음 → 전부 비움"
  },
  {
   "key": "emmy",
@@ -1881,13 +1885,15 @@
   "sex": "f",
   "rank_src": "BtN 'Amelia' 문서 Diminutives 목록(https://www.behindthename.com/name/amelia) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Millie&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "밀리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"밀리\"' totalhits 748(다른 뜻 섞임), 이 애칭 인물 문서 예: '밀리 보비 브라운'(en Millie Bobby Brown) https://ko.wikipedia.org/wiki/%EB%B0%80%EB%A6%AC_%EB%B3%B4%EB%B9%84_%EB%B8%8C%EB%9D%BC%EC%9A%B4, '밀리 브라이트'(en Millie Bright) https://ko.wikipedia.org/wiki/%EB%B0%80%EB%A6%AC_%EB%B8%8C%EB%9D%BC%EC%9D%B4%ED%8A%B8, '밀리 퍼킨스'(en Millie Perkins) https://ko.wikipedia.org/wiki/%EB%B0%80%EB%A6%AC_%ED%8D%BC%ED%82%A8%EC%8A%A4",
   "ja": "ミリー",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%93%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3, https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9, https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%96%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3 — 검색 'Millie' 결과 중 같은 표기 3건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'ミリー・ボビー・ブラウン'(en Millie Bobby Brown) https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%93%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3, 'ミリー・ヒューズ＝フルフォード'(en Millie Hughes-Fulford) https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%82%BA%EF%BC%9D%E3%83%95%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89, 'ミリー・パーキンス'(en Millie Perkins) https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%91%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9",
   "zh": "米莉",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E8%8E%89%C2%B7%E8%8A%AD%E6%AF%94%C2%B7%E5%B8%83%E6%9C%97 (米莉·芭比·布朗), https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E8%8E%89%C2%B7%E5%B8%83%E8%B3%B4%E7%89%B9 (米莉·布賴特), https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E8%8E%89%C2%B7%E4%BD%A9%E9%87%91%E6%96%AF (米莉·佩金斯) — 검색 'Millie' 결과 중 같은 표기 4건",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '米莉·芭比·布朗'(en Millie Bobby Brown) https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E8%8E%89%C2%B7%E8%8A%AD%E6%AF%94%C2%B7%E5%B8%83%E6%9C%97, '米莉·布賴特'(en Millie Bright) https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E8%8E%89%C2%B7%E5%B8%83%E8%B3%B4%E7%89%B9, '米莉·佩金斯'(en Millie Perkins) https://zh.wikipedia.org/zh-tw/%E7%B1%B3%E8%8E%89%C2%B7%E4%BD%A9%E9%87%91%E6%96%AF",
   "origin": null,
   "meaning": {
    "en": null,
@@ -1898,7 +1904,7 @@
   "meaning_src": "https://www.behindthename.com/name/millie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '밀리' 뺌: 인물 제목 1건(밀리 브라이트)뿐, 나머지는 Milli Vanilli·환초 / ja 다른 표기: ポット 1건 / zh(대만 표시) 다른 표기: 蘇菲 1건 / BtN millie: Diminutive of Mildred, Millicent and other names containing the same sound."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '밀리' 뺌: 인물 제목 1건(밀리 브라이트)뿐, 나머지는 Milli Vanilli·환초 / ja 다른 표기: ポット 1건 / zh(대만 표시) 다른 표기: 蘇菲 1건 / BtN millie: Diminutive of Mildred, Millicent and other names containing the same sound. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음."
  },
  {
   "key": "bella",
@@ -1935,11 +1941,13 @@
   "sex": "u",
   "rank_src": "BtN 'Isabella' 문서 Diminutives 목록(https://www.behindthename.com/name/isabella) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Izzy&searchCategory=know4 (검색 1건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "이지"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"이지\"' totalhits 1225(다른 뜻 섞임), 이 애칭 인물 문서 예: '이지 알칸트라'(en Izzy Alcántara) https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%80_%EC%95%8C%EC%B9%B8%ED%8A%B8%EB%9D%BC, '이지 비주'(en Izzy Bizu) https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%80_%EB%B9%84%EC%A3%BC, '이지 스트래들린'(en Izzy Stradlin) https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%A7%80_%EC%8A%A4%ED%8A%B8%EB%9E%98%EB%93%A4%EB%A6%B0",
   "ja": "イジー",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%83%89%E3%83%AA%E3%83%B3 — 검색 'Izzy' 결과 중 같은 표기 1건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'イジー・ストラドリン'(en Izzy Stradlin) https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%A9%E3%83%89%E3%83%AA%E3%83%B3",
   "zh": null,
   "zh_src": null,
   "origin": null,
@@ -1952,7 +1960,7 @@
   "meaning_src": "https://www.behindthename.com/name/izzy",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ko_alt 후보 '이지' 뺌: 상위 제목이 Easy(이지 라이더 등)라서 Izzy 근거 아님 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: リチャード 1건, ガンズ 1건, バズ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 근거 1건이 Izzy인지 불확실라 버림) / BtN izzy: Diminutive of Isidore, Isabel, Israel and other names beginning with a similar sound."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ko_alt 후보 '이지' 뺌: 상위 제목이 Easy(이지 라이더 등)라서 Izzy 근거 아님 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: リチャード 1건, ガンズ 1건, バズ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 근거 1건이 Izzy인지 불확실라 버림) / BtN izzy: Diminutive of Isidore, Isabel, Israel and other names beginning with a similar sound. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ko 예 중 Izzy Alcántara·Izzy Stradlin은 남성(Isabella 애칭 아님, 한글 표기 근거로만 씀), Izzy Bizu는 여성. ja 예는 1건(Izzy Stradlin, 남성). 'Izzy Brown'은 ja·zh 모두 본명 Isaiah로 표기(イザイア/艾沙亞)라 못 씀 → zh 비움"
  },
  {
   "key": "belle",
@@ -1961,11 +1969,11 @@
   "sex": "f",
   "rank_src": "BtN 'Isabella' 문서 Diminutives 목록(https://www.behindthename.com/name/isabella) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Belle&searchCategory=know4 (검색 24건, 이 애칭을 한글로 단독 표기한 용례 없음)",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": "ベル",
-  "ja_src": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC (Belle Starr) — 검색 'Belle' 결과 중 인물 1건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'ベル・デルフィン'(en Belle Delphine) https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%BB%E3%83%87%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3, 'ベル・スター'(en Belle Starr) https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC",
   "zh": null,
   "zh_src": null,
   "origin": null,
@@ -1978,7 +1986,7 @@
   "meaning_src": "https://www.behindthename.com/name/belle",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 24건 중 24건 확인 / ko_alt 후보 '벨' 뺌: 상위 제목이 Bell(벨 연구소 등)이라 Belle 근거 아님 / ja 표기 근거 인물 문서 1건뿐 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN belle: Short form of Isabella or names ending in belle. It is also associated with the French word belle meaning \"beautiful\". A"
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 24건 중 24건 확인 / ko_alt 후보 '벨' 뺌: 상위 제목이 Bell(벨 연구소 등)이라 Belle 근거 아님 / ja 표기 근거 인물 문서 1건뿐 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN belle: Short form of Isabella or names ending in belle. It is also associated with the French word belle meaning \"beautiful\". A | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ko: en 'Belle ~' 인물 문서 중 ko 링크 있는 것 없음(벨 뷰 동물원뿐). ko 위키 '벨' 본문 검색은 종(bell)·알렉산더 그레이엄 벨 등과 섞여 근거로 못 씀 → 비움. 국립국어원 'Belle' 24건은 지명·이자벨 등(단독 용례 없음). zh: 'Belle Delphine'은 '貝黛芬'(이름·성 합친 표기)이라 못 씀"
  },
  {
   "key": "evie",
@@ -1987,7 +1995,7 @@
   "sex": "f",
   "rank_src": "BtN 'Evelyn' 문서 Diminutives 목록(https://www.behindthename.com/name/evelyn) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Evie&searchCategory=know4 (검색 15건, 이 애칭을 한글로 단독 표기한 용례 없음)",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": "エヴィー",
@@ -2004,7 +2012,7 @@
   "meaning_src": "https://www.behindthename.com/name/evie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 15건 중 15건 확인 / ko_alt 후보 '이비' 근거 약함(제목 검색 totalhits 17, '이비 ○○' 꼴 인물 제목 7건)으로 넣지 않음 / ko_alt 후보 '에비' 근거 약함(제목 검색 totalhits 10, '에비 ○○' 꼴 인물 제목 1건)으로 넣지 않음 / ja 표기 근거 인물 문서 1건뿐, 다른 표기 エヴィエ(エヴィエ・ギャラガー) 1건 / zh 표기 근거 인물 문서 1건뿐 / zh(대만 표시) 다른 표기: 查理 1건 / BtN evie: Diminutive of Eve or Evelyn."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 15건 중 15건 확인 / ko_alt 후보 '이비' 근거 약함(제목 검색 totalhits 17, '이비 ○○' 꼴 인물 제목 7건)으로 넣지 않음 / ko_alt 후보 '에비' 근거 약함(제목 검색 totalhits 10, '에비 ○○' 꼴 인물 제목 1건)으로 넣지 않음 / ja 표기 근거 인물 문서 1건뿐, 다른 표기 エヴィエ(エヴィエ・ギャラガー) 1건 / zh 표기 근거 인물 문서 1건뿐 / zh(대만 표시) 다른 표기: 查理 1건 / BtN evie: Diminutive of Eve or Evelyn. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. en 'Evie ~' 인물 문서 중 ko/ja/zh 링크 있는 것 없음. ko 위키 '이비 해먼드'는 Evey Hammond(철자 Evey)라 근거 아님 → 전부 비움. 국립국어원 'Evie' 15건은 -view 지명 등"
  },
  {
   "key": "ellie",
@@ -2013,13 +2021,15 @@
   "sex": "f",
   "rank_src": "BtN 'Eleanor' 문서 Diminutives 목록(https://www.behindthename.com/name/eleanor) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Ellie&searchCategory=know4 (검색 4건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "엘리"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"엘리\"' totalhits 1986(다른 뜻 섞임), 이 애칭 인물 문서 예: '엘리 뱀버'(en Ellie Bamber) https://ko.wikipedia.org/wiki/%EC%97%98%EB%A6%AC_%EB%B1%80%EB%B2%84, '엘리 블랙'(en Ellie Black) https://ko.wikipedia.org/wiki/%EC%97%98%EB%A6%AC_%EB%B8%94%EB%9E%99, '엘리 굴딩'(en Ellie Goulding) https://ko.wikipedia.org/wiki/%EC%97%98%EB%A6%AC_%EA%B5%B4%EB%94%A9, '엘리 켐퍼'(en Ellie Kemper) https://ko.wikipedia.org/wiki/%EC%97%98%EB%A6%AC_%EC%BC%90%ED%8D%BC, '엘리 테일러'(en Ellie Taylor) https://ko.wikipedia.org/wiki/%EC%97%98%EB%A6%AC_%ED%85%8C%EC%9D%BC%EB%9F%AC",
   "ja": "エリー",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%8B%E3%83%83%E3%83%81, https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC, https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%B3%E3%83%89%E3%83%AA%E3%83%83%E3%82%AF — 검색 'Ellie' 결과 중 같은 표기 3건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'エリー・バンバー'(en Ellie Bamber) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%90%E3%83%B3%E3%83%90%E3%83%BC, 'エリー・ゴールディング'(en Ellie Goulding) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0, 'エリー・グレニッチ'(en Ellie Greenwich) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AC%E3%83%8B%E3%83%83%E3%83%81, 'エリー・ケンパー'(en Ellie Kemper) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC",
   "zh": "埃莉",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E7%94%98 (埃莉·甘), https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E5%8D%A1%E5%BD%AD%E7%89%B9 (埃莉·卡彭特), https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E8%A5%BF%E8%92%99%E5%85%B9 (埃莉·西蒙茲) — 검색 'Ellie' 결과 중 같은 표기 8건",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '埃莉·布萊克'(en Ellie Black) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E5%B8%83%E8%8E%B1%E5%85%8B, '埃莉·卡彭特'(en Ellie Carpenter) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E5%8D%A1%E5%BD%AD%E7%89%B9, '埃莉·科爾'(en Ellie Cole) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E7%A7%91%E5%B0%94, '埃莉·丹尼爾'(en Ellie Daniel) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E4%B8%B9%E5%B0%BC%E5%B0%94, '埃莉·肯珀'(en Ellie Kemper) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E8%82%AF%E7%8F%80, '埃莉·西蒙茲'(en Ellie Simmonds) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E8%8E%89%C2%B7%E8%A5%BF%E8%92%99%E5%85%B9",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2030,7 +2040,7 @@
   "meaning_src": "https://www.behindthename.com/name/ellie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 4건 중 4건 확인 / ko_alt 후보 '엘리' 뺌: 상위 인물이 Élie(엘리 비젤·엘리 메치니코프)라서 Ellie 근거 아님 / ja 다른 표기: ナウ 1건, ジュークボックス 1건 / zh(대만 표시) 다른 표기: 艾麗 1건, 基努 1건, 史提夫 1건 / BtN ellie: Diminutive of Eleanor, Ellen 1, Elizabeth and other names beginning with El. This name became popular in the United King"
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 4건 중 4건 확인 / ko_alt 후보 '엘리' 뺌: 상위 인물이 Élie(엘리 비젤·엘리 메치니코프)라서 Ellie 근거 아님 / ja 다른 표기: ナウ 1건, ジュークボックス 1건 / zh(대만 표시) 다른 표기: 艾麗 1건, 基努 1건, 史提夫 1건 / BtN ellie: Diminutive of Eleanor, Ellen 1, Elizabeth and other names beginning with El. This name became popular in the United King | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 다른 표기: 艾麗 2건(Ellie Bamber, Ellie Goulding)"
  },
  {
   "key": "nell",
@@ -2093,13 +2103,15 @@
   "sex": "f",
   "rank_src": "BtN 'Elizabeth' 문서 Diminutives 목록(https://www.behindthename.com/name/elizabeth) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Liz&searchCategory=know4 (검색 95건, 이 애칭을 한글로 단독 표기한 용례 없음 / 앞 80건 확인)",
+  "ko_alt": [
+   "리즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"리즈\"' totalhits 2900(다른 뜻 섞임), 이 애칭 인물 문서 예: '리즈 앨런'(en Liz Allan) https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%A6%88_%EC%95%A8%EB%9F%B0, '리즈 체니'(en Liz Cheney) https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%A6%88_%EC%B2%B4%EB%8B%88, '리즈 맥라논'(en Liz McClarnon) https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%A6%88_%EB%A7%A5%EB%9D%BC%EB%85%BC, '리즈 페어'(en Liz Phair) https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%A6%88_%ED%8E%98%EC%96%B4, '리즈 스미스'(en Liz Smith (actress)) https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%A6%88_%EC%8A%A4%EB%AF%B8%EC%8A%A4, '리즈 트러스'(en Liz Truss) https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%A6%88_%ED%8A%B8%EB%9F%AC%EC%8A%A4",
   "ja": "リズ",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%88%E3%83%A9%E3%82%B9, https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%A0%E3%83%BC%E3%82%B7%E3%83%A5, https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A2 — 검색 'Liz' 결과 중 같은 표기 5건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'リズ・チェイニー'(en Liz Cheney) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%81%E3%82%A7%E3%82%A4%E3%83%8B%E3%83%BC, 'リズ・マクラーノン'(en Liz McClarnon) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A9%E3%83%BC%E3%83%8E%E3%83%B3, 'リズ・マッコルガン'(en Liz McColgan) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%9E%E3%83%83%E3%82%B3%E3%83%AB%E3%82%AC%E3%83%B3, 'リズ・フェア'(en Liz Phair) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A2, 'リズ・トラス'(en Liz Truss) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BA%E3%83%BB%E3%83%88%E3%83%A9%E3%82%B9",
   "zh": "莉茲",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E8%8E%89%E5%85%B9%C2%B7%E5%9D%8E%E8%B4%9D%E5%A5%87 (莉茲·坎貝奇), https://zh.wikipedia.org/zh-tw/%E8%8E%89%E5%85%B9%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF (莉茲·史密斯) — 검색 'Liz' 결과 중 같은 표기 2건",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '莉茲·坎貝奇'(en Liz Cambage) https://zh.wikipedia.org/zh-tw/%E8%8E%89%E5%85%B9%C2%B7%E5%9D%8E%E8%B4%9D%E5%A5%87, '莉茲·史密斯'(en Liz Smith (actress)) https://zh.wikipedia.org/zh-tw/%E8%8E%89%E5%85%B9%C2%B7%E5%8F%B2%E5%AF%86%E6%96%AF, '莉茲·特拉斯'(en Liz Truss) https://zh.wikipedia.org/zh-tw/%E8%8E%89%E5%85%B9%C2%B7%E7%89%B9%E6%8B%89%E6%96%AF",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2110,7 +2122,7 @@
   "meaning_src": "https://www.behindthename.com/name/liz",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 95건 중 95건 확인 / ko_alt 후보 '리즈' 뺌: 상위 제목이 Leeds·Riz Ahmed·Reese Witherspoon이라 Liz 근거 아님 / ja 다른 표기: マタドール 1건 / zh(대만 표시) 다른 표기: 艾薇兒 1건, 利茲 1건, 莉絲 1건 / BtN liz: Short form of Elizabeth. This is the familiar name of actress Elizabeth Taylor (1932-2011)."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 95건 중 95건 확인 / ko_alt 후보 '리즈' 뺌: 상위 제목이 Leeds·Riz Ahmed·Reese Witherspoon이라 Liz 근거 아님 / ja 다른 표기: マタドール 1건 / zh(대만 표시) 다른 표기: 艾薇兒 1건, 利茲 1건, 莉絲 1건 / BtN liz: Short form of Elizabeth. This is the familiar name of actress Elizabeth Taylor (1932-2011). | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 표기가 갈림: 莉茲 3건 / 利茲 3건(Liz Cheney, Liz Kendall, Liz Rose) 동수. ko 위키 '리즈' 검색 수에는 도시 리즈(Leeds) 섞임. 국립국어원 'Liz' 95건 중 앞 80건 확인, 단독 용례 없음"
  },
  {
   "key": "beth",
@@ -2251,13 +2263,15 @@
   "sex": "f",
   "rank_src": "BtN 'Jessica' 문서 Diminutives 목록(https://www.behindthename.com/name/jessica) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Jessie&searchCategory=know4 (검색 1건, 이 애칭을 한글로 단독 표기한 용례 없음 / 검색 결과는 상담·다듬은 말 항목이고 용례는 0건)",
+  "ko_alt": [
+   "제시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"제시\"' totalhits 3568(다른 뜻 섞임), 이 애칭 인물 문서 예: '제시 앤드루스'(en Jessie Andrews) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EC%95%A4%EB%93%9C%EB%A3%A8%EC%8A%A4, '제시 버클리'(en Jessie Buckley) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EB%B2%84%ED%81%B4%EB%A6%AC, '제시 케이브'(en Jessie Cave) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EC%BC%80%EC%9D%B4%EB%B8%8C, '제시 디긴스'(en Jessie Diggins) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EB%94%94%EA%B8%B4%EC%8A%A4, '제시 가더스'(en Jessie Godderz) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EA%B0%80%EB%8D%94%EC%8A%A4, '제시 제이'(en Jessie J) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EC%A0%9C%EC%9D%B4, '제시 제임스 데커'(en Jessie James Decker) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EC%A0%9C%EC%9E%84%EC%8A%A4_%EB%8D%B0%EC%BB%A4, '제시 레예스'(en Jessie Reyez) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EB%A0%88%EC%98%88%EC%8A%A4, '제시 웨어'(en Jessie Ware) https://ko.wikipedia.org/wiki/%EC%A0%9C%EC%8B%9C_%EC%9B%A8%EC%96%B4",
   "ja": "ジェシー",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BBJ, https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A2, https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%90%E3%83%AB%E3%82%AC%E3%82%B9 — 검색 'Jessie' 결과 중 같은 표기 10건",
-  "zh": "傑茜",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E5%82%91%E8%8C%9C%C2%B7%E8%BF%AA%E9%87%91%E6%96%AF (傑茜·迪金斯), https://zh.wikipedia.org/zh-tw/%E6%9D%B0%E8%8C%9C%C2%B7%E5%87%AF%E7%89%B9 (傑茜·凱特), https://zh.wikipedia.org/zh-tw/%E6%9D%B0%E8%8C%9C%C2%B7%E9%98%BF%E5%86%85 (傑茜·阿內) — 검색 'Jessie' 결과 중 같은 표기 4건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'ジェシー・アンドリュース'(en Jessie Andrews) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B9, 'ジェシー・バックリー'(en Jessie Buckley) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%90%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC, 'ジェシー・J'(en Jessie J) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BBJ, 'ジェシー・ウェア'(en Jessie Ware) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A2",
+  "zh": "潔西",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '潔西·安德絲'(en Jessie Andrews) https://zh.wikipedia.org/zh-tw/%E6%BD%94%E8%A5%BF%C2%B7%E5%AE%89%E5%BE%B7%E7%B5%B2, '潔西·伯克利'(en Jessie Buckley) https://zh.wikipedia.org/zh-tw/%E6%BD%94%E8%A5%BF%C2%B7%E4%BC%AF%E5%85%8B%E5%88%A9, '潔西·J'(en Jessie J) https://zh.wikipedia.org/zh-tw/%E6%B4%81%E8%A5%BF%C2%B7J",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2268,7 +2282,7 @@
   "meaning_src": "https://www.behindthename.com/name/jessie-1",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 0건 확인 / ko_alt 후보 '제시' 뺌: 상위 인물이 Jesse(제시 아이젠버그·제시 오언스)라서 Jessie 근거 아님 / ja 다른 표기: ワールド 1건, バニティ 1건 / zh(대만 표시) 다른 표기: 潔西 3건, 傑西 3건 / BtN jessie-1: Originally a Scots diminutive of Jean 2. In modern times it is also used as a diminutive of Jessica."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 0건 확인 / ko_alt 후보 '제시' 뺌: 상위 인물이 Jesse(제시 아이젠버그·제시 오언스)라서 Jessie 근거 아님 / ja 다른 표기: ワールド 1건, バニティ 1건 / zh(대만 표시) 다른 표기: 潔西 3건, 傑西 3건 / BtN jessie-1: Originally a Scots diminutive of Jean 2. In modern times it is also used as a diminutive of Jessica. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 다른 표기: 傑茜 1건(Jessie Diggins), 傑西 1건(Jessie Ware). Jessie는 남성 이름(Jesse 변형)으로도 쓰임"
  },
  {
   "key": "em",
@@ -2277,7 +2291,7 @@
   "sex": "f",
   "rank_src": "BtN 'Emily' 문서 Diminutives 목록(https://www.behindthename.com/name/emily) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Em&searchCategory=know4 (검색 1667건, 이 애칭을 한글로 단독 표기한 용례 없음 / 앞 80건 확인)",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": null,
@@ -2294,7 +2308,7 @@
   "meaning_src": "https://www.behindthename.com/name/em",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1667건 중 250건 확인 / ko_alt 후보 '엠' 근거 약함(제목 검색 totalhits 78, '엠 ○○' 꼴 인물 제목 0건)으로 넣지 않음 / ja.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / zh.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / BtN em: Short form of Emily or Emma."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1667건 중 250건 확인 / ko_alt 후보 '엠' 근거 약함(제목 검색 totalhits 78, '엠 ○○' 꼴 인물 제목 0건)으로 넣지 않음 / ja.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / zh.wikipedia에서 이 이름의 인물 문서 표기를 확인 못 함 / BtN em: Short form of Emily or Emma. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. emily의 애칭이기도 함. 국립국어원 'Em' 1,667건은 다른 낱말 섞임(앞 80건 중 이 애칭 단독 용례 없음). en 'Em ~' 인물 문서 중 ko/ja/zh 링크 있는 것 못 찾음 → 전부 비움"
  },
  {
   "key": "emmy",
@@ -2355,13 +2369,15 @@
   "sex": "f",
   "rank_src": "BtN 'Melissa' 문서 Diminutives 목록(https://www.behindthename.com/name/melissa) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
-  "ja": null,
-  "ja_src": null,
-  "zh": "蜜茜",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E8%9C%9C%E8%8C%9C%C2%B7%E5%AF%8C%E5%85%B0%E5%85%8B%E6%9E%97 (蜜茜·富蘭克林) — 검색 'Missy' 결과 중 같은 표기 1건",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Missy&searchCategory=know4 (검색 1건, 이 애칭을 한글로 단독 표기한 용례 없음 / 검색 결과는 상담·다듬은 말 항목이고 용례는 0건)",
+  "ko_alt": [
+   "미시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"미시\"' totalhits 567(다른 뜻 섞임), 이 애칭 인물 문서 예: '미시 엘리엇'(en Missy Elliott) https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%8B%9C_%EC%97%98%EB%A6%AC%EC%97%87, '미시 프랭클린'(en Missy Franklin) https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%8B%9C_%ED%94%84%EB%9E%AD%ED%81%B4%EB%A6%B0, '미시 히긴스'(en Missy Higgins) https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%8B%9C_%ED%9E%88%EA%B8%B4%EC%8A%A4, '미시 페러그림'(en Missy Peregrym) https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%8B%9C_%ED%8E%98%EB%9F%AC%EA%B7%B8%EB%A6%BC",
+  "ja": "ミッシー",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'ミッシー・エリオット'(en Missy Elliott) https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88, 'ミッシー・ペリグリム'(en Missy Peregrym) https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9A%E3%83%AA%E3%82%B0%E3%83%AA%E3%83%A0",
+  "zh": "蜜西",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '蜜西·艾莉特'(en Missy Elliott) https://zh.wikipedia.org/zh-tw/%E8%9C%9C%E8%A5%BF%C2%B7%E8%89%BE%E8%8E%89%E7%89%B9, '蜜西·希金斯'(en Missy Higgins) https://zh.wikipedia.org/zh-tw/%E8%9C%9C%E8%A5%BF%C2%B7%E5%B8%8C%E9%87%91%E6%96%AF",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2372,7 +2388,7 @@
   "meaning_src": "https://www.behindthename.com/name/missy",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 0건 확인 / ko_alt 후보 '미시' 근거 약함(제목 검색 totalhits 11, '미시 ○○' 꼴 인물 제목 8건)으로 넣지 않음 / ja.wikipedia 검색에서 Missy 인물 문서 못 찾음(걸린 것은 무관한 문서) / zh 표기 근거 인물 문서 1건뿐 / zh(대만 표시) 다른 표기: 柯特妮 1건, 瑪麗亞 1건, 米茜 1건 / BtN missy: Diminutive of Melissa. This is also a slang term meaning \"young woman\"."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 0건 확인 / ko_alt 후보 '미시' 근거 약함(제목 검색 totalhits 11, '미시 ○○' 꼴 인물 제목 8건)으로 넣지 않음 / ja.wikipedia 검색에서 Missy 인물 문서 못 찾음(걸린 것은 무관한 문서) / zh 표기 근거 인물 문서 1건뿐 / zh(대만 표시) 다른 표기: 柯特妮 1건, 瑪麗亞 1건, 米茜 1건 / BtN missy: Diminutive of Melissa. This is also a slang term meaning \"young woman\". | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 다른 표기: 蜜茜 1건(Missy Franklin). ko 위키 '미시' 검색 수에는 '미시경제학' 등 섞임"
  },
  {
   "key": "mandy",
@@ -2433,13 +2449,15 @@
   "sex": "f",
   "rank_src": "BtN 'Kimberly' 문서 Diminutives 목록(https://www.behindthename.com/name/kimberly) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
-  "ja": null,
-  "ja_src": null,
-  "zh": null,
-  "zh_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Kimmy&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "키미"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"키미\"' totalhits 316(다른 뜻 섞임), 이 애칭 인물 문서 예: '키미 로버트슨'(en Kimmy Robertson) https://ko.wikipedia.org/wiki/%ED%82%A4%EB%AF%B8_%EB%A1%9C%EB%B2%84%ED%8A%B8%EC%8A%A8",
+  "ja": "キミー",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'キミー・レポンド'(en Kimmy Repond) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%9D%E3%83%B3%E3%83%89",
+  "zh": "基米",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '基米·雷蓬'(en Kimmy Repond) https://zh.wikipedia.org/zh-tw/%E5%9F%BA%E7%B1%B3%C2%B7%E9%9B%B7%E8%93%AC",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2450,7 +2468,7 @@
   "meaning_src": "https://www.behindthename.com/name/kimmy",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '키미' 근거 약함(제목 검색 totalhits 14, '키미 ○○' 꼴 인물 제목 5건)으로 넣지 않음 / ja.wikipedia 검색에서 Kimmy 인물 문서 못 찾음(드라마 제목 'アンブレイカブル・キミー・シュミット'만 있음) / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN kimmy: Diminutive of Kimberly or Kim 1."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '키미' 근거 약함(제목 검색 totalhits 14, '키미 ○○' 꼴 인물 제목 5건)으로 넣지 않음 / ja.wikipedia 검색에서 Kimmy 인물 문서 못 찾음(드라마 제목 'アンブレイカブル・キミー・シュミット'만 있음) / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN kimmy: Diminutive of Kimberly or Kim 1. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ko·ja·zh 인물 예가 각각 1건뿐(약함). ko 위키 '키미' 검색 수에는 키미 라이쾨넨(Kimi) 등 섞임"
  },
  {
   "key": "sally",
@@ -2591,13 +2609,15 @@
   "sex": "f",
   "rank_src": "BtN 'Alexis' 문서 Diminutives 목록(https://www.behindthename.com/name/alexis) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Lexie&searchCategory=know4 (검색 1건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "렉시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"렉시\"' totalhits 356(다른 뜻 섞임), 이 애칭 인물 문서 예: '렉시 리우'(en Lexie Liu) https://ko.wikipedia.org/wiki/%EB%A0%89%EC%8B%9C_%EB%A6%AC%EC%9A%B0",
   "ja": "レクシー",
   "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%BC — 검색 'Lexie' 결과 중 같은 표기 1건",
-  "zh": null,
-  "zh_src": null,
+  "zh": "萊克西",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '萊克西·格蕾'(en Lexie Grey) https://zh.wikipedia.org/zh-tw/%E8%8E%B1%E5%85%8B%E8%A5%BF%C2%B7%E6%A0%BC%E8%95%BE",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2608,7 +2628,7 @@
   "meaning_src": "https://www.behindthename.com/name/lexie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: シカゴ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lexie: Diminutive of Alexandra or Alexis."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: シカゴ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lexie: Diminutive of Alexandra or Alexis. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Lexie Lou'는 'レキシールー'(합친 표기)뿐이라 비움. zh 예는 드라마 인물 1건(Lexie Grey, 약함). 'Lexie Liu'는 zh에서 본명 '劉柏辛'"
  },
  {
   "key": "angie",
@@ -2617,13 +2637,15 @@
   "sex": "f",
   "rank_src": "BtN 'Angela' 문서 Diminutives 목록(https://www.behindthename.com/name/angela) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Angie&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "앤지"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"앤지\"' totalhits 308(다른 뜻 섞임), 이 애칭 인물 문서 예: '앤지 디킨슨'(en Angie Dickinson) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%EB%94%94%ED%82%A8%EC%8A%A8, '앤지 에버하트'(en Angie Everhart) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%EC%97%90%EB%B2%84%ED%95%98%ED%8A%B8, '앤지 하먼'(en Angie Harmon) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%ED%95%98%EB%A8%BC, '앤지 밀러'(en Angie Miller (American singer)) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%EB%B0%80%EB%9F%AC, '앤지 닉슨'(en Angie Nixon) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%EB%8B%89%EC%8A%A8, '앤지 스톤'(en Angie Stone) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%EC%8A%A4%ED%86%A4, '앤지 트리베카'(en Angie Tribeca) https://ko.wikipedia.org/wiki/%EC%95%A4%EC%A7%80_%ED%8A%B8%EB%A6%AC%EB%B2%A0%EC%B9%B4",
   "ja": "アンジー",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3, https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%B3, https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3 — 검색 'Angie' 결과 중 같은 표기 4건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'アンジー・ディキンソン'(en Angie Dickinson) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3, 'アンジー・ハーモン'(en Angie Harmon) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%B3, 'アンジー・マルチネス'(en Angie Martinez) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%AB%E3%83%81%E3%83%8D%E3%82%B9, 'アンジー・ストーン'(en Angie Stone) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%88%E3%83%BC%E3%83%B3",
   "zh": "安吉",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%90%89%C2%B7%E8%BF%AA%E9%87%91%E6%A3%AE (安吉·迪金森), https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%90%89%C2%B7%E7%8F%AD%E5%B8%83%E9%87%8C%E5%A5%87 (安吉·班布里奇) — 검색 'Angie' 결과 중 같은 표기 2건",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '安吉·巴拉德'(en Angie Ballard) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%90%89%C2%B7%E5%B7%B4%E6%8B%89%E5%BE%B7, '安吉·迪金森'(en Angie Dickinson) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%90%89%C2%B7%E8%BF%AA%E9%87%91%E6%A3%AE, '安吉·蘭伯特'(en Angie Skirving) https://zh.wikipedia.org/zh-tw/%E5%AE%89%E5%90%89%C2%B7%E5%85%B0%E4%BC%AF%E7%89%B9",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2634,7 +2656,7 @@
   "meaning_src": "https://www.behindthename.com/name/angie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '앤지' 근거 약함(제목 검색 totalhits 16, '앤지 ○○' 꼴 인물 제목 11건)으로 넣지 않음 / ja 다른 표기: アンヒー 1건 / zh(대만 표시) 다른 표기: 安琪 1건, 亞歷山德里婭 1건 / BtN angie: Diminutive of Angela and other names beginning with Ang. The 1973 Rolling Stones song Angie caused this name to jump in "
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '앤지' 근거 약함(제목 검색 totalhits 16, '앤지 ○○' 꼴 인물 제목 11건)으로 넣지 않음 / ja 다른 표기: アンヒー 1건 / zh(대만 표시) 다른 표기: 安琪 1건, 亞歷山德里婭 1건 / BtN angie: Diminutive of Angela and other names beginning with Ang. The 1973 Rolling Stones song Angie caused this name to jump in  | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. zh 다른 표기: 安琪 1건(Angie Stone). ko 다른 표기: '엔지 마티네즈'(Angie Martinez) 1건"
  },
  {
   "key": "nikki",
@@ -2727,13 +2749,15 @@
   "sex": "f",
   "rank_src": "BtN 'Madison' 문서 Diminutives 목록(https://www.behindthename.com/name/madison) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Maddie&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "매디"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"매디\"' totalhits 244(다른 뜻 섞임), 이 애칭 인물 문서 예: '매디 보먼'(en Maddie Bowman) https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%94%94_%EB%B3%B4%EB%A8%BC, '매디 해슨'(en Maddie Hasson) https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%94%94_%ED%95%B4%EC%8A%A8, '매디 필립스'(en Maddie Phillips) https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%94%94_%ED%95%84%EB%A6%BD%EC%8A%A4, '매디 지글러'(en Maddie Ziegler) https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%94%94_%EC%A7%80%EA%B8%80%EB%9F%AC",
   "ja": "マディ",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%9E%E3%83%B3, https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A3%E3%83%BB%E3%83%95%E3%82%A7%E3%82%AA%E3%83%8A%E3%83%86%E3%82%A3 — 검색 'Maddie' 결과 중 같은 표기 2건",
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'マディ・コーマン'(en Maddie Corman) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%9E%E3%83%B3",
   "zh": "瑪迪",
-  "zh_src": "zh.wikipedia 인물 문서(zh-tw 표시 제목) 이름 부분: https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E6%AC%A3%E5%A5%87 (瑪迪·欣奇), https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E9%B2%8D%E6%9B%BC (瑪迪·鮑曼), https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E9%B2%81%E5%B0%BC (瑪迪·魯尼) — 검색 'Maddie' 결과 중 같은 표기 5건",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '瑪迪·鮑曼'(en Maddie Bowman) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E9%B2%8D%E6%9B%BC, '瑪迪·欣奇'(en Maddie Hinch) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E6%AC%A3%E5%A5%87, '瑪迪·馬塞爾曼'(en Maddie Musselman) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E9%A9%AC%E5%A1%9E%E5%B0%94%E6%9B%BC, '瑪迪·魯尼'(en Maddie Rooney) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E9%B2%81%E5%B0%BC",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2744,7 +2768,7 @@
   "meaning_src": "https://www.behindthename.com/name/maddie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '매디' 근거 약함(제목 검색 totalhits 13, '매디 ○○' 꼴 인물 제목 7건)으로 넣지 않음 / ja 다른 표기: ロル 1건, ザ 1건 / zh(대만 표시) 다른 표기: 珍妮佛 2건, 梅狄 1건, 琳賽 1건 / BtN maddie: Diminutive of Madeline or Madison."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '매디' 근거 약함(제목 검색 totalhits 13, '매디 ○○' 꼴 인물 제목 7건)으로 넣지 않음 / ja 다른 표기: ロル 1건, ザ 1건 / zh(대만 표시) 다른 표기: 珍妮佛 2건, 梅狄 1건, 琳賽 1건 / BtN maddie: Diminutive of Madeline or Madison. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja 표기 갈림: マディ 1건(Maddie Corman) / マディー 1건(Maddie Ziegler). zh 다른 표기: 梅狄 1건(Maddie Ziegler)"
  },
  {
   "key": "maddy",
@@ -2753,13 +2777,15 @@
   "sex": "f",
   "rank_src": "BtN 'Madison' 문서 Diminutives 목록(https://www.behindthename.com/name/madison) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Maddy&searchCategory=know4 (검색 0건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "매디"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"매디\"' totalhits 244(다른 뜻 섞임), 이 애칭 인물 문서 예: '매디 컬리'(en Maddy Curley) https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%94%94_%EC%BB%AC%EB%A6%AC, '매디 힐'(en Maddy Hill) https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%94%94_%ED%9E%90",
   "ja": "マディ",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A3%E3%83%BB%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%BC — 검색 'Maddy' 결과 중 같은 표기 1건",
-  "zh": null,
-  "zh_src": null,
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'マディ・プライヤー'(en Maddy Prior) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A3%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BC",
+  "zh": "瑪迪",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '瑪迪·格林'(en Maddy Green) https://zh.wikipedia.org/zh-tw/%E7%8E%9B%E8%BF%AA%C2%B7%E6%A0%BC%E6%9E%97",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2770,7 +2796,7 @@
   "meaning_src": "https://www.behindthename.com/name/maddy",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '매디' 근거 약함(제목 검색 totalhits 13, '매디 ○○' 꼴 인물 제목 7건)으로 넣지 않음 / ja 표기 근거 인물 문서 1건뿐 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN maddy: Diminutive of Madeline or Madison."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 0건 중 0건 확인 / ko_alt 후보 '매디' 근거 약함(제목 검색 totalhits 13, '매디 ○○' 꼴 인물 제목 7건)으로 넣지 않음 / ja 표기 근거 인물 문서 1건뿐 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN maddy: Diminutive of Madeline or Madison. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja·zh 예 각 1건(약함)"
  },
  {
   "key": "molly",
@@ -2913,13 +2939,15 @@
   "sex": "f",
   "rank_src": "BtN 'Rebecca' 문서 Diminutives 목록(https://www.behindthename.com/name/rebecca) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Becca&searchCategory=know4 (검색 9건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "베카"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"베카\"' totalhits 284(다른 뜻 섞임), 이 애칭 인물 문서 예: '베카 토빈'(en Becca Tobin) https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%B9%B4_%ED%86%A0%EB%B9%88",
   "ja": "ベッカ",
-  "ja_src": "ja.wikipedia 인물 문서 이름 부분: https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%AB%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%B3%E3%82%B9, https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%AB%E3%83%BB%E3%83%88%E3%83%93%E3%83%B3 — 검색 'Becca' 결과 중 같은 표기 2건",
-  "zh": null,
-  "zh_src": null,
+  "ja_src": "ja.wikipedia 인물 문서 이름 부분: 'ベッカ・スティーヴンス'(en Becca Stevens) https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%AB%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%B3%E3%82%B9, 'ベッカ・トビン'(en Becca Tobin) https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%83%E3%82%AB%E3%83%BB%E3%83%88%E3%83%93%E3%83%B3",
+  "zh": "貝卡",
+  "zh_src": "zh.wikipedia 인물 문서 zh-tw 표시 제목 이름 부분: '貝卡·托賓'(en Becca Tobin) https://zh.wikipedia.org/zh-tw/%E8%B2%9D%E5%8D%A1%C2%B7%E6%89%98%E8%B3%93",
   "origin": null,
   "meaning": {
    "en": null,
@@ -2930,6 +2958,6 @@
   "meaning_src": "https://www.behindthename.com/name/becca",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 9건 중 9건 확인 / ko_alt 후보 '베카' 근거 약함(제목 검색 totalhits 8, '베카 ○○' 꼴 인물 제목 3건)으로 넣지 않음 / ja 다른 표기: スローイング 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN becca: Short form of Rebecca."
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 9건 중 9건 확인 / ko_alt 후보 '베카' 근거 약함(제목 검색 totalhits 8, '베카 ○○' 꼴 인물 제목 3건)으로 넣지 않음 / ja 다른 표기: スローイング 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN becca: Short form of Rebecca. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Becca Moros'는 'レベッカ'(본이름)로 표기. ko·zh 인물 예 1건(약함). ko 위키 '베카' 검색 수에는 베카 계곡·가수 베카 등 섞임"
  }
 ]

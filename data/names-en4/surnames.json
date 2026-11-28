@@ -65,12 +65,17 @@
   "ja_src": "ja.wikipedia 'ウィリアムズ'(en 'Williams (surname)' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA",
   "zh": "威廉斯",
   "zh_src": "zh.wikipedia '羅賓·威廉斯'(en 'Robin Williams' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%BE%85%E8%B3%93%C2%B7%E5%A8%81%E5%BB%89%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Welsh",
+  "meaning": {
+   "en": "from the given name William + genitive -s (in Wales also an anglicization of Welsh ap Gwilym)",
+   "ko": "이름 윌리엄(William)+소유격 -s에서 유래(웨일스에서는 ap Gwilym의 영어식)",
+   "ja": "名前ウィリアム(William)＋所有格 -s に由来(ウェールズでは ap Gwilym の英語化)",
+   "zh": "源自名字威廉(William)加所有格 -s(威爾斯則為 ap Gwilym 的英語化)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Williams_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 威廉士 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "zh 다른 문서 표기: 威廉士 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "brown",
@@ -86,12 +91,17 @@
   "ja_src": "ja.wikipedia 'ダン・ブラウン'(en 'Dan Brown' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3",
   "zh": "布朗",
   "zh_src": "zh.wikipedia '丹·布朗'(en 'Dan Brown' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%B8%B9%C2%B7%E5%B8%83%E6%9C%97",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "brown (for a person with brown hair, complexion or clothing)",
+   "ko": "갈색(갈색 머리·피부·옷을 한 사람)",
+   "ja": "茶色(茶色の髪・肌・服の人)",
+   "zh": "棕色(棕髮、棕膚或穿棕衣的人)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Brown_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "jones",
@@ -133,12 +143,17 @@
   "ja_src": "ja.wikipedia 'ジェリー・ガルシア'(en 'Jerry Garcia' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2",
   "zh": "加西亞",
   "zh_src": "zh.wikipedia '傑瑞·加西亞'(en 'Jerry Garcia' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%82%91%E7%91%9E%C2%B7%E5%8A%A0%E8%A5%BF%E4%BA%9E",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Iberian)",
+  "meaning": {
+   "en": "patronymic from the medieval given name García",
+   "ko": "중세 이름 가르시아(García)에서 온 부칭",
+   "ja": "中世の名前ガルシア(García)に由来する父称",
+   "zh": "源自中世名字加西亞(García)的父名"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Garc%C3%ADa_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 출처 첫머리는 García라는 이름 자체의 뜻은 밝히지 않음"
  },
  {
   "key": "miller",
@@ -208,12 +223,17 @@
   "ja_src": "ja.wikipedia 'アレックス・ロドリゲス'(en 'Alex Rodriguez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9",
   "zh": "羅德里奎茲",
   "zh_src": "zh.wikipedia '艾力士·羅德里奎茲'(en 'Alex Rodriguez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E5%8A%9B%E5%A3%AB%C2%B7%E7%BE%85%E5%BE%B7%E9%87%8C%E5%A5%8E%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Visigothic origin)",
+  "meaning": {
+   "en": "son of Rodrigo (Spanish form of Germanic Roderich, 'rich in fame')",
+   "ko": "로드리고(Rodrigo)의 아들(로드리고는 게르만 이름 Roderich의 스페인식, '명성이 높은')",
+   "ja": "ロドリゴ(Rodrigo)の息子(ゲルマン名 Roderich のスペイン語形、「名声に富む」)",
+   "zh": "羅德里戈(Rodrigo)之子(日耳曼名 Roderich 的西班牙語形式,「富有名聲」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Rodr%C3%ADguez_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 羅德里格斯, 羅德里格茲 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "zh 다른 문서 표기: 羅德里格斯, 羅德里格茲 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "martinez",
@@ -231,12 +251,17 @@
   "ja_src": "ja.wikipedia 'ペドロ・マルティネス'(en 'Pedro Martínez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8D%E3%82%B9",
   "zh": "馬丁尼茲",
   "zh_src": "zh.wikipedia '佩卓·馬丁尼茲'(en 'Pedro Martínez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BD%A9%E5%8D%93%C2%B7%E9%A6%AC%E4%B8%81%E5%B0%BC%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "son of Martín (Martin)",
+   "ko": "마르틴(Martín, 영어 Martin)의 아들",
+   "ja": "マルティン(Martín、英語 Martin)の息子",
+   "zh": "馬丁(Martín,英語 Martin)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Mart%C3%ADnez_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 馬天尼斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "zh 다른 문서 표기: 馬天尼斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "hernandez",
@@ -255,12 +280,17 @@
   "ja_src": "ja.wikipedia 'フェリックス・ヘルナンデス'(en 'Félix Hernández' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%98%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9",
   "zh": "赫南德茲",
   "zh_src": "zh.wikipedia '費利克斯·赫南德茲'(en 'Félix Hernández' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%B2%BB%E5%88%A9%E5%85%8B%E6%96%AF%C2%B7%E8%B5%AB%E5%8D%97%E5%BE%B7%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "son of Hernán, Hernando or Fernando (Spanish forms of Ferdinand)",
+   "ko": "에르난·에르난도·페르난도(Ferdinand의 스페인식)의 아들",
+   "ja": "エルナン・エルナンド・フェルナンド(Ferdinand のスペイン語形)の息子",
+   "zh": "Hernán、Hernando 或 Fernando(斐迪南 Ferdinand 的西班牙語形式)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Hern%C3%A1ndez (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 허낸데즈 2건 / ja 다른 문서 표기: エルナンデス / zh 다른 문서 표기: 埃爾南德斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 허낸데즈 2건 / ja 다른 문서 표기: エルナンデス / zh 다른 문서 표기: 埃爾南德斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "lopez",
@@ -278,12 +308,17 @@
   "ja_src": "ja.wikipedia 'ジェニファー・ロペス'(en 'Jennifer Lopez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%9A%E3%82%B9",
   "zh": "洛佩茲",
   "zh_src": "zh.wikipedia '詹妮弗·洛佩兹' → zh-tw '詹妮弗·洛佩茲'(en 'Jennifer Lopez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%A9%B9%E5%A6%AE%E5%BC%97%C2%B7%E6%B4%9B%E4%BD%A9%E5%85%B9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "son of Lope (from Latin lupus 'wolf')",
+   "ko": "로페(Lope)의 아들(라틴어 lupus '늑대'에서)",
+   "ja": "ロペ(Lope)の息子(ラテン語 lupus「狼」から)",
+   "zh": "Lope 之子(源自拉丁語 lupus「狼」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/L%C3%B3pez (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 로페즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 로페즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "gonzalez",
@@ -301,12 +336,17 @@
   "ja_src": "ja.wikipedia 'ゴンサレス'(en 'González (surname)' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%B3%E3%82%B5%E3%83%AC%E3%82%B9",
   "zh": "岡薩雷斯",
   "zh_src": "zh.wikipedia '冈萨雷斯' → zh-tw '岡薩雷斯'(en 'González (surname)' 성 문서의 언어 링크; zh-tw 변환 제목; 괄호 뺌) https://zh.wikipedia.org/zh-tw/%E5%86%88%E8%90%A8%E9%9B%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Germanic origin)",
+  "meaning": {
+   "en": "son of Gonzalo (Visigothic name from 'battle' + 'elf'; other explanations exist)",
+   "ko": "곤살로(Gonzalo)의 아들(곤살로는 '싸움'+'요정'으로 된 서고트 이름; 다른 설도 있음)",
+   "ja": "ゴンサロ(Gonzalo)の息子(ゴンサロは「戦い」＋「エルフ」の西ゴート名。異説あり)",
+   "zh": "貢薩洛(Gonzalo)之子(貢薩洛為「戰鬥」＋「精靈」組成的西哥德名;另有他說)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Gonz%C3%A1lez_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 곤잘레즈 2건 / ja 다른 문서 표기: ゴンザレス / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 곤잘레즈 2건 / ja 다른 문서 표기: ゴンザレス / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origin' 절: gunþo(싸움)+alf(요정) 설, '전쟁의 홀' 설, '금속 세공인' 설이 함께 적힘"
  },
  {
   "key": "wilson",
@@ -376,12 +416,17 @@
   "ja_src": "ja.wikipedia 'ディラン・トマス'(en 'Dylan Thomas' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%88%E3%83%9E%E3%82%B9",
   "zh": "托馬斯",
   "zh_src": "zh.wikipedia '狄兰·托马斯' → zh-tw '狄蘭·托馬斯'(en 'Dylan Thomas' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%8B%84%E5%85%B0%C2%B7%E6%89%98%E9%A9%AC%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Welsh, Irish, Scottish, French, German, Dutch, Danish (Biblical)",
+  "meaning": {
+   "en": "from the medieval given name Thomas (Hebrew t'om'a, 'twin')",
+   "ko": "중세 이름 토머스(Thomas, 히브리어 t'om'a '쌍둥이')에서 유래",
+   "ja": "中世の名前トーマス(Thomas、ヘブライ語 t'om'a「双子」)に由来",
+   "zh": "源自中世名字托馬斯(Thomas,希伯來語 t'om'a「雙胞胎」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Thomas_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 토마 3건 / ja 다른 문서 표기: トーマス / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Thomas(이름: 아람어 '쌍둥이')이라 성 뜻으로 안 씀 / '토마' 3건은 프랑스인 등 용례."
+  "note": "용례 다른 표기: 토마 3건 / ja 다른 문서 표기: トーマス / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Thomas(이름: 아람어 '쌍둥이')이라 성 뜻으로 안 씀 / '토마' 3건은 프랑스인 등 용례. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "taylor",
@@ -423,12 +468,17 @@
   "ja_src": "ja.wikipedia 'ロジャー・ムーア'(en 'Roger Moore' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%A0%E3%83%BC%E3%82%A2",
   "zh": "摩爾",
   "zh_src": "zh.wikipedia '罗杰·摩尔' → zh-tw '羅傑·摩爾'(en 'Roger Moore' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%BD%97%E6%9D%B0%C2%B7%E6%91%A9%E5%B0%94",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Irish, British",
+  "meaning": {
+   "en": "several origins: Middle English mor 'open land, bog' (one who lived near a moor); Irish Ó Mórdha 'stately, noble'; others",
+   "ko": "여러 유래: 중세 영어 mor '트인 땅·늪'(황야 근처에 살던 사람), 아일랜드어 Ó Mórdha '위엄 있는, 고귀한' 등",
+   "ja": "複数の由来:中英語 mor「開けた土地・沼地」(荒野の近くに住む人)、アイルランド語 Ó Mórdha「威厳ある、高貴な」など",
+   "zh": "多種來源:中古英語 mor「空曠地、沼澤」(住在荒原附近的人)、愛爾蘭語 Ó Mórdha「莊嚴、高貴」等"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Moore_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Meanings and origins' 절 참고"
  },
  {
   "key": "jackson",
@@ -470,12 +520,17 @@
   "ja_src": "ja.wikipedia 'スティーヴ・マーティン'(en 'Steve Martin' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
   "zh": "馬汀",
   "zh_src": "zh.wikipedia '马汀' → zh-tw '馬汀'(en 'Martin (name)' 성 문서의 언어 링크; zh-tw 변환 제목; 괄호 뺌) https://zh.wikipedia.org/zh-tw/%E9%A9%AC%E6%B1%80",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "various (from Latin Martinus)",
+  "meaning": {
+   "en": "from the given name Martin (Latin Martinus, from the Roman god Mars); some English Martins from places called Merton",
+   "ko": "이름 마틴(Martin; 로마 신 마르스에서 나온 라틴어 Martinus)에서 유래; 잉글랜드 일부는 머턴(Merton)이라는 지명에서",
+   "ja": "名前マーティン(Martin;ローマ神マルスに由来するラテン語 Martinus)から;イングランドの一部はマートン(Merton)という地名から",
+   "zh": "源自名字馬丁(Martin;源於羅馬神祇瑪爾斯的拉丁語 Martinus);英格蘭部分源自 Merton 這一地名"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Martin_%28name%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 마르틴 1건 / zh 다른 문서 표기: 馬丁 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Martin(이름: 로마 이름 Martinus)이라 성 뜻으로 안 씀 / '마르틴' 1건은 다른 언어권 인물 용례. 검색 148건 중 앞 50건만 확인."
+  "note": "용례 다른 표기: 마르틴 1건 / zh 다른 문서 표기: 馬丁 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Martin(이름: 로마 이름 Martinus)이라 성 뜻으로 안 씀 / '마르틴' 1건은 다른 언어권 인물 용례. 검색 148건 중 앞 50건만 확인. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Martin (surname)'는 'Martin (name)'으로 넘어감(이름·성 함께 다룸)"
  },
  {
   "key": "lee",
@@ -520,12 +575,17 @@
   "ja_src": "ja.wikipedia 'セルジオ・ペレス'(en 'Sergio Pérez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%82%B8%E3%82%AA%E3%83%BB%E3%83%9A%E3%83%AC%E3%82%B9",
   "zh": "佩雷斯",
   "zh_src": "zh.wikipedia '佩雷斯'(en 'Pérez' 성 문서의 언어 링크; zh-tw 변환 제목; 괄호 뺌) https://zh.wikipedia.org/zh-tw/%E4%BD%A9%E9%9B%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Castilian)",
+  "meaning": {
+   "en": "son of Pedro (Peter; Latin Petrus 'rock, stone')",
+   "ko": "페드로(Pedro, 영어 Peter)의 아들(라틴어 Petrus '바위·돌')",
+   "ja": "ペドロ(Pedro、英語 Peter)の息子(ラテン語 Petrus「岩・石」)",
+   "zh": "佩德羅(Pedro,英語 Peter)之子(拉丁語 Petrus「岩石」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/P%C3%A9rez (첫머리 + 본문 해당 절)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 퍼레즈 1건 / zh 다른 문서 표기: 培瑞茲 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Perez(성경 이름 '터뜨림')이라 성 뜻으로 안 씀"
+  "note": "용례 다른 표기: 퍼레즈 1건 / zh 다른 문서 표기: 培瑞茲 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Perez(성경 이름 '터뜨림')이라 성 뜻으로 안 씀 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origins' 절 참고"
  },
  {
   "key": "thompson",
@@ -543,12 +603,17 @@
   "ja_src": "ja.wikipedia 'エマ・トンプソン'(en 'Emma Thompson' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9E%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3",
   "zh": "湯普遜",
   "zh_src": "zh.wikipedia '艾瑪·湯普遜'(en 'Emma Thompson' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%89%BE%E7%91%AA%C2%B7%E6%B9%AF%E6%99%AE%E9%81%9C",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Irish, Scottish",
+  "meaning": {
+   "en": "son of Thom (variant of Thomson); possibly also from the parish of Thompson in Norfolk",
+   "ko": "톰(Thom)의 아들(Thomson의 변형); 노퍽의 톰프슨 교구에서 왔다는 설도",
+   "ja": "トム(Thom)の息子(Thomson の異形);ノーフォークのトンプソン教区に由来する説も",
+   "zh": "湯姆(Thom)之子(Thomson 的變體);另說源自諾福克的 Thompson 教區"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Thompson_%28surname%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 톰슨 1건 / zh 다른 문서 표기: 湯普森 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 톰슨 1건 / zh 다른 문서 표기: 湯普森 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "white",
@@ -564,12 +629,17 @@
   "ja_src": "ja.wikipedia 'バリー・ホワイト'(en 'Barry White' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88",
   "zh": "懷特",
   "zh_src": "zh.wikipedia '貝瑞·懷特'(en 'Barry White' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%B2%9D%E7%91%9E%C2%B7%E6%87%B7%E7%89%B9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English; Scottish, Irish",
+  "meaning": {
+   "en": "Scottish/Irish: anglicization of Gaelic MacGillebhàin 'son of the fair gillie' (meaning of the English-origin surname not given in source)",
+   "ko": "스코틀랜드·아일랜드계: 게일어 MacGillebhàin '흰(하얀) 시종의 아들'의 영어식(잉글랜드계 성의 뜻은 출처에 없음)",
+   "ja": "スコットランド・アイルランド系:ゲール語 MacGillebhàin「色白の従者の息子」の英語化(イングランド系の意味は出典になし)",
+   "zh": "蘇格蘭、愛爾蘭系:蓋爾語 MacGillebhàin「白皙侍從之子」的英語化(英格蘭系姓氏含義出處未載)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/White_%28surname%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 영어 white(흰색)에서 왔다는 문장은 출처 첫머리에 없음(없으므로 쓰지 않음)"
  },
  {
   "key": "harris",
@@ -613,12 +683,17 @@
   "ja_src": "ja.wikipedia 'アレクシス・サンチェス'(en 'Alexis Sánchez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9",
   "zh": "桑切斯",
   "zh_src": "zh.wikipedia '亚历克西斯·桑切斯' → zh-tw '亞歷克西斯·桑切斯'(en 'Alexis Sánchez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BA%9A%E5%8E%86%E5%85%8B%E8%A5%BF%E6%96%AF%C2%B7%E6%A1%91%E5%88%87%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "from the given name Sancho (children of the kings named Sancho took the surname Sanchez)",
+   "ko": "이름 산초(Sancho)에서 유래(산초라는 왕들의 자녀가 이 성을 씀)",
+   "ja": "名前サンチョ(Sancho)に由来(サンチョという王たちの子がこの姓を名乗った)",
+   "zh": "源自名字桑喬(Sancho)(名為 Sancho 的諸王之子女取此姓)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/S%C3%A1nchez (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 샌체즈 4건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 샌체즈 4건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Historical origins' 절은 '산초라는 왕들의 자녀가 Sanchez 성을 썼다'고만 씀. '산초의 아들'이라는 직접 문장은 없음"
  },
  {
   "key": "clark",
@@ -664,12 +739,17 @@
   "ja_src": "ja.wikipedia 'マニー・ラミレス'(en 'Manny Ramirez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%A9%E3%83%9F%E3%83%AC%E3%82%B9",
   "zh": "拉米瑞茲",
   "zh_src": "zh.wikipedia '曼尼·拉米瑞茲'(en 'Manny Ramirez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E6%9B%BC%E5%B0%BC%C2%B7%E6%8B%89%E7%B1%B3%E7%91%9E%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Germanic origin)",
+  "meaning": {
+   "en": "son of Ramiro",
+   "ko": "라미로(Ramiro)의 아들",
+   "ja": "ラミロ(Ramiro)の息子",
+   "zh": "拉米羅(Ramiro)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Ram%C3%ADrez_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "lewis",
@@ -685,12 +765,17 @@
   "ja_src": "ja.wikipedia 'カール・ルイス'(en 'Carl Lewis' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9",
   "zh": "劉易斯",
   "zh_src": "zh.wikipedia '卡尔·刘易斯' → zh-tw '卡爾·劉易斯'(en 'Carl Lewis' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E5%B0%94%C2%B7%E5%88%98%E6%98%93%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Welsh",
+  "meaning": {
+   "en": "several independent origins: from the Norman name Lowis (Latin Ludovicus, Germanic Hlūtwīg 'famed battle'); Welsh anglicization of names such as Llywelyn; others",
+   "ko": "여러 독립된 유래: 노르만 이름 Lowis(라틴어 Ludovicus, 게르만어 Hlūtwīg '이름난 싸움'), 웨일스 이름 루엘린(Llywelyn) 등의 영어식 등",
+   "ja": "複数の独立した由来:ノルマン名 Lowis(ラテン語 Ludovicus、ゲルマン語 Hlūtwīg「名高い戦い」)、ウェールズ名 Llywelyn などの英語化など",
+   "zh": "多個獨立來源:諾曼名字 Lowis(拉丁語 Ludovicus,日耳曼語 Hlūtwīg「著名的戰鬥」)、威爾斯名字 Llywelyn 等的英語化等"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Lewis_%28surname%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 레위스 1건 / zh 다른 문서 표기: 路易斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Lewis(Louis의 중세 영어형; 성 뜻 설명 없음)이라 성 뜻으로 안 씀 / 한글 표기 '루이스'가 Ruiz와 같음. '레위스' 1건은 다른 언어권 인물 용례."
+  "note": "용례 다른 표기: 레위스 1건 / zh 다른 문서 표기: 路易斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Lewis(Louis의 중세 영어형; 성 뜻 설명 없음)이라 성 뜻으로 안 씀 / 한글 표기 '루이스'가 Ruiz와 같음. '레위스' 1건은 다른 언어권 인물 용례. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "robinson",
@@ -758,12 +843,17 @@
   "ja_src": "ja.wikipedia 'ニール・ヤング'(en 'Neil Young' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0",
   "zh": "楊",
   "zh_src": "zh.wikipedia '尼爾·楊'(en 'Neil Young' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%B0%BC%E7%88%BE%C2%B7%E6%A5%8A",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "young (Old English geong; used to distinguish a son from his father)",
+   "ko": "젊은(고대 영어 geong; 아버지와 아들을 구별하려고 씀)",
+   "ja": "若い(古英語 geong。父と息子を区別するため)",
+   "zh": "年輕(古英語 geong;用以區分父子)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Young_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Young(한국어 '영' 표기)이라 성 뜻으로 안 씀 / Behind the Name 본 사이트 'Young'은 한국어 '영' 표기 설명이라 성 뜻으로 쓰지 않음."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Young(한국어 '영' 표기)이라 성 뜻으로 안 씀 / Behind the Name 본 사이트 'Young'은 한국어 '영' 표기 설명이라 성 뜻으로 쓰지 않음. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 출처: 중국 성 楊(Yang)이나 한국 성 용·영을 Young으로 로마자 표기한 경우도 있음"
  },
  {
   "key": "allen",
@@ -887,12 +977,17 @@
   "ja_src": "ja.wikipedia 'フェルナンド・トーレス'(en 'Fernando Torres' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%89%E3%83%BB%E3%83%88%E3%83%BC%E3%83%AC%E3%82%B9",
   "zh": "托雷斯",
   "zh_src": "zh.wikipedia '費蘭·托雷斯'(en 'Ferran Torres' 언어 링크, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%B2%BB%E8%98%AD%C2%B7%E6%89%98%E9%9B%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Catalan, Portuguese, Spanish",
+  "meaning": {
+   "en": "towers",
+   "ko": "탑들",
+   "ja": "塔(複数形)",
+   "zh": "塔(複數)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Torres_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 托利斯, 托里斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 문서마다 托雷斯/托利斯/托里斯로 갈림. 'Fernando Torres' 문서의 '托利斯'는 홍콩식으로 보여(추론) '托雷斯'를 택함."
+  "note": "zh 다른 문서 표기: 托利斯, 托里斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 문서마다 托雷斯/托利斯/托里斯로 갈림. 'Fernando Torres' 문서의 '托利斯'는 홍콩식으로 보여(추론) '托雷斯'를 택함. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "nguyen",
@@ -910,12 +1005,17 @@
   "ja_src": "ja.wikipedia 'グエン (姓)'(en 'Nguyen' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A8%E3%83%B3_%28%E5%A7%93%29",
   "zh": "阮",
   "zh_src": "zh.wikipedia '阮姓 (越南)'(en 'Nguyen' 문서의 언어 링크; 제목의 '姓'·괄호 뺌) https://zh.wikipedia.org/zh-tw/%E9%98%AE%E5%A7%93_%28%E8%B6%8A%E5%8D%97%29",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Vietnamese",
+  "meaning": {
+   "en": "Sino-Vietnamese reading of the character 阮 (originally used for the name of a state in Gansu, or the ruan, an ancient Chinese instrument)",
+   "ko": "한자 阮(완)의 한월음(본래 간쑤 지역 옛 나라 이름, 또는 고대 중국 악기 완(阮)을 쓰던 글자)",
+   "ja": "漢字「阮」の漢越音(もとは甘粛の古国名、または古代中国の楽器・阮を表した字)",
+   "zh": "「阮」字的漢越音(原用於甘肅一古國名,或古代中國樂器阮)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Nguyen (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 베트남 성(阮)."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 베트남 성(阮). | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origin and usage' 절. 베트남 사람 30~39%가 이 성(출처 추정치)"
  },
  {
   "key": "hill",
@@ -931,12 +1031,17 @@
   "ja_src": "ja.wikipedia 'デイモン・ヒル'(en 'Damon Hill' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%BB%E3%83%92%E3%83%AB",
   "zh": "希爾",
   "zh_src": "zh.wikipedia '戴蒙·希爾'(en 'Damon Hill' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E6%88%B4%E8%92%99%C2%B7%E5%B8%8C%E7%88%BE",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Scottish",
+  "meaning": {
+   "en": "a person who lived on a hill",
+   "ko": "언덕에 사는 사람",
+   "ja": "丘に住む人",
+   "zh": "住在山丘上的人"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Hill_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "flores",
@@ -952,12 +1057,17 @@
   "ja_src": "ja.wikipedia 'ロラ・フローレス'(en 'Lola Flores' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%A9%E3%83%BB%E3%83%95%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B9",
   "zh": "弗洛雷斯",
   "zh_src": "zh.wikipedia '弗洛雷斯'(en 'Flores (surname)' 성 문서의 언어 링크; zh-tw 변환 제목; 괄호 뺌) https://zh.wikipedia.org/zh-tw/%E5%BC%97%E6%B4%9B%E9%9B%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish, Italian, Portuguese",
+  "meaning": {
+   "en": "in Spain, originally a patronymic of the Visigothic given name Fruela or Froila",
+   "ko": "스페인에서는 본래 서고트 이름 Fruela·Froila에서 온 부칭",
+   "ja": "スペインでは本来、西ゴートの名 Fruela・Froila に由来する父称",
+   "zh": "在西班牙原為西哥德名字 Fruela 或 Froila 的父名"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Flores_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'History' 절. 스페인어 flores(꽃들)에서 왔다는 문장은 출처에 없음. 이탈리아계 유래 뜻은 출처에 없음"
  },
  {
   "key": "green",
@@ -978,7 +1088,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "zh 다른 문서 표기: 格蓮 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 'Eva Green' 문서의 '格蓮'은 여성 이름용 글자로 보여(추론) 'Al Green' 문서 표기를 택함."
+  "note": "zh 다른 문서 표기: 格蓮 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 'Eva Green' 문서의 '格蓮'은 여성 이름용 글자로 보여(추론) 'Al Green' 문서 표기를 택함. | 2026-11-28 보완: 뜻 못 찾음: en 'Green (surname)'에 어원 설명 없음(인물 목록뿐), Behind the Name 본 사이트에도 성 설명 없음(성 전용 사이트 막힘) (확인한 문서: https://en.wikipedia.org/wiki/Green_%28surname%29)"
  },
  {
   "key": "adams",
@@ -996,12 +1106,17 @@
   "ja_src": "ja.wikipedia 'ブライアン・アダムス'(en 'Bryan Adams' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%B9",
   "zh": "亞當斯",
   "zh_src": "zh.wikipedia '约翰·亚当斯' → zh-tw '約翰·亞當斯'(en 'John Adams' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%BA%A6%E7%BF%B0%C2%B7%E4%BA%9A%E5%BD%93%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Scottish",
+  "meaning": {
+   "en": "from the given name Adam",
+   "ko": "이름 애덤(Adam)에서 유래",
+   "ja": "名前アダム(Adam)に由来",
+   "zh": "源自名字亞當(Adam)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Adams_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: アダムズ / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "ja 다른 문서 표기: アダムズ / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "nelson",
@@ -1095,12 +1210,17 @@
   "ja_src": "ja.wikipedia 'ディエゴ・リベラ'(en 'Diego Rivera' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%83%BB%E3%83%AA%E3%83%99%E3%83%A9",
   "zh": "里韋拉",
   "zh_src": "zh.wikipedia '迭戈·里韋拉'(en 'Diego Rivera' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%BF%AD%E6%88%88%C2%B7%E9%87%8C%E9%9F%8B%E6%8B%89",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish, Portuguese, Galician, Italian",
+  "meaning": {
+   "en": "riverbank (old spelling of Spanish ribera)",
+   "ko": "강기슭(스페인어 ribera의 옛 철자)",
+   "ja": "川岸(スペイン語 ribera の古い綴り)",
+   "zh": "河岸(西班牙語 ribera 的舊拼法)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Rivera_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 李維拉 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "zh 다른 문서 표기: 李維拉 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "campbell",
@@ -1194,12 +1314,17 @@
   "ja_src": "ja.wikipedia 'ジュリア・ロバーツ'(en 'Julia Roberts' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%AD%E3%83%90%E3%83%BC%E3%83%84",
   "zh": "羅伯茨",
   "zh_src": "zh.wikipedia '茱莉婭·羅伯茨'(en 'Julia Roberts' 언어 링크, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%8C%B1%E8%8E%89%E5%A9%AD%C2%B7%E7%BE%85%E4%BC%AF%E8%8C%A8",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Welsh",
+  "meaning": {
+   "en": "son of Robert (Germanic 'bright renown')",
+   "ko": "로버트(Robert; 게르만어 '빛나는 명성')의 아들",
+   "ja": "ロバート(Robert;ゲルマン語「輝く名声」)の息子",
+   "zh": "羅伯特(Robert;日耳曼語「顯赫的名聲」)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Roberts_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 羅拔士 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Roberts(라트비아어 이름)이라 성 뜻으로 안 씀 / zh 선택: 성 문서 제목 '羅拔士'는 홍콩식으로 보여(추론) 'Julia Roberts' 문서 표기를 택함."
+  "note": "zh 다른 문서 표기: 羅拔士 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Roberts(라트비아어 이름)이라 성 뜻으로 안 씀 / zh 선택: 성 문서 제목 '羅拔士'는 홍콩식으로 보여(추론) 'Julia Roberts' 문서 표기를 택함. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "gomez",
@@ -1217,12 +1342,17 @@
   "ja_src": "ja.wikipedia 'セレーナ・ゴメス'(en 'Selena Gomez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AC%E3%83%BC%E3%83%8A%E3%83%BB%E3%82%B4%E3%83%A1%E3%82%B9",
   "zh": "戈麥斯",
   "zh_src": "zh.wikipedia '赛琳娜·戈麦斯' → zh-tw '賽琳娜·戈麥斯'(en 'Selena Gomez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%B5%9B%E7%90%B3%E5%A8%9C%C2%B7%E6%88%88%E9%BA%A6%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Germanic origin)",
+  "meaning": {
+   "en": "son of Gome (Visigothic guma 'man')",
+   "ko": "고메(Gome; 서고트어 guma '사람')의 아들",
+   "ja": "ゴメ(Gome;西ゴート語 guma「人」)の息子",
+   "zh": "Gome 之子(西哥德語 guma「人」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/G%C3%B3mez (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "phillips",
@@ -1238,12 +1368,17 @@
   "ja_src": "ja.wikipedia 'ルー・ダイアモンド・フィリップス'(en 'Lou Diamond Phillips' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%80%E3%82%A4%E3%82%A2%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%82%B9",
   "zh": "菲利普斯",
   "zh_src": "zh.wikipedia '盧·戴蒙德·菲利普斯'(en 'Lou Diamond Phillips' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%9B%A7%C2%B7%E6%88%B4%E8%92%99%E5%BE%B7%C2%B7%E8%8F%B2%E5%88%A9%E6%99%AE%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Welsh",
+  "meaning": {
+   "en": "from the given name Philip",
+   "ko": "이름 필립(Philip)에서 유래",
+   "ja": "名前フィリップ(Philip)に由来",
+   "zh": "源自名字菲利普(Philip)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Phillips_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "evans",
@@ -1316,12 +1451,17 @@
   "ja_src": "ja.wikipedia 'キャメロン・ディアス'(en 'Cameron Diaz' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9",
   "zh": "狄亞茲",
   "zh_src": "zh.wikipedia '卡麥蓉·狄亞茲'(en 'Cameron Diaz' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E9%BA%A5%E8%93%89%C2%B7%E7%8B%84%E4%BA%9E%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "multiple meanings; historically often a patronymic of Diego",
+   "ko": "여러 뜻이 있음; 역사적으로 디에고(Diego)의 부칭인 예가 많음",
+   "ja": "複数の意味あり;歴史的にはディエゴ(Diego)の父称の例が多い",
+   "zh": "有多種含義;歷史上常為迭戈(Diego)的父名"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/D%C3%ADaz (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 다이애즈 1건 / zh 다른 문서 표기: 迪亞斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 다이애즈 1건 / zh 다른 문서 표기: 迪亞斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Usage' 절"
  },
  {
   "key": "parker",
@@ -1365,12 +1505,17 @@
   "ja_src": "ja.wikipedia 'ペネロペ・クルス'(en 'Penélope Cruz' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%8D%E3%83%AD%E3%83%9A%E3%83%BB%E3%82%AF%E3%83%AB%E3%82%B9",
   "zh": "克魯茲",
   "zh_src": "zh.wikipedia '佩内洛普·克鲁兹' → zh-tw '佩內洛普·克魯茲'(en 'Penélope Cruz' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BD%A9%E5%86%85%E6%B4%9B%E6%99%AE%C2%B7%E5%85%8B%E9%B2%81%E5%85%B9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish, Portuguese (Iberian)",
+  "meaning": {
+   "en": "cross",
+   "ko": "십자가",
+   "ja": "十字架",
+   "zh": "十字架"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Cruz (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 크루즈 1건 / ja 다른 문서 표기: クルーズ / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Cruz(이름: 스페인어·포르투갈어 '십자가')이라 성 뜻으로 안 씀"
+  "note": "용례 다른 표기: 크루즈 1건 / ja 다른 문서 표기: クルーズ / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Cruz(이름: 스페인어·포르투갈어 '십자가')이라 성 뜻으로 안 씀 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "edwards",
@@ -1386,12 +1531,17 @@
   "ja_src": "ja.wikipedia 'ブレイク・エドワーズ'(en 'Blake Edwards' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA",
   "zh": "愛德華茲",
   "zh_src": "zh.wikipedia '約翰·愛德華茲'(en 'John Edwards' 언어 링크, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%B4%84%E7%BF%B0%C2%B7%E6%84%9B%E5%BE%B7%E8%8F%AF%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "son of Edward",
+   "ko": "에드워드(Edward)의 아들",
+   "ja": "エドワード(Edward)の息子",
+   "zh": "愛德華(Edward)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Edwards_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 愛德華 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 'Blake Edwards' 문서 '愛德華'에는 -s 글자가 없어 'John Edwards' 문서 표기를 택함."
+  "note": "zh 다른 문서 표기: 愛德華 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 'Blake Edwards' 문서 '愛德華'에는 -s 글자가 없어 'John Edwards' 문서 표기를 택함. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "collins",
@@ -1407,12 +1557,17 @@
   "ja_src": "ja.wikipedia 'フィル・コリンズ'(en 'Phil Collins' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA",
   "zh": "柯林斯",
   "zh_src": "zh.wikipedia '菲爾·柯林斯'(en 'Phil Collins' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%8F%B2%E7%88%BE%C2%B7%E6%9F%AF%E6%9E%97%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Irish, Welsh, French (several)",
+  "meaning": {
+   "en": "several theories: from Coll or Colin (diminutive of Nicholas); Irish cuilein 'darling'; Welsh collen 'hazel grove'; French colline 'hill'",
+   "ko": "여러 설: Coll·Colin(니콜라스의 애칭)에서, 아일랜드어 cuilein '사랑하는 이', 웨일스어 collen '개암나무 숲', 프랑스어 colline '언덕'",
+   "ja": "諸説:Coll・Colin(ニコラスの愛称)から、アイルランド語 cuilein「愛しい人」、ウェールズ語 collen「ハシバミの林」、フランス語 colline「丘」",
+   "zh": "多種說法:源自 Coll 或 Colin(尼古拉斯的暱稱)、愛爾蘭語 cuilein「親愛的」、威爾斯語 collen「榛樹林」、法語 colline「山丘」"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Collins_%28surname%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Collins(성에서 왔다고만 하고 뜻 없음)이라 성 뜻으로 안 씀"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Collins(성에서 왔다고만 하고 뜻 없음)이라 성 뜻으로 안 씀 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / Behind the Name 본 사이트 'Collins'는 이름 설명(성 Collins 1·2로 연결, 성 전용 사이트는 막힘)"
  },
  {
   "key": "reyes",
@@ -1428,12 +1583,17 @@
   "ja_src": "ja.wikipedia 'ホセ・アントニオ・レジェス'(en 'José Antonio Reyes' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%AC%E3%82%B8%E3%82%A7%E3%82%B9",
   "zh": "雷耶斯",
   "zh_src": "zh.wikipedia '何塞·安东尼奥·雷耶斯' → zh-tw '何塞·安東尼奧·雷耶斯'(en 'José Antonio Reyes' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BD%95%E5%A1%9E%C2%B7%E5%AE%89%E4%B8%9C%E5%B0%BC%E5%A5%A5%C2%B7%E9%9B%B7%E8%80%B6%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "kings",
+   "ko": "왕들",
+   "ja": "王たち",
+   "zh": "諸王"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Reyes_%28name%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Reyes(이름: 스페인어 '왕들', 성모 칭호)이라 성 뜻으로 안 씀"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Reyes(이름: 스페인어 '왕들', 성모 칭호)이라 성 뜻으로 안 씀 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Reyes (surname)'는 'Reyes (name)'으로 넘어감"
  },
  {
   "key": "stewart",
@@ -1475,12 +1635,17 @@
   "ja_src": "ja.wikipedia 'デズモンド・モリス'(en 'Desmond Morris' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%BA%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A2%E3%83%AA%E3%82%B9",
   "zh": "莫里斯",
   "zh_src": "zh.wikipedia '莫里斯 (人名)'(en 'Morris (surname)' 성 문서의 언어 링크; zh-tw 변환 제목; 괄호 뺌) https://zh.wikipedia.org/zh-tw/%E8%8E%AB%E9%87%8C%E6%96%AF_%28%E4%BA%BA%E5%90%8D%29",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Irish, Scottish, Welsh",
+  "meaning": {
+   "en": "mainly from the personal name Maurice (Latin Mauritius 'Moorish, dark, swarthy'); in Ireland also Norman de Marisco 'of the marsh'",
+   "ko": "주로 이름 모리스(Maurice; 라틴어 Mauritius '무어인의, 거무스름한')에서; 아일랜드에서는 노르만계 de Marisco '늪의'에서도",
+   "ja": "主に名前モーリス(Maurice;ラテン語 Mauritius「ムーア人の、浅黒い」)から;アイルランドではノルマン系 de Marisco「沼地の」からも",
+   "zh": "主要源自名字莫里斯(Maurice;拉丁語 Mauritius「摩爾人的、黝黑的」);在愛爾蘭也源自諾曼語 de Marisco「沼澤的」"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Morris_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 莫利斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Morris(Maurice의 중세형)이라 성 뜻으로 안 씀"
+  "note": "zh 다른 문서 표기: 莫利斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Morris(Maurice의 중세형)이라 성 뜻으로 안 씀 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origins' 절"
  },
  {
   "key": "morales",
@@ -1496,12 +1661,12 @@
   "ja_src": "ja.wikipedia 'エボ・モラレス'(en 'Evo Morales' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9C%E3%83%BB%E3%83%A2%E3%83%A9%E3%83%AC%E3%82%B9",
   "zh": "莫拉萊斯",
   "zh_src": "zh.wikipedia '埃沃·莫拉莱斯' → zh-tw '埃沃·莫拉萊斯'(en 'Evo Morales' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%9F%83%E6%B2%83%C2%B7%E8%8E%AB%E6%8B%89%E8%8E%B1%E6%96%AF",
-  "origin": null,
+  "origin": "Spanish",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404)"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) | 2026-11-28 보완: 뜻 못 찾음: en 'Morales'는 '스페인 성'이라고만 하고 어원 없음(인물 목록뿐), Behind the Name 본 사이트 404 (확인한 문서: https://en.wikipedia.org/wiki/Morales)"
  },
  {
   "key": "murphy",
@@ -1543,12 +1708,17 @@
   "ja_src": "ja.wikipedia 'ジェームズ・クック'(en 'James Cook' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%AF%E3%83%83%E3%82%AF",
   "zh": "庫克",
   "zh_src": "zh.wikipedia '詹姆斯·庫克'(en 'James Cook' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%A9%B9%E5%A7%86%E6%96%AF%C2%B7%E5%BA%AB%E5%85%8B",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "occupational name: cook",
+   "ko": "직업 이름: 요리사",
+   "ja": "職業名:料理人",
+   "zh": "職業姓氏:廚師"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Cook_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 출처 문장은 'occupational surname of English origin'까지. 직업이 요리사(cook)라는 것은 낱말 그대로"
  },
  {
   "key": "rogers",
@@ -1564,12 +1734,17 @@
   "ja_src": "ja.wikipedia 'ケニー・ロジャース (カントリー歌手)'(en 'Kenny Rogers' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B9_%28%E3%82%AB%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E6%AD%8C%E6%89%8B%29",
   "zh": "羅傑斯",
   "zh_src": "zh.wikipedia '肯尼·罗杰斯' → zh-tw '肯尼·羅傑斯'(en 'Kenny Rogers' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%82%AF%E5%B0%BC%C2%B7%E7%BD%97%E6%9D%B0%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "son of Roger (from Old English Hrothgar 'fame spear', per most genealogists)",
+   "ko": "로저(Roger)의 아들(로저는 고대 영어 Hrothgar '명성+창'에서 왔다고 대부분의 계보학자가 봄)",
+   "ja": "ロジャー(Roger)の息子(ロジャーは古英語 Hrothgar「名声＋槍」に由来するとの見方が多い)",
+   "zh": "羅傑(Roger)之子(多數系譜學家認為 Roger 源自古英語 Hrothgar「名聲＋矛」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Rogers_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "gutierrez",
@@ -1587,12 +1762,17 @@
   "ja_src": "ja.wikipedia 'グティエレス'(en 'Gutiérrez' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%86%E3%82%A3%E3%82%A8%E3%83%AC%E3%82%B9",
   "zh": "古鐵雷斯",
   "zh_src": "zh.wikipedia '古斯塔沃·古鐵雷斯'(en 'Gustavo Gutiérrez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8F%A4%E6%96%AF%E5%A1%94%E6%B2%83%C2%B7%E5%8F%A4%E9%90%B5%E9%9B%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Germanic origin)",
+  "meaning": {
+   "en": "son of Gutier/Gutierre (archaic Spanish form of Walter)",
+   "ko": "Gutier·Gutierre(월터(Walter)의 옛 스페인식)의 아들",
+   "ja": "Gutier/Gutierre(ウォルター(Walter)の古いスペイン語形)の息子",
+   "zh": "Gutier/Gutierre(沃爾特 Walter 的古西班牙語形式)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Guti%C3%A9rrez (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 구티에레즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404)"
+  "note": "용례 다른 표기: 구티에레즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "ortiz",
@@ -1610,12 +1790,17 @@
   "ja_src": "ja.wikipedia 'デビッド・オルティーズ'(en 'David Ortiz' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%82%AA%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA",
   "zh": "歐提茲",
   "zh_src": "zh.wikipedia '大衛·歐提茲'(en 'David Ortiz' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%A4%A7%E8%A1%9B%C2%B7%E6%AD%90%E6%8F%90%E8%8C%B2",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "son of Orti (meaning of Orti disputed: Basque, Latin fortis 'brave, strong', or Latin fortunius 'fortunate')",
+   "ko": "Orti의 아들(Orti의 뜻은 논란: 바스크어, 라틴어 fortis '용감한·강한', 또는 fortunius '운 좋은')",
+   "ja": "Orti の息子(Orti の意味は諸説:バスク語、ラテン語 fortis「勇敢・強い」、または fortunius「幸運な」)",
+   "zh": "Orti 之子(Orti 含義有爭議:巴斯克語、拉丁語 fortis「勇敢、強壯」或 fortunius「幸運的」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Ortiz (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "용례 다른 표기: 오티즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 오티즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "morgan",
@@ -1631,12 +1816,17 @@
   "ja_src": "ja.wikipedia 'ジョン・モルガン'(en 'J. P. Morgan' 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%B3",
   "zh": "摩根",
   "zh_src": "zh.wikipedia '约翰·皮尔庞特·摩根' → zh-tw '約翰·皮爾龐特·摩根'(en 'J. P. Morgan' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%BA%A6%E7%BF%B0%C2%B7%E7%9A%AE%E5%B0%94%E5%BA%9E%E7%89%B9%C2%B7%E6%91%A9%E6%A0%B9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Welsh, Irish, Scottish",
+  "meaning": {
+   "en": "Welsh: from the Old Welsh personal name Morcant (origin uncertain); Irish: anglicized Ó Muireagáin 'descendant of Muireagán'",
+   "ko": "웨일스계: 옛 웨일스어 이름 Morcant에서(그 뜻은 불확실); 아일랜드계: Ó Muireagáin 'Muireagán의 후손'의 영어식",
+   "ja": "ウェールズ系:古ウェールズ語の名 Morcant から(語源不明);アイルランド系:Ó Muireagáin「Muireagán の子孫」の英語化",
+   "zh": "威爾斯系:源自古威爾斯語人名 Morcant(來源不明);愛爾蘭系:Ó Muireagáin「Muireagán 的後裔」的英語化"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Morgan_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / ja는 J. P. Morgan 문서 제목 'ジョン・モルガン'의 성 부분."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / ja는 J. P. Morgan 문서 제목 'ジョン・モルガン'의 성 부분. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origins and variants' 절"
  },
  {
   "key": "cooper",
@@ -1678,12 +1868,17 @@
   "ja_src": "ja.wikipedia 'オスカー・ピーターソン'(en 'Oscar Peterson' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3",
   "zh": "彼得森",
   "zh_src": "zh.wikipedia '奥斯卡·彼得森' → zh-tw '奧斯卡·彼得森'(en 'Oscar Peterson' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%A5%A5%E6%96%AF%E5%8D%A1%C2%B7%E5%BD%BC%E5%BE%97%E6%A3%AE",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Scandinavian, English",
+  "meaning": {
+   "en": "son of Peter (Greek petros 'rock, stone')",
+   "ko": "피터(Peter)의 아들(그리스어 petros '바위·돌')",
+   "ja": "ピーター(Peter)の息子(ギリシャ語 petros「岩・石」)",
+   "zh": "彼得(Peter)之子(希臘語 petros「岩石」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Peterson_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "bailey",
@@ -1803,12 +1998,17 @@
   "ja_src": "ja.wikipedia 'ラモス'(en 'Ramos' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A2%E3%82%B9",
   "zh": "拉莫斯",
   "zh_src": "zh.wikipedia '拉莫斯'(en 'Ramos' 성 문서의 언어 링크; zh-tw 변환 제목; 괄호 뺌) https://zh.wikipedia.org/zh-tw/%E6%8B%89%E8%8E%AB%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish, Portuguese",
+  "meaning": {
+   "en": "bouquets, branches",
+   "ko": "꽃다발, 나뭇가지",
+   "ja": "花束、枝",
+   "zh": "花束、樹枝"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Ramos (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "kim",
@@ -1824,12 +2024,17 @@
   "ja_src": "ja.wikipedia '金 (朝鮮人の姓)'(en 'Kim (Korean surname)' 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E9%87%91_%28%E6%9C%9D%E9%AE%AE%E4%BA%BA%E3%81%AE%E5%A7%93%29",
   "zh": "金",
   "zh_src": "zh.wikipedia '金姓 (朝鮮)'(en 'Kim (Korean surname)' 언어 링크; '姓'·괄호 뺌) https://zh.wikipedia.org/zh-tw/%E9%87%91%E5%A7%93_%28%E6%9C%9D%E9%AE%AE%29",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Korean",
+  "meaning": {
+   "en": "Korean surname 김 (金); the hanja 金 can also be read 금 (geum), meaning 'gold, metal, iron'",
+   "ko": "한국 성 김(金). 한자 金은 '금'으로도 읽히며 '금·쇠·철'이라는 뜻",
+   "ja": "韓国の姓・金(キム)。漢字「金」は「金・金属・鉄」の意",
+   "zh": "韓國姓氏金(김)。漢字「金」意為「金、金屬、鐵」"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Kim_%28Korean_surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 한국 성 김(金). zh '金'은 King의 zh 표기와 같은 글자. 국립국어원 외래어 용례에는 성 Kim 용례가 없음(검색 46건은 Kimberly·Kimmich 등). ko_std '김'은 ko.wikipedia '김 (성씨)'(en 'Kim (Korean surname)' 언어 링크) 근거이며 국립국어원 용례가 아님."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 한국 성 김(金). zh '金'은 King의 zh 표기와 같은 글자. 국립국어원 외래어 용례에는 성 Kim 용례가 없음(검색 46건은 Kimberly·Kimmich 등). ko_std '김'은 ko.wikipedia '김 (성씨)'(en 'Kim (Korean surname)' 언어 링크) 근거이며 국립국어원 용례가 아님. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Kim (surname)'은 '여러 유래'(한국 성 + 예명)라고만 함 → 뜻은 en 'Kim (Korean surname)' 첫머리에서 뗌. 한국 성으로는 2015년 인구조사 기준 한국 인구 21.5%"
  },
  {
   "key": "cox",
@@ -1845,12 +2050,17 @@
   "ja_src": "ja.wikipedia 'コートニー・コックス'(en 'Courteney Cox' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%88%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9",
   "zh": "考克斯",
   "zh_src": "zh.wikipedia '柯特妮·考克斯'(en 'Courteney Cox' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E6%9F%AF%E7%89%B9%E5%A6%AE%C2%B7%E8%80%83%E5%85%8B%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Welsh (also anglicized Scottish/Irish names)",
+  "meaning": {
+   "en": "several theories: Old English cocc 'little' (term of endearment); cock 'heap, mound'; Welsh coch 'red'; a nickname from 'cock'; others",
+   "ko": "여러 설: 고대 영어 cocc '작은'(애칭), cock '더미·둔덕', 웨일스어 coch '붉은', 수탉(cock)에서 온 별명 등",
+   "ja": "諸説:古英語 cocc「小さい」(愛称)、cock「山・塚」、ウェールズ語 coch「赤い」、雄鶏(cock)に由来するあだ名など",
+   "zh": "多種說法:古英語 cocc「小的」(暱稱)、cock「土堆」、威爾斯語 coch「紅色」、源自公雞(cock)的綽號等"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Cox_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origin' 절"
  },
  {
   "key": "ward",
@@ -1866,12 +2076,17 @@
   "ja_src": "ja.wikipedia 'ハインズ・ウォード'(en 'Hines Ward' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%89",
   "zh": "沃德",
   "zh_src": "zh.wikipedia '赫因斯·沃德'(en 'Hines Ward' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%B5%AB%E5%9B%A0%E6%96%AF%C2%B7%E6%B2%83%E5%BE%B7",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, Irish",
+  "meaning": {
+   "en": "Old English: guard or keeper of the watch (or topographic, from werd 'marsh'); Irish: Mac an Bháird 'son of the bard'",
+   "ko": "고대 영어계: 경비·파수꾼(또는 werd '늪'에서 온 지형 이름); 아일랜드계: Mac an Bháird '음유시인의 아들'",
+   "ja": "古英語系:見張り・番人(または werd「沼地」に由来する地形名);アイルランド系:Mac an Bháird「吟遊詩人の息子」",
+   "zh": "古英語系:守衛、看守(或源自 werd「沼澤」的地形姓);愛爾蘭系:Mac an Bháird「吟遊詩人之子」"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Ward_%28surname%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "richardson",
@@ -1887,12 +2102,17 @@
   "ja_src": "ja.wikipedia 'サミュエル・リチャードソン'(en 'Samuel Richardson' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9F%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%82%BD%E3%83%B3",
   "zh": "理查森",
   "zh_src": "zh.wikipedia '塞繆爾·理查森'(en 'Samuel Richardson' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%A1%9E%E7%B9%86%E7%88%BE%C2%B7%E7%90%86%E6%9F%A5%E6%A3%AE",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "son of Richard (Germanic ric 'power' + hard 'brave, hardy')",
+   "ko": "리처드(Richard)의 아들(게르만어 ric '힘' + hard '용감한')",
+   "ja": "リチャード(Richard)の息子(ゲルマン語 ric「力」＋hard「勇敢な」)",
+   "zh": "理查(Richard)之子(日耳曼語 ric「權力」＋hard「勇敢」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Richardson_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "watson",
@@ -1962,12 +2182,12 @@
   "ja_src": "ja.wikipedia 'ウゴ・チャベス'(en 'Hugo Chávez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B4%E3%83%BB%E3%83%81%E3%83%A3%E3%83%99%E3%82%B9",
   "zh": "查維茲",
   "zh_src": "zh.wikipedia '烏戈·查維茲'(en 'Hugo Chávez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E7%83%8F%E6%88%88%C2%B7%E6%9F%A5%E7%B6%AD%E8%8C%B2",
-  "origin": null,
+  "origin": "Spanish (derived from Latin Flaviae)",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "용례 다른 표기: 차베즈 1건 / zh 다른 문서 표기: 查韋斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404)"
+  "note": "용례 다른 표기: 차베즈 1건 / zh 다른 문서 표기: 查韋斯 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) | 2026-11-28 보완: 뜻 못 찾음: en 'Chávez (surname)'는 '라틴어 Flaviae에서 나온 스페인어 성'이라고만 하고 뜻은 없음. Behind the Name 본 사이트 404 (확인한 문서: https://en.wikipedia.org/wiki/Ch%C3%A1vez_%28surname%29)"
  },
  {
   "key": "wood",
@@ -1983,12 +2203,17 @@
   "ja_src": "ja.wikipedia 'イライジャ・ウッド'(en 'Elijah Wood' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%BB%E3%82%A6%E3%83%83%E3%83%89",
   "zh": "伍德",
   "zh_src": "zh.wikipedia '伊莱贾·伍德' → zh-tw '伊萊賈·伍德'(en 'Elijah Wood' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BC%8A%E8%8E%B1%E8%B4%BE%C2%B7%E4%BC%8D%E5%BE%B7",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "one who lived or worked in a wood (Old English wudu); less commonly a nickname from Old English wōd 'frenzied, wild'",
+   "ko": "숲에 살거나 숲에서 일하던 사람(고대 영어 wudu); 드물게 고대 영어 wōd '미친·사나운'에서 온 별명",
+   "ja": "森に住む・森で働く人(古英語 wudu);まれに古英語 wōd「狂った・荒々しい」に由来するあだ名",
+   "zh": "住在或工作於樹林的人(古英語 wudu);少數源自古英語 wōd「狂暴、野性」的綽號"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Wood_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Etymology' 절: 지형 이름 쪽이 대부분이고 별명 쪽은 훨씬 드묾"
  },
  {
   "key": "james",
@@ -2004,12 +2229,17 @@
   "ja_src": "ja.wikipedia 'レブロン・ジェームズ'(en 'LeBron James' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%96%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA",
   "zh": "詹姆斯",
   "zh_src": "zh.wikipedia '勒布朗·詹姆斯'(en 'LeBron James' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8B%92%E5%B8%83%E6%9C%97%C2%B7%E8%A9%B9%E5%A7%86%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English, French",
+  "meaning": {
+   "en": "from the given name James (Late Latin Jacomus, from Hebrew Yaʿaqōḇ / Jacob)",
+   "ko": "이름 제임스(James; 후기 라틴어 Jacomus, 히브리어 야코브(Jacob)에서)에서 유래",
+   "ja": "名前ジェームズ(James;後期ラテン語 Jacomus、ヘブライ語ヤコブ(Jacob)から)に由来",
+   "zh": "源自名字詹姆斯(James;後期拉丁語 Jacomus,源於希伯來語雅各 Jacob)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/James_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: ジェイムズ / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 James(이름)이라 성 뜻으로 안 씀"
+  "note": "ja 다른 문서 표기: ジェイムズ / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 James(이름)이라 성 뜻으로 안 씀 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "bennett",
@@ -2079,12 +2309,17 @@
   "ja_src": "ja.wikipedia 'アントニオ・デ・メンドーサ'(en 'Antonio de Mendoza' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%89%E3%83%BC%E3%82%B5",
   "zh": "門多薩",
   "zh_src": "zh.wikipedia '佩卓·門多薩'(en 'Pedro de Mendoza' 언어 링크; 'de'는 zh 제목에 없음, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BD%A9%E5%8D%93%C2%B7%E9%96%80%E5%A4%9A%E8%96%A9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Basque",
+  "meaning": {
+   "en": "cold mountain (Basque mendi 'mountain' + hotz 'cold')",
+   "ko": "차가운 산(바스크어 mendi '산' + hotz '차가운')",
+   "ja": "冷たい山(バスク語 mendi「山」＋hotz「冷たい」)",
+   "zh": "寒冷的山(巴斯克語 mendi「山」＋hotz「冷」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Mendoza_%28name%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Mendoza (surname)'는 'Mendoza (name)'으로 넘어감"
  },
  {
   "key": "ruiz",
@@ -2100,12 +2335,17 @@
   "ja_src": "ja.wikipedia 'ジョン・ルイス (ボクサー)'(en 'John Ruiz' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9_%28%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC%29",
   "zh": "魯伊斯",
   "zh_src": "zh.wikipedia '法比安·魯伊斯'(en 'Fabián Ruiz' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E6%B3%95%E6%AF%94%E5%AE%89%C2%B7%E9%AD%AF%E4%BC%8A%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish, Portuguese",
+  "meaning": {
+   "en": "son of Ruy (short form of Rodrigo; 'son of Roderick', Germanic Hrodric 'famous ruler')",
+   "ko": "루이(Ruy, 로드리고의 줄임)의 아들('로더릭의 아들'; 게르만어 Hrodric '이름난 통치자')",
+   "ja": "ルイ(Ruy、ロドリゴの短縮形)の息子(「ロデリックの息子」;ゲルマン語 Hrodric「名高い支配者」)",
+   "zh": "Ruy(羅德里戈的簡稱)之子(「羅德里克之子」;日耳曼語 Hrodric「著名的統治者」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Ruiz (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) / 한글 '루이스'·일본어 'ルイス'가 Lewis와 같음(용례 1건)."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) / 한글 '루이스'·일본어 'ルイス'가 Lewis와 같음(용례 1건). | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "hughes",
@@ -2123,12 +2363,17 @@
   "ja_src": "ja.wikipedia 'ハワード・ヒューズ'(en 'Howard Hughes' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%82%BA",
   "zh": "休斯",
   "zh_src": "zh.wikipedia '霍华德·休斯' → zh-tw '霍華德·休斯'(en 'Howard Hughes' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E9%9C%8D%E5%8D%8E%E5%BE%B7%C2%B7%E4%BC%91%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Welsh, Irish (English-language spelling)",
+  "meaning": {
+   "en": "Welsh: from the personal name Hu/Huw 'fire, inspiration'; Irish: from Ó hAodha 'descendant of Aodh' (Aodh 'fire'); may also come from Germanic Hugo",
+   "ko": "웨일스계: 이름 Hu·Huw '불·영감'에서; 아일랜드계: Ó hAodha 'Aodh(불)의 후손'에서; 게르만 이름 Hugo에서 왔을 수도",
+   "ja": "ウェールズ系:名前 Hu・Huw「火・霊感」から;アイルランド系:Ó hAodha「Aodh(火)の子孫」から;ゲルマン名 Hugo からの場合も",
+   "zh": "威爾斯系:源自人名 Hu/Huw「火、靈感」;愛爾蘭系:源自 Ó hAodha「Aodh(火)的後裔」;也可能源自日耳曼名 Hugo"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Hughes_%28surname%29 (첫머리 + 본문 해당 절)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Origins' 절"
  },
  {
   "key": "price",
@@ -2172,12 +2417,17 @@
   "ja_src": "ja.wikipedia 'サウル・アルバレス'(en 'Canelo Álvarez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%AC%E3%82%B9",
   "zh": "阿爾瓦雷斯",
   "zh_src": "zh.wikipedia '卡内洛·阿尔瓦雷斯' → zh-tw '卡內洛·阿爾瓦雷斯'(en 'Canelo Álvarez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8D%A1%E5%86%85%E6%B4%9B%C2%B7%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Germanic origin)",
+  "meaning": {
+   "en": "son of Álvaro",
+   "ko": "알바로(Álvaro)의 아들",
+   "ja": "アルバロ(Álvaro)の息子",
+   "zh": "阿爾瓦羅(Álvaro)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/%C3%81lvarez_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 앨버레즈 2건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "용례 다른 표기: 앨버레즈 2건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "castillo",
@@ -2193,12 +2443,17 @@
   "ja_src": "ja.wikipedia 'ペドロ・カスティジョ'(en 'Pedro Castillo' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%89%E3%83%AD%E3%83%BB%E3%82%AB%E3%82%B9%E3%83%86%E3%82%A3%E3%82%B8%E3%83%A7",
   "zh": "卡斯蒂略",
   "zh_src": "zh.wikipedia '佩德罗·卡斯蒂略' → zh-tw '佩德羅·卡斯蒂略'(en 'Pedro Castillo' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BD%A9%E5%BE%B7%E7%BD%97%C2%B7%E5%8D%A1%E6%96%AF%E8%92%82%E7%95%A5",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish",
+  "meaning": {
+   "en": "castle",
+   "ko": "성(城)",
+   "ja": "城",
+   "zh": "城堡"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Castillo_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "sanders",
@@ -2214,12 +2469,17 @@
   "ja_src": "ja.wikipedia 'バーニー・サンダース'(en 'Bernie Sanders' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9",
   "zh": "桑德斯",
   "zh_src": "zh.wikipedia '伯尼·桑德斯'(en 'Bernie Sanders' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E4%BC%AF%E5%B0%BC%C2%B7%E6%A1%91%E5%BE%B7%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "patronymic (from Alexander)",
+  "meaning": {
+   "en": "son of Alexander (Greek Aléxandros 'defender of the people')",
+   "ko": "알렉산더(Alexander)의 아들(그리스어 Aléxandros '사람들을 지키는 자')",
+   "ja": "アレクサンダー(Alexander)の息子(ギリシャ語 Aléxandros「人々を守る者」)",
+   "zh": "亞歷山大(Alexander)之子(希臘語 Aléxandros「人民的保衛者」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Sanders_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 출처: 변형 중 일부는 다른 유래(Zandt·Senden 같은 지명)일 수 있음"
  },
  {
   "key": "patel",
@@ -2235,12 +2495,17 @@
   "ja_src": "ja.wikipedia 'パテル'(en 'Patel' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%86%E3%83%AB",
   "zh": "帕特爾",
   "zh_src": "zh.wikipedia '戴夫·帕特尔' → zh-tw '戴夫·帕特爾'(en 'Dev Patel' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E6%88%B4%E5%A4%AB%C2%B7%E5%B8%95%E7%89%B9%E5%B0%94",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Indian (Gujarati)",
+  "meaning": {
+   "en": "village headman (Gujarati paṭel, from Prakrit paṭṭaïlla, from Sanskrit paṭṭakila 'tenant of royal land')",
+   "ko": "마을 우두머리(구자라트어 paṭel; 프라크리트어 paṭṭaïlla, 산스크리트어 paṭṭakila '왕실 땅의 소작인'에서)",
+   "ja": "村長(グジャラート語 paṭel;プラークリット語 paṭṭaïlla、サンスクリット語 paṭṭakila「王領の借地人」に由来)",
+   "zh": "村長(古吉拉特語 paṭel;源自俗語 paṭṭaïlla、梵語 paṭṭakila「王室土地的佃戶」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Patel (첫머리 + 본문 해당 절)",
+  "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: パテール / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 인도(구자라트) 성."
+  "note": "ja 다른 문서 표기: パテール / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 인도(구자라트) 성. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 'Etymology' 절. 인도 구자라트주의 성·칭호"
  },
  {
   "key": "myers",
@@ -2256,12 +2521,12 @@
   "ja_src": "ja.wikipedia 'マイク・マイヤーズ'(en 'Mike Myers' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%BA",
   "zh": "邁爾斯",
   "zh_src": "zh.wikipedia '麥克·邁爾斯'(en 'Mike Myers' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E9%BA%A5%E5%85%8B%C2%B7%E9%82%81%E7%88%BE%E6%96%AF",
-  "origin": null,
+  "origin": "various (German, Ashkenazi Jewish, etc.)",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: 뜻 못 찾음: en 'Myers'는 '여러 유래(독일인, 아슈케나지 유대인 등)'라고만 하고 뜻 없음. Behind the Name 본 사이트에 성 설명 없음 (확인한 문서: https://en.wikipedia.org/wiki/Myers)"
  },
  {
   "key": "long",
@@ -2277,12 +2542,12 @@
   "ja_src": "ja.wikipedia 'ヒューイ・ロング'(en 'Huey Long' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%A5%E3%83%BC%E3%82%A4%E3%83%BB%E3%83%AD%E3%83%B3%E3%82%B0",
   "zh": "朗",
   "zh_src": "zh.wikipedia '克劳福德·朗' → zh-tw '克勞福德·朗'(en 'Crawford Long' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%85%8B%E5%8A%B3%E7%A6%8F%E5%BE%B7%C2%B7%E6%9C%97",
-  "origin": null,
+  "origin": "various (English, Scottish, Norman, Irish, Swedish)",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Long(중국·베트남 이름)이라 성 뜻으로 안 씀 / Behind the Name 본 사이트 'Long'은 중국·베트남 이름(龍/隆) 설명이라 영어권 성 뜻으로 쓰지 않음."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Long(중국·베트남 이름)이라 성 뜻으로 안 씀 / Behind the Name 본 사이트 'Long'은 중국·베트남 이름(龍/隆) 설명이라 영어권 성 뜻으로 쓰지 않음. | 2026-11-28 보완: 뜻 못 찾음: en 'Long (Western surname)'은 유래 집단(노르만 de Long·le Lung, 아일랜드 O'Longain, 스웨덴 Långbäck 영어화)만 적고 뜻은 없음. ('Long (surname)'·'Long'은 동음이의 문서.) Behind the Name 본 사이트 'Long'은 중국 이름(龍 '용' 등) 설명이라 영어 성과 다름 (확인한 문서: https://en.wikipedia.org/wiki/Long_%28Western_surname%29)"
  },
  {
   "key": "ross",
@@ -2324,12 +2589,17 @@
   "ja_src": "ja.wikipedia 'ジョディ・フォスター'(en 'Jodie Foster' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%87%E3%82%A3%E3%83%BB%E3%83%95%E3%82%A9%E3%82%B9%E3%82%BF%E3%83%BC",
   "zh": "福斯特",
   "zh_src": "zh.wikipedia '史蒂芬·福斯特'(en 'Stephen Foster' 언어 링크, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8F%B2%E8%92%82%E8%8A%AC%C2%B7%E7%A6%8F%E6%96%AF%E7%89%B9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "variant of Forster, 'one who works in the forest'; or from French forcetier 'maker of scissors'",
+   "ko": "Forster의 변형으로 '숲에서 일하는 사람'; 또는 프랑스어 forcetier '가위 만드는 사람'에서",
+   "ja": "Forster の異形で「森で働く人」;またはフランス語 forcetier「はさみ職人」から",
+   "zh": "Forster 的變體,意為「在森林工作的人」;或源自法語 forcetier「剪刀匠」"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Foster_%28surname%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 科士打 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 'Jodie Foster' 문서의 '科士打'는 홍콩식 음역으로 보여(추론) 'Stephen Foster' 문서 표기를 택함."
+  "note": "zh 다른 문서 표기: 科士打 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh 선택: 'Jodie Foster' 문서의 '科士打'는 홍콩식 음역으로 보여(추론) 'Stephen Foster' 문서 표기를 택함. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "jimenez",
@@ -2347,12 +2617,17 @@
   "ja_src": "ja.wikipedia 'フアン・ラモン・ヒメネス'(en 'Juan Ramón Jiménez' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%A2%E3%83%B3%E3%83%BB%E3%83%92%E3%83%A1%E3%83%8D%E3%82%B9",
   "zh": "希梅內斯",
   "zh_src": "zh.wikipedia '胡安·拉蒙·希梅内斯' → zh-tw '胡安·拉蒙·希梅內斯'(en 'Juan Ramón Jiménez' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%83%A1%E5%AE%89%C2%B7%E6%8B%89%E8%92%99%C2%B7%E5%B8%8C%E6%A2%85%E5%86%85%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Spanish (Iberian, first in Basque lands)",
+  "meaning": {
+   "en": "son of Jimeno (root possibly Basque semen 'son')",
+   "ko": "히메노(Jimeno)의 아들(어근은 바스크어 semen '아들'일 가능성)",
+   "ja": "ヒメノ(Jimeno)の息子(語根はバスク語 semen「息子」の可能性)",
+   "zh": "希梅諾(Jimeno)之子(詞根可能為巴斯克語 semen「兒子」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Jim%C3%A9nez_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "용례 다른 표기: 지메네즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404)"
+  "note": "용례 다른 표기: 지메네즈 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "matthews",
@@ -2370,12 +2645,17 @@
   "ja_src": "ja.wikipedia 'スタンリー・マシューズ'(en 'Stanley Matthews' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BA",
   "zh": "馬修斯",
   "zh_src": "zh.wikipedia '斯坦利·马修斯' → zh-tw '斯坦利·馬修斯'(en 'Stanley Matthews' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E6%96%AF%E5%9D%A6%E5%88%A9%C2%B7%E9%A9%AC%E4%BF%AE%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English",
+  "meaning": {
+   "en": "from the given name Matthew",
+   "ko": "이름 매슈(Matthew)에서 유래",
+   "ja": "名前マシュー(Matthew)に由来",
+   "zh": "源自名字馬修(Matthew)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Matthews_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 출처: 'Matthew'의 어원은 'Matthew (name)' 문서를 보라고 함"
  },
  {
   "key": "stevens",
@@ -2391,12 +2671,17 @@
   "ja_src": "ja.wikipedia 'ウォレス・スティーヴンズ'(en 'Wallace Stevens' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%B3%E3%82%BA",
   "zh": "史蒂文斯",
   "zh_src": "zh.wikipedia '华莱士·史蒂文斯' → zh-tw '華萊士·史蒂文斯'(en 'Wallace Stevens' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%8D%8E%E8%8E%B1%E5%A3%AB%C2%B7%E5%8F%B2%E8%92%82%E6%96%87%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "English (Norman)",
+  "meaning": {
+   "en": "son of Steven",
+   "ko": "스티븐(Steven)의 아들",
+   "ja": "スティーブン(Steven)の息子",
+   "zh": "史蒂芬(Steven)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Stevens_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: スティーブンス / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "ja 다른 문서 표기: スティーブンス / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "richards",
@@ -2414,12 +2699,17 @@
   "ja_src": "ja.wikipedia 'キース・リチャーズ'(en 'Keith Richards' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA",
   "zh": "理查茲",
   "zh_src": "zh.wikipedia '基思·理查兹' → zh-tw '基思·理查茲'(en 'Keith Richards' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%9F%BA%E6%80%9D%C2%B7%E7%90%86%E6%9F%A5%E5%85%B9",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Welsh, Cornish",
+  "meaning": {
+   "en": "from the given name Richard + -s (Germanic ric 'power' + hard 'brave, hardy')",
+   "ko": "이름 리처드(Richard)+-s에서(게르만어 ric '힘' + hard '용감한')",
+   "ja": "名前リチャード(Richard)＋-s から(ゲルマン語 ric「力」＋hard「勇敢な」)",
+   "zh": "源自名字理查(Richard)加 -s(日耳曼語 ric「權力」＋hard「勇敢」)"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Richards_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
  },
  {
   "key": "daniels",
@@ -2437,12 +2727,17 @@
   "ja_src": "ja.wikipedia 'ジェフ・ダニエルズ'(en 'Jeff Daniels' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%82%BA",
   "zh": "丹尼爾",
   "zh_src": "zh.wikipedia '傑夫·丹尼爾'(en 'Jeff Daniels' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%82%91%E5%A4%AB%C2%B7%E4%B8%B9%E5%B0%BC%E7%88%BE",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "patronymic",
+  "meaning": {
+   "en": "son of Daniel",
+   "ko": "대니얼(Daniel)의 아들",
+   "ja": "ダニエル(Daniel)の息子",
+   "zh": "丹尼爾(Daniel)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Daniels_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Daniels(라트비아어 이름)이라 성 뜻으로 안 씀 / zh는 찾은 문서(Jeff Daniels '傑夫·丹尼爾')에 -s에 해당하는 글자가 없음."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지는 Daniels(라트비아어 이름)이라 성 뜻으로 안 씀 / zh는 찾은 문서(Jeff Daniels '傑夫·丹尼爾')에 -s에 해당하는 글자가 없음. | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / Behind the Name 본 사이트 'Daniels'는 라트비아 이름(Daniel의 라트비아식) 설명이라 성과 다름"
  },
  {
   "key": "andrews",
@@ -2460,12 +2755,12 @@
   "ja_src": "ja.wikipedia 'ジュリー・アンドリュース'(en 'Julie Andrews' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B9",
   "zh": "安德絲",
   "zh_src": "zh.wikipedia '茱莉·安德絲'(en 'Julie Andrews' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%8C%B1%E8%8E%89%C2%B7%E5%AE%89%E5%BE%B7%E7%B5%B2",
-  "origin": null,
+  "origin": "English, Scottish, Norse (patronymic)",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh '安德絲'는 Julie Andrews 문서 제목에서 뗀 것으로 '絲'는 여성 이름에 흔히 쓰는 글자로 보임(추론, 다른 문서 확인 못 함)."
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / zh '安德絲'는 Julie Andrews 문서 제목에서 뗀 것으로 '絲'는 여성 이름에 흔히 쓰는 글자로 보임(추론, 다른 문서 확인 못 함). | 2026-11-28 보완: 뜻 비움: en 'Andrews (surname)'는 '부칭(patronymic) 성'이라고만 하고 어느 이름에서 왔는지 쓰지 않음(Andrew일 것으로 보이나 출처 문장 없음 = 추론) (확인한 문서: https://en.wikipedia.org/wiki/Andrews_%28surname%29)"
  },
  {
   "key": "peters",
@@ -2481,12 +2776,17 @@
   "ja_src": "ja.wikipedia 'バーナデット・ピーターズ'(en 'Bernadette Peters' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8A%E3%83%87%E3%83%83%E3%83%88%E3%83%BB%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BA",
   "zh": "彼得斯",
   "zh_src": "zh.wikipedia '贝尔纳黛特·彼得斯' → zh-tw '貝爾納黛特·彼得斯'(en 'Bernadette Peters' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E8%B4%9D%E5%B0%94%E7%BA%B3%E9%BB%9B%E7%89%B9%C2%B7%E5%BD%BC%E5%BE%97%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Low German, Dutch, English",
+  "meaning": {
+   "en": "Peter's son",
+   "ko": "피터(Peter)의 아들",
+   "ja": "ピーター(Peter)の息子",
+   "zh": "彼得(Peter)之子"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Peters_%28surname%29 (첫머리)",
+  "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / 출처: 게일어 Mac Pheadair(같은 뜻)의 영어 번역이기도 함"
  },
  {
   "key": "simmons",
@@ -2504,12 +2804,12 @@
   "ja_src": "ja.wikipedia 'ジーン・シモンズ (ミュージシャン)'(en 'Gene Simmons' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A2%E3%83%B3%E3%82%BA_%28%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%B7%E3%83%A3%E3%83%B3%29",
   "zh": "西蒙斯",
   "zh_src": "zh.wikipedia '吉恩·西蒙斯'(en 'Gene Simmons' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%90%89%E6%81%A9%C2%B7%E8%A5%BF%E8%92%99%E6%96%AF",
-  "origin": null,
+  "origin": "English (patronymic)",
   "meaning": null,
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "용례 다른 표기: 시몬스 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 용례가 '시먼스' 1건(Simmons, Ruth)·'시몬스' 1건(Simmons, Andrelton)으로 갈림. ko_std는 미국인 용례 쪽 '시먼스'로 둠."
+  "note": "용례 다른 표기: 시몬스 1건 / 성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 / 용례가 '시먼스' 1건(Simmons, Ruth)·'시몬스' 1건(Simmons, Andrelton)으로 갈림. ko_std는 미국인 용례 쪽 '시먼스'로 둠. | 2026-11-28 보완: 뜻 비움: en 'Simmons (surname)'는 '영어 부칭 성'이라고만 하고 어느 이름에서 왔는지 쓰지 않음(Simon일 것으로 보이나 출처 문장 없음 = 추론). Behind the Name 본 사이트에 성 설명 없음 (확인한 문서: https://en.wikipedia.org/wiki/Simmons_%28surname%29)"
  },
  {
   "key": "jenkins",
@@ -2527,11 +2827,16 @@
   "ja_src": "ja.wikipedia 'キャサリン・ジェンキンス'(en 'Katherine Jenkins' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%82%B5%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B9",
   "zh": "詹金斯",
   "zh_src": "zh.wikipedia '凱瑟琳·詹金斯'(en 'Katherine Jenkins' 문서의 언어 링크; zh-tw 변환 제목 기준, 성 부분) https://zh.wikipedia.org/zh-tw/%E5%87%B1%E7%91%9F%E7%90%B3%C2%B7%E8%A9%B9%E9%87%91%E6%96%AF",
-  "origin": null,
-  "meaning": null,
-  "meaning_src": null,
-  "c": null,
+  "origin": "Cornish, Welsh",
+  "meaning": {
+   "en": "from Jenkin, meaning 'little John' or 'son of John'",
+   "ko": "젱킨(Jenkin)에서; 젱킨은 '작은 존' 또는 '존의 아들'",
+   "ja": "ジェンキン(Jenkin)から;「小さなジョン」または「ジョンの息子」",
+   "zh": "源自 Jenkin,意為「小約翰」或「約翰之子」"
+  },
+  "meaning_src": "https://en.wikipedia.org/wiki/Jenkins_%28name%29 (첫머리)",
+  "c": "m",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Jenkins (surname)'는 'Jenkins (name)'으로 넘어감"
  }
 ]

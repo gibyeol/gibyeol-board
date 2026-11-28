@@ -2890,9 +2890,11 @@
   "sex": "m",
   "rank_src": "Behind the Name 'Kevin' Diminutives 목록 https://www.behindthename.com/name/kevin",
   "ko_std": null,
-  "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Kev&searchCategory=know4 (검색 41건, 이 애칭을 한글로 단독 표기한 용례 없음)",
+  "ko_alt": [
+   "케브"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 '\"케브\"' totalhits 26(다른 뜻 섞임), 이 애칭 인물 문서 예: '케브 아담스'(en Kev Adams) https://ko.wikipedia.org/wiki/%EC%BC%80%EB%B8%8C_%EC%95%84%EB%8B%B4%EC%8A%A4",
   "ja": null,
   "ja_src": null,
   "zh": null,
@@ -2907,7 +2909,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "ja/zh 근거로 쓸 인물 문서를 찾지 못함; 국립국어원 용례 41건 중 앞 41건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함; ko_alt 후보 케브는 위키 검색 26건이나 예시가 프랑스 인물(케브 아담스)이라 넣지 않음"
+  "note": "ja/zh 근거로 쓸 인물 문서를 찾지 못함; 국립국어원 용례 41건 중 앞 41건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함; ko_alt 후보 케브는 위키 검색 26건이나 예시가 프랑스 인물(케브 아담스)이라 넣지 않음 | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja·zh: en 'Kev ~' 인물 문서 중 ja/zh 링크 있는 것 없음"
  },
  {
   "key": "jeff",
@@ -3397,5 +3399,34 @@
   "c": null,
   "nicks": null,
   "note": "국립국어원 용례 855건 중 앞 80건에서 이 이름이 이름 부분으로 쓰인 용례를 찾지 못함"
+ },
+ {
+  "key": "charles",
+  "type": "given",
+  "of": null,
+  "sex": "m",
+  "rank_src": "en.wikipedia 'Popularity of birth names for males (United States)'(SSA) 표: 1926-2025 통합 11위; 10년 단위 1880s 5위·1890s 5위·1900s 5위·1910s 7위·1920s 5위·1930s 6위·1940s 7위·1950s 10위·1960s 17위·1970s 23위·1980s 33위·1990s 43위·2000s 58위·2010s 50위·2020s 50위 https://en.wikipedia.org/wiki/Popularity_of_birth_names_for_males_(United_States) / 'List of most popular given names' 표 United States (census, 1990) 남자 8위 https://en.wikipedia.org/wiki/List_of_most_popular_given_names / Behind the Name 인기 표: 미국 2025년 남자 48위 https://www.behindthename.com/name/charles",
+  "ko_std": "찰스",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Charles&searchCategory=know4 (검색 226건 중 앞 30건 확인: 이름 부분 찰스 22건(영어권 인물 20건), 샤를 1건; 예: '멍거, 찰스 토머스 (Munger, Charles Thomas) — 미국 기업인', '매콘빌, 제임스 (찰스) (McConville, James (Charles)) — 미국 군인')",
+  "ko_alt": [],
+  "ko_alt_src": null,
+  "ja": "チャールズ",
+  "ja_src": "ja.wikipedia 'チャールズ・ダーウィン'(en Charles Darwin) https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%80%E3%83%BC%E3%82%A6%E3%82%A3%E3%83%B3 / 'チャールズ・ディケンズ'(en Charles Dickens) https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%87%E3%82%A3%E3%82%B1%E3%83%B3%E3%82%BA / 'チャールズ3世 (イギリス王)'(en Charles III) https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA3%E4%B8%96_%28%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E7%8E%8B%29",
+  "zh": "查爾斯",
+  "zh_src": "zh.wikipedia '查尔斯·达尔文' zh-tw 표시 제목 '查爾斯·達爾文'(en Charles Darwin) https://zh.wikipedia.org/zh-tw/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E8%BE%BE%E5%B0%94%E6%96%87 / '查尔斯·狄更斯' → '查爾斯·狄更斯'(en Charles Dickens) https://zh.wikipedia.org/zh-tw/%E6%9F%A5%E5%B0%94%E6%96%AF%C2%B7%E7%8B%84%E6%9B%B4%E6%96%AF / '查爾斯三世'(en Charles III) https://zh.wikipedia.org/zh-tw/%E6%9F%A5%E7%88%BE%E6%96%AF%E4%B8%89%E4%B8%96",
+  "origin": "Germanic, via Latin Carolus (French and English form)",
+  "meaning": {
+   "en": "man (from Germanic Karl, Proto-Germanic *karlaz); alternative theory: from *harjaz 'army'",
+   "ko": "남자(게르만 이름 Karl, 원시 게르만어 *karlaz에서); 다른 설: *harjaz '군대'에서",
+   "ja": "男(ゲルマン名 Karl、祖ゲルマン語 *karlaz から);異説:*harjaz「軍隊」から",
+   "zh": "男人(源自日耳曼名 Karl,原始日耳曼語 *karlaz);另說:源自 *harjaz「軍隊」"
+  },
+  "meaning_src": "https://www.behindthename.com/name/charles",
+  "c": "m",
+  "nicks": [
+   "charlie",
+   "chuck"
+  ],
+  "note": "ko_alt: 국립국어원 표준이 '찰스'라 ko_alt에 같은 표기를 넣지 않음. 옛 표기 '챨스'는 ko 위키 본문 검색 totalhits 18(20 미만)이라 넣지 않음. 국립국어원 용례의 '샤를' 1건은 프랑스어권 인물(마다가스카르 정치인 Charles Rabemananjara). / ja·zh: 'Charlie Chaplin'은 ja 'チャールズ・チャップリン', zh '查理·卓別林'(Charlie 형). en 'Charles (given name)'은 'Charles' 문서로 넘어가며 ko/ja/zh 언어 링크 없음 → 인물 문서로 확인. / nicks: Behind the Name Diminutives(영어) = Charley, Charlie, Charly, Chas, Chaz, Chip, Chuck, Chuckie, Chucky 중 흔한 것 2개만 고름(고른 기준은 판단). 위키 2025 남자 1~10위(List of most popular given names 미국 2025)에는 없음."
  }
 ]
