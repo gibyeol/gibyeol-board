@@ -54,3 +54,13 @@
 
 </details>
 
+| 2026-11-28 19:56 KST | https://www.bing.com/indexnow | 4 | HTTP 200 OK, URL submitted | /name/ /ko/name/ /ja/name/ /zh-tw/name/ |
+<details><summary>보낸 주소</summary>
+
+- https://nadri-guide.pages.dev/name/
+- https://nadri-guide.pages.dev/ko/name/
+- https://nadri-guide.pages.dev/ja/name/
+- https://nadri-guide.pages.dev/zh-tw/name/
+
+</details>
+
