@@ -1246,7 +1246,7 @@
   "meaning_src": "https://www.behindthename.com/name/campbell",
   "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 坎貝爾, 金寶 / 뜻은 Behind the Name 본 사이트(이름 페이지)의 성 유래 설명에서 뗌(성 전용 사이트 surnames.behindthename.com은 막힘)"
+  "note": "zh 다른 문서 표기: 坎貝爾, 金寶 / 뜻은 Behind the Name 본 사이트(이름 페이지)의 성 유래 설명에서 뗌(성 전용 사이트 surnames.behindthename.com은 막힘) | 2026-11-28 많이 쓰는 표기 확인: '캠프벨' 넣지 않음(본문 totalhits 61, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "mitchell",
@@ -2096,8 +2096,10 @@
   "rank_src": "미국 인구조사국 2010 인구조사 자주 나오는 성 80위(259,798명). 순위·인원: en.wikipedia 'List of most common surnames in North American countries' 2026-07-12 판(oldid=1363773598) 미국 표(2010 인구조사, census.gov 인용) https://en.wikipedia.org/w/index.php?oldid=1363773598",
   "ko_std": "리처드슨",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Richardson (용례에서 성 부분이 '리처드슨'인 것 10건, 예: '리처드슨, 셔캐리 (Richardson, Sha'Carri)'; '리처드슨, 오언 윌런스 (Sir Owen Willans Richardson)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "리차드슨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"리차드슨\" totalhits 165; 제목 끝 낱말이 '리차드슨'이고 en 언어 링크의 성이 Richardson인 인물 문서 3개(제목 검색 상위 500 안) 예: 샘 리차드슨 (en: Sam Richardson (actor)) / 제이크 리차드슨 (en: Jake Richardson) / 라이언 리차드슨 (en: Lyon Richardson) | 수: {\"리처드슨\": 1441, \"리차드슨\": 165}",
   "ja": "リチャードソン",
   "ja_src": "ja.wikipedia 'サミュエル・リチャードソン'(en 'Samuel Richardson' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9F%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%82%BD%E3%83%B3",
   "zh": "理查森",
@@ -2112,7 +2114,7 @@
   "meaning_src": "https://en.wikipedia.org/wiki/Richardson_%28surname%29 (첫머리)",
   "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 45 / 후보 3, 본문 totalhits 표준 1441 / 후보 165)"
  },
  {
   "key": "watson",
@@ -2303,8 +2305,10 @@
   "rank_src": "미국 인구조사국 2010 인구조사 자주 나오는 성 88위(242,771명). 순위·인원: en.wikipedia 'List of most common surnames in North American countries' 2026-07-12 판(oldid=1363773598) 미국 표(2010 인구조사, census.gov 인용) https://en.wikipedia.org/w/index.php?oldid=1363773598",
   "ko_std": "멘도사",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Mendoza (용례에서 성 부분이 '멘도사'인 것 2건, 예: '멘도사 (Mendoza)'; '멘도사, 브리얀테 (Mendoza, Brillante)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "멘도자"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"멘도자\" totalhits 105; 제목 끝 낱말이 '멘도자'이고 en 언어 링크의 성이 Mendoza인 인물 문서 3개(제목 검색 상위 500 안) 예: 나탈리 잭슨 멘도자 (en: Natalie Mendoza) / 에이바 멘도자 (en: Ava Mendoza) / 린다 멘도자 (en: Linda Mendoza) | 수: {\"멘도사\": 454, \"멘도자\": 105}",
   "ja": "メンドーサ",
   "ja_src": "ja.wikipedia 'アントニオ・デ・メンドーサ'(en 'Antonio de Mendoza' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%87%E3%83%BB%E3%83%A1%E3%83%B3%E3%83%89%E3%83%BC%E3%82%B5",
   "zh": "門多薩",
@@ -2319,7 +2323,7 @@
   "meaning_src": "https://en.wikipedia.org/wiki/Mendoza_%28name%29 (첫머리)",
   "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Mendoza (surname)'는 'Mendoza (name)'으로 넘어감"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트에 정의 없음 | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 / en 'Mendoza (surname)'는 'Mendoza (name)'으로 넘어감 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 9 / 후보 3, 본문 totalhits 표준 454 / 후보 105)"
  },
  {
   "key": "ruiz",
@@ -2329,8 +2333,10 @@
   "rank_src": "미국 인구조사국 2010 인구조사 자주 나오는 성 89위(238,234명). 순위·인원: en.wikipedia 'List of most common surnames in North American countries' 2026-07-12 판(oldid=1363773598) 미국 표(2010 인구조사, census.gov 인용) https://en.wikipedia.org/w/index.php?oldid=1363773598",
   "ko_std": "루이스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Ruiz (용례에서 성 부분이 '루이스'인 것 1건, 예: '루이스 (가르시아), 사무엘 (Ruiz (García), Samuel)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "루이즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"루이즈\" totalhits 1847; 제목 끝 낱말이 '루이즈'이고 en 언어 링크의 성이 Ruiz인 인물 문서 7개(제목 검색 상위 500 안) 예: 리오 루이즈 (en: Rio Ruiz) / 노미 루이즈 (en: Nomi Ruiz) / 블라스 루이즈 (en: Blas Ruiz) | 수: {\"루이스\": 13462, \"루이즈\": 1847}",
   "ja": "ルイス",
   "ja_src": "ja.wikipedia 'ジョン・ルイス (ボクサー)'(en 'John Ruiz' 문서의 언어 링크, 성 부분) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%AB%E3%82%A4%E3%82%B9_%28%E3%83%9C%E3%82%AF%E3%82%B5%E3%83%BC%29",
   "zh": "魯伊斯",
@@ -2345,7 +2351,7 @@
   "meaning_src": "https://en.wikipedia.org/wiki/Ruiz (첫머리)",
   "c": "h",
   "nicks": null,
-  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) / 한글 '루이스'·일본어 'ルイス'가 Lewis와 같음(용례 1건). | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌"
+  "note": "성 뜻 출처 막힘(surnames.behindthename.com 403). 본 사이트 페이지 없음(404) / 한글 '루이스'·일본어 'ルイス'가 Lewis와 같음(용례 1건). | 2026-11-28 보완: Behind the Name 본 사이트 www.behindthename.com/name/<성>에 성 뜻 설명 없음(성 전용 사이트 surnames.behindthename.com은 막힘) → en.wikipedia 성 문서에서 뗌 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 9 / 후보 7, 본문 totalhits 표준 13462 / 후보 1847) / 주의: 표준 '루이스'는 Lewis·Louis와 같은 표기라 섞인 숫자 — 판단은 인물 문서 수로 함"
  },
  {
   "key": "hughes",
@@ -2873,8 +2879,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 아일랜드 표 3위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011 / en.wikipedia 'Sullivan (surname)' 문서 본문: \"2010 US census 105th most common surname\" https://en.wikipedia.org/w/index.php?title=Sullivan_%28surname%29&oldid=1385692448",
   "ko_std": "설리번",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Sullivan (용례에서 '설리번'인 것 2건, 예: '설리번, 서 아서 시모어 (Sullivan, Arthur Seymour)'; '설리번, 루이스 헨리 (Sullivan, Louis Henry)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "설리반"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"설리반\" totalhits 282; 제목 끝 낱말이 '설리반'이고 en 언어 링크의 성이 Sullivan인 인물 문서 3개(제목 검색 상위 500 안) 예: 래리 설리반 (en: Larry Sullivan) / 숀 설리반 (en: Sean Sullivan (actor)) / 낸시 설리반 (en: Nancy Sullivan (American actress)) | 수: {\"설리번\": 1115, \"설리반\": 282}",
   "ja": "サリヴァン",
   "ja_src": "ja.wikipedia 'アン・サリヴァン (アニメーター)'(en 'Ann Sullivan (animator)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 6개 중 5개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%AA%E3%83%B4%E3%82%A1%E3%83%B3_%28%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%29",
   "zh": "沙利文",
@@ -2889,7 +2897,7 @@
   "meaning_src": "https://www.behindthename.com/name/sullivan",
   "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: サリバン 1 / zh 다른 문서 표기: 薩利文 1, 蘇莉雲 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "ja 다른 문서 표기: サリバン 1 / zh 다른 문서 표기: 薩利文 1, 蘇莉雲 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 35 / 후보 3, 본문 totalhits 표준 1115 / 후보 282)"
  },
  {
   "key": "walsh",
@@ -2915,7 +2923,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Walsh_%28surname%29&oldid=1384518634 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: ワルシュ 1 / zh 다른 문서 표기: 沃爾許 2, 沃許 2, 華許 1"
+  "note": "ja 다른 문서 표기: ワルシュ 1 / zh 다른 문서 표기: 沃爾許 2, 沃許 2, 華許 1 | 2026-11-28 많이 쓰는 표기 확인: '왈시' 넣지 않음(본문 totalhits 96, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "obrien",
@@ -2967,7 +2975,7 @@
   "meaning_src": "https://www.behindthename.com/name/byrne",
   "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 拜恩 3, 柏恩 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "zh 다른 문서 표기: 拜恩 3, 柏恩 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: '바이른' 넣지 않음(본문 totalhits 26, en 성이 맞는 인물 문서 0개) / 주의: 표준 '번'은 낱말(番 등)이 섞인 숫자 — 판단은 인물 문서 수로 함"
  },
  {
   "key": "oconnor",
@@ -3076,8 +3084,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 아일랜드 표 13위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011",
   "ko_std": "매카시",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=McCarthy (용례에서 '매카시'인 것 5건, 예: '매카시, 지나 (McCarthy, Gina)'; '매카시, 멀리사 (앤) (McCarthy, Melissa (Ann))')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "맥카시"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맥카시\" totalhits 208; 제목 끝 낱말이 '맥카시'이고 en 언어 링크의 성이 Mccarthy인 인물 문서 6개(제목 검색 상위 500 안) 예: 알렉스 맥카시 (en: Alex McCarthy) / 줄리애너 맥카시 (en: Julianna McCarthy) / 대니 맥카시 (en: Danny McCarthy) | 수: {\"매카시\": 1066, \"맥카시\": 208, \"매카티\": 41}",
   "ja": "マッカーシー",
   "ja_src": "ja.wikipedia 'アンドリュー・マッカーシー'(en 'Andrew McCarthy' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 3개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B7%E3%83%BC",
   "zh": "麥卡錫",
@@ -3092,7 +3102,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=McCarthy_%28surname%29&oldid=1375893522 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": null
+  "note": "2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 26 / 후보 6, 본문 totalhits 표준 1066 / 후보 208) / '매카티' 넣지 않음(본문 totalhits 41, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "gallagher",
@@ -3118,7 +3128,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Gallagher_%28surname%29&oldid=1386677155 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 蓋勒格 2, 蓋勒 1, 加拉格 1"
+  "note": "zh 다른 문서 표기: 蓋勒格 2, 蓋勒 1, 加拉格 1 | 2026-11-28 많이 쓰는 표기 확인: '갤러허' 넣지 않음(본문 totalhits 16, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "doherty",
@@ -3201,8 +3211,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 아일랜드 표 18위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011 / en.wikipedia 'List of most common surnames in European countries' 북아일랜드 표 19위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011 / en.wikipedia 'List of most common surnames in European countries' 스코틀랜드 표 10위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011",
   "ko_std": "머리",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Murray (용례에서 '머리'인 것 7건, 예: '머리, 더전테이 (Dejounte Murray)'; '머리, 저말 (Murray, Jamal)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "머레이"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"머레이\" totalhits 1283; 제목 끝 낱말이 '머레이'이고 en 언어 링크의 성이 Murray인 인물 문서 12개(제목 검색 상위 500 안) 예: 데이브 머레이 (en: Dave Murray (musician)) / 글렌 머레이 (en: Glenn Murray) / 존 머레이 (en: John Murray (theologian)) | 수: {\"머리\": 8333, \"머레이\": 1283}",
   "ja": "マレー",
   "ja_src": "ja.wikipedia 'アンドリュー・ディクソン・マレー'(en 'Andrew Murray (naturalist)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 37개 중 22개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC",
   "zh": "默里",
@@ -3217,7 +3229,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Murray_%28surname%29&oldid=1386248034 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "ja 다른 문서 표기: マーレイ 8, マリー 5, マレイ 1"
+  "note": "ja 다른 문서 표기: マーレイ 8, マリー 5, マレイ 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 33 / 후보 12, 본문 totalhits 표준 8333 / 후보 1283) / 주의: 표준 '머리'는 낱말 머리(신체)가 섞인 숫자 — 판단은 인물 문서 수로 함"
  },
  {
   "key": "quinn",
@@ -3279,8 +3291,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 북아일랜드 표 4위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011",
   "ko_std": "존스턴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Johnston (용례에서 '존스턴'인 것 1건, 예: '존스턴, 도널드 (Johnston, Donald)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "존스톤"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"존스톤\" totalhits 211; 제목 끝 낱말이 '존스톤'이고 en 언어 링크의 성이 Johnston인 인물 문서 1개(제목 검색 상위 500 안) 예: 제이 존스톤 (en: Jay Johnston) | 수: {\"존스턴\": 1188, \"존스톤\": 211}",
   "ja": "ジョンストン",
   "ja_src": "ja.wikipedia 'アルバート・ジョンストン'(en 'Albert Sidney Johnston' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%B9%E3%83%88%E3%83%B3",
   "zh": "約翰斯頓",
@@ -3295,7 +3309,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Johnston_%28surname%29&oldid=1388344689 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "zh 다른 문서 표기: 莊士東 1, 強斯頓 1"
+  "note": "zh 다른 문서 표기: 莊士東 1, 強斯頓 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 24 / 후보 1, 본문 totalhits 표준 1188 / 후보 211)"
  },
  {
   "key": "smyth",
@@ -3347,7 +3361,7 @@
   "meaning_src": "https://www.behindthename.com/name/graham",
   "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: グレアム 2 / zh 다른 문서 표기: 葛蘭姆 2, 格拉漢姆 1, 葛拉罕 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "ja 다른 문서 표기: グレアム 2 / zh 다른 문서 표기: 葛蘭姆 2, 格拉漢姆 1, 葛拉罕 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: '그레이험' 넣지 않음(본문 totalhits 7, en 성이 맞는 인물 문서 0개) / '그레엄' 넣지 않음(본문 totalhits 37, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "mclaughlin",
@@ -3357,8 +3371,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 북아일랜드 표 17위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011",
   "ko_std": "매클로플린",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=McLaughlin (용례에서 '매클로플린'인 것 1건, 예: '매클로플린, 존 (McLaughlin, John)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "맥러플린"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맥러플린\" totalhits 140; 제목 끝 낱말이 '맥러플린'이고 en 언어 링크의 성이 Mclaughlin인 인물 문서 3개(제목 검색 상위 500 안) 예: 존 맥러플린 (en: John McLaughlin (musician)) / 엘리자베스 맥러플린 (en: Elizabeth McLaughlin) / 엘렌 맥러플린 (en: Ellen McLaughlin) | 수: {\"매클로플린\": 80, \"맥러플린\": 140, \"맥로플린\": 23}",
   "ja": "マクラフリン",
   "ja_src": "ja.wikipedia 'ケイレブ・マクラフリン'(en 'Caleb McLaughlin' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 3개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A9%E3%83%95%E3%83%AA%E3%83%B3",
   "zh": null,
@@ -3373,7 +3389,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=McLaughlin_%28surname%29&oldid=1386951752 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "zh 인물 문서 표기가 같은 수로 갈려 비움: 麥克勞克林 2, 麥勞夫林 2, 麥羅林 1 / zh: 성 문서·인물 문서 언어 링크에서 못 찾음"
+  "note": "zh 인물 문서 표기가 같은 수로 갈려 비움: 麥克勞克林 2, 麥勞夫林 2, 麥羅林 1 / zh: 성 문서·인물 문서 언어 링크에서 못 찾음 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '맥러플린'가 많음(140 > 표준 80) — 인물 문서 기준은 표준이 많음(표준 9 > 후보 3) / '맥로플린' 넣지 않음(본문 totalhits 23, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "hamilton",
@@ -3399,7 +3415,7 @@
   "meaning_src": "https://www.behindthename.com/name/hamilton",
   "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: ウィリアムズ 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "ja 다른 문서 표기: ウィリアムズ 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: '해밀톤' 넣지 않음(본문 totalhits 26, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "robertson",
@@ -3461,8 +3477,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 스코틀랜드 표 11위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011 / en.wikipedia 'List of most common surnames in North American countries' 캐나다 표 10위 (oldid=1384120016) https://en.wikipedia.org/w/index.php?oldid=1384120016",
   "ko_std": "맥도널드",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=MacDonald (용례에서 '맥도널드'인 것 2건, 예: '맥도널드, 제임스 램지 (MacDonald, James Ramsay)'; '맥도널드, 서 존 알렉산더 (MacDonald, Sir John Alexander)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "맥도날드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맥도날드\" totalhits 1037; 제목 끝 낱말이 '맥도날드'이고 en 언어 링크의 성이 Macdonald인 인물 문서 5개(제목 검색 상위 500 안) 예: 웰컴 미스터 맥도날드 (en: Welcome Back, Mr. McDonald) / 로널드 맥도날드 (en: Ronald McDonald) / 맥 맥도날드 (en: Mac McDonald) | 수: {\"맥도널드\": 1977, \"맥도날드\": 1037}",
   "ja": "マクドナルド",
   "ja_src": "ja.wikipedia 'フローラ・マクドナルド'(en 'Flora MacDonald' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 8개 중 8개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89",
   "zh": "麥克唐納",
@@ -3477,7 +3495,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=MacDonald_%28surname%29&oldid=1386169976 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "국립국어원 용례 다른 표기: 막도날 1건"
+  "note": "국립국어원 용례 다른 표기: 막도날 1건 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 54 / 후보 5, 본문 totalhits 표준 1977 / 후보 1037) / en 성 대조에 McDonald도 같은 성으로 셈"
  },
  {
   "key": "reid",
@@ -3565,8 +3583,10 @@
   "rank_src": "en.wikipedia 'List of most common surnames in European countries' 웨일스 표 10위 (oldid=1386753011) https://en.wikipedia.org/w/index.php?oldid=1386753011",
   "ko_std": null,
   "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "그리피스"
+  ],
+  "ko_alt_src": "한국어 위키백과 인물 문서(en 'Griffiths (surname)' 문서에 연결된 인물의 ko 언어 링크): 'Rachel Griffiths'→'레이철 그리피스', 'Richard Griffiths'→'리처드 그리피스', 'Leigh Griffiths'→'리 그리피스', 'Joel Griffiths'→'조엘 그리피스', 'Lucy Griffiths (actress, born 1986)'→'루시 그리피스', 'David J. Griffiths'→'데이비드 제프리 그리피스', 'Phillip Griffiths'→'필립 오거스터스 그리피스' (7개 중 7개 '그리피스') https://en.wikipedia.org/wiki/Griffiths_(surname) / 한국어 위키백과 본문 검색 \"그리피스\" totalhits 1027 | 수: {\"그리피스\": 1027}",
   "ja": "グリフィス",
   "ja_src": "ja.wikipedia 'バリー・グリフィス'(en 'Barri Griffiths' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 3개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A3%E3%82%B9",
   "zh": "格里菲思",
@@ -3581,7 +3601,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Griffiths&oldid=1384629597 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "국립국어원 용례에 이 성을 가진 인물 표기 없음(검색 결과 0건)"
+  "note": "국립국어원 용례에 이 성을 가진 인물 표기 없음(검색 결과 0건) | 2026-11-28 많이 쓰는 표기 확인: 국립국어원 용례 'Griffiths' 검색 결과 0건이라 ko_std 비움. 위키 '그리피스'는 Griffith(s 없음, 예: '멜러니 그리피스')와 같은 표기라 totalhits 1027에 Griffith가 섞임 — 근거는 위 Griffiths 인물 문서 7개."
  },
  {
   "key": "moss",
@@ -3638,8 +3658,10 @@
   "rank_src": "en.wikipedia 'Hayes (surname)' 문서 본문: \"United States Census, 1990, Hayes was the 100th most common surname; 191st most common surname in Great Britain\" https://en.wikipedia.org/w/index.php?title=Hayes_%28surname%29&oldid=1384630211",
   "ko_std": "헤이스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Hayes (용례에서 '헤이스'인 것 1건, 예: '헤이스, 리아 (Leah Hayes)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "헤이즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"헤이즈\" totalhits 656; 제목 끝 낱말이 '헤이즈'이고 en 언어 링크의 성이 Hayes인 인물 문서 6개(제목 검색 상위 500 안) 예: 마가렛 헤이즈 (en: Margaret Hayes) / 하나 헤이즈 (en: Hana Hayes) / 앨리슨 헤이즈 (en: Allison Hayes) | 수: {\"헤이스\": 1100, \"헤이즈\": 656}",
   "ja": "ヘイズ",
   "ja_src": "ja.wikipedia 'ラザフォード・ヘイズ'(en 'Rutherford B. Hayes' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%83%BB%E3%83%98%E3%82%A4%E3%82%BA",
   "zh": "海斯",
@@ -3649,7 +3671,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "zh 다른 문서 표기: 希斯 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음)"
+  "note": "zh 다른 문서 표기: 希斯 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 19 / 후보 6, 본문 totalhits 표준 1100 / 후보 656)"
  },
  {
   "key": "harrison",
@@ -3711,8 +3733,10 @@
   "rank_src": "en.wikipedia 'Crawford (name)' 문서 본문: \"289th most common name in Great Britain, with 30,292 bearers\" https://en.wikipedia.org/w/index.php?title=Crawford_%28name%29&oldid=1382164263",
   "ko_std": "크로퍼드",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Crawford (용례에서 '크로퍼드'인 것 3건, 예: '크로퍼드, 케네스 (Kenneth Crawford)'; '크로퍼드, 신디 (Crawford, Cindy)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "크로포드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"크로포드\" totalhits 344; 제목 끝 낱말이 '크로포드'이고 en 언어 링크의 성이 Crawford인 인물 문서 6개(제목 검색 상위 500 안) 예: 세라제인 크로포드 (en: Sarah-Jane Crawford) / 조니 크로포드 (en: Johnny Crawford) / 캐서린 크로포드 (en: Kathryn Crawford) | 수: {\"크로퍼드\": 466, \"크로포드\": 344}",
   "ja": "クロフォード",
   "ja_src": "ja.wikipedia 'ジョーン・クロフォード'(en 'Joan Crawford' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 29개 중 27개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
   "zh": "克勞福德",
@@ -3727,7 +3751,7 @@
   "meaning_src": "https://www.behindthename.com/name/crawford",
   "c": "h",
   "nicks": null,
-  "note": "ja 다른 문서 표기: クローフォード 1, クロウフォード 1 / zh 다른 문서 표기: 克勞福 2, 克勞佛 2, 克勞馥 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "ja 다른 문서 표기: クローフォード 1, クロウフォード 1 / zh 다른 문서 표기: 克勞福 2, 克勞佛 2, 克勞馥 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 26 / 후보 6, 본문 totalhits 표준 466 / 후보 344)"
  },
  {
   "key": "armstrong",
@@ -3831,7 +3855,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Coleman_%28surname%29&oldid=1376870752 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 / zh 다른 문서 표기: 高文 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 / zh 다른 문서 표기: 高文 1 | 2026-11-28 많이 쓰는 표기 확인: '콜맨' 넣지 않음(본문 totalhits 110, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "perry",
@@ -3867,8 +3891,10 @@
   "rank_src": null,
   "ko_std": "파월",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Powell (용례에서 '파월'인 것 5건, 예: '파월, 제롬 (Jerome Powell)'; '파월, 세실 프랭크 (Powell, Cecil Frank)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "포웰"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"포웰\" totalhits 178; 제목 끝 낱말이 '포웰'이고 en 언어 링크의 성이 Powell인 인물 문서 3개(제목 검색 상위 500 안) 예: 리카르도 포웰 (en: Carlos Powell) / 드류 포웰 (en: Drew Powell (actor)) / 러스 포웰 (en: Russ Powell) | 수: {\"파월\": 1291, \"포웰\": 178}",
   "ja": "パウエル",
   "ja_src": "ja.wikipedia 'アンソニー・パウエル (作家)'(en 'Anthony Powell' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 7개 중 7개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%91%E3%82%A6%E3%82%A8%E3%83%AB_%28%E4%BD%9C%E5%AE%B6%29",
   "zh": "鮑威爾",
@@ -3883,7 +3909,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Powell_%28surname%29&oldid=1388189734 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 鮑爾 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 鮑爾 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 26 / 후보 3, 본문 totalhits 표준 1291 / 후보 178)"
  },
  {
   "key": "patterson",
@@ -3935,7 +3961,7 @@
   "meaning_src": "https://www.behindthename.com/name/washington",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: '와싱톤' 넣지 않음(본문 totalhits 19, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "butler",
@@ -4049,8 +4075,10 @@
   "rank_src": null,
   "ko_std": "월리스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Wallace (용례에서 '월리스'인 것 5건, 예: '월리스, 제이 (Jay Wallace)'; '월리스, (로버트) 벤 (로번) (Wallace, (Robert) Ben (Lobban))')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "월러스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"월러스\" totalhits 225; 제목 끝 낱말이 '월러스'이고 en 언어 링크의 성이 Wallace인 인물 문서 4개(제목 검색 상위 500 안) 예: 앤디 월러스 (en: Andy Wallace) / 나요 월러스 (en: Nayo Wallace) / 리건 월러스 (en: Rheagan Wallace) | 수: {\"월리스\": 1561, \"월러스\": 225}",
   "ja": "ウォレス",
   "ja_src": "ja.wikipedia 'ウォレス'(en 'Wallace (surname)' 성 문서의 언어 링크; 괄호 뺌) https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AC%E3%82%B9",
   "zh": "華萊士",
@@ -4065,7 +4093,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Wallace_%28surname%29&oldid=1382270975 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 24 / 후보 4, 본문 totalhits 표준 1561 / 후보 225)"
  },
  {
   "key": "woods",
@@ -4185,7 +4213,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Owens_%28surname%29&oldid=1383736946 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: オーウェンス 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: オーウェンス 1 | 2026-11-28 많이 쓰는 표기 확인: '오웬스' 넣지 않음(본문 totalhits 211, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "reynolds",
@@ -4299,8 +4327,10 @@
   "rank_src": null,
   "ko_std": "마셜",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Marshall (용례에서 '마셜'인 것 6건, 예: '마셜, 존 (Marshall, John)'; '마셜, 서 존 허버트 (Marshall, Sir John Hubert)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "마샬"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"마샬\" totalhits 789; 제목 끝 낱말이 '마샬'이고 en 언어 링크의 성이 Marshall인 인물 문서 5개(제목 검색 상위 500 안) 예: 툴리 마샬 (en: Tully Marshall) / 하워드 마샬 (en: I. Howard Marshall) / 윌리엄 마샬 (en: William Marshall (actor)) | 수: {\"마셜\": 3996, \"마샬\": 789}",
   "ja": "マーシャル",
   "ja_src": "ja.wikipedia 'アラン・マーシャル'(en 'Alan Marshall (disambiguation)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB",
   "zh": "馬歇爾",
@@ -4315,7 +4345,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Marshall_%28name%29&oldid=1384722428 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 48 / 후보 5, 본문 totalhits 표준 3996 / 후보 789)"
  },
  {
   "key": "wells",
@@ -4466,8 +4496,10 @@
   "rank_src": null,
   "ko_std": "파머",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Palmer (용례에서 '파머'인 것 1건, 예: '파머, 아널드 대니얼 (Palmer, Arnold Daniel)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "팔머"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"팔머\" totalhits 437; 제목 끝 낱말이 '팔머'이고 en 언어 링크의 성이 Palmer인 인물 문서 3개(제목 검색 상위 500 안) 예: 릴리 팔머 (en: Lilli Palmer) / 허버트 팔머 (en: Herbert Palmer (Puritan)) / 앨리스 프리먼 팔머 (en: Alice Freeman Palmer) | 수: {\"파머\": 1103, \"팔머\": 437}",
   "ja": "パーマー",
   "ja_src": "ja.wikipedia 'アーノルド・パーマー'(en 'Arnold Palmer' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 30개 중 27개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%8E%E3%83%AB%E3%83%89%E3%83%BB%E3%83%91%E3%83%BC%E3%83%9E%E3%83%BC",
   "zh": "帕爾默",
@@ -4482,7 +4514,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Palmer_%28surname%29&oldid=1386257014 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: パルマー 3"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: パルマー 3 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 23 / 후보 3, 본문 totalhits 표준 1103 / 후보 437)"
  },
  {
   "key": "dunn",
@@ -4544,8 +4576,10 @@
   "rank_src": null,
   "ko_std": "워런",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Warren (용례에서 '워런'인 것 2건, 예: '워런, 데이비드 (로널드 드 메이) (Warren, David (Ronald de Mey))'; '워런, 로빈 (Warren, J. Robin)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "워렌"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"워렌\" totalhits 981; 제목 끝 낱말이 '워렌'이고 en 언어 링크의 성이 Warren인 인물 문서 10개(제목 검색 상위 500 안) 예: 폴 워렌 (en: Paul Warren (actor)) / 캐서린 워렌 (en: Katherine Warren) / 릭 워렌 (en: Rick Warren) | 수: {\"워런\": 1857, \"워렌\": 981}",
   "ja": "ウォーレン",
   "ja_src": "ja.wikipedia 'アート・ウォーレン'(en 'Art Warren' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AC%E3%83%B3",
   "zh": "沃倫",
@@ -4560,7 +4594,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Warren_%28name%29&oldid=1384634353 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 華倫 4"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 華倫 4 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 15 / 후보 10, 본문 totalhits 표준 1857 / 후보 981)"
  },
  {
   "key": "fox",
@@ -4622,8 +4656,10 @@
   "rank_src": null,
   "ko_std": "웨브",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Webb (용례에서 '웨브'인 것 2건, 예: '웨브, 비어트리스 포터 (Webb, Beatrice Potter)'; '웨브, 시드니 제임스 (Webb, Sidney James)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "웹"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"웹\" totalhits 11114; 제목 끝 낱말이 '웹'이고 en 언어 링크의 성이 Webb인 인물 문서 13개(제목 검색 상위 500 안) 예: 하워드 웹 (en: Howard Webb) / 클로이 웹 (en: Chloe Webb) / 제임스 E. 웹 (en: James E. Webb) | 수: {\"웨브\": 308, \"웹\": 11114}",
   "ja": "ウェブ",
   "ja_src": "ja.wikipedia 'アミール・ウェブ'(en 'Ameer Webb' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 23개 중 16개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%96",
   "zh": "韋布",
@@ -4638,7 +4674,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Webb_%28surname%29&oldid=1384775810 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 웹 1건 / ja 다른 문서 표기: ウェッブ 7"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 웹 1건 / ja 다른 문서 표기: ウェッブ 7 | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '웹'(인물 문서 13 > 표준 12; 본문 totalhits 후보 11114 / 표준 308) / 주의: 후보 '웹'은 낱말 웹(web)이 섞인 숫자 — 판단은 인물 문서 수로 함 / 인물 문서 수 차이가 1개(13 대 12)라 어느 쪽이 많다고 보기 약함"
  },
  {
   "key": "tucker",
@@ -4851,8 +4887,10 @@
   "rank_src": null,
   "ko_std": "홈스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Holmes (용례에서 '홈스'인 것 4건, 예: '홈스, 존 (John Holmes)'; '홈스, 올리버 웬들 (Holmes, Oliver Wendell)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "홈즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"홈즈\" totalhits 1235; 제목 끝 낱말이 '홈즈'이고 en 언어 링크의 성이 Holmes인 인물 문서 19개(제목 검색 상위 500 안) 예: 셜록 홈즈 (en: Sherlock Holmes) / 케이티 홈즈 (en: Katie Holmes) / 마이크로프트 홈즈 (en: Mycroft Holmes) | 수: {\"홈스\": 619, \"홈즈\": 1235}",
   "ja": "ホームズ",
   "ja_src": "ja.wikipedia 'アーサー・ホームズ'(en 'Arthur Holmes' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA",
   "zh": "霍姆斯",
@@ -4867,7 +4905,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Holmes_%28surname%29&oldid=1386102809 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 霍爾姆斯 4, 福爾摩斯 2, 霍爾莫斯 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 霍爾姆斯 4, 福爾摩斯 2, 霍爾莫斯 1 | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '홈즈'(인물 문서 19 > 표준 11; 본문 totalhits 후보 1235 / 표준 619) / 주의: 후보 '홈즈'는 소설 인물 셜록 홈즈가 섞인 숫자 — 판단은 인물 문서 수로 함 / 후보 '홈즈' 인물 예에 소설 인물(셜록·마이크로프트 홈즈)이 섞임 — 실제 인물도 있음(케이티 홈즈)"
  },
  {
   "key": "rice",
@@ -4924,8 +4962,10 @@
   "rank_src": null,
   "ko_std": "니컬스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Nichols (용례에서 '니컬스'인 것 3건, 예: '니컬스, 빈센트 (제라드) 대주교 (Nichols, Most Rev. Vincent (Gerard))'; '니컬스, 빈센트 (제라드) 대주교 (Most Rev. Vincent (Gerard) Nichols)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "니콜스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"니콜스\" totalhits 398; 제목 끝 낱말이 '니콜스'이고 en 언어 링크의 성이 Nichols인 인물 문서 8개(제목 검색 상위 500 안) 예: 키드 니콜스 (en: Kid Nichols) / 랜스 E. 니콜스 (en: Lance E. Nichols) / 빈센트 니콜스 (en: Vincent Nichols) | 수: {\"니컬스\": 321, \"니콜스\": 398}",
   "ja": "ニコルズ",
   "ja_src": "ja.wikipedia 'オースティン・ニコルズ'(en 'Austin Nichols' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%AB%E3%82%BA",
   "zh": "尼科爾斯",
@@ -4940,7 +4980,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Nichols_%28surname%29&oldid=1381049908 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 尼可斯 3, 尼柯斯 1, 尼高斯 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 尼可斯 3, 尼柯斯 1, 尼高斯 1 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '니콜스'가 많음(398 > 표준 321) — 인물 문서 기준은 표준이 많음(표준 10 > 후보 8)"
  },
  {
   "key": "grant",
@@ -5174,8 +5214,10 @@
   "rank_src": null,
   "ko_std": "아널드",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Arnold (용례에서 '아널드'인 것 7건, 예: '아널드, 프랜시스 (Frances H. Arnold)'; '아널드, 맬컴 (헨리) (Malcolm (Henry) Arnold)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "아놀드"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"아놀드\" totalhits 1138; 제목 끝 낱말이 '아놀드'이고 en 언어 링크의 성이 Arnold인 인물 문서 8개(제목 검색 상위 500 안) 예: 코코모 아놀드 (en: Kokomo Arnold) / 에드워드 아놀드 (en: Edward Arnold (actor)) / 새뮤얼 아놀드 (en: Samuel Arnold (conspirator)) | 수: {\"아널드\": 953, \"아놀드\": 1138}",
   "ja": "アーノルド",
   "ja_src": "ja.wikipedia 'ベネディクト・アーノルド'(en 'Benedict Arnold' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 17개 중 16개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%8E%E3%83%AB%E3%83%89",
   "zh": "阿諾",
@@ -5190,7 +5232,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Arnold_%28surname%29&oldid=1386674636 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: アルノルト 1 / zh 성 문서 언어 링크는 '阿诺德'이나 같은 성 인물 문서 다수 표기를 씀"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: アルノルト 1 / zh 성 문서 언어 링크는 '阿诺德'이나 같은 성 인물 문서 다수 표기를 씀 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '아놀드'가 많음(1138 > 표준 953) — 인물 문서 기준은 표준이 많음(표준 24 > 후보 8)"
  },
  {
   "key": "wagner",
@@ -5200,8 +5242,10 @@
   "rank_src": null,
   "ko_std": "바그너",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Wagner (용례에서 '바그너'인 것 4건, 예: '바그너, 볼프강 (Wagner, Wolfgang)'; '바그너, 아돌프 하인리히 (Wagner, Adolf Heinrich)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "와그너"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"와그너\" totalhits 579; 제목 끝 낱말이 '와그너'이고 en 언어 링크의 성이 Wagner인 인물 문서 23개(제목 검색 상위 500 안) 예: 호너스 와그너 (en: Honus Wagner) / 바버라 와그너 (en: Barbara Wagner) / 린지 와그너 (en: Lindsay Wagner) | 수: {\"바그너\": 1045, \"와그너\": 579}",
   "ja": "ワグナー",
   "ja_src": "ja.wikipedia 'アンソニー・ワグナー'(en 'Anthony Wagner' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 7개 중 5개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%AF%E3%82%B0%E3%83%8A%E3%83%BC",
   "zh": "瓦格納",
@@ -5216,7 +5260,7 @@
   "meaning_src": "https://www.behindthename.com/name/wagner",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 와그너 2건 / ja 다른 문서 표기: ワーグナー 1, ヴァグネル 1 / zh 다른 문서 표기: 華格納 2 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 와그너 2건 / ja 다른 문서 표기: ワーグナー 1, ヴァグネル 1 / zh 다른 문서 표기: 華格納 2 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '와그너'(인물 문서 23 > 표준 19; 본문 totalhits 후보 579 / 표준 1045) / 표준 '바그너' 인물 예는 독일 인물(리하르트 바그너 등), 후보 '와그너' 예는 영어권 인물(호너스 와그너, 린지 와그너) — 영어권 성으로는 후보 쪽이 쓰임"
  },
  {
   "key": "willis",
@@ -5250,8 +5294,8 @@
   "of": null,
   "sex": null,
   "rank_src": null,
-  "ko_std": null,
-  "ko_std_src": null,
+  "ko_std": "레이",
+  "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Ray (용례에서 성이 Ray인 것 2건: '레이, 존 (Ray, John) — 영국의 박물학자·생물학자(1627～1705)'; '레이, 맨 (Ray, Man) — 미국의 사진작가·화가(1890～1976)', 또 '만 레이 (Man Ray) =레이(Ray, Man)')",
   "ko_alt": [],
   "ko_alt_src": null,
   "ja": "レイ",
@@ -5263,7 +5307,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기 없음(검색 결과 196건) / zh 다른 문서 표기: 瑞 1, 雷伊 1, 瑞伊 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기 없음(검색 결과 196건) / zh 다른 문서 표기: 瑞 1, 雷伊 1, 瑞伊 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 많이 쓰는 표기 확인: 이전 수집 때 '용례에 인물 표기 없음'으로 적혔으나 다시 보니 위 2건이 있음(검색 결과 196건 중 180건까지 읽음, 마지막 쪽 하나는 읽기 실패). 한국어 위키 인물 문서도 같은 표기: '제임스 얼 레이', '조니 레이', '니컬러스 레이', '사티야지트 레이', '알도 레이' 등(en 'Ray (surname)' 문서 연결 인물의 ko 언어 링크). 본문 totalhits 10391은 이름 '레이'·스페인어 rey 등이 섞인 숫자라 근거로 쓰지 않음."
  },
  {
   "key": "watkins",
@@ -5325,8 +5369,10 @@
   "rank_src": null,
   "ko_std": "캐럴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Carroll (용례에서 '캐럴'인 것 2건, 예: '캐럴, 신시아 (Carroll, Cynthia)'; '캐럴, 루이스 (Carroll, Lewis)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "캐롤"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"캐롤\" totalhits 1556; 제목 끝 낱말이 '캐롤'이고 en 언어 링크의 성이 Carroll인 인물 문서 10개(제목 검색 상위 500 안) 예: 로이 캐롤 (en: Roy Carroll) / 린다 캐롤 (en: Linda Carroll) / 조지아 캐롤 (en: Georgia Carroll) | 수: {\"캐럴\": 2151, \"캐롤\": 1556}",
   "ja": "キャロル",
   "ja_src": "ja.wikipedia 'アダム・キャロル'(en 'Adam Carroll (racing driver)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%80%E3%83%A0%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB",
   "zh": "卡羅爾",
@@ -5341,7 +5387,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Carroll_%28surname%29&oldid=1384636925 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 17 / 후보 10, 본문 totalhits 표준 2151 / 후보 1556) / 주의: '캐롤'은 낱말 캐럴(carol) 옛 표기가 섞일 수 있음 — 판단은 인물 문서 수로 함"
  },
  {
   "key": "duncan",
@@ -5351,8 +5397,10 @@
   "rank_src": null,
   "ko_std": "덩컨",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Duncan (용례에서 '덩컨'인 것 4건, 예: '덩컨, 마이클 클라크 (Duncan, Michael Clarke)'; '덩컨, 안 (Duncan, Arne)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "던컨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"던컨\" totalhits 738; 제목 끝 낱말이 '던컨'이고 en 언어 링크의 성이 Duncan인 인물 문서 2개(제목 검색 상위 500 안) 예: 자니 던컨 (en: Johnny Duncan (actor)) / 데이비드 더글러스 던컨 (en: David Douglas Duncan) | 수: {\"덩컨\": 710, \"던컨\": 738}",
   "ja": "ダンカン",
   "ja_src": "ja.wikipedia 'リンジー・ダンカン'(en 'Lindsay Duncan' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%80%E3%83%B3%E3%82%AB%E3%83%B3",
   "zh": "鄧肯",
@@ -5367,7 +5415,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Duncan_%28surname%29&oldid=1385004087 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 됭캉 1건"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 됭캉 1건 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '던컨'가 많음(738 > 표준 710) — 인물 문서 기준은 표준이 많음(표준 17 > 후보 2)"
  },
  {
   "key": "snyder",
@@ -5403,8 +5451,10 @@
   "rank_src": null,
   "ko_std": "커닝엄",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Cunningham (용례에서 '커닝엄'인 것 3건, 예: '커닝엄, 잭 (Jack Cunningham)'; '커닝엄, 잭 (Cunningham, Jack)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "커닝햄"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"커닝햄\" totalhits 663; 제목 끝 낱말이 '커닝햄'이고 en 언어 링크의 성이 Cunningham인 인물 문서 13개(제목 검색 상위 500 안) 예: 워드 커닝햄 (en: Ward Cunningham) / 콜린 커닝햄 (en: Colin Cunningham) / 세실 커닝햄 (en: Cecil Cunningham) | 수: {\"커닝엄\": 165, \"커닝햄\": 663}",
   "ja": "カニンガム",
   "ja_src": "ja.wikipedia 'アーロン・カニンガム'(en 'Aaron Cunningham' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 8개 중 6개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%AC%E3%83%A0",
   "zh": "坎寧安",
@@ -5414,7 +5464,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 커닝햄 2건 / ja 다른 문서 표기: カニングハム 1, クロッカー 1 / zh 다른 문서 표기: 根寧咸 1, 卡寧厄姆 1, 康寧漢 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 커닝햄 2건 / ja 다른 문서 표기: カニングハム 1, クロッカー 1 / zh 다른 문서 표기: 根寧咸 1, 卡寧厄姆 1, 康寧漢 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '커닝햄'(인물 문서 13 > 표준 6; 본문 totalhits 후보 663 / 표준 165)"
  },
  {
   "key": "bradley",
@@ -5518,8 +5568,10 @@
   "rank_src": null,
   "ko_std": "로런스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Lawrence (용례에서 '로런스'인 것 5건, 예: '로런스, 제니퍼 (슈레이더) (Lawrence, Jennifer (Shrader))'; '로런스, 서 토머스 (Lawrence, Sir Thomas)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "로렌스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"로렌스\" totalhits 3038; 제목 끝 낱말이 '로렌스'이고 en 언어 링크의 성이 Lawrence인 인물 문서 10개(제목 검색 상위 500 안) 예: 제니퍼 로렌스 (en: Jennifer Lawrence) / 마야 로렌스 (en: Maya Lawrence) / 샬럿 로렌스 (en: Charlotte Lawrence) | 수: {\"로런스\": 2532, \"로렌스\": 3038}",
   "ja": "ローレンス",
   "ja_src": "ja.wikipedia 'アボット・ローレンス'(en 'Abbott Lawrence' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9C%E3%83%83%E3%83%88%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3%E3%82%B9",
   "zh": "勞倫斯",
@@ -5534,7 +5586,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Lawrence_%28surname%29&oldid=1386341059 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '로렌스'가 많음(3038 > 표준 2532) — 인물 문서 기준은 표준이 많음(표준 31 > 후보 10)"
  },
  {
   "key": "elliott",
@@ -5544,8 +5596,10 @@
   "rank_src": null,
   "ko_std": "엘리엇",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Elliott (용례에서 '엘리엇'인 것 1건, 예: '엘리엇, 이지키얼 (일라이자) (Elliott, Ezekiel (Elijah))')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "엘리어트"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"엘리어트\" totalhits 247; 제목 끝 낱말이 '엘리어트'이고 en 언어 링크의 성이 Elliott인 인물 문서 3개(제목 검색 상위 500 안) 예: 딕 엘리어트 (en: Dick Elliott) / 빌 엘리어트 (en: Wild Bill Elliott) / 패트리시아 엘리어트 (en: Patricia Elliott) | 수: {\"엘리엇\": 2831, \"엘리어트\": 247, \"엘리엇트\": 1}",
   "ja": "エリオット",
   "ja_src": "ja.wikipedia 'アリソン・エリオット'(en 'Alison Elliott' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 35개 중 35개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%83%E3%83%88",
   "zh": "埃利奧特",
@@ -5560,7 +5614,7 @@
   "meaning_src": "https://www.behindthename.com/name/elliott",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 艾略特 5, 艾利洛 3, 艾莉特 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 艾略特 5, 艾利洛 3, 艾莉特 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 20 / 후보 3, 본문 totalhits 표준 2831 / 후보 247) / '엘리엇트' 넣지 않음(본문 totalhits 1, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "sims",
@@ -5643,8 +5697,10 @@
   "rank_src": null,
   "ko_std": null,
   "ko_std_src": null,
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "필즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 인물 문서(en 'Fields (surname)' 문서에 연결된 인물의 ko 언어 링크): 'W. C. Fields'→'W. C. 필즈', 'Gracie Fields'→'그레이시 필즈', 'John Charles Fields'→'존 찰스 필즈', 'Kim Fields'→'킴 필즈', 'Josh Fields (infielder)'→'조시 필즈 (1982년)' (5개 중 5개 '필즈') https://en.wikipedia.org/wiki/Fields_(surname) / 국립국어원 용례 '필즈상 (Fields prize)'(수학자 J. C. Fields 이름의 상) https://korean.go.kr/front/search/searchAllList.do?searchQuery=Fields | 수: {\"필즈\": 746}",
   "ja": "フィールズ",
   "ja_src": "ja.wikipedia 'ブランダン・フィールズ'(en 'Brandon Fields (musician)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%80%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%82%BA",
   "zh": "菲爾茲",
@@ -5654,7 +5710,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기 없음(검색 결과 11건) / zh 다른 문서 표기: 菲爾德斯 1, 菲爾茨 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기 없음(검색 결과 11건) / zh 다른 문서 표기: 菲爾德斯 1, 菲爾茨 1 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 많이 쓰는 표기 확인: 국립국어원 용례 'Fields' 11건 중 인물 표기는 없고 '필즈상'만 있음 — 인물 이름 용례가 아니라 ko_std는 비우고 ko_alt에 둠(ko_std로 올릴지는 판단 필요). 본문 totalhits 746에는 '스트로베리 필즈' 등 낱말 fields가 섞임."
  },
  {
   "key": "schmidt",
@@ -5690,8 +5746,10 @@
   "rank_src": null,
   "ko_std": "호프먼",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Hoffman (용례에서 '호프먼'인 것 2건, 예: '호프먼, 리드 (Hoffman, Reid G.)'; '호프먼, 필립 시모어 (Philip Seymour Hoffman)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "호프만"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"호프만\" totalhits 1010; 제목 끝 낱말이 '호프만'이고 en 언어 링크의 성이 Hoffman인 인물 문서 5개(제목 검색 상위 500 안) 예: 오토 호프만 (en: Otto Hoffman) / 톰 호프만 (en: Thom Hoffman) / 제이크 호프만 (en: Jake Hoffman (actor)) | 수: {\"호프먼\": 652, \"호프만\": 1010}",
   "ja": "ホフマン",
   "ja_src": "ja.wikipedia 'アビー・ホフマン'(en 'Abbie Hoffman' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%95%E3%83%9E%E3%83%B3",
   "zh": "霍夫曼",
@@ -5706,7 +5764,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Hoffman&oldid=1384097870 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 표기 갈림: 호프먼 2건, 호프만 2건 / zh 다른 문서 표기: 荷夫曼 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 표기 갈림: 호프먼 2건, 호프만 2건 / zh 다른 문서 표기: 荷夫曼 1 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '호프만'가 많음(1010 > 표준 652) — 인물 문서 기준은 표준이 많음(표준 13 > 후보 5)"
  },
  {
   "key": "henderson",
@@ -5742,8 +5800,10 @@
   "rank_src": null,
   "ko_std": "반스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Barnes (용례에서 '반스'인 것 1건, 예: '반스, 줄리언 (패트릭) (Barnes, Julian (Patrick))')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "반즈"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"반즈\" totalhits 169; 제목 끝 낱말이 '반즈'이고 en 언어 링크의 성이 Barnes인 인물 문서 5개(제목 검색 상위 500 안) 예: 찰리 반즈 (en: Charlie Barnes (baseball)) / 버키 반즈 (en: Bucky Barnes) / 스티븐 반즈 (en: Steve Barnes (actor)) | 수: {\"반스\": 934, \"반즈\": 169}",
   "ja": "バーンズ",
   "ja_src": "ja.wikipedia 'アシュリー・バーンズ'(en 'Ashley Barnes' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B7%E3%83%A5%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%90%E3%83%BC%E3%83%B3%E3%82%BA",
   "zh": "巴恩斯",
@@ -5753,7 +5813,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 26 / 후보 5, 본문 totalhits 표준 934 / 후보 169)"
  },
  {
   "key": "simpson",
@@ -5763,8 +5823,10 @@
   "rank_src": null,
   "ko_std": "심프슨",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Simpson (용례에서 '심프슨'인 것 5건, 예: '심프슨, 오린설 제임스 (Simpson, Orenthal James)'; '심프슨, 웨브 (Simpson, Webb)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "심슨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"심슨\" totalhits 1165; 제목 끝 낱말이 '심슨'이고 en 언어 링크의 성이 Simpson인 인물 문서 23개(제목 검색 상위 500 안) 예: 제시카 심슨 (en: Jessica Simpson) / O. J. 심슨 (en: O. J. Simpson) / 리사 심슨 (en: Lisa Simpson) | 수: {\"심프슨\": 664, \"심슨\": 1165}",
   "ja": "シンプソン",
   "ja_src": "ja.wikipedia 'アルバート・ベンジャミン・シンプソン'(en 'Albert Benjamin Simpson' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 38개 중 38개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%99%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9F%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3",
   "zh": "辛普森",
@@ -5779,7 +5841,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Simpson_%28name%29&oldid=1386092595 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 森遜 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 森遜 1 | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '심슨'(인물 문서 23 > 표준 11; 본문 totalhits 후보 1165 / 표준 664) / 주의: 후보 '심슨'은 만화 '심슨 가족'이 섞인 숫자 — 판단은 인물 문서 수로 함 / 후보 '심슨' 인물 예에 만화 인물(리사 심슨 등)이 섞임 — 실제 인물도 있음(제시카 심슨, O. J. 심슨)"
  },
  {
   "key": "chapman",
@@ -5789,8 +5851,10 @@
   "rank_src": null,
   "ko_std": "채프먼",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Chapman (용례에서 '채프먼'인 것 2건, 예: '채프먼, 어롤디스 (Chapman, Aroldis)'; '채프먼, 조지 (Chapman, George)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "채프만"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"채프만\" totalhits 39; 제목 끝 낱말이 '채프만'이고 en 언어 링크의 성이 Chapman인 인물 문서 2개(제목 검색 상위 500 안) 예: 로버트 채프만 (en: Robert Chapman (pastor)) / 라네이 채프만 (en: Lanei Chapman) | 수: {\"채프먼\": 995, \"채프만\": 39}",
   "ja": "チャップマン",
   "ja_src": "ja.wikipedia 'アルヴァン・ウェントワース・チャップマン'(en 'Alvan Wentworth Chapman' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%88%E3%83%AF%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%9E%E3%83%B3",
   "zh": "查普曼",
@@ -5805,7 +5869,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Chapman_%28surname%29&oldid=1384695487 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 18 / 후보 2, 본문 totalhits 표준 995 / 후보 39)"
  },
  {
   "key": "wade",
@@ -6050,7 +6114,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Newman&oldid=1383067434 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: '뉴만' 넣지 않음(본문 totalhits 23, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "barker",
@@ -6112,8 +6176,10 @@
   "rank_src": null,
   "ko_std": "더글러스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Douglas (용례에서 '더글러스'인 것 2건, 예: '더글러스, 덴질 루엘린 (Douglas, Denzil Llewellyn)'; '더글러스, 맬컴 (Douglas, Malcolm)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "더글라스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"더글라스\" totalhits 996; 제목 끝 낱말이 '더글라스'이고 en 언어 링크의 성이 Douglas인 인물 문서 5개(제목 검색 상위 500 안) 예: 데이비드 더글라스 (en: David Douglas (botanist)) / 덴질 더글라스 (en: Denzil Douglas) / 포트 더글라스 (en: Fort Douglas (disambiguation)) | 수: {\"더글러스\": 3903, \"더글라스\": 996}",
   "ja": "ダグラス",
   "ja_src": "ja.wikipedia 'アルフレッド・ダグラス'(en 'Lord Alfred Douglas' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%80%E3%82%B0%E3%83%A9%E3%82%B9",
   "zh": "道格拉斯",
@@ -6128,7 +6194,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Douglas_%28surname%29&oldid=1381020560 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 杜格拉斯 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 杜格拉斯 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 40 / 후보 5, 본문 totalhits 표준 3903 / 후보 996)"
  },
  {
   "key": "rhodes",
@@ -6190,8 +6256,10 @@
   "rank_src": null,
   "ko_std": "서턴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Sutton (용례에서 '서턴'인 것 2건, 예: '서턴, 핼 (Sutton, Hal)'; '서턴, 월터 스탠버러 (Sutton, Walter Stanborough)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "서튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"서튼\" totalhits 361; 제목 끝 낱말이 '서튼'이고 en 언어 링크의 성이 Sutton인 인물 문서 2개(제목 검색 상위 500 안) 예: 래리 서튼 (en: Larry Sutton) / 케이 서튼 (en: Kay Sutton) | 수: {\"서턴\": 192, \"서튼\": 361}",
   "ja": "サットン",
   "ja_src": "ja.wikipedia 'ロバート・サットン (外交官)'(en 'Robert Sutton (diplomat)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B5%E3%83%83%E3%83%88%E3%83%B3_%28%E5%A4%96%E4%BA%A4%E5%AE%98%29",
   "zh": "薩頓",
@@ -6206,7 +6274,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Sutton_%28surname%29&oldid=1382102914 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 灑吞 1, 薩通 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 灑吞 1, 薩通 1 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '서튼'가 많음(361 > 표준 192) — 인물 문서 기준은 표준이 많음(표준 4 > 후보 2)"
  },
  {
   "key": "jennings",
@@ -6315,8 +6383,10 @@
   "rank_src": null,
   "ko_std": "모런",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Moran (용례에서 '모런'인 것 2건, 예: '모런, 매슈 (Moran, Matthew)'; '모런, 브렌던 (Moran, Brendan)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "모란"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"모란\" totalhits 602; 제목 끝 낱말이 '모란'이고 en 언어 링크의 성이 Moran인 인물 문서 8개(제목 검색 상위 500 안) 예: 롭 모란 (en: Rob Moran) / 돌로레스 모란 (en: Dolores Moran) / 폴리 모란 (en: Polly Moran) | 수: {\"모런\": 113, \"모란\": 602}",
   "ja": "モラン",
   "ja_src": "ja.wikipedia 'ウィリアム・モラン'(en 'Bill Moran (disambiguation)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 6개 중 5개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%83%BB%E3%83%A2%E3%83%A9%E3%83%B3",
   "zh": "莫蘭",
@@ -6331,7 +6401,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Moran_%28surname%29&oldid=1387318977 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: モーラン 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: モーラン 1 | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '모란'(인물 문서 8 > 표준 5; 본문 totalhits 후보 602 / 표준 113) / 주의: 후보 '모란'은 꽃 이름이 섞인 숫자 — 판단은 인물 문서 수로 함"
  },
  {
   "key": "hanson",
@@ -6357,7 +6427,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Hanson_%28surname%29&oldid=1385886921 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: '한슨' 넣지 않음(본문 totalhits 35, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "byrd",
@@ -6477,7 +6547,7 @@
   "meaning_src": null,
   "c": null,
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 독립 검토 반영: 람베르트→램버트"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻: en.wikipedia 문서 첫머리에 어원 없음, Behind the Name 본 사이트에 성 뜻 설명 없음(또는 이름 뜻만 있음) | 2026-11-28 독립 검토 반영: 람베르트→램버트 | 2026-11-28 많이 쓰는 표기 확인: 파일 간 표준 불일치: more-surnames-2026-11-28.json은 '람베르트', surnames.json은 '램버트'. 한국어 위키 인물 문서(en 성 Lambert 확인)는 '램버트' 13개 / '람베르트' 1개, 본문 totalhits 램버트 551 / 람베르트 143. 국립국어원 용례 재확인 필요(이번엔 안 함). '람버트' 넣지 않음(인물 문서 0개)"
  },
  {
   "key": "norris",
@@ -6513,8 +6583,10 @@
   "rank_src": null,
   "ko_std": "체임버스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Chambers (용례에서 '체임버스'인 것 3건, 예: '체임버스, 레이 (Chambers, Ray)'; '체임버스, 조지 (마이클) (Chambers, George (Michael))')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "챔버스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"챔버스\" totalhits 223; 제목 끝 낱말이 '챔버스'이고 en 언어 링크의 성이 Chambers인 인물 문서 7개(제목 검색 상위 500 안) 예: 휘튼 챔버스 (en: Wheaton Chambers) / 셜리 챔버스 (en: Shirley Chambers) / 도로시 더글라스 램버트 챔버스 (en: Dorothea Lambert Chambers) | 수: {\"체임버스\": 549, \"챔버스\": 223}",
   "ja": "チェンバース",
   "ja_src": "ja.wikipedia 'ロバート・チェンバース'(en 'Robert Chambers (publisher, born 1802)' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 31개 중 22개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%83%81%E3%82%A7%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B9",
   "zh": "錢伯斯",
@@ -6529,7 +6601,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Chambers_%28surname%29&oldid=1380945814 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: チェンバーズ 7, チェインバーズ 1, チャンバー 1 / zh 다른 문서 표기: 道格拉斯 1, 錢柏斯 1, 張伯斯 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: チェンバーズ 7, チェインバーズ 1, チャンバー 1 / zh 다른 문서 표기: 道格拉斯 1, 錢柏斯 1, 張伯斯 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 15 / 후보 7, 본문 totalhits 표준 549 / 후보 223)"
  },
  {
   "key": "bowman",
@@ -6539,8 +6611,10 @@
   "rank_src": null,
   "ko_std": "보먼",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Bowman (용례에서 '보먼'인 것 4건, 예: '보먼, 저말 (앤서니) (Bowman, Jamaal (Anthony))'; '보먼, 미셸 (Bowman, Michelle W.)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "보우먼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"보우먼\" totalhits 59; 제목 끝 낱말이 '보우먼'이고 en 언어 링크의 성이 Bowman인 인물 문서 1개(제목 검색 상위 500 안) 예: 맷 보우먼 (en: Matt Bowman) | 수: {\"보먼\": 441, \"보우먼\": 59, \"보우만\": 16}",
   "ja": "ボウマン",
   "ja_src": "ja.wikipedia 'スコッティ・ボウマン'(en 'Scotty Bowman' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 8개 중 7개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9C%E3%82%A6%E3%83%9E%E3%83%B3",
   "zh": "鮑曼",
@@ -6555,7 +6629,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Bowman_%28surname%29&oldid=1379820403 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: ボーマン 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: ボーマン 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 9 / 후보 1, 본문 totalhits 표준 441 / 후보 59) / '보우만' 넣지 않음(본문 totalhits 16, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "fuller",
@@ -6617,8 +6691,10 @@
   "rank_src": null,
   "ko_std": "하먼",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Harmon (용례에서 '하먼'인 것 1건, 예: '하먼, 부치 (Harmon, Butch)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "하몬"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"하몬\" totalhits 155; 제목 끝 낱말이 '하몬'이고 en 언어 링크의 성이 Harmon인 인물 문서 2개(제목 검색 상위 500 안) 예: 팻 하몬 (en: Pat Harmon) / 존 하몬 (en: John Harmon (actor)) | 수: {\"하먼\": 477, \"하몬\": 155}",
   "ja": "ハーモン",
   "ja_src": "ja.wikipedia 'アンジー・ハーモン'(en 'Angie Harmon' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B8%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%B3",
   "zh": "哈蒙",
@@ -6633,7 +6709,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Harmon_%28name%29&oldid=1370162910 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 5 / 후보 2, 본문 totalhits 표준 477 / 후보 155)"
  },
  {
   "key": "marsh",
@@ -6669,8 +6745,10 @@
   "rank_src": null,
   "ko_std": "월턴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Walton (용례에서 '월턴'인 것 5건, 예: '월턴, 아이작 (Walton, Izaak)'; '월턴, 어니스트 토머스 신턴 (Walton, Ernest Thomas Sinton)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "월튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"월튼\" totalhits 234; 제목 끝 낱말이 '월튼'이고 en 언어 링크의 성이 Walton인 인물 문서 5개(제목 검색 상위 500 안) 예: 시더 월튼 (en: Cedar Walton) / 윌리엄 월튼 (en: William Walton) / 루크 월튼 (en: Luke Walton) | 수: {\"월턴\": 355, \"월튼\": 234}",
   "ja": "ウォルトン",
   "ja_src": "ja.wikipedia 'アリス・ウォルトン'(en 'Alice Walton' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3",
   "zh": "沃爾頓",
@@ -6685,7 +6763,7 @@
   "meaning_src": "https://www.behindthename.com/name/walton",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 沃頓 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 沃頓 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 14 / 후보 5, 본문 totalhits 표준 355 / 후보 234)"
  },
  {
   "key": "howell",
@@ -6695,8 +6773,10 @@
   "rank_src": null,
   "ko_std": "하월",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Howell (용례에서 '하월'인 것 1건, 예: '하월 (Howell)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "하웰"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"하웰\" totalhits 168; 제목 끝 낱말이 '하웰'이고 en 언어 링크의 성이 Howell인 인물 문서 1개(제목 검색 상위 500 안) 예: 로티스 하웰 (en: Lottice Howell) | 수: {\"하월\": 138, \"하웰\": 168}",
   "ja": "ハウエル",
   "ja_src": "ja.wikipedia 'アーリーン・ハウエル'(en 'Arlene Howell' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 3개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%8F%E3%82%A6%E3%82%A8%E3%83%AB",
   "zh": "豪威爾",
@@ -6711,7 +6791,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Howell_%28name%29&oldid=1384634471 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 / zh 다른 문서 표기: 豪厄爾 4, 豪爾 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 / zh 다른 문서 표기: 豪厄爾 4, 豪爾 1 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '하웰'가 많음(168 > 표준 138) — 인물 문서 기준은 표준이 많음(표준 6 > 후보 1)"
  },
  {
   "key": "hardy",
@@ -6747,8 +6827,11 @@
   "rank_src": null,
   "ko_std": "개릿",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Garrett (용례에서 '개릿'인 것 3건, 예: '개릿, 피터 (로버트) (Garrett, Peter (Robert))'; '개릿, (어니스트) 스콧 (Garrett, (Ernest) Scott)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "가렛",
+   "개럿"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"가렛\" totalhits 228; 제목 끝 낱말이 '가렛'이고 en 언어 링크의 성이 Garrett인 인물 문서 4개(제목 검색 상위 500 안) 예: 데이비드 가렛 (en: David Garrett) / 수지 가렛 (en: Susie Garrett) / 조이 가렛 (en: Joy Garrett); 한국어 위키백과 본문 검색 \"개럿\" totalhits 226; 제목 끝 낱말이 '개럿'이고 en 언어 링크의 성이 Garrett인 인물 문서 2개(제목 검색 상위 500 안) 예: 케빈 개럿 (en: Kevin Garrett (musician)) / 마일스 개럿 (en: Myles Garrett) | 수: {\"개릿\": 519, \"가렛\": 228, \"개럿\": 226, \"개렛\": 20}",
   "ja": "ギャレット",
   "ja_src": "ja.wikipedia 'エイドリアン・ギャレット'(en 'Adrian Garrett' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 5개 중 5개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%89%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%AC%E3%83%83%E3%83%88",
   "zh": "加勒特",
@@ -6763,7 +6846,7 @@
   "meaning_src": "https://www.behindthename.com/name/garrett",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 가헤트 1건 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 가헤트 1건 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 14 / 후보 4, 본문 totalhits 표준 519 / 후보 228) / 표준이 많음(인물 문서 표준 14 / 후보 2, 본문 totalhits 표준 519 / 후보 226) / '개렛' 넣지 않음(본문 totalhits 20, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "frazier",
@@ -6862,8 +6945,10 @@
   "rank_src": null,
   "ko_std": "버턴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Burton (용례에서 '버턴'인 것 5건, 예: '버턴, 로버트 (Burton, Robert)'; '버턴, 리처드 (프랜시스) (Burton, Sir Richard (Francis))')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "버튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"버튼\" totalhits 4017; 제목 끝 낱말이 '버튼'이고 en 언어 링크의 성이 Burton인 인물 문서 10개(제목 검색 상위 500 안) 예: 팀 버튼 (en: Tim Burton) / 클리프 버튼 (en: Cliff Burton) / 마이크 버튼 (en: Mike Burton (swimmer)) | 수: {\"버턴\": 459, \"버튼\": 4017}",
   "ja": "バートン",
   "ja_src": "ja.wikipedia 'クリフ・バートン'(en 'Cliff Burton' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 3개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%95%E3%83%BB%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3",
   "zh": "伯頓",
@@ -6878,7 +6963,7 @@
   "meaning_src": "https://www.behindthename.com/name/burton",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '버튼'가 많음(4017 > 표준 459) — 인물 문서 기준은 표준이 많음(표준 15 > 후보 10) / 주의: 후보 '버튼'은 낱말 버튼(button)이 섞인 숫자 — 판단은 인물 문서 수로 함"
  },
  {
   "key": "curtis",
@@ -6977,7 +7062,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Fletcher_%28surname%29&oldid=1384759744 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 費查 1, 福萊柴爾 1, 馥萊雪 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 費查 1, 福萊柴爾 1, 馥萊雪 1 | 2026-11-28 많이 쓰는 표기 확인: '플레쳐' 넣지 않음(본문 totalhits 39, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "atkinson",
@@ -7003,7 +7088,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Atkinson_%28surname%29&oldid=1384628911 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 | 2026-11-28 많이 쓰는 표기 확인: '애트킨슨' 넣지 않음(본문 totalhits 5, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "cartwright",
@@ -7065,8 +7150,10 @@
   "rank_src": null,
   "ko_std": "배럿",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Barrett (용례에서 '배럿'인 것 2건, 예: '배럿, 에이미 코니 (Barrett, Amy Coney)'; '배럿, 저신다 (Barrett, Jacinda)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "바렛"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"바렛\" totalhits 266; 제목 끝 낱말이 '바렛'이고 en 언어 링크의 성이 Barrett인 인물 문서 5개(제목 검색 상위 500 안) 예: 에디스 바렛 (en: Edith Barrett) / 브렌든 라이언 바렛 (en: Brendon Ryan Barrett) / 네사 바렛 (en: Nessa Barrett) | 수: {\"배럿\": 860, \"바렛\": 266, \"배렛\": 14}",
   "ja": "バレット",
   "ja_src": "ja.wikipedia 'エイミー・コニー・バレット'(en 'Amy Coney Barrett' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%90%E3%83%AC%E3%83%83%E3%83%88",
   "zh": "巴雷特",
@@ -7081,7 +7168,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Barrett_%28surname%29&oldid=1384375856 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 巴瑞特 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 巴瑞特 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 10 / 후보 5, 본문 totalhits 표준 860 / 후보 266) / '배렛' 넣지 않음(본문 totalhits 14, en 성이 맞는 인물 문서 1개)"
  },
  {
   "key": "page",
@@ -7154,7 +7241,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Sherman_%28name%29&oldid=1375084498 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 謝爾曼 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 謝爾曼 1 | 2026-11-28 많이 쓰는 표기 확인: '셔만' 넣지 않음(본문 totalhits 20, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "carlson",
@@ -7190,8 +7277,10 @@
   "rank_src": null,
   "ko_std": "제이컵스",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Jacobs (용례에서 '제이컵스'인 것 2건, 예: '제이컵스 (2세), (러몬트) 마셀 ((Lamont) Marcell Jacobs (Jr.))'; '제이컵스, 폴 (Jacobs, Paul E.)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "제이콥스"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"제이콥스\" totalhits 560; 제목 끝 낱말이 '제이콥스'이고 en 언어 링크의 성이 Jacobs인 인물 문서 7개(제목 검색 상위 500 안) 예: 마크 제이콥스 (en: Marc Jacobs) / 제인 제이콥스 (en: Jane Jacobs) / 러스티 제이콥스 (en: Rusty Jacobs) | 수: {\"제이컵스\": 243, \"제이콥스\": 560}",
   "ja": "ジェイコブス",
   "ja_src": "ja.wikipedia 'アナンダ・ジェイコブス'(en 'Ananda Jacobs' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 3개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%B3%E3%83%80%E3%83%BB%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B3%E3%83%96%E3%82%B9",
   "zh": "雅各布斯",
@@ -7206,7 +7295,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Jacobs_%28surname%29&oldid=1384636365 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 야콥스 1건, 제이콥스 1건 / ja 다른 문서 표기: ジェイコブズ 1 / zh 다른 문서 표기: 雅各布 2, 賈各布斯 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례 다른 표기: 야콥스 1건, 제이콥스 1건 / ja 다른 문서 표기: ジェイコブズ 1 / zh 다른 문서 표기: 雅各布 2, 賈各布斯 1 | 2026-11-28 많이 쓰는 표기 확인: 본문 totalhits는 후보 '제이콥스'가 많음(560 > 표준 243) — 인물 문서 기준은 표준이 많음(표준 12 > 후보 7)"
  },
  {
   "key": "glover",
@@ -7258,7 +7347,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Webster_%28surname%29&oldid=1384129475 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 韋斯達 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 韋斯達 1 | 2026-11-28 많이 쓰는 표기 확인: 후보를 따로 만들지 않음(표준 '웹스터'만 셈, 다른 흔한 표기 후보 없음)"
  },
  {
   "key": "thornton",
@@ -7268,8 +7357,10 @@
   "rank_src": null,
   "ko_std": "손턴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Thornton (용례에서 '손턴'인 것 1건, 예: '손턴 (Thornton)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "손튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"손튼\" totalhits 119; 제목 끝 낱말이 '손튼'이고 en 언어 링크의 성이 Thornton인 인물 문서 2개(제목 검색 상위 500 안) 예: 빅 마마 손튼 (en: Big Mama Thornton) / 존 손튼 (en: John Thornton) | 수: {\"손턴\": 298, \"손튼\": 119}",
   "ja": "ソーントン",
   "ja_src": "ja.wikipedia 'ビリー・ボブ・ソーントン'(en 'Billy Bob Thornton' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 22개 중 21개가 이 표기) https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9C%E3%83%96%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%B3%E3%83%88%E3%83%B3",
   "zh": "桑頓",
@@ -7284,7 +7375,7 @@
   "meaning_src": "https://www.behindthename.com/name/thornton",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 / ja 다른 문서 표기: ソントン 1 / zh 다른 문서 표기: 索恩頓 2, 松頓 1, 索頓 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / 국립국어원 용례에 이 성을 가진 인물 표기는 없어 같은 철자의 단독 표기(지명·낱말 등)를 씀 / ja 다른 문서 표기: ソントン 1 / zh 다른 문서 표기: 索恩頓 2, 松頓 1, 索頓 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 10 / 후보 2, 본문 totalhits 표준 298 / 후보 119)"
  },
  {
   "key": "benson",
@@ -7409,8 +7500,10 @@
   "rank_src": null,
   "ko_std": "만",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Mann (용례에서 '만'인 것 3건, 예: '만, 토마스 (Thomas Mann)'; '만, 하인리히 (Mann, Heinrich)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "맨"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"맨\" totalhits 10399; 제목 끝 낱말이 '맨'이고 en 언어 링크의 성이 Mann인 인물 문서 18개(제목 검색 상위 500 안) 예: 델버트 맨 (en: Delbert Mann) / 마이클 맨 (en: Michael Mann (disambiguation)) / 레슬리 맨 (en: Leslie Mann) | 수: {\"만\": 54068, \"맨\": 10399}",
   "ja": "マン",
   "ja_src": "ja.wikipedia 'アーティ・マン'(en 'Aarti Mann' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 6개 중 6개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9E%E3%83%B3",
   "zh": "曼",
@@ -7425,7 +7518,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Mann_%28surname%29&oldid=1381080402 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 曼恩 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 曼恩 1 | 2026-11-28 많이 쓰는 표기 확인: 많이 쓰는 쪽: 후보 '맨'(인물 문서 18 > 표준 14; 본문 totalhits 후보 10399 / 표준 54068) / 주의: '만'·'맨'은 낱말(灣·man 등)이 섞인 숫자 — 판단은 인물 문서 수로 함 / 표준 '만' 예는 독일 인물(토마스 만, 하인리히 만), 후보 '맨' 예는 영어권(델버트 맨, 레슬리 맨). '마이클 만'/'마이클 맨'은 같은 감독을 두 문서가 다르게 씀"
  },
  {
   "key": "wolfe",
@@ -7472,7 +7565,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Saunders&oldid=1368727387 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: ソーンダーズ 2, サンダース 2, ソンダース 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / ja 다른 문서 표기: ソーンダーズ 2, サンダース 2, ソンダース 1 | 2026-11-28 많이 쓰는 표기 확인: '선더스' 넣지 않음(본문 totalhits 44, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "bush",
@@ -7524,7 +7617,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Hammond_%28surname%29&oldid=1367381739 (문서 첫머리·정보상자 어원)",
   "c": "m",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 漢蒙 1, 漢蒙德 1, 韓蒙德 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 漢蒙 1, 漢蒙德 1, 韓蒙德 1 | 2026-11-28 많이 쓰는 표기 확인: '해몬드' 넣지 않음(본문 totalhits 42, en 성이 맞는 인물 문서 0개)"
  },
  {
   "key": "yates",
@@ -7581,8 +7674,10 @@
   "rank_src": null,
   "ko_std": "모턴",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Morton (용례에서 '모턴'인 것 2건, 예: '모턴, 윌리엄 토머스 그린 (Morton, William Thomas Green)'; '모턴, 젤리 롤 (Morton, Jelly Roll)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "모튼"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"모튼\" totalhits 242; 제목 끝 낱말이 '모튼'이고 en 언어 링크의 성이 Morton인 인물 문서 2개(제목 검색 상위 500 안) 예: 게리 모튼 (en: Gary Morton) / 알렉산더 모튼 (en: Alexander Morton) | 수: {\"모턴\": 643, \"모튼\": 242}",
   "ja": "モートン",
   "ja_src": "ja.wikipedia 'アリシア・モートン'(en 'Alicia Morton' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 4개 중 4개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%88%E3%83%B3",
   "zh": "莫頓",
@@ -7597,7 +7692,7 @@
   "meaning_src": "https://www.behindthename.com/name/morton",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 莫爾頓 1, 摩頓 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음)"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 莫爾頓 1, 摩頓 1 / 뜻은 Behind the Name 본 사이트 이름 페이지의 성 유래 설명에서 뗌(surnames.behindthename.com은 막혀 있어 열지 않음) | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 14 / 후보 2, 본문 totalhits 표준 643 / 후보 242)"
  },
  {
   "key": "higgins",
@@ -7732,8 +7827,10 @@
   "rank_src": null,
   "ko_std": "클라크",
   "ko_std_src": "https://korean.go.kr/front/search/searchAllList.do?searchQuery=Clarke (용례에서 '클라크'인 것 7건, 예: '클라크, 존 (John Clarke)'; '클라크, 찰스 (Charles Clarke)')",
-  "ko_alt": [],
-  "ko_alt_src": null,
+  "ko_alt": [
+   "클락"
+  ],
+  "ko_alt_src": "한국어 위키백과 본문 검색 \"클락\" totalhits 734; 제목 끝 낱말이 '클락'이고 en 언어 링크의 성이 Clarke인 인물 문서 4개(제목 검색 상위 500 안) 예: 안젤라 클락 (en: Angela Clarke (American actress)) / 타냐 클락 (en: Tanya Clarke) / 레니 클락 (en: Lenny Clarke) | 수: {\"클라크\": 4648, \"클락\": 734}",
   "ja": "クラーク",
   "ja_src": "ja.wikipedia 'アラン・クラーク (映画監督)'(en 'Alan Clarke' 문서의 언어 링크, 성 부분; 같은 성 인물 문서 2개 중 2개가 이 표기) https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF_%28%E6%98%A0%E7%94%BB%E7%9B%A3%E7%9D%A3%29",
   "zh": "克拉克",
@@ -7748,7 +7845,7 @@
   "meaning_src": "https://en.wikipedia.org/w/index.php?title=Clarke&oldid=1381292434 (문서 첫머리·정보상자 어원)",
   "c": "h",
   "nicks": null,
-  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 奇勒 1"
+  "note": "순위 근거 못 찾음: 미국 2010 인구조사 101위 이하 순위표는 www2.census.gov 파일에만 있어(허용 목록 www.census.gov 밖) 열지 않음, en.wikipedia 문서에도 순위 문장 없음 / zh 다른 문서 표기: 奇勒 1 | 2026-11-28 많이 쓰는 표기 확인: 표준이 많음(인물 문서 표준 41 / 후보 4, 본문 totalhits 표준 4648 / 후보 734)"
  },
  {
   "key": "lloyd",
