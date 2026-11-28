@@ -214,6 +214,9 @@
   var CON = [['sch', 'ㅅ', 'ㅟ'], ['tch', 'ㅊ'], ['sh', 'ㅅ', 'ㅟ'], ['ch', 'ㅊ'], ['th', 'ㅅ'], ['ph', 'ㅍ'], ['ck', 'ㅋ'], ['qu', 'ㅋ', 'ㅜ'], ['b', 'ㅂ'], ['c', 'ㅋ'], ['d', 'ㄷ'], ['f', 'ㅍ'], ['g', 'ㄱ'], ['h', 'ㅎ'], ['j', 'ㅈ'], ['k', 'ㅋ'], ['l', 'ㄹ'], ['m', 'ㅁ'], ['n', 'ㄴ'], ['p', 'ㅍ'], ['q', 'ㅋ'], ['r', 'ㄹ'], ['s', 'ㅅ'], ['t', 'ㅌ'], ['v', 'ㅂ'], ['w', 'ㅇ', 'ㅜ'], ['x', 'ㅋ'], ['z', 'ㅈ']];
   var GLIDE = { 'ㅜ': { 'ㅏ': 'ㅘ', 'ㅔ': 'ㅞ', 'ㅣ': 'ㅟ', 'ㅗ': 'ㅝ', 'ㅓ': 'ㅝ' }, 'ㅣ': { 'ㅏ': 'ㅑ', 'ㅔ': 'ㅖ', 'ㅗ': 'ㅛ', 'ㅜ': 'ㅠ', 'ㅓ': 'ㅕ' }, 'ㅟ': { 'ㅏ': 'ㅑ', 'ㅔ': 'ㅖ', 'ㅗ': 'ㅛ', 'ㅜ': 'ㅠ', 'ㅓ': 'ㅕ' } };
   function roughWord(w) {
+    // Mc/Mac surnames are read 맥 (McGregor 맥그레거, as 맥도널드·맥아더 in the official examples); 2026-11-28
+    // only Mc + 3 letters or more: Mac- also starts ordinary names (Mack, Macy, Machado)
+    if (/^mc.{3,}/.test(w)) return '맥' + roughWord(w.slice(2));
     w = w.replace(/^wr/, 'r').replace(/^kn/, 'n').replace(/^ps/, 's').replace(/(.)\1/g, '$1').replace(/([^aeiouy])e$/, '$1').replace(/([^aeiou])es$/, '$1s');
     var toks = [], i = 0;
     while (i < w.length) {
