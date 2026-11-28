@@ -2605,7 +2605,7 @@
  {
   "key": "lexie",
   "type": "nick",
-  "of": "alexandra",
+  "of": null,
   "sex": "f",
   "rank_src": "BtN 'Alexis' 문서 Diminutives 목록(https://www.behindthename.com/name/alexis) — 흔한 것 선택은 Claude 판단",
   "ko_std": null,
@@ -2628,7 +2628,7 @@
   "meaning_src": "https://www.behindthename.com/name/lexie",
   "c": null,
   "nicks": [],
-  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: シカゴ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lexie: Diminutive of Alexandra or Alexis. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Lexie Lou'는 'レキシールー'(합친 표기)뿐이라 비움. zh 예는 드라마 인물 1건(Lexie Grey, 약함). 'Lexie Liu'는 zh에서 본명 '劉柏辛' | 2026-11-28 독립 검토 반영: BtN \"Diminutive of Alexandra or Alexis\" → 먼저 적힌 Alexandra"
+  "note": "국립국어원 용례에서 이 이름(단독 또는 인물 이름 부분) 못 찾음: 검색 1건 중 1건 확인 / ja 표기 근거 인물 문서 1건뿐 / ja 다른 표기: シカゴ 1건 / zh.wikipedia 검색에서 이 이름 인물 문서 표기 확인 못 함(자동 추출 결과가 무관한 인물라 버림) / BtN lexie: Diminutive of Alexandra or Alexis. | 2026-11-28 보완: ko_std: 국립국어원 용례에 없음. ja: 'Lexie Lou'는 'レキシールー'(합친 표기)뿐이라 비움. zh 예는 드라마 인물 1건(Lexie Grey, 약함). 'Lexie Liu'는 zh에서 본명 '劉柏辛' | 2026-11-28 독립 검토 반영: BtN \"Diminutive of Alexandra or Alexis\" → 먼저 적힌 Alexandra | 독립 검토 2026-11-28: BtN \"Diminutive of Alexandra or Alexis\" — 본 이름 둘 → 연결 없음(steph·ted 규칙)"
  },
  {
   "key": "angie",
