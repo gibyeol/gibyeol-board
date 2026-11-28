@@ -29,7 +29,14 @@ export async function onRequestPost({ request, env }) {
   if (!env.TURNSTILE_SECRET || !env.FEEDBACK_GITHUB_TOKEN) return reply(503, { ok: false, error: "not_configured" });
   const host = new URL(request.url).hostname;
   const origin = request.headers.get("origin");
-  if (origin && new URL(origin).hostname !== host) return reply(403, { ok: false, error: "origin" });
+  let originHost = "";
+  try {
+    originHost = origin ? new URL(origin).hostname : host;
+  } catch (e) {
+    originHost = "";
+  }
+  if (originHost !== host) return reply(403, { ok: false, error: "origin" });
+  if (Number(request.headers.get("content-length") || 0) > 16384) return reply(413, { ok: false, error: "too_large" });
 
   let d;
   try {
@@ -37,6 +44,7 @@ export async function onRequestPost({ request, env }) {
   } catch (e) {
     return reply(400, { ok: false, error: "bad_json" });
   }
+  if (!d || typeof d !== "object") return reply(400, { ok: false, error: "bad_json" });
   const kind = String(d.kind || "");
   const lang = String(d.lang || "");
   const page = String(d.page || "");
@@ -64,8 +72,8 @@ export async function onRequestPost({ request, env }) {
   const id = stamp.replace(/[:.]/g, "-") + "-" + crypto.randomUUID().slice(0, 8);
   const record = { received_at: stamp, page, lang, kind, body, status: "new" };
   const path = `feedback/${stamp.slice(0, 10)}/${id}.json`;
-  try {
-    const r = await fetch(`https://api.github.com/repos/${REPO}/contents/${path}`, {
+  const put = () =>
+    fetch(`https://api.github.com/repos/${REPO}/contents/${path}`, {
       method: "PUT",
       headers: {
         authorization: `Bearer ${env.FEEDBACK_GITHUB_TOKEN}`,
@@ -75,7 +83,14 @@ export async function onRequestPost({ request, env }) {
       },
       body: JSON.stringify({ message: `feedback: ${kind} ${page}`, content: base64(JSON.stringify(record, null, 2) + "\n") }),
     });
-    if (!r.ok) return reply(502, { ok: false, error: "store", status: r.status });
+  try {
+    let r = await put();
+    // two files written at the same moment can conflict (GitHub docs: run these requests serially): retry once
+    if (r.status === 409) {
+      await new Promise((ok) => setTimeout(ok, 800));
+      r = await put();
+    }
+    if (!r.ok) return reply(502, { ok: false, error: "store" });
   } catch (e) {
     return reply(502, { ok: false, error: "store_unreachable" });
   }

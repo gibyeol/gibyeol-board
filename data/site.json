@@ -111,7 +111,8 @@
       "fb_sending": "Sending…",
       "fb_ok": "Got it, thank you. We will look into it.",
       "fb_fail": "Sorry, it didn't send. Please try again in a moment.",
-      "fb_check": "Please finish the check above the Send button first."
+      "fb_check": "Please finish the check above the Send button first.",
+      "fb_mail": "Send it by email instead"
     },
     "ja": {
       "tagline": "韓国旅行を、もっと計画しやすく。旅・買い物・文化の情報を、確認してからお届けします。",
@@ -201,7 +202,8 @@
       "fb_sending": "送信中…",
       "fb_ok": "受け付けました。ありがとうございます。確認します。",
       "fb_fail": "送信できませんでした。少し時間をおいて、もう一度お試しください。",
-      "fb_check": "送信ボタンの上の確認を先に完了してください。"
+      "fb_check": "送信ボタンの上の確認を先に完了してください。",
+      "fb_mail": "メールで送る"
     },
     "zh-tw": {
       "tagline": "讓韓國旅行更好規劃。旅遊、購物與文化資訊,確認過才寫給你。",
@@ -291,7 +293,8 @@
       "fb_sending": "送出中…",
       "fb_ok": "已收到,謝謝你!我們會確認。",
       "fb_fail": "沒有送出成功。請稍後再試一次。",
-      "fb_check": "請先完成「送出」按鈕上方的驗證。"
+      "fb_check": "請先完成「送出」按鈕上方的驗證。",
+      "fb_mail": "改用電子郵件寄送"
     },
     "ko": {
       "tagline": "한국 여행을 더 쉽게. 확인한 정보로 여행·쇼핑·문화를 안내해요.",
@@ -381,7 +384,8 @@
       "fb_sending": "보내는 중…",
       "fb_ok": "받았어요. 고마워요. 확인해 볼게요.",
       "fb_fail": "보내지 못했어요. 잠시 뒤 다시 눌러 주세요.",
-      "fb_check": "보내기 버튼 위의 확인을 먼저 마쳐 주세요."
+      "fb_check": "보내기 버튼 위의 확인을 먼저 마쳐 주세요.",
+      "fb_mail": "이메일로 보내기"
     }
   },
   "head_meta": [
